@@ -15,45 +15,40 @@
     li{margin:6px 0;line-height:1.3}
     a{text-decoration:underline;color:#000}
     a:hover{text-decoration:none}
-    .source{opacity:.6}
+    .source{display:none}
     footer{margin:24px 0 8px;font-size:.85rem;opacity:.7;text-align:center}
   </style>
 </head>
 <body>
   <header id="headline"><h1>ANTICEO</h1><hr></header>
   <main id="news-columns"></main>
-  <footer>Updated automatically by ANTICEO Orange Pi</footer>
+  <footer>Updated automatically by CLASSWARFARE servers</footer>
 
   <script>
-    const DATA_URL = "./anticeo-news.json";
-    const big = s => s ? s.toUpperCase() : s;
+    // Static text replacement
+    const data = {
+      headline: { title: "ANTICEO", url: "https://anticeo.com" },
+      items: [
+        { title: "Chuds vs", url: "#", source: "" },
+        { title: "Shitlibs", url: "#", source: "" }
+      ]
+    };
 
-    fetch(DATA_URL + "?t=" + Date.now())
-      .then(r => r.json())
-      .then(data => {
-        if (data.headline?.title && data.headline?.url) {
-          document.getElementById("headline").innerHTML =
-            `<h1><a href="${data.headline.url}" rel="noopener">${big(data.headline.title)}</a></h1><hr>`;
-        }
-        const cols = document.getElementById("news-columns");
-        const colCount = getComputedStyle(cols).gridTemplateColumns.split(" ").length;
-        const perCol = Math.ceil(data.items.length / colCount);
-        for (let i = 0; i < data.items.length; i += perCol) {
-          const group = data.items.slice(i, i + perCol);
-          const ul = document.createElement("ul");
-          group.forEach(it => {
-            const li = document.createElement("li");
-            li.innerHTML = `<a href="${it.url}" rel="noopener">${it.title}</a>` +
-              (it.source ? ` <span class="source">(${it.source})</span>` : "");
-            ul.appendChild(li);
-          });
-          cols.appendChild(ul);
-        }
-      })
-      .catch(e => {
-        document.getElementById("news-columns").innerHTML = "<p>Feed unavailable.</p>";
-        console.error(e);
-      });
+    const toCaps = s => (s || "").toUpperCase();
+
+    // HEADLINE
+    document.getElementById("headline").innerHTML =
+      `<h1><a href="${data.headline.url}" rel="noopener">${toCaps(data.headline.title)}</a></h1><hr>`;
+
+    // ITEMS
+    const cols = document.getElementById("news-columns");
+    const ul = document.createElement("ul");
+    data.items.forEach(it => {
+      const li = document.createElement("li");
+      li.innerHTML = `<a href="${it.url}" rel="noopener">${toCaps(it.title)}</a>`;
+      ul.appendChild(li);
+    });
+    cols.appendChild(ul);
   </script>
 </body>
 </html>
