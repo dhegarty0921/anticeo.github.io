@@ -1,4 +1,4 @@
-<!doctype html>
+!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -24,31 +24,34 @@
   <main id="news-columns"></main>
   <footer>Updated automatically by CLASSWARFARE servers</footer>
 
-  <script>
-    // Static text replacement
-    const data = {
-      headline: { title: "ANTICEO", url: "https://anticeo.com" },
-      items: [
-        { title: "Chuds vs", url: "#", source: "" },
-        { title: "Shitlibs", url: "#", source: "" }
-      ]
-    };
+<script>
+  // Static text replacement
+  const data = {
+    headline: { title: "ANTICEO", url: "https://anticeo.com" },
+    items: [
+      { title: "Chuds vs", url: "#", source: "" },
+      { title: "Shitlibs", url: "#", source: "" },
+      { title: "Culture war", url: "#", source: "" },
+      { title: "Military Industrial Complex", url: "#", source: "" },
+      { title: "Para Political Intrigue", url: "#", source: "" }
+    ]
+  };
 
-    const toCaps = s => (s || "").toUpperCase();
+  const toCaps = s => (s || "").toUpperCase();
 
-    // HEADLINE
-    document.getElementById("headline").innerHTML =
-      `<h1><a href="${data.headline.url}" rel="noopener">${toCaps(data.headline.title)}</a></h1><hr>`;
+  // HEADLINE
+  document.getElementById("headline").innerHTML =
+    `<h1><a href="${data.headline.url}" rel="noopener">${toCaps(data.headline.title)}</a></h1><hr>`;
 
-    // ITEMS
-    const cols = document.getElementById("news-columns");
-    const ul = document.createElement("ul");
-    data.items.forEach(it => {
-      const li = document.createElement("li");
-      li.innerHTML = `<a href="${it.url}" rel="noopener">${toCaps(it.title)}</a>`;
-      ul.appendChild(li);
-    });
-    cols.appendChild(ul);
-  </script>
+  // ITEMS
+  const cols = document.getElementById("news-columns");
+  const ul = document.createElement("ul");
+  data.items.forEach(it => {
+    const li = document.createElement("li");
+    li.innerHTML = `<a href="${it.url}" rel="noopener">${toCaps(it.title)}</a>`;
+    ul.appendChild(li);
+  });
+  cols.appendChild(ul);
+</script>
 </body>
 </html>
