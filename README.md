@@ -1,2 +1,2 @@
-# anticeo-anticeo.github.io
+# anticeo.github.io
 anticeo.com public repo
