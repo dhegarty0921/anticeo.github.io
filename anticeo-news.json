@@ -1,0 +1,14 @@
+{
+  "headline": {
+    "title": "ANTICEO is live",
+    "url": "https://anticeo.com"
+  },
+  "items": [
+    {
+      "title": "Hello world",
+      "url": "https://example.com/1",
+      "source": "Demo",
+      "ts": "2025-10-14T20:06:01.539225Z"
+    }
+  ]
+}
