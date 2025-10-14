@@ -1,14 +1,22 @@
 {
   "headline": {
-    "title": "ANTICEO is live",
-    "url": "https://anticeo.com"
+    "title": "Sample story A",
+    "url": "https://example.com/a",
+    "source": "Example",
+    "ts": "2025-10-14T21:05:00Z"
   },
   "items": [
     {
-      "title": "Hello world",
-      "url": "https://example.com/1",
-      "source": "Demo",
-      "ts": "2025-10-14T21:09:02.094315Z"
+      "title": "Sample story A",
+      "url": "https://example.com/a",
+      "source": "Example",
+      "ts": "2025-10-14T21:05:00Z"
+    },
+    {
+      "title": "Sample story B",
+      "url": "https://example.com/b",
+      "source": "Example",
+      "ts": "2025-10-14T21:10:49.505980Z"
     }
   ]
 }
