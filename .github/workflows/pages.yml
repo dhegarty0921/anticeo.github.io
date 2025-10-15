@@ -1,7 +1,14 @@
 name: Deploy static site to Pages
+
 on:
   push:
     branches: ["main"]
+    paths:
+      - 'index.html'
+      - 'anticeo-news.json'
+      - 'CNAME'
+      - '.nojekyll'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
