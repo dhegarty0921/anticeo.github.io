@@ -91,50 +91,28 @@ body {
   <footer>Updated automatically by CLASSWARFARE servers</footer>
 
 <script>
-  // Static text replacement
-  const data = {
-    headline: { title: "ANTICEO", url: "https://anticeo.com" },
-    items: [
-      { title: "Chuds vs Shitlibs", url: "#", source: "" },
-      { title: "Culture war", url: "#", source: "" },
-      { title: "Military Industrial Complex", url: "#", source: "" },
-      { title: "Para Political Intrigue", url: "#", source: "" }
-    ]
-  };
+  const ORDER = [
+    "CHUDS VS SHITLIBS",
+    "CULTURE WAR",
+    "MILITARY INDUSTRIAL COMPLEX",
+    "PARA POLITICAL INTRIGUE"
+  ];
 
-  const toCaps = s => (s || "").toUpperCase();
-
-  // HEADLINE
-  document.getElementById("headline").innerHTML =
-    `<h1><a href="${data.headline.url}" rel="noopener">${toCaps(data.headline.title)}</a></h1><hr>`;
-
-  // ITEMS
-  const cols = document.getElementById("news-columns");
-  const ul = document.createElement("ul");
-  data.items.forEach(it => {
-    const li = document.createElement("li");
-    li.innerHTML = `<a href="${it.url}" rel="noopener">${toCaps(it.title)}</a>`;
-    ul.appendChild(li);
-  });
-  cols.appendChild(ul);
-
-  const DATA_URL = "./anticeo-news.json";
-  const toCaps = s => (s || "").toUpperCase();
-
-  fetch(DATA_URL + "?t=" + Date.now())
+  fetch("./anticeo-news.json?t=" + Date.now())
     .then(r => r.json())
     .then(data => {
-      if (data.headline?.title && data.headline?.url) {
-        document.getElementById("headline").innerHTML =
-          `<h1><a href="${data.headline.url}" rel="noopener">${toCaps(data.headline.title)}</a></h1><hr>`;
-      }
-
+      // headline as you already had it …
       const container = document.getElementById("news-columns");
       container.innerHTML = "";
 
-      (data.sections || []).forEach(sec => {
+      // map by title for stable ordering
+      const map = Object.fromEntries((data.sections||[]).map(s => [s.title, s]));
+      const sections = ORDER.map(k => map[k]).filter(Boolean);
+
+      sections.forEach(sec => {
+        const count = (sec.items || []).length;
         const h = document.createElement("h2");
-        h.textContent = toCaps(sec.title || "");
+        h.textContent = `${sec.title} (${count})`;
         h.style.textAlign = "center";
         h.style.margin = "18px 0 8px";
         h.style.fontSize = "1.2rem";
@@ -144,18 +122,13 @@ body {
         const ul = document.createElement("ul");
         (sec.items || []).forEach(it => {
           const li = document.createElement("li");
-          const title = toCaps(it.title || "");
-          const url = it.url || "#";
-          const src = it.source ? ` <span class="source">(${it.source})</span>` : "";
-          li.innerHTML = `<a href="${url}" rel="noopener">${title}</a>${src}`;
+          li.innerHTML = `<a href="${it.url || '#'}" rel="noopener">${(it.title||'').toUpperCase()}</a>` +
+                         (it.source ? ` <span class="source">(${it.source})</span>` : "");
           ul.appendChild(li);
         });
         container.appendChild(ul);
+        container.appendChild(document.createElement("hr")); // thin divider
       });
-    })
-    .catch(e => {
-      document.getElementById("news-columns").innerHTML = "<p>Feed unavailable.</p>";
-      console.error(e);
     });
 </script>
 </body>
