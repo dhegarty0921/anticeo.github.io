@@ -1,0 +1,5 @@
+# local state / runtime artifacts
+.update.lock
+cron.log
+.venv/
+scraper_out.ndjson
