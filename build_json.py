@@ -1,54 +1,84 @@
 #!/usr/bin/env python3
-import json, pathlib, datetime, sys
+import json, pathlib, datetime, re, yaml
 
-NDJSON = pathlib.Path("scraper_out.ndjson")
-items = []
+ROOT = pathlib.Path(__file__).resolve().parent
+NDJSON = ROOT / "scraper_out.ndjson"
+CATS   = yaml.safe_load((ROOT / "categories.yml").read_text(encoding="utf-8"))["categories"]
 
-def nowz():
-    return datetime.datetime.utcnow().isoformat()+"Z"
+def nowz(): return datetime.datetime.utcnow().isoformat()+"Z"
 
+# Compile rules (case-insensitive)
+rules = []
+for c in CATS:
+    pats = [re.compile(pat, re.I) for pat in c.get("any", [])]
+    rules.append({"key": c["key"], "max": c.get("max_items", 40), "pats": pats})
+
+# Load items (NDJSON)
+raw = []
 if NDJSON.exists():
     for ln in NDJSON.read_text(encoding="utf-8").splitlines():
         if not ln.strip():
             continue
         try:
             rec = json.loads(ln)
-        except Exception as e:
-            # skip bad lines but keep going
-            print(f"SKIP bad ndjson line: {e}", file=sys.stderr)
+        except Exception:
             continue
-        items.append({
-            "title": rec.get("title","(untitled)"),
-            "url":   rec.get("url","#"),
-            "source":rec.get("source",""),
-            "ts":    rec.get("ts") or nowz()
+        raw.append({
+            "title": rec.get("title","").strip() or "(untitled)",
+            "url":   (rec.get("url") or "#").strip(),
+            "source": (rec.get("source") or "").strip(),
+            "ts":     rec.get("ts") or nowz()
         })
 else:
-    # Safe fallback so the site still renders
-    items = [{
-        "title":"Hello world",
-        "url":"https://example.com/1",
-        "source":"Demo",
-        "ts": nowz()
+    raw = [{
+        "title":"Hello world","url":"https://example.com/1","source":"Demo","ts":nowz()
     }]
 
-# Optional: de-dup by URL while preserving order
-seen = set()
-deduped = []
-for it in items:
-    u = it.get("url")
-    if u in seen:
-        continue
-    seen.add(u)
-    deduped.append(it)
+# Sort newest first (ts can be RFC822 or ISO; keep as string compare fallback)
+def ts_key(x): return x.get("ts","")
+raw.sort(key=ts_key, reverse=True)
 
-news = {
-  "headline": deduped[0] if deduped else {"title":"ANTICEO","url":"https://anticeo.com"},
-  "items": deduped[:120]
+# Dedup by URL
+seen=set(); items=[]
+for it in raw:
+    u = it["url"]
+    if u in seen: continue
+    seen.add(u); items.append(it)
+
+# Assign category
+def classify(it):
+    hay = " ".join([it.get("title",""), it.get("source",""), it.get("url","")])
+    for r in rules:
+        if any(p.search(hay) for p in r["pats"]):
+            return r["key"]
+    return None
+
+buckets = {r["key"]: [] for r in rules}
+for it in items:
+    cat = classify(it)
+    if cat:
+        buckets[cat].append(it)
+
+# Cap per-category
+sections = []
+for r in rules:
+    arr = buckets[r["key"]][:r["max"]]
+    sections.append({"title": r["key"], "items": arr})
+
+# Headline: take the newest across all or fallback
+headline = None
+for s in sections:
+    if s["items"]:
+        headline = s["items"][0]
+        break
+if not headline:
+    headline = {"title":"ANTICEO","url":"https://anticeo.com"}
+
+out = {
+  "headline": headline,
+  "sections": sections,
+  "generated_at": nowz()
 }
 
-pathlib.Path("anticeo-news.json").write_text(
-    json.dumps(news, ensure_ascii=False, indent=2),
-    encoding="utf-8"
-)
-print("Wrote anticeo-news.json")
+(ROOT / "anticeo-news.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+print("Wrote anticeo-news.json with", sum(len(s["items"]) for s in sections), "categorized items")

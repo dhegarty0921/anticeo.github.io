@@ -1,22 +1,655 @@
 {
   "headline": {
-    "title": "Sample story A",
-    "url": "https://example.com/a",
-    "source": "Example",
-    "ts": "2025-10-14T21:05:00Z"
+    "title": "The Supreme Court Case That Could Hand the House to Republicans",
+    "url": "https://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html",
+    "source": "NYT > U.S. > Politics",
+    "ts": "Wed, 15 Oct 2025 23:04:55 +0000"
   },
-  "items": [
+  "sections": [
     {
-      "title": "Sample story A",
-      "url": "https://example.com/a",
-      "source": "Example",
-      "ts": "2025-10-14T21:05:00Z"
+      "title": "CHUDS VS SHITLIBS",
+      "items": [
+        {
+          "title": "The Supreme Court Case That Could Hand the House to Republicans",
+          "url": "https://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 23:04:55 +0000"
+        },
+        {
+          "title": "Trump appears to confirm report he authorised CIA operations in Venezuela",
+          "url": "https://www.aljazeera.com/news/2025/10/15/trump-seems-to-confirm-report-that-he-greenlit-cia-operations-in-venezuela?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 22:50:55 +0000"
+        },
+        {
+          "title": "Germany’s Left Party cheers Trump’s murderous colonial plan for Gaza",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/xpxa-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 22:49:41 GMT"
+        },
+        {
+          "title": "Trump Signs Memo Expanding His Authority to Spend Federal Money",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-federal-funds-government-shutdown.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 22:40:12 +0000"
+        },
+        {
+          "title": "When the Trump Guardrails Fall",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-second-term-guardrails.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 22:25:22 +0000"
+        },
+        {
+          "title": "Trump says Modi has assured him India will not buy Russian oil",
+          "url": "https://www.aljazeera.com/news/2025/10/15/trump-says-modi-has-assured-him-india-will-not-buy-russian-oil?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 22:13:53 +0000"
+        },
+        {
+          "title": "Trump: Israel Could Resume Attacks in Gaza ‘As Soon as I Say the Word’",
+          "url": "https://news.antiwar.com/2025/10/15/trump-israel-could-resume-attacks-in-gaza-as-soon-as-i-say-the-word/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 22:07:24 +0000"
+        },
+        {
+          "title": "Republicans Face Fallout From Racist and Homophobic Texts",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/young-republicans-texts-backlash-racist-homophobic.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 21:57:12 +0000"
+        },
+        {
+          "title": "Six by-election candidates take part in rowdy debate",
+          "url": "https://www.bbc.com/news/articles/c1m39jxren9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 21:55:30 GMT"
+        },
+        {
+          "title": "Judge Temporarily Blocks Trump From Firing Government Workers During Shutdown",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/government-shutdown-trump-layoffs-unions.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 21:22:30 +0000"
+        },
+        {
+          "title": "Trump Administration Authorizes Covert C.I.A. Action in Venezuela",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-covert-cia-action-venezuela.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 21:17:06 +0000"
+        },
+        {
+          "title": "President Trump Authorizes CIA To Conduct Lethal Covert Action in Venezuela",
+          "url": "https://news.antiwar.com/2025/10/15/president-trump-authorizes-cia-to-conduct-lethal-covert-action-in-venezuela/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 20:46:43 +0000"
+        },
+        {
+          "title": "US judge temporarily blocks Trump plan to fire thousands of gov’t workers",
+          "url": "https://www.aljazeera.com/economy/2025/10/15/us-judge-temporarily-blocks-trump-plan-to-fire-thousands-of-govt-workers?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 20:15:04 +0000"
+        },
+        {
+          "title": "Trump Considers Overhaul of Refugee System That Would Favor White People",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-refugee-white-people.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 19:44:54 +0000"
+        },
+        {
+          "title": "The Lonely House Republican Still Coming to Work During the Shutdown",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/kevin-kiley-shutdown.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 19:07:04 +0000"
+        },
+        {
+          "title": "Schumer Calls on Trump and Vance to Condemn Young Republicans’ Texts",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/schumer-young-republicans-texts.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 18:38:10 +0000"
+        },
+        {
+          "title": "Trump Rattles Vaccine Experts Over Aluminum",
+          "url": "https://www.nytimes.com/2025/10/15/health/vaccines-aluminum-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 18:28:51 +0000"
+        },
+        {
+          "title": "Trump Threatens Spain With Higher Tariffs Over Defense Spending",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-tariffs-spain-military-defense-spending-nato.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 18:07:08 +0000"
+        },
+        {
+          "title": "US Central Command Issues Warning To Hamas That Contradicts President Trump",
+          "url": "https://news.antiwar.com/2025/10/15/us-central-command-issues-warning-to-hamas-that-contradicts-president-trump/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 17:54:53 +0000"
+        },
+        {
+          "title": "Trump Allies Push to Bolster Putin-Backed Balkans Leader",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/trump-dodik-srpska-lobbying.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 17:53:32 +0000"
+        },
+        {
+          "title": "EU, Spain reject Trump’s US tariff threats over NATO spending",
+          "url": "https://www.aljazeera.com/news/2025/10/15/eu-spain-reject-trumps-us-tariff-threats-over-nato-spending?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 17:39:55 +0000"
+        },
+        {
+          "title": "Could a Supreme Court Ruling on Election Maps Affect the Midterms? Timing Matters.",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/voting-rights-midterms.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 17:16:46 +0000"
+        },
+        {
+          "title": "Ukraine war ‘will end on Trump’s watch’, US tells NATO",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/15/ukraine-war-will-end-on-trumps-watch-us-tells-nato?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 16:58:22 +0000"
+        },
+        {
+          "title": "Grijalva, Now Certified in Arizona, Demands Again That Johnson Seat Her",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/grijalva-election-arizona-johnson.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 15:48:33 +0000"
+        },
+        {
+          "title": "What Are Tomahawk Missiles, and Why Might Trump Give Them to Ukraine?",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/tomahawk-missiles-trump-ukraine.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 15:32:01 +0000"
+        },
+        {
+          "title": "Democratic governors form a public health alliance in a rebuke of Trump",
+          "url": "https://www.npr.org/2025/10/15/g-s1-93582/governors-public-health-alliance-democrats-rfk-trump-hhs-cdc",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 15 Oct 2025 14:08:39 -0400"
+        },
+        {
+          "title": "A Supreme Court decision brought two Black representatives to Congress.",
+          "url": "https://www.nytimes.com/live/2025/10/15/us/supreme-court-voting-rights/a-supreme-court-decision-brought-two-black-representatives-to-congress",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 13:48:02 +0000"
+        },
+        {
+          "title": "Rep. Seth Moulton to Challenge Edward Markey for Senate in Massachusetts",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/seth-moulton-edward-markey-massachusetts.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 11:48:25 +0000"
+        },
+        {
+          "title": "Trump demands Hamas disarm as group moves to assert control with public execution",
+          "url": "https://www.bbc.com/news/articles/cjr034p5prlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 09:24:36 GMT"
+        },
+        {
+          "title": "Trump Awards Charlie Kirk the Presidential Medal of Freedom",
+          "url": "https://www.nytimes.com/2025/10/14/us/politics/trump-charlie-kirk-medal.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 07:51:36 +0000"
+        },
+        {
+          "title": "Trump, China tariffs and the Wall Street bubble",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/blrd-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 05:12:02 GMT"
+        },
+        {
+          "title": "Mamdani channels growing opposition into the dead end of the Democratic Party",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/fhpm-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 04:35:36 GMT"
+        },
+        {
+          "title": "Israel resumes killing Palestinians in first phase of Trump’s “peace plan”",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/urrq-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 04:13:27 GMT"
+        },
+        {
+          "title": "Trump preparing target list of “semi-communist” federal programs to be eliminated",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/mmvi-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 02:50:37 GMT"
+        },
+        {
+          "title": "Trump, Republicans, neo-Nazis honor racist Charlie Kirk with highest  official honor in Rose Garden ceremony",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/grls-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 02:37:37 GMT"
+        },
+        {
+          "title": "Australian Labor government hails Trump’s neo-colonial Gaza plan",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/bhot-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 04:13:02 GMT"
+        },
+        {
+          "title": "“Peace” through genocide: Trump proclaims “historic dawn” for Middle East on the bones of the Palestinians",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/envc-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 02:10:23 GMT"
+        },
+        {
+          "title": "Zohran Mamdani schmoozes with executives and landlords, praises Trump’s phony Gaza “ceasefire”",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/pnkj-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 01:41:02 GMT"
+        },
+        {
+          "title": "MAGA Men, Rage, and the Road to Nowhere",
+          "url": "https://tomdispatch.com/maga-men-rage-and-the-road-to-nowhere/",
+          "source": "TomDispatch.com",
+          "ts": "Tue, 07 Oct 2025 13:29:38 +0000"
+        },
+        {
+          "title": "Going Backwards on Rights with Trump",
+          "url": "https://tomdispatch.com/going-backwards-on-rights-with-trump/",
+          "source": "TomDispatch.com",
+          "ts": "Thu, 25 Sep 2025 13:28:03 +0000"
+        }
+      ]
     },
     {
-      "title": "Sample story B",
-      "url": "https://example.com/b",
-      "source": "Example",
-      "ts": "2025-10-15T22:35:01.495350Z"
+      "title": "CULTURE WAR",
+      "items": [
+        {
+          "title": "Corbyn’s “Your Party” reboot at The World Transformed: Europe’s pseudo-left politicians display their bankruptcy",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/ehwu-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 18:50:54 GMT"
+        },
+        {
+          "title": "Watchdog urges Phillipson to speed up trans guidance",
+          "url": "https://www.bbc.com/news/articles/cly24ggj4xzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 17:00:16 GMT"
+        },
+        {
+          "title": "Hegseth orders troops to watch his speech decrying a 'woke' military",
+          "url": "https://www.npr.org/2025/10/15/nx-s1-5575528/hegseth-order-troops-quantico-speech",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 15 Oct 2025 16:43:04 -0400"
+        },
+        {
+          "title": "Smotrich Vows There Will Be Jewish Settlements in Gaza",
+          "url": "https://news.antiwar.com/2025/10/14/smotrich-vows-there-will-be-jewish-settlements-in-gaza/",
+          "source": "News From Antiwar.com",
+          "ts": "Tue, 14 Oct 2025 22:03:46 +0000"
+        }
+      ]
+    },
+    {
+      "title": "MILITARY INDUSTRIAL COMPLEX",
+      "items": [
+        {
+          "title": "US B-52 Bombers Fly Near Venezuela in Latest Provocation",
+          "url": "https://news.antiwar.com/2025/10/15/us-b-52-bombers-fly-near-venezuela-in-latest-provocation/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 22:51:18 +0000"
+        },
+        {
+          "title": "Gaza medics find signs of torture on Palestinian bodies returned by Israel",
+          "url": "https://www.aljazeera.com/news/2025/10/15/gaza-medics-find-signs-of-torture-on-palestinian-bodies-returned-by-israel?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 22:21:59 +0000"
+        },
+        {
+          "title": "What Jared Kushner’s Middle East diplomacy means for Gaza",
+          "url": "https://www.aljazeera.com/video/the-take-2/2025/10/15/aje-onl-glb_kushner_av_v3-151025?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 21:33:06 +0000"
+        },
+        {
+          "title": "Germany pledges $2bn in military aid for Ukraine as Kyiv seeks more funds",
+          "url": "https://www.aljazeera.com/news/2025/10/15/germany-pledges-2bn-in-military-aid-for-ukraine-as-kyiv-seeks-more-funds?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 20:36:02 +0000"
+        },
+        {
+          "title": "‘Dark and uncertain reality’: Gaza residents wonder what’s next",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/15/dark-and-uncertain-reality-gaza-residents-wonder-whats-next?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 20:18:31 +0000"
+        },
+        {
+          "title": "Hegseth Warns U.S. Will Impose ‘Costs’ on Russia if Peace Efforts Falter",
+          "url": "https://www.nytimes.com/2025/10/15/us/politics/hegseth-russia-ukraine.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 15 Oct 2025 20:04:00 +0000"
+        },
+        {
+          "title": "UN calls for Israel to open more Gaza crossings for surge in aid deliveries",
+          "url": "https://www.aljazeera.com/news/2025/10/15/un-calls-for-israel-to-open-more-gaza-crossings-for-surge-in-aid-deliveries?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 19:57:04 +0000"
+        },
+        {
+          "title": "Dozens in court over alleged support of Palestine Action",
+          "url": "https://www.bbc.com/news/articles/c051g2q5651o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 19:56:55 GMT"
+        },
+        {
+          "title": "Syria’s al-Sharaa seeks to ‘redefine’ Russia ties in first Moscow visit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/15/syrias-al-sharaa-seeks-to-redefine-russia-ties-in-first-moscow-visit?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 19:40:21 +0000"
+        },
+        {
+          "title": "Spanish police clash with pro-Palestine protesters in Barcelona",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/15/spanish-police-clash-with-pro-palestine-protesters-in-barcelona?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 19:12:18 +0000"
+        },
+        {
+          "title": "Israeli Forces Raid Villages in Syria’s Quneitra, Set Up More Checkpoints",
+          "url": "https://news.antiwar.com/2025/10/15/israeli-forces-raid-villages-in-syrias-quneitra-set-up-more-checkpoints/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 18:59:01 +0000"
+        },
+        {
+          "title": "Ukraine imposes blackouts in most regions after Russian power grid attacks",
+          "url": "https://www.bbc.com/news/articles/c15p32dvy0vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 18:57:10 GMT"
+        },
+        {
+          "title": "Spanish workers and students stage national stoppages against Gaza genocide",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/hgpw-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 18:33:27 GMT"
+        },
+        {
+          "title": "At Least One Killed as Israeli Drones Pound Seddiqine in Southern Lebanon",
+          "url": "https://news.antiwar.com/2025/10/15/at-least-one-killed-as-israeli-drones-pound-seddiqine-in-southern-lebanon/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 17:46:29 +0000"
+        },
+        {
+          "title": "Report: At Least One US Strike on Boat in The Caribbean Targeted Colombians",
+          "url": "https://news.antiwar.com/2025/10/15/report-at-least-one-us-strike-on-boat-in-the-caribbean-targeted-colombians/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 17:30:49 +0000"
+        },
+        {
+          "title": "'Worse than starting from scratch': How big is the task of rebuilding Gaza?",
+          "url": "https://www.bbc.com/news/articles/cr5e4ee9r13o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 17:27:28 GMT"
+        },
+        {
+          "title": "Denial and amnesia: Is the global community ready to welcome Israel back?",
+          "url": "https://www.aljazeera.com/news/2025/10/15/denial-and-amnesia-is-the-global-community-ready-to-welcome-israel-back?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 15 Oct 2025 17:23:41 +0000"
+        },
+        {
+          "title": "A socialist response to Turkey’s complicity in the imperialist-Zionist takeover of Gaza",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/erdg-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 17:03:22 GMT"
+        },
+        {
+          "title": "Israeli Forces Continue To Kill Palestinians in Gaza Despite Ceasefire",
+          "url": "https://news.antiwar.com/2025/10/15/israeli-forces-continue-to-kill-palestinians-in-gaza-despite-ceasefire/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 16:52:48 +0000"
+        },
+        {
+          "title": "UK targets Russian oil market in fresh sanctions",
+          "url": "https://www.bbc.com/news/articles/cew418r5rxdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 16:11:56 GMT"
+        },
+        {
+          "title": "Gaza experts work to identify bodies of 90 Palestinians returned by Israel",
+          "url": "https://www.bbc.com/news/articles/c5ypwqwlnn2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 16:05:01 GMT"
+        },
+        {
+          "title": "Photos: Ceasefire in Gaza brings reunions amid devastation",
+          "url": "https://www.npr.org/sections/the-picture-show/2025/10/15/nx-s1-5574119/photos-gaza-ceasefire-hostages-prisoners",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 15 Oct 2025 12:19:14 -0400"
+        },
+        {
+          "title": "'Time to begin healing together': Israeli hostage couple reunited after 738 days",
+          "url": "https://www.bbc.com/news/articles/c5yp0j0l3glo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 12:15:17 GMT"
+        },
+        {
+          "title": "A veteran state department negotiator unpacks the ceasefire agreement in Gaza",
+          "url": "https://www.npr.org/2025/10/15/nx-s1-5574219/a-veteran-state-department-negotiator-unpacks-the-ceasefire-agreement-in-gaza",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 15 Oct 2025 12:15:12 -0400"
+        },
+        {
+          "title": "46,000 Kaiser Permanente healthcare workers strike across the West Coast",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/alkh-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 02:37:12 GMT"
+        },
+        {
+          "title": "Ukrainian Delegation Arrives in Washington To Push Agenda of Fewer Talks With Russia and More Weapons",
+          "url": "https://news.antiwar.com/2025/10/14/ukrainian-delegation-arrives-in-washington-to-push-agenda-of-fewer-talks-with-russia-and-more-weapons/",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 15 Oct 2025 00:15:45 +0000"
+        },
+        {
+          "title": "General strike in Belgium against coalition government’s austerity programme",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/uear-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 20:57:05 GMT"
+        },
+        {
+          "title": "Protests across Australia oppose two years of the Israeli genocide in Gaza",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/toxe-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 04:43:51 GMT"
+        },
+        {
+          "title": "46,000 Kaiser Permanente health care workers begin 5-day strike",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/tdcq-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 03:09:22 GMT"
+        },
+        {
+          "title": "Israel’s Minister for Diaspora Affairs rolls out red carpet for fascist demagogue Tommy Robinson",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/ntit-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 17:09:57 GMT"
+        }
+      ]
+    },
+    {
+      "title": "PARA POLITICAL INTRIGUE",
+      "items": [
+        {
+          "title": "Government publishes key witness statements in collapsed China spy case",
+          "url": "https://www.bbc.com/news/articles/c0ex172rxwzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 23:25:22 GMT"
+        },
+        {
+          "title": "British painter Edward Burra: A neglected chronicler of 20th century society",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/rbad-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 17:26:59 GMT"
+        },
+        {
+          "title": "After the PM's appearance at PMQs, what more do we know about the collapsed China spy case?",
+          "url": "https://www.bbc.com/news/articles/cn09ezx0qn4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 15 Oct 2025 14:28:57 GMT"
+        },
+        {
+          "title": "Executions in Florida and Missouri as 4 days of state-sanctioned killings begin",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/weii-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 05:11:57 GMT"
+        },
+        {
+          "title": "German government attacks the welfare state: Basic support payments to be abolished",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/xczv-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 04:13:07 GMT"
+        },
+        {
+          "title": "Mass layoffs at the Department of Education target special education",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/wqat-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 03:22:03 GMT"
+        },
+        {
+          "title": "Indonesian government promotes phony police reform following protests",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/uwlz-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 01:28:53 GMT"
+        },
+        {
+          "title": "Australia: NSW gallery cancels public discussion with pro-Palestinian curator",
+          "url": "https://www.wsws.org/en/articles/2025/10/15/qgke-o15.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Wed, 15 Oct 2025 01:27:59 GMT"
+        },
+        {
+          "title": "Letter from Bernie Monk, spokesperson for Pike River families in New Zealand, to the families of the Tennessee explosives plant disaster",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/qtcp-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 23:37:07 GMT"
+        },
+        {
+          "title": "Australia: Inquiry highlights financial ties between building union and big developers",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/cihe-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 04:48:04 GMT"
+        },
+        {
+          "title": "Oppose Labor’s “national priorities” university restructuring and job cuts",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/ctir-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 04:37:34 GMT"
+        },
+        {
+          "title": "All 16 victims identified in Tennessee munitions factory explosion",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/oswu-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 03:27:17 GMT"
+        },
+        {
+          "title": "Workers Struggles: The Americas",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/thxl-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 03:04:50 GMT"
+        },
+        {
+          "title": "Chemical Safety Board finds broken and cracked valves contributed to fatal blast at U.S. Steel Clairton Coke Works",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/ldts-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 02:14:23 GMT"
+        },
+        {
+          "title": "German auto supplier ZF: IG Metall, works council and management agree on job cuts and wage reductions",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/1fc4-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 01:45:13 GMT"
+        },
+        {
+          "title": "Political censorship of art exhibition at California’s Pepperdine University",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/czqb-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 01:20:21 GMT"
+        },
+        {
+          "title": "Subu Vedam, falsely imprisoned for 43 years, seized by ICE for deportation",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/djmi-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 01:02:00 GMT"
+        },
+        {
+          "title": "The death of Julia Chuñil in Chile: Boric’s war against the Mapuche people",
+          "url": "https://www.wsws.org/en/articles/2025/10/14/udil-o14.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Tue, 14 Oct 2025 00:53:35 GMT"
+        },
+        {
+          "title": "Join the struggle for a socialist future! Mobilise the working class against genocide, dictatorship, and world war!",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/vutd-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 18:24:53 GMT"
+        },
+        {
+          "title": "Accelerating plans for dictatorship, Macron renames fallen French government under Lecornu",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/mbdp-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 10:23:56 GMT"
+        },
+        {
+          "title": "16 workers killed in Tennessee explosion: Industrial carnage followed by media cover-up",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/gfdk-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 03:58:05 GMT"
+        },
+        {
+          "title": "Sri Lankan government prepares next IMF-dictated budget",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/iynq-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 03:53:14 GMT"
+        },
+        {
+          "title": "Australian “contempt of court” threat to all protest rights",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/dgsa-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 03:47:25 GMT"
+        },
+        {
+          "title": "Germany: Take action to reject and stop the steelworkers contract!",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/8dd1-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 03:17:45 GMT"
+        },
+        {
+          "title": "Secret Five Eyes notes lay bare war plans against China",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/swjq-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 03:02:49 GMT"
+        },
+        {
+          "title": "Ukrainian court rejects motion to dismiss judge for bias as Bogdan Syrotiuk is barred from accessing dental care",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/lcmz-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 01:59:51 GMT"
+        },
+        {
+          "title": "This week in history: October 13-19",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/uuye-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 01:19:26 GMT"
+        },
+        {
+          "title": "Jean-Luc Melenchon paralyses the struggle against French President Macron and the far right",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/ihfr-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 01:14:06 GMT"
+        },
+        {
+          "title": "Newsom’s “historic” housing reform is a handout to real estate capital",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/umbt-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 00:25:24 GMT"
+        },
+        {
+          "title": "Oppose the University of Michigan disciplinary charges against pro-Palestinian protesters!",
+          "url": "https://www.wsws.org/en/articles/2025/10/13/grrs-o13.html",
+          "source": "World Socialist Web Site (en)",
+          "ts": "Mon, 13 Oct 2025 00:08:12 GMT"
+        }
+      ]
     }
-  ]
+  ],
+  "generated_at": "2025-10-15T23:28:16.812860Z"
 }

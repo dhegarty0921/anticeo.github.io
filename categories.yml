@@ -1,0 +1,93 @@
+categories:
+  - key: CHUDS VS SHITLIBS
+    max_items: 40
+    any:
+      # parties/players
+      - trump
+      - maga
+      - biden
+      - democrat
+      - democrats
+      - republican
+      - republicans
+      - gop
+      - dnc
+      - rnc
+      # election/politics words
+      - election
+      - primary
+      - debate
+      - congress
+      - senate
+      - house of representatives
+      - impeachment
+  - key: CULTURE WAR
+    max_items: 40
+    any:
+      - religion
+      - christian
+      - catholic
+      - muslim
+      - jewish
+      - islam
+      - church
+      - abortion
+      - roe v wade
+      - transgender
+      - trans
+      - lgbt
+      - lgbtq
+      - pride
+      - dei
+      - diversity
+      - woke
+      - culture war
+      - books ban
+      - drag
+  - key: MILITARY INDUSTRIAL COMPLEX
+    max_items: 40
+    any:
+      - pentagon
+      - defense spending
+      - military budget
+      - weapons
+      - contractor
+      - lockheed
+      - raytheon
+      - general dynamics
+      - boeing defense
+      - nato
+      - israel
+      - gaza
+      - palestine
+      - ukraine
+      - russia
+      - venezuela
+      - iran
+      - yemen
+      - strike
+      - airstrike
+      - drone
+      - troop
+      - escalation
+  - key: PARA POLITICAL INTRIGUE
+    max_items: 40
+    any:
+      - cia
+      - fbi
+      - nsa
+      - department of homeland security
+      - dhs
+      - doj
+      - whistleblower
+      - surveillance
+      - spy
+      - espionage
+      - intelligence
+      - operation
+      - mkultra
+      - 9/11
+      - okc
+      - oklahoma city
+      - jfk
+      - assassination
