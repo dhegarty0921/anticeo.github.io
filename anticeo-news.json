@@ -178,6 +178,12 @@
           "ts": "Fri, 17 Oct 2025 19:56:37 +0000"
         },
         {
+          "title": "President Trump commutes the prison sentence of George Santos",
+          "url": "https://www.npr.org/2025/10/17/nx-s1-5578304/trump-george-santos-prison-sentence-commuted",
+          "source": "NPR Topics: News",
+          "ts": "Fri, 17 Oct 2025 19:37:55 -0400"
+        },
+        {
           "title": "Trump administration asks Supreme Court to allow National Guard deployment in Illinois",
           "url": "https://www.npr.org/2025/10/17/nx-s1-5578266/trump-supreme-court-national-guard-illinois",
           "source": "NPR Topics: News",
@@ -242,12 +248,6 @@
           "url": "https://www.nytimes.com/2025/10/17/us/politics/nancy-pelosi-scott-wiener.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 06:08:56 +0000"
-        },
-        {
-          "title": "UAW president hails Trump, praises Stellantis move to cut jobs in Canada",
-          "url": "https://www.wsws.org/en/articles/2025/10/17/isjw-o17.html",
-          "source": "World Socialist Web Site (en)",
-          "ts": "Fri, 17 Oct 2025 03:26:31 GMT"
         }
       ]
     },
@@ -562,7 +562,7 @@
           "title": "Food Stamp Benefits May Run Out in November, Officials Warn",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/food-stamps-agriculture-department.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 22:20:16 +0000"
+          "ts": "Fri, 17 Oct 2025 23:45:10 +0000"
         },
         {
           "title": "Workers Struggles: Asia, Australia and the Pacific",
@@ -609,5 +609,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T23:45:06.493568Z"
+  "generated_at": "2025-10-17T23:50:06.240266Z"
 }
