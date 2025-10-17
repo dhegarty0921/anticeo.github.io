@@ -100,6 +100,12 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
+          "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 21:43:41 +0000"
+        },
+        {
           "title": "Trump Asks Supreme Court to Allow National Guard Deployment in Chicago Area",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-supreme-court-national-guard-chicago.html",
           "source": "NYT > U.S. > Politics",
@@ -110,12 +116,6 @@
           "url": "https://www.aljazeera.com/news/2025/10/17/a-right-wing-run-off-what-to-know-about-bolivias-presidential-election?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 17 Oct 2025 21:13:17 +0000"
-        },
-        {
-          "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
-          "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 21:08:12 +0000"
         },
         {
           "title": "Trump confirms ‘submarine’ attack in Caribbean, amid reports of survivors",
@@ -591,5 +591,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T21:40:48.538116Z"
+  "generated_at": "2025-10-17T21:45:28.966903Z"
 }
