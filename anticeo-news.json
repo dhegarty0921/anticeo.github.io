@@ -368,16 +368,16 @@
           "ts": "Thu, 16 Oct 2025 00:02:45 +0000"
         },
         {
+          "title": "U.S. Detains 2 Survivors of Latest Military Strike in Caribbean",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/us-military-strike-survivors.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 19:27:27 +0000"
+        },
+        {
           "title": "Gaza aid deliveries still facing Israeli roadblocks a week into ceasefire",
           "url": "https://www.aljazeera.com/news/2025/10/17/gaza-aid-deliveries-still-facing-israeli-roadblocks-a-week-into-ceasefire?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 17 Oct 2025 18:58:57 +0000"
-        },
-        {
-          "title": "U.S. Detains 2 Survivors of Latest Military Strike in Caribbean",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/us-military-strike-survivors.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 18:12:35 +0000"
         },
         {
           "title": "The six problems a Gaza ceasefire has brought Israel’s Benjamin Netanyahu",
@@ -633,5 +633,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T19:30:11.483323Z"
+  "generated_at": "2025-10-17T19:35:15.436974Z"
 }
