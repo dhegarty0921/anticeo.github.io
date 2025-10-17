@@ -88,12 +88,6 @@
           "ts": "Thu, 16 Oct 2025 18:14:19 +0000"
         },
         {
-          "title": "Trump Was Not the Only President Who Tried to Force Migrants to Leave",
-          "url": "https://www.nytimes.com/2025/10/16/us/politics/trump-immigrants-self-deportation.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 16 Oct 2025 16:15:51 +0000"
-        },
-        {
           "title": "Leaders of Republican youth movement praise Hitler, joke about Holocaust in internal discussion",
           "url": "https://www.wsws.org/en/articles/2025/10/16/puie-o16.html",
           "source": "World Socialist Web Site (en)",
@@ -116,6 +110,12 @@
           "url": "https://news.antiwar.com/2025/10/15/trump-says-he-will-make-determination-on-whether-ukraine-can-launch-an-offensive-offensive/",
           "source": "News From Antiwar.com",
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
+        },
+        {
+          "title": "How will Putin travel to Hungary to meet Trump with ICC arrest warrant?",
+          "url": "https://www.aljazeera.com/news/2025/10/17/how-will-putin-travel-to-budapest-to-meet-trump?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 17 Oct 2025 16:01:51 +0000"
         },
         {
           "title": "Trump Pushes Indiana Lawmakers to Redraw State Maps",
@@ -651,5 +651,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T16:15:07.414320Z"
+  "generated_at": "2025-10-17T16:20:14.259850Z"
 }
