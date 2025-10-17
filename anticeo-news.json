@@ -46,18 +46,6 @@
           "ts": "Wed, 15 Oct 2025 02:37:37 GMT"
         },
         {
-          "title": "MAGA Men, Rage, and the Road to Nowhere",
-          "url": "https://tomdispatch.com/maga-men-rage-and-the-road-to-nowhere/",
-          "source": "TomDispatch.com",
-          "ts": "Tue, 07 Oct 2025 13:29:38 +0000"
-        },
-        {
-          "title": "Going Backwards on Rights with Trump",
-          "url": "https://tomdispatch.com/going-backwards-on-rights-with-trump/",
-          "source": "TomDispatch.com",
-          "ts": "Thu, 25 Sep 2025 13:28:03 +0000"
-        },
-        {
           "title": "Parties Brace for a Political Future Without the Voting Rights Act",
           "url": "https://www.nytimes.com/2025/10/16/us/politics/democrats-republicans-voting-rights.html",
           "source": "NYT > U.S. > Politics",
@@ -106,16 +94,16 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
+          "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 19:58:49 +0000"
+        },
+        {
           "title": "Maps: Where the U.S. Is Building Up Military Force in the Caribbean",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-caribbean-venezuela-us-military-maps.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 19:56:37 +0000"
-        },
-        {
-          "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
-          "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 19:05:36 +0000"
         },
         {
           "title": "Senators Move to Force Vote to Bar Ground Strikes in Venezuela",
@@ -615,5 +603,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T20:00:51.408741Z"
+  "generated_at": "2025-10-17T20:06:49.884371Z"
 }
