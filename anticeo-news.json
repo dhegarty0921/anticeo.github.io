@@ -46,6 +46,18 @@
           "ts": "Wed, 15 Oct 2025 02:37:37 GMT"
         },
         {
+          "title": "MAGA Men, Rage, and the Road to Nowhere",
+          "url": "https://tomdispatch.com/maga-men-rage-and-the-road-to-nowhere/",
+          "source": "TomDispatch.com",
+          "ts": "Tue, 07 Oct 2025 13:29:38 +0000"
+        },
+        {
+          "title": "Going Backwards on Rights with Trump",
+          "url": "https://tomdispatch.com/going-backwards-on-rights-with-trump/",
+          "source": "TomDispatch.com",
+          "ts": "Thu, 25 Sep 2025 13:28:03 +0000"
+        },
+        {
           "title": "Parties Brace for a Political Future Without the Voting Rights Act",
           "url": "https://www.nytimes.com/2025/10/16/us/politics/democrats-republicans-voting-rights.html",
           "source": "NYT > U.S. > Politics",
@@ -100,16 +112,16 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
+          "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 17:56:37 +0000"
+        },
+        {
           "title": "Bessent Stakes Credibility and Taxpayer Money on Argentina Bet",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-argentina-bailout-bessent.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 17:38:08 +0000"
-        },
-        {
-          "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
-          "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 17:32:32 +0000"
         },
         {
           "title": "How will Putin travel to Hungary to meet Trump with ICC arrest warrant?",
@@ -236,12 +248,6 @@
           "url": "https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 02:55:32 +0000"
-        },
-        {
-          "title": "How the Bolton Indictment Compares to Trump’s Classified Documents Case",
-          "url": "https://www.nytimes.com/2025/10/16/us/politics/trump-bolton-indictment-documents.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 00:52:57 +0000"
         }
       ]
     },
@@ -633,5 +639,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T17:56:18.597625Z"
+  "generated_at": "2025-10-17T18:00:10.613796Z"
 }
