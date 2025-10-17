@@ -148,6 +148,12 @@
           "ts": "Fri, 17 Oct 2025 19:56:37 +0000"
         },
         {
+          "title": "Trump administration asks Supreme Court to allow National Guard deployment in Illinois",
+          "url": "https://www.npr.org/2025/10/17/nx-s1-5578266/trump-supreme-court-national-guard-illinois",
+          "source": "NPR Topics: News",
+          "ts": "Fri, 17 Oct 2025 18:19:44 -0400"
+        },
+        {
           "title": "Senators Move to Force Vote to Bar Ground Strikes in Venezuela",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/congress-venezuela-military-strikes.html",
           "source": "NYT > U.S. > Politics",
@@ -214,12 +220,6 @@
           "ts": "Fri, 17 Oct 2025 09:35:45 -0400"
         },
         {
-          "title": "Trump and Zelenskyy to meet. And, John Bolton indicted for mishandling classified info",
-          "url": "https://www.npr.org/2025/10/17/g-s1-93955/up-first-newsletter-john-bolton-volodymyr-zelenskyy-gaza",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 17 Oct 2025 07:31:40 -0400"
-        },
-        {
           "title": "Top San Francisco Lawmaker Expected to Challenge Nancy Pelosi in Primary",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/nancy-pelosi-scott-wiener.html",
           "source": "NYT > U.S. > Politics",
@@ -236,12 +236,6 @@
           "url": "https://www.wsws.org/en/articles/2025/10/17/gjlo-o17.html",
           "source": "World Socialist Web Site (en)",
           "ts": "Fri, 17 Oct 2025 03:10:27 GMT"
-        },
-        {
-          "title": "John Bolton Indicted Over Handling of Classified Information",
-          "url": "https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 02:55:32 +0000"
         },
         {
           "title": "How the Bolton Indictment Compares to Trump’s Classified Documents Case",
@@ -565,6 +559,12 @@
           "ts": "Mon, 29 Sep 2025 19:59:27 GMT"
         },
         {
+          "title": "Food Stamp Benefits May Run Out in November, Officials Warn",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/food-stamps-agriculture-department.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 22:20:16 +0000"
+        },
+        {
           "title": "Workers Struggles: Asia, Australia and the Pacific",
           "url": "https://www.wsws.org/en/articles/2025/10/17/fvxm-o17.html",
           "source": "World Socialist Web Site (en)",
@@ -609,5 +609,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T22:20:18.001659Z"
+  "generated_at": "2025-10-17T22:25:18.115122Z"
 }
