@@ -184,12 +184,6 @@
           "ts": "Fri, 17 Oct 2025 12:51:24 +0000"
         },
         {
-          "title": "‘Gas them’: How a leaked pro-Nazi young Republicans chat sparked GOP storm",
-          "url": "https://www.aljazeera.com/news/2025/10/17/gas-them-how-a-leaked-pro-nazi-young-republicans-chat-sparked-gop-storm?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 17 Oct 2025 10:54:37 +0000"
-        },
-        {
           "title": "French social-democrats back Macron to install minority Lecornu government",
           "url": "https://www.wsws.org/en/articles/2025/10/17/upzz-o17.html",
           "source": "World Socialist Web Site (en)",
@@ -248,6 +242,12 @@
           "url": "https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 02:55:32 +0000"
+        },
+        {
+          "title": "How the Bolton Indictment Compares to Trump’s Classified Documents Case",
+          "url": "https://www.nytimes.com/2025/10/16/us/politics/trump-bolton-indictment-documents.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 00:52:57 +0000"
         }
       ]
     },
@@ -639,5 +639,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T18:30:08.737896Z"
+  "generated_at": "2025-10-17T18:35:20.781648Z"
 }
