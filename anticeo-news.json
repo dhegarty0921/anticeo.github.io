@@ -46,18 +46,6 @@
           "ts": "Wed, 15 Oct 2025 02:37:37 GMT"
         },
         {
-          "title": "MAGA Men, Rage, and the Road to Nowhere",
-          "url": "https://tomdispatch.com/maga-men-rage-and-the-road-to-nowhere/",
-          "source": "TomDispatch.com",
-          "ts": "Tue, 07 Oct 2025 13:29:38 +0000"
-        },
-        {
-          "title": "Going Backwards on Rights with Trump",
-          "url": "https://tomdispatch.com/going-backwards-on-rights-with-trump/",
-          "source": "TomDispatch.com",
-          "ts": "Thu, 25 Sep 2025 13:28:03 +0000"
-        },
-        {
           "title": "Parties Brace for a Political Future Without the Voting Rights Act",
           "url": "https://www.nytimes.com/2025/10/16/us/politics/democrats-republicans-voting-rights.html",
           "source": "NYT > U.S. > Politics",
@@ -248,6 +236,12 @@
           "url": "https://www.nytimes.com/2025/10/16/us/politics/john-bolton-indictment-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 02:55:32 +0000"
+        },
+        {
+          "title": "How the Bolton Indictment Compares to Trump’s Classified Documents Case",
+          "url": "https://www.nytimes.com/2025/10/16/us/politics/trump-bolton-indictment-documents.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 00:52:57 +0000"
         }
       ]
     },
@@ -452,6 +446,12 @@
           "ts": "Fri, 17 Oct 2025 10:55:01 +0000"
         },
         {
+          "title": "Will Gaza ceasefire change South Africa’s ICJ genocide case against Israel?",
+          "url": "https://www.aljazeera.com/news/2025/10/17/will-gaza-ceasefire-change-south-africas-icj-genocide-case-against-israel?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 17 Oct 2025 10:50:10 +0000"
+        },
+        {
           "title": "Our quiz writer digs deep on politics and ... bowler hats. Can you score 11?",
           "url": "https://www.npr.org/2025/10/17/g-s1-93669/musk-taylor-swift-pentagon-world-cup-kristi-noem-news-quiz",
           "source": "NPR Topics: News",
@@ -645,5 +645,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T17:46:13.269504Z"
+  "generated_at": "2025-10-17T17:52:11.532544Z"
 }
