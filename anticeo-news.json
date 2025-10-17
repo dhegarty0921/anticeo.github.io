@@ -94,16 +94,16 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 22:47:58 +0000"
+        },
+        {
           "title": "Trump Sets Tariffs on Trucks and Buses",
           "url": "https://www.nytimes.com/2025/10/17/business/trump-tariffs-trucks-buses.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 22:37:11 +0000"
-        },
-        {
-          "title": "Trump Says He Is Commuting George Santos’s Fraud Sentence",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 22:33:13 +0000"
         },
         {
           "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
@@ -615,5 +615,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T22:50:06.407651Z"
+  "generated_at": "2025-10-17T22:55:06.209884Z"
 }
