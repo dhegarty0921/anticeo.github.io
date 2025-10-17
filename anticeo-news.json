@@ -46,6 +46,18 @@
           "ts": "Wed, 15 Oct 2025 02:37:37 GMT"
         },
         {
+          "title": "MAGA Men, Rage, and the Road to Nowhere",
+          "url": "https://tomdispatch.com/maga-men-rage-and-the-road-to-nowhere/",
+          "source": "TomDispatch.com",
+          "ts": "Tue, 07 Oct 2025 13:29:38 +0000"
+        },
+        {
+          "title": "Going Backwards on Rights with Trump",
+          "url": "https://tomdispatch.com/going-backwards-on-rights-with-trump/",
+          "source": "TomDispatch.com",
+          "ts": "Thu, 25 Sep 2025 13:28:03 +0000"
+        },
+        {
           "title": "Parties Brace for a Political Future Without the Voting Rights Act",
           "url": "https://www.nytimes.com/2025/10/16/us/politics/democrats-republicans-voting-rights.html",
           "source": "NYT > U.S. > Politics",
@@ -350,10 +362,22 @@
           "ts": "Thu, 16 Oct 2025 00:02:45 +0000"
         },
         {
+          "title": "Is there enough international political will to probe war crimes in Gaza?",
+          "url": "https://www.aljazeera.com/video/inside-story/2025/10/17/is-there-enough-international-political-will-to-probe-war-crimes-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 17 Oct 2025 20:00:49 +0000"
+        },
+        {
           "title": "U.S. Detains 2 Survivors of Latest Military Strike in Caribbean",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/us-military-strike-survivors.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 19:53:12 +0000"
+        },
+        {
+          "title": "Gaza’s Sayed al-Hashim mosque reopens after two years",
+          "url": "https://www.aljazeera.com/video/newsfeed/2025/10/17/gazas-sayed-al-hashim-mosque-reopens-after-two-years?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 17 Oct 2025 19:32:31 +0000"
         },
         {
           "title": "Gaza aid deliveries still face Israeli roadblocks a week into ceasefire",
@@ -404,22 +428,10 @@
           "ts": "Fri, 17 Oct 2025 13:24:24 GMT"
         },
         {
-          "title": "How many times has the US struck Venezuelan vessels?",
-          "url": "https://www.aljazeera.com/news/2025/10/17/how-many-times-has-the-us-struck-venezuelan-vessels?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 17 Oct 2025 12:32:10 +0000"
-        },
-        {
           "title": "BBC Gaza documentary a 'serious' breach of rules, Ofcom says",
           "url": "https://www.bbc.com/news/articles/c629j5m2n01o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Fri, 17 Oct 2025 11:58:19 GMT"
-        },
-        {
-          "title": "“Serious pressure” on Israel needed for troop withdrawal",
-          "url": "https://www.aljazeera.com/video/quotable/2025/10/17/serious-pressure-on-israel-needed-for-troop-withdrawal?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 17 Oct 2025 11:45:50 +0000"
         },
         {
           "title": "“Health care is a universal right”: Kaiser Permanente nurses speak out on third day of strike",
@@ -603,5 +615,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T20:06:49.884371Z"
+  "generated_at": "2025-10-17T20:11:27.453333Z"
 }
