@@ -344,6 +344,12 @@
           "ts": "Thu, 16 Oct 2025 00:02:45 +0000"
         },
         {
+          "title": "U.S. Agency That Protects Nuclear Arsenal to Furlough Workers",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/nuclear-weapons-agency-furloughs-shutdown.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 18 Oct 2025 02:09:21 +0000"
+        },
+        {
           "title": "U.S. Detains 2 Survivors of Latest Military Strike in Caribbean",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/us-military-strike-survivors.html",
           "source": "NYT > U.S. > Politics",
@@ -597,5 +603,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-18T02:10:07.271253Z"
+  "generated_at": "2025-10-18T02:15:06.823516Z"
 }
