@@ -172,6 +172,12 @@
           "ts": "Sat, 20 Sep 2025 13:00:00 EST"
         },
         {
+          "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 18 Oct 2025 01:38:05 +0000"
+        },
+        {
           "title": "Judge to Broaden Order Blocking Many Layoffs as Trump Seeks More Cuts",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html",
           "source": "NYT > U.S. > Politics",
@@ -230,12 +236,6 @@
           "url": "https://www.politico.com/news/magazine/2025/09/19/tiktok-trump-xi-deal-law-column-00571832",
           "source": "Politics, Policy, Political News Top Stories",
           "ts": "Fri, 19 Sep 2025 04:00:00 EST"
-        },
-        {
-          "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 23:59:00 +0000"
         },
         {
           "title": "Prosecutor Who Rejected Trump’s Pressure to Charge James Is Fired",
@@ -585,5 +585,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-18T01:35:06.291976Z"
+  "generated_at": "2025-10-18T01:40:07.565131Z"
 }
