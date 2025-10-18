@@ -172,16 +172,16 @@
           "ts": "Sat, 20 Sep 2025 13:00:00 EST"
         },
         {
+          "title": "Judge to Broaden Order Blocking Many Layoffs as Trump Seeks More Cuts",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 18 Oct 2025 01:13:20 +0000"
+        },
+        {
           "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
           "url": "https://www.nytimes.com/2025/10/17/world/europe/zelensky-trump-meeting-white-house-ukraine-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 18 Oct 2025 00:56:50 +0000"
-        },
-        {
-          "title": "Court to Broaden Order Blocking Many Layoffs as Trump Seeks More Cuts",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 18 Oct 2025 00:52:12 +0000"
         },
         {
           "title": "A bid to give Charlie Kirk an honorary degree from the Air Force Academy was withdrawn.",
@@ -585,5 +585,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-18T01:15:06.021083Z"
+  "generated_at": "2025-10-18T01:20:06.634442Z"
 }
