@@ -94,10 +94,16 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
-          "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
+          "title": "George Santos Is Released From Prison After Trump Commutes His 7-Year Sentence",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 18 Oct 2025 03:06:21 +0000"
+          "ts": "Sat, 18 Oct 2025 03:06:22 +0000"
+        },
+        {
+          "title": "Kremlin envoy proposes ‘Putin-Trump tunnel’ to link Russia, US",
+          "url": "https://www.aljazeera.com/news/2025/10/18/kremlin-envoy-proposes-putin-trump-tunnel-to-link-russia-us?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 18 Oct 2025 03:01:35 +0000"
         },
         {
           "title": "Trump administration furloughs nuclear weapons agency staff due to shutdown",
@@ -242,12 +248,6 @@
           "url": "https://www.nytimes.com/2025/10/17/us/politics/congress-venezuela-military-strikes.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 18:07:26 +0000"
-        },
-        {
-          "title": "A GOP attack ad deepfakes Chuck Schumer with AI",
-          "url": "https://www.npr.org/2025/10/17/nx-s1-5578279/ai-schumer-gop-attack-ad",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 17 Oct 2025 17:58:48 -0400"
         }
       ]
     },
@@ -603,5 +603,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-18T03:10:06.914476Z"
+  "generated_at": "2025-10-18T03:15:06.670663Z"
 }
