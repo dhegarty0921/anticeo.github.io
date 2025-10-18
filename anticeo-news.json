@@ -94,6 +94,12 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Prosecutor Who Rejected Trump’s Pressure to Charge James Is Fired",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-prosecutor-fired-letitia-james.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 23:56:07 +0000"
+        },
+        {
           "title": "Trump Pushes Indiana Lawmakers to Redraw State Maps",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-indiana-senate-state-maps.html",
           "source": "NYT > U.S. > Politics",
@@ -242,12 +248,6 @@
           "url": "https://www.npr.org/2025/10/17/nx-s1-5577691/layoffs-rifs-government-shutdown-trump",
           "source": "NPR Topics: News",
           "ts": "Fri, 17 Oct 2025 09:35:45 -0400"
-        },
-        {
-          "title": "Top San Francisco Lawmaker Expected to Challenge Nancy Pelosi in Primary",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/nancy-pelosi-scott-wiener.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 06:08:56 +0000"
         }
       ]
     },
@@ -559,6 +559,12 @@
           "ts": "Mon, 29 Sep 2025 19:59:27 GMT"
         },
         {
+          "title": "Tennessee Officials Sue Over National Guard Presence in Memphis",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/memphis-national-guard-lawsuit.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 23:54:19 +0000"
+        },
+        {
           "title": "Food Stamp Benefits May Run Out in November, Officials Warn",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/food-stamps-agriculture-department.html",
           "source": "NYT > U.S. > Politics",
@@ -609,5 +615,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-17T23:55:05.751495Z"
+  "generated_at": "2025-10-18T00:00:06.479235Z"
 }
