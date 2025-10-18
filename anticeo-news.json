@@ -94,6 +94,12 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 17 Oct 2025 23:59:00 +0000"
+        },
+        {
           "title": "Prosecutor Who Rejected Trump’s Pressure to Charge James Is Fired",
           "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-prosecutor-fired-letitia-james.html",
           "source": "NYT > U.S. > Politics",
@@ -118,16 +124,16 @@
           "ts": "Fri, 17 Oct 2025 23:00:05 +0000"
         },
         {
+          "title": "Zelensky guarded on Tomahawk missile talks with Trump after White House meeting",
+          "url": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Fri, 17 Oct 2025 22:57:44 GMT"
+        },
+        {
           "title": "Trump Sets Tariffs on Trucks and Buses and Extends Exemptions for Automakers",
           "url": "https://www.nytimes.com/2025/10/17/business/trump-tariffs-trucks-buses.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 17 Oct 2025 22:54:23 +0000"
-        },
-        {
-          "title": "Trump Says He Is Commuting George Santos’s Prison Sentence for Fraud",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-george-santos-sentence-commute.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 22:47:58 +0000"
         },
         {
           "title": "Zelensky to Meet With Trump to Discuss Weapons and Peace Prospects for Ukraine",
@@ -242,12 +248,6 @@
           "url": "https://www.wsws.org/en/articles/2025/10/17/upzz-o17.html",
           "source": "World Socialist Web Site (en)",
           "ts": "Fri, 17 Oct 2025 10:51:19 GMT"
-        },
-        {
-          "title": "Trump administration says most federal layoffs aren't blocked by court order",
-          "url": "https://www.npr.org/2025/10/17/nx-s1-5577691/layoffs-rifs-government-shutdown-trump",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 17 Oct 2025 09:35:45 -0400"
         }
       ]
     },
@@ -408,12 +408,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2025/10/17/aid-trucks-enter-gazas-khan-younis-after-ceasefire?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 17 Oct 2025 14:49:42 +0000"
-        },
-        {
-          "title": "Government loses bid to block appeal against Palestine Action ban",
-          "url": "https://www.bbc.com/news/articles/ce9dg5v43vmo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Fri, 17 Oct 2025 13:30:56 GMT"
         },
         {
           "title": "“Health care is a universal right”: Kaiser Permanente nurses speak out on third day of strike",
@@ -615,5 +609,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-18T00:00:06.479235Z"
+  "generated_at": "2025-10-18T00:05:07.022037Z"
 }
