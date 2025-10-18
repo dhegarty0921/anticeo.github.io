@@ -94,6 +94,12 @@
           "ts": "Thu, 16 Oct 2025 00:25:13 +0000"
         },
         {
+          "title": "Court to Broaden Order Blocking Many Layoffs as Trump Seeks More Cuts",
+          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 18 Oct 2025 00:52:12 +0000"
+        },
+        {
           "title": "A bid to give Charlie Kirk an honorary degree from the Air Force Academy was withdrawn.",
           "url": "https://www.nytimes.com/live/2025/10/17/us/trump-news-zelensky/a-bid-to-give-charlie-kirk-an-honorary-degree-from-the-air-force-academy-was-withdrawn",
           "source": "NYT > U.S. > Politics",
@@ -200,12 +206,6 @@
           "url": "https://www.aljazeera.com/news/2025/10/17/trump-announces-submarine-attack-in-caribbean-amid-reports-of-survivors?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 17 Oct 2025 21:06:44 +0000"
-        },
-        {
-          "title": "Trump Threatens New Cuts to Federal Aid, Workers During Shutdown",
-          "url": "https://www.nytimes.com/2025/10/17/us/politics/trump-shutdown-cuts-unions.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 17 Oct 2025 20:34:36 +0000"
         },
         {
           "title": "Zelenskyy congratulates Trump on Gaza, asks for help ending Russia’s war",
@@ -597,5 +597,5 @@
       ]
     }
   ],
-  "generated_at": "2025-10-18T00:50:05.636812Z"
+  "generated_at": "2025-10-18T00:55:06.254850Z"
 }
