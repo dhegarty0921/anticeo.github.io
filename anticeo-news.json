@@ -16,55 +16,434 @@
           "ts": "Tue, 21 Oct 2025 16:38:53 GMT"
         },
         {
-          "title": "Hakeem Jeffries says public pressure will force Congress to extend ACA subsidies",
-          "url": "https://www.npr.org/2025/10/21/nx-s1-5580550/hakeem-jeffries-on-the-government-shutdown-and-the-ongoing-stalemate-on-capitol-hill",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 21 Oct 2025 06:46:32 -0400"
+          "title": "Hillary Clinton: Trump ‘destroying’ White House with demolition for ballroom",
+          "url": "https://thehill.com/homenews/administration/5565322-trump-ballroom-project-slammed/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 16:33:59 +0000"
         },
         {
-          "title": "'Cancer doesn't care': Patients pushed past divisive politics to lobby Congress",
-          "url": "https://www.npr.org/sections/shots-health-news/2025/10/21/nx-s1-5576978/cancer-lobby-politics-patients-american-cancer-society-cancer-action-network",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 21 Oct 2025 05:00:00 -0400"
+          "title": "Trump and Putin’s next meeting could be Gaza II or Alaska II",
+          "url": "https://thehill.com/opinion/white-house/5563611-trump-putin-budapest-meeting/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 16:30:00 +0000"
         },
         {
-          "title": "Blue New Jersey is expecting a very close race for governor this November",
-          "url": "https://www.npr.org/2025/10/21/nx-s1-5580619/new-jersey-governor-election-trump",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 21 Oct 2025 05:00:00 -0400"
+          "title": "Johnson condemns alleged death threat against Jeffries by Jan. 6 rioter",
+          "url": "https://thehill.com/homenews/house/5565349-johnson-jeffries-death-threat-jan-6-trump-pardon/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 16:24:39 +0000"
         },
         {
-          "title": "Karine Jean-Pierre on why she left the Democrats — and calls herself independent",
-          "url": "https://www.npr.org/2025/10/21/nx-s1-5423318/karine-jean-pierre-biden-book-democrats",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 21 Oct 2025 05:00:00 -0400"
+          "title": "Live updates: Trump hosts Senate GOP lunch as shutdown strains increase",
+          "url": "https://thehill.com/homenews/administration/5564270-live-updates-trump-government-shutdown/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 16:19:58 +0000"
+        },
+        {
+          "title": "White House: No plans for Trump-Putin meeting in ‘immediate future’",
+          "url": "https://thehill.com/homenews/administration/5565215-trump-putin-meeting-no-plans/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 15:50:36 +0000"
+        },
+        {
+          "title": "How Trump Reprogrammed Funds to Pay Some Workers During the Government Shutdown",
+          "url": "https://www.nytimes.com/2025/10/21/us/politics/trump-shutdown-pay.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 15:26:34 +0000"
+        },
+        {
+          "title": "Pardoned Capitol rioter arrested for allegedly threatening to kill top Democrat",
+          "url": "https://www.bbc.com/news/articles/cm2ej7ly369o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 21 Oct 2025 15:20:41 GMT"
+        },
+        {
+          "title": "Fetterman supports GOP ‘nuking’ filibuster to end shutdown",
+          "url": "https://thehill.com/homenews/senate/5565198-government-shutdown-snap-funding/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 15:17:04 +0000"
+        },
+        {
+          "title": "Jan. 6 Rioter Pardoned by Trump Is Charged With Threatening Hakeem Jeffries",
+          "url": "https://www.nytimes.com/2025/10/21/us/politics/jan-6-rioter-hakeem-jeffries-threats.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 15:08:57 +0000"
+        },
+        {
+          "title": "The Young Republicans racists aren’t ‘kids,’ but they sure aren’t manly",
+          "url": "https://thehill.com/opinion/campaign/5563727-teaching-men-not-fear/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 15:00:00 +0000"
+        },
+        {
+          "title": "Watch live: Trump to host Senate Republicans for Rose Garden lunch",
+          "url": "https://thehill.com/video-clips/5564956-watch-live-trump-senate-gop-rose-garden-lunch/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 15:00:00 +0000"
+        },
+        {
+          "title": "Senate panel to advance Russia state sponsor of terrorism bill",
+          "url": "https://thehill.com/homenews/senate/5565088-russia-state-sponsor-designation/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 14:36:18 +0000"
+        },
+        {
+          "title": "Trump-backed Arizona GOP chair announces House run",
+          "url": "https://thehill.com/homenews/campaign/5565027-gina-swoboda-congress-campaign-arizona/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 14:29:20 +0000"
+        },
+        {
+          "title": "GOP senator has ‘deep concerns’ over Trump plan to import Argentine beef",
+          "url": "https://thehill.com/homenews/senate/5564985-deb-fischer-trump-argentina-beef-imports/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 14:05:06 +0000"
+        },
+        {
+          "title": "Pete Hegseth channels Biden’s Disinformation Governance Board",
+          "url": "https://thehill.com/opinion/5564571-military-media-transparency-pledge/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 14:00:00 +0000"
+        },
+        {
+          "title": "Here are the colleges rejecting Trump’s funding compact",
+          "url": "https://thehill.com/homenews/education/5558934-colleges-reject-donald-trump-administration-compact/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 13:27:57 +0000"
+        },
+        {
+          "title": "Vance arrives in Israel to reinforce Gaza ceasefire",
+          "url": "https://thehill.com/homenews/administration/5564903-trump-middle-east-peace/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 13:16:02 +0000"
+        },
+        {
+          "title": "Thune: White House should pull nomination after reported Ingrassia texts",
+          "url": "https://thehill.com/homenews/senate/5564877-thune-ingrassia-nomination-osc/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 13:09:01 +0000"
+        },
+        {
+          "title": "Trump-endorsed candidate launches primary challenge against Massie",
+          "url": "https://thehill.com/homenews/campaign/5564867-gallrein-campaign-trump-massie-feud/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 13:02:05 +0000"
+        },
+        {
+          "title": "Watch live: Johnson, GOP leaders give remarks as shutdown nears 3-week mark",
+          "url": "https://thehill.com/video-clips/5564785-watch-live-mike-johnson-house-gop-shutdown/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 13:00:00 +0000"
+        },
+        {
+          "title": "DNC increasing spending in New Jersey, Virginia, Pennsylvania",
+          "url": "https://thehill.com/homenews/campaign/5564794-dnc-increasing-spending-new-jersey-virginia-pennsylvania/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 12:50:17 +0000"
+        },
+        {
+          "title": "Jeffries: Trump AI feces video ‘deeply unserious, deeply unpresidential’",
+          "url": "https://thehill.com/homenews/house/5564805-hakeem-jeffries-donald-trump-ai-feces-video/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 12:44:05 +0000"
+        },
+        {
+          "title": "Trump approval ticks up despite GOP shutdown blame: Survey",
+          "url": "https://thehill.com/homenews/administration/5564740-trump-approval-rating-up-gop-shutdown/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 12:03:28 +0000"
+        },
+        {
+          "title": "G.O.P. Senators Oppose Trump Watchdog Nominee After Report of Racist Texts",
+          "url": "https://www.nytimes.com/2025/10/21/us/politics/paul-ingrassia-trump-senate.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 12:01:37 +0000"
+        },
+        {
+          "title": "The Movement: Trump’s Santos shocker divides Republicans",
+          "url": "https://thehill.com/newsletters/the-movement/5564283-trump-george-santos-commutation-republicans/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 12:00:00 +0000"
+        },
+        {
+          "title": "Appeals court allows Trump to deploy National Guard to Portland",
+          "url": "https://www.bbc.com/news/articles/c201k3qky9lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 21 Oct 2025 11:55:58 GMT"
+        },
+        {
+          "title": "White House Works to Preserve Gaza Deal Amid Concerns About Netanyahu",
+          "url": "https://www.nytimes.com/2025/10/20/us/politics/trump-gaza-israel-netanyahu.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 11:49:03 +0000"
+        },
+        {
+          "title": "President Trump's 'best economy' claim tested in Virginia's gubernatorial contest",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/president-trumps-best-economy-claim-tested-virginias-gubernatorial/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 11:33:20 -0400"
+        },
+        {
+          "title": "Trump says Mideast allies ready to handle Hamas if ceasefire resisted",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/donald-trump-says-mideast-allies-ready-handle-hamas-ceasefire/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 10:23:48 -0400"
+        },
+        {
+          "title": "Progressive groups launch $1.4 million campaign to win back Latino voters from Trump",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/progressive-groups-launch-14-million-campaign-win-back-latino-voters/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 10:18:17 -0400"
+        },
+        {
+          "title": "Where's the beef? Here -- not in Argentina, Republican lawmakers say",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/republican-lawmakers-criticize-trump-plan-buy-beef-argentina/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 09:55:56 -0400"
+        },
+        {
+          "title": "Biden rings the bell after completing radiation therapy for cancer",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/ex-president-joe-biden-rings-bell-completing-radiation-therapy-cancer/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 09:31:49 -0400"
+        },
+        {
+          "title": "How Trump-Zelensky Meeting Turned Acrimonious",
+          "url": "https://www.realclearpolitics.com/2025/10/21/how_trump-zelensky_meeting_turned_acrimonious_656071.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 21 Oct 2025 09:13:24 -0500"
+        },
+        {
+          "title": "Cleaning Up Cities Will Have Big Political Consequences",
+          "url": "https://www.realclearpolitics.com/video/2025/10/20/ned_ryun_if_trump_cleans_up_blue_cities_it_will_be_a_threat_to_the_political_future_of_democrats.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 21 Oct 2025 09:09:06 -0500"
+        },
+        {
+          "title": "Belize signs 'safe third country' agreement as part of Trump's immigration crackdown",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/belize-signs-safe-third-country-agreement-part-donald-trumps/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 09:06:25 -0400"
+        },
+        {
+          "title": "This Democrat Lost a Big Race. The Party Is Uneasy About His Return.",
+          "url": "https://www.nytimes.com/2025/10/21/us/politics/mandela-barnes-governors-race-wisconsin.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 09:03:16 +0000"
+        },
+        {
+          "title": "Trump's pick for Office of Special Counsel is in peril because of 'Nazi' and racist text messages",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/ingrassia-trumps-pick-office-special-counsel-peril-nazi-racist/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 08:50:42 -0400"
+        },
+        {
+          "title": "Senate Republicans head to the White House in a show of unity as the shutdown enters its fourth week",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/senate-republicans-heading-white-house-show-unity-shutdown-enters/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 08:34:56 -0400"
+        },
+        {
+          "title": "Congress Should Miss Their Paychecks Too",
+          "url": "https://www.realclearpolitics.com/articles/2025/10/21/congress_should_miss_their_paychecks_too___153426.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 21 Oct 2025 08:16:25 -0500"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
-      "items": []
+      "items": [
+        {
+          "title": "Euphoria’s Jacob Elordi teases ‘incredibly clever’ season three",
+          "url": "https://www.thepinknews.com/2025/10/21/jacob-elordi-euphoria-season-three/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 14:48:01 +0000"
+        },
+        {
+          "title": "Intersex spider named after One Piece character",
+          "url": "https://www.thepinknews.com/2025/10/21/one-piece-is-real-but-its-a-spider/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 14:37:31 +0000"
+        },
+        {
+          "title": "Tom Daley reveals what ‘genuinely surprised’ him about filming The Celebrity Traitors",
+          "url": "https://www.thepinknews.com/2025/10/21/tom-daley-the-celebrity-traitors-surprised/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 14:34:14 +0000"
+        },
+        {
+          "title": "Protestors arrested after standing on rainbow Pride crossing to stop its removal",
+          "url": "https://www.thepinknews.com/2025/10/21/protestors-arrested-after-standing-on-rainbow-pride-crossing-to-stop-its-removal/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 14:14:07 +0000"
+        },
+        {
+          "title": "They couldn’t help Gazans. So they wrote a book they hope might offer comfort and wisdom.",
+          "url": "https://religionnews.com/2025/10/21/they-couldnt-do-anything-to-help-palestinians-in-gaza-so-they-wrote-a-book-they-hope-might-offer-comfort/",
+          "source": "RNS",
+          "ts": "Tue, 21 Oct 2025 14:00:36 +0000"
+        },
+        {
+          "title": "Reform UK appoints same-sex marriage opponent James Orr as Nigel Farage’s senior advisor",
+          "url": "https://www.thepinknews.com/2025/10/21/reform-uk-james-orr-nigel-farage/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 13:50:25 +0000"
+        },
+        {
+          "title": "Pilots mistakenly thought someone was trying to breach cockpit",
+          "url": "https://thehill.com/policy/transportation/5564922-cockpit-breach-false-alarm/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 13:35:24 +0000"
+        },
+        {
+          "title": "National Catholic Reporter names Michael O’Loughlin Executive Editor",
+          "url": "https://religionnews.com/2025/10/21/national-catholic-reporter-names-michael-oloughlin-executive-editor/",
+          "source": "RNS",
+          "ts": "Tue, 21 Oct 2025 13:28:26 +0000"
+        },
+        {
+          "title": "Pastor who called Heartstopper a ‘health risk’ to kids charged with child sexual abuse",
+          "url": "https://www.thepinknews.com/2025/10/21/pastor-who-called-heartstopper-a-health-risk-to-kids-charged-with-child-sexual-abuse/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 13:00:13 +0000"
+        },
+        {
+          "title": "Oxford Union president-elect removed after Charlie Kirk posts",
+          "url": "https://www.thepinknews.com/2025/10/21/oxford-union-president-elect-removed-after-charlie-kirk-posts/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 21 Oct 2025 12:57:51 +0000"
+        },
+        {
+          "title": "Is there religious revival among Gen Z?",
+          "url": "https://religionnews.com/2025/10/21/is-there-religious-revival-among-gen-z/",
+          "source": "RNS",
+          "ts": "Tue, 21 Oct 2025 12:41:43 +0000"
+        },
+        {
+          "title": "Morris Chapman, longtime SBC Executive Committee leader, dead at 84",
+          "url": "https://religionnews.com/2025/10/20/morris-chapman-long-time-sbc-executive-committee-leader-died-at-84/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 21:08:16 +0000"
+        },
+        {
+          "title": "What is Diwali, the Indian festival of lights?",
+          "url": "https://religionnews.com/2025/10/20/what-is-diwali-the-indian-festival-of-lights/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 20:39:04 +0000"
+        },
+        {
+          "title": "Conservative young priests are the future of the American church",
+          "url": "https://religionnews.com/2025/10/20/conservative-young-priests-are-the-future-of-the-american-church/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 20:36:37 +0000"
+        },
+        {
+          "title": "Is religion’s power on its way back in the USA? A growing number of Americans say yes.",
+          "url": "https://religionnews.com/2025/10/20/is-religions-power-on-its-way-back-in-the-usa-a-growing-number-of-americans-say-yes/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 18:00:34 +0000"
+        },
+        {
+          "title": "With steep tariffs on Indian imports, Diwali is expensive to celebrate this year",
+          "url": "https://religionnews.com/2025/10/20/with-steep-tariffs-on-indian-imports-diwali-is-expensive-to-celebrate-this-year/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 17:52:13 +0000"
+        },
+        {
+          "title": "Mexican artisans turn clay into Trees of Life that are celebrated worldwide",
+          "url": "https://religionnews.com/2025/10/20/mexican-artisans-turn-clay-into-trees-of-life-that-are-celebrated-worldwide/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 17:27:35 +0000"
+        },
+        {
+          "title": "After altar wine becomes popular in bars, Kenya’s Catholic bishops order proprietary brand",
+          "url": "https://religionnews.com/2025/10/20/after-altar-wine-becomes-popular-in-bars-kenyas-catholic-bishops-order-proprietary-brand/",
+          "source": "RNS",
+          "ts": "Mon, 20 Oct 2025 17:22:09 +0000"
+        }
+      ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Israel's 'yellow line' in Gaza gives Netanyahu room for manoeuvre",
-          "url": "https://www.bbc.com/news/articles/cx2y9ny653no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 21 Oct 2025 14:47:34 GMT"
+          "title": "Vance optimistic but not ‘100 percent certain’ Gaza ceasefire holds",
+          "url": "https://thehill.com/policy/international/5565291-jd-vance-optimistic-israel-hamas/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 15:59:24 +0000"
         },
         {
-          "title": "Middle East Institute's Natan Sachs on Israel and the future of the ceasefire deal",
-          "url": "https://www.npr.org/2025/10/21/nx-s1-5580298/middle-east-institutes-natan-sachs-on-israel-and-the-future-of-the-ceasefire-deal",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 21 Oct 2025 04:53:20 -0400"
+          "title": "At Yosemite, BASE Jumpers and Drones Are Emboldened by Shutdown",
+          "url": "https://www.nytimes.com/2025/10/21/travel/yosemite-shutdown-base-jumping.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 15:58:40 +0000"
         },
         {
-          "title": "Hamas ruled Gaza with an iron rod - will it really give up control?",
-          "url": "https://www.bbc.com/news/articles/cn51w77vlp9o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 20 Oct 2025 20:58:30 GMT"
+          "title": "Vance Lands in Israel as U.S. Tries to Shore Up Gaza Cease-Fire Deal",
+          "url": "https://www.nytimes.com/2025/10/21/world/middleeast/jd-vance-israel-gaza-ceasefire.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 21 Oct 2025 14:19:48 +0000"
+        },
+        {
+          "title": "Watch live: Vance gives remarks from Israel amid fragile Gaza ceasefire",
+          "url": "https://thehill.com/video-clips/5564863-watch-live-vance-israel-remarks-gaze-ceasefire/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 14:00:00 +0000"
+        },
+        {
+          "title": "From revolutionaries to mercenaries: Cubans fight for Russia in Ukraine",
+          "url": "https://thehill.com/opinion/international/5563440-russia-cuban-mercenaries-ukraine/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 12:30:00 +0000"
+        },
+        {
+          "title": "Private contractor reportedly behind mystery drones last year",
+          "url": "https://thehill.com/policy/technology/5564066-private-contractor-2024-mystery-drones/",
+          "source": "The Hill News",
+          "ts": "Tue, 21 Oct 2025 11:48:23 +0000"
+        },
+        {
+          "title": "British defense chief says U.K. will send troops to Ukraine if peace achieved",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/british-defense-chief-says-uk-send-troops-ukraine-peace-achieved/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 10:15:00 -0400"
+        },
+        {
+          "title": "In Chicago, an immense show of force signals a sharp escalation in White House immigration crackdown",
+          "url": "https://www.washingtontimes.com/news/2025/oct/21/chicago-immense-show-force-signals-sharp-escalation-white-house/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 21 Oct 2025 10:01:30 -0400"
+        },
+        {
+          "title": "Reconquering Lost Ukraine Territory Is Hopeless",
+          "url": "https://www.realclearpolitics.com/2025/10/21/reconquering_lost_ukraine_territory_is_hopeless_656372.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 21 Oct 2025 09:11:45 -0500"
+        },
+        {
+          "title": "Reporters Doth Protest Too Much to Pentagon Restrictions",
+          "url": "https://www.realclearpolitics.com/2025/10/21/reporters_doth_protest_too_much_to_pentagon_restrictions_656072.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 21 Oct 2025 07:56:29 -0500"
+        },
+        {
+          "title": "A Cease-Fire Is a Moment to Count the Dead",
+          "url": "https://www.theatlantic.com/international/archive/2025/10/cease-fire-israel-gaza-palestine/684623/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-10-21T07:00:00-04:00"
+        },
+        {
+          "title": "The end of rent debt?",
+          "url": "https://www.vox.com/policy/462352/back-rent-debt-strike-tenants-landlord-housing-rent",
+          "source": "Vox",
+          "ts": "2025-10-21T06:04:00-04:00"
+        },
+        {
+          "title": "Ukraine’s Underground Generation",
+          "url": "https://www.theatlantic.com/international/archive/2025/10/ukraine-youth-isolation/684365/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-10-19T07:00:00-04:00"
         }
       ]
     },
@@ -73,5 +452,5 @@
       "items": []
     }
   ],
-  "generated_at": "2025-10-21T16:46:24.198468Z"
+  "generated_at": "2025-10-21T16:52:05.629793Z"
 }

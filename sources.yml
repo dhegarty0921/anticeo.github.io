@@ -1,10 +1,52 @@
 feeds:
-# --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
+  # --- CHUDS VS SHITLIBS (US politics/general) ---
+  - https://apnews.com/hub/politics?utm_source=rss&utm_medium=referral&utm_campaign=rss   # AP Politics (Atom/RSS)
+  - https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+  - https://www.npr.org/rss/rss.php?id=1014
+  - https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+  - https://www.washingtontimes.com/rss/headlines/news/politics/
+  - https://www.thehill.com/feed/
+  - https://www.realclearpolitics.com/index.xml
+  - https://www.politico.com/rss/politicopicks.xml
+  - https://headlineusa.com/category/topnews/
+
+  # --- CULTURE WAR (religion/LGBTQ/DEI/education) ---
+  - https://www.religionnews.com/feed/
+  - https://www.theatlantic.com/feed/all/
+  - https://www.nationalreview.com/feeds/latest/
+  - https://www.vox.com/rss/index.xml
+  - https://www.tabletmag.com/feed
+  - https://www.pinknews.co.uk/feed/
+  - https://www.christianitytoday.com/ct/rss.xml
+  - https://www.theguardian.com/us-news/rss
+
+  # --- MILITARY INDUSTRIAL COMPLEX (war/defense) ---
+  - https://www.reuters.com/financeNews/rss
+  - https://www.reuters.com/world/rss
+  - https://www.aljazeera.com/xml/rss/all.xml
+  - https://news.antiwar.com/feed/
+  - https://www.defenseone.com/rss/all/
+  - https://warontherocks.com/feed/
+  - https://www.thedrive.com/category/the-war-zone/feed
+  - https://www.armytimes.com/arc/outboundfeeds/rss/category/news/?outputType=xml
+  - https://www.navalnews.com/feed/
+  - https://www.dw.com/en/top-stories/world/s-1422?maca=en-rss-en-all-1573-rdf
+  - https://quincyinst.org/program-areas/democratizing-foreign-policy/
+  - https://scheerpost.com/category/military/
+
+  # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
+  - https://www.justsecurity.org/feed/
+  - https://theintercept.com/feed/?lang=en
+  - https://www.techdirt.com/feed/
+  - https://www.eff.org/rss/updates.xml
+  - https://www.rollingstone.com/politics/politics-news/feed/
+  - https://www.lawfaremedia.org/rss.xml
+  - https://www.aclu.org/news/feed
+  - https://scheerpost.com/category/military/feed/
+
+  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.reuters.com/rssFeed/topNews
   - https://apnews.com/apf-topnews?output=atom
   - https://www.npr.org/rss/rss.php?id=1001
   - https://www.thecanary.co/uk/news/
-  - https://headlineusa.com/category/topnews/
-  - https://quincyinst.org/program-areas/democratizing-foreign-policy/
-  - https://scheerpost.com/category/military/
