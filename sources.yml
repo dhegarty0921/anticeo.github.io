@@ -1,0 +1,10 @@
+feeds:
+# --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
+  - https://feeds.bbci.co.uk/news/rss.xml
+  - https://www.reuters.com/rssFeed/topNews
+  - https://apnews.com/apf-topnews?output=atom
+  - https://www.npr.org/rss/rss.php?id=1001
+  - https://www.thecanary.co/uk/news/
+  - https://headlineusa.com/category/topnews/
+  - https://quincyinst.org/program-areas/democratizing-foreign-policy/
+  - https://scheerpost.com/category/military/
