@@ -1,6 +1,6 @@
 feeds:
   # --- CHUDS VS SHITLIBS (US politics/general) ---
-  - https://apnews.com/hub/politics?utm_source=rss&utm_medium=referral&utm_campaign=rss   # AP Politics (Atom/RSS)
+  - https://apnews.com/hub/politics?utm_source=rss&utm_medium=referral&utm_campaign= rss   # AP Politics (Atom/RSS)
   - https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
   - https://www.npr.org/rss/rss.php?id=1014                    # NPR Politics
   - https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
@@ -33,6 +33,7 @@ feeds:
   - https://www.dw.com/en/top-stories/world/s-1422?maca=en-rss-en-all-1573-rdf  # DW world
   - https://quincyinst.org/program-areas/democratizing-foreign-policy/
   - https://scheerpost.com/category/military/
+  - https://venezuelanalysis.com/category/news/
 
   # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
   - https://www.justsecurity.org/feed/
