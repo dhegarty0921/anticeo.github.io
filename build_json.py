@@ -7,6 +7,23 @@ CATS   = yaml.safe_load((ROOT / "categories.yml").read_text(encoding="utf-8"))["
 
 def nowz(): return datetime.datetime.utcnow().isoformat()+"Z"
 
+
+from urllib.parse import urlparse
+
+def cap_per_domain(items, max_per=3):
+    buckets = {}
+    out = []
+    for it in items:
+        host = urlparse(it.get("url","")).hostname or ""
+        host = host.lower()
+        if host.startswith("www."): host = host[4:]
+        buckets.setdefault(host, 0)
+        if buckets[host] < max_per:
+            out.append(it)
+            buckets[host] += 1
+    return out
+
+
 # Compile rules (case-insensitive)
 rules = []
 for c in CATS:
