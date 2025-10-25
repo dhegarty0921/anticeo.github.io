@@ -2,182 +2,145 @@
 import json, pathlib, datetime
 from urllib.parse import urlparse
 
-import yaml
-cfg = {}
-p = pathlib.Path("categories.yml")
-if p.exists():
-    cfg = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
-SKIP = set((cfg.get("skip_domains") or []))
+# ---------- Inputs ----------
+NDJSON = pathlib.Path("scraper_out.ndjson")
+OUT    = pathlib.Path("anticeo-news.json")
+CFG    = pathlib.Path("categories.yml")   # optional
 
-def keep_item(it):
-    h = _host_from_url(it.get("url", ""))
-    return h not in SKIP
+# ---------- Optional YAML config ----------
+skip_domains = set()
+per_domain_cap = 3
 
-# when building items or per-section lists:
-items = [it for it in items if keep_item(it)]
-# or:
-for sec in news["sections"]:
-    sec["items"] = [it for it in sec["items"] if keep_item(it)]#!/usr/bin/env python3
-import json, pathlib, datetime
-from urllib.parse import urlparse
+try:
+    import yaml                      # pip install pyyaml
+    if CFG.exists():
+        cfg = yaml.safe_load(CFG.read_text(encoding="utf-8")) or {}
+        skip_domains = set(cfg.get("skip_domains") or [])
+        per_domain_cap = int(cfg.get("per_domain_cap", per_domain_cap))
+except Exception:
+    pass
 
-# --- helpers: host parsing & caps ---
+# ---------- Helpers ----------
+def _nowz() -> str:
+    return datetime.datetime.utcnow().isoformat() + "Z"
+
 def _host(u: str) -> str:
     h = (urlparse(u or "").hostname or "").lower()
     return h[4:] if h.startswith("www.") else h
 
-def cap_per_domain(items, max_per=3):
-    """Limit items list to at most max_per per domain."""
+def dedupe_by_url(items):
+    seen, out = set(), []
+    for it in items:
+        u = it.get("url","")
+        if u and u not in seen:
+            out.append(it); seen.add(u)
+    return out
+
+def cap_per_domain(items, max_per: int):
     counts, out = {}, []
     for it in items:
-        host = _host(it.get("url", ""))
-        if not host:
+        host = _host(it.get("url",""))
+        if not host:  # keep unknowns
             out.append(it); continue
         if counts.get(host, 0) < max_per:
             out.append(it)
             counts[host] = counts.get(host, 0) + 1
     return out
 
-def cap_per_domain_global(sections, max_per=3):
-    """Walk all sections and enforce a global cap per domain."""
+def cap_per_domain_global(sections, max_per: int):
     counts = {}
     for sec in sections:
         kept = []
         for it in sec.get("items", []):
-            host = _host(it.get("url", ""))
-            if not host:
-                kept.append(it); continue
-            if counts.get(host, 0) < max_per:
+            host = _host(it.get("url",""))
+            if not host or counts.get(host, 0) < max_per:
                 kept.append(it)
-                counts[host] = counts.get(host, 0) + 1
+                if host:
+                    counts[host] = counts.get(host, 0) + 1
         sec["items"] = kept
     return sections
 
-# --- your existing code that builds 'news' with 'sections' goes above this line ---
-# Expect something like:
-# news = {
-#   "generated_at": datetime.datetime.utcnow().isoformat()+"Z",
-#   "headline": {...},
-#   "sections": [
-#       {"title":"CHUDS VS SHITLIBS","items":[...]},
-#       {"title":"CULTURE WAR","items":[...]},
-#       {"title":"MILITARY INDUSTRIAL COMPLEX","items":[...]},
-#       {"title":"PARA POLITICAL INTRIGUE","items":[...]},
-#   ]
-# }
+# ---------- Section rules ----------
+RULES = [
+    {"title":"CHUDS VS SHITLIBS",
+     "domains":["thehill.com","realclearpolitics.com","washingtontimes.com","politico.com","npr.org","nytimes.com","bbc.com","headlineusa.com"],
+     "any":["trump","biden","democrat","republican","gop","election","primary","congress","senate","house","white house","campaign"]},
+    {"title":"CULTURE WAR",
+     "domains":["religionnews.com","pinknews.co.uk","vox.com","nationalreview.com","theatlantic.com","theguardian.com","tabletmag.com","christianitytoday.com"],
+     "any":["lgbt","trans","religion","church","faith","dei","campus","pronoun","abortion","book ban","school board","drag","culture war","race","crt"]},
+    {"title":"MILITARY INDUSTRIAL COMPLEX",
+     "domains":["defenseone.com","thedrive.com","warontherocks.com","navalnews.com","armytimes.com","aljazeera.com","reuters.com","dw.com","antiwar.com","quincyinst.org","scheerpost.com","venezuelanalysis.com"],
+     "any":["israel","gaza","palestin","ukraine","nato","pentagon","defense","weapons","missile","airstrike","drone","war","military","army","navy","marines","iran","yemen","hezbollah","taiwan","venezuela"]},
+    {"title":"PARA POLITICAL INTRIGUE",
+     "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","aclu.org","theintercept.com","scheerpost.com"],
+     "any":["cia","fbi","nsa","surveillance","whistleblower","leak","foia","spy","informant","homeland security","doj","dhs","patriot act","9/11","oklahoma city","okc bombing"]}
+]
+ORDER = [r["title"] for r in RULES]
 
-# 1) cap within each section (3 per domain per section)
-for sec in news.get("sections", []):
-    sec["items"] = cap_per_domain(sec.get("items", []), max_per=3)
+def classify(title: str, url: str) -> str:
+    t = (title or "").lower()
+    h = _host(url or "")
+    for r in RULES:                 # domain first
+        if h in (r.get("domains") or []):
+            return r["title"]
+    for r in RULES:                 # keyword next
+        for kw in (r.get("any") or []):
+            if kw in t:
+                return r["title"]
+    return RULES[0]["title"]        # default to first section
 
-# 2) enforce a global cap (3 per domain across *all* sections combined)
-news["sections"] = cap_per_domain_global(news.get("sections", []), max_per=3)
-
-# write file
-pathlib.Path("anticeo-news.json").write_text(
-    json.dumps(news, ensure_ascii=False, indent=2),
-    encoding="utf-8"
-)
-print("Wrote anticeo-news.json with",
-      sum(len(s["items"]) for s in news.get("sections", [])),
-      "categorized items")
-# --- ADD THIS HELPER BLOCK NEAR THE TOP (after imports) ---
-def _host_from_url(u: str) -> str:
-    h = (urlparse(u or "").hostname or "").lower()
-    if h.startswith("www."):
-        h = h[4:]
-    return h
-
-def cap_per_domain(items, max_per=3):
-    """
-    Keep at most max_per items per registrable host.
-    Assumes each item has item["url"] and (optionally) item["title"], item["source"], item["ts"].
-    """
-    counts = {}
-    out = []
-    for it in items:
-        host = _host_from_url(it.get("url", ""))
-        if not host:
-            out.append(it)  # keep items with no host
-            continue
-        if counts.get(host, 0) < max_per:
-            out.append(it)
-            counts[host] = counts.get(host, 0) + 1
-    return out
-# --- END HELPER BLOCK ---
-
-# Compile rules (case-insensitive)
-rules = []
-for c in CATS:
-    pats = [re.compile(pat, re.I) for pat in c.get("any", [])]
-    rules.append({"key": c["key"], "max": c.get("max_items", 40), "pats": pats})
-
-# Load items (NDJSON)
-raw = []
+# ---------- Load items ----------
+items = []
 if NDJSON.exists():
-    for ln in NDJSON.read_text(encoding="utf-8").splitlines():
-        if not ln.strip():
-            continue
+    for line in NDJSON.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line: continue
         try:
-            rec = json.loads(ln)
+            rec = json.loads(line)
         except Exception:
             continue
-        raw.append({
-            "title": rec.get("title","").strip() or "(untitled)",
-            "url":   (rec.get("url") or "#").strip(),
-            "source": (rec.get("source") or "").strip(),
-            "ts":     rec.get("ts") or nowz()
+        u = rec.get("url") or ""
+        h = _host(u)
+        if h and h in skip_domains:
+            continue
+        items.append({
+            "title": rec.get("title") or "",
+            "url": u,
+            "source": rec.get("source") or h or "",
+            "ts": rec.get("ts") or _nowz(),
         })
-else:
-    raw = [{
-        "title":"Hello world","url":"https://example.com/1","source":"Demo","ts":nowz()
-    }]
 
-# Sort newest first (ts can be RFC822 or ISO; keep as string compare fallback)
-def ts_key(x): return x.get("ts","")
-raw.sort(key=ts_key, reverse=True)
+# ---------- Dedupe, classify, cap ----------
+items = dedupe_by_url(items)
 
-# Dedup by URL
-seen=set(); items=[]
-for it in raw:
-    u = it["url"]
-    if u in seen: continue
-    seen.add(u); items.append(it)
-
-# Assign category
-def classify(it):
-    hay = " ".join([it.get("title",""), it.get("source",""), it.get("url","")])
-    for r in rules:
-        if any(p.search(hay) for p in r["pats"]):
-            return r["key"]
-    return None
-
-buckets = {r["key"]: [] for r in rules}
+sections_map = {t: [] for t in ORDER}
 for it in items:
-    cat = classify(it)
-    if cat:
-        buckets[cat].append(it)
+    bucket = classify(it.get("title",""), it.get("url",""))
+    sections_map.setdefault(bucket, []).append(it)
 
-# Cap per-category
 sections = []
-for r in rules:
-    arr = buckets[r["key"]][:r["max"]]
-    sections.append({"title": r["key"], "items": arr})
+for title in ORDER:
+    lst = sections_map.get(title, [])
+    lst = cap_per_domain(lst, per_domain_cap)  # cap inside each section
+    sections.append({"title": title, "items": lst})
 
-# Headline: take the newest across all or fallback
-headline = None
+sections = cap_per_domain_global(sections, per_domain_cap)  # global cap
+
+# ---------- Headline & write ----------
+headline_item = None
 for s in sections:
     if s["items"]:
-        headline = s["items"][0]
+        headline_item = {"title": s["items"][0]["title"], "url": s["items"][0]["url"]}
         break
-if not headline:
-    headline = {"title":"ANTICEO","url":"https://anticeo.com"}
+if not headline_item:
+    headline_item = {"title": "ANTICEO", "url": "https://anticeo.com"}
 
-out = {
-  "headline": headline,
-  "sections": sections,
-  "generated_at": nowz()
+news = {
+    "generated_at": _nowz(),
+    "headline": headline_item,
+    "sections": sections,
 }
 
-(ROOT / "anticeo-news.json").write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-print("Wrote anticeo-news.json with", sum(len(s["items"]) for s in sections), "categorized items")
+OUT.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
+print(f"Wrote {OUT.name} with {sum(len(s['items']) for s in sections)} items "
+      f"(cap={per_domain_cap}/domain; skipped={len(skip_domains)} domains)")
