@@ -1,3 +1,7 @@
+cd ~/anticeo
+cp -a build_json.py build_json.py.bak.$(date -u +%FT%TZ) 2>/dev/null || true
+
+cat > build_json.py <<'PY'
 #!/usr/bin/env python3
 import json, pathlib, datetime
 from urllib.parse import urlparse
@@ -144,3 +148,6 @@ news = {
 OUT.write_text(json.dumps(news, ensure_ascii=False, indent=2), encoding="utf-8")
 print(f"Wrote {OUT.name} with {sum(len(s['items']) for s in sections)} items "
       f"(cap={per_domain_cap}/domain; skipped={len(skip_domains)} domains)")
+PY
+
+chmod +x build_json.py
