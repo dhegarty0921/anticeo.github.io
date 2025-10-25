@@ -17,8 +17,70 @@ def keep_item(it):
 items = [it for it in items if keep_item(it)]
 # or:
 for sec in news["sections"]:
-    sec["items"] = [it for it in sec["items"] if keep_item(it)]
+    sec["items"] = [it for it in sec["items"] if keep_item(it)]#!/usr/bin/env python3
+import json, pathlib, datetime
+from urllib.parse import urlparse
 
+# --- helpers: host parsing & caps ---
+def _host(u: str) -> str:
+    h = (urlparse(u or "").hostname or "").lower()
+    return h[4:] if h.startswith("www.") else h
+
+def cap_per_domain(items, max_per=3):
+    """Limit items list to at most max_per per domain."""
+    counts, out = {}, []
+    for it in items:
+        host = _host(it.get("url", ""))
+        if not host:
+            out.append(it); continue
+        if counts.get(host, 0) < max_per:
+            out.append(it)
+            counts[host] = counts.get(host, 0) + 1
+    return out
+
+def cap_per_domain_global(sections, max_per=3):
+    """Walk all sections and enforce a global cap per domain."""
+    counts = {}
+    for sec in sections:
+        kept = []
+        for it in sec.get("items", []):
+            host = _host(it.get("url", ""))
+            if not host:
+                kept.append(it); continue
+            if counts.get(host, 0) < max_per:
+                kept.append(it)
+                counts[host] = counts.get(host, 0) + 1
+        sec["items"] = kept
+    return sections
+
+# --- your existing code that builds 'news' with 'sections' goes above this line ---
+# Expect something like:
+# news = {
+#   "generated_at": datetime.datetime.utcnow().isoformat()+"Z",
+#   "headline": {...},
+#   "sections": [
+#       {"title":"CHUDS VS SHITLIBS","items":[...]},
+#       {"title":"CULTURE WAR","items":[...]},
+#       {"title":"MILITARY INDUSTRIAL COMPLEX","items":[...]},
+#       {"title":"PARA POLITICAL INTRIGUE","items":[...]},
+#   ]
+# }
+
+# 1) cap within each section (3 per domain per section)
+for sec in news.get("sections", []):
+    sec["items"] = cap_per_domain(sec.get("items", []), max_per=3)
+
+# 2) enforce a global cap (3 per domain across *all* sections combined)
+news["sections"] = cap_per_domain_global(news.get("sections", []), max_per=3)
+
+# write file
+pathlib.Path("anticeo-news.json").write_text(
+    json.dumps(news, ensure_ascii=False, indent=2),
+    encoding="utf-8"
+)
+print("Wrote anticeo-news.json with",
+      sum(len(s["items"]) for s in news.get("sections", [])),
+      "categorized items")
 # --- ADD THIS HELPER BLOCK NEAR THE TOP (after imports) ---
 def _host_from_url(u: str) -> str:
     h = (urlparse(u or "").hostname or "").lower()
