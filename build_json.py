@@ -2,6 +2,23 @@
 import json, pathlib, datetime
 from urllib.parse import urlparse
 
+import yaml
+cfg = {}
+p = pathlib.Path("categories.yml")
+if p.exists():
+    cfg = yaml.safe_load(p.read_text(encoding="utf-8")) or {}
+SKIP = set((cfg.get("skip_domains") or []))
+
+def keep_item(it):
+    h = _host_from_url(it.get("url", ""))
+    return h not in SKIP
+
+# when building items or per-section lists:
+items = [it for it in items if keep_item(it)]
+# or:
+for sec in news["sections"]:
+    sec["items"] = [it for it in sec["items"] if keep_item(it)]
+
 # --- ADD THIS HELPER BLOCK NEAR THE TOP (after imports) ---
 def _host_from_url(u: str) -> str:
     h = (urlparse(u or "").hostname or "").lower()
