@@ -5,7 +5,6 @@ feeds:
   - https://www.npr.org/rss/rss.php?id=1014                    # NPR Politics
   - https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
   - https://www.washingtontimes.com/rss/headlines/news/politics/
-  - https://www.thehill.com/feed/                              # The Hill (site-wide; lots of politics)
   - https://www.realclearpolitics.com/index.xml
   - https://www.politico.com/rss/politicopicks.xml
   - https://headlineusa.com/category/topnews/
