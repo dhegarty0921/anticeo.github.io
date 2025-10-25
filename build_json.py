@@ -1,28 +1,31 @@
 #!/usr/bin/env python3
-import json, pathlib, datetime, re, yaml
-
-ROOT = pathlib.Path(__file__).resolve().parent
-NDJSON = ROOT / "scraper_out.ndjson"
-CATS   = yaml.safe_load((ROOT / "categories.yml").read_text(encoding="utf-8"))["categories"]
-
-def nowz(): return datetime.datetime.utcnow().isoformat()+"Z"
-
-
+import json, pathlib, datetime
 from urllib.parse import urlparse
 
+# --- ADD THIS HELPER BLOCK NEAR THE TOP (after imports) ---
+def _host_from_url(u: str) -> str:
+    h = (urlparse(u or "").hostname or "").lower()
+    if h.startswith("www."):
+        h = h[4:]
+    return h
+
 def cap_per_domain(items, max_per=3):
-    buckets = {}
+    """
+    Keep at most max_per items per registrable host.
+    Assumes each item has item["url"] and (optionally) item["title"], item["source"], item["ts"].
+    """
+    counts = {}
     out = []
     for it in items:
-        host = urlparse(it.get("url","")).hostname or ""
-        host = host.lower()
-        if host.startswith("www."): host = host[4:]
-        buckets.setdefault(host, 0)
-        if buckets[host] < max_per:
+        host = _host_from_url(it.get("url", ""))
+        if not host:
+            out.append(it)  # keep items with no host
+            continue
+        if counts.get(host, 0) < max_per:
             out.append(it)
-            buckets[host] += 1
+            counts[host] = counts.get(host, 0) + 1
     return out
-
+# --- END HELPER BLOCK ---
 
 # Compile rules (case-insensitive)
 rules = []
