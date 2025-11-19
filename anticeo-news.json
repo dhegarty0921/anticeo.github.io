@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T21:16:18.904534Z",
+  "generated_at": "2025-11-19T21:20:33.654175Z",
   "headline": {
     "title": "Larry Summers resigns from OpenAI board after Epstein emails made public",
     "url": "https://www.bbc.com/news/articles/ce868dmz2mdo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Wed, 19 Nov 2025 13:52:41 GMT"
         },
         {
+          "title": "Republicans are losing ground with voters in the latest NPR poll",
+          "url": "https://www.npr.org/2025/11/19/nx-s1-5611482/republicans-are-losing-ground-with-voters-in-the-latest-npr-poll",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 19 Nov 2025 16:15:19 -0500"
+        },
+        {
           "title": "How Kash Patel is roiling the FBI and changing its mission",
           "url": "https://www.npr.org/2025/11/19/nx-s1-5613347/how-kash-patel-is-roiling-the-departme-and-changing-the-mission-of-the-fbi",
           "source": "NPR Topics: Politics",
@@ -39,12 +45,6 @@
           "ts": "Wed, 19 Nov 2025 06:45:44 -0500"
         },
         {
-          "title": "Sen. Maggie Hassan, D-N.H., on the vote to release the Epstein files",
-          "url": "https://www.npr.org/2025/11/19/nx-s1-5612420/sen-maggie-hassan-d-n-h-on-the-vote-to-release-the-epstein-files",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 19 Nov 2025 06:45:33 -0500"
-        },
-        {
           "title": "George Conway, a Vocal Foe of Trump, Eyes Congressional Run",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/george-conway-congressional-run.html",
           "source": "NYT > U.S. > Politics",
@@ -54,7 +54,7 @@
           "title": "Trump Moves to Weaken the Endangered Species Act",
           "url": "https://www.nytimes.com/2025/11/19/climate/trump-endangered-species-act.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 20:01:54 +0000"
+          "ts": "Wed, 19 Nov 2025 21:15:53 +0000"
         },
         {
           "title": "After Shutdown, Labor Department Says Some Data is Gone for Good",
