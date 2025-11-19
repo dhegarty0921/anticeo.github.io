@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T17:50:31.277613Z",
+  "generated_at": "2025-11-19T17:55:38.803729Z",
   "headline": {
     "title": "Larry Summers resigns from OpenAI board after Epstein emails made public",
     "url": "https://www.bbc.com/news/articles/ce868dmz2mdo?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Wed, 19 Nov 2025 05:00:00 -0500"
         },
         {
+          "title": "Trump Says He Will Approve the Release of the Epstein files. But There Are Loopholes.",
+          "url": "https://www.nytimes.com/2025/11/19/us/politics/trump-epstein-files-loopholes.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 19 Nov 2025 17:53:46 +0000"
+        },
+        {
           "title": "F.B.I. Trainee Sues After Being Abruptly Fired Over Display of Gay Pride Flag",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/fbi-gay-pride-flag-lawsuit.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 17:43:08 +0000"
+          "ts": "Wed, 19 Nov 2025 17:49:41 +0000"
         },
         {
           "title": "White House Nominates Consumer Bureau Director Amid Efforts to Shut Agency",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/consumer-bureau-director-nominee-stuart-levenbach.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 19 Nov 2025 16:59:38 +0000"
-        },
-        {
-          "title": "Trump’s Tariffs Sent Trade Plummeting in August",
-          "url": "https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 15:56:07 +0000"
         },
         {
           "title": "Tom Steyer is running for California governor as a populist billionaire",
@@ -179,7 +179,7 @@
           "title": "US Senate receives and passes bill to release Epstein files – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 19 Nov 2025 17:32:55 GMT"
+          "ts": "Wed, 19 Nov 2025 17:45:53 GMT"
         },
         {
           "title": "House Republicans’ attempt to censure Democrat over texts with Epstein fails",
