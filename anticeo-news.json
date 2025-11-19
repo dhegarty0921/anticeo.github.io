@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T23:15:28.447302Z",
+  "generated_at": "2025-11-19T23:20:30.212670Z",
   "headline": {
     "title": "US military officials in Ukraine for talks on ending war",
     "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss"
@@ -15,10 +15,10 @@
           "ts": "Wed, 19 Nov 2025 21:55:06 GMT"
         },
         {
-          "title": "Nvidia shares soar after revenue tops estimates",
+          "title": "Nvidia shares jump after revenue and outlook top estimates",
           "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 19 Nov 2025 22:27:26 GMT"
+          "ts": "Wed, 19 Nov 2025 23:15:36 GMT"
         },
         {
           "title": "Larry Summers resigns from OpenAI board after Epstein emails made public",
@@ -45,6 +45,12 @@
           "ts": "Wed, 19 Nov 2025 12:49:51 -0500"
         },
         {
+          "title": "Why Does Trump, the ‘America First’ President, Keep Looking to Foreign Leaders?",
+          "url": "https://www.nytimes.com/2025/11/19/us/politics/trump-america-first-saudi-tariffs.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 19 Nov 2025 23:16:42 +0000"
+        },
+        {
           "title": "Stalled Contempt Inquiry Into Deportation Flights Springs Back to Life",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/contempt-inquiry-deportation-flights.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/19/us/politics/george-conway-congressional-run.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 19 Nov 2025 20:13:29 +0000"
-        },
-        {
-          "title": "Trump Moves to Weaken the Endangered Species Act",
-          "url": "https://www.nytimes.com/2025/11/19/climate/trump-endangered-species-act.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 21:15:53 +0000"
         },
         {
           "title": "Labor Department skips October jobs report due to government shutdown",
