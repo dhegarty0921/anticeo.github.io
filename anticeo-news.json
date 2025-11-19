@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T17:00:32.903326Z",
+  "generated_at": "2025-11-19T17:05:39.135503Z",
   "headline": {
     "title": "Larry Summers resigns from OpenAI board after Epstein emails made public",
     "url": "https://www.bbc.com/news/articles/ce868dmz2mdo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 19 Nov 2025 05:00:00 -0500"
         },
         {
+          "title": "White House Nominates Consumer Bureau Director Amid Efforts to Shut Agency",
+          "url": "https://www.nytimes.com/2025/11/19/us/politics/consumer-bureau-director-nominee-stuart-levenbach.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 19 Nov 2025 16:59:38 +0000"
+        },
+        {
           "title": "Trump’s Tariffs Sent Trade Plummeting in August",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/19/style/melania-trump-mohammed-bin-salman-dinner.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 19 Nov 2025 16:29:18 +0000"
-        },
-        {
-          "title": "2 Democratic Activists Join a Crowded House Race in Manhattan",
-          "url": "https://www.nytimes.com/2025/11/19/nyregion/shurka-kasky-nadler-election.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 16:10:37 +0000"
         },
         {
           "title": "Imports drop and trade deficit narrows as Trump tariffs take root",
