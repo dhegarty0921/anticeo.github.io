@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T17:30:52.123808Z",
+  "generated_at": "2025-11-19T17:35:49.785954Z",
   "headline": {
     "title": "Larry Summers resigns from OpenAI board after Epstein emails made public",
     "url": "https://www.bbc.com/news/articles/ce868dmz2mdo?at_medium=RSS&at_campaign=rss"
@@ -43,24 +43,6 @@
           "url": "https://www.npr.org/2025/11/19/nx-s1-5611496/trump-dei-women-construction-jobs",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 19 Nov 2025 05:00:00 -0500"
-        },
-        {
-          "title": "White House Nominates Consumer Bureau Director Amid Efforts to Shut Agency",
-          "url": "https://www.nytimes.com/2025/11/19/us/politics/consumer-bureau-director-nominee-stuart-levenbach.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 16:59:38 +0000"
-        },
-        {
-          "title": "Trump’s Tariffs Sent Trade Plummeting in August",
-          "url": "https://www.nytimes.com/2025/11/19/us/politics/trumps-tariffs-trade-data.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 15:56:07 +0000"
-        },
-        {
-          "title": "Melania Trump’s Green Gown Signals Saudi Arabia Diplomatic Ties",
-          "url": "https://www.nytimes.com/2025/11/19/style/melania-trump-mohammed-bin-salman-dinner.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 16:29:18 +0000"
         },
         {
           "title": "Imports drop and trade deficit narrows as Trump tariffs take root",
@@ -158,6 +140,12 @@
           "ts": "2025-11-19T11:36:20-05:00"
         },
         {
+          "title": "Look inside the 2025 L’Oreal USA For Women in Science Awards dinner",
+          "url": "https://www.vox.com/press-room/469621/look-inside-the-2025-loreal-usa-for-women-in-science-awards-dinner",
+          "source": "Vox",
+          "ts": "2025-11-19T12:30:00-05:00"
+        },
+        {
           "title": "The 2025 Future Perfect 25",
           "url": "https://www.vox.com/future-perfect/468923/global-health-development-poverty-trump-usaid-future-perfect",
           "source": "Vox",
@@ -168,12 +156,6 @@
           "url": "https://www.vox.com/politics/469584/liberal-marjorie-taylor-greene-trump-feud-epstein-files-vote-congress-release",
           "source": "Vox",
           "ts": "2025-11-19T07:00:00-05:00"
-        },
-        {
-          "title": "You can keep a child from starving for less than $100",
-          "url": "https://www.vox.com/future-perfect/468551/child-hunger-malnutrition-taimaka-future-perfect-25",
-          "source": "Vox",
-          "ts": "2025-11-19T06:00:00-05:00"
         },
         {
           "title": "Jessica Tisch will remain police commissioner in Mamdani administration",
@@ -197,7 +179,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Ex Treasury boss Summers resigns from OpenAI after named in Epstein files",
+          "url": "https://www.aljazeera.com/economy/2025/11/19/ex-treasury-boss-summers-resigns-from-openai-after-named-in-epstein-files?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 19 Nov 2025 17:01:08 +0000"
+        },
+        {
+          "title": "What is Europe’s role in Sudan’s refugee crisis?",
+          "url": "https://www.aljazeera.com/news/2025/11/19/what-is-europes-role-in-sudans-refugee-crisis?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 19 Nov 2025 16:37:14 +0000"
+        },
+        {
+          "title": "Sudan’s el-Fasher ‘a crime scene’ after RSF takeover: UN aid chief",
+          "url": "https://www.aljazeera.com/news/2025/11/19/sudans-el-fasher-a-crime-scene-after-rsf-takeover-un-aid-chief?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 19 Nov 2025 16:16:11 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
