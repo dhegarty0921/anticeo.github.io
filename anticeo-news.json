@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T19:05:30.676242Z",
+  "generated_at": "2025-11-19T19:10:30.006816Z",
   "headline": {
     "title": "Larry Summers resigns from OpenAI board after Epstein emails made public",
     "url": "https://www.bbc.com/news/articles/ce868dmz2mdo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 19 Nov 2025 06:45:33 -0500"
         },
         {
+          "title": "After Shutdown, Labor Department Says Some Data is Gone For Good",
+          "url": "https://www.nytimes.com/2025/11/19/business/economy/labor-department-economy-data-october.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 19 Nov 2025 19:07:12 +0000"
+        },
+        {
           "title": "Saudi Arabia’s Return to Washington",
           "url": "https://www.nytimes.com/video/us/politics/100000010531003/saudi-arabias-return-to-washington.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/19/us/politics/trump-epstein-files-loopholes.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 19 Nov 2025 18:01:06 +0000"
-        },
-        {
-          "title": "F.B.I. Trainee Sues After Being Abruptly Fired Over Display of Gay Pride Flag",
-          "url": "https://www.nytimes.com/2025/11/19/us/politics/fbi-gay-pride-flag-lawsuit.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 17:49:41 +0000"
         },
         {
           "title": "Tom Steyer is running for California governor as a populist billionaire",
@@ -140,6 +140,12 @@
           "ts": "Tue, 18 Nov 2025 23:25:47 +0000"
         },
         {
+          "title": "Eight Plot-Heavy Books That Will Keep You Turning Pages",
+          "url": "https://www.theatlantic.com/books/2025/11/plot-fiction-action-book-rio-recommendations/684980/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-11-19T13:45:00-05:00"
+        },
+        {
           "title": "RFK Jr.’s Miasma Theory of Health Is Spreading",
           "url": "https://www.theatlantic.com/health/2025/11/nih-pandemic-miasma/684979/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/photography/2025/11/photos-polar-bears-kolyuchin-island-russia/684976/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-19T12:08:45-05:00"
-        },
-        {
-          "title": "Trump’s Self-Damning Response to a Legitimate Question",
-          "url": "https://www.theatlantic.com/ideas/2025/11/trump-mbs-saudi-arabia-khashoggi/684978/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-11-19T12:00:00-05:00"
         },
         {
           "title": "Look inside the 2025 L’Oréal USA For Women in Science Awards dinner",
@@ -179,19 +179,19 @@
           "title": "Justice department will release Epstein files within 30 days, says US attorney general – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 19 Nov 2025 18:48:34 GMT"
+          "ts": "Wed, 19 Nov 2025 19:00:51 GMT"
+        },
+        {
+          "title": "Inside the dawn patrols where San Diego teachers track ICE: ‘We have to resist’",
+          "url": "https://www.theguardian.com/us-news/2025/nov/19/san-diego-teachers-ice-patrols",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 19 Nov 2025 19:00:03 GMT"
         },
         {
           "title": "Will Trump sign the Epstein bill and when could the files be released?",
           "url": "https://www.theguardian.com/us-news/2025/nov/18/epstein-files-release-vote",
           "source": "US news | The Guardian",
           "ts": "Wed, 19 Nov 2025 18:38:53 GMT"
-        },
-        {
-          "title": "Were you affected by the Palisades fire in Los Angeles? We would like to hear from you",
-          "url": "https://www.theguardian.com/us-news/2025/nov/19/pacific-palisades-wildfires-los-angeles",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 19 Nov 2025 17:56:46 GMT"
         }
       ]
     },
