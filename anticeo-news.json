@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T02:10:31.703668Z",
+  "generated_at": "2025-11-20T02:15:28.536348Z",
   "headline": {
     "title": "US military officials in Ukraine for talks on ending war",
     "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 19 Nov 2025 12:49:51 -0500"
         },
         {
+          "title": "House Votes to Kill Bill Allowing Senators to Sue Government",
+          "url": "https://www.nytimes.com/2025/11/19/us/politics/house-votes-to-kill-bill-allowing-senators-to-sue-government.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 02:04:43 +0000"
+        },
+        {
           "title": "Why Does Trump, the ‘America First’ President, Keep Looking to Foreign Leaders?",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/trump-america-first-saudi-tariffs.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/19/us/politics/contempt-inquiry-deportation-flights.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 19 Nov 2025 22:22:55 +0000"
-        },
-        {
-          "title": "George Conway, a Vocal Foe of Trump, Eyes Congressional Run",
-          "url": "https://www.nytimes.com/2025/11/19/us/politics/george-conway-congressional-run.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 20:13:29 +0000"
         },
         {
           "title": "DOJ charges Democratic congresswoman with stealing $5 million in COVID relief money",
@@ -182,10 +182,10 @@
           "ts": "2025-11-19T12:30:00-05:00"
         },
         {
-          "title": "House Democrat faces federal charges for allegedly stealing $5m in disaster funds – US politics live",
+          "title": "Trump says he’s signed the bill to release Epstein files while railing against Democratic ‘hoax’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 01:46:13 GMT"
+          "ts": "Thu, 20 Nov 2025 02:03:35 GMT"
         },
         {
           "title": "Trump signs bill to compel release of more Epstein documents",
