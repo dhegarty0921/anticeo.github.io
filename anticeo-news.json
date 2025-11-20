@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T23:30:38.324437Z",
+  "generated_at": "2025-11-20T23:36:28.997573Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-11-20T07:30:00-05:00"
         },
         {
+          "title": "CDC website altered to reflect RFK Jr’s belief in link between vaccines and autism",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/cdc-website-vaccines-autism",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 23:30:12 GMT"
+        },
+        {
           "title": "White House walks back Trump’s suggestion of executing Democrats who urge military to disobey illegal orders – live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/20/san-francisco-bay-area-poverty-increase",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 22:04:28 GMT"
-        },
-        {
-          "title": "Tears and solemnity at Cheney funeral – but no memorial for those killed in Iraq",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/dick-cheney-funeral-washington",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 21:44:26 GMT"
         }
       ]
     },
