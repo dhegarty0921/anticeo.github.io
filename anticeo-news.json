@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T17:15:36.692987Z",
+  "generated_at": "2025-11-20T17:20:30.889991Z",
   "headline": {
     "title": "Trump signs bill ordering US justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 05:00:00 -0500"
         },
         {
+          "title": "Iran Withdraws From Deal for International Nuclear Inspections",
+          "url": "https://www.nytimes.com/2025/11/20/world/middleeast/iran-deal-nuclear-inspection.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 17:11:21 +0000"
+        },
+        {
           "title": "Lawsuit Challenges Trump Administration Over $1.8 Million in Immigration Fines",
           "url": "https://www.nytimes.com/2025/11/20/us/politics/lawsuit-immigration-penalties.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/trump-dick-cheney-funeral.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 15:58:21 +0000"
-        },
-        {
-          "title": "Wyden Presses for Investigation Into JPMorgan Chase and Epstein",
-          "url": "https://www.nytimes.com/2025/11/20/us/politics/jeffrey-epstein-jpmorgan-chase-ron-wyden.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 14:57:11 +0000"
         },
         {
           "title": "Trump slams Democratic lawmakers for telling military to 'refuse illegal orders'",
@@ -179,7 +179,7 @@
           "title": "US dignitaries gather for Dick Cheney’s funeral but Trump, Obama and Clinton not in attendance – live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 16:56:48 GMT"
+          "ts": "Thu, 20 Nov 2025 17:13:37 GMT"
         },
         {
           "title": "‘Golden crime scene’: Elizabeth Warren calls for inquiry into Trump’s ballroom funding",
