@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T22:15:49.618602Z",
+  "generated_at": "2025-11-20T22:21:46.944439Z",
   "headline": {
     "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
     "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Bipartisan proposal would let clergy opt back in to Social Security",
+          "url": "https://religionnews.com/2025/11/20/bipartisan-proposal-would-let-clergy-opt-back-in-to-social-security/",
+          "source": "RNS",
+          "ts": "Thu, 20 Nov 2025 22:18:59 +0000"
+        },
+        {
           "title": "Catholic clergy, nuns sue Trump admin over Communion access for ICE detainees",
           "url": "https://religionnews.com/2025/11/20/catholic-clergy-nuns-sue-trump-admin-over-lack-of-communion-access/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/11/20/as-ice-descends-on-charlotte-faith-leaders-rally-to-aid-immigrants/",
           "source": "RNS",
           "ts": "Thu, 20 Nov 2025 19:34:30 +0000"
-        },
-        {
-          "title": "A new funding plan puts NYC bishop and Trinity Church at odds",
-          "url": "https://religionnews.com/2025/11/20/a-new-funding-plan-puts-nyc-bishop-and-trinity-church-at-odds/",
-          "source": "RNS",
-          "ts": "Thu, 20 Nov 2025 18:20:51 +0000"
         },
         {
           "title": "Women Keep Ruining the Workplace!!",
@@ -158,6 +158,12 @@
           "ts": "2025-11-20T14:00:00-05:00"
         },
         {
+          "title": "The vaccine tug of war inside the Trump administration, briefly explained",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/469819/robert-f-kennedy-jr-mark-makary-power-struggle-hhs-fda-cdc-vaccines",
+          "source": "Vox",
+          "ts": "2025-11-20T17:15:00-05:00"
+        },
+        {
           "title": "Ethics and Guidelines at Vox.com",
           "url": "https://www.vox.com/2018/12/7/18113237/ethics-and-guidelines-at-vox-com",
           "source": "Vox",
@@ -170,10 +176,10 @@
           "ts": "2025-11-20T07:30:00-05:00"
         },
         {
-          "title": "Kids do not want to go to child-free weddings either",
-          "url": "https://www.vox.com/culture/469701/child-free-wedding-rules-etiquette",
-          "source": "Vox",
-          "ts": "2025-11-20T07:00:00-05:00"
+          "title": "Bay Area’s poverty soared, data shows, as California’s top earners saw windfalls",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/san-francisco-bay-area-poverty-increase",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 22:04:28 GMT"
         },
         {
           "title": "White House walks back Trump’s suggestion of executing Democrats who urge military to disobey illegal orders – live",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/20/dick-cheney-funeral-washington",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 21:44:26 GMT"
-        },
-        {
-          "title": "Justice department investigates handling of Adam Schiff’s mortgage fraud case",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/adam-schiff-mortgage-fraud-investigation-doj",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 21:24:51 GMT"
         }
       ]
     },
