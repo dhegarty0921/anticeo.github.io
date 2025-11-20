@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T21:15:31.515120Z",
+  "generated_at": "2025-11-20T21:20:31.845662Z",
   "headline": {
     "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
     "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 12:13:15 -0500"
         },
         {
+          "title": "Judge Temporarily Blocks Deployment of National Guard in Washington",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/national-guard-washington-dc-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 21:13:52 +0000"
+        },
+        {
           "title": "Trump Calling Reporter ‘Piggy’ Was ‘Frankness,’ White House Says",
           "url": "https://www.nytimes.com/2025/11/20/business/media/trump-leavitt-reporter-piggy.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/dnc-loan-democrats.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 21:00:23 +0000"
-        },
-        {
-          "title": "The F.C.C. chair questioned the BBC over edits to a Trump speech.",
-          "url": "https://www.nytimes.com/live/2025/11/20/us/trump-news-epstein-cheney/the-fcc-chair-questioned-the-bbc-over-trump-speech-edits",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 20:52:24 +0000"
         },
         {
           "title": "Democratic congresswoman accused of bilking COVID money calls charges a 'sham'",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Catholic clergy, nuns sue Trump admin over Communion access for ICE detainees",
+          "url": "https://religionnews.com/2025/11/20/catholic-clergy-nuns-sue-trump-admin-over-lack-of-communion-access/",
+          "source": "RNS",
+          "ts": "Thu, 20 Nov 2025 21:15:48 +0000"
+        },
+        {
           "title": "As ICE descends on Charlotte, faith leaders draw on other cities’ actions to aid immigrants",
           "url": "https://religionnews.com/2025/11/20/as-ice-descends-on-charlotte-faith-leaders-rally-to-aid-immigrants/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/11/20/a-new-funding-plan-puts-nyc-bishop-and-trinity-church-at-odds/",
           "source": "RNS",
           "ts": "Thu, 20 Nov 2025 18:20:51 +0000"
-        },
-        {
-          "title": "Orthodox Judaism is making space for women’s religious leadership – even without traditional ordination",
-          "url": "https://religionnews.com/2025/11/20/orthodox-judaism-is-making-space-for-womens-religious-leadership-even-without-traditional-ordination/",
-          "source": "RNS",
-          "ts": "Thu, 20 Nov 2025 18:03:27 +0000"
         },
         {
           "title": "Women Keep Ruining the Workplace!!",
