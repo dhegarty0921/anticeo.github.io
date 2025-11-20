@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T18:20:32.546195Z",
+  "generated_at": "2025-11-20T18:25:32.053221Z",
   "headline": {
     "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
     "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Thu, 20 Nov 2025 16:27:32 GMT"
         },
         {
+          "title": "Trump says Democratic lawmakers' video is 'seditious behavior, punishable by death'",
+          "url": "https://www.npr.org/2025/11/20/nx-s1-5615190/trump-democrats-military-video-seditious",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 20 Nov 2025 13:23:08 -0500"
+        },
+        {
           "title": "These families' health care costs will balloon if Congress doesn't act on the ACA",
           "url": "https://www.npr.org/2025/11/20/nx-s1-5614949/aca-subsidies-health-insurance-costs",
           "source": "NPR Topics: Politics",
@@ -35,12 +41,6 @@
         {
           "title": "Who are Afrikaners, the group at the center of Trump's dispute with South Africa?",
           "url": "https://www.npr.org/2025/11/20/nx-s1-5606922/afrikaners-trump-south-africa-history-explainer-g20",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 20 Nov 2025 05:00:00 -0500"
-        },
-        {
-          "title": "The latest Epstein emails reveal the powerful people who sought his counsel",
-          "url": "https://www.npr.org/2025/11/20/nx-s1-5613427/epstein-files-chomsky-bannon-summers-democrats",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 20 Nov 2025 05:00:00 -0500"
         },
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "A new funding plan puts NYC bishop and Trinity Church at odds",
+          "url": "https://religionnews.com/2025/11/20/a-new-funding-plan-puts-nyc-bishop-and-trinity-church-at-odds/",
+          "source": "RNS",
+          "ts": "Thu, 20 Nov 2025 18:20:51 +0000"
+        },
+        {
           "title": "Orthodox Judaism is making space for women’s religious leadership – even without traditional ordination",
           "url": "https://religionnews.com/2025/11/20/orthodox-judaism-is-making-space-for-womens-religious-leadership-even-without-traditional-ordination/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/11/20/neo-nazi-leader-admits-plot-to-give-poisoned-candy-to-jewish-kids-in-new-york-city/",
           "source": "RNS",
           "ts": "Thu, 20 Nov 2025 17:59:37 +0000"
-        },
-        {
-          "title": "1 Israeli killed and 3 wounded in West Bank stabbing as UN approves Trump’s Gaza plan",
-          "url": "https://religionnews.com/2025/11/20/1-israeli-killed-and-3-wounded-in-west-bank-stabbing-as-un-approves-trumps-gaza-plan/",
-          "source": "RNS",
-          "ts": "Thu, 20 Nov 2025 17:55:03 +0000"
         },
         {
           "title": "To Get Happier, Make Yourself Smaller",
@@ -199,10 +199,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "‘Chaotic’ culture in UK government led to more COVID deaths, inquiry finds",
-          "url": "https://www.aljazeera.com/news/2025/11/20/chaotic-culture-in-uk-government-led-to-more-covid-deaths-inquiry-finds?traffic_source=rss",
+          "title": "Mamdani says he will ‘stand up for New Yorkers’ in Trump meeting",
+          "url": "https://www.aljazeera.com/news/2025/11/20/mamdani-says-he-will-stand-up-for-new-yorkers-in-trump-meeting?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 20 Nov 2025 17:34:59 +0000"
+          "ts": "Thu, 20 Nov 2025 18:12:01 +0000"
         }
       ]
     },
