@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T22:46:49.010989Z",
+  "generated_at": "2025-11-20T22:50:43.177651Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "Nydia Velázquez, a New York Trailblazer in Congress, to Retire Next Year",
           "url": "https://www.nytimes.com/2025/11/20/nyregion/nydia-velazquez-retire.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 22:00:22 +0000"
+          "ts": "Thu, 20 Nov 2025 22:00:23 +0000"
         },
         {
           "title": "Judge Temporarily Blocks Trump From Deploying National Guard in D.C.",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The theology of climate denial comes to the Pentagon",
+          "url": "https://religionnews.com/2025/11/20/4232349/",
+          "source": "RNS",
+          "ts": "Thu, 20 Nov 2025 22:47:45 +0000"
+        },
+        {
           "title": "Bipartisan proposal would let clergy opt back in to Social Security",
           "url": "https://religionnews.com/2025/11/20/bipartisan-proposal-would-let-clergy-opt-back-in-to-social-security/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/11/20/catholic-clergy-nuns-sue-trump-admin-over-lack-of-communion-access/",
           "source": "RNS",
           "ts": "Thu, 20 Nov 2025 21:15:48 +0000"
-        },
-        {
-          "title": "As ICE descends on Charlotte, faith leaders draw on other cities’ actions to aid immigrants",
-          "url": "https://religionnews.com/2025/11/20/as-ice-descends-on-charlotte-faith-leaders-rally-to-aid-immigrants/",
-          "source": "RNS",
-          "ts": "Thu, 20 Nov 2025 19:34:30 +0000"
         },
         {
           "title": "The CDC’s Website Is Anti-Vaccine Now",
