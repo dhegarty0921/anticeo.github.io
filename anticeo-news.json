@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T12:15:48.171827Z",
+  "generated_at": "2025-11-20T12:20:51.249861Z",
   "headline": {
     "title": "Trump signs bill ordering US justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "Wed, 19 Nov 2025 22:12:46 +0000"
         },
         {
+          "title": "A Self-Defeating Reversal on Ukraine",
+          "url": "https://www.theatlantic.com/international/2025/11/self-defeating-reversal-ukraine/684990/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-11-20T07:12:03-05:00"
+        },
+        {
           "title": "The Green Machine",
           "url": "https://www.theatlantic.com/politics/2025/11/border-patrol-ice-immigration-charlotte/684986/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/politics/2025/11/trump-has-lost-control/684987/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-19T19:49:00-05:00"
-        },
-        {
-          "title": "Trump’s Toddler Response to the Epstein Saga",
-          "url": "https://www.theatlantic.com/ideas/2025/11/trumps-epstein-files-congress/684984/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-11-19T16:40:00-05:00"
         },
         {
           "title": "Kids do not want to go to child-free weddings either",
@@ -188,8 +188,8 @@
           "ts": "Thu, 20 Nov 2025 11:00:06 GMT"
         },
         {
-          "title": "In Tennessee, Democrats hope a ‘coalition of the pissed off’ will flip a red district",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/tennessee-democrats-aftyn-behn",
+          "title": "Larry Ellison discussed axing CNN hosts with White House in takeover bid talks",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/warner-bros-discovery-takeover-paramount-skydance-larry-ellison",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 11:00:05 GMT"
         }
