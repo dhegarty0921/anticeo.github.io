@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T18:00:46.086730Z",
+  "generated_at": "2025-11-20T18:06:36.121588Z",
   "headline": {
     "title": "Trump signs bill ordering US justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Thu, 20 Nov 2025 05:00:00 -0500"
         },
         {
+          "title": "Democrats Raise Concerns Over Allied Curbs on Intelligence Sharing",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/democrats-allies-intelligence-sharing.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 17:54:56 +0000"
+        },
+        {
           "title": "Iran Withdraws From Deal for International Nuclear Inspections",
           "url": "https://www.nytimes.com/2025/11/20/world/middleeast/iran-deal-nuclear-inspection.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 17:11:21 +0000"
+          "ts": "Thu, 20 Nov 2025 17:56:42 +0000"
         },
         {
           "title": "Lawsuit Challenges Trump Administration Over $1.8 Million in Immigration Fines",
           "url": "https://www.nytimes.com/2025/11/20/us/politics/lawsuit-immigration-penalties.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 16:56:12 +0000"
-        },
-        {
-          "title": "Trump Was Not Invited to Cheney’s Memorial Service",
-          "url": "https://www.nytimes.com/2025/11/20/us/politics/trump-dick-cheney-funeral.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 15:58:21 +0000"
         },
         {
           "title": "Federal immigration crackdown ends in Charlotte, North Carolina, sheriff says",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Orthodox Judaism is making space for women’s religious leadership – even without traditional ordination",
+          "url": "https://religionnews.com/2025/11/20/orthodox-judaism-is-making-space-for-womens-religious-leadership-even-without-traditional-ordination/",
+          "source": "RNS",
+          "ts": "Thu, 20 Nov 2025 18:03:27 +0000"
+        },
+        {
           "title": "Neo-Nazi leader admits plot to give poisoned candy to Jewish kids in New York City",
           "url": "https://religionnews.com/2025/11/20/neo-nazi-leader-admits-plot-to-give-poisoned-candy-to-jewish-kids-in-new-york-city/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/11/20/1-israeli-killed-and-3-wounded-in-west-bank-stabbing-as-un-approves-trumps-gaza-plan/",
           "source": "RNS",
           "ts": "Thu, 20 Nov 2025 17:55:03 +0000"
-        },
-        {
-          "title": "Democrats urge Trump administration to keep banning churches from endorsing politicians",
-          "url": "https://religionnews.com/2025/11/20/exclusive-democrats-urge-trump-administration-to-keep-ban-on-letting-churches-endorse/",
-          "source": "RNS",
-          "ts": "Thu, 20 Nov 2025 17:07:32 +0000"
         },
         {
           "title": "To Get Happier, Make Yourself Smaller",
@@ -176,6 +176,12 @@
           "ts": "2025-11-20T06:30:00-05:00"
         },
         {
+          "title": "‘Golden crime scene’: Elizabeth Warren calls for inquiry into Trump’s ballroom funding",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/elizabeth-warren-trump-ballroom",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 18:00:24 GMT"
+        },
+        {
           "title": "US dignitaries gather for Dick Cheney’s funeral but Trump, Obama and Clinton not in attendance – live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/20/dick-cheney-funeral-trump-vance",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 17:21:10 GMT"
-        },
-        {
-          "title": "‘Golden crime scene’: Elizabeth Warren calls for inquiry into Trump’s ballroom funding",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/elizabeth-warren-trump-ballroom",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 16:29:00 GMT"
         }
       ]
     },
