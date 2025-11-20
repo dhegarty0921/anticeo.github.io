@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T01:50:30.123867Z",
+  "generated_at": "2025-11-20T01:55:30.706506Z",
   "headline": {
     "title": "US military officials in Ukraine for talks on ending war",
     "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss"
@@ -146,7 +146,7 @@
           "ts": "Wed, 19 Nov 2025 22:12:46 +0000"
         },
         {
-          "title": "Trump 2.0 Suddenly Looks Like Trump 1.0",
+          "title": "The Trump Steamroller Is Broken",
           "url": "https://www.theatlantic.com/politics/2025/11/trump-has-lost-control/684987/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-19T19:49:00-05:00"
@@ -182,6 +182,12 @@
           "ts": "2025-11-19T12:30:00-05:00"
         },
         {
+          "title": "House Democrat faces federal charges for allegedly stealing $5m in disaster funds – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 01:46:13 GMT"
+        },
+        {
           "title": "Trump signs bill to compel release of more Epstein documents",
           "url": "https://www.theguardian.com/us-news/2025/nov/19/trump-sign-bill-epstein-files",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/19/sheila-cherfilus-mccormick-indicted",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 01:05:35 GMT"
-        },
-        {
-          "title": "House Democrat faces federal charges for allegedly stealing $5m in disaster funds – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 00:58:00 GMT"
         }
       ]
     },
