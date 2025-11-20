@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T17:10:35.921008Z",
+  "generated_at": "2025-11-20T17:15:36.692987Z",
   "headline": {
     "title": "Trump signs bill ordering US justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Thu, 20 Nov 2025 16:22:10 GMT"
         },
         {
+          "title": "These families' health care costs will balloon if Congress doesn't act on the ACA",
+          "url": "https://www.npr.org/2025/11/20/nx-s1-5614949/aca-subsidies-health-insurance-costs",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 20 Nov 2025 12:13:15 -0500"
+        },
+        {
           "title": "Who are Afrikaners, the group at the center of Trump's dispute with South Africa?",
           "url": "https://www.npr.org/2025/11/20/nx-s1-5606922/afrikaners-trump-south-africa-history-explainer-g20",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2025/11/20/nx-s1-5613427/epstein-files-chomsky-bannon-summers-democrats",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 20 Nov 2025 05:00:00 -0500"
-        },
-        {
-          "title": "2 Senators want to hold big tech accountable for harms caused by algorithms",
-          "url": "https://www.npr.org/2025/11/19/nx-s1-5612042/social-media-algorithm-accountability",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 20 Nov 2025 04:51:39 -0500"
         },
         {
           "title": "Lawsuit Challenges Trump Administration Over $1.8 Million in Immigration Fines",
