@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T14:55:33.651931Z",
+  "generated_at": "2025-11-20T15:00:27.928479Z",
   "headline": {
     "title": "Trump signs bill ordering US justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 04:51:39 -0500"
         },
         {
+          "title": "Wyden Presses for Investigation Into JPMorgan Chase and Epstein",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/jeffrey-epstein-jpmorgan-chase-ron-wyden.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 14:57:11 +0000"
+        },
+        {
           "title": "C.D.C. Website No Longer Rejects Possible Link Between Autism and Vaccines",
           "url": "https://www.nytimes.com/2025/11/20/health/vaccine-autism-cdc-website.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/dick-cheney-funeral-memorial.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 13:30:58 +0000"
-        },
-        {
-          "title": "Tennessee House Race Rivets Democrats and Worries Republicans",
-          "url": "https://www.nytimes.com/2025/11/20/us/politics/tennessee-house-race-behn-van-epps-trump-harris.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 10:04:48 +0000"
         },
         {
           "title": "Bills eliminating D.C.'s cashless bail, rolling back police changes pass House",
