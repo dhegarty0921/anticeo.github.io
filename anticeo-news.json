@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T05:30:31.629445Z",
+  "generated_at": "2025-11-20T05:35:31.139615Z",
   "headline": {
     "title": "Trump signs bill ordering justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2025-11-19T12:30:00-05:00"
         },
         {
+          "title": "Trump and Mamdani to meet in Oval Office on Friday after months of bickering",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/donald-trump-zohran-mamdani-nyc-mayor-elect-meeting",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 05:15:49 GMT"
+        },
+        {
           "title": "Trump says he signed bill to release Epstein files, then announces meeting with Zohran Mamdani – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/19/trump-sign-bill-epstein-files",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 03:01:14 GMT"
-        },
-        {
-          "title": "Larry Summers to relinquish Harvard teaching role amid Epstein investigation",
-          "url": "https://www.theguardian.com/us-news/2025/nov/19/larry-summers-harvard-epstein",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 02:52:31 GMT"
         }
       ]
     },
