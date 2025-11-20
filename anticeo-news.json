@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T09:45:39.777671Z",
+  "generated_at": "2025-11-20T09:50:30.147606Z",
   "headline": {
     "title": "Trump signs bill ordering justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 19 Nov 2025 16:15:19 -0500"
         },
         {
+          "title": "Catholic Group Sues Trump Administration for Access to Immigration Facility",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/catholic-broadview-ice-immigration-lawsuit.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 09:42:19 +0000"
+        },
+        {
           "title": "House Votes to Kill Bill Allowing Senators to Sue Government",
           "url": "https://www.nytimes.com/2025/11/19/us/politics/house-votes-to-kill-bill-allowing-senators-to-sue-government.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/19/us/politics/trump-america-first-saudi-tariffs.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 19 Nov 2025 23:16:42 +0000"
-        },
-        {
-          "title": "Stalled Contempt Inquiry Into Deportation Flights Springs Back to Life",
-          "url": "https://www.nytimes.com/2025/11/19/us/politics/contempt-inquiry-deportation-flights.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 19 Nov 2025 22:22:55 +0000"
         },
         {
           "title": "Judge blocks Trump from ending deportation amnesty for Syrians",
@@ -185,7 +185,7 @@
           "title": "Justice department has 30 days to release all Epstein files after Trump signs bill – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 09:26:17 GMT"
+          "ts": "Thu, 20 Nov 2025 09:40:32 GMT"
         },
         {
           "title": "Trump and Mamdani to meet in Oval Office on Friday after months of bickering",
