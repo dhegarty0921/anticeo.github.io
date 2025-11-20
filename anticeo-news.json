@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T20:30:13.224847Z",
+  "generated_at": "2025-11-20T20:35:30.231826Z",
   "headline": {
     "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
     "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "Trump Accuses Democrats of ‘Sedition’ Over Message to the Military",
           "url": "https://www.nytimes.com/2025/11/20/us/politics/trump-accuses-democratic-lawmakers-of-sedition-over-message-to-the-military.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 20:04:11 +0000"
+          "ts": "Thu, 20 Nov 2025 20:30:17 +0000"
         },
         {
           "title": "U.S. Ran a War Game on Ousting Maduro. Venezuela Fell Into Chaos.",
@@ -140,6 +140,12 @@
           "ts": "Thu, 20 Nov 2025 18:03:27 +0000"
         },
         {
+          "title": "The Ghislaine Maxwell Emails",
+          "url": "https://www.theatlantic.com/politics/2025/11/ghislaine-maxwell-emails-prison-trump/684993/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-11-20T15:19:00-05:00"
+        },
+        {
           "title": "When Border Patrol Comes to Town",
           "url": "https://www.theatlantic.com/podcasts/2025/11/when-border-patrol-comes-town/684989/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/ideas/2025/11/happiness-confidence-grandness-humility/684988/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-20T12:00:00-05:00"
-        },
-        {
-          "title": "President Piggy",
-          "url": "https://www.theatlantic.com/culture/2025/11/trump-quiet-piggy-women-journalists/684982/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-11-20T10:17:00-05:00"
         },
         {
           "title": "Ethics and Guidelines at Vox.com",
@@ -179,19 +179,19 @@
           "title": "White House walks back Trump’s suggestion of executing Democrats who urge military to disobey illegal orders – live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 20:09:19 GMT"
+          "ts": "Thu, 20 Nov 2025 20:29:28 GMT"
+        },
+        {
+          "title": "Democrats condemn Trump after he says they should be punished ‘by death’ over video post",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/democrats-condemn-trump-military-video-post",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 20:15:45 GMT"
         },
         {
           "title": "Republicans warn Bondi not to bury Epstein files after law’s passage",
           "url": "https://www.theguardian.com/us-news/2025/nov/20/epstein-files-republicans-warn-bondi",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 19:56:53 GMT"
-        },
-        {
-          "title": "Documents reveal Gerald Ford’s effort to block report on CIA assassination plots",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/senate-report-cia-assassination-plots-gerald-ford",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 19:34:20 GMT"
         }
       ]
     },
