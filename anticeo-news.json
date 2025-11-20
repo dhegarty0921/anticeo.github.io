@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T20:45:36.969069Z",
+  "generated_at": "2025-11-20T20:50:32.159629Z",
   "headline": {
     "title": "Bush lauds Dick Cheney as a 'thinker and listener' at funeral",
     "url": "https://www.bbc.com/news/articles/c93x3er4l9zo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 05:00:00 -0500"
         },
         {
+          "title": "The F.C.C. chair questioned the BBC over Trump speech edits.",
+          "url": "https://www.nytimes.com/live/2025/11/20/us/trump-news-epstein-cheney/the-fcc-chair-questioned-the-bbc-over-trump-speech-edits",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 20 Nov 2025 20:48:20 +0000"
+        },
+        {
           "title": "Richard Lamparski, Author of ‘Whatever Became Of …?’ Books, Dies at 93",
           "url": "https://www.nytimes.com/2025/11/20/books/richard-lamparski-dead.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/trump-accuses-democratic-lawmakers-of-sedition-over-message-to-the-military.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 20:30:17 +0000"
-        },
-        {
-          "title": "U.S. Ran a War Game on Ousting Maduro. Venezuela Fell Into Chaos.",
-          "url": "https://www.nytimes.com/2025/11/20/us/politics/venezuela-maduro-fallout-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 19:17:58 +0000"
         },
         {
           "title": "Democratic congresswoman accused of bilking COVID money calls charges a 'sham'",
@@ -179,7 +179,7 @@
           "title": "White House walks back Trump’s suggestion of executing Democrats who urge military to disobey illegal orders – live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 20:29:28 GMT"
+          "ts": "Thu, 20 Nov 2025 20:32:17 GMT"
         },
         {
           "title": "Democrats condemn Trump after he says they should be punished ‘by death’ over video post",
