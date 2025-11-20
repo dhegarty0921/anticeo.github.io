@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T02:20:30.089090Z",
+  "generated_at": "2025-11-20T02:25:30.979449Z",
   "headline": {
     "title": "US military officials in Ukraine for talks on ending war",
     "url": "https://www.bbc.com/news/articles/cvgdgrqwnq9o?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2025-11-19T12:30:00-05:00"
         },
         {
+          "title": "Larry Summers to relinquish Harvard teaching role amid Epstein investigation",
+          "url": "https://www.theguardian.com/us-news/2025/nov/19/larry-summers-harvard-epstein",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 20 Nov 2025 02:19:30 GMT"
+        },
+        {
           "title": "Trump says he’s signed the bill to release Epstein files while railing against Democratic ‘hoax’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/19/us-congress-epstein-files-donald-trump-saudi-arabia-redistricting-latest-news-updates",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/19/trump-sign-bill-epstein-files",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 01:35:26 GMT"
-        },
-        {
-          "title": "Democratic Florida lawmaker indicted for allegedly stealing $5m in Fema funds",
-          "url": "https://www.theguardian.com/us-news/2025/nov/19/sheila-cherfilus-mccormick-indicted",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 01:05:35 GMT"
         }
       ]
     },
