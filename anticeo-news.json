@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T12:00:30.711875Z",
+  "generated_at": "2025-11-20T12:06:46.604115Z",
   "headline": {
     "title": "Trump signs bill ordering US justice department to release Epstein files",
     "url": "https://www.bbc.com/news/articles/cly2y40lj5go?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2025-11-19T16:40:00-05:00"
         },
         {
+          "title": "Kids do not want to go to child-free weddings either",
+          "url": "https://www.vox.com/culture/469701/child-free-wedding-rules-etiquette",
+          "source": "Vox",
+          "ts": "2025-11-20T07:00:00-05:00"
+        },
+        {
           "title": "Why prices won’t — and shouldn’t — go down",
           "url": "https://www.vox.com/podcasts/469737/prices-inflation-groceries-costs-economy-affordability",
           "source": "Vox",
@@ -176,16 +182,10 @@
           "ts": "2025-11-20T06:00:00-05:00"
         },
         {
-          "title": "The DOJ’s big screwups, briefly explained",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/469767/justice-department-texas-gerrymander-james-comey-indictment-screwups",
-          "source": "Vox",
-          "ts": "2025-11-19T18:05:00-05:00"
-        },
-        {
           "title": "Justice department has 30 days to release all Epstein files after Trump signs bill – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 11:38:16 GMT"
+          "ts": "Thu, 20 Nov 2025 11:55:06 GMT"
         },
         {
           "title": "Trump officials reveal plan to roll back regulations in Endangered Species Act",
