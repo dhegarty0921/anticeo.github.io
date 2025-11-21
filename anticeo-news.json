@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T11:35:31.630952Z",
+  "generated_at": "2025-11-21T11:40:33.258948Z",
   "headline": {
     "title": "Trump calls Democrat video to troops 'seditious behaviour, punishable by death'",
     "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss"
@@ -12,7 +12,7 @@
           "title": "Trump calls Democrat video to troops 'seditious behaviour, punishable by death'",
           "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Fri, 21 Nov 2025 01:19:09 GMT"
+          "ts": "Fri, 21 Nov 2025 11:39:35 GMT"
         },
         {
           "title": "Zelensky ready to work with US on 'their vision' for ending Ukraine war",
@@ -146,6 +146,12 @@
           "ts": "Thu, 20 Nov 2025 22:47:45 +0000"
         },
         {
+          "title": "The Growing Fissures in MAGA World",
+          "url": "https://www.theatlantic.com/ideas/2025/11/rifts-growing-maga-trump-successor-2028/684994/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-11-21T06:30:00-05:00"
+        },
+        {
           "title": "Trump’s Dreadful Peace Plan for Ukraine",
           "url": "https://www.theatlantic.com/ideas/2025/11/trump-sell-out-ukraine/684996/?utm_source=feed",
           "source": "The Atlantic",
@@ -156,12 +162,6 @@
           "url": "https://www.theatlantic.com/newsletters/2025/11/atlantic-online-1995-early-internet/685004/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-20T19:16:00-05:00"
-        },
-        {
-          "title": "The Last Device You’ll Ever Need",
-          "url": "https://www.theatlantic.com/newsletters/2025/11/ai-wearable-smart-devices-tech-meta/685002/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-11-20T18:00:00-05:00"
         },
         {
           "title": "The surprisingly profound debate over whether fish feel pain",
@@ -182,6 +182,12 @@
           "ts": "2025-11-20T14:32:29-05:00"
         },
         {
+          "title": "Trump accused of calling for execution of Democrats – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 11:30:07 GMT"
+        },
+        {
           "title": "The FBI spied on a Signal group chat of immigration activists, records reveal",
           "url": "https://www.theguardian.com/us-news/2025/nov/21/fbi-signal-group-chat-immigration",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/21/veteran-arrested-ice-lawsuit-dana-briggs",
           "source": "US news | The Guardian",
           "ts": "Fri, 21 Nov 2025 11:00:09 GMT"
-        },
-        {
-          "title": "White House walks back Trump’s suggestion of executing Democrats, stands by ‘piggy’ insult to reporter– as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 02:54:53 GMT"
         }
       ]
     },
