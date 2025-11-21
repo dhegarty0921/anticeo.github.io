@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T02:20:27.707854Z",
+  "generated_at": "2025-11-21T02:27:14.526719Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-11-20T07:30:00-05:00"
         },
         {
+          "title": "Trump news at a glance: president says Democrats should be arrested for ‘seditious behavior’, drawing outrage",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/trump-news-at-a-glance-democrats",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 02:03:59 GMT"
+        },
+        {
           "title": "White House walks back Trump’s suggestion of executing Democrats, stands by ‘piggy’ insult to reporter– live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/20/white-house-defends-trump-piggy-insult",
           "source": "US news | The Guardian",
           "ts": "Fri, 21 Nov 2025 00:52:24 GMT"
-        },
-        {
-          "title": "Mahmoud Khalil sues Trump officials over ‘collusion’ with anti-Palestinian groups",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 00:25:26 GMT"
         }
       ]
     },
