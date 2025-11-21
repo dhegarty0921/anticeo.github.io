@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T00:15:33.573511Z",
+  "generated_at": "2025-11-21T00:20:34.332633Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 12:13:15 -0500"
         },
         {
+          "title": "Judge Concludes Prosecutors Can Circumvent Federal Grand Juries in D.C.",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/judge-trump-washington-grand-juries.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 21 Nov 2025 00:16:33 +0000"
+        },
+        {
           "title": "Coast Guard Softens Stance on Hate and Hazing",
           "url": "https://www.nytimes.com/2025/11/20/us/politics/coast-guard-hate-crimes.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/climate/clean-energy-department-offices.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 22:38:54 +0000"
-        },
-        {
-          "title": "Nydia Velázquez, a New York Trailblazer in Congress, to Retire Next Year",
-          "url": "https://www.nytimes.com/2025/11/20/nyregion/nydia-velazquez-retire.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 23:48:54 +0000"
         },
         {
           "title": "Judge criticizes federal prosecutors for relying on testimony by officer with credibility concerns",
