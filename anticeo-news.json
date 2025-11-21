@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T17:07:24.020556Z",
+  "generated_at": "2025-11-21T17:11:58.186945Z",
   "headline": {
     "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
     "url": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss"
@@ -182,7 +182,13 @@
           "ts": "2025-11-20T17:15:00-05:00"
         },
         {
-          "title": "Trump’s threats amount to calls for ‘execution of elected officials’, says Chuck Schumer – US politics live",
+          "title": "US Representative Eric Swalwell announces run for California governor",
+          "url": "https://www.theguardian.com/us-news/2025/nov/21/eric-swalwell-california-governor",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 17:03:42 GMT"
+        },
+        {
+          "title": "Trump claims he’s ‘not threatening death’ for Democrats but says ‘they’re in serious trouble’ as he prepares to meet Mamdani – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Fri, 21 Nov 2025 16:50:06 GMT"
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/21/fbi-signal-group-chat-immigration",
           "source": "US news | The Guardian",
           "ts": "Fri, 21 Nov 2025 16:35:14 GMT"
-        },
-        {
-          "title": "New Orleans archbishop apologizes to survivors who claim they were abused by clergy",
-          "url": "https://www.theguardian.com/us-news/2025/nov/21/new-orleans-archbishop-apologizes-clergy-abuse-survivors",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 15:52:13 GMT"
         }
       ]
     },
