@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T01:05:38.925117Z",
+  "generated_at": "2025-11-21T01:10:51.895023Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 12:13:15 -0500"
         },
         {
+          "title": "Qaeda Convict Returns to Guantánamo Court 17 Years After Trial",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/al-qaeda-guantanamo-court.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 21 Nov 2025 01:04:31 +0000"
+        },
+        {
           "title": "Judge Concludes Prosecutors Can Circumvent Federal Grand Juries in D.C.",
           "url": "https://www.nytimes.com/2025/11/20/us/politics/judge-trump-washington-grand-juries.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/coast-guard-hate-crimes.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 20 Nov 2025 23:56:04 +0000"
-        },
-        {
-          "title": "Energy Department Reorganization Reflects Shift Away From Renewable Energy",
-          "url": "https://www.nytimes.com/2025/11/20/climate/clean-energy-department-offices.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 22:38:54 +0000"
         },
         {
           "title": "Judge criticizes federal prosecutors for relying on testimony by officer with credibility concerns",
@@ -97,24 +97,6 @@
           "url": "https://www.realclearpolitics.com/2025/11/20/some_justice_for_my_daughter_killed_by_illegal_immigrant_668650.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Thu, 20 Nov 2025 14:10:34 -0600"
-        },
-        {
-          "title": "'Our most important battle’: Obama privately urges freshman Dems to fight cynicism",
-          "url": "https://www.politico.com/news/2025/11/20/obama-meets-freshman-lawmakers-congress-00663615",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 20 Nov 2025 16:59:30 EST"
-        },
-        {
-          "title": "Cash-strapped DNC takes on $15 million in loans",
-          "url": "https://www.politico.com/news/2025/11/20/dnc-loan-elections-fundraising-00663982",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 20 Nov 2025 18:27:59 EST"
-        },
-        {
-          "title": "The House is scrambling to avoid a censure death spiral",
-          "url": "https://www.politico.com/news/2025/11/20/house-censure-death-spiral-00663655",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 20 Nov 2025 17:03:33 EST"
         },
         {
           "title": "Amanda Seyfried wants two huge names for Mamma Mia 3 – but fans say no",
@@ -192,6 +174,24 @@
           "url": "https://www.vox.com/life/469760/klarna-affirm-afterpay-black-friday",
           "source": "Vox",
           "ts": "2025-11-20T07:30:00-05:00"
+        },
+        {
+          "title": "White House walks back Trump’s suggestion of executing Democrats, stands by ‘piggy’ insult to reporter– live",
+          "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 01:01:04 GMT"
+        },
+        {
+          "title": "White House press secretary defends Trump’s ‘piggy’ insult",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/white-house-defends-trump-piggy-insult",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 00:52:24 GMT"
+        },
+        {
+          "title": "Mahmoud Khalil sues Trump officials over ‘collusion’ with anti-Palestinian groups",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 00:25:26 GMT"
         }
       ]
     },
