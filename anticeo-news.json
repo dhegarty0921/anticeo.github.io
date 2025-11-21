@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T21:22:00.955927Z",
+  "generated_at": "2025-11-21T21:26:33.880224Z",
   "headline": {
     "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
     "url": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2025-11-21T12:45:00-05:00"
         },
         {
+          "title": "The US is fast-tracking this important HIV drug — for everyone except South Africa",
+          "url": "https://www.vox.com/future-perfect/464468/lenacapavir-hiv-drug-pepfar-foreign-aid-gilead-drug",
+          "source": "Vox",
+          "ts": "2025-11-21T15:45:00-05:00"
+        },
+        {
           "title": "What happened when America’s biggest meat companies got called out for greenwashing",
           "url": "https://www.vox.com/future-perfect/469840/meat-industry-greenwashing-jbs-tyson-climate-lawsuits",
           "source": "Vox",
@@ -176,28 +182,22 @@
           "ts": "2025-11-21T13:30:00-05:00"
         },
         {
-          "title": "The surprisingly profound debate over whether fish feel pain",
-          "url": "https://www.vox.com/future-perfect/469054/fish-pain-debate-sentience-consciousness",
-          "source": "Vox",
-          "ts": "2025-11-21T06:00:00-05:00"
-        },
-        {
-          "title": "Mamdani and Trump speak to press in Oval Office during first meeting – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 21:04:40 GMT"
-        },
-        {
-          "title": "Robert F Kennedy Jr instructed CDC to change stance on vaccine and autism",
-          "url": "https://www.theguardian.com/us-news/2025/nov/21/rfk-jr-cdc-vaccine-autism",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 21:03:11 GMT"
-        },
-        {
-          "title": "Trump and Mamdani to have first face-to-face meeting at the White House",
+          "title": "Trump and Mamdani form an unlikely alliance at White House meeting",
           "url": "https://www.theguardian.com/us-news/2025/nov/21/donald-trump-zohran-mamdani-meeting",
           "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 20:42:52 GMT"
+          "ts": "Fri, 21 Nov 2025 21:19:39 GMT"
+        },
+        {
+          "title": "Trump’s DoJ sues California over college tuition benefits for undocumented students",
+          "url": "https://www.theguardian.com/us-news/2025/nov/21/justice-department-lawsuit-california-undocumented-university-students",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 21:16:53 GMT"
+        },
+        {
+          "title": "Trump says he ‘absolutely’ would live in Mamdani’s New York during unexpectedly cordial first meeting – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 21:14:02 GMT"
         }
       ]
     },
