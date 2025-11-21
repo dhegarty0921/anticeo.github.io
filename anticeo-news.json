@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T00:31:51.229351Z",
+  "generated_at": "2025-11-21T00:35:32.586327Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "Thu, 20 Nov 2025 22:47:45 +0000"
         },
         {
+          "title": "The Earliest Days of <em>The Atlantic</em> Online",
+          "url": "https://www.theatlantic.com/newsletters/2025/11/atlantic-online-1995-early-internet/685004/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-11-20T19:16:00-05:00"
+        },
+        {
           "title": "The Last Device You’ll Ever Need",
           "url": "https://www.theatlantic.com/newsletters/2025/11/ai-wearable-smart-devices-tech-meta/685002/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/health/2025/11/cdc-website-autism-vaccine-kennedy/685001/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-20T17:24:44-05:00"
-        },
-        {
-          "title": "Why the Sequel to Last Year’s Brightest Film Took a Dark Turn",
-          "url": "https://www.theatlantic.com/culture/2025/11/wicked-for-good-jon-chu-director-interview/685000/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-11-20T17:20:09-05:00"
         },
         {
           "title": "The vaccine tug of war inside the Trump administration, briefly explained",
@@ -179,19 +179,19 @@
           "title": "White House walks back Trump’s suggestion of executing Democrats who urge military to disobey illegal orders – live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/20/donald-trump-jeffrey-epstein-justice-department-zohran-mamdani-news-updates-us-politics-live",
           "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 00:07:53 GMT"
+          "ts": "Fri, 21 Nov 2025 00:30:25 GMT"
+        },
+        {
+          "title": "Mahmoud Khalil sues Trump officials over ‘collusion’ with anti-Palestinian groups",
+          "url": "https://www.theguardian.com/us-news/2025/nov/20/mahmoud-khalil-lawsuit-trump-administration",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 21 Nov 2025 00:25:26 GMT"
         },
         {
           "title": "White House announces new oil and gas drilling off California and Florida",
           "url": "https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida",
           "source": "US news | The Guardian",
           "ts": "Thu, 20 Nov 2025 23:54:35 GMT"
-        },
-        {
-          "title": "CDC website altered to reflect RFK Jr’s belief in link between vaccines and autism",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/cdc-website-vaccines-autism",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 20 Nov 2025 23:30:12 GMT"
         }
       ]
     },
