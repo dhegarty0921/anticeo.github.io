@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T01:25:41.859281Z",
+  "generated_at": "2025-11-21T01:31:32.909417Z",
   "headline": {
     "title": "Zelensky to speak to Trump after US proposes Russia-Ukraine peace plan",
     "url": "https://www.bbc.com/news/articles/cly1ypqlle0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 12:13:15 -0500"
         },
         {
+          "title": "Secret to Decode C.I.A. Kryptos Sculpture Sold at Auction for $770,000",
+          "url": "https://www.nytimes.com/2025/11/20/science/krytops-cia-auction-sculpture.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 21 Nov 2025 01:26:16 +0000"
+        },
+        {
           "title": "Qaeda Convict Returns to Guantánamo Court 17 Years After Trial",
           "url": "https://www.nytimes.com/2025/11/20/us/politics/al-qaeda-guantanamo-court.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/judge-trump-washington-grand-juries.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 21 Nov 2025 00:16:33 +0000"
-        },
-        {
-          "title": "Coast Guard Softens Stance on Hate and Hazing",
-          "url": "https://www.nytimes.com/2025/11/20/us/politics/coast-guard-hate-crimes.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 20 Nov 2025 23:56:04 +0000"
         },
         {
           "title": "Judge criticizes federal prosecutors for relying on testimony by officer with credibility concerns",
