@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T18:50:38.412067Z",
+  "generated_at": "2025-11-21T18:55:33.417272Z",
   "headline": {
     "title": "What we know about leaked US draft plan to end Russia's Ukraine war",
     "url": "https://www.bbc.com/news/articles/cde6yld78d6o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Fri, 21 Nov 2025 14:55:18 GMT"
         },
         {
+          "title": "South Africa hosts G20 as tensions with U.S. flare amid boycott",
+          "url": "https://www.npr.org/2025/11/21/nx-s1-5615174/south-africa-g20-us-boycott",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 21 Nov 2025 13:48:34 -0500"
+        },
+        {
           "title": "Trump calls lawmakers' message to military to refuse illegal orders 'seditious'",
           "url": "https://www.npr.org/2025/11/21/nx-s1-5612519/trump-calls-lawmakers-message-to-military-to-refuse-illegal-orders-seditious",
           "source": "NPR Topics: Politics",
@@ -39,28 +45,22 @@
           "ts": "Fri, 21 Nov 2025 06:48:50 -0500"
         },
         {
-          "title": "How could Trump interfere in the midterms? Here's what voting officials are watching",
-          "url": "https://www.npr.org/2025/11/21/nx-s1-5599934/2026-trump-midterm-election-ballots-voting-national-guard",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 21 Nov 2025 05:00:00 -0500"
+          "title": "RFK Jr. Says He Instructed CDC to Change Vaccines and Autism Language on Website",
+          "url": "https://www.nytimes.com/2025/11/21/us/politics/rfk-jr-cdc-vaccines-autism-website.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 21 Nov 2025 18:51:23 +0000"
         },
         {
           "title": "Trump and Saudi Crown Prince Had ‘Disturbing’ Call After Khashoggi’s Murder, Lawmaker Says",
           "url": "https://www.nytimes.com/2025/11/21/us/politics/trump-saudi-crown-prince-khashoggi.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 21 Nov 2025 18:22:29 +0000"
+          "ts": "Fri, 21 Nov 2025 18:49:48 +0000"
         },
         {
           "title": "Trump to Hold Two Fund-Raisers for His Super PAC Next Year",
           "url": "https://www.nytimes.com/2025/11/21/us/politics/trump-super-pac-fundraisers.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 21 Nov 2025 17:55:17 +0000"
-        },
-        {
-          "title": "G.O.P. Redistricting Push May Backfire, Giving Democrats a Midterm Edge",
-          "url": "https://www.nytimes.com/2025/11/21/upshot/republicans-redistricting-gerrymanders-update.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 21 Nov 2025 15:56:27 +0000"
         },
         {
           "title": "Rep. Jason Crow says Trump's 'seditious' comment is attempt to gag him, fellow Democrats",
@@ -105,6 +105,12 @@
           "ts": "Fri, 21 Nov 2025 06:54:36 -0600"
         },
         {
+          "title": "First look at Rhaenyra Targaryen in House of the Dragon season three is driving sapphics wild",
+          "url": "https://www.thepinknews.com/2025/11/21/rhaenyra-targaryen-in-house-of-the-dragon-season-3-is-driving-sapphics-wild/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 21 Nov 2025 17:46:18 +0000"
+        },
+        {
           "title": "Fellow Travelers’ Jelani Alladin stars in Next Year film, where homosexuality is outlawed",
           "url": "https://www.thepinknews.com/2025/11/21/fellow-travelers-jelani-alladin-stars-in-next-year-film-where-homosexuality-is-outlawed/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -115,18 +121,18 @@
           "url": "https://www.thepinknews.com/2025/11/21/wickeds-jonathan-bailey-to-appear-on-cbeebies-bedtime-story-tonight/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 21 Nov 2025 15:12:47 +0000"
-        },
-        {
-          "title": "Rian Johnson opens up about the possibility of doing a Knives Out x Muppets film",
-          "url": "https://www.thepinknews.com/2025/11/21/rian-johnson-knives-out-x-muppets-film/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Fri, 21 Nov 2025 15:08:55 +0000"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Palestinian Christians issue ‘Kairos II,’ a cry of hope in a time of darkness",
+          "url": "https://religionnews.com/2025/11/21/palestinian-christians-issue-kairos-ii-a-cry-of-hope-in-a-time-of-darkness/",
+          "source": "RNS",
+          "ts": "Fri, 21 Nov 2025 18:53:57 +0000"
+        },
         {
           "title": "Why did so many influential Jews dine with a murderer at the White House?",
           "url": "https://religionnews.com/2025/11/21/bin-salman-trump-jewish-leaders/",
@@ -138,12 +144,6 @@
           "url": "https://religionnews.com/2025/11/21/1700-years-ago-bishops-and-an-emperor-wrote-a-creed-millions-still-recite-it-in-church/",
           "source": "RNS",
           "ts": "Fri, 21 Nov 2025 18:09:17 +0000"
-        },
-        {
-          "title": "As US debates gender roles, some women in male-led faiths dig in on social and political issues",
-          "url": "https://religionnews.com/2025/11/21/as-us-debates-gender-roles-some-women-in-male-led-faiths-dig-in-on-social-and-political-issues/",
-          "source": "RNS",
-          "ts": "Fri, 21 Nov 2025 17:50:30 +0000"
         },
         {
           "title": "Elon Musk: Better Than Jesus?",
@@ -185,7 +185,7 @@
           "title": "Trump claims he’s ‘not threatening death’ for Democrats but says ‘they’re in serious trouble’ as he prepares to meet Mamdani – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2025/nov/21/donald-trump-democrats-republicans-zohran-mamdani-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 18:10:45 GMT"
+          "ts": "Fri, 21 Nov 2025 18:44:56 GMT"
         },
         {
           "title": "New Mexico now offers free childcare for all. Here’s how parents and teachers made it happen",
