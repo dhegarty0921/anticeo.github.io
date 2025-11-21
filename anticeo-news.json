@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T05:01:51.939278Z",
+  "generated_at": "2025-11-21T05:06:53.853324Z",
   "headline": {
     "title": "Trump calls Democrats' message to troops seditious behaviour, punishable by death",
     "url": "https://www.bbc.com/news/articles/cx2p2dz9zk2o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 20 Nov 2025 12:13:15 -0500"
         },
         {
+          "title": "Justice Dept. Sues California Over College Benefits for Undocumented Students",
+          "url": "https://www.nytimes.com/2025/11/20/us/politics/ucla-undocumented-students-tuition-doj-lawsuit-california.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 21 Nov 2025 04:56:14 +0000"
+        },
+        {
           "title": "CIA Kryptos Auction: Anonymous Bidder Pays Nearly $1 Million for Secret to Decode Sculpture",
           "url": "https://www.nytimes.com/2025/11/20/science/kryptos-cia-auction-sculpture.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/20/us/politics/al-qaeda-guantanamo-court.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 21 Nov 2025 01:04:31 +0000"
-        },
-        {
-          "title": "Judge Concludes Prosecutors Can Circumvent Federal Grand Juries in D.C.",
-          "url": "https://www.nytimes.com/2025/11/20/us/politics/judge-trump-washington-grand-juries.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 21 Nov 2025 00:16:33 +0000"
         },
         {
           "title": "What to know about Trump's draft proposal to curtail state AI regulations",
@@ -192,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/20/trump-news-at-a-glance-democrats",
           "source": "US news | The Guardian",
           "ts": "Fri, 21 Nov 2025 02:03:59 GMT"
-        },
-        {
-          "title": "White House press secretary defends Trump’s ‘piggy’ insult",
-          "url": "https://www.theguardian.com/us-news/2025/nov/20/white-house-defends-trump-piggy-insult",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 21 Nov 2025 00:52:24 GMT"
         }
       ]
     },
