@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T22:25:39.026017Z",
+  "generated_at": "2025-11-22T22:30:42.800032Z",
   "headline": {
     "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
     "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 22 Nov 2025 07:44:22 -0500"
         },
         {
+          "title": "Greene’s Exit Deals A Blow to G.O.P., Putting Rifts on Display",
+          "url": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 22 Nov 2025 22:20:33 +0000"
+        },
+        {
           "title": "Abortion Is Once Again Illegal in North Dakota",
           "url": "https://www.nytimes.com/2025/11/22/us/politics/abortion-illegal-north-dakota.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/22/us/politics/house-censures.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 22 Nov 2025 20:00:13 +0000"
-        },
-        {
-          "title": "Marjorie Taylor Greene’s Resignation Hints at Divisions in Trump’s Movement",
-          "url": "https://www.nytimes.com/2025/11/22/us/politics/marjorie-taylor-greene-trump-republicans.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 22 Nov 2025 21:21:48 +0000"
         },
         {
           "title": "Trump says 28-point peace plan to end Russia-Ukraine war isn't 'final offer'",
