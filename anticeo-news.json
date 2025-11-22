@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21T23:55:30.220769Z",
+  "generated_at": "2025-11-22T00:00:32.823848Z",
   "headline": {
     "title": "Watch: 'I'll be cheering for him' - Trump praises Mamdani after first meeting",
     "url": "https://www.bbc.com/news/videos/c2dzgj86nnzo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 21 Nov 2025 16:23:49 -0500"
         },
         {
+          "title": "Texas Asks Supreme Court to Clear Way for Republican-Friendly Congressional Map",
+          "url": "https://www.nytimes.com/2025/11/21/us/politics/supreme-court-texas-congressional-map.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 21 Nov 2025 23:51:20 +0000"
+        },
+        {
           "title": "How Newsom and Trump Have Made California the Unlikely Center of 2025 Politics",
           "url": "https://www.nytimes.com/2025/11/21/us/politics/newsom-trump-california-politics.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/11/21/us/politics/trump-mamdani-white-house-meeting.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 21 Nov 2025 23:18:29 +0000"
-        },
-        {
-          "title": "Here’s the latest.",
-          "url": "https://www.nytimes.com/2025/11/21/us/politics/heres-the-latest.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 21 Nov 2025 21:41:25 +0000"
         },
         {
           "title": "Biden-era phone spying list grows to include Rep. Jim Jordan",
@@ -146,6 +146,12 @@
           "ts": "Fri, 21 Nov 2025 20:21:26 +0000"
         },
         {
+          "title": "Border Patrol’s Chaotic Week in North Carolina",
+          "url": "https://www.theatlantic.com/newsletters/2025/11/border-patrol-durham-north-carolina-immigration-crackdown/685027/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-11-21T18:41:00-05:00"
+        },
+        {
           "title": "Do Childhood Vaccines Cause Tornadoes?",
           "url": "https://www.theatlantic.com/health/2025/11/rfk-vaccines-dont-not-cause-autism/685026/?utm_source=feed",
           "source": "The Atlantic",
@@ -156,12 +162,6 @@
           "url": "https://www.theatlantic.com/newsletters/2025/11/daily-trivia-questions-answers-week-8/684966/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2025-11-21T16:25:00-05:00"
-        },
-        {
-          "title": "The President Is Losing Control of Himself",
-          "url": "https://www.theatlantic.com/politics/2025/11/trump-truth-social-control/685019/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-11-21T16:13:42-05:00"
         },
         {
           "title": "The US is fast-tracking this important HIV drug — for everyone except South Africa",
