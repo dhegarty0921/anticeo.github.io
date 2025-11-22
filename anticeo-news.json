@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T00:10:53.075010Z",
+  "generated_at": "2025-11-22T00:16:35.785250Z",
   "headline": {
     "title": "Watch: 'I'll be cheering for him' - Trump praises Mamdani after first meeting",
     "url": "https://www.bbc.com/news/videos/c2dzgj86nnzo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 21 Nov 2025 16:23:49 -0500"
         },
         {
+          "title": "Mark Mellman, Who Helped Democrats Understand Their Voters, Dies at 70",
+          "url": "https://www.nytimes.com/2025/11/21/us/politics/mark-mellman-dead.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 22 Nov 2025 00:05:09 +0000"
+        },
+        {
           "title": "Texas Asks Supreme Court to Clear Way for Republican-Friendly Congressional Map",
           "url": "https://www.nytimes.com/2025/11/21/us/politics/supreme-court-texas-congressional-map.html",
           "source": "NYT > U.S. > Politics",
@@ -57,28 +63,22 @@
           "ts": "Fri, 21 Nov 2025 23:13:38 +0000"
         },
         {
-          "title": "Trump and Mamdani Strike Optimistic Tone, Sidestepping Past Critiques",
-          "url": "https://www.nytimes.com/2025/11/21/us/politics/trump-mamdani-white-house-meeting.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 21 Nov 2025 23:18:29 +0000"
+          "title": "Texas asks Supreme Court to allow use of new GOP-friendly map",
+          "url": "https://www.washingtontimes.com/news/2025/nov/21/texas-asks-supreme-court-allow-use-new-gop-friendly-map/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Fri, 21 Nov 2025 19:04:01 -0500"
+        },
+        {
+          "title": "Fights and frustration mark House's first full week back in Washington after record shutdown",
+          "url": "https://www.washingtontimes.com/news/2025/nov/21/fights-frustration-mark-houses-first-full-week-back-washington-record/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Fri, 21 Nov 2025 17:21:11 -0500"
         },
         {
           "title": "Biden-era phone spying list grows to include Rep. Jim Jordan",
           "url": "https://www.washingtontimes.com/news/2025/nov/21/biden-era-phone-spying-list-grows-include-rep-jim-jordan/",
           "source": "The Washington Times stories: Politics",
           "ts": "Fri, 21 Nov 2025 16:51:34 -0500"
-        },
-        {
-          "title": "Trump says Mamdani will be \"great mayor\" as they exchange praise in White House meeting",
-          "url": "https://www.washingtontimes.com/news/2025/nov/21/trump-says-mamdani-great-mayor-exchange-praise-white-house-meeting/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 21 Nov 2025 16:24:35 -0500"
-        },
-        {
-          "title": "Judge blocks IRS from sharing data with ICE",
-          "url": "https://www.washingtontimes.com/news/2025/nov/21/judge-blocks-irs-sharing-data-ice/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 21 Nov 2025 15:16:00 -0500"
         },
         {
           "title": "Why I Don't Regret Leaving the Democratic Party",
@@ -128,6 +128,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "New Jersey Episcopal diocese gives $1 million to treat Palestinian children",
+          "url": "https://religionnews.com/2025/11/21/episcopal-diocese-of-nj-gives-1-million-to-treat-palestinian-child/",
+          "source": "RNS",
+          "ts": "Sat, 22 Nov 2025 00:14:19 +0000"
+        },
+        {
           "title": "Orthodox Christian clergy call on US officials, drawing accusations of Russian influence",
           "url": "https://religionnews.com/2025/11/21/orthodox-christian-clergy-call-on-us-officials-drawing-accusations-of-russian-influence/",
           "source": "RNS",
@@ -138,12 +144,6 @@
           "url": "https://religionnews.com/2025/11/21/ai-partisanship-and-friendship-pope-leos-big-messages-to-americas-catholic-youth/",
           "source": "RNS",
           "ts": "Fri, 21 Nov 2025 20:30:08 +0000"
-        },
-        {
-          "title": "ICE to deport Dallas Muslim community leader Marwan Marouf",
-          "url": "https://religionnews.com/2025/11/21/dallas-muslim-community-leader-in-ice-detention-to-be-deported-to-jordan/",
-          "source": "RNS",
-          "ts": "Fri, 21 Nov 2025 20:21:26 +0000"
         },
         {
           "title": "Border Patrol’s Chaotic Week in North Carolina",
