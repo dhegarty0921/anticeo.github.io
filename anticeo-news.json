@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T17:51:09.234850Z",
+  "generated_at": "2025-11-22T17:55:37.521059Z",
   "headline": {
     "title": "Trump ally Marjorie Taylor Greene to quit Congress after Epstein files feud",
     "url": "https://www.bbc.com/news/articles/cj4qx1lenvjo?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2025-11-21T15:45:00-05:00"
         },
         {
+          "title": "Politicians shocked by Marjorie Taylor Greene’s surprise resignation announcement",
+          "url": "https://www.theguardian.com/us-news/2025/nov/22/marjorie-taylor-greene-political-reactions",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 22 Nov 2025 17:50:27 GMT"
+        },
+        {
           "title": "Santa Monica’s shine has dimmed – can a bold reset revive the beach city’s fortunes?",
           "url": "https://www.theguardian.com/us-news/2025/nov/22/santa-monica-crime-safety",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/nov/22/what-will-hemp-ban-mean",
           "source": "US news | The Guardian",
           "ts": "Sat, 22 Nov 2025 16:00:43 GMT"
-        },
-        {
-          "title": "Trump to end temporary protected status for Somali immigrants in Minnesota",
-          "url": "https://www.theguardian.com/us-news/2025/nov/22/trump-temporary-protected-status-somali-immigrants",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 22 Nov 2025 15:08:15 GMT"
         }
       ]
     },
