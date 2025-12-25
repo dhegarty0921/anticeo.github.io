@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T11:05:31.483120Z",
+  "generated_at": "2025-12-25T11:10:35.301703Z",
   "headline": {
     "title": "Officials discover a million more documents potentially related to Epstein case",
     "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2025-12-24T13:00:00-05:00"
         },
         {
+          "title": "The end of malaria",
+          "url": "https://www.vox.com/future-perfect/470060/malaria-drug-resistance-global-health-usaid-foreign-aid-vaccine",
+          "source": "Vox",
+          "ts": "2025-12-25T06:07:00-05:00"
+        },
+        {
           "title": "The 10 most read stories on Future Perfect in 2025",
           "url": "https://www.vox.com/future-perfect/473279/de-extinction-protein-drinking-meditation-ozempic-factory-farming",
           "source": "Vox",
@@ -176,10 +182,10 @@
           "ts": "2025-12-24T07:15:00-05:00"
         },
         {
-          "title": "How to actually get kids off their phones",
-          "url": "https://www.vox.com/technology/473289/australia-children-social-media-ban-kids-phones-tiktok",
-          "source": "Vox",
-          "ts": "2025-12-24T07:00:00-05:00"
+          "title": "US labor unions gear up to fight against Trump’s ‘Billionaire First’ agenda",
+          "url": "https://www.theguardian.com/us-news/2025/dec/25/trump-labor-unions-afl-cio",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 25 Dec 2025 11:00:39 GMT"
         },
         {
           "title": "Trump news at a glance: EU could respond to ‘unjustified’ US visa bans, official says",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/24/southern-california-powerful-winter-storms",
           "source": "US news | The Guardian",
           "ts": "Wed, 24 Dec 2025 20:38:36 GMT"
-        },
-        {
-          "title": "US justice department says it may need ‘a few more weeks’ to process 1m more Epstein documents for release",
-          "url": "https://www.theguardian.com/us-news/2025/dec/24/justice-department-epstein-files-due-to-be-released",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 24 Dec 2025 19:32:23 GMT"
         }
       ]
     },
