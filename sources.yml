@@ -1,27 +1,27 @@
 feeds:
-  # --- CHUDS VS SHITLIBS (US politics/general) ---
-  - https://apnews.com/hub/politics?utm_source=rss&utm_medium=referral&utm_campaign=rss   # AP Politics (Atom/RSS)
+ # --- CHUDS VS SHITLIBS (US politics/general) ---
+  - https://apnews.com/hub/politics?utm_source=rss&utm_medium=referral&utm_campaign=rss # AP Politics (Atom/RSS)
   - https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
-  - https://www.npr.org/rss/rss.php?id=1014                    # NPR Politics
+  - https://www.npr.org/rss/rss.php?id=1014 # NPR Politics
   - https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
   - https://www.washingtontimes.com/rss/headlines/news/politics/
   - https://www.realclearpolitics.com/index.xml
   - https://www.politico.com/rss/politicopicks.xml
   - https://headlineusa.com/category/topnews/
 
-  # --- CULTURE WAR (religion/LGBTQ/DEI/education) ---
+ # --- CULTURE WAR (religion/LGBTQ/DEI/education) ---
   - https://www.religionnews.com/feed/
-  - https://www.theatlantic.com/feed/all/                      # broad; culture/ideas often included
-  - https://www.nationalreview.com/feeds/latest/               # culture/US politics from right
-  - https://www.vox.com/rss/index.xml                          # culture/policy explainer
-  - https://www.tabletmag.com/feed                              # religion/culture (Jewish world)
-  - https://www.pinknews.co.uk/feed/                           # LGBTQ news
-  - https://www.christianitytoday.com/ct/rss.xml               # religion news
-  - https://www.theguardian.com/us-news/rss                    # US news incl. culture/rights
+  - https://www.theatlantic.com/feed/all/ # broad; culture/ideas often included
+  - https://www.nationalreview.com/feeds/latest/ # culture/US politics from right
+  - https://www.vox.com/rss/index.xml # culture/policy explainer
+  - https://www.tabletmag.com/feed # religion/culture (Jewish world)
+  - https://www.pinknews.co.uk/feed/ # LGBTQ news
+  - https://www.christianitytoday.com/ct/rss.xml # religion news
+  - https://www.theguardian.com/us-news/rss # US news incl. culture/rights
 
-  # --- MILITARY INDUSTRIAL COMPLEX (war/defense) ---
-  - https://www.reuters.com/financeNews/rss                    # Reuters finance/industry (defense cos pop up)
-  - https://www.reuters.com/world/rss                          # Reuters world (conflicts)
+ # --- MILITARY INDUSTRIAL COMPLEX (war/defense) ---
+  - https://www.reuters.com/financeNews/rss # Reuters finance/industry (defense cos pop up)
+  - https://www.reuters.com/world/rss # Reuters world (conflicts)
   - https://www.aljazeera.com/xml/rss/all.xml
   - https://news.antiwar.com/feed/
   - https://www.defenseone.com/rss/all/
@@ -29,25 +29,27 @@ feeds:
   - https://www.thedrive.com/category/the-war-zone/feed
   - https://www.armytimes.com/arc/outboundfeeds/rss/category/news/?outputType=xml
   - https://www.navalnews.com/feed/
-  - https://www.dw.com/en/top-stories/world/s-1422?maca=en-rss-en-all-1573-rdf  # DW world
+  - https://www.dw.com/en/top-stories/world/s-1422?maca=en-rss-en-all-1573-rdf # DW world
   - https://quincyinst.org/program-areas/democratizing-foreign-policy/
   - https://scheerpost.com/category/military/
   - https://venezuelanalysis.com/category/news/
 
-  # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
+ # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
+  - https://www.unz.com/xfeed/rss/ # The Unz Review - all items
   - https://www.justsecurity.org/feed/
   - https://theintercept.com/feed/?lang=en
   - https://www.techdirt.com/feed/
   - https://www.eff.org/rss/updates.xml
-  - https://www.rollingstone.com/politics/politics-news/feed/  # investigations/FOIA/natsec stories appear
+  - https://www.rollingstone.com/politics/politics-news/feed/ # investigations/FOIA/natsec stories appear
   - https://www.lawfaremedia.org/rss.xml
   - https://www.aclu.org/news/feed
   - https://scheerpost.com/category/military/feed/
   - https://www.rt.com/rss-feed/
   - https://www.rt.com/rss/news/
   - https://wikispooks.com/w/index.php?title=Main_Page&oldid=307868
+  - https://headlineusa.com/
 
-  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
+ # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.reuters.com/rssFeed/topNews
   - https://apnews.com/apf-topnews?output=atom
