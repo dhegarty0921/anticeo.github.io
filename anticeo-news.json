@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T10:00:49.679605Z",
+  "generated_at": "2025-12-26T10:06:25.009149Z",
   "headline": {
     "title": "Officials discover a million more documents potentially related to Epstein case",
     "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 25 Dec 2025 04:58:25 -0500"
         },
         {
+          "title": "Northern California Conservatives Are Frustrated They Could Get a Democratic Representative",
+          "url": "https://www.nytimes.com/2025/12/26/us/politics/california-redistricting-lamalfa-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 26 Dec 2025 10:00:48 +0000"
+        },
+        {
           "title": "U.S. Strikes ISIS in Nigeria After Trump Warned of Attacks on Christians",
           "url": "https://www.nytimes.com/2025/12/25/us/politics/trump-isis-nigeria-strike.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/25/us/politics/imran-ahmed-judge-order.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 25 Dec 2025 23:28:24 +0000"
-        },
-        {
-          "title": "Robert Lindsey, Times Reporter and Reagan Ghostwriter, Dies at 90",
-          "url": "https://www.nytimes.com/2025/12/25/books/robert-lindsey-dead.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 25 Dec 2025 22:05:41 +0000"
         },
         {
           "title": "Trump announces U.S. strikes on Islamists in Nigeria",
@@ -79,6 +79,30 @@
           "url": "https://www.washingtontimes.com/news/2025/dec/25/dhs-arrests-17500-illegal-immigrants-laken-riley-act/",
           "source": "The Washington Times stories: Politics",
           "ts": "Thu, 25 Dec 2025 12:37:43 -0500"
+        },
+        {
+          "title": "O Holy Night",
+          "url": "https://www.realclearpolitics.com/2025/12/24/o_holy_night_681444.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Wed, 24 Dec 2025 08:20:22 -0600"
+        },
+        {
+          "title": "At Christmas, God Fulfills His Purpose - and Gives Us Ours",
+          "url": "https://www.realclearpolitics.com/2025/12/24/at_christmas_god_fulfills_his_purpose_-_and_gives_us_ours_681443.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Wed, 24 Dec 2025 08:34:56 -0600"
+        },
+        {
+          "title": "The Demise of Religion Among Democrats",
+          "url": "https://www.realclearpolitics.com/2025/12/24/the_demise_of_religion_among_democrats_681466.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Wed, 24 Dec 2025 08:10:17 -0600"
+        },
+        {
+          "title": "How Illegal Immigration, Government Failure Fuel Identity Theft",
+          "url": "https://www.realclearinvestigations.com/articles/2025/12/24/how_illegal_immigration_and_government_failure_fuel_identity_theft_1155167.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Wed, 24 Dec 2025 08:17:50 -0600"
         },
         {
           "title": "Duo jailed for using Grindr to carry out ‘callous’ burglaries",
@@ -179,26 +203,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Jokic sets new NBA triple-double record in Nuggets OT victory over Wolves",
-          "url": "https://www.aljazeera.com/sports/2025/12/26/jokic-sets-new-nba-triple-double-record-in-nuggets-ot-victory-over-wolves?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 26 Dec 2025 09:11:42 +0000"
-        },
-        {
-          "title": "What is remigration, the far-right fringe idea going mainstream?",
-          "url": "https://www.aljazeera.com/news/2025/12/26/what-is-remigration-the-far-right-fringe-idea-going-mainstream?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 26 Dec 2025 08:57:49 +0000"
-        },
-        {
-          "title": "Palestinian doctors graduate in ruins of Gaza’s destroyed al-Shifa Hospital",
-          "url": "https://www.aljazeera.com/news/2025/12/26/palestinian-doctors-graduate-in-ruins-of-gazas-destroyed-al-shifa-hospital?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 26 Dec 2025 08:55:46 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
