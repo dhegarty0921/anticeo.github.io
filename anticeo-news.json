@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T00:25:36.002620Z",
+  "generated_at": "2025-12-26T00:30:30.853078Z",
   "headline": {
     "title": "Officials discover a million more documents potentially related to Epstein case",
     "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2025-12-25T07:00:00-05:00"
         },
         {
+          "title": "Southern California sees third death from atmospheric river storm drenching region",
+          "url": "https://www.theguardian.com/us-news/2025/dec/25/southern-california-atmospheric-river-storm",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 26 Dec 2025 00:25:09 GMT"
+        },
+        {
           "title": "US carries out airstrikes against Islamic State ‘terrorist scum’ in Nigeria, Trump says",
           "url": "https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/25/trump-chief-of-staff-susie-wiles",
           "source": "US news | The Guardian",
           "ts": "Thu, 25 Dec 2025 16:18:32 GMT"
-        },
-        {
-          "title": "Southern California sees third death from atmospheric river storm drenching region",
-          "url": "https://www.theguardian.com/us-news/2025/dec/25/southern-california-atmospheric-river-storm",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 25 Dec 2025 15:43:37 GMT"
         }
       ]
     },
