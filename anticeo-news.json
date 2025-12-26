@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T08:05:30.745961Z",
+  "generated_at": "2025-12-26T08:10:35.160821Z",
   "headline": {
     "title": "Officials discover a million more documents potentially related to Epstein case",
     "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2025-12-25T07:00:00-05:00"
         },
         {
+          "title": "Brown shooting suspect: gruelling academic climate may have taken mental toll, say ex-classmates",
+          "url": "https://www.theguardian.com/us-news/2025/dec/26/brown-shooting-suspect-gruelling-academic-climate-claudio-valente-mental-toll-ex-classmates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 26 Dec 2025 08:00:04 GMT"
+        },
+        {
           "title": "Trump news briefing: President praises military after launching Christmas Day strikes on IS in Nigeria",
           "url": "https://www.theguardian.com/us-news/2025/dec/26/trump-administration-news-updates-today-latest",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/25/southern-california-atmospheric-river-storm",
           "source": "US news | The Guardian",
           "ts": "Fri, 26 Dec 2025 00:25:09 GMT"
-        },
-        {
-          "title": "US carries out strikes on Nigeria targeting Islamic State militants, Trump says",
-          "url": "https://www.theguardian.com/us-news/2025/dec/25/us-carries-out-airstrikes-against-islamic-state-terrorist-scum-in-nigeria-trump-says",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 25 Dec 2025 23:41:22 GMT"
         }
       ]
     },
