@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T11:10:32.876961Z",
+  "generated_at": "2025-12-26T11:15:41.344417Z",
   "headline": {
     "title": "Officials discover a million more documents potentially related to Epstein case",
     "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2025-12-25T08:00:00-05:00"
         },
         {
+          "title": "What podcasts do to our brains",
+          "url": "https://www.vox.com/technology/470004/podcasts-tiktok-attention-brains-multitasking",
+          "source": "Vox",
+          "ts": "2025-12-26T06:10:00-05:00"
+        },
+        {
           "title": "Why 2025 was hell for job hunters",
           "url": "https://www.vox.com/money/473182/jobs-hiring-economy-us-market-linkedin",
           "source": "Vox",
@@ -176,10 +182,10 @@
           "ts": "2025-12-25T08:21:07-05:00"
         },
         {
-          "title": "The eternal awkwardness of winter break",
-          "url": "https://www.vox.com/life/392230/winter-break-holidays-new-year-kids-vacation",
-          "source": "Vox",
-          "ts": "2025-12-25T08:20:45-05:00"
+          "title": "Nigeria provided US with intelligence for strikes on Islamist militants, says foreign minister – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2025/dec/26/us-nigeria-strikes-militants-donald-trump-zelenskyy-ukraine-epstein-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 26 Dec 2025 11:00:50 GMT"
         },
         {
           "title": "Brown shooting suspect: gruelling academic climate may have taken mental toll, say ex-classmates",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/26/trump-administration-news-updates-today-latest",
           "source": "US news | The Guardian",
           "ts": "Fri, 26 Dec 2025 04:38:03 GMT"
-        },
-        {
-          "title": "Southern California sees third death from atmospheric river storm drenching region",
-          "url": "https://www.theguardian.com/us-news/2025/dec/25/southern-california-atmospheric-river-storm",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 26 Dec 2025 00:25:09 GMT"
         }
       ]
     },
