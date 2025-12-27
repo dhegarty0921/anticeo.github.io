@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T01:55:11.745568Z",
+  "generated_at": "2025-12-27T02:00:32.692978Z",
   "headline": {
     "title": "Officials discover a million more documents potentially related to Epstein case",
     "url": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss"
@@ -45,10 +45,16 @@
           "ts": "Thu, 25 Dec 2025 06:52:51 -0500"
         },
         {
-          "title": "Facts Clash With Trump Claim of Hitting ISIS and Shielding Nigerian Christians",
+          "title": "Some G.O.P. Senators Join Democrats in Urging Trump to Adopt Hard Line With Putin",
+          "url": "https://www.nytimes.com/2025/12/26/us/politics/trump-putin-russia-senate-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 26 Dec 2025 23:53:36 +0000"
+        },
+        {
+          "title": "Trump’s Claims About Nigeria Strike Belie a Complex Situation on the Ground",
           "url": "https://www.nytimes.com/2025/12/26/world/africa/trump-isis-strikes-nigeria-christians-facts.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 26 Dec 2025 16:24:03 +0000"
+          "ts": "Sat, 27 Dec 2025 01:23:21 +0000"
         },
         {
           "title": "When the Democratic Door-Knocker Has Something Unscripted to Say",
@@ -57,28 +63,22 @@
           "ts": "Fri, 26 Dec 2025 15:29:07 +0000"
         },
         {
-          "title": "Northern California Conservatives Are Frustrated They Could Get a Democratic Representative",
-          "url": "https://www.nytimes.com/2025/12/26/us/politics/california-redistricting-lamalfa-republicans.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 26 Dec 2025 10:00:48 +0000"
+          "title": "Heritage Foundation restocks after wave of scholars defect to Pence-led group",
+          "url": "https://www.washingtontimes.com/news/2025/dec/26/heritage-foundation-restocks-wave-scholars-defect-pence-led-group/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Fri, 26 Dec 2025 17:29:53 -0500"
         },
         {
-          "title": "Stalled spending bills put Congress in catch-up mode when lawmakers return in January",
-          "url": "https://www.washingtontimes.com/news/2025/dec/26/stalled-spending-bills-put-congress-catch-mode-lawmakers-return/",
+          "title": "Joe Rogan shocked by Trump's White House plaque disparaging Biden: 'It's all crazy'",
+          "url": "https://www.washingtontimes.com/news/2025/dec/26/joe-rogan-shocked-trumps-white-house-plaque-disparaging-biden-crazy/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 26 Dec 2025 11:32:04 -0500"
+          "ts": "Fri, 26 Dec 2025 16:55:15 -0500"
         },
         {
-          "title": "Zelenskyy says he's meeting with Trump in Florida Sunday",
-          "url": "https://www.washingtontimes.com/news/2025/dec/26/zelenskyy-says-hes-meeting-trump-florida-sunday/",
+          "title": "White House press secretary Karoline Leavitt is pregnant with a baby girl",
+          "url": "https://www.washingtontimes.com/news/2025/dec/26/white-house-press-secretary-karoline-leavitt-pregnant-baby-girl/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 26 Dec 2025 10:17:18 -0500"
-        },
-        {
-          "title": "Rejected and running again: A comeback wave hits the 2026 midterms",
-          "url": "https://www.washingtontimes.com/news/2025/dec/26/rejected-running-comeback-wave-hits-2026-midterms/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 26 Dec 2025 09:41:22 -0500"
+          "ts": "Fri, 26 Dec 2025 16:39:52 -0500"
         },
         {
           "title": "Pseudo-Recessions",
@@ -122,22 +122,34 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "How Christian artists are winning over listeners and entering pop’s mainstream",
-          "url": "https://religionnews.com/2025/12/26/how-christian-artists-are-winning-over-listeners-and-entering-pops-mainstream/",
+          "title": "Judge rules in favor of New York’s Abyssinian Baptist Church and its new pastor",
+          "url": "https://religionnews.com/2025/12/26/court-rules-in-favor-of-new-yorks-abyssinian-baptist-church-and-its-new-pastor/",
           "source": "RNS",
-          "ts": "Fri, 26 Dec 2025 14:14:43 +0000"
+          "ts": "Fri, 26 Dec 2025 22:38:02 +0000"
         },
         {
-          "title": "King Charles III calls for kindness and unity in Christmas message amid global conflicts",
-          "url": "https://religionnews.com/2025/12/26/king-charles-iii-calls-for-kindness-and-unity-in-christmas-message-amid-global-conflicts/",
+          "title": "Faith leaders who died in 2025: Pope Francis, theologians and activists",
+          "url": "https://religionnews.com/2025/12/26/in-2025-faith-figures-influenced-via-social-media-pulpits-and-protests/",
           "source": "RNS",
-          "ts": "Fri, 26 Dec 2025 14:12:33 +0000"
+          "ts": "Fri, 26 Dec 2025 22:22:19 +0000"
         },
         {
-          "title": "Protest erupts in India’s capital city over lynching of Hindu man in Bangladesh",
-          "url": "https://religionnews.com/2025/12/26/protest-erupts-in-indias-capital-city-over-lynching-of-hindu-man-in-bangladesh/",
+          "title": "Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations",
+          "url": "https://religionnews.com/2025/12/26/turkey-detains-dozens-of-is-suspects-planning-attacks-on-christmas-and-new-year-celebrations/",
           "source": "RNS",
-          "ts": "Fri, 26 Dec 2025 14:11:13 +0000"
+          "ts": "Fri, 26 Dec 2025 19:22:58 +0000"
+        },
+        {
+          "title": "A 2025 Ranking You Won’t Read Anywhere Else",
+          "url": "https://www.theatlantic.com/newsletters/2025/12/2025-top-10-ranking-katie-miller/685437/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-12-26T16:30:00-05:00"
+        },
+        {
+          "title": "How About a Little Less Screen Time for the Grown-Ups",
+          "url": "https://www.theatlantic.com/podcasts/2025/12/how-about-a-little-less-screen-time-for-the-grown-ups/685419/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2025-12-26T13:00:00-05:00"
         },
         {
           "title": "The Best Poetry for Dark Winter Days",
@@ -146,16 +158,10 @@
           "ts": "2025-12-26T08:00:00-05:00"
         },
         {
-          "title": "The Most Memorable Advice of 2025",
-          "url": "https://www.theatlantic.com/newsletters/2025/12/most-memorable-advice-2025/685407/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-12-26T08:00:00-05:00"
-        },
-        {
-          "title": "The World Has Laws About Land and Sea, but Not About Ice",
-          "url": "https://www.theatlantic.com/science/2025/12/sea-ice-law/685401/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2025-12-26T08:00:00-05:00"
+          "title": "Why is the US bombing Nigeria?",
+          "url": "https://www.vox.com/politics/467256/trump-nigeria-christians-intervention-military",
+          "source": "Vox",
+          "ts": "2025-12-26T13:13:32-05:00"
         },
         {
           "title": "American women want to opt out",
@@ -170,28 +176,22 @@
           "ts": "2025-12-26T06:30:00-05:00"
         },
         {
-          "title": "What podcasts do to our brains",
-          "url": "https://www.vox.com/technology/470004/podcasts-tiktok-attention-brains-multitasking",
-          "source": "Vox",
-          "ts": "2025-12-26T06:10:00-05:00"
+          "title": "Trump news at a glance: Nigeria says it provided intelligence for US airstrikes as Hegseth warns of more attacks",
+          "url": "https://www.theguardian.com/us-news/2025/dec/26/trump-administration-news-updates-today",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 27 Dec 2025 01:00:23 GMT"
         },
         {
-          "title": "Nigeria provided US with intelligence for strikes on Islamist militants, says foreign minister – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2025/dec/26/us-nigeria-strikes-militants-donald-trump-zelenskyy-ukraine-epstein-us-politics-latest-news-updates",
+          "title": "Mudslides bury cars and homes up to their windows in California town",
+          "url": "https://www.theguardian.com/us-news/2025/dec/26/california-storms-wind-rain-snow",
           "source": "US news | The Guardian",
-          "ts": "Fri, 26 Dec 2025 16:15:49 GMT"
+          "ts": "Sat, 27 Dec 2025 00:44:10 GMT"
         },
         {
-          "title": "The protesters showing up every week to shut down ‘Alligator Alcatraz’: ‘We will end this’",
-          "url": "https://www.theguardian.com/us-news/2025/dec/26/alligator-alcatraz-protests-florida-immigration",
+          "title": "Three men who escaped Georgia jail hijacked Lyft to Florida, records show",
+          "url": "https://www.theguardian.com/us-news/2025/dec/26/georgia-jailbreak-lyft-hijack",
           "source": "US news | The Guardian",
-          "ts": "Fri, 26 Dec 2025 16:00:12 GMT"
-        },
-        {
-          "title": "Kentucky plane crash death toll rises to 15 after injured man died on Christmas",
-          "url": "https://www.theguardian.com/us-news/2025/dec/26/kentucky-plane-crash-death-toll",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 26 Dec 2025 15:54:50 GMT"
+          "ts": "Fri, 26 Dec 2025 17:59:09 GMT"
         }
       ]
     },
