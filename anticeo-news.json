@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T19:25:23.562802Z",
+  "generated_at": "2025-12-28T19:30:25.368604Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "One person dead and one injured after two helicopters crash in New Jersey",
+          "url": "https://www.theguardian.com/us-news/2025/dec/28/two-helicopters-crash-new-jersey",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 19:08:54 GMT"
+        },
+        {
           "title": "Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/28/inglewood-california-public-school-funding",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 18:00:13 GMT"
-        },
-        {
-          "title": "US strikes on Nigeria and Syria are ‘consistent’ with policy to combat IS, Republican says",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/military-strikes-nigeria-syria-trump-islamic-state",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 17:37:15 GMT"
         }
       ]
     },
