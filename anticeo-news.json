@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T13:00:30.628983Z",
+  "generated_at": "2025-12-28T13:05:30.369731Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Sat, 27 Dec 2025 16:54:19 GMT"
         },
         {
+          "title": "Politics chat: Trump meets Zelenskyy; American heritage creates GOP rift",
+          "url": "https://www.npr.org/2025/12/28/nx-s1-5658294/politics-chat-trump-meets-zelenskyy-american-heritage-creates-gop-rift",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 28 Dec 2025 07:58:18 -0500"
+        },
+        {
           "title": "Zelenskyy to meet with Trump as efforts to end Russia-Ukraine war remain elusive",
           "url": "https://www.npr.org/2025/12/28/nx-s1-5659700/zelenskyy-meets-trump-efforts-end-russia-ukraine-war-elusive",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2025/12/27/g-s1-103808/kennedy-center-lawsuit-chuck-redd-cancellation-trump",
           "source": "NPR Topics: Politics",
           "ts": "Sat, 27 Dec 2025 14:24:10 -0500"
-        },
-        {
-          "title": "Week in Politics: 2025 politics overview; a look ahead at midterms",
-          "url": "https://www.npr.org/2025/12/27/nx-s1-5651245/week-in-politics-2025-politics-overview-a-look-ahead-at-midterms",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 27 Dec 2025 07:43:22 -0500"
         },
         {
           "title": "From A.I. to Chips, Big Tech Is Getting What It Wants From Trump",
