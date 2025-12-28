@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T02:00:11.589440Z",
+  "generated_at": "2025-12-28T02:07:27.889084Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -12,7 +12,7 @@
           "title": "New York blanketed in snow, sparking travel chaos",
           "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Sat, 27 Dec 2025 15:28:30 GMT"
+          "ts": "Sun, 28 Dec 2025 01:54:10 GMT"
         },
         {
           "title": "Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue",
@@ -48,7 +48,7 @@
           "title": "How Oil, Drugs and Immigration Fueled Trump’s Venezuela Campaign",
           "url": "https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 27 Dec 2025 21:30:15 +0000"
+          "ts": "Sat, 27 Dec 2025 22:41:42 +0000"
         },
         {
           "title": "She Studied the Health Effects of Wildfires, Until the E.P.A. Cut Her Grant",
@@ -60,7 +60,13 @@
           "title": "Trump Pursues His Legacy One Name at a Time",
           "url": "https://www.nytimes.com/2025/12/27/us/politics/trump-renaming.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 27 Dec 2025 21:11:51 +0000"
+          "ts": "Sat, 27 Dec 2025 21:11:52 +0000"
+        },
+        {
+          "title": "Trump praises his crime crackdown and tariffs",
+          "url": "https://www.washingtontimes.com/news/2025/dec/27/trump-praises-crime-crackdown-tariffs/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sat, 27 Dec 2025 17:52:10 -0500"
         },
         {
           "title": "5 questions about the FBI headquarters move",
@@ -69,16 +75,10 @@
           "ts": "Sat, 27 Dec 2025 13:44:14 -0500"
         },
         {
-          "title": "Kash Patel says FBI leaving Hoover Building, staying in D.C.",
+          "title": "Kash Patel says FBI leaving Hoover Building, moving to another site in Washington",
           "url": "https://www.washingtontimes.com/news/2025/dec/27/kash-patel-says-fbi-leaving-hoover-building-staying-dc/",
           "source": "The Washington Times stories: Politics",
           "ts": "Sat, 27 Dec 2025 13:06:28 -0500"
-        },
-        {
-          "title": "Trump on more Epstein files: 'NO MORE'",
-          "url": "https://www.washingtontimes.com/news/2025/dec/27/trump-epstein-files-no/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 27 Dec 2025 11:17:20 -0500"
         },
         {
           "title": "The Scrooges of 2025",
@@ -134,6 +134,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Religion, LGBT Rights, and the Law with Mary Bonauto and Ben Marcus from GLADLaw",
+          "url": "https://religionnews.com/2025/12/27/4237962/",
+          "source": "RNS",
+          "ts": "Sat, 27 Dec 2025 23:23:59 +0000"
+        },
+        {
           "title": "How I’ll remember Elder Jeffrey R. Holland",
           "url": "https://religionnews.com/2025/12/27/how-ill-remember-elder-jeffrey-r-holland/",
           "source": "RNS",
@@ -144,12 +150,6 @@
           "url": "https://religionnews.com/2025/12/26/court-rules-in-favor-of-new-yorks-abyssinian-baptist-church-and-its-new-pastor/",
           "source": "RNS",
           "ts": "Fri, 26 Dec 2025 22:38:02 +0000"
-        },
-        {
-          "title": "Faith leaders who died in 2025: Pope Francis, theologians and activists",
-          "url": "https://religionnews.com/2025/12/26/in-2025-faith-figures-influenced-via-social-media-pulpits-and-protests/",
-          "source": "RNS",
-          "ts": "Fri, 26 Dec 2025 22:22:19 +0000"
         },
         {
           "title": "Good Intentions Gone Bad",
@@ -188,7 +188,7 @@
           "ts": "2025-12-26T07:00:00-05:00"
         },
         {
-          "title": "Southern California cleans up after the wettest Christmas season in recent history",
+          "title": "Southern California cleans up after the wettest recent Christmas season",
           "url": "https://www.theguardian.com/us-news/2025/dec/27/southern-california-cleans-up-after-the-wettest-christmas-season-in-recent-history",
           "source": "US news | The Guardian",
           "ts": "Sat, 27 Dec 2025 18:15:09 GMT"
