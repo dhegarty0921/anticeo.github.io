@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T21:22:19.630033Z",
+  "generated_at": "2025-12-28T21:25:30.372492Z",
   "headline": {
     "title": "Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue",
     "url": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "Powerful winter storm to batter much of US with snow, rain and strong winds",
+          "url": "https://www.theguardian.com/us-news/2025/dec/28/winter-storm-snow-wind",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 21:11:35 GMT"
+        },
+        {
           "title": "FBI deploys more resources to ‘dismantle fraud schemes’ in Minnesota",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/two-helicopters-crash-new-jersey",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 19:48:36 GMT"
-        },
-        {
-          "title": "Bernie Sanders criticizes AI as ‘the most consequential technology in humanity’",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 19:00:07 GMT"
         }
       ]
     },
