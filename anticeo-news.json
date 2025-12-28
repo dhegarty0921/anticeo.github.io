@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T20:20:24.773764Z",
+  "generated_at": "2025-12-28T20:25:22.023320Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "FBI deploys more resources to ‘dismantle fraud schemes’ in Minnesota",
+          "url": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 20:08:06 GMT"
+        },
+        {
           "title": "One person dead and one injured after two helicopters crash in New Jersey",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/two-helicopters-crash-new-jersey",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/bernie-sanders-artificial-intelligence-ai-datacenters",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 19:00:07 GMT"
-        },
-        {
-          "title": "School closures have rocked this LA-area district – are they destroying it, or saving it?",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/28/inglewood-california-public-school-funding",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 18:00:13 GMT"
         }
       ]
     },
