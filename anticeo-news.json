@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T10:00:31.374680Z",
+  "generated_at": "2025-12-28T10:05:31.069533Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 27 Dec 2025 07:43:22 -0500"
         },
         {
+          "title": "How a Left-Right Social Media Tiff Pushed Texas to Fund Parks",
+          "url": "https://www.nytimes.com/2025/12/28/us/politics/state-parks-texas.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 28 Dec 2025 10:00:18 +0000"
+        },
+        {
           "title": "How Oil, Drugs and Immigration Fueled Trump’s Venezuela Campaign",
           "url": "https://www.nytimes.com/2025/12/27/us/politics/venezuela-trump-maduro-oil-boat-strikes-immigration.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/27/science/trump-wildfires-vance-epa.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 27 Dec 2025 16:19:07 +0000"
-        },
-        {
-          "title": "Trump Pursues His Legacy One Name at a Time",
-          "url": "https://www.nytimes.com/2025/12/27/us/politics/trump-renaming.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 27 Dec 2025 21:11:52 +0000"
         },
         {
           "title": "Trump praises his crime crackdown and tariffs",
