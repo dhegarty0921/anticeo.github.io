@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T17:35:27.947116Z",
+  "generated_at": "2025-12-28T17:40:27.234361Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "Oklahoma man doing target practice in back yard charged in fatal shooting of neighbor",
+          "url": "https://www.theguardian.com/us-news/2025/dec/28/oklahoma-man-target-practice-fatal-shooting-neighbor",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 17:21:32 GMT"
+        },
+        {
           "title": "‘There’s a whole new bench of progressive creators’: how Democrats can catch up in the online space",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/progressive-creators-democrats-online",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/catholic-bishop-michael-pham-protecting-immgrants",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 16:00:10 GMT"
-        },
-        {
-          "title": "Texas father rescues kidnapped 15-year-old daughter after tracking her phone’s location",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/texas-father-rescues-kidnapped-daughter-tracking-phone",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 14:40:59 GMT"
         }
       ]
     },
