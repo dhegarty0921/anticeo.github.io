@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T14:07:33.328590Z",
+  "generated_at": "2025-12-28T14:11:40.471236Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "‘I believe this is going to be a reckoning’: Ro Khanna, the man behind the Epstein files act, on building bipartisan wins",
+          "url": "https://www.theguardian.com/us-news/2025/dec/28/ro-khanna-epstein-files-act-bipartisan",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 14:00:08 GMT"
+        },
+        {
           "title": "‘You know what I like’: Epstein files reveal disgraced financier’s routine abuse of girls",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/epstein-files-reveal-routine-child-abuse",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/cecot-el-salvador-venezuela-immigration",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 12:00:09 GMT"
-        },
-        {
-          "title": "The little-known program contributing to a decline in overdose deaths in the US",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/crisis-intervention-training-overdose-death-decline",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 12:00:08 GMT"
         }
       ]
     },
