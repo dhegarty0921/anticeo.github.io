@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T18:10:25.589076Z",
+  "generated_at": "2025-12-28T18:15:25.431443Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "School closures have rocked this LA-area district – are they destroying it, or saving it?",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/28/inglewood-california-public-school-funding",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 18:00:13 GMT"
+        },
+        {
           "title": "US strikes on Nigeria and Syria are ‘consistent’ with policy to combat IS, Republican says",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/military-strikes-nigeria-syria-trump-islamic-state",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/oklahoma-man-target-practice-fatal-shooting-neighbor",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 17:21:32 GMT"
-        },
-        {
-          "title": "‘There’s a whole new bench of progressive creators’: how Democrats can catch up in the online space",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/progressive-creators-democrats-online",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 16:00:11 GMT"
         }
       ]
     },
