@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-28T13:10:30.300743Z",
+  "generated_at": "2025-12-28T13:16:15.979152Z",
   "headline": {
     "title": "New York blanketed in snow, sparking travel chaos",
     "url": "https://www.bbc.com/news/articles/c0je0l55zq3o?at_medium=RSS&at_campaign=rss"
@@ -188,6 +188,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "‘You know what I like’: Epstein files reveal disgraced financier’s routine abuse of girls",
+          "url": "https://www.theguardian.com/us-news/2025/dec/28/epstein-files-reveal-routine-child-abuse",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 28 Dec 2025 13:00:07 GMT"
+        },
+        {
           "title": "‘We became famous, but at what cost?’: after the horrors of Cecot, the search for a normal life",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/cecot-el-salvador-venezuela-immigration",
           "source": "US news | The Guardian",
@@ -198,12 +204,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/crisis-intervention-training-overdose-death-decline",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 12:00:08 GMT"
-        },
-        {
-          "title": "Trump news at a glance: Republican turns ‘lowlife’ taunt back on president to raise campaign funds",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/trump-administration-news-updates-today",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 02:46:41 GMT"
         }
       ]
     },
