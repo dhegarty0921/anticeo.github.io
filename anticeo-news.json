@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T22:15:25.207167Z",
+  "generated_at": "2025-12-29T22:20:25.847671Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 29 Dec 2025 04:44:26 -0500"
         },
         {
+          "title": "Deaths in 2025: A Yearlong Procession of Giants",
+          "url": "https://www.nytimes.com/2025/12/29/obituaries/2025-deaths-obituaries.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 29 Dec 2025 22:13:25 +0000"
+        },
+        {
           "title": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
           "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-first-year-voter-voices.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 29 Dec 2025 15:48:43 +0000"
-        },
-        {
-          "title": "Inside Marjorie Taylor Greene’s Break With Trump and MAGA",
-          "url": "https://www.nytimes.com/2025/12/29/magazine/marjorie-taylor-greene-trump-maga-split.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 29 Dec 2025 10:02:01 +0000"
         },
         {
           "title": "Democrats' report accuses Speaker Johnson of wielding House rules to 'rubber stamp' Trump agenda",
@@ -179,19 +179,19 @@
           "title": "Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – live",
           "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
           "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 21:45:47 GMT"
+          "ts": "Mon, 29 Dec 2025 22:06:57 GMT"
+        },
+        {
+          "title": "Authorities identify the two victims of New Jersey helicopter crash: ‘They were always together’",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/victims-new-jersey-helicopter-crash",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 22:05:55 GMT"
         },
         {
           "title": "Marjorie Taylor Greene says she was ‘naive’ for believing Trump is man of the people",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/marjorie-taylor-greene-trump-interview",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 20:55:44 GMT"
-        },
-        {
-          "title": "US pledges $2bn in new UN model for delivery of humanitarian assistance",
-          "url": "https://www.theguardian.com/us-news/2025/dec/29/us-pledge-un-model-humanitarian-assistance",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 20:19:09 GMT"
         }
       ]
     },
