@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T20:30:25.338175Z",
+  "generated_at": "2025-12-29T20:35:25.447320Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -21,10 +21,10 @@
           "ts": "Mon, 29 Dec 2025 17:36:45 GMT"
         },
         {
-          "title": "Two pilots killed after mid-air helicopter collision in New Jersey",
-          "url": "https://www.bbc.com/news/articles/cr5zggg9jl2o?at_medium=RSS&at_campaign=rss",
+          "title": "US pledges $2bn for humanitarian aid, but tells UN 'adapt or die'",
+          "url": "https://www.bbc.com/news/articles/cdj8jr37y98o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Mon, 29 Dec 2025 18:25:28 GMT"
+          "ts": "Mon, 29 Dec 2025 17:51:21 GMT"
         },
         {
           "title": "'Raising questions' isn't enough. The best films of the year took a stance",
@@ -158,12 +158,6 @@
           "ts": "2025-12-29T06:00:00-05:00"
         },
         {
-          "title": "Zohran Mamdani on his mayoral transition and what comes next",
-          "url": "https://www.vox.com/podcasts/473570/zohran-mamdani-vox-astead-herndon",
-          "source": "Vox",
-          "ts": "2025-12-29T14:30:00-05:00"
-        },
-        {
           "title": "10 of the best Vox stories of 2025",
           "url": "https://www.vox.com/today-explained-newsletter/473442/vox-best-stories-2025-climate-madagascar-podcasts-ai-hungary-trump",
           "source": "Vox",
@@ -176,22 +170,28 @@
           "ts": "2025-12-29T06:30:00-05:00"
         },
         {
+          "title": "The most volatile group of voters is turning on Trump",
+          "url": "https://www.vox.com/politics/473291/gen-z-volatile-young-trump-voters-conservative-democrat-liberal-vote",
+          "source": "Vox",
+          "ts": "2025-12-29T06:15:00-05:00"
+        },
+        {
           "title": "Trump says reconstruction of Gaza will begin ‘soon’ as he meets Netanyahu at Mar-a-Lago – live",
           "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
           "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 20:15:04 GMT"
+          "ts": "Mon, 29 Dec 2025 20:24:46 GMT"
+        },
+        {
+          "title": "US pledges $2bn in new UN model for delivery of humanitarian assistance",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/us-pledge-un-model-humanitarian-assistance",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 20:19:09 GMT"
         },
         {
           "title": "Body of triathlete apparently killed by shark found on California beach",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/california-triathlete-body-found-shark",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 18:52:48 GMT"
-        },
-        {
-          "title": "FBI deploys more resources to Minnesota amid Trump’s targeting of state",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 18:37:51 GMT"
         }
       ]
     },
