@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T18:45:34.786021Z",
+  "generated_at": "2025-12-29T18:50:36.818655Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Mosque bombing in Syria leaves 8 dead and 18 wounded",
+          "url": "https://religionnews.com/2025/12/29/mosque-bombing-in-syria-leaves-8-dead-and-18-wounded/",
+          "source": "RNS",
+          "ts": "Mon, 29 Dec 2025 18:46:28 +0000"
+        },
+        {
           "title": "Nigerian villagers are rattled by US airstrikes that made their homes shake and the sky glow red",
           "url": "https://religionnews.com/2025/12/29/nigerian-villagers-are-rattled-by-us-airstrikes-that-made-their-homes-shake-and-the-sky-glow-red/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/12/29/why-i-am-a-reform-jew-rabbi-rick-jacobs/",
           "source": "RNS",
           "ts": "Mon, 29 Dec 2025 18:15:04 +0000"
-        },
-        {
-          "title": "Sewa Diwali Food Drive: 553 organizations partner for celebrations through charity",
-          "url": "https://religionnews.com/2025/12/29/sewa-diwali-food-drive-553-organizations-partner-for-celebrations-through-charity/",
-          "source": "RNS",
-          "ts": "Mon, 29 Dec 2025 17:04:10 +0000"
         },
         {
           "title": "Photos: The Year in Volcanic Activity",
@@ -179,13 +179,13 @@
           "title": "Trump greets Netanyahu at Mar-a-Lago amid concerns over progress on fragile Gaza truce plan – live",
           "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
           "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 18:29:56 GMT"
+          "ts": "Mon, 29 Dec 2025 18:43:45 GMT"
         },
         {
-          "title": "FBI deploys more resources to ‘dismantle fraud schemes’ in Minnesota",
+          "title": "FBI deploys more resources to Minnesota amid Trump’s targeting of state",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
           "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 18:21:35 GMT"
+          "ts": "Mon, 29 Dec 2025 18:37:51 GMT"
         },
         {
           "title": "US struck ‘big facility’ in Venezuela, Trump claimed without offering details",
