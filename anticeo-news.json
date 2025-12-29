@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T12:45:24.953506Z",
+  "generated_at": "2025-12-29T12:50:25.593170Z",
   "headline": {
     "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-29T06:15:00-05:00"
         },
         {
+          "title": "From ‘global cooling’ to ‘beautiful coal’: Trump’s startling climate claims of 2025",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-climate-claims-environment",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 12:30:35 GMT"
+        },
+        {
           "title": "Working Families bet on 2026 as the right time for a third US party after a wave of wins",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/working-families-party-2026-run",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/29/donald-trump-racism-dei-misogyny-2025-review",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 11:00:34 GMT"
-        },
-        {
-          "title": "Nancy Pelosi predicts Democrats will retake US House in 2026 midterms",
-          "url": "https://www.theguardian.com/us-news/2025/dec/29/nancy-pelosi-democrats-retake-house-2026-midterms",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 09:00:32 GMT"
         }
       ]
     },
