@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T09:10:26.002605Z",
+  "generated_at": "2025-12-29T09:15:26.157772Z",
   "headline": {
     "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "Nancy Pelosi predicts Democrats will retake US House in 2026 midterms",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/nancy-pelosi-democrats-retake-house-2026-midterms",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 09:00:32 GMT"
+        },
+        {
           "title": "Trump news at a glance: progress but no breakthrough in Ukraine peace talks",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news-today",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/winter-storm-snow-wind",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 21:11:35 GMT"
-        },
-        {
-          "title": "FBI deploys more resources to ‘dismantle fraud schemes’ in Minnesota",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 20:08:06 GMT"
         }
       ]
     },
