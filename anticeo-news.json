@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T03:40:38.794956Z",
+  "generated_at": "2025-12-29T03:45:24.699873Z",
   "headline": {
     "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 27 Dec 2025 14:24:10 -0500"
         },
         {
+          "title": "Trump Says the U.S. Struck a ‘Big Facility’ in Campaign Against Venezuela",
+          "url": "https://www.nytimes.com/2025/12/28/us/politics/trump-drug-facility-venezuela.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 29 Dec 2025 03:36:55 +0000"
+        },
+        {
           "title": "Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6",
           "url": "https://www.nytimes.com/2025/12/28/us/politics/jan-6-pipe-bomb.html",
           "source": "NYT > U.S. > Politics",
@@ -54,13 +60,7 @@
           "title": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
           "url": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 29 Dec 2025 00:34:50 +0000"
-        },
-        {
-          "title": "From A.I. to Chips, Big Tech Is Getting What It Wants From Trump",
-          "url": "https://www.nytimes.com/2025/12/28/technology/tech-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 28 Dec 2025 10:01:54 +0000"
+          "ts": "Mon, 29 Dec 2025 00:34:51 +0000"
         },
         {
           "title": "Trump, Zelenskyy say peace deal for Ukraine is 'close' but 'thorny issues' remain",
