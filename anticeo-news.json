@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T16:05:27.300483Z",
+  "generated_at": "2025-12-29T16:10:23.923707Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Swiss non-profit tackles a common church problem: Scripture memorization that fizzles out",
+          "url": "https://religionnews.com/2025/12/29/swiss-non-profit-tackles-a-common-church-problem-scripture-memorization-that-fizzles-out/",
+          "source": "RNS",
+          "ts": "Mon, 29 Dec 2025 16:06:06 +0000"
+        },
+        {
           "title": "Religion, LGBT Rights, and the Law with Mary Bonauto and Ben Marcus from GLADLaw",
           "url": "https://religionnews.com/2025/12/27/4237962/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/12/27/how-ill-remember-elder-jeffrey-r-holland/",
           "source": "RNS",
           "ts": "Sat, 27 Dec 2025 16:12:23 +0000"
-        },
-        {
-          "title": "Judge rules in favor of New York’s Abyssinian Baptist Church and its new pastor",
-          "url": "https://religionnews.com/2025/12/26/court-rules-in-favor-of-new-yorks-abyssinian-baptist-church-and-its-new-pastor/",
-          "source": "RNS",
-          "ts": "Fri, 26 Dec 2025 22:38:02 +0000"
         },
         {
           "title": "Photos: The Year in Volcanic Activity",
@@ -176,12 +176,6 @@
           "ts": "2025-12-29T06:15:00-05:00"
         },
         {
-          "title": "Hundreds of Detroit home demolition sites may have been filled with toxic dirt",
-          "url": "https://www.theguardian.com/us-news/2025/dec/29/detroit-home-demolition-sites-toxic-dirt",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 16:00:39 GMT"
-        },
-        {
           "title": "Trump to meet Netanyahu at Mar-a-Lago amid concerns over progress on fragile Gaza truce plan – live",
           "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
           "source": "US news | The Guardian",
@@ -192,6 +186,12 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/29/marjorie-taylor-greene-trump-interview",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 15:31:36 GMT"
+        },
+        {
+          "title": "Many Filipino healthcare workers in the US live in fear of ICE: ‘This is my place of work. I should feel safe’",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/filipino-healthcare-workers-immigration-trump",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 15:00:39 GMT"
         }
       ]
     },
