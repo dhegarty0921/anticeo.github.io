@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T11:15:25.740651Z",
+  "generated_at": "2025-12-29T11:20:23.429767Z",
   "headline": {
     "title": "Trump says progress made in Ukraine talks but 'thorny issues' remain",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2025-12-28T07:00:00-05:00"
         },
         {
+          "title": "The most volatile group of voters is turning on Trump",
+          "url": "https://www.vox.com/politics/473291/gen-z-volatile-young-trump-voters-conservative-democrat-liberal-vote",
+          "source": "Vox",
+          "ts": "2025-12-29T06:15:00-05:00"
+        },
+        {
           "title": "Why politics is ruining how we watch movies",
           "url": "https://www.vox.com/culture/469833/one-battle-after-another-trump-superman-wicked-oscars",
           "source": "Vox",
@@ -170,10 +176,10 @@
           "ts": "2025-12-28T06:30:00-05:00"
         },
         {
-          "title": "How to break free of “money dysmorphia” — and 3 other tips on generosity",
-          "url": "https://www.vox.com/future-perfect/470292/money-dysmorphia-charity-generosity-giving-tuesday",
-          "source": "Vox",
-          "ts": "2025-12-28T06:22:00-05:00"
+          "title": "Donald Trump in his own words – the year in racism and misogyny",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/donald-trump-racism-dei-misogyny-2025-review",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 11:00:34 GMT"
         },
         {
           "title": "Nancy Pelosi predicts Democrats will retake US House in 2026 midterms",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news-today",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 00:51:29 GMT"
-        },
-        {
-          "title": "Powerful winter storm to batter much of US with snow, rain and strong winds",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/winter-storm-snow-wind",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 21:11:35 GMT"
         }
       ]
     },
