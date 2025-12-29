@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T01:00:25.446923Z",
+  "generated_at": "2025-12-29T01:05:24.138622Z",
   "headline": {
     "title": "Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue",
     "url": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss"
@@ -63,22 +63,22 @@
           "ts": "Sun, 28 Dec 2025 21:08:09 +0000"
         },
         {
+          "title": "Trump, Zelenskyy say peace deal for Ukraine is 'close' but 'thorny issues' remain",
+          "url": "https://www.washingtontimes.com/news/2025/dec/28/trump-zelenskyy-say-ukraine-peace-deal-close-thorny-issues-remain/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 28 Dec 2025 19:08:57 -0500"
+        },
+        {
+          "title": "Bank of America chief sees economic strength ahead, even as consumer confidence slumps",
+          "url": "https://www.washingtontimes.com/news/2025/dec/28/bank-america-ceo-brian-moynihan-sees-economic-strength-despite-slump/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 28 Dec 2025 18:21:50 -0500"
+        },
+        {
           "title": "Rep. Turner defends strikes against Islamic State in Nigeria as Democrats question tactics",
           "url": "https://www.washingtontimes.com/news/2025/dec/28/rep-mike-turner-defends-strikes-islamic-state-nigeria-democrats/",
           "source": "The Washington Times stories: Politics",
           "ts": "Sun, 28 Dec 2025 15:15:01 -0500"
-        },
-        {
-          "title": "Sen. Bernie Sanders: Congress ignoring the threat AI poses to workers, humanity",
-          "url": "https://www.washingtontimes.com/news/2025/dec/28/sen-bernie-sanders-congress-ignoring-threat-ai-poses-workers-humanity/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sun, 28 Dec 2025 12:30:23 -0500"
-        },
-        {
-          "title": "'I never questioned, 'Why me?'': Erika Kirk says 'God is good' months after husband's assassination",
-          "url": "https://www.washingtontimes.com/news/2025/dec/28/erika-kirk-widow-charlie-kirk-says-god-good-months-husbands/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sun, 28 Dec 2025 11:42:50 -0500"
         },
         {
           "title": "Affordability Is What Everyone Needs",
@@ -176,6 +176,12 @@
           "ts": "2025-12-27T08:30:00-05:00"
         },
         {
+          "title": "Trump news at a glance: progress but no breakthrough in Ukraine peace talks",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news-today",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 00:51:29 GMT"
+        },
+        {
           "title": "Powerful winter storm to batter much of US with snow, rain and strong winds",
           "url": "https://www.theguardian.com/us-news/2025/dec/28/winter-storm-snow-wind",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/28/fbi-minnesota-fraud-schemes-somalia",
           "source": "US news | The Guardian",
           "ts": "Sun, 28 Dec 2025 20:08:06 GMT"
-        },
-        {
-          "title": "One person dead and one injured after two helicopters crash in New Jersey",
-          "url": "https://www.theguardian.com/us-news/2025/dec/28/two-helicopters-crash-new-jersey",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 28 Dec 2025 19:48:36 GMT"
         }
       ]
     },
