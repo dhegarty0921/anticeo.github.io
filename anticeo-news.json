@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T01:30:31.069781Z",
+  "generated_at": "2025-12-29T01:35:23.260153Z",
   "headline": {
     "title": "Kennedy Center seeks $1m from musician who cancelled after Trump name added to venue",
     "url": "https://www.bbc.com/news/articles/cz68q3p8xqxo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 27 Dec 2025 14:24:10 -0500"
         },
         {
+          "title": "Suspect Confessed to Planting Pipe Bombs Near the Capitol Before Jan. 6",
+          "url": "https://www.nytimes.com/2025/12/28/us/politics/jan-6-pipe-bomb.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 29 Dec 2025 01:32:42 +0000"
+        },
+        {
           "title": "Trump and Zelensky Meet to Iron Out Peace Plan, but Deal Remains Elusive",
           "url": "https://www.nytimes.com/2025/12/28/us/politics/trump-zelensky-peace-ukraine-putin.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/28/technology/tech-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 28 Dec 2025 10:01:53 +0000"
-        },
-        {
-          "title": "What to Know About Colombia’s Role in the Global Drug Trade Amid Trump’s Feud With Petro",
-          "url": "https://www.nytimes.com/2025/12/28/world/americas/colombia-drug-trade-trump-petro.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 28 Dec 2025 21:08:09 +0000"
         },
         {
           "title": "Trump, Zelenskyy say peace deal for Ukraine is 'close' but 'thorny issues' remain",
