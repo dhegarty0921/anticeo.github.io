@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T23:50:25.839733Z",
+  "generated_at": "2025-12-29T23:55:25.247388Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 29 Dec 2025 05:00:00 -0500"
         },
         {
+          "title": "Democrats Aim to Spotlight Republican Efforts to Rewrite the Jan. 6 Capitol Riot",
+          "url": "https://www.nytimes.com/2025/12/29/us/politics/jan-6-anniversary-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 29 Dec 2025 23:51:16 +0000"
+        },
+        {
           "title": "Deaths in 2025: A Yearlong Procession of Giants",
           "url": "https://www.nytimes.com/2025/12/29/obituaries/2025-deaths-obituaries.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 29 Dec 2025 20:46:37 +0000"
-        },
-        {
-          "title": "11 Voters on Trump’s First Year",
-          "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-first-year-voter-voices.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 29 Dec 2025 15:48:43 +0000"
         },
         {
           "title": "Trump threatens Iran with more military action if it revives nuclear, missile programs",
@@ -176,6 +176,12 @@
           "ts": "2025-12-29T06:30:00-05:00"
         },
         {
+          "title": "Beyoncé is now the fifth billionaire musician, Forbes reports",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/beyonce-billionaire-forbes",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 29 Dec 2025 23:38:34 GMT"
+        },
+        {
           "title": "Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – live",
           "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/29/victims-new-jersey-helicopter-crash",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 22:05:55 GMT"
-        },
-        {
-          "title": "Marjorie Taylor Greene says she was ‘naive’ for believing Trump is man of the people",
-          "url": "https://www.theguardian.com/us-news/2025/dec/29/marjorie-taylor-greene-trump-interview",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 20:55:44 GMT"
         }
       ]
     },
