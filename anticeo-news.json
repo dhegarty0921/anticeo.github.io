@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T15:50:25.291334Z",
+  "generated_at": "2025-12-29T15:55:23.373293Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 29 Dec 2025 04:44:26 -0500"
         },
         {
+          "title": "11 Voters on Trump’s First Year",
+          "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-first-year-voter-voices.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 29 Dec 2025 15:48:43 +0000"
+        },
+        {
           "title": "Inside Marjorie Taylor Greene’s Break With Trump and MAGA",
           "url": "https://www.nytimes.com/2025/12/29/magazine/marjorie-taylor-greene-trump-maga-split.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/29/us/politics/families-of-murder-victims-in-washington-say-trump-is-ignoring-them.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 29 Dec 2025 10:01:11 +0000"
-        },
-        {
-          "title": "How Kevin Hassett Became a Trump Loyalist and Fed Chair Contender",
-          "url": "https://www.nytimes.com/2025/12/29/us/politics/kevin-hassett-fed-chair-independence.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 29 Dec 2025 10:01:01 +0000"
         },
         {
           "title": "Zelenskyy says U.S. offered a 15-year security guarantee as part of peace plan",
