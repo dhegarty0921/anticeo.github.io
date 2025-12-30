@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T04:16:10.016733Z",
+  "generated_at": "2025-12-30T04:20:25.627328Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 29 Dec 2025 05:00:00 -0500"
         },
         {
+          "title": "C.I.A. Conducted Drone Strike on Port in Venezuela",
+          "url": "https://www.nytimes.com/2025/12/29/us/politics/cia-drone-strike-venezuela.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 30 Dec 2025 04:10:07 +0000"
+        },
+        {
           "title": "U.S. sues Virginia over tuition aid for unauthorized immigrants.",
           "url": "https://www.nytimes.com/live/2025/12/29/us/trump-news/us-sues-virginia-tuition-immigrants",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/29/us/politics/pacific-trump-venezuela-boat-strike.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 30 Dec 2025 00:43:26 +0000"
-        },
-        {
-          "title": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
-          "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 30 Dec 2025 03:54:21 +0000"
         },
         {
           "title": "PragerU's 'pro-American' Presidential Rankings Survey puts Washington first, Biden last",
