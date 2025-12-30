@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T01:30:26.005065Z",
+  "generated_at": "2025-12-30T01:35:25.048633Z",
   "headline": {
     "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
     "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "Trump and Netanyahu Praise Each Other After Meeting, Despite Differences Over Gaza",
           "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 30 Dec 2025 00:29:33 +0000"
+          "ts": "Tue, 30 Dec 2025 01:28:03 +0000"
         },
         {
           "title": "Democrats Aim to Spotlight Republican Efforts to Rewrite the Jan. 6 Capitol Riot",
@@ -176,6 +176,12 @@
           "ts": "2025-12-29T06:30:00-05:00"
         },
         {
+          "title": "US military says two were killed in strike on suspected drug vessel in Pacific",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/military-deaths-boat-strike-pacific",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 30 Dec 2025 01:24:32 GMT"
+        },
+        {
           "title": "Pardons and prizes: five key takeaways from Trump’s meeting with Netanyahu",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-netanyahu-meeting-takeaways",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news",
           "source": "US news | The Guardian",
           "ts": "Tue, 30 Dec 2025 00:51:23 GMT"
-        },
-        {
-          "title": "Beyoncé is now the fifth billionaire musician, Forbes reports",
-          "url": "https://www.theguardian.com/us-news/2025/dec/29/beyonce-billionaire-forbes",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 23:38:34 GMT"
         }
       ]
     },
