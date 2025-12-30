@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T01:15:24.717640Z",
+  "generated_at": "2025-12-30T01:20:25.143034Z",
   "headline": {
     "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
     "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-29T06:30:00-05:00"
         },
         {
+          "title": "Pardons and prizes: five key takeaways from Trump’s meeting with Netanyahu",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-netanyahu-meeting-takeaways",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 30 Dec 2025 01:09:20 GMT"
+        },
+        {
           "title": "Trump news at a glance: president greets Netanyahu, warns Hamas, threatens to sue Jerome Powell",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2025/dec/29/beyonce-billionaire-forbes",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 23:38:34 GMT"
-        },
-        {
-          "title": "Trump says ‘there’ll be hell to pay’ if Hamas does not disarm as he meets Netanyahu at Mar-a-Lago – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 22:28:40 GMT"
         }
       ]
     },
