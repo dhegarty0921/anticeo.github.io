@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T01:00:25.455952Z",
+  "generated_at": "2025-12-30T01:05:24.960814Z",
   "headline": {
     "title": "Trump hopes to reach phase two of Gaza ceasefire 'very quickly'",
     "url": "https://www.bbc.com/news/articles/cdj8jmxyzneo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-29T06:30:00-05:00"
         },
         {
+          "title": "Trump news at a glance: president greets Netanyahu, warns Hamas, threatens to sue Jerome Powell",
+          "url": "https://www.theguardian.com/us-news/2025/dec/29/trump-administration-latest-news",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 30 Dec 2025 00:51:23 GMT"
+        },
+        {
           "title": "Beyoncé is now the fifth billionaire musician, Forbes reports",
           "url": "https://www.theguardian.com/us-news/2025/dec/29/beyonce-billionaire-forbes",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/live/2025/dec/29/trump-netanyahu-israel-gaza-live",
           "source": "US news | The Guardian",
           "ts": "Mon, 29 Dec 2025 22:28:40 GMT"
-        },
-        {
-          "title": "Authorities identify the two victims of New Jersey helicopter crash: ‘They were always together’",
-          "url": "https://www.theguardian.com/us-news/2025/dec/29/victims-new-jersey-helicopter-crash",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 29 Dec 2025 22:05:55 GMT"
         }
       ]
     },
