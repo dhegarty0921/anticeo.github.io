@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T00:00:25.101841Z",
+  "generated_at": "2025-12-30T00:05:25.828811Z",
   "headline": {
     "title": "US offered Ukraine 15-year security guarantee, Zelensky says",
     "url": "https://www.bbc.com/news/articles/c36z615y443o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 29 Dec 2025 05:00:00 -0500"
         },
         {
+          "title": "Despite Differences, Trump and Netanyahu Present United Front",
+          "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-netanyahu-israel-meeting.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 30 Dec 2025 00:02:10 +0000"
+        },
+        {
           "title": "Democrats Aim to Spotlight Republican Efforts to Rewrite the Jan. 6 Capitol Riot",
           "url": "https://www.nytimes.com/2025/12/29/us/politics/jan-6-anniversary-trump.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2025/12/29/obituaries/2025-deaths-obituaries.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 29 Dec 2025 23:25:59 +0000"
-        },
-        {
-          "title": "Trump, Pressing Ahead on Ukraine-Russia Talks, Confronts Difficult Realities",
-          "url": "https://www.nytimes.com/2025/12/29/us/politics/trump-zelensky-putin-ukraine-russia.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 29 Dec 2025 20:46:37 +0000"
         },
         {
           "title": "Trump threatens Iran with more military action if it revives nuclear, missile programs",
