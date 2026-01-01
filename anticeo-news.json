@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T20:51:38.990284Z",
+  "generated_at": "2026-01-01T20:55:33.939501Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Thu, 01 Jan 2026 06:37:27 GMT"
         },
         {
+          "title": "Congress failed to extend Obamacare subsidies. This Democrat says Trump can save them",
+          "url": "https://www.npr.org/2026/01/01/g-s1-104216/obamacare-subsidies-congress-peter-welch",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 01 Jan 2026 15:48:39 -0500"
+        },
+        {
           "title": "Rideshare union rights, social media limits and other state laws taking effect Jan. 1",
           "url": "https://www.npr.org/2026/01/01/nx-s1-5662649/uber-lyft-union-paid-leave-snap-soda",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/01/01/nx-s1-5661598/sen-peter-welch-d-vt-talks-about-the-future-of-the-aca-as-subsidies-expire",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 01 Jan 2026 07:02:04 -0500"
-        },
-        {
-          "title": "What does Zohran Mamdani's ascent to mayor of New York mean for the Democratic party",
-          "url": "https://www.npr.org/2026/01/01/nx-s1-5662556/what-does-zohran-mamdanis-ascent-to-mayor-of-new-york-mean-for-the-democratic-party",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 01 Jan 2026 04:50:07 -0500"
         },
         {
           "title": "Russia Asks United States to Stop Pursuit of Fleeing Oil Tanker",
@@ -179,7 +179,7 @@
           "title": "Zohran Mamdani vows to govern New York ‘expansively and audaciously’ after being sworn in by Bernie Sanders – live",
           "url": "https://www.theguardian.com/us-news/live/2026/jan/01/zohran-mamdani-inauguration-mayor-new-york",
           "source": "US news | The Guardian",
-          "ts": "Thu, 01 Jan 2026 20:34:18 GMT"
+          "ts": "Thu, 01 Jan 2026 20:44:56 GMT"
         },
         {
           "title": "Zohran Mamdani promises ‘new era’ for New York City in first speech as mayor",
