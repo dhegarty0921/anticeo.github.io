@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T21:35:30.876761Z",
+  "generated_at": "2026-01-01T21:40:29.378531Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Wed, 31 Dec 2025 07:56:31 -0600"
         },
         {
-          "title": "Trump's dismantling of consumer bureau creates headache for small banks",
-          "url": "https://www.politico.com/news/2026/01/01/trump-cfpb-problem-small-banks-00699421",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 01 Jan 2026 14:00:00 EST"
-        },
-        {
-          "title": "How budget bickering and Dolly Parton politics warped California’s Google news deal",
-          "url": "https://www.politico.com/news/2026/01/01/california-google-deal-dolly-parton-politics-00708332",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 01 Jan 2026 10:00:00 EST"
-        },
-        {
-          "title": "From IVF to AI: California ushers in a wave of far-reaching laws",
-          "url": "https://www.politico.com/news/2025/12/31/ivf-ai-california-new-laws-00701399",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 31 Dec 2025 10:00:00 EST"
-        },
-        {
           "title": "Kellyanne Conway tells Rosie O’Donnell, a lesbian, to ‘find a husband’",
           "url": "https://www.thepinknews.com/2026/01/01/kellyanne-conway-rosie-odonnell-donald-trump/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -192,6 +174,24 @@
           "url": "https://www.vox.com/videos/473782/2025-in-8-minutes",
           "source": "Vox",
           "ts": "2025-12-31T08:00:00-05:00"
+        },
+        {
+          "title": "Zohran Mamdani vows to govern New York ‘expansively and audaciously’ after being sworn in by Bernie Sanders –as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/jan/01/zohran-mamdani-inauguration-mayor-new-york",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 01 Jan 2026 20:59:07 GMT"
+        },
+        {
+          "title": "Zohran Mamdani promises ‘new era’ for New York City in first speech as mayor",
+          "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 01 Jan 2026 20:17:00 GMT"
+        },
+        {
+          "title": "Trump says he takes more aspirin than recommended but his ‘health is perfect’",
+          "url": "https://www.theguardian.com/us-news/2026/jan/01/trump-interview-health",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 01 Jan 2026 17:38:43 GMT"
         }
       ]
     },
