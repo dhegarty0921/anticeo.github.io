@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T17:55:24.431589Z",
+  "generated_at": "2026-01-02T18:00:24.689094Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "FBI says it thwarted planned New Year’s Eve terrorist attack in North Carolina",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/north-carolina-terror-attack-planned-nye-fbi",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 17:52:56 GMT"
+        },
+        {
           "title": "Growing number of California sheriffs no longer respond to mental health calls",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/california-police-cut-mental-health-calls",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/israel-mamdani-antisemitism-ihra-definition",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 15:14:36 GMT"
-        },
-        {
-          "title": "Colorado authorities suspect mountain lion attack after woman found dead near trail",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/colorado-mountain-lion-attack-woman-dead",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 14:03:57 GMT"
         }
       ]
     },
