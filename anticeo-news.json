@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T18:05:23.397573Z",
+  "generated_at": "2026-01-02T18:10:25.103835Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 02 Jan 2026 06:45:41 -0500"
         },
         {
+          "title": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
+          "url": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 02 Jan 2026 18:05:22 +0000"
+        },
+        {
           "title": "Tesla Car Sales Dropped 9% in 2025, Falling Behind China’s BYD",
           "url": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 02 Jan 2026 17:29:32 +0000"
-        },
-        {
-          "title": "Brenna Henn Wanted to Improve Genetic Medicine. Then Her N.I.H. Grant Was Cut.",
-          "url": "https://www.nytimes.com/2026/01/02/science/trump-lostscience-genetics-henn.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 02 Jan 2026 10:00:21 +0000"
         },
         {
           "title": "5 questions about Trump's furniture tariff delay and pasta tariff reduction",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "RNA 2026 conference in Atlanta invites journalists, scholars, and media professionals",
+          "url": "https://religionnews.com/2026/01/02/rna-2026-conference-in-atlanta-invites-journalists-scholars-and-media-professionals/",
+          "source": "RNS",
+          "ts": "Fri, 02 Jan 2026 18:05:28 +0000"
+        },
+        {
           "title": "Religion in 2026: RNS reporters on what they expect to cover in the coming year",
           "url": "https://religionnews.com/2025/12/31/religion-in-2026-rns-reporters-on-what-they-expect-to-cover-in-the-coming-year/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2025/12/31/as-religions-political-influence-grows-these-faith-voices-are-likely-to-draw-attention-in-2026/",
           "source": "RNS",
           "ts": "Wed, 31 Dec 2025 20:33:57 +0000"
-        },
-        {
-          "title": "2025 Photos of the Year",
-          "url": "https://religionnews.com/2025/12/31/2025-photos-of-the-year/",
-          "source": "RNS",
-          "ts": "Wed, 31 Dec 2025 18:28:09 +0000"
         },
         {
           "title": "What Dante Is Trying to Tell Us",
