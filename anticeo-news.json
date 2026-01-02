@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T14:10:25.782389Z",
+  "generated_at": "2026-01-02T14:15:24.664460Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "Colorado authorities suspect mountain lion attack after woman found dead near trail",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/colorado-mountain-lion-attack-woman-dead",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 14:03:57 GMT"
+        },
+        {
           "title": "‘It’s our turn’: gun-safety advocates are riding a ‘seismic’ wave to US legislatures",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/gun-safety-law-us-legislation",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 12:40:47 GMT"
-        },
-        {
-          "title": "2025 was a big year for climate in the US courts - these were the wins and losses",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/climate-accountability-lawsuits-us-2025",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 12:30:08 GMT"
         }
       ]
     },
