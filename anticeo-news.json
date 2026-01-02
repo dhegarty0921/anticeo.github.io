@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T17:40:25.519736Z",
+  "generated_at": "2026-01-02T17:45:24.737684Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "Growing number of California sheriffs no longer respond to mental health calls",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/california-police-cut-mental-health-calls",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 17:33:50 GMT"
+        },
+        {
           "title": "Israel accuses Mamdani of antisemitism on first day as New York mayor",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/israel-mamdani-antisemitism-ihra-definition",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/colorado-mountain-lion-attack-woman-dead",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 14:03:57 GMT"
-        },
-        {
-          "title": "‘It’s our turn’: gun-safety advocates are riding a ‘seismic’ wave to US legislatures",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/gun-safety-law-us-legislation",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 13:00:10 GMT"
         }
       ]
     },
