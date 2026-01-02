@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T19:25:24.908959Z",
+  "generated_at": "2026-01-02T19:30:24.582051Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "DC pipe bomb suspect must remain in jail before trial, judge rules",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/dc-pipe-bomb-suspect-custody",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 19:12:55 GMT"
+        },
+        {
           "title": "US homeland security condemned for using Japanese artist’s work without consent",
           "url": "https://www.theguardian.com/us-news/2026/jan/03/homeland-security-japanese-artist-permission",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/north-carolina-terror-attack-planned-nye-fbi",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 17:52:56 GMT"
-        },
-        {
-          "title": "Growing number of California sheriffs no longer respond to mental health calls",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/california-police-cut-mental-health-calls",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 17:33:50 GMT"
         }
       ]
     },
