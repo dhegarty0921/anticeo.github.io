@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T19:10:24.594502Z",
+  "generated_at": "2026-01-02T19:15:24.385262Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 02 Jan 2026 06:45:47 -0500"
         },
         {
+          "title": "D.C. Pipe Bomb Suspect Ordered to Remain in Jail Until Trial",
+          "url": "https://www.nytimes.com/2026/01/02/us/politics/dc-pipe-bomb-suspect-jail.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 02 Jan 2026 19:12:27 +0000"
+        },
+        {
           "title": "A Diminished Congress Weighs Whether to Reassert Its Power",
           "url": "https://www.nytimes.com/2026/01/02/us/politics/trump-congress-power-republicans-democrats.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 02 Jan 2026 18:05:22 +0000"
-        },
-        {
-          "title": "Tesla Car Sales Dropped 9% in 2025, Falling Behind China’s BYD",
-          "url": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 02 Jan 2026 19:01:58 +0000"
         },
         {
           "title": "5 questions about Trump's furniture tariff delay and pasta tariff reduction",
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "US homeland security condemned for using Japanese artist’s work without consent",
+          "url": "https://www.theguardian.com/us-news/2026/jan/03/homeland-security-japanese-artist-permission",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 19:10:34 GMT"
+        },
+        {
           "title": "FBI says it thwarted planned New Year’s Eve terrorist attack in North Carolina",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/north-carolina-terror-attack-planned-nye-fbi",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/california-police-cut-mental-health-calls",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 17:33:50 GMT"
-        },
-        {
-          "title": "Israel accuses Mamdani of antisemitism on first day as New York mayor",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/israel-mamdani-antisemitism-ihra-definition",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 15:14:36 GMT"
         }
       ]
     },
