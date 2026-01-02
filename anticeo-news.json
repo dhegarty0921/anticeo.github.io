@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T10:35:24.065078Z",
+  "generated_at": "2026-01-02T10:40:25.200458Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -27,14 +27,14 @@
           "ts": "Thu, 01 Jan 2026 10:19:32 GMT"
         },
         {
-          "title": "With few Epstein files released, conspiracy theories flourish and questions remain",
-          "url": "https://www.npr.org/2026/01/02/nx-s1-5662638/epstein-files-release-trump-conspiracy-2026",
+          "title": "U.S. interventions in Latin America and the Caribbean haven't always gone as planned",
+          "url": "https://www.npr.org/2026/01/02/nx-s1-5652133/us-venezuela-interventionism-caribbean-latin-america-history-trump",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 02 Jan 2026 05:00:00 -0500"
         },
         {
-          "title": "U.S. interventions in Latin America and the Caribbean haven't always gone as planned",
-          "url": "https://www.npr.org/2026/01/02/nx-s1-5652133/us-venezuela-interventionism-caribbean-latin-america-history-trump",
+          "title": "With few Epstein files released, conspiracy theories flourish and questions remain",
+          "url": "https://www.npr.org/2026/01/02/nx-s1-5662638/epstein-files-release-trump-conspiracy-2026",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 02 Jan 2026 05:00:00 -0500"
         },
@@ -46,7 +46,7 @@
         },
         {
           "title": "After Watergate, the Presidency Was Tamed. Trump Is Unleashing It.",
-          "url": "https://www.nytimes.com/2026/01/02/us/politics/after-watergate-the-presidency-was-tamed-trump-is-unleashing-it.html",
+          "url": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 02 Jan 2026 10:01:06 +0000"
         },
@@ -99,6 +99,12 @@
           "ts": "Wed, 31 Dec 2025 07:56:31 -0600"
         },
         {
+          "title": "Stranger Things fans rage as Robin’s sapphic romance comes to abrupt end: ‘This messy show’",
+          "url": "https://www.thepinknews.com/2026/01/02/stranger-things-fans-robin-what-happened-to-vickie/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 02 Jan 2026 10:32:49 +0000"
+        },
+        {
           "title": "Kellyanne Conway tells Rosie O’Donnell, a lesbian, to ‘find a husband’",
           "url": "https://www.thepinknews.com/2026/01/01/kellyanne-conway-rosie-odonnell-donald-trump/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -109,12 +115,6 @@
           "url": "https://www.thepinknews.com/2026/01/01/new-years-eve-wicked-london-uk/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 01 Jan 2026 12:18:38 +0000"
-        },
-        {
-          "title": "Stranger Things fans convinced this character was confirmed as queer in the finale’s epilogue",
-          "url": "https://www.thepinknews.com/2026/01/01/stranger-things-queer-lgbtq-nancy-wheeler/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 01 Jan 2026 11:06:41 +0000"
         }
       ]
     },
