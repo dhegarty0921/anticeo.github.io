@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T12:00:23.894713Z",
+  "generated_at": "2026-01-02T12:05:26.068263Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-01-01T08:00:00-05:00"
         },
         {
+          "title": "How to kill a rogue AI",
+          "url": "https://www.vox.com/politics/472668/rogue-ai-emp-hunter-killer-loss-of-control",
+          "source": "Vox",
+          "ts": "2026-01-02T07:00:00-05:00"
+        },
+        {
           "title": "Elon Musk created a monster that’s tearing the right apart",
           "url": "https://www.vox.com/politics/473801/elon-musk-x-twitter-influencer-feuding-rufo-antisemitism",
           "source": "Vox",
@@ -168,12 +174,6 @@
           "url": "https://www.vox.com/policy/469634/care-blocks-child-care-women-caregiving-elder-care-families",
           "source": "Vox",
           "ts": "2026-01-02T06:14:00-05:00"
-        },
-        {
-          "title": "One of the most impactful resolutions you can make in the new year",
-          "url": "https://www.vox.com/future-perfect/473023/eat-less-meat-plant-based-new-years-resolution-2026",
-          "source": "Vox",
-          "ts": "2026-01-01T07:00:00-05:00"
         },
         {
           "title": "Italian pasta makers win reprieve from Trump tariffs",
