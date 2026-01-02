@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T19:40:25.272765Z",
+  "generated_at": "2026-01-02T19:45:25.687903Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "Fri, 02 Jan 2026 18:05:28 +0000"
         },
         {
+          "title": "Trump’s ‘Operation Iranian Freedom’",
+          "url": "https://www.theatlantic.com/ideas/2026/01/trump-threatens-iran-regime-change-red-line/685476/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-01-02T14:17:08-05:00"
+        },
+        {
           "title": "A Reading Resolution You Can Keep",
           "url": "https://www.theatlantic.com/newsletters/2026/01/books-briefing-2026-reading-resolution-you-can-keep/685475/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/magazine/2026/02/mary-jo-bang-dante-paradiso-review/685430/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-01-02T09:30:00-05:00"
-        },
-        {
-          "title": "The People Who Marry Chatbots",
-          "url": "https://www.theatlantic.com/ideas/2026/01/chatbot-marriage-ai-relationships-romance/685459/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-01-02T09:00:00-05:00"
         },
         {
           "title": "How to kill a rogue AI",
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "College freshman identified as one of three hikers found dead on California’s Mount Baldy",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/california-mount-baldy-hiker-death",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 19:38:39 GMT"
+        },
+        {
           "title": "DC pipe bomb suspect must remain in jail before trial, judge rules",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/dc-pipe-bomb-suspect-custody",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/03/homeland-security-japanese-artist-permission",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 19:10:34 GMT"
-        },
-        {
-          "title": "FBI says it thwarted planned New Year’s Eve terrorist attack in North Carolina",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/north-carolina-terror-attack-planned-nye-fbi",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 17:52:56 GMT"
         }
       ]
     },
