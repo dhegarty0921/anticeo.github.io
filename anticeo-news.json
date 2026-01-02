@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T07:40:28.663709Z",
+  "generated_at": "2026-01-02T07:45:24.515561Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Wed, 31 Dec 2025 07:56:31 -0600"
         },
         {
-          "title": "Medicaid, ICE and a ticking clock for undocumented Californians",
-          "url": "https://www.politico.com/news/2026/01/01/for-californias-undocumented-its-enroll-now-or-never-00701779",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 01 Jan 2026 16:00:00 EST"
-        },
-        {
-          "title": "How budget bickering and Dolly Parton politics warped California’s Google news deal",
-          "url": "https://www.politico.com/news/2026/01/01/california-google-deal-dolly-parton-politics-00708332",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 01 Jan 2026 10:00:00 EST"
-        },
-        {
-          "title": "From IVF to AI: California ushers in a wave of far-reaching laws",
-          "url": "https://www.politico.com/news/2025/12/31/ivf-ai-california-new-laws-00701399",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 31 Dec 2025 10:00:00 EST"
-        },
-        {
           "title": "Kellyanne Conway tells Rosie O’Donnell, a lesbian, to ‘find a husband’",
           "url": "https://www.thepinknews.com/2026/01/01/kellyanne-conway-rosie-odonnell-donald-trump/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -192,6 +174,24 @@
           "url": "https://www.vox.com/videos/473782/2025-in-8-minutes",
           "source": "Vox",
           "ts": "2025-12-31T08:00:00-05:00"
+        },
+        {
+          "title": "Trump news at a glance: president denies falling asleep in public meetings as he defends ‘perfect’ health",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 01:25:49 GMT"
+        },
+        {
+          "title": "Mamdani pledges ‘new era’ for New York and vows to govern ‘audaciously’",
+          "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 00:56:54 GMT"
+        },
+        {
+          "title": "South Park writer buys ‘Trump Kennedy Center’ domain name",
+          "url": "https://www.theguardian.com/us-news/2026/jan/01/trump-kennedy-center-south-park",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 01 Jan 2026 22:09:06 GMT"
         }
       ]
     },
