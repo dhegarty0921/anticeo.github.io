@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T01:40:34.314213Z",
+  "generated_at": "2026-01-02T01:45:25.099057Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-31T08:00:00-05:00"
         },
         {
+          "title": "Trump news at a glance: president denies falling asleep in public meetings as he defends ‘perfect’ health",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 01:25:49 GMT"
+        },
+        {
           "title": "Mamdani pledges ‘new era’ for New York and vows to govern ‘audaciously’",
           "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/01/trump-kennedy-center-south-park",
           "source": "US news | The Guardian",
           "ts": "Thu, 01 Jan 2026 22:09:06 GMT"
-        },
-        {
-          "title": "Zohran Mamdani vows to govern New York ‘expansively and audaciously’ after being sworn in by Bernie Sanders –as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/jan/01/zohran-mamdani-inauguration-mayor-new-york",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 01 Jan 2026 20:59:07 GMT"
         }
       ]
     },
