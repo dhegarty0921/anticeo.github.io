@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T18:45:24.080742Z",
+  "generated_at": "2026-01-02T18:50:25.219942Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 02 Jan 2026 06:45:41 -0500"
         },
         {
+          "title": "A Diminished Congress Weighs Whether to Reassert Its Power",
+          "url": "https://www.nytimes.com/2026/01/02/us/politics/trump-congress-power-republicans-democrats.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 02 Jan 2026 18:45:13 +0000"
+        },
+        {
           "title": "Oil Tanker Fleeing U.S. Coast Guard Broadcasts Location in North Atlantic",
           "url": "https://www.nytimes.com/2026/01/02/us/politics/oil-tanker-russia-north-atlantic.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/01/02/business/tesla-electric-vehicles-fourth-quarter-sales.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 02 Jan 2026 16:52:15 +0000"
-        },
-        {
-          "title": "After Watergate, the Presidency Was Tamed. Trump Is Unleashing It.",
-          "url": "https://www.nytimes.com/2026/01/02/us/politics/president-trump-powers-watergate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 02 Jan 2026 17:29:32 +0000"
         },
         {
           "title": "5 questions about Trump's furniture tariff delay and pasta tariff reduction",
