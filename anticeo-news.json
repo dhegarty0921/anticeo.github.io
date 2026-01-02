@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T09:25:24.144635Z",
+  "generated_at": "2026-01-02T09:30:25.211340Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-31T08:00:00-05:00"
         },
         {
+          "title": "Victoria Jones, daughter of Tommy Lee, found dead in San Francisco",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/victoria-jones-daughter-of-tommy-lee-found-dead-in-san-francisco",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 09:12:14 GMT"
+        },
+        {
           "title": "Trump news at a glance: president denies falling asleep in public meetings as he defends ‘perfect’ health",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/trump-administration-news-latest-updates",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 00:56:54 GMT"
-        },
-        {
-          "title": "South Park writer buys ‘Trump Kennedy Center’ domain name",
-          "url": "https://www.theguardian.com/us-news/2026/jan/01/trump-kennedy-center-south-park",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 01 Jan 2026 22:09:06 GMT"
         }
       ]
     },
