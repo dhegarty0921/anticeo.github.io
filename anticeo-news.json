@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T12:55:24.144674Z",
+  "generated_at": "2026-01-02T13:00:25.618901Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "Mamdani pledges ‘new era’ for New York and vows to govern ‘audaciously’",
+          "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 12:40:47 GMT"
+        },
+        {
           "title": "2025 was a big year for climate in the US courts - these were the wins and losses",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/climate-accountability-lawsuits-us-2025",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/trump-moon-nasa-space",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 12:00:08 GMT"
-        },
-        {
-          "title": "Italian pasta makers win reprieve from Trump tariffs",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/italian-pasta-makers-win-reprieve-from-trump-tariffs",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 10:51:49 GMT"
         }
       ]
     },
