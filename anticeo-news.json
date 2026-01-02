@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T13:10:24.562478Z",
+  "generated_at": "2026-01-02T13:15:25.179296Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "‘It’s our turn’: gun-safety advocates are riding a ‘seismic’ wave to US legislatures",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/gun-safety-law-us-legislation",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 13:00:10 GMT"
+        },
+        {
           "title": "Mamdani pledges ‘new era’ for New York and vows to govern ‘audaciously’",
           "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/climate-accountability-lawsuits-us-2025",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 12:30:08 GMT"
-        },
-        {
-          "title": "Donald Trump wants the US back on the moon before his term ends. Can it happen?",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/trump-moon-nasa-space",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 12:00:08 GMT"
         }
       ]
     },
