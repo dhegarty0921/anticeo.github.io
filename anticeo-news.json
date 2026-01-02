@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T12:40:24.426175Z",
+  "generated_at": "2026-01-02T12:45:24.425886Z",
   "headline": {
     "title": "Trump warns US will intervene if Iran kills protesters",
     "url": "https://www.bbc.com/news/articles/c0q4z33pnnyo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-01-02T06:14:00-05:00"
         },
         {
+          "title": "2025 was a big year for climate in the US courts - these were the wins and losses",
+          "url": "https://www.theguardian.com/us-news/2026/jan/02/climate-accountability-lawsuits-us-2025",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 12:30:08 GMT"
+        },
+        {
           "title": "Donald Trump wants the US back on the moon before his term ends. Can it happen?",
           "url": "https://www.theguardian.com/us-news/2026/jan/02/trump-moon-nasa-space",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/jan/02/italian-pasta-makers-win-reprieve-from-trump-tariffs",
           "source": "US news | The Guardian",
           "ts": "Fri, 02 Jan 2026 10:51:49 GMT"
-        },
-        {
-          "title": "Swiss investigators race to identify victims after 40 killed in resort bar fire | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/jan/02/first-thing-swiss-investigators-race-to-identify-victims-resort-bar-fire",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 02 Jan 2026 10:45:31 GMT"
         }
       ]
     },
