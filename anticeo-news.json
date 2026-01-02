@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T00:25:23.488161Z",
+  "generated_at": "2026-01-02T00:30:25.457472Z",
   "headline": {
     "title": "Trump says he is withdrawing National Guard troops from some US cities",
     "url": "https://www.bbc.com/news/articles/c9dv1200j44o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2025-12-31T08:00:00-05:00"
         },
         {
+          "title": "Zohran Mamdani promises ‘new era’ for New York City in first speech as mayor",
+          "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 02 Jan 2026 00:06:15 GMT"
+        },
+        {
           "title": "South Park writer buys ‘Trump Kennedy Center’ domain name",
           "url": "https://www.theguardian.com/us-news/2026/jan/01/trump-kennedy-center-south-park",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/jan/01/zohran-mamdani-inauguration-mayor-new-york",
           "source": "US news | The Guardian",
           "ts": "Thu, 01 Jan 2026 20:59:07 GMT"
-        },
-        {
-          "title": "Zohran Mamdani promises ‘new era’ for New York City in first speech as mayor",
-          "url": "https://www.theguardian.com/us-news/2026/jan/01/zohran-mamdani-inauguration-speech",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 01 Jan 2026 20:17:00 GMT"
         }
       ]
     },
