@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T14:50:46.763162Z",
+  "generated_at": "2026-03-01T14:55:35.274993Z",
   "headline": {
     "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
     "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Sun, 01 Mar 2026 07:39:28 -0600"
         },
         {
+          "title": "Many of Trump’s own voters didn’t want to attack Iran. Now he has to win them over.",
+          "url": "https://www.politico.com/news/2026/03/01/iran-war-polls-trump-voters-00806011",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 01 Mar 2026 07:00:00 EST"
+        },
+        {
+          "title": "DHS official promises election officials that ICE will not be at polling places",
+          "url": "https://www.politico.com/news/2026/02/25/dhs-ice-polling-places-00799613",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 25 Feb 2026 19:06:33 EST"
+        },
+        {
+          "title": "Voters know what the next big issue is. They don’t know how they feel about it.",
+          "url": "https://www.politico.com/news/2026/02/22/poll-data-centers-politics-00791786",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 22 Feb 2026 10:00:00 EST"
+        },
+        {
           "title": "Married At First Sight star calls out biphobia after being ‘reduced to her sexuality’",
           "url": "https://www.thepinknews.com/2026/02/27/married-at-first-sight-star-calls-out-biphobia-after-being-reduced-to-her-sexuality/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -121,6 +139,12 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "EU scrambles for unity as Iran crisis exposes transatlantic rift",
+          "url": "https://www.politico.eu/article/eu-scrambles-unity-iran-crisis-exposes-transatlantic-rift-united-states/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sat, 28 Feb 2026 20:15:37 EST"
+        },
         {
           "title": "America’s moral power is the first casualty in Iran",
           "url": "https://religionnews.com/2026/02/28/americas-moral-power-is-the-first-casualty-in-iran/",
@@ -174,30 +198,19 @@
           "url": "https://www.vox.com/the-logoff-newsletter-trump/481082/us-israel-iran-war-trump-strikes-briefly-explained",
           "source": "Vox",
           "ts": "2026-02-28T15:25:00-05:00"
-        },
-        {
-          "title": "Populist crusade and anti-Maga outrage as Texas Democrats do battle in Senate primary",
-          "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-democrats-primary-senate-seat",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Mar 2026 14:00:44 GMT"
-        },
-        {
-          "title": "ICE has detained this high schooler for 10 months. Here’s what he and his classmates want you to know",
-          "url": "https://www.theguardian.com/us-news/2026/mar/01/student-ice-detention-new-york-high-school-ellis-prep-dylan-lopez-contreras",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Mar 2026 14:00:43 GMT"
-        },
-        {
-          "title": "Texas bar shooting leaves three people dead and 14 wounded, police say",
-          "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Mar 2026 13:29:53 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "LIVE UPDATES on Iran from around the globe",
+          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
