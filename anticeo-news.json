@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T16:26:14.559169Z",
+  "generated_at": "2026-03-01T16:31:15.721475Z",
   "headline": {
     "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
     "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
@@ -99,30 +99,6 @@
           "ts": "Sun, 01 Mar 2026 07:39:28 -0600"
         },
         {
-          "title": "Democrats’ divide over Israel erupts after attacks on Iran",
-          "url": "https://www.politico.com/news/2026/03/01/democrats-israel-iran-midterms-00806235",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 10:56:10 EST"
-        },
-        {
-          "title": "Supreme Court considers case involving FBI operative ready to burn everyone",
-          "url": "https://www.politico.com/news/2026/03/01/craig-monteilh-fbi-aclu-supreme-court-00805402",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 11:00:00 EST"
-        },
-        {
-          "title": "Bannon blasts Trump campaign aides in Texas Senate showdown",
-          "url": "https://www.politico.com/news/2026/02/27/bannon-texas-senate-maga-00803314",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 27 Feb 2026 06:10:08 EST"
-        },
-        {
-          "title": "Trump’s threat to shut down Michigan bridge opens new attack lane for Democrats",
-          "url": "https://subscriber.politicopro.com/article/2026/02/trumps-threat-to-shut-down-michigan-bridge-opens-new-attack-lane-for-democrats-00778062",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Feb 2026 17:06:34 EST"
-        },
-        {
           "title": "Married At First Sight star calls out biphobia after being ‘reduced to her sexuality’",
           "url": "https://www.thepinknews.com/2026/02/27/married-at-first-sight-star-calls-out-biphobia-after-being-reduced-to-her-sexuality/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -145,12 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "EU scrambles for unity as Iran crisis exposes transatlantic rift",
-          "url": "https://www.politico.eu/article/eu-scrambles-unity-iran-crisis-exposes-transatlantic-rift-united-states/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 20:15:37 EST"
-        },
         {
           "title": "Ayatollah Ali Khamenei, theocratic leader of Iran since 1989, is killed in US-Israel strikes",
           "url": "https://religionnews.com/2026/03/01/ayatollah-ali-khamenei-theocratic-leader-of-iran-since-1989-is-killed-in-us-israel-strikes/",
@@ -204,19 +174,30 @@
           "url": "https://www.vox.com/the-logoff-newsletter-trump/481082/us-israel-iran-war-trump-strikes-briefly-explained",
           "source": "Vox",
           "ts": "2026-02-28T15:25:00-05:00"
+        },
+        {
+          "title": "Austin bar shooting leaves three dead, including suspect, and 14 wounded",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 16:07:26 GMT"
+        },
+        {
+          "title": "Populist crusade and anti-Maga outrage as Texas Democrats do battle in Senate primary",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-democrats-primary-senate-seat",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 14:00:44 GMT"
+        },
+        {
+          "title": "ICE has detained this high schooler for 10 months. Here’s what he and his classmates want you to know",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/student-ice-detention-new-york-high-school-ellis-prep-dylan-lopez-contreras",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 14:00:43 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "LIVE UPDATES on Iran from around the globe",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
