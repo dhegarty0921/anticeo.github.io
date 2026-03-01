@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-01T22:30:33.767380Z",
+  "generated_at": "2026-03-01T22:35:33.278982Z",
   "headline": {
     "title": "Deadly Texas bar shooting is 'potentially an act of terrorism', FBI says",
     "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss"
@@ -60,7 +60,7 @@
           "title": "Stakes Quickly Rise for U.S. in Iran War, With 3 Service Members Killed",
           "url": "https://www.nytimes.com/2026/03/01/us/politics/iran-war-troops-deaths-casualties.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 01 Mar 2026 21:48:54 +0000"
+          "ts": "Sun, 01 Mar 2026 21:48:55 +0000"
         },
         {
           "title": "Trump speaks to Middle East leaders, gets briefing on Austin shooting",
@@ -99,34 +99,22 @@
           "ts": "Sun, 01 Mar 2026 13:39:36 -0600"
         },
         {
-          "title": "Will Iranians Rise Up? Here Are the Odds.",
-          "url": "https://www.politico.com/news/magazine/2026/03/01/iran-uprising-trump-khamenei-regime-change-00806179",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 14:01:00 EST"
-        },
-        {
-          "title": "‘War of choice’: Trump says Iran was preparing attack but has provided no evidence",
-          "url": "https://www.politico.com/news/2026/03/01/trump-iran-preparing-attack-no-evidence-00806447",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 16:26:36 EST"
-        },
-        {
-          "title": "Iranian supreme leader killed in airstrike, leaving power vacuum atop regime",
-          "url": "https://www.politico.com/news/2026/02/28/iranian-supreme-leader-killed-in-airstrike-leaving-power-vacuum-atop-regime-00806018",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 16:58:49 EST"
-        },
-        {
-          "title": "Avocado toast, influencers and … panic: How the party ended in Dubai",
-          "url": "https://www.politico.eu/article/postcard-dubai-united-arab-emirates-iran-crisis/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 14:55:00 EST"
-        },
-        {
           "title": "Married At First Sight star calls out biphobia after being ‘reduced to her sexuality’",
           "url": "https://www.thepinknews.com/2026/02/27/married-at-first-sight-star-calls-out-biphobia-after-being-reduced-to-her-sexuality/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 27 Feb 2026 15:13:52 +0000"
+        },
+        {
+          "title": "Pokemon FireRed and LeafGreen: The ultimate queer-coded team for your playthrough",
+          "url": "https://www.thepinknews.com/2026/02/27/pokemon-firered-and-leafgreen-the-ultimate-queer-coded-team-for-your-playthrough/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 27 Feb 2026 13:50:08 +0000"
+        },
+        {
+          "title": "Congresswoman wants to ban strippers in schools – but it’s never actually happened",
+          "url": "https://www.thepinknews.com/2026/02/27/mary-miller-illinois-schools-strippers-trans-lgbtq/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 27 Feb 2026 13:39:14 +0000"
         }
       ]
     },
@@ -188,29 +176,28 @@
           "ts": "2026-03-01T07:00:00-05:00"
         },
         {
-          "title": "Heartstopper star and more LGBTQ+ icons unite for Queer Health",
-          "url": "https://www.thepinknews.com/2026/02/27/heartstopper-star-and-more-lgbtq-icons-unite-for-queer-health/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Fri, 27 Feb 2026 15:30:18 +0000"
+          "title": "Arkansas father rushing his sick child to hospital won’t face charges after officer rammed into his car",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/arkansas-police-trooper-car-ramming-pit",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 20:25:33 GMT"
         },
         {
-          "title": "Trans woman told she’s not allowed to play cricket for fun",
-          "url": "https://www.thepinknews.com/2026/02/27/cricket-trans-crickiter-barred-amateur-club/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Fri, 27 Feb 2026 14:45:38 +0000"
+          "title": "Austin bar shooting leaves three dead, including suspect, and 14 wounded",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 20:20:59 GMT"
+        },
+        {
+          "title": "Inside Trump’s decision to attack Iran: ‘A window of opportunity’",
+          "url": "https://www.theguardian.com/us-news/2026/feb/28/trump-attack-iran-opportunity",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 17:25:16 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "LIVE UPDATES on Iran from around the globe",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
