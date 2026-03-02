@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T19:00:32.502450Z",
+  "generated_at": "2026-03-02T19:05:33.435563Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -122,22 +122,22 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "In ‘El Mencho’s’ last redoubt, a crucifix, saint candles and a handwritten psalm",
+          "url": "https://religionnews.com/2026/03/02/in-el-menchos-last-redoubt-a-crucifix-saint-candles-and-a-handwritten-psalm/",
+          "source": "RNS",
+          "ts": "Mon, 02 Mar 2026 19:03:33 +0000"
+        },
+        {
+          "title": "A new Gallup poll shows how Americans’ sympathies have shifted in the Israeli-Palestinian conflict",
+          "url": "https://religionnews.com/2026/03/02/a-new-gallup-poll-shows-how-americans-sympathies-have-shifted-in-the-israeli-palestinian-conflict/",
+          "source": "RNS",
+          "ts": "Mon, 02 Mar 2026 19:00:57 +0000"
+        },
+        {
           "title": "In Minnesota, US cardinals and pope’s ambassador decry mass deportations and call for reconciliation",
           "url": "https://religionnews.com/2026/03/02/in-minnesota-us-cardinals-and-popes-ambassador-decry-mass-deportations-and-call-for-reconciliation/",
           "source": "RNS",
           "ts": "Mon, 02 Mar 2026 18:56:56 +0000"
-        },
-        {
-          "title": "From Purity Rings to Shooting Your Dog: How Christian Womanhood Went MAGA",
-          "url": "https://religionnews.com/2026/03/02/from-purity-rings-to-shooting-your-dog-how-christian-womanhood-went-maga/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 18:51:11 +0000"
-        },
-        {
-          "title": "Algerians struggle to afford Ramadan feasts as prices rise despite government pledges",
-          "url": "https://religionnews.com/2026/03/02/algerians-struggle-to-afford-ramadan-feasts-as-prices-rise-despite-government-pledges/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 18:49:53 +0000"
         },
         {
           "title": "After Khamenei, What Now?",
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T06:15:00-05:00"
         },
         {
+          "title": "Pete Hegseth sets the tone for Trump’s politically incorrect war on Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/pete-hegseth-trump-iran-military",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 18:49:31 GMT"
+        },
+        {
           "title": "Authorities investigate mass shooting at Austin bar as potential act of terrorism",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/austin-bar-shooting-investigation-potential-terrorism",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/us-department-of-education-charlie-kirk-banner",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 16:09:34 GMT"
-        },
-        {
-          "title": "‘The digital colonization of flyover states’: how datacenters are tearing small-town America apart",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/amazon-data-centers-small-towns",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 15:00:12 GMT"
         }
       ]
     },
