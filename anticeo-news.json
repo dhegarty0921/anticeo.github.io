@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T12:05:33.751061Z",
+  "generated_at": "2026-03-02T12:10:33.811084Z",
   "headline": {
     "title": "Hopes and fears as US Iranians take to streets after toppling of supreme leader",
     "url": "https://www.bbc.com/news/articles/cy4w728kl4ko?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Sat, 28 Feb 2026 03:43:56 GMT"
         },
         {
+          "title": "Ivermectin is making a post-pandemic comeback, among cancer patients",
+          "url": "https://www.npr.org/2026/03/02/nx-s1-5729102/ivermectin-politics-treatment-cancer-evidence",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 02 Mar 2026 07:00:00 -0500"
+        },
+        {
           "title": "Trump says more American troops will 'likely' die in war against Iran",
           "url": "https://www.npr.org/2026/03/02/nx-s1-5731556/trump-says-more-american-troops-will-likely-die-in-war-against-iran",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/02/nx-s1-5731451/rep-adam-smith-on-the-u-s-strikes-on-iran-and-the-debate-over-trumps-war-powers",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 02 Mar 2026 06:50:25 -0500"
-        },
-        {
-          "title": "Congress gears up for vote on Trump's war powers in Iran — after the battle began",
-          "url": "https://www.npr.org/2026/03/02/g-s1-112092/iran-war-powers-congress-trump",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 02 Mar 2026 05:00:00 -0500"
         },
         {
           "title": "Five Testy Moments From the Acrimonious Texas Senate Primaries",
@@ -63,6 +63,12 @@
           "ts": "Mon, 02 Mar 2026 10:01:49 +0000"
         },
         {
+          "title": "Trump in video to nation says combat operations against Iran continue at 'full force'",
+          "url": "https://www.washingtontimes.com/news/2026/mar/1/trump-video-nation-combat-operations-iran-continue-full-force/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 01 Mar 2026 18:14:27 -0500"
+        },
+        {
           "title": "Iran strike ignites Capitol Hill battle over war powers, Homeland Security funding",
           "url": "https://www.washingtontimes.com/news/2026/mar/1/iran-strike-ignites-capitol-hill-battle-war-powers-homeland-security/",
           "source": "The Washington Times stories: Politics",
@@ -73,12 +79,6 @@
           "url": "https://www.washingtontimes.com/news/2026/mar/1/supporters-brazils-bolsonaro-rally-across-brazil-lula/",
           "source": "The Washington Times stories: Politics",
           "ts": "Sun, 01 Mar 2026 16:11:08 -0500"
-        },
-        {
-          "title": "Trump speaks to Middle East leaders, gets briefing on Austin shooting",
-          "url": "https://www.washingtontimes.com/news/2026/mar/1/trump-speaks-middle-east-leaders-gets-briefing-austin-shooting/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sun, 01 Mar 2026 15:00:41 -0500"
         },
         {
           "title": "An Unwise and Unconstitutional Attack on Iran",
