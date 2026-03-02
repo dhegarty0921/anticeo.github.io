@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T00:10:32.258136Z",
+  "generated_at": "2026-03-02T00:15:32.479882Z",
   "headline": {
     "title": "What we know so far about the US-Israel attacks and Iran's retaliation",
     "url": "https://www.bbc.com/news/articles/cx2dyz6p3weo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Sun, 01 Mar 2026 23:17:32 GMT"
         },
         {
+          "title": "Satellite images provide view inside Iran at war",
+          "url": "https://www.npr.org/2026/03/01/nx-s1-5731528/satellite-images-iran-war-us-strikes-israel",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 01 Mar 2026 19:05:17 -0500"
+        },
+        {
           "title": "Rep. Jim Himes, member on the House Intelligence Committee, discusses U.S. strikes",
           "url": "https://www.npr.org/2026/03/01/nx-s1-5730644/rep-jim-himes-member-on-the-house-intelligence-committee-discusses-u-s-strikes",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/01/nx-s1-5727699/politics-chat-trump-delivers-on-threat-to-strike-iran-calls-for-regime-change",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 01 Mar 2026 08:07:56 -0500"
-        },
-        {
-          "title": "House Dem. Leader Jeffries responds to air strikes on Iran by U.S. and Israel",
-          "url": "https://www.npr.org/2026/02/28/nx-s1-5730314/house-dem-leader-jeffries-responds-to-air-strikes-on-iran-by-u-s-and-israel",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 28 Feb 2026 17:34:56 -0500"
         },
         {
           "title": "Trump Says He Is the ‘Least Racist’ President. But His Term Echoes a Grim Past.",
@@ -99,46 +99,22 @@
           "ts": "Sun, 01 Mar 2026 15:16:11 -0600"
         },
         {
-          "title": "Pentagon offers no evidence to support claim it attacked Iran in defense",
-          "url": "https://www.politico.com/news/2026/03/01/trump-iran-preparing-attack-no-evidence-00806447",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 16:26:36 EST"
-        },
-        {
-          "title": "Iranian supreme leader killed in airstrike, leaving power vacuum atop regime",
-          "url": "https://www.politico.com/news/2026/02/28/iranian-supreme-leader-killed-in-airstrike-leaving-power-vacuum-atop-regime-00806018",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 16:58:49 EST"
-        },
-        {
-          "title": "Trump’s patience runs out: Inside the final days before the strike on Iran",
-          "url": "https://www.politico.com/news/2026/02/28/trumps-patience-runs-out-inside-the-final-days-before-the-strike-on-iran-00806014",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 16:02:44 EST"
-        },
-        {
-          "title": "Trump’s patience runs out: Inside the final days before the strike on Iran",
-          "url": "https://subscriber.politicopro.com/article/2026/02/trumps-patience-runs-out-inside-the-final-days-before-the-strike-on-iran-pro-00806014",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 16:03:27 EST"
-        },
-        {
-          "title": "Trump avoided self-harm in his State of the Union speech. He also missed self-help.",
-          "url": "https://subscriber.politicopro.com/article/2026/02/trump-avoided-self-harm-in-his-state-of-the-union-speech-he-also-missed-self-help-00797460",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 25 Feb 2026 01:04:05 EST"
-        },
-        {
-          "title": "‘A defensive posture’: Trump speaks to Congress on shakier ground than last year",
-          "url": "https://subscriber.politicopro.com/article/2026/02/a-defensive-posture-trump-speaks-to-congress-on-shakier-ground-than-last-year-00793455",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 24 Feb 2026 04:30:00 EST"
-        },
-        {
           "title": "Married At First Sight star calls out biphobia after being ‘reduced to her sexuality’",
           "url": "https://www.thepinknews.com/2026/02/27/married-at-first-sight-star-calls-out-biphobia-after-being-reduced-to-her-sexuality/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 27 Feb 2026 15:13:52 +0000"
+        },
+        {
+          "title": "Pokemon FireRed and LeafGreen: The ultimate queer-coded team for your playthrough",
+          "url": "https://www.thepinknews.com/2026/02/27/pokemon-firered-and-leafgreen-the-ultimate-queer-coded-team-for-your-playthrough/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 27 Feb 2026 13:50:08 +0000"
+        },
+        {
+          "title": "Congresswoman wants to ban strippers in schools – but it’s never actually happened",
+          "url": "https://www.thepinknews.com/2026/02/27/mary-miller-illinois-schools-strippers-trans-lgbtq/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 27 Feb 2026 13:39:14 +0000"
         }
       ]
     },
@@ -200,10 +176,22 @@
           "ts": "2026-03-01T07:00:00-05:00"
         },
         {
-          "title": "Heartstopper star and more LGBTQ+ icons unite for Queer Health",
-          "url": "https://www.thepinknews.com/2026/02/27/heartstopper-star-and-more-lgbtq-icons-unite-for-queer-health/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Fri, 27 Feb 2026 15:30:18 +0000"
+          "title": "Trump says ‘likely more’ deaths of US troops to come before Iran conflict ends",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/trump-more-deaths-military-iran",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 00:05:07 GMT"
+        },
+        {
+          "title": "Trump news at a glance: Congress divided on Iran attack as Trump appears to link operation to 2020 election loss",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/donald-trump-iran-news-latest-today",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 23:52:24 GMT"
+        },
+        {
+          "title": "Arkansas father rushing his sick child to hospital won’t face charges after officer rammed into his car",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/arkansas-police-trooper-car-ramming-pit",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Mar 2026 20:25:33 GMT"
         }
       ]
     },
