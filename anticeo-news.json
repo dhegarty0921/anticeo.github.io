@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T05:55:57.535866Z",
+  "generated_at": "2026-03-02T06:00:34.061579Z",
   "headline": {
     "title": "Hopes and fears as US Iranians take to streets after toppling of supreme leader",
     "url": "https://www.bbc.com/news/articles/cy4w728kl4ko?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-01T07:00:00-05:00"
         },
         {
+          "title": "Austin bar shooting leaves three dead, including suspect, and 14 wounded",
+          "url": "https://www.theguardian.com/us-news/2026/mar/01/texas-bar-shooting",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 05:42:28 GMT"
+        },
+        {
           "title": "Trump says ‘likely more’ deaths of US troops to come before Iran conflict ends",
           "url": "https://www.theguardian.com/us-news/2026/mar/01/trump-more-deaths-military-iran",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/donald-trump-iran-news-latest-today",
           "source": "US news | The Guardian",
           "ts": "Sun, 01 Mar 2026 23:52:24 GMT"
-        },
-        {
-          "title": "Arkansas father rushing his sick child to hospital won’t face charges after officer rammed into his car",
-          "url": "https://www.theguardian.com/us-news/2026/mar/01/arkansas-police-trooper-car-ramming-pit",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Mar 2026 20:25:33 GMT"
         }
       ]
     },
