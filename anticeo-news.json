@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T20:10:31.196729Z",
+  "generated_at": "2026-03-02T20:15:32.459857Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T06:30:00-05:00"
         },
         {
+          "title": "Trump says Iran war to last four to five weeks but could go ‘far longer’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-war-iran",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 19:55:52 GMT"
+        },
+        {
           "title": "Pete Hegseth sets the tone for Trump’s politically incorrect war on Iran",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/pete-hegseth-trump-iran-military",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/austin-bar-shooting-investigation-potential-terrorism",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 17:05:48 GMT"
-        },
-        {
-          "title": "US Department of Education hangs Charlie Kirk banner outside DC building",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/us-department-of-education-charlie-kirk-banner",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 16:09:34 GMT"
         }
       ]
     },
