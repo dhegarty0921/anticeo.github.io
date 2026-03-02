@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T11:30:36.429719Z",
+  "generated_at": "2026-03-02T11:35:33.559090Z",
   "headline": {
     "title": "Hopes and fears as US Iranians take to streets after toppling of supreme leader",
     "url": "https://www.bbc.com/news/articles/cy4w728kl4ko?at_medium=RSS&at_campaign=rss"
@@ -99,28 +99,22 @@
           "ts": "Sun, 01 Mar 2026 22:29:40 -0600"
         },
         {
-          "title": "Trump Buries the 20th Century",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 05:00:00 EST"
+          "title": "Shia LaBeouf says he’s scared of ‘big gay people’ in response to alleged homophobic slurs",
+          "url": "https://www.thepinknews.com/2026/03/02/shia-labeouf-big-gay-people-arrest/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 02 Mar 2026 11:28:21 +0000"
         },
         {
-          "title": "‘Hit Him Back Twice as Hard’: Canada’s No. 1 Populist Has a Risky Trump Strategy",
-          "url": "https://subscriber.politicopro.com/article/2025/01/doug-fords-populist-trump-strategy-00200457",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 24 Jan 2025 15:44:04 EST"
+          "title": "Black LGBTQ+ leader hits out at Trump’s cuts to HIV funding",
+          "url": "https://www.thepinknews.com/2026/03/02/black-lgbtq-leader-hits-out-at-trumps-cuts-to-hiv-funding/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 02 Mar 2026 10:42:58 +0000"
         },
         {
-          "title": "Trump thrashes European leaders in wide-ranging interview: ‘I think they’re weak’",
-          "url": "https://www.politico.com/news/2025/12/09/trump-dasha-burns-interview-europe-immigration-ukraine-00682016",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 09 Dec 2025 06:00:00 EST"
-        },
-        {
-          "title": "Democratic Voters Bury Bidenism and Embrace Disruption",
-          "url": "https://www.politico.com/news/magazine/2025/11/04/democrats-elections-bidenism-disruption-00636860",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 04 Nov 2025 22:48:26 EST"
+          "title": "Heated Rivalry star Connor Storrie’s best SNL moments from Hudson Williams cameo to Trump dig",
+          "url": "https://www.thepinknews.com/2026/03/02/heated-rivalry-star-connor-storries-best-snl-moments-from-hudson-williams-cameo-to-trump-dig/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 02 Mar 2026 10:35:05 +0000"
         }
       ]
     },
@@ -164,6 +158,12 @@
           "ts": "2026-03-01T15:49:30-05:00"
         },
         {
+          "title": "Trump’s Iran war is uniting a strange new anti-war alliance",
+          "url": "https://www.vox.com/politics/481208/trump-iran-war-podcast-manosphere-influencer-maga-america-first-war-neocon",
+          "source": "Vox",
+          "ts": "2026-03-02T06:30:00-05:00"
+        },
+        {
           "title": "Americans will pay for Trump’s war in Iran",
           "url": "https://www.vox.com/politics/481190/iran-war-gas-prices-oil-economy",
           "source": "Vox",
@@ -176,23 +176,28 @@
           "ts": "2026-03-02T06:00:00-05:00"
         },
         {
-          "title": "We’re discovering new species faster than ever — and it might be our best chance to save them",
-          "url": "https://www.vox.com/the-highlight/480860/species-discovery-genetic-sequencing-extinction-endangered-wildlife",
-          "source": "Vox",
-          "ts": "2026-03-02T06:00:00-05:00"
+          "title": "Democrats thrown into disarray as US offensive on Iran creates cracks",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/democrats-divided-iran-trump",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 11:00:10 GMT"
+        },
+        {
+          "title": "As measles spreads in South Carolina, RFK Jr’s allies work to gut vaccine laws",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/measles-south-carolina-rfk-jr-vaccine-laws",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 11:00:08 GMT"
+        },
+        {
+          "title": "Missing Florida man found over a week later trapped in shoulder-deep mud",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/missing-florida-man-found-mud-rescue",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 10:00:07 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "LIVE UPDATES on Iran from around the globe",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
