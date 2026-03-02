@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T22:15:31.863976Z",
+  "generated_at": "2026-03-02T22:21:06.656618Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "As Maduro and Khamenei Learned, It’s Harder Than Ever for Leaders to Hide",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/maduro-khamenei-trump-surveillance.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 21:11:55 +0000"
+          "ts": "Mon, 02 Mar 2026 22:15:07 +0000"
         },
         {
           "title": "North Carolina House Primary Includes Divisions on Iran War, Israel and A.I.",
@@ -158,6 +158,12 @@
           "ts": "2026-03-02T16:35:20-05:00"
         },
         {
+          "title": "The civilians dying in Trump’s new war",
+          "url": "https://www.vox.com/politics/481245/us-israel-iran-war-civilian-death-toll-school-strike",
+          "source": "Vox",
+          "ts": "2026-03-02T17:15:00-05:00"
+        },
+        {
           "title": "The Supreme Court appears likely to let stoners own guns",
           "url": "https://www.vox.com/policy/481254/supreme-court-hemani-marijuana-guns-second-amendment",
           "source": "Vox",
@@ -168,12 +174,6 @@
           "url": "https://www.vox.com/podcasts/480850/epstein-files-ro-khanna-accountability-congress-explained",
           "source": "Vox",
           "ts": "2026-03-02T07:00:00-05:00"
-        },
-        {
-          "title": "Trump’s Iran war is uniting a strange new anti-war alliance",
-          "url": "https://www.vox.com/politics/481208/trump-iran-war-podcast-manosphere-influencer-maga-america-first-war-neocon",
-          "source": "Vox",
-          "ts": "2026-03-02T06:30:00-05:00"
         },
         {
           "title": "US House committee releases videos of the Clintons’ Epstein testimonies",
