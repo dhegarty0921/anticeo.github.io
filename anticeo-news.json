@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T17:25:35.653195Z",
+  "generated_at": "2026-03-02T17:30:32.084852Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 06:50:25 -0500"
         },
         {
+          "title": "Democratic Turnout Was High During Early Voting in Texas",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/democratic-turnout-early-voting-tx.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 17:25:03 +0000"
+        },
+        {
           "title": "As Kennedy Turns From Vaccines, MAHA Allies See a ‘Betrayal’",
           "url": "https://www.nytimes.com/2026/03/02/health/kennedy-maha-vaccines.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/latino-democrats-primary-elections.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 16:14:01 +0000"
-        },
-        {
-          "title": "The Unexpected Winners From Trump’s New Global Tariff",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-tariffs-winners-losers.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 16:06:15 +0000"
         },
         {
           "title": "Organization headed up by former Gov. Jeb Bush hails Trump again for strike in Iran",
