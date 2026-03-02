@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T16:25:31.289993Z",
+  "generated_at": "2026-03-02T16:30:31.201905Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 06:50:25 -0500"
         },
         {
+          "title": "As Kennedy Turns From Vaccines, MAHA Allies See a ‘Betrayal’",
+          "url": "https://www.nytimes.com/2026/03/02/health/kennedy-maha-vaccines.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 16:24:02 +0000"
+        },
+        {
           "title": "Latino Democrats Fight to Fend Off Upstart Challengers",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/latino-democrats-primary-elections.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-tariffs-winners-losers.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 16:06:14 +0000"
-        },
-        {
-          "title": "Airline Stocks Tumble as Iran War Expands Across Middle East",
-          "url": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 15:06:44 +0000"
         },
         {
           "title": "Organization headed up by former Gov. Jeb Bush hails Trump again for strike in Iran",
