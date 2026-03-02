@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T16:20:33.803508Z",
+  "generated_at": "2026-03-02T16:25:31.289993Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T06:15:00-05:00"
         },
         {
+          "title": "US Department of Education hangs Charlie Kirk banner outside DC building",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/us-department-of-education-charlie-kirk-banner",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 16:09:34 GMT"
+        },
+        {
           "title": "Donald Trump says ‘the big wave’ of strikes against Iran is yet to come; Hegseth says four US troops have died  – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/austin-bar-shooting-investigation-potential-terrorism",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 15:53:54 GMT"
-        },
-        {
-          "title": "‘The digital colonization of flyover states’: how datacenters are tearing small-town America apart",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/amazon-data-centers-small-towns",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 15:00:12 GMT"
         }
       ]
     },
