@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T16:30:31.201905Z",
+  "generated_at": "2026-03-02T16:35:30.728414Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -54,13 +54,13 @@
           "title": "Latino Democrats Fight to Fend Off Upstart Challengers",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/latino-democrats-primary-elections.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 16:14:00 +0000"
+          "ts": "Mon, 02 Mar 2026 16:14:01 +0000"
         },
         {
           "title": "The Unexpected Winners From Trump’s New Global Tariff",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-tariffs-winners-losers.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 16:06:14 +0000"
+          "ts": "Mon, 02 Mar 2026 16:06:15 +0000"
         },
         {
           "title": "Organization headed up by former Gov. Jeb Bush hails Trump again for strike in Iran",
@@ -182,16 +182,16 @@
           "ts": "Mon, 02 Mar 2026 16:09:34 GMT"
         },
         {
-          "title": "Donald Trump says ‘the big wave’ of strikes against Iran is yet to come; Hegseth says four US troops have died  – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 16:01:51 GMT"
-        },
-        {
           "title": "Authorities investigate mass shooting at Austin bar as potential act of terrorism",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/austin-bar-shooting-investigation-potential-terrorism",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 15:53:54 GMT"
+        },
+        {
+          "title": "‘The digital colonization of flyover states’: how datacenters are tearing small-town America apart",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/amazon-data-centers-small-towns",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 15:00:12 GMT"
         }
       ]
     },
