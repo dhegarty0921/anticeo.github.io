@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T20:30:33.496845Z",
+  "generated_at": "2026-03-02T20:35:31.813951Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -99,30 +99,6 @@
           "ts": "Mon, 02 Mar 2026 13:47:40 -0600"
         },
         {
-          "title": "Trump’s Attack on Iran Puts Him on Shakier Legal Ground Than Before",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-iran-war-legal-column-00806573",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 05:55:00 EST"
-        },
-        {
-          "title": "Trump Buries the 20th Century",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "Pentagon offers no evidence to support claim it attacked Iran in defense",
-          "url": "https://www.politico.com/news/2026/03/01/trump-iran-preparing-attack-no-evidence-00806447",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 16:26:36 EST"
-        },
-        {
-          "title": "Latest updates: 3 US jets shot down",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        },
-        {
           "title": "Make up artist Alexis Stone claims to be Jim Carrey imposter after clone conspiracy",
           "url": "https://www.thepinknews.com/2026/03/02/make-up-artist-alexis-stone-claims-to-be-jim-carrey-imposter-after-clone-conspiracy/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -146,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Impulsive kings and random chance: Purim’s parallels to our political moment",
+          "url": "https://religionnews.com/2026/03/02/impulsive-kings-and-random-chance-purims-parallels-to-our-political-moment/",
+          "source": "RNS",
+          "ts": "Mon, 02 Mar 2026 20:30:39 +0000"
+        },
+        {
           "title": "Hundreds of corrections being issued for Texas’ Bible-infused curriculum",
           "url": "https://religionnews.com/2026/03/02/hundreds-of-corrections-being-issued-for-texas-bible-infused-curriculum/",
           "source": "RNS",
@@ -158,10 +140,10 @@
           "ts": "Mon, 02 Mar 2026 19:03:33 +0000"
         },
         {
-          "title": "A new Gallup poll shows how Americans’ sympathies have shifted in the Israeli-Palestinian conflict",
-          "url": "https://religionnews.com/2026/03/02/a-new-gallup-poll-shows-how-americans-sympathies-have-shifted-in-the-israeli-palestinian-conflict/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 19:00:57 +0000"
+          "title": "Bibi Netanyahu’s Greatest Gamble",
+          "url": "https://www.theatlantic.com/international/2026/03/netanyahu-iran-war-israel/686210/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-02T15:23:56-05:00"
         },
         {
           "title": "After Khamenei, What Now?",
@@ -172,12 +154,6 @@
         {
           "title": "What Trump’s America Looks Like From China",
           "url": "https://www.theatlantic.com/international/2026/03/chinese-perception-america/686174/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-02T08:00:00-05:00"
-        },
-        {
-          "title": "The Impossible Predicament of the Uninsured",
-          "url": "https://www.theatlantic.com/magazine/2026/04/health-care-affordability-uninsured-americans/686053/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-02T08:00:00-05:00"
         },
@@ -198,6 +174,24 @@
           "url": "https://www.vox.com/politics/481208/trump-iran-war-podcast-manosphere-influencer-maga-america-first-war-neocon",
           "source": "Vox",
           "ts": "2026-03-02T06:30:00-05:00"
+        },
+        {
+          "title": "Jesse Jackson returns to South Carolina to be honored by his home state: ‘He freed us all’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 20:14:09 GMT"
+        },
+        {
+          "title": "Trump says Iran war to last four to five weeks but could go ‘far longer’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-war-iran",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 19:55:52 GMT"
+        },
+        {
+          "title": "Pete Hegseth sets the tone for Trump’s politically incorrect war on Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/pete-hegseth-trump-iran-military",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 18:49:31 GMT"
         }
       ]
     },
