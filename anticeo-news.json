@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T14:45:30.477953Z",
+  "generated_at": "2026-03-02T14:50:29.903105Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 06:50:25 -0500"
         },
         {
+          "title": "Airline Stocks Tumble as Iran War Expands Across Middle East",
+          "url": "https://www.nytimes.com/2026/03/02/business/airline-stocks-iran-attacks.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 14:43:06 +0000"
+        },
+        {
           "title": "Five Testy Moments From the Acrimonious Texas Senate Primaries",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/texas-senate-primaries-personal-attacks.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/dhs-shutdown-impacts.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 10:01:57 +0000"
-        },
-        {
-          "title": "Supreme Court Will Hear Arguments Over Law Banning Drug Users From Owning Guns",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-guns-drugs.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 10:01:49 +0000"
         },
         {
           "title": "Trump in video to nation says combat operations against Iran continue at 'full force'",
