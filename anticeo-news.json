@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T23:45:33.100613Z",
+  "generated_at": "2026-03-02T23:50:31.579163Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 07:00:00 -0500"
         },
         {
+          "title": "In Republican Win, Supreme Court Retains G.O.P. District in New York",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/supreme-court-malliotakis-new-york.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 23:41:33 +0000"
+        },
+        {
           "title": "Can Trump Legally Kill Iran’s Leader?",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/iran-khamenei-dead-trump-legal.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/usaid-hiring.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 22:36:18 +0000"
-        },
-        {
-          "title": "What Is Trump’s Neck Rash? His Doctor Declines to Explain.",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 22:55:17 +0000"
         },
         {
           "title": "White House says Trump's red neck rash was caused by prescription skin cream",
@@ -140,7 +140,7 @@
           "ts": "Mon, 02 Mar 2026 22:53:17 +0000"
         },
         {
-          "title": "On the Chagos Islands, Trump Is Right",
+          "title": "The Fortress We Gave Away",
           "url": "https://www.theatlantic.com/ideas/2026/03/chagos-islands-trump-britain-mauritius/686214/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-02T17:07:00-05:00"
