@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T18:45:34.192240Z",
+  "generated_at": "2026-03-02T18:50:33.270840Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -48,13 +48,13 @@
           "title": "How Trump Decided to Go to War With Iran",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 18:29:21 +0000"
+          "ts": "Mon, 02 Mar 2026 18:41:51 +0000"
         },
         {
           "title": "U.S. Sends More Troops to the Mideast as Iran War Expands",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 18:19:49 +0000"
+          "ts": "Mon, 02 Mar 2026 18:42:12 +0000"
         },
         {
           "title": "Texas Primary Early Voting Figures Show High Democratic Turnout",
@@ -122,22 +122,28 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Algerians struggle to afford Ramadan feasts as prices rise despite government pledges",
+          "url": "https://religionnews.com/2026/03/02/algerians-struggle-to-afford-ramadan-feasts-as-prices-rise-despite-government-pledges/",
+          "source": "RNS",
+          "ts": "Mon, 02 Mar 2026 18:49:53 +0000"
+        },
+        {
+          "title": "The apocrypha, Christianity’s ‘hidden’ texts, may not be in the Bible – but they have shaped tradition for centuries",
+          "url": "https://religionnews.com/2026/03/02/the-apocrypha-christianitys-hidden-texts-may-not-be-in-the-bible-but-they-have-shaped-tradition-for-centuries/",
+          "source": "RNS",
+          "ts": "Mon, 02 Mar 2026 18:48:21 +0000"
+        },
+        {
           "title": "Minneapolis united when federal immigration operations surged – reflecting a long tradition of mutual aid",
           "url": "https://religionnews.com/2026/03/02/minneapolis-united-when-federal-immigration-operations-surged-reflecting-a-long-tradition-of-mutual-aid/",
           "source": "RNS",
           "ts": "Mon, 02 Mar 2026 18:40:59 +0000"
         },
         {
-          "title": "Starseeds, government plots and an alien mantis: Inside New Age spirituality’s new age",
-          "url": "https://religionnews.com/2026/03/02/starseeds-cosmic-auras-and-an-alien-mantis-inside-new-age-spiritualitys-new-age/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 18:21:48 +0000"
-        },
-        {
-          "title": "Ayatollah Ali Khamenei, theocratic leader of Iran since 1989, is killed in US-Israel strikes",
-          "url": "https://religionnews.com/2026/03/01/ayatollah-ali-khamenei-theocratic-leader-of-iran-since-1989-is-killed-in-us-israel-strikes/",
-          "source": "RNS",
-          "ts": "Sun, 01 Mar 2026 15:58:24 +0000"
+          "title": "After Khamenei, What Now?",
+          "url": "https://www.theatlantic.com/podcasts/2026/03/iran-war-khamenei-trump/686208/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-02T13:30:00-05:00"
         },
         {
           "title": "What Trump’s America Looks Like From China",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/magazine/2026/04/health-care-affordability-uninsured-americans/686053/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-02T08:00:00-05:00"
-        },
-        {
-          "title": "Hubris Without Idealism",
-          "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-war-neoconservatism/686207/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-02T07:00:00-05:00"
         },
         {
           "title": "The “Epstein class,” explained",
