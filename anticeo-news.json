@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T21:40:32.620156Z",
+  "generated_at": "2026-03-02T21:45:35.595973Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -99,30 +99,6 @@
           "ts": "Mon, 02 Mar 2026 13:47:40 -0600"
         },
         {
-          "title": "Bitter Texas Senate race forces Dems to confront racial divisions",
-          "url": "https://www.politico.com/news/2026/03/02/texas-primary-crockett-talarico-senate-race-00805194",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 05:55:00 EST"
-        },
-        {
-          "title": "GOP voters, not congressional leaders, are poised to take action on Tony Gonzales",
-          "url": "https://www.politico.com/news/2026/03/02/tony-gonzales-affair-primary-00805138",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 04:45:00 EST"
-        },
-        {
-          "title": "Supreme Court considers case involving FBI operative ready to burn everyone",
-          "url": "https://www.politico.com/news/2026/03/01/craig-monteilh-fbi-aclu-supreme-court-00805402",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 11:00:00 EST"
-        },
-        {
-          "title": "Latest updates: 3 US jets shot down",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        },
-        {
           "title": "Make up artist Alexis Stone claims to be Jim Carrey imposter after clone conspiracy",
           "url": "https://www.thepinknews.com/2026/03/02/make-up-artist-alexis-stone-claims-to-be-jim-carrey-imposter-after-clone-conspiracy/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -164,7 +140,13 @@
           "ts": "Mon, 02 Mar 2026 19:06:06 +0000"
         },
         {
-          "title": "Bibi Netanyahu’s Greatest Gamble",
+          "title": "Today’s <em>Atlantic</em> Trivia: Crack Open a Krating Daeng",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/daily-trivia-questions-answers-week-19/686213/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-02T16:35:20-05:00"
+        },
+        {
+          "title": "The Israel of October 6 Is Never Coming Back",
           "url": "https://www.theatlantic.com/international/2026/03/netanyahu-iran-war-israel/686210/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-02T15:23:56-05:00"
@@ -174,12 +156,6 @@
           "url": "https://www.theatlantic.com/podcasts/2026/03/iran-war-khamenei-trump/686208/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-02T13:30:00-05:00"
-        },
-        {
-          "title": "What Trump’s America Looks Like From China",
-          "url": "https://www.theatlantic.com/international/2026/03/chinese-perception-america/686174/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-02T08:00:00-05:00"
         },
         {
           "title": "The Supreme Court appears likely to let stoners own guns",
@@ -198,6 +174,24 @@
           "url": "https://www.vox.com/politics/481208/trump-iran-war-podcast-manosphere-influencer-maga-america-first-war-neocon",
           "source": "Vox",
           "ts": "2026-03-02T06:30:00-05:00"
+        },
+        {
+          "title": "Trump neck rash from ‘preventative’ skin treatment, White House says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-neck-rash",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 21:07:47 GMT"
+        },
+        {
+          "title": "Jesse Jackson returns to South Carolina to be honored by his home state: ‘He freed us all’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 20:14:09 GMT"
+        },
+        {
+          "title": "Trump says Iran war to last four to five weeks but could go ‘far longer’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-war-iran",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 19:55:52 GMT"
         }
       ]
     },
