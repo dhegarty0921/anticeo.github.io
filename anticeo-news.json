@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T22:55:33.080727Z",
+  "generated_at": "2026-03-02T23:00:31.883214Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -51,10 +51,10 @@
           "ts": "Mon, 02 Mar 2026 22:36:18 +0000"
         },
         {
-          "title": "President Trump Appears at Public Event With a Red Skin Rash",
+          "title": "What Is Trump’s Neck Rash? His Doctor Declines to Explain.",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 22:32:51 +0000"
+          "ts": "Mon, 02 Mar 2026 22:55:17 +0000"
         },
         {
           "title": "As Maduro and Khamenei Learned, It’s Harder Than Ever for Leaders to Hide",
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T07:00:00-05:00"
         },
         {
+          "title": "Melania Trump urges protecting children’s education at UN after Iran school strike",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/melania-trump-un-children-iran-airstrike",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 22:41:32 GMT"
+        },
+        {
           "title": "Republican Ryan Zinke to step down as US congressman",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/ryan-zinke-montana-us-house",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/ron-desantis-12-million-on-alligator-alcatraz",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 22:10:25 GMT"
-        },
-        {
-          "title": "US House committee releases videos of the Clintons’ Epstein testimonies",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 21:38:53 GMT"
         }
       ]
     },
