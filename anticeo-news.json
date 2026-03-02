@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T21:00:31.762282Z",
+  "generated_at": "2026-03-02T21:05:32.797037Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 06:50:25 -0500"
         },
         {
+          "title": "As Maduro and Khamenei Learned, It’s Harder Than Ever for Leaders to Hide",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/maduro-khamenei-trump-surveillance.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 20:58:37 +0000"
+        },
+        {
           "title": "North Carolina House Primary Includes Divisions on Iran War, Israel and A.I.",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/valerie-foushee-nida-allam-north-carolina-ai-israel-aipac.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 19:52:23 +0000"
-        },
-        {
-          "title": "U.S. Sends More Troops to the Mideast as Iran War Expands",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-administration-troops-iran-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 18:42:12 +0000"
         },
         {
           "title": "Court ruling lets members of Congress inspect ICE facilities",
