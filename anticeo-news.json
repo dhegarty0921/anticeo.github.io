@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T23:35:33.054633Z",
+  "generated_at": "2026-03-02T23:40:34.896418Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 07:00:00 -0500"
         },
         {
+          "title": "Can Trump Legally Kill Iran’s Leader?",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/iran-khamenei-dead-trump-legal.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 23:34:02 +0000"
+        },
+        {
           "title": "They’re Hiring at U.S.A.I.D. Just Not Anyone Who Worked There.",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/usaid-hiring.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 22:55:17 +0000"
-        },
-        {
-          "title": "As Maduro and Khamenei Learned, It’s Harder Than Ever for Leaders to Hide",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/maduro-khamenei-trump-surveillance.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 22:27:24 +0000"
         },
         {
           "title": "White House says Trump's red neck rash was caused by prescription skin cream",
