@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T22:35:30.348563Z",
+  "generated_at": "2026-03-02T22:40:34.955595Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 07:00:00 -0500"
         },
         {
+          "title": "President Trump Appears at Public Event With a Red Skin Rash",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Mar 2026 22:32:51 +0000"
+        },
+        {
           "title": "As Maduro and Khamenei Learned, It’s Harder Than Ever for Leaders to Hide",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/maduro-khamenei-trump-surveillance.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/valerie-foushee-nida-allam-north-carolina-ai-israel-aipac.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 02 Mar 2026 20:44:05 +0000"
-        },
-        {
-          "title": "How Trump Decided to Go to War With Iran",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Mar 2026 21:04:12 +0000"
         },
         {
           "title": "White House says Trump's red neck rash was caused by prescription skin cream",
