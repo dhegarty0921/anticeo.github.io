@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T21:15:31.093169Z",
+  "generated_at": "2026-03-02T21:20:30.799426Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T06:30:00-05:00"
         },
         {
+          "title": "Trump neck rash from ‘preventative’ skin treatment, White House says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-neck-rash",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 21:07:47 GMT"
+        },
+        {
           "title": "Jesse Jackson returns to South Carolina to be honored by his home state: ‘He freed us all’",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-war-iran",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 19:55:52 GMT"
-        },
-        {
-          "title": "Pete Hegseth sets the tone for Trump’s politically incorrect war on Iran",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/pete-hegseth-trump-iran-military",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 18:49:31 GMT"
         }
       ]
     },
