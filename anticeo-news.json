@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-02T15:45:34.525586Z",
+  "generated_at": "2026-03-02T15:50:32.604519Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -99,36 +99,6 @@
           "ts": "Mon, 02 Mar 2026 09:14:01 -0600"
         },
         {
-          "title": "Trump’s Attack on Iran Puts Him on Shakier Legal Ground Than Before",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-iran-war-legal-column-00806573",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 05:55:00 EST"
-        },
-        {
-          "title": "Trump Buries the 20th Century",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/trump-buries-the-20th-century-00806414",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "Pentagon offers no evidence to support claim it attacked Iran in defense",
-          "url": "https://www.politico.com/news/2026/03/01/trump-iran-preparing-attack-no-evidence-00806447",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 16:26:36 EST"
-        },
-        {
-          "title": "Latest updates: 3 US jets shot down",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        },
-        {
-          "title": "US says Kuwait accidentally shot down 3 American jets",
-          "url": "https://www.politico.eu/article/us-kuwait-accidentally-shot-down-3-american-jets/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 07:05:36 EST"
-        },
-        {
           "title": "Make up artist Alexis Stone claims to be Jim Carrey imposter after clone conspiracy",
           "url": "https://www.thepinknews.com/2026/03/02/make-up-artist-alexis-stone-claims-to-be-jim-carrey-imposter-after-clone-conspiracy/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -204,19 +174,30 @@
           "url": "https://www.vox.com/politics/481190/iran-war-gas-prices-oil-economy",
           "source": "Vox",
           "ts": "2026-03-02T06:15:00-05:00"
+        },
+        {
+          "title": "Donald Trump says ‘the big wave’ of strikes against Iran is yet to happen – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/02/democrats-to-force-vote-in-congress-to-limit-trumps-war-powers-against-iran-us-politics-live",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 15:32:06 GMT"
+        },
+        {
+          "title": "‘The digital colonization of flyover states’: how datacenters are tearing small-town America apart",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/amazon-data-centers-small-towns",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 15:00:12 GMT"
+        },
+        {
+          "title": "Jesse Jackson returns to South Carolina to lie in state",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/jesse-jackson-south-carolina",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Mar 2026 13:11:53 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran’s exiled prince tells Europe to get off the fence and back the war",
-          "url": "https://www.politico.eu/article/iran-war-exiled-prince-reza-pahlavi-pushes-europe-regime-change-campaign-support/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 01 Mar 2026 19:42:48 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
