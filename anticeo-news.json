@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T19:00:28.676258Z",
+  "generated_at": "2026-03-03T19:05:24.709285Z",
   "headline": {
     "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
     "url": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 06:41:48 -0500"
         },
         {
+          "title": "As Trump Bashes Spain on Military Spending, German Chancellor Merz Piles On",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-spain-germany-trade-military.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 03 Mar 2026 19:00:18 +0000"
+        },
+        {
           "title": "I.M.F. Warns Iran War Could Hurt Global Economy",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/iran-war-global-economy-warning.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-iran-ownership.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 03 Mar 2026 18:35:33 +0000"
-        },
-        {
-          "title": "Trump Administration, in Reversal, Tries to Continue Fight Against Law Firms",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-law-firm-orders-reversal.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 18:04:05 +0000"
         },
         {
           "title": "Trump downplays possibility of Iran's exiled crown prince becoming next leader",
