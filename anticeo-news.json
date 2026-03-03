@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T11:00:33.041193Z",
+  "generated_at": "2026-03-03T11:05:35.383679Z",
   "headline": {
     "title": "Texas Republicans back Trump over Iran - but some wary of 'a quagmire'",
     "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss"
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Photo gallery: The attack on Iran shocks, heartens and divides the world",
-          "url": "https://religionnews.com/2026/03/02/photo-reactions-to-war-in-the-middle-east/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 23:20:18 +0000"
-        },
-        {
-          "title": "How the Book of Esther echoes through 17th-century Netherlands to this day",
-          "url": "https://religionnews.com/2026/03/02/how-the-book-of-esther-echoes-through-17th-century-netherlands-to-this-day/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 23:00:00 +0000"
-        },
-        {
-          "title": "Iranian evangelicals are staying put, tentative but hopeful, says pastor",
-          "url": "https://religionnews.com/2026/03/02/iranian-evangelicals-are-staying-put-tentative-but-hopeful-for-a-brighter-future-says-pastor/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 22:53:17 +0000"
-        },
-        {
           "title": "Trump Has Given America a Constitutional Dilemma",
           "url": "https://www.theatlantic.com/newsletters/2026/03/war-powers-resolution-trump-congress/686216/?utm_source=feed",
           "source": "The Atlantic",
@@ -158,6 +140,12 @@
           "ts": "2026-03-02T16:39:00-05:00"
         },
         {
+          "title": "Do you need to know who you’d be without antidepressants?",
+          "url": "https://www.vox.com/future-perfect/480842/antidepressants-personality-self-stopping-psychiatric-drugs",
+          "source": "Vox",
+          "ts": "2026-03-03T06:00:00-05:00"
+        },
+        {
           "title": "World leaders are almost never killed in war. Why did it happen to Iran&#8217;s supreme leader?",
           "url": "https://www.vox.com/politics/481307/khamenei-killing-world-leaders-assassination",
           "source": "Vox",
@@ -170,10 +158,22 @@
           "ts": "2026-03-02T17:15:00-05:00"
         },
         {
-          "title": "The Supreme Court appears likely to let stoners own guns",
-          "url": "https://www.vox.com/policy/481254/supreme-court-hemani-marijuana-guns-second-amendment",
-          "source": "Vox",
-          "ts": "2026-03-02T14:35:00-05:00"
+          "title": "Trump rebukes Starmer over UK refusal to back strikes on Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/trump-starmer-uk-refusal-back-iran-strikes",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 08:18:42 GMT"
+        },
+        {
+          "title": "‘The Epstein files won’t knock him out’: what Anthony Scaramucci learned in Trump’s inner circle",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/epstein-files-wont-knock-him-out-what-anthony-scaramucci-learned-trump-inner-circle",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 05:00:29 GMT"
+        },
+        {
+          "title": "US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/rubio-us-attack-israel-iran",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 02:50:35 GMT"
         }
       ]
     },
