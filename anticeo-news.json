@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T21:10:23.153500Z",
+  "generated_at": "2026-03-03T21:15:23.169552Z",
   "headline": {
     "title": "Trump voters back him on Iran - but that could change if war drags on",
     "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 06:41:48 -0500"
         },
         {
+          "title": "Who Will Lead Iran? Trump’s Answer Is Hazy.",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-iran-leaders.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 03 Mar 2026 21:10:49 +0000"
+        },
+        {
           "title": "How Iran Is Using Drones to Retaliate Against the U.S. and Allies",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/us-iran-drones.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/upshot/prediction-markets-iran-strikes.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 03 Mar 2026 19:14:35 +0000"
-        },
-        {
-          "title": "As Trump Bashes Spain on Military Spending, German Chancellor Merz Piles On",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-spain-germany-trade-military.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 19:34:00 +0000"
         },
         {
           "title": "Ethics panel opens investigation of Rep. Nancy Mace over housing costs",
@@ -105,24 +105,6 @@
           "ts": "Tue, 03 Mar 2026 08:18:43 -0600"
         },
         {
-          "title": "US offering military support, insurance for Middle East oil and gas shipments",
-          "url": "https://www.politico.com/news/2026/03/03/iran-oil-energy-military-trump-hormuz-00808825",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 13:32:26 EST"
-        },
-        {
-          "title": "Forget Regime Change. How About Behavior Change?",
-          "url": "https://www.politico.com/news/magazine/2026/03/03/compass-iran-regimes-00807687",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "Trump to POLITICO: ‘I really don’t care’ if Iran plays in World Cup",
-          "url": "https://www.politico.com/news/2026/03/03/iran-trump-world-cup-00808608",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 14:43:25 EST"
-        },
-        {
           "title": "Jack Schlossberg slams Ryan Murphy’s ‘grotesque’ show on Kennedy family",
           "url": "https://www.thepinknews.com/2026/03/03/jack-schlossberg-slams-ryan-murphys-grotesque-show-on-kennedy-family/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -146,6 +128,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Today’s <em>Atlantic</em> Trivia: Lasers!",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/daily-trivia-questions-answers-week-19/686213/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-03T15:50:00-05:00"
+        },
+        {
           "title": "Dark Humor and the Iranian Resistance",
           "url": "https://www.theatlantic.com/ideas/2026/03/iran-war-humor-people/686223/?utm_source=feed",
           "source": "The Atlantic",
@@ -156,12 +144,6 @@
           "url": "https://www.theatlantic.com/national-security/2026/03/war-stockpiles/686212/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-03T15:26:09-05:00"
-        },
-        {
-          "title": "American Snacking Habits Are Transforming the Restaurant Industry",
-          "url": "https://www.theatlantic.com/health/2026/03/restaurant-snack-meal-menu/686220/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-03T13:10:32-05:00"
         },
         {
           "title": "The Supreme Court&#8217;s Republicans just seized the most dangerous power in constitutional law",
@@ -180,6 +162,24 @@
           "url": "https://www.vox.com/politics/481377/trump-iran-war-end-scenarios",
           "source": "Vox",
           "ts": "2026-03-03T14:10:00-05:00"
+        },
+        {
+          "title": "Epstein-linked Leon Black waged bid to ‘silence’ law firm and accusers, suit says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/leon-black-lawsuit-epstein",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 20:58:32 GMT"
+        },
+        {
+          "title": "Trump insists Israel did not force US hand on Iran attack as he meets German chancellor – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 20:50:34 GMT"
+        },
+        {
+          "title": "Howard Lutnick agrees to appear before US House panel on Epstein network",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/lutnick-epstein-congress-interview",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 20:46:24 GMT"
         }
       ]
     },
