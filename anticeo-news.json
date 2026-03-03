@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T11:30:30.497403Z",
+  "generated_at": "2026-03-03T11:35:33.699873Z",
   "headline": {
     "title": "Texas Republicans back Trump over Iran - but some wary of 'a quagmire'",
     "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Mon, 02 Mar 2026 17:37:27 GMT"
         },
         {
+          "title": "How President Trump's views on foreign intervention has changed over the years",
+          "url": "https://www.npr.org/2026/03/03/nx-s1-5732604/how-president-trumps-views-on-foreign-intervention-has-changed-over-the-years",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 03 Mar 2026 06:25:56 -0500"
+        },
+        {
           "title": "Kristi Noem set to face senators over DHS shutdown, immigration enforcement",
           "url": "https://www.npr.org/2026/03/03/nx-s1-5732788/kristi-noem-judiciary-hearing-homeland-security",
           "source": "NPR Topics: Politics",
@@ -35,12 +41,6 @@
         {
           "title": "North Carolina and Texas have primary elections Tuesday. Here's what you need to know",
           "url": "https://www.npr.org/2026/03/03/g-s1-111659/primary-midterm-elections-texas-north-carolina",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 03 Mar 2026 05:00:00 -0500"
-        },
-        {
-          "title": "Trump promised the MAGA base no new wars. Then he went to war with Iran",
-          "url": "https://www.npr.org/2026/03/03/nx-s1-5732601/trump-maga-iran-war-israel",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 03 Mar 2026 05:00:00 -0500"
         },
@@ -99,6 +99,12 @@
           "ts": "Mon, 02 Mar 2026 21:25:30 -0600"
         },
         {
+          "title": "All to know on Netflix’s Harry Styles One Night in Manchester including strict rule",
+          "url": "https://www.thepinknews.com/2026/03/03/all-to-know-on-netflixs-harry-styles-one-night-in-manchester-including-strict-rule/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 03 Mar 2026 11:27:22 +0000"
+        },
+        {
           "title": "GK Barry to play Soccer Aid 2026 after Women’s League cup drama",
           "url": "https://www.thepinknews.com/2026/03/03/gk-barry-to-play-soccer-aid-2026-after-womens-league-cup-drama/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -109,12 +115,6 @@
           "url": "https://www.thepinknews.com/2026/03/03/may-2026-local-elections-trans-non-binary-id-voting/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 03 Mar 2026 10:18:54 +0000"
-        },
-        {
-          "title": "Joe Locke wins first Emmy for Heartstopper role: ‘So deserved!!!’",
-          "url": "https://www.thepinknews.com/2026/03/03/joe-locke-wins-first-emmy-for-heartstopper-role-so-deserved/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Tue, 03 Mar 2026 09:45:54 +0000"
         }
       ]
     },
@@ -140,22 +140,28 @@
           "ts": "Mon, 02 Mar 2026 22:53:17 +0000"
         },
         {
+          "title": "Trump Opens the Pandora’s Box of Assassination",
+          "url": "https://www.theatlantic.com/ideas/2026/03/khamenei-assassination-precedent/686215/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-03T06:00:00-05:00"
+        },
+        {
+          "title": "In Defense of Effeminate Gay Boys",
+          "url": "https://www.theatlantic.com/ideas/2026/03/gay-boys-lgbtq-trans/686179/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-03T06:00:00-05:00"
+        },
+        {
           "title": "Trump Has Given America a Constitutional Dilemma",
           "url": "https://www.theatlantic.com/newsletters/2026/03/war-powers-resolution-trump-congress/686216/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-02T18:49:00-05:00"
         },
         {
-          "title": "The Fortress We Gave Away",
-          "url": "https://www.theatlantic.com/ideas/2026/03/chagos-islands-trump-britain-mauritius/686214/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-02T17:07:00-05:00"
-        },
-        {
-          "title": "The Big Story: The Iran War",
-          "url": "https://www.theatlantic.com/national-security/2026/03/big-story-iran-war/686211/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-02T16:39:00-05:00"
+          "title": "James Talarico preaches faith, love, and healing. Do voters actually want that?",
+          "url": "https://www.vox.com/politics/480894/james-talarico-jasmine-crockett-faith-love-healing-texas-voters-senate-primary-democratic-religion-left",
+          "source": "Vox",
+          "ts": "2026-03-03T06:30:00-05:00"
         },
         {
           "title": "Do you need to know who you’d be without antidepressants?",
@@ -168,12 +174,6 @@
           "url": "https://www.vox.com/politics/481307/khamenei-killing-world-leaders-assassination",
           "source": "Vox",
           "ts": "2026-03-02T18:10:00-05:00"
-        },
-        {
-          "title": "The civilians dying in Trump’s new war",
-          "url": "https://www.vox.com/politics/481245/us-israel-iran-war-civilian-death-toll-school-strike",
-          "source": "Vox",
-          "ts": "2026-03-02T17:15:00-05:00"
         }
       ]
     },
