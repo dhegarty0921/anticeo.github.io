@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T13:10:32.636798Z",
+  "generated_at": "2026-03-03T13:15:30.332662Z",
   "headline": {
     "title": "Six US soldiers killed in Iranian strike on Kuwait base",
     "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2026-03-03T06:00:00-05:00"
         },
         {
+          "title": "Texas votes in high-stakes primaries in test of appetite for change under Trump",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primaries-democrats-republicans-trump",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 13:00:03 GMT"
+        },
+        {
           "title": "Full House and Senate to be briefed on Iran strikes – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
           "source": "US news | The Guardian",
@@ -174,12 +180,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/03/first-thing-conflict-middle-east-human-rights-groups-iranian-civilians-killed",
           "source": "US news | The Guardian",
           "ts": "Tue, 03 Mar 2026 12:54:44 GMT"
-        },
-        {
-          "title": "Venezuelan man says his rose tattoos got him deported to El Salvador’s brutal prison: ‘I thought my life had ended’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/03/man-deported-tattoos-cecot-el-salvador",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 12:00:03 GMT"
         }
       ]
     },
