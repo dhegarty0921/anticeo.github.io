@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T00:25:34.581480Z",
+  "generated_at": "2026-03-03T00:30:33.597142Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T14:35:00-05:00"
         },
         {
+          "title": "Trump will attend White House Correspondents’ Dinner for first time as president",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-attend-white-house-correspondents-dinner",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 00:17:38 GMT"
+        },
+        {
           "title": "Supreme court hands Republicans win over preserving New York City voting district",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/supreme-court-new-york-city-republican-district",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/melania-trump-un-children-iran-airstrike",
           "source": "US news | The Guardian",
           "ts": "Mon, 02 Mar 2026 22:41:32 GMT"
-        },
-        {
-          "title": "Republican Ryan Zinke to step down as US congressman",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/ryan-zinke-montana-us-house",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 22:19:57 GMT"
         }
       ]
     },
