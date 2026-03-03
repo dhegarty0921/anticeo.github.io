@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T13:50:31.000382Z",
+  "generated_at": "2026-03-03T13:55:33.693207Z",
   "headline": {
     "title": "US nationals urged to leave Middle East as conflict spreads",
     "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 06:41:41 -0500"
         },
         {
+          "title": "Has Your Business Been Affected by Immigration Policies? We Want to Hear From You.",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/immigration-business-questions.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 03 Mar 2026 13:44:40 +0000"
+        },
+        {
           "title": "Texas and North Carolina Elections Will Test Older House Democrats’ Staying Power",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/texas-north-carolina-older-democrats.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/us/politics/veterans-affairs-nurses-doctors-cut.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 03 Mar 2026 10:08:20 +0000"
-        },
-        {
-          "title": "What to Watch in Tuesday’s Primaries in Texas and Beyond",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/primaries-texas-nc-ark-what-to-watch.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 10:07:23 +0000"
         },
         {
           "title": "DOJ drops attempt to punish Democrat-connected law firms",
@@ -167,32 +167,25 @@
           "title": "Full House and Senate to be briefed on Iran strikes – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 13:16:19 GMT"
+          "ts": "Tue, 03 Mar 2026 13:32:30 GMT"
+        },
+        {
+          "title": "Minnesota launches investigation that could bring charges against US immigration officers",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/minnesota-investigation-us-immigration-officers",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 13:31:29 GMT"
         },
         {
           "title": "Texas votes in high-stakes primaries in test of appetite for change under Trump",
           "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primaries-democrats-republicans-trump",
           "source": "US news | The Guardian",
           "ts": "Tue, 03 Mar 2026 13:00:03 GMT"
-        },
-        {
-          "title": "First Thing: Conflict spirals in Middle East as NGO says at least 700 Iranian civilians killed",
-          "url": "https://www.theguardian.com/us-news/2026/mar/03/first-thing-conflict-middle-east-human-rights-groups-iranian-civilians-killed",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 12:54:44 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Israel launches strikes on Beirut as troops advance into southern Lebanon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/3/israel-launches-strikes-on-beirut-as-troops-advance-into-southern-lebanon?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Mar 2026 13:22:01 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
