@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T16:40:28.720227Z",
+  "generated_at": "2026-03-03T16:45:24.376284Z",
   "headline": {
     "title": "US nationals urged to leave Middle East as conflict spreads",
     "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Tue, 03 Mar 2026 13:12:53 GMT"
         },
         {
+          "title": "Guilty verdict for US father of teenage school shooter",
+          "url": "https://www.bbc.com/news/articles/cpv87wwmd0lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 03 Mar 2026 16:40:21 GMT"
+        },
+        {
           "title": "Six US soldiers killed in Iranian strike on Kuwait base",
           "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 03 Mar 2026 16:08:38 GMT"
-        },
-        {
-          "title": "Trump voters back him on Iran - but that could change if war drags on",
-          "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 03 Mar 2026 09:57:15 GMT"
         },
         {
           "title": "U.S. evacuates diplomats from Middle East. And, what to expect from N.C., Texas primaries",
@@ -185,14 +185,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "T20 World Cup semifinal: Unbeaten South Africa ‘fresh’ for New Zealand",
-          "url": "https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-semifinal-unbeaten-south-africa-wary-of-new-zealand?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Mar 2026 15:58:16 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
