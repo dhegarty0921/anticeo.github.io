@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T03:10:34.519849Z",
+  "generated_at": "2026-03-03T03:16:26.092036Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 16:29:15 -0500"
         },
         {
+          "title": "Seven Takeaways From the Clintons’ Epstein Depositions",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 03 Mar 2026 03:06:40 +0000"
+        },
+        {
           "title": "Melania Trump Promotes ‘Peace Through Education’ at U.N. as War With Iran Expands",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/melania-trump-un-peace-education.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/democrats-centrism-2028-election.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 03 Mar 2026 01:34:27 +0000"
-        },
-        {
-          "title": "Trump Says He Will End Boycott of White House Correspondents’ Dinner",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-white-house-correspondents-dinner.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 01:33:43 +0000"
         },
         {
           "title": "Supreme Court: California parents have a right to know whether child is transitioning in school",
@@ -99,28 +99,22 @@
           "ts": "Mon, 02 Mar 2026 13:47:40 -0600"
         },
         {
-          "title": "‘Pretty Bad for Vance’: The VP’s Silence on Iran Peeves Allies",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/vance-trump-iran-war-00806812",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 20:39:23 EST"
+          "title": "Make up artist Alexis Stone claims to be Jim Carrey imposter after clone conspiracy",
+          "url": "https://www.thepinknews.com/2026/03/02/make-up-artist-alexis-stone-claims-to-be-jim-carrey-imposter-after-clone-conspiracy/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 02 Mar 2026 14:33:33 +0000"
         },
         {
-          "title": "Iran is not Venezuela as much as Trump wants it to be",
-          "url": "https://www.politico.com/news/2026/03/02/iran-is-not-venezuela-as-much-as-trump-wants-it-to-be-00807675",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 17:57:37 EST"
+          "title": "Scream 7 star Anna Camp apologises for sharing post about film’s boycott",
+          "url": "https://www.thepinknews.com/2026/03/02/scream-7-anna-camp-boycott-apology/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 02 Mar 2026 13:07:07 +0000"
         },
         {
-          "title": "Centrist Dems met to plot 2028. Then Iran happened.",
-          "url": "https://www.politico.com/news/2026/03/02/third-way-centrist-democrats-iran-foreign-policy-00808202",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 21:25:08 EST"
-        },
-        {
-          "title": "Latest updates: 3 US jets shot down",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
+          "title": "Bridgerton boss calls Benedict’s bisexual coming out a ‘beautiful moment’",
+          "url": "https://www.thepinknews.com/2026/03/02/bridgerton-boss-calls-benedicts-bisexual-coming-out-a-beautiful-moment/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 02 Mar 2026 12:17:36 +0000"
         }
       ]
     },
@@ -182,10 +176,22 @@
           "ts": "2026-03-02T14:35:00-05:00"
         },
         {
-          "title": "Women’s Institute vows to ‘find ways to keep welcoming trans women’ after ban",
-          "url": "https://www.thepinknews.com/2026/03/02/womens-institute-vows-to-find-ways-to-keep-welcoming-trans-women-after-ban/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 02 Mar 2026 16:39:08 +0000"
+          "title": "US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/rubio-us-attack-israel-iran",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 02:50:35 GMT"
+        },
+        {
+          "title": "Trump news at a glance: president offers goals but no end date for military offensive against Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-news-at-a-glance-latest-today",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 02:00:25 GMT"
+        },
+        {
+          "title": "US supreme court blocks California privacy protections for trans students",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/us-supreme-court-california-trans-students-privacy-law",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 01:29:09 GMT"
         }
       ]
     },
