@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T16:20:25.474158Z",
+  "generated_at": "2026-03-03T16:25:25.284119Z",
   "headline": {
     "title": "US nationals urged to leave Middle East as conflict spreads",
     "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 06:41:41 -0500"
         },
         {
+          "title": "Trump Administration, in Apparent Reversal, Tries to Continue Fight Against Law Firms",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-law-firm-orders-reversal.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 03 Mar 2026 16:23:29 +0000"
+        },
+        {
           "title": "Labor Secretary’s Top Aides Forced Out",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/labor-secretarys-top-aides-forced-out.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 03 Mar 2026 15:24:45 +0000"
-        },
-        {
-          "title": "Has Your Business Been Affected by Immigration Policies? We Want to Hear From You.",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/immigration-business-questions.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 14:17:26 +0000"
         },
         {
           "title": "Noem says Trump personally approved her deportation ads",
@@ -103,24 +103,6 @@
           "url": "https://www.realclearinvestigations.com/articles/2026/03/03/can_billionaire_tax_cure_californias_healthcare_woes_1167959.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 03 Mar 2026 08:18:43 -0600"
-        },
-        {
-          "title": "The Iranian exile group that played Washington for this moment",
-          "url": "https://www.politico.com/news/2026/03/03/the-iranian-exile-group-that-played-washington-for-this-moment-00808052",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "Forget Regime Change. How About Behavior Change?",
-          "url": "https://www.politico.com/news/magazine/2026/03/03/compass-iran-regimes-00807687",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "Trump to POLITICO: Iran is 'running out of launchers'",
-          "url": "https://www.politico.com/news/2026/03/03/trump-to-politico-iran-is-running-out-of-launchers-00808591",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 10:43:48 EST"
         },
         {
           "title": "BAFTAs host Alan Cumming criticises BBC after ‘trauma-triggering show’",
@@ -180,12 +162,37 @@
           "url": "https://www.vox.com/politics/480894/james-talarico-jasmine-crockett-faith-love-healing-texas-voters-senate-primary-democratic-religion-left",
           "source": "Vox",
           "ts": "2026-03-03T06:30:00-05:00"
+        },
+        {
+          "title": "Trump claims US stockpiles mean wars can be fought ‘forever’; Kristi Noem testifies before Congress – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 16:13:32 GMT"
+        },
+        {
+          "title": "People in the US: share your views of the Iran conflict",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/people-in-the-us-share-your-views-of-the-iran-conflict",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 16:09:34 GMT"
+        },
+        {
+          "title": "Minnesota launches investigation that could bring charges against US immigration officers",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/minnesota-investigation-us-immigration-officers",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 13:31:29 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "T20 World Cup semifinal: Unbeaten South Africa ‘fresh’ for New Zealand",
+          "url": "https://www.aljazeera.com/sports/2026/3/3/t20-world-cup-semifinal-unbeaten-south-africa-wary-of-new-zealand?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Mar 2026 15:58:16 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
