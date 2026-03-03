@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T13:05:33.020960Z",
+  "generated_at": "2026-03-03T13:10:32.636798Z",
   "headline": {
     "title": "Six US soldiers killed in Iranian strike on Kuwait base",
     "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
@@ -105,24 +105,6 @@
           "ts": "Tue, 03 Mar 2026 06:43:07 -0600"
         },
         {
-          "title": "Forget Regime Change. How About Behavior Change?",
-          "url": "https://www.politico.com/news/magazine/2026/03/03/compass-iran-regimes-00807687",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "The Iranian exile group that played Washington for this moment",
-          "url": "https://www.politico.com/news/2026/03/03/the-iranian-exile-group-that-played-washington-for-this-moment-00808052",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "‘Pretty Bad for Vance’: The VP’s Silence on Iran Peeves Allies",
-          "url": "https://www.politico.com/news/magazine/2026/03/02/vance-trump-iran-war-00806812",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 02 Mar 2026 20:39:23 EST"
-        },
-        {
           "title": "Hilary Knight admits one regret after proposing at the Winter Olympics",
           "url": "https://www.thepinknews.com/2026/03/03/hilary-knight-admits-one-regret-after-proposing-at-the-winter-olympics/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -146,22 +128,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Photo gallery: The attack on Iran shocks, heartens and divides the world",
-          "url": "https://religionnews.com/2026/03/02/photo-reactions-to-war-in-the-middle-east/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 23:20:18 +0000"
-        },
-        {
-          "title": "How the Book of Esther echoes through 17th-century Netherlands to this day",
-          "url": "https://religionnews.com/2026/03/02/how-the-book-of-esther-echoes-through-17th-century-netherlands-to-this-day/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 23:00:00 +0000"
-        },
-        {
-          "title": "Iranian evangelicals are staying put, tentative but hopeful, says pastor",
-          "url": "https://religionnews.com/2026/03/02/iranian-evangelicals-are-staying-put-tentative-but-hopeful-for-a-brighter-future-says-pastor/",
-          "source": "RNS",
-          "ts": "Mon, 02 Mar 2026 22:53:17 +0000"
+          "title": "The Disappearing American Mortgage",
+          "url": "https://www.theatlantic.com/ideas/2026/03/mortgage-decline/686178/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-03T07:52:59-05:00"
         },
         {
           "title": "‘Suddenly America Doesn’t Want My Children or Grandchildren Anymore.’",
@@ -172,12 +142,6 @@
         {
           "title": "Trump Opens the Pandora’s Box of Assassination",
           "url": "https://www.theatlantic.com/ideas/2026/03/khamenei-assassination-precedent/686215/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-03T06:00:00-05:00"
-        },
-        {
-          "title": "In Defense of Effeminate Gay Boys",
-          "url": "https://www.theatlantic.com/ideas/2026/03/gay-boys-lgbtq-trans/686179/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-03T06:00:00-05:00"
         },
@@ -198,12 +162,37 @@
           "url": "https://www.vox.com/future-perfect/480842/antidepressants-personality-self-stopping-psychiatric-drugs",
           "source": "Vox",
           "ts": "2026-03-03T06:00:00-05:00"
+        },
+        {
+          "title": "Full House and Senate to be briefed on Iran strikes – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 12:54:51 GMT"
+        },
+        {
+          "title": "First Thing: Conflict spirals in Middle East as NGO says at least 700 Iranian civilians killed",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/first-thing-conflict-middle-east-human-rights-groups-iranian-civilians-killed",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 12:54:44 GMT"
+        },
+        {
+          "title": "Venezuelan man says his rose tattoos got him deported to El Salvador’s brutal prison: ‘I thought my life had ended’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/man-deported-tattoos-cecot-el-salvador",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 12:00:03 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Qatar says Iran didn’t warn of missile attacks, no comms with Tehran",
+          "url": "https://www.aljazeera.com/news/2026/3/3/qatar-says-iran-didnt-warn-of-missile-attacks-no-comms-with-tehran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Mar 2026 12:54:50 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
