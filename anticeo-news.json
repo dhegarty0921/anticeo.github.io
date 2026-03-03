@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T15:50:29.119827Z",
+  "generated_at": "2026-03-03T15:55:36.755376Z",
   "headline": {
     "title": "US nationals urged to leave Middle East as conflict spreads",
     "url": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss"
@@ -128,6 +128,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "A Very Stable War",
+          "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-rubio-vance-war/686219/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-03T10:42:08-05:00"
+        },
+        {
           "title": "Why People Shed Tears for Tyrants",
           "url": "https://www.theatlantic.com/books/2026/03/why-iranians-cried-over-ayatollah-khamenei/686218/?utm_source=feed",
           "source": "The Atlantic",
@@ -140,28 +146,22 @@
           "ts": "2026-03-03T09:43:49-05:00"
         },
         {
-          "title": "A Novel About a Secret No One Wants to Know",
-          "url": "https://www.theatlantic.com/magazine/2026/04/vigdis-hjorth-repetition-review/686058/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-03T09:00:00-05:00"
+          "title": "World leaders are almost never killed in war. Why did it happen to Iran&#8217;s supreme leader?",
+          "url": "https://www.vox.com/politics/481307/khamenei-killing-world-leaders-assassination",
+          "source": "Vox",
+          "ts": "2026-03-02T18:10:00-05:00"
         },
         {
-          "title": "The one question everyone should be asking after OpenAI’s deal with the Pentagon",
-          "url": "https://www.vox.com/future-perfect/481322/pentagon-anthropic-openai-surveillance-china",
+          "title": "The civilians dying in Trump’s new war",
+          "url": "https://www.vox.com/politics/481245/us-israel-iran-war-civilian-death-toll-school-strike",
           "source": "Vox",
-          "ts": "2026-03-03T10:20:00-05:00"
+          "ts": "2026-03-02T17:15:00-05:00"
         },
         {
-          "title": "The case for — and against — striking Iran",
-          "url": "https://www.vox.com/today-explained-newsletter/480687/the-case-for-and-against-striking-iran",
+          "title": "The Supreme Court appears likely to let stoners own guns",
+          "url": "https://www.vox.com/policy/481254/supreme-court-hemani-marijuana-guns-second-amendment",
           "source": "Vox",
-          "ts": "2026-03-03T07:00:00-05:00"
-        },
-        {
-          "title": "James Talarico preaches faith, love, and healing. Do voters actually want that?",
-          "url": "https://www.vox.com/politics/480894/james-talarico-jasmine-crockett-faith-love-healing-texas-voters-senate-primary-democratic-religion-left",
-          "source": "Vox",
-          "ts": "2026-03-03T06:30:00-05:00"
+          "ts": "2026-03-02T14:35:00-05:00"
         },
         {
           "title": "Trump claims US stockpiles mean wars can be fought ‘forever’; Kristi Noem testifies before Congress – US politics live",
