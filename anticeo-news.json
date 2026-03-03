@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T02:40:42.319016Z",
+  "generated_at": "2026-03-03T02:45:42.965388Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 02 Mar 2026 16:29:15 -0500"
         },
         {
+          "title": "Melania Trump Promotes ‘Peace Through Education’ at U.N. as War With Iran Expands",
+          "url": "https://www.nytimes.com/2026/03/02/us/politics/melania-trump-un-peace-education.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 03 Mar 2026 02:36:25 +0000"
+        },
+        {
           "title": "Can These Democrats Make Combative Centrism Happen for 2028 Election?",
           "url": "https://www.nytimes.com/2026/03/02/us/politics/democrats-centrism-2028-election.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-white-house-correspondents-dinner.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 03 Mar 2026 01:33:43 +0000"
-        },
-        {
-          "title": "Trump Embraces U.S. Military Power After Years of Caution",
-          "url": "https://www.nytimes.com/2026/03/02/us/politics/trump-military-power.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 01:26:00 +0000"
         },
         {
           "title": "Supreme Court: California parents have a right to know whether child is transitioning in school",
@@ -121,12 +121,6 @@
           "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
           "source": "Politics, Policy, Political News Top Stories",
           "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        },
-        {
-          "title": "Make up artist Alexis Stone claims to be Jim Carrey imposter after clone conspiracy",
-          "url": "https://www.thepinknews.com/2026/03/02/make-up-artist-alexis-stone-claims-to-be-jim-carrey-imposter-after-clone-conspiracy/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 02 Mar 2026 14:33:33 +0000"
         }
       ]
     },
