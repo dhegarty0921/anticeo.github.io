@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T01:15:32.066762Z",
+  "generated_at": "2026-03-03T01:20:33.172383Z",
   "headline": {
     "title": "US jets shot down over Kuwait in 'apparent friendly fire incident', officials say",
     "url": "https://www.bbc.com/news/articles/c5y4v8gndz1o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-02T14:35:00-05:00"
         },
         {
+          "title": "US strikes on Iran triggered by Israel’s plan to launch attack, Rubio says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/02/rubio-us-attack-israel-iran",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 01:15:06 GMT"
+        },
+        {
           "title": "Trump will attend White House Correspondents’ Dinner for first time as president",
           "url": "https://www.theguardian.com/us-news/2026/mar/02/trump-attend-white-house-correspondents-dinner",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/02/supreme-court-new-york-city-republican-district",
           "source": "US news | The Guardian",
           "ts": "Tue, 03 Mar 2026 00:10:18 GMT"
-        },
-        {
-          "title": "Melania Trump urges protecting children’s education at UN after Iran school strike",
-          "url": "https://www.theguardian.com/us-news/2026/mar/02/melania-trump-un-children-iran-airstrike",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Mar 2026 22:41:32 GMT"
         }
       ]
     },
