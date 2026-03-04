@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T16:30:34.732536Z",
+  "generated_at": "2026-03-04T16:35:34.169365Z",
   "headline": {
     "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
     "url": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&at_campaign=rss"
@@ -15,10 +15,10 @@
           "ts": "Wed, 04 Mar 2026 01:46:40 GMT"
         },
         {
-          "title": "First US soldiers to die in Iran conflict are identified",
+          "title": "Pentagon identifies four of the six US soldiers killed in Iran conflict",
           "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 04 Mar 2026 03:49:39 GMT"
+          "ts": "Wed, 04 Mar 2026 16:34:27 GMT"
         },
         {
           "title": "US citizens in the Middle East face 'mayhem' trying to get home",
@@ -48,7 +48,7 @@
           "title": "Talarico’s Win in Texas Shows That Nice Guys Can Finish First",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 15:45:06 +0000"
+          "ts": "Wed, 04 Mar 2026 16:33:33 +0000"
         },
         {
           "title": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
@@ -99,24 +99,6 @@
           "ts": "Wed, 04 Mar 2026 06:01:23 -0600"
         },
         {
-          "title": "'A perfect storm is lining up for Texas Democrats'",
-          "url": "https://www.politico.com/news/2026/03/04/talarico-won-his-primary-what-happens-next-is-outside-his-control-00811456",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 03:53:18 EST"
-        },
-        {
-          "title": "Talarico defeats Crockett in Texas Senate Democratic primary",
-          "url": "https://www.politico.com/news/2026/03/04/james-talarico-wins-texas-senate-primary-00811090",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 02:38:55 EST"
-        },
-        {
-          "title": "Cornyn is still in the fight. Will Trump finally endorse him?",
-          "url": "https://www.politico.com/news/2026/03/04/cornyn-texas-results-trump-endorsement-00811453",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 03:05:35 EST"
-        },
-        {
           "title": "Rosalía says her type is ‘gay men’ as she opens up about dating",
           "url": "https://www.thepinknews.com/2026/03/04/rosalia-says-her-type-is-gay-men-as-she-opens-up-about-dating/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -139,12 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "Europe braces as Iran threatens to attack",
-          "url": "https://www.politico.eu/article/iran-war-europe-braces-tehran-attack-retaliate-threat-missiles/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 06:45:15 EST"
-        },
         {
           "title": "When Money Walks In, Does God Walk Out?",
           "url": "https://religionnews.com/2026/03/03/when-money-walks-in-does-god-walk-out/",
@@ -198,6 +174,24 @@
           "url": "https://www.vox.com/future-perfect/481371/driverless-cars-avs-safety-miles-driven",
           "source": "Vox",
           "ts": "2026-03-04T08:30:00-05:00"
+        },
+        {
+          "title": "Jasmine Crockett concedes to James Talarico after he secures Democratic Senate nomination in Texas – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 16:12:34 GMT"
+        },
+        {
+          "title": "Pete Hegseth says Iranian regime is ‘toast’ as US expands military offensive",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/pete-hegseth-iran-us-israel-war",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 15:51:17 GMT"
+        },
+        {
+          "title": "Showdown over datacenter politics at heart of North Carolina primary",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 14:34:44 GMT"
         }
       ]
     },
