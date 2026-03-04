@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T02:05:25.914067Z",
+  "generated_at": "2026-03-04T02:10:24.644528Z",
   "headline": {
     "title": "US commerce secretary to testify before Congress about Epstein ties",
     "url": "https://www.bbc.com/news/articles/cy7jm7k7pxzo?at_medium=RSS&at_campaign=rss"
@@ -27,7 +27,7 @@
           "ts": "Tue, 03 Mar 2026 22:12:51 GMT"
         },
         {
-          "title": "Roy Cooper, Michael Whatley set to compete for a high stakes North Carolina US senate seat",
+          "title": "Roy Cooper, Michael Whatley set to compete for a high stakes North Carolina U.S. Senate seat",
           "url": "https://www.npr.org/2026/03/03/nx-s1-5734513/north-carolina-congress-election-results-cooper-whatley",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 03 Mar 2026 20:53:22 -0500"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 17:13:08 -0500"
         },
         {
+          "title": "Congress Splits Over Iran War as Senate Faces a Vote",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/congress-iran-war-powers.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 02:05:35 +0000"
+        },
+        {
           "title": "Mapping Damage to Iran’s Ballistic Missile Sites With Satellite Images",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/iran-ballistic-missiles-strikes-maps.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/us/politics/jasmine-crockett-texas-senate-primary.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 00:31:05 +0000"
-        },
-        {
-          "title": "5 Things to Know About James Talarico, Democratic Senate Hopeful in Texas",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/james-talarico-democrat-senate-candidate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 00:30:05 +0000"
         },
         {
           "title": "A large immigration detention camp in Texas is closed to visitors amid measles outbreak",
@@ -105,24 +105,6 @@
           "ts": "Tue, 03 Mar 2026 08:18:43 -0600"
         },
         {
-          "title": "Internal DHS watchdog: Noem is obstructing our work",
-          "url": "https://www.politico.com/news/2026/03/03/dhs-noem-obstruction-00810919",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 19:58:17 EST"
-        },
-        {
-          "title": "Trump is running out of time to sell his rationale for Iran war",
-          "url": "https://www.politico.com/news/2026/03/03/trump-rationale-iran-war-messaging-00810297",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 17:06:53 EST"
-        },
-        {
-          "title": "House Republicans are publicly cheering Trump’s Iran war. Privately, many are worried.",
-          "url": "https://www.politico.com/news/2026/03/03/iran-republican-anxiety-congress-00810682",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 18:30:00 EST"
-        },
-        {
           "title": "Jack Schlossberg slams Ryan Murphy’s ‘grotesque’ show on Kennedy family",
           "url": "https://www.thepinknews.com/2026/03/03/jack-schlossberg-slams-ryan-murphys-grotesque-show-on-kennedy-family/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -133,6 +115,12 @@
           "url": "https://www.thepinknews.com/2026/03/03/kesha-slams-white-house-for-disgusting-and-inhumane-use-of-her-song/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 03 Mar 2026 16:31:27 +0000"
+        },
+        {
+          "title": "Heated Rivalry author Rachel Reid makes bold Shane statement as Unrivaled delayed",
+          "url": "https://www.thepinknews.com/2026/03/03/heated-rivalry-author-rachel-reid-makes-bold-shane-statement-after-unrivaled-delay/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 03 Mar 2026 16:21:25 +0000"
         }
       ]
     },
@@ -194,10 +182,22 @@
           "ts": "2026-03-03T15:00:00-05:00"
         },
         {
-          "title": "RuPaul’s Drag Race star Fontana comes out as transgender: ‘There is only she’",
-          "url": "https://www.thepinknews.com/2026/03/03/rupauls-drag-race-star-fontana-comes-out-as-transgender-there-is-only-she/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Tue, 03 Mar 2026 17:55:00 +0000"
+          "title": "North Carolina: Roy Cooper and Michael Whatley win primaries to set up Senate contest",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/north-carolina-democratic-republican-primaries-senate",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 02:03:52 GMT"
+        },
+        {
+          "title": "North Carolina US Senate candidates set for November showdown as polls begin to close in Texas – live updates",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 02:03:27 GMT"
+        },
+        {
+          "title": "Texas polls begin to close as Democratic rivals battle in Senate primary",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 01:41:57 GMT"
         }
       ]
     },
