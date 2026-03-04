@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T08:20:24.878476Z",
+  "generated_at": "2026-03-04T08:26:11.575325Z",
   "headline": {
     "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
     "url": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&at_campaign=rss"
@@ -61,24 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/us/politics/iran-ballistic-missiles-strikes-maps.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 01:33:56 +0000"
-        },
-        {
-          "title": "Ex-RNC chairman Whatley to face former Democrat Gov. Cooper in North Carolina Senate race",
-          "url": "https://www.washingtontimes.com/news/2026/mar/3/michael-whatley-face-roy-cooper-north-carolina-senate-race/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 03 Mar 2026 23:16:04 -0500"
-        },
-        {
-          "title": "Cornyn, Paxton advance to runoff in Texas Republican primary for U.S. Senate",
-          "url": "https://www.washingtontimes.com/news/2026/mar/3/ken-paxton-john-cornyn-advance-runoff-texas-republican-senate-primary/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 03 Mar 2026 23:11:35 -0500"
-        },
-        {
-          "title": "Top Democrats say 25-year-old AUMF won't cover Iran strike",
-          "url": "https://www.washingtontimes.com/news/2026/mar/3/democrats-say-25-year-old-aumf-wont-cover-iran-strike/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 03 Mar 2026 21:34:51 -0500"
         },
         {
           "title": "The War on Iran Was Never a Choice",
@@ -186,6 +168,18 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Mar 2026 06:49:24 GMT"
+        },
+        {
+          "title": "Texas Republican candidates for US Senate head to runoff as Democratic candidates await results – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 05:00:22 GMT"
+        },
+        {
+          "title": "Texas Senate seat fight heads to runoff after Republicans fail to secure required votes",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-republicans-senate-john-cornyn-ken-paxton",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 04:47:13 GMT"
         }
       ]
     },
