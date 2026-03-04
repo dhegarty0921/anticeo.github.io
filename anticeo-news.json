@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T23:50:35.123535Z",
+  "generated_at": "2026-03-04T23:55:31.095025Z",
   "headline": {
     "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
     "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 16:50:29 -0500"
         },
         {
+          "title": "What to Know About the Texas Runoffs in May: Key Races and Candidates",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 23:46:30 +0000"
+        },
+        {
           "title": "What’s Next for Texas Under Trump? 4 Big Questions.",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-texas-paxton-talarico-house-runoff.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 22:32:09 +0000"
-        },
-        {
-          "title": "James Talarico Wins the Texas Democratic Senate Race. The Real Challenge Lies Ahead.",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-senate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 22:26:07 +0000"
         },
         {
           "title": "Unverified sex assault claim against Trump at center of latest Epstein files release",
