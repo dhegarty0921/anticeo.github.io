@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T18:15:29.719947Z",
+  "generated_at": "2026-03-04T18:20:43.473037Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Wed, 04 Mar 2026 16:34:27 GMT"
         },
         {
+          "title": "GOP Rep. Tony Gonzales heads to a runoff in Texas amid a new ethics probe in the House",
+          "url": "https://www.npr.org/2026/03/04/g-s1-112476/tony-gonzales-texas-republican-runoff-ethics",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 04 Mar 2026 13:10:36 -0500"
+        },
+        {
           "title": "A Biden-era rule sought to stabilize child care. Why Trump wants it gone",
           "url": "https://www.npr.org/2026/03/04/nx-s1-5727508/child-care-trump-biden-fraud-ccdf",
           "source": "NPR Topics: Politics",
@@ -39,16 +45,10 @@
           "ts": "Wed, 04 Mar 2026 07:17:25 -0500"
         },
         {
-          "title": "Trump claims there would have been a nuclear war if U.S. didn't strike Iran first",
-          "url": "https://www.npr.org/2026/03/04/nx-s1-5734331/trump-claims-there-would-have-been-a-nuclear-war-if-u-s-didnt-strike-iran-first",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 04 Mar 2026 06:42:13 -0500"
-        },
-        {
           "title": "Interior Secretary Burgum Goes to Venezuela",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/venezuela-burgum-oil-gas.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 17:59:35 +0000"
+          "ts": "Wed, 04 Mar 2026 17:59:36 +0000"
         },
         {
           "title": "U.S. Campaign in Iran Is ‘Far From Over,’ Joint Chiefs Chairman Says",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The many stories behind Holi, Hinduism’s festival of colors",
+          "url": "https://religionnews.com/2026/03/04/the-many-stories-of-holi-hinduisms-festival-of-colors/",
+          "source": "RNS",
+          "ts": "Wed, 04 Mar 2026 18:15:01 +0000"
+        },
+        {
           "title": "Conservative Anglican leaders meet in Nigeria, facing debate on a possible breakaway",
           "url": "https://religionnews.com/2026/03/04/conservative-anglican-leaders-meet-in-nigeria-facing-debate-on-a-possible-breakaway/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2026/03/04/purim-parties-shift-to-bomb-shelters-as-israelis-celebrate-under-iran-war-threat/",
           "source": "RNS",
           "ts": "Wed, 04 Mar 2026 18:07:13 +0000"
-        },
-        {
-          "title": "Man who rammed car into Chabad headquarters in NYC pleads not guilty to federal charge",
-          "url": "https://religionnews.com/2026/03/04/man-who-rammed-car-into-chabad-headquarters-in-nyc-pleads-not-guilty-to-federal-charge/",
-          "source": "RNS",
-          "ts": "Wed, 04 Mar 2026 18:04:59 +0000"
         },
         {
           "title": "The Coming Invasion of Iran",
