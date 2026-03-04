@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T20:40:30.411272Z",
+  "generated_at": "2026-03-04T20:45:35.533267Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -99,28 +99,34 @@
           "ts": "Wed, 04 Mar 2026 13:50:07 -0600"
         },
         {
-          "title": "Chick-fil-A faces another boycott over plans to return to UK",
-          "url": "https://www.thepinknews.com/2026/03/04/chick-fil-a-boycott-uk/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Mar 2026 16:56:29 +0000"
+          "title": "'Substantial reason to believe' Tony Gonzales had sex with his staffer, House probe finds",
+          "url": "https://www.politico.com/news/2026/03/04/tony-gonzales-ethics-report-staffer-00812160",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 14:30:07 EST"
         },
         {
-          "title": "Green Party leader Zack Polanski says ‘I know what it’s like to be othered’",
-          "url": "https://www.thepinknews.com/2026/03/04/zack-polanski-green-gay-trans-lgbtq/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Mar 2026 16:51:11 +0000"
+          "title": "‘A perfect storm is lining up for Texas Democrats’",
+          "url": "https://www.politico.com/news/2026/03/04/talarico-won-his-primary-what-happens-next-is-outside-his-control-00811456",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 03:53:18 EST"
         },
         {
-          "title": "Rosalía says her type is ‘gay men’ as she opens up about dating",
-          "url": "https://www.thepinknews.com/2026/03/04/rosalia-says-her-type-is-gay-men-as-she-opens-up-about-dating/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Mar 2026 13:50:32 +0000"
+          "title": "Talarico defeats Crockett in Texas Senate Democratic primary",
+          "url": "https://www.politico.com/news/2026/03/04/james-talarico-wins-texas-senate-primary-00811090",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 02:38:55 EST"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Europe braces as Iran threatens to attack",
+          "url": "https://www.politico.eu/article/iran-war-europe-braces-tehran-attack-retaliate-threat-missiles/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 06:45:15 EST"
+        },
         {
           "title": "To adopt AI or resist it? That’s not the question.",
           "url": "https://religionnews.com/2026/03/04/to-adopt-ai-or-resist-it-thats-not-the-question/",
@@ -174,30 +180,19 @@
           "url": "https://www.vox.com/today-explained-newsletter/481440/texas-primary-results-2026",
           "source": "Vox",
           "ts": "2026-03-04T10:10:00-05:00"
-        },
-        {
-          "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 20:24:18 GMT"
-        },
-        {
-          "title": "Trump-aligned candidates surge as some incumbents fall: five key takeaways from US primary elections",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/midterm-elections-primary-results",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 19:33:34 GMT"
-        },
-        {
-          "title": "Gavin Newsom likens Israel to ‘an apartheid state’ and decries war on Iran",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/gavin-newsom-israel-apartheid-state-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 19:29:35 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "War in the Middle East poses a puzzle for Europe’s far right",
+          "url": "https://www.politico.eu/article/iran-war-europe-far-right-response-puzzle-jordan-bardella-marine-le-pen-alice-weidel/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 05:00:00 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
