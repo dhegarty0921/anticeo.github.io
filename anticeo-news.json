@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T16:05:29.982124Z",
+  "generated_at": "2026-03-04T16:10:33.968120Z",
   "headline": {
     "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
     "url": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Wed, 04 Mar 2026 02:46:31 GMT"
         },
         {
+          "title": "A Biden-era rule sought to stabilize child care. Why Trump wants it gone",
+          "url": "https://www.npr.org/2026/03/04/nx-s1-5727508/child-care-trump-biden-fraud-ccdf",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 04 Mar 2026 10:57:42 -0500"
+        },
+        {
           "title": "Trump's new reasoning for Iran strikes. And, takeaways from the first 2026 primaries",
           "url": "https://www.npr.org/2026/03/04/g-s1-112465/up-first-newsletter-iran-israel-us-trump-midterm-primary-elections-ice",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/04/nx-s1-5734331/trump-claims-there-would-have-been-a-nuclear-war-if-u-s-didnt-strike-iran-first",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 04 Mar 2026 06:42:13 -0500"
-        },
-        {
-          "title": "Rep. Gregory Meeks on U.S. operations against Iran and the vote on Trump's war powers",
-          "url": "https://www.npr.org/2026/03/04/nx-s1-5734034/rep-gregory-meeks-on-u-s-operations-against-iran-and-the-vote-on-trumps-war-powers",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 04 Mar 2026 06:42:09 -0500"
         },
         {
           "title": "Talarico’s Win in Texas Shows That Nice Guys Can Finish First",
@@ -179,19 +179,19 @@
           "title": "Pete Hegseth fails to say whose munition bombed Iranian girls school, saying US investigating – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 15:31:30 GMT"
+          "ts": "Wed, 04 Mar 2026 15:51:40 GMT"
+        },
+        {
+          "title": "Pete Hegseth says Iranian regime is ‘toast’ as US expands military offensive",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/pete-hegseth-iran-us-israel-war",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 15:51:17 GMT"
         },
         {
           "title": "Showdown over datacenter politics at heart of North Carolina primary",
           "url": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Mar 2026 14:34:44 GMT"
-        },
-        {
-          "title": "Half of Americans back abolishing ICE amid Trump crackdown, poll finds",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/ice-trump-immigration-poll",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 14:14:25 GMT"
         }
       ]
     },
