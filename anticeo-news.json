@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T14:45:33.480026Z",
+  "generated_at": "2026-03-04T14:50:31.150809Z",
   "headline": {
     "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
     "url": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 06:42:09 -0500"
         },
         {
+          "title": "Talarico’s Win in Texas Shows That Nice Guys Can Finish First",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 14:42:56 +0000"
+        },
+        {
           "title": "Iran Made Secret Outreach After Strikes, Highlighting Trump’s Challenge",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 13:37:35 +0000"
-        },
-        {
-          "title": "Talarico Beats Crockett as G.O.P. Heads to Runoff: Texas Primary Election Takeaways",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 13:31:17 +0000"
         },
         {
           "title": "GOP challenger Steve Toth ousts Rep. Dan Crenshaw in Texas primary",
@@ -158,6 +158,12 @@
           "ts": "2026-03-03T18:16:20-05:00"
         },
         {
+          "title": "The biggest drawback of driverless cars",
+          "url": "https://www.vox.com/future-perfect/481371/driverless-cars-avs-safety-miles-driven",
+          "source": "Vox",
+          "ts": "2026-03-04T08:30:00-05:00"
+        },
+        {
           "title": "Filming British romance is all about location",
           "url": "https://www.vox.com/videos/481396/filming-british-romance-is-all-about-location",
           "source": "Vox",
@@ -168,12 +174,6 @@
           "url": "https://www.vox.com/politics/481229/anthropic-pentagon-openai-amodei-ai",
           "source": "Vox",
           "ts": "2026-03-04T07:00:00-05:00"
-        },
-        {
-          "title": "A high-stakes Texas primary exposed the Democratic Party’s fault lines",
-          "url": "https://www.vox.com/politics/481483/james-talarico-stakes-texas-primary-latino-white-black-democratic-party",
-          "source": "Vox",
-          "ts": "2026-03-04T06:07:44-05:00"
         },
         {
           "title": "Showdown over datacenter politics at heart of North Carolina primary",
