@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T22:40:46.013697Z",
+  "generated_at": "2026-03-04T22:45:34.094093Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -33,7 +33,7 @@
           "ts": "Wed, 04 Mar 2026 16:52:00 -0500"
         },
         {
-          "title": "With a vote on war powers, a split Senate will weigh Trump's authorities in Iran",
+          "title": "A split Senate votes against measure to constrain Trump's authorities in Iran",
           "url": "https://www.npr.org/2026/03/04/nx-s1-5735867/war-powers-congress-iran",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 04 Mar 2026 16:50:29 -0500"
@@ -51,10 +51,10 @@
           "ts": "Wed, 04 Mar 2026 22:32:09 +0000"
         },
         {
-          "title": "James Talarico wins the Texas Democratic Senate race. The real challenge lies ahead.",
+          "title": "James Talarico Wins the Texas Democratic Senate Race. The Real Challenge Lies Ahead.",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-senate.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 22:26:06 +0000"
+          "ts": "Wed, 04 Mar 2026 22:26:07 +0000"
         },
         {
           "title": "Newsom Compares Israel to ‘Apartheid State’",
@@ -158,6 +158,12 @@
           "ts": "2026-03-04T16:00:00-05:00"
         },
         {
+          "title": "What the Iran war is costing you, briefly explained",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/481629/iran-war-oil-gas-prices-strait-hormuz",
+          "source": "Vox",
+          "ts": "2026-03-04T17:40:00-05:00"
+        },
+        {
           "title": "How the US might be using AI in Iran",
           "url": "https://www.vox.com/podcasts/481567/ai-claude-chatgpt-iran-war-pentagon-autonomous-weapons",
           "source": "Vox",
@@ -170,28 +176,22 @@
           "ts": "2026-03-04T11:01:00-05:00"
         },
         {
-          "title": "What Democrats learned in Texas",
-          "url": "https://www.vox.com/today-explained-newsletter/481440/texas-primary-results-2026",
-          "source": "Vox",
-          "ts": "2026-03-04T10:10:00-05:00"
-        },
-        {
           "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 22:08:22 GMT"
+          "ts": "Wed, 04 Mar 2026 22:36:32 GMT"
+        },
+        {
+          "title": "Senate votes down resolution to prevent Trump from continuing war with Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 22:27:59 GMT"
         },
         {
           "title": "Pam Bondi subpoenaed by US House in Jeffrey Epstein investigation",
           "url": "https://www.theguardian.com/us-news/2026/mar/04/house-subpoena-pam-bondi-epstein-files",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Mar 2026 21:56:10 GMT"
-        },
-        {
-          "title": "Tech firm fined $1.1m by California for selling high-school students’ data",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/california-tech-gofan-fine",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 21:44:53 GMT"
         }
       ]
     },
