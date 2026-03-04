@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T23:55:25.924794Z",
+  "generated_at": "2026-03-04T00:00:25.662848Z",
   "headline": {
     "title": "Trump voters back him on Iran - but that could change if war drags on",
     "url": "https://www.bbc.com/news/articles/cvg35401nrqo?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "U.S. Releases Names of Soldiers Killed in War With Iran",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/us-soldiers-killed-iran.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 23:44:34 +0000"
+          "ts": "Tue, 03 Mar 2026 23:56:50 +0000"
         },
         {
           "title": "How The Times Reports Live Election Results and Calls Races",
@@ -182,22 +182,22 @@
           "ts": "2026-03-03T15:00:00-05:00"
         },
         {
-          "title": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 23:39:30 GMT"
-        },
-        {
           "title": "US 2026 midterm primary elections begin with key races in Texas and North Carolina – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas",
           "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 23:33:25 GMT"
+          "ts": "Tue, 03 Mar 2026 23:46:59 GMT"
         },
         {
-          "title": "Kristi Noem refuses to retract statement calling Minnesotans killed by federal agents ‘domestic terrorists’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/03/kristi-noem-senate-hearing-minnesota-ice-shootings",
+          "title": "Can’t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
           "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 22:45:25 GMT"
+          "ts": "Tue, 03 Mar 2026 23:46:47 GMT"
+        },
+        {
+          "title": "Trump denies that Israel forced US’s hand in launching strikes against Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/trump-israel-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 23:46:17 GMT"
         }
       ]
     },
