@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T08:30:25.454149Z",
+  "generated_at": "2026-03-04T08:35:23.821914Z",
   "headline": {
     "title": "Too early to tell scope of Iran strikes, Trump tells Congress",
     "url": "https://www.bbc.com/news/articles/cx2gprk53pno?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 18:40:22 -0500"
         },
         {
+          "title": "Talarico Triumphs as G.O.P. Heads to Runoff: 6 Takeaways from Texas",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 08:30:57 +0000"
+        },
+        {
           "title": "U.S. Takes Military Action in Ecuador Against ‘Terrorist Organizations’",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/us/politics/congress-iran-war-powers.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 02:05:35 +0000"
-        },
-        {
-          "title": "Mapping Damage to Iran’s Ballistic Missile Sites With Satellite Images",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/iran-ballistic-missiles-strikes-maps.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 01:33:56 +0000"
         },
         {
           "title": "Ex-RNC chairman Whatley to face former Democrat Gov. Cooper in North Carolina Senate race",
@@ -180,12 +180,6 @@
           "url": "https://www.vox.com/politics/481401/supreme-court-mirabelli-bonta-sauron-wins",
           "source": "Vox",
           "ts": "2026-03-03T15:15:00-05:00"
-        },
-        {
-          "title": "Democratic rivals in close Senate primary amid Texas polling confusion",
-          "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 06:49:24 GMT"
         }
       ]
     },
