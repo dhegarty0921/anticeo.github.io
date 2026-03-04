@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T00:30:27.222965Z",
+  "generated_at": "2026-03-04T00:35:25.125362Z",
   "headline": {
     "title": "US commerce secretary to testify before Congress about Epstein ties",
     "url": "https://www.bbc.com/news/articles/cy7jm7k7pxzo?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Tue, 03 Mar 2026 12:33:23 -0500"
         },
         {
+          "title": "What to Know About Jasmine Crockett, the Texas Democratic Senate Candidate",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/jasmine-crockett-texas-senate-primary.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 00:31:05 +0000"
+        },
+        {
+          "title": "5 Things to Know About James Talarico, Democratic Senate Hopeful in Texas",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/james-talarico-democrat-senate-candidate.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 00:30:05 +0000"
+        },
+        {
           "title": "Trump Tries to Quiet Claims Among Supporters That Israel Dragged Him Into War",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/trump-israel-iran.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 00:10:20 +0000"
-        },
-        {
-          "title": "5 Things to Know About Senate Candidate Ken Paxton of Texas",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/ken-paxton-republican-senate-candidate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 00:04:25 +0000"
-        },
-        {
-          "title": "5 Things to Know About Senator John Cornyn of Texas",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/john-cornyn-texas-republican-senator.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 00:01:05 +0000"
         },
         {
           "title": "A large immigration detention camp in Texas is closed to visitors amid measles outbreak",
@@ -105,22 +105,22 @@
           "ts": "Tue, 03 Mar 2026 08:18:43 -0600"
         },
         {
-          "title": "Trump is running out of time to sell his rationale for Iran war",
-          "url": "https://www.politico.com/news/2026/03/03/trump-rationale-iran-war-messaging-00810297",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 17:06:53 EST"
+          "title": "Jack Schlossberg slams Ryan Murphy’s ‘grotesque’ show on Kennedy family",
+          "url": "https://www.thepinknews.com/2026/03/03/jack-schlossberg-slams-ryan-murphys-grotesque-show-on-kennedy-family/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 03 Mar 2026 16:53:49 +0000"
         },
         {
-          "title": "House Republicans are publicly cheering Trump’s Iran war. Privately, many are worried.",
-          "url": "https://www.politico.com/news/2026/03/03/iran-republican-anxiety-congress-00810682",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 18:30:00 EST"
+          "title": "Kesha slams White House for ‘disgusting and inhumane’ use of her song",
+          "url": "https://www.thepinknews.com/2026/03/03/kesha-slams-white-house-for-disgusting-and-inhumane-use-of-her-song/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 03 Mar 2026 16:31:27 +0000"
         },
         {
-          "title": "US mulls military support for vulnerable oil supplies in Strait of Hormuz",
-          "url": "https://www.politico.com/news/2026/03/03/iran-oil-energy-military-trump-hormuz-00808825",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 03 Mar 2026 13:32:26 EST"
+          "title": "Heated Rivalry author Rachel Reid makes bold Shane statement as Unrivaled delayed",
+          "url": "https://www.thepinknews.com/2026/03/03/heated-rivalry-author-rachel-reid-makes-bold-shane-statement-after-unrivaled-delay/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 03 Mar 2026 16:21:25 +0000"
         }
       ]
     },
@@ -180,19 +180,30 @@
           "url": "https://www.vox.com/podcasts/481378/iran-khamenei-regime-change-irgc-nahal-toosi",
           "source": "Vox",
           "ts": "2026-03-03T15:00:00-05:00"
+        },
+        {
+          "title": "All eyes on Texas and North Carolina as three states cast first ballots of 2026 midterm elections – live updates",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 00:19:37 GMT"
+        },
+        {
+          "title": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 00:00:20 GMT"
+        },
+        {
+          "title": "Can’t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Mar 2026 23:46:47 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Latest updates: War in the Middle East",
-          "url": "https://www.politico.eu/article/us-israel-strike-iran-live-updates/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 28 Feb 2026 07:47:42 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
