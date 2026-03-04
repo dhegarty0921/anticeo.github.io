@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T00:05:23.328216Z",
+  "generated_at": "2026-03-04T00:10:26.103520Z",
   "headline": {
     "title": "US commerce secretary to testify before Congress about Epstein ties",
     "url": "https://www.bbc.com/news/articles/cy7jm7k7pxzo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 03 Mar 2026 12:33:23 -0500"
         },
         {
+          "title": "5 Things to Know About Senate Candidate Ken Paxton of Texas",
+          "url": "https://www.nytimes.com/2026/03/03/us/politics/ken-paxton-republican-senate-candidate.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 00:04:24 +0000"
+        },
+        {
           "title": "5 Things to Know About Senator John Cornyn of Texas",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/john-cornyn-texas-republican-senator.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/03/us/politics/wesley-hunt-republican-texas.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 00:00:05 +0000"
-        },
-        {
-          "title": "U.S. Releases Names of Soldiers Killed in War With Iran",
-          "url": "https://www.nytimes.com/2026/03/03/us/politics/us-soldiers-killed-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 03 Mar 2026 23:56:50 +0000"
         },
         {
           "title": "Trump announces steps to protect oil tankers as prices surge, Wall Street stocks fall",
@@ -182,22 +182,22 @@
           "ts": "2026-03-03T15:00:00-05:00"
         },
         {
-          "title": "US 2026 midterm primary elections begin with key races in Texas and North Carolina – live updates",
+          "title": "Rubio tries to backtrack after Israel comments later contradicted by Trump trigger criticism – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/donald-trump-iran-war-powers-kristi-noem-primaries-friedrich-merz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 00:00:20 GMT"
+        },
+        {
+          "title": "All eyes on Texas and North Carolina as three states cast first ballots of 2026 midterm elections – live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas",
           "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 23:46:59 GMT"
+          "ts": "Tue, 03 Mar 2026 23:54:19 GMT"
         },
         {
           "title": "Can’t win? Drop out: California Democrats plead with governor hopefuls as party fears Republican surge",
           "url": "https://www.theguardian.com/us-news/2026/mar/03/california-governor-democrats-gavin-newsom",
           "source": "US news | The Guardian",
           "ts": "Tue, 03 Mar 2026 23:46:47 GMT"
-        },
-        {
-          "title": "Trump denies that Israel forced US’s hand in launching strikes against Iran",
-          "url": "https://www.theguardian.com/us-news/2026/mar/03/trump-israel-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Mar 2026 23:46:17 GMT"
         }
       ]
     },
