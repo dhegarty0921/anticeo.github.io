@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T18:00:32.285771Z",
+  "generated_at": "2026-03-04T18:05:30.903503Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 06:42:13 -0500"
         },
         {
+          "title": "Interior Secretary Burgum Goes to Venezuela",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/venezuela-burgum-oil-gas.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 17:59:35 +0000"
+        },
+        {
           "title": "U.S. Campaign in Iran Is ‘Far From Over,’ Joint Chiefs Chairman Says",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/us-war-iran.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 16:50:21 +0000"
-        },
-        {
-          "title": "Talarico’s Win in Texas Shows That Nice Guys Can Finish First",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 17:14:48 +0000"
         },
         {
           "title": "Fear of lawsuits, racial backlash spurred massive Minnesota fraud, House report says",
@@ -99,24 +99,6 @@
           "ts": "Wed, 04 Mar 2026 06:01:23 -0600"
         },
         {
-          "title": "‘A perfect storm is lining up for Texas Democrats’",
-          "url": "https://www.politico.com/news/2026/03/04/talarico-won-his-primary-what-happens-next-is-outside-his-control-00811456",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 03:53:18 EST"
-        },
-        {
-          "title": "Talarico defeats Crockett in Texas Senate Democratic primary",
-          "url": "https://www.politico.com/news/2026/03/04/james-talarico-wins-texas-senate-primary-00811090",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 02:38:55 EST"
-        },
-        {
-          "title": "Cornyn is still in the fight. Will Trump finally endorse him?",
-          "url": "https://www.politico.com/news/2026/03/04/cornyn-texas-results-trump-endorsement-00811453",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 03:05:35 EST"
-        },
-        {
           "title": "Chick-fil-A faces another boycott over plans to return to UK",
           "url": "https://www.thepinknews.com/2026/03/04/chick-fil-a-boycott-uk/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -140,28 +122,22 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Europe braces as Iran threatens to attack",
-          "url": "https://www.politico.eu/article/iran-war-europe-braces-tehran-attack-retaliate-threat-missiles/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 04 Mar 2026 06:45:15 EST"
+          "title": "Man who rammed car into Chabad headquarters in NYC pleads not guilty to federal charge",
+          "url": "https://religionnews.com/2026/03/04/man-who-rammed-car-into-chabad-headquarters-in-nyc-pleads-not-guilty-to-federal-charge/",
+          "source": "RNS",
+          "ts": "Wed, 04 Mar 2026 18:04:58 +0000"
+        },
+        {
+          "title": "What to know about Iran’s Revolutionary Guard, a powerful force within the country’s theocracy",
+          "url": "https://religionnews.com/2026/03/04/what-to-know-about-irans-revolutionary-guard-a-powerful-force-within-the-countrys-theocracy/",
+          "source": "RNS",
+          "ts": "Wed, 04 Mar 2026 18:01:56 +0000"
         },
         {
           "title": "Photos of the Week: Iran war, Jesse Jackson memorial",
           "url": "https://religionnews.com/2026/03/04/photos-of-the-week-war-in-middle-east-jesse-jackson-memorials/",
           "source": "RNS",
           "ts": "Wed, 04 Mar 2026 17:42:17 +0000"
-        },
-        {
-          "title": "When Money Walks In, Does God Walk Out?",
-          "url": "https://religionnews.com/2026/03/03/when-money-walks-in-does-god-walk-out/",
-          "source": "RNS",
-          "ts": "Wed, 04 Mar 2026 03:18:20 +0000"
-        },
-        {
-          "title": "Are Jeffrey Epstein’s friends just guilty of bad judgment?",
-          "url": "https://religionnews.com/2026/03/03/are-the-friends-of-epstein-just-guilty-of-bad-judgment/",
-          "source": "RNS",
-          "ts": "Tue, 03 Mar 2026 22:42:22 +0000"
         },
         {
           "title": "The Coming Invasion of Iran",
@@ -198,6 +174,24 @@
           "url": "https://www.vox.com/future-perfect/481371/driverless-cars-avs-safety-miles-driven",
           "source": "Vox",
           "ts": "2026-03-04T08:30:00-05:00"
+        },
+        {
+          "title": "Jasmine Crockett concedes to James Talarico after he secures Democratic Senate nomination in Texas – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 17:49:51 GMT"
+        },
+        {
+          "title": "House opens inquiry into Texas lawmaker over alleged affair with aide",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/tony-gonzales-texas-rep-alleged-affair",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 16:38:09 GMT"
+        },
+        {
+          "title": "Gavin Newsom likens Israel to ‘an apartheid state’ and decries war on Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/gavin-newsom-israel-apartheid-state-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 16:30:36 GMT"
         }
       ]
     },
