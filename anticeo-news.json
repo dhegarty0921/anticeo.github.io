@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T16:50:33.218977Z",
+  "generated_at": "2026-03-04T16:55:33.648969Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -21,7 +21,7 @@
           "ts": "Wed, 04 Mar 2026 14:38:35 GMT"
         },
         {
-          "title": "Pentagon identifies four of the six US soldiers killed in Iran conflict",
+          "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
           "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 04 Mar 2026 16:34:27 GMT"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 06:42:13 -0500"
         },
         {
+          "title": "Trump Justice Dept. Seeks to Stall State Bar Discipline of Its Lawyers",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/justice-department-state-bar-associations-lawyers.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 16:50:21 +0000"
+        },
+        {
           "title": "Talarico’s Win in Texas Shows That Nice Guys Can Finish First",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/james-talarico-texas-elections.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-intelligence-leaders.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 10:03:22 +0000"
-        },
-        {
-          "title": "On Iran, Vance Balances Between Trump and the Anti-Intervention Right",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/vance-trump-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 13:37:35 +0000"
         },
         {
           "title": "Fear of lawsuits, racial backlash spurred massive Minnesota fraud, House report says",
@@ -140,6 +140,12 @@
           "ts": "Tue, 03 Mar 2026 21:51:31 +0000"
         },
         {
+          "title": "The Coming Invasion of Iran",
+          "url": "https://www.theatlantic.com/international/2026/03/invasion-iran-israel-us-iraq/686231/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-04T11:37:33-05:00"
+        },
+        {
           "title": "California’s Deadliest Avalanche Turned on One Choice",
           "url": "https://www.theatlantic.com/science/2026/03/californias-deadliest-avalanche-castle-peak/686227/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +156,6 @@
           "url": "https://www.theatlantic.com/international/2026/03/trump-iran-war-justification/686229/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-04T09:37:47-05:00"
-        },
-        {
-          "title": "The Tyranny of the Relationship Gap",
-          "url": "https://www.theatlantic.com/family/2026/03/age-gap-swag-intelligence-party-gap/686224/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-04T09:25:17-05:00"
         },
         {
           "title": "Scientists have been underestimating sea levels — for decades",
