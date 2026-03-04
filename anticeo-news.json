@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T20:10:34.956306Z",
+  "generated_at": "2026-03-04T20:15:30.530289Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 07:17:25 -0500"
         },
         {
+          "title": "Justice Dept., Under Pressure From Trump, Fails to Build Autopen Case Against Biden",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 20:11:20 +0000"
+        },
+        {
           "title": "Colorado Governor Signals He’ll Commute Sentence of Election Denier",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/jared-polis-tina-peters.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/upshot/texas-primary-talarico-cornyn-senate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 18:58:24 +0000"
-        },
-        {
-          "title": "Liquid Natural Gas Exporters Like Shell and ExxonMobil Could See Big Profits From War",
-          "url": "https://www.nytimes.com/2026/03/04/business/energy-environment/natural-gas-prices-lng-shell-exxon-war-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 18:36:03 +0000"
         },
         {
           "title": "What's next for embattled Rep. Tony Gonzales after being forced into runoff?",
@@ -84,7 +84,7 @@
           "title": "A New Middle East Alliance Is Suddenly Feasible",
           "url": "https://www.realclearpolitics.com/2026/03/04/a_new_middle_east_alliance_is_suddenly_feasible_693462.html",
           "source": "RealClearPolitics - Homepage",
-          "ts": "Wed, 04 Mar 2026 13:48:17 -0600"
+          "ts": "Wed, 04 Mar 2026 14:13:12 -0600"
         },
         {
           "title": "Iran Tests Its Pain Threshold in Survival Battle",
@@ -158,6 +158,12 @@
           "ts": "2026-03-04T11:37:33-05:00"
         },
         {
+          "title": "How the US might be using AI in Iran",
+          "url": "https://www.vox.com/podcasts/481567/ai-claude-chatgpt-iran-war-pentagon-autonomous-weapons",
+          "source": "Vox",
+          "ts": "2026-03-04T15:10:00-05:00"
+        },
+        {
           "title": "Scientists have been underestimating sea levels — for decades",
           "url": "https://www.vox.com/climate/481420/sea-level-rise-climate-change-flood-nature-ocean",
           "source": "Vox",
@@ -170,19 +176,13 @@
           "ts": "2026-03-04T10:10:00-05:00"
         },
         {
-          "title": "The biggest drawback of driverless cars",
-          "url": "https://www.vox.com/future-perfect/481371/driverless-cars-avs-safety-miles-driven",
-          "source": "Vox",
-          "ts": "2026-03-04T08:30:00-05:00"
-        },
-        {
           "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 19:53:37 GMT"
+          "ts": "Wed, 04 Mar 2026 20:10:01 GMT"
         },
         {
-          "title": "Voters punish centrists, Trump-aligned candidates surge: five key takeaways from US primary elections",
+          "title": "Trump-aligned candidates surge as some incumbents fall: five key takeaways from US primary elections",
           "url": "https://www.theguardian.com/us-news/2026/mar/04/midterm-elections-primary-results",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Mar 2026 19:33:34 GMT"
