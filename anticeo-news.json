@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T02:45:23.889149Z",
+  "generated_at": "2026-03-04T02:50:24.913278Z",
   "headline": {
     "title": "US commerce secretary to testify before Congress about Epstein ties",
     "url": "https://www.bbc.com/news/articles/cy7jm7k7pxzo?at_medium=RSS&at_campaign=rss"
@@ -45,10 +45,10 @@
           "ts": "Tue, 03 Mar 2026 17:13:08 -0500"
         },
         {
-          "title": "U.S. Conducts Military Operations in Ecuador",
+          "title": "U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’",
           "url": "https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 02:32:53 +0000"
+          "ts": "Wed, 04 Mar 2026 02:40:21 +0000"
         },
         {
           "title": "Congress Splits Over Iran War as Senate Faces a Vote",
@@ -182,6 +182,12 @@
           "ts": "2026-03-03T15:00:00-05:00"
         },
         {
+          "title": "Trump news at a glance: Rubio and his boss can’t seem to agree on why US attacked Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/03/trump-news-rubio-iran",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 02:34:51 GMT"
+        },
+        {
           "title": "Texas polls begin to close as Democratic rivals battle in Senate primary",
           "url": "https://www.theguardian.com/us-news/2026/mar/03/texas-primary-election-results",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/03/north-carolina-democratic-republican-primaries-senate",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Mar 2026 02:12:48 GMT"
-        },
-        {
-          "title": "North Carolina US Senate candidates set for November showdown as polls begin to close in Texas – live updates",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/03/midterms-live-election-updates-texas-cornyn-paxton-talarico-crockett-north-carolina-arkansas",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 02:03:27 GMT"
         }
       ]
     },
