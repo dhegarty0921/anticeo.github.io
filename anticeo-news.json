@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T21:00:30.149749Z",
+  "generated_at": "2026-03-04T21:05:29.310889Z",
   "headline": {
     "title": "US Senate to vote on Trump's war powers as Iran conflict continues",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 07:17:25 -0500"
         },
         {
+          "title": "U.S. Submarine Launches First Torpedo in Combat Since World War II",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/submarine-torpedo-iran-ship.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 20:59:53 +0000"
+        },
+        {
           "title": "Fellow Republican Moves to Censure Gonzales Amid Affair Allegations",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/luna-censure-gonzales.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/juan-jose-valdez-dead.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 20:15:03 +0000"
-        },
-        {
-          "title": "Justice Dept., Under Pressure From Trump, Fails to Build Autopen Case Against Biden",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 20:52:55 +0000"
         },
         {
           "title": "Battle for Texas Senate seat hinges on Republican runoff and a Trump endorsement",
@@ -179,7 +179,7 @@
           "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 20:51:42 GMT"
+          "ts": "Wed, 04 Mar 2026 20:41:31 GMT"
         },
         {
           "title": "Trump-aligned candidates surge as some incumbents fall: five key takeaways from US primary elections",
