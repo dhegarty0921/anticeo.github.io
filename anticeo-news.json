@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T21:05:30.649103Z",
+  "generated_at": "2026-03-05T21:10:30.968849Z",
   "headline": {
     "title": "Who is Markwayne Mullin, Trump's new pick for Homeland Security secretary?",
     "url": "https://www.bbc.com/news/articles/c4g5xd2p7vqo?at_medium=RSS&at_campaign=rss"
@@ -182,12 +182,6 @@
           "ts": "2026-03-05T07:15:00-05:00"
         },
         {
-          "title": "Suspect apprehended after three women found dead in rural Utah",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 21:01:05 GMT"
-        },
-        {
           "title": "Trump fires Kristi Noem; replacement pick Markwayne Mullin says nomination is ‘pretty humbling’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
@@ -198,6 +192,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 20:47:08 GMT"
+        },
+        {
+          "title": "Suspect apprehended after three women found dead in rural Utah",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 20:13:58 GMT"
         }
       ]
     },
