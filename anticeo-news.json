@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T01:10:33.072962Z",
+  "generated_at": "2026-03-05T01:15:31.141609Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 16:50:29 -0500"
         },
         {
+          "title": "Trump Follows His Gut. His National Security Advisers Try to Keep Up.",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-national-security.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 01:04:54 +0000"
+        },
+        {
           "title": "U.S. Court Takes First Steps Toward Ordering Tariff Refunds",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/judge-order-trump-tariff-refunds.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/kurds-trump-iran-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 00:28:16 +0000"
-        },
-        {
-          "title": "Whose Airstrike Hit a Girls’ School in Iran? The U.S. Says It’s Still Investigating.",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-airstrike-girls-school.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 23:57:18 +0000"
         },
         {
           "title": "Senate defeats war powers resolution that would have limited Trump's attacks on Iran",
@@ -176,6 +176,12 @@
           "ts": "2026-03-04T15:10:00-05:00"
         },
         {
+          "title": "Montana Republican Steve Daines drops Senate re-election bid minutes before deadline",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/montana-senate-republican-steve-daines",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 01:10:25 GMT"
+        },
+        {
           "title": "Texas lawmaker admits he had affair with aide who died by suicide",
           "url": "https://www.theguardian.com/us-news/2026/mar/04/tony-gonzales-texas-rep-alleged-affair",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 00:34:22 GMT"
-        },
-        {
-          "title": "Famous Brady Bunch house awarded Los Angeles landmark status",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/brady-bunch-house-los-angeles-historic-cultural-monument",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 00:00:22 GMT"
         }
       ]
     },
