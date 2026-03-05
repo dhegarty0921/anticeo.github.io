@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T01:40:31.151428Z",
+  "generated_at": "2026-03-05T01:45:41.630896Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-04T15:10:00-05:00"
         },
         {
+          "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 01:32:54 GMT"
+        },
+        {
           "title": "Montana Republican Steve Daines drops Senate re-election bid minutes before deadline",
           "url": "https://www.theguardian.com/us-news/2026/mar/04/montana-senate-republican-steve-daines",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/04/tony-gonzales-texas-rep-alleged-affair",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 00:36:27 GMT"
-        },
-        {
-          "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 00:34:22 GMT"
         }
       ]
     },
