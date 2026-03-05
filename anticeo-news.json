@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T16:00:34.124705Z",
+  "generated_at": "2026-03-05T16:05:31.519205Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 06:00:00 -0500"
         },
         {
+          "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
+          "url": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 15:56:57 +0000"
+        },
+        {
           "title": "Republicans Toil to Avoid Saying ‘War’ as Iran Conflict Widens",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-deaths.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 10:03:58 +0000"
-        },
-        {
-          "title": "Once a Bipartisan Stalwart, AIPAC Turns ‘Toxic’ in the Illinois Primaries",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/aipac-illinois-primaries.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 14:51:10 +0000"
         },
         {
           "title": "Rep. Tony Gonzales confesses affair with aide, denies responsibility for her suicide",
@@ -182,16 +182,16 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
+          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 15:56:01 GMT"
+        },
+        {
           "title": "Pakistani man on trial in Brooklyn for Trump assassination plot says he was recruited by Iran",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/pakistani-man-trial-trump-assassination-plot-iran",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 15:43:11 GMT"
-        },
-        {
-          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 15:35:12 GMT"
         },
         {
           "title": "Suspect apprehended after three women found dead in rural Utah",
