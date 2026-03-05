@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T09:30:35.145439Z",
+  "generated_at": "2026-03-05T09:36:18.994775Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Wed, 04 Mar 2026 23:42:08 GMT"
         },
         {
+          "title": "Pentagon identifies six US soldiers killed in Iran conflict",
+          "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 05 Mar 2026 01:42:40 GMT"
+        },
+        {
           "title": "Congress votes to summon Attorney General Bondi in Epstein case",
           "url": "https://www.bbc.com/news/articles/c23zz1x9dx0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 04 Mar 2026 21:57:57 GMT"
-        },
-        {
-          "title": "Musk tells jury 'people read too much' into his posts",
-          "url": "https://www.bbc.com/news/articles/c7433dz4ykwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 05 Mar 2026 02:55:34 GMT"
         },
         {
           "title": "Trump faces criticism for not have evacuation plans in place before starting the war",
@@ -180,6 +180,18 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 03:00:43 GMT"
+        },
+        {
+          "title": "Louisiana mayor convicted of raping 16-year-old boy at her home while still in office",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/louisiana-mayor-convicted-rape-16-year-old",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 02:34:18 GMT"
+        },
+        {
+          "title": "Trump news at a glance: Pentagon ‘taking a look’ at deadly strike on girls’ school in Iran as UN office demands answers",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/trump-news-at-a-glance-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 02:00:47 GMT"
         }
       ]
     },
