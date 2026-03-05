@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T17:20:58.919679Z",
+  "generated_at": "2026-03-05T17:25:36.363499Z",
   "headline": {
     "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
     "url": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss"
@@ -15,10 +15,10 @@
           "ts": "Thu, 05 Mar 2026 12:17:30 GMT"
         },
         {
-          "title": "Britney Spears arrested in California",
+          "title": "Britney Spears arrested in California on suspicion of DUI",
           "url": "https://www.bbc.com/news/articles/c4gjjn41l7no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 05 Mar 2026 16:18:47 GMT"
+          "ts": "Thu, 05 Mar 2026 17:23:19 GMT"
         },
         {
           "title": "US Senate vote fails to rein in Trump war powers on Iran",
@@ -146,6 +146,12 @@
           "ts": "Thu, 05 Mar 2026 16:59:52 +0000"
         },
         {
+          "title": "Talk to Your Doctor About Your Distrust of Public Health",
+          "url": "https://www.theatlantic.com/health/2026/03/means-kennedy-vaccines-doctors-trust/686245/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-05T11:59:55-05:00"
+        },
+        {
           "title": "‘The Most Dangerous Man in the World’",
           "url": "https://www.theatlantic.com/international/2026/03/mojtaba-khamenei-iran-supreme-leader/686243/?utm_source=feed",
           "source": "The Atlantic",
@@ -156,12 +162,6 @@
           "url": "https://www.theatlantic.com/press-releases/2026/03/sarah-topol-jenisha-watts-staff-writers/686242/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-05T10:12:00-05:00"
-        },
-        {
-          "title": "A Western That Goes Where Cormac McCarthy Wouldn’t",
-          "url": "https://www.theatlantic.com/books/2026/03/alvaro-enrigues-wild-western/686241/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-05T09:00:00-05:00"
         },
         {
           "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
@@ -182,16 +182,16 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
-          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 17:14:54 GMT"
-        },
-        {
           "title": "Donald Trump insists there are no wind farms in China. Here are 20 of them – in pictures",
           "url": "https://www.theguardian.com/us-news/gallery/2026/mar/05/pictures-china-wind-farms-trump",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 17:01:45 GMT"
+        },
+        {
+          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 16:43:10 GMT"
         },
         {
           "title": "‘What happened in Texas is a warning’: advocates say Republicans suppressed votes in the primaries",
