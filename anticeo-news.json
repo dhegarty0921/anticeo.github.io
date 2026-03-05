@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T19:15:32.354829Z",
+  "generated_at": "2026-03-05T19:20:32.191155Z",
   "headline": {
     "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
     "url": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss"
@@ -60,7 +60,7 @@
           "title": "States Sue to Stop Trump From Reviving Steep Tariffs",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 18:19:27 +0000"
+          "ts": "Thu, 05 Mar 2026 19:13:46 +0000"
         },
         {
           "title": "Trump says Cuba 'is going to fall'",
@@ -146,12 +146,6 @@
           "ts": "Thu, 05 Mar 2026 17:02:53 +0000"
         },
         {
-          "title": "U.S. Capabilities Are Showing Signs of Rot",
-          "url": "https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-05T14:03:16-05:00"
-        },
-        {
           "title": "Today’s <em>Atlantic</em> Trivia: Make No McStake",
           "url": "https://www.theatlantic.com/newsletters/2026/03/daily-trivia-questions-answers-week-19/686213/?utm_source=feed",
           "source": "The Atlantic",
@@ -162,6 +156,12 @@
           "url": "https://www.theatlantic.com/health/2026/03/means-kennedy-vaccines-doctors-trust/686245/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-05T11:59:55-05:00"
+        },
+        {
+          "title": "‘The Most Dangerous Man in the World’",
+          "url": "https://www.theatlantic.com/international/2026/03/mojtaba-khamenei-iran-supreme-leader/686243/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-05T11:10:00-05:00"
         },
         {
           "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
@@ -182,13 +182,13 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
-          "title": "Donald Trump to replace homeland security secretary Kristi Noem",
+          "title": "Trump ousts DHS secretary Kristi Noem and replaces her with Republican senator",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 18:57:53 GMT"
         },
         {
-          "title": "Trump removes Kristi Noem as homeland security secretary – US politics live",
+          "title": "Trump replaces homeland security secretary Kristi Noem with ‘Maga warrior’ Markwayne Mullin– US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 18:56:23 GMT"
