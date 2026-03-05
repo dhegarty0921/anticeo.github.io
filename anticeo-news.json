@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T21:00:30.109240Z",
+  "generated_at": "2026-03-05T21:05:30.649103Z",
   "headline": {
     "title": "Who is Markwayne Mullin, Trump's new pick for Homeland Security secretary?",
     "url": "https://www.bbc.com/news/articles/c4g5xd2p7vqo?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2026-03-05T14:03:16-05:00"
         },
         {
+          "title": "More young women are dying from heart disease — and people are missing these warning signs",
+          "url": "https://www.vox.com/health/481621/heart-attack-disease-symptoms-women-warning-signs",
+          "source": "Vox",
+          "ts": "2026-03-05T16:00:00-05:00"
+        },
+        {
           "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
           "url": "https://www.vox.com/technology/481444/ai-chatgpt-teen-boys-teenagers-dating-relationships",
           "source": "Vox",
@@ -176,10 +182,10 @@
           "ts": "2026-03-05T07:15:00-05:00"
         },
         {
-          "title": "Iran had a plan to fight Israel and the US. It all collapsed after October 7.",
-          "url": "https://www.vox.com/politics/481608/iran-axis-resistance-october-7-israel",
-          "source": "Vox",
-          "ts": "2026-03-04T18:00:00-05:00"
+          "title": "Suspect apprehended after three women found dead in rural Utah",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 21:01:05 GMT"
         },
         {
           "title": "Trump fires Kristi Noem; replacement pick Markwayne Mullin says nomination is ‘pretty humbling’ – US politics live",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 20:47:08 GMT"
-        },
-        {
-          "title": "Suspect apprehended after three women found dead in rural Utah",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 20:13:58 GMT"
         }
       ]
     },
