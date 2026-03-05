@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T18:40:34.245667Z",
+  "generated_at": "2026-03-05T18:45:25.338605Z",
   "headline": {
     "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
     "url": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 06:55:42 -0500"
         },
         {
+          "title": "House Republicans Tell Gonzales to Quit Re-Election Campaign",
+          "url": "https://www.nytimes.com/live/2026/03/05/us/trump-news/house-republicans-gonzales",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 18:39:13 +0000"
+        },
+        {
           "title": "States Sue to Stop Trump From Reviving Steep Tariffs",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-ballroom-criticism.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 17:58:21 +0000"
-        },
-        {
-          "title": "An Assertive Supreme Court Turns to Curbing State Courts",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/supreme-court-emergency-docket.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 17:43:00 +0000"
         },
         {
           "title": "Trump says Cuba 'is going to fall'",
@@ -128,6 +128,12 @@
           "ts": "Thu, 05 Mar 2026 08:09:32 -0600"
         },
         {
+          "title": "Judge blocks DeSantis’ terrorist label of Muslim group",
+          "url": "https://religionnews.com/2026/03/05/cair-florida/",
+          "source": "RNS",
+          "ts": "Thu, 05 Mar 2026 18:43:08 +0000"
+        },
+        {
           "title": "Turkey’s Erdogan offers to try to revive a truce as Pakistan-Afghan border clashes enter sixth day",
           "url": "https://religionnews.com/2026/03/05/turkeys-erdogan-offers-to-try-to-revive-a-truce-as-pakistan-afghan-border-clashes-enter-sixth-day/",
           "source": "RNS",
@@ -138,12 +144,6 @@
           "url": "https://religionnews.com/2026/03/05/a-son-of-irans-late-supreme-leader-is-a-possible-candidate-to-replace-his-father-as-war-rages/",
           "source": "RNS",
           "ts": "Thu, 05 Mar 2026 17:02:53 +0000"
-        },
-        {
-          "title": "From Karachi to Beirut, Khamenei’s death sends shockwaves across the Shiite world",
-          "url": "https://religionnews.com/2026/03/05/from-karachi-to-beirut-khameneis-death-sends-shockwaves-across-the-shiite-world/",
-          "source": "RNS",
-          "ts": "Thu, 05 Mar 2026 16:59:52 +0000"
         },
         {
           "title": "Today’s <em>Atlantic</em> Trivia: Make No McStake",
