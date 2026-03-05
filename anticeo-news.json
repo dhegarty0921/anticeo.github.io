@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T14:40:34.086519Z",
+  "generated_at": "2026-03-05T14:45:30.869950Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 06:00:00 -0500"
         },
         {
+          "title": "Republicans Toil to Avoid Saying ‘War’ as Iran Conflict Widens",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/iran-war-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 14:40:54 +0000"
+        },
+        {
           "title": "Trump Wants a Quick Victory in Iran. But the War May Be Costly.",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-deaths.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/aipac-illinois-primaries.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 10:03:16 +0000"
-        },
-        {
-          "title": "The Long March of Presidential Power That Led to War on Iran",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-presidential-power.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 13:23:13 +0000"
         },
         {
           "title": "Rep. Tony Gonzales confesses affair with aide, denies responsibility for her suicide",
@@ -182,22 +182,22 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
-          "title": "Three women found dead in rural Utah as police search for suspect",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "title": "Trump administration to reportedly close controversial ICE jail in Texas",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-texas-ice-jail",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 14:01:42 GMT"
-        },
-        {
-          "title": "No deportation officer has been killed in the line of duty since ICE’s creation",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/ice-homeland-security-job-danger",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 14:00:04 GMT"
+          "ts": "Thu, 05 Mar 2026 14:31:30 GMT"
         },
         {
           "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 13:58:27 GMT"
+          "ts": "Thu, 05 Mar 2026 14:26:54 GMT"
+        },
+        {
+          "title": "Three women found dead in rural Utah as police search for suspect",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 14:01:42 GMT"
         }
       ]
     },
