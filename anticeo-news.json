@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T00:00:32.328308Z",
+  "generated_at": "2026-03-05T00:05:31.723534Z",
   "headline": {
     "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
     "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 16:50:29 -0500"
         },
         {
+          "title": "Whose Airstrike Hit a Girls’ School in Iran? The U.S. Says It’s Still Investigating.",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-iran-airstrike-girls-school.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 23:57:18 +0000"
+        },
+        {
           "title": "Noem and D.H.S. Inspector General Spar Over Obstruction Claim",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/noem-dhs-inspector-general.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 23:46:30 +0000"
-        },
-        {
-          "title": "What’s Next for Texas Under Trump? 4 Big Questions.",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-texas-paxton-talarico-house-runoff.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 23:31:51 +0000"
         },
         {
           "title": "Unverified sex assault claim against Trump at center of latest Epstein files release",
@@ -99,22 +99,28 @@
           "ts": "Wed, 04 Mar 2026 13:50:07 -0600"
         },
         {
-          "title": "Chick-fil-A faces another boycott over plans to return to UK",
-          "url": "https://www.thepinknews.com/2026/03/04/chick-fil-a-boycott-uk/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Mar 2026 16:56:29 +0000"
+          "title": "Senate rejects bid to scale back Iran war",
+          "url": "https://www.politico.com/news/2026/03/04/senate-rejects-war-powers-trump-00813233",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 17:28:55 EST"
         },
         {
-          "title": "Green Party leader Zack Polanski says ‘I know what it’s like to be othered’",
-          "url": "https://www.thepinknews.com/2026/03/04/zack-polanski-green-gay-trans-lgbtq/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Mar 2026 16:51:11 +0000"
+          "title": "War with Iran has ‘only just begun,’ Hegseth says",
+          "url": "https://www.politico.com/news/2026/03/04/hegset-iran-war-just-begun-00811889",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 10:18:15 EST"
         },
         {
-          "title": "Rosalía says her type is ‘gay men’ as she opens up about dating",
-          "url": "https://www.thepinknews.com/2026/03/04/rosalia-says-her-type-is-gay-men-as-she-opens-up-about-dating/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Mar 2026 13:50:32 +0000"
+          "title": "‘A Major Shock to the System’: POLITICO Reporters Dissect the Iran War Fallout",
+          "url": "https://www.politico.com/news/magazine/2026/03/04/iran-fallout-reporter-roundtable-00812016",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 16:00:57 EST"
+        },
+        {
+          "title": "White House claims Spain has ‘agreed to cooperate’ on strikes. Spain says it hasn’t.",
+          "url": "https://www.politico.eu/article/white-house-spain-iran-war-us-military/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 18:00:00 EST"
         }
       ]
     },
@@ -174,24 +180,6 @@
           "url": "https://www.vox.com/podcasts/481567/ai-claude-chatgpt-iran-war-pentagon-autonomous-weapons",
           "source": "Vox",
           "ts": "2026-03-04T15:10:00-05:00"
-        },
-        {
-          "title": "US tech firms pledge at White House to bear costs of energy for data centers",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 23:40:59 GMT"
-        },
-        {
-          "title": "Colorado governor likely to grant clemency to election denier Tina Peters, lawyer says",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/colorado-governor-tina-peters-election",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 22:41:23 GMT"
-        },
-        {
-          "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 22:41:03 GMT"
         }
       ]
     },
