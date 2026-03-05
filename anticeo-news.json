@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T12:26:00.250606Z",
+  "generated_at": "2026-03-05T12:30:32.743963Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
+          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 12:13:51 GMT"
+        },
+        {
           "title": "‘A subversion of the justice system’: DoJ shifts into Trump’s ‘political wing’ as criminal investigations accelerate",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-justice-department-politicization",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/05/democrats-moderate-third-way-elections",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 12:00:04 GMT"
-        },
-        {
-          "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 03:00:43 GMT"
         }
       ]
     },
