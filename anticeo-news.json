@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T18:16:39.916313Z",
+  "generated_at": "2026-03-05T18:20:35.881865Z",
   "headline": {
     "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
     "url": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss"
@@ -12,7 +12,7 @@
           "title": "Texas lawmaker admits 'lapse in judgement' in affair with aide",
           "url": "https://www.bbc.com/news/articles/cn5gg633qyzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 05 Mar 2026 12:17:30 GMT"
+          "ts": "Thu, 05 Mar 2026 18:19:00 GMT"
         },
         {
           "title": "Britney Spears arrested on suspicion of driving under the influence",
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 06:55:42 -0500"
         },
         {
+          "title": "States Sue to Stop Trump From Reviving Steep Tariffs",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/states-lawsuit-trump-tariffs.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 18:19:27 +0000"
+        },
+        {
           "title": "Board Delays Vote on Trump’s Ballroom Amid Deluge of Public Criticism",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-ballroom-criticism.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/supreme-court-emergency-docket.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 17:43:00 +0000"
-        },
-        {
-          "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
-          "url": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 15:56:57 +0000"
         },
         {
           "title": "Trump team hiring lawyers to fill gap from attorney departures",
@@ -146,7 +146,7 @@
           "ts": "Thu, 05 Mar 2026 16:59:52 +0000"
         },
         {
-          "title": "Talk to Your Doctor About Your Distrust of Public Health",
+          "title": "The Trump Administration Is Trying to Have Its Vaccine Policy Both Ways",
           "url": "https://www.theatlantic.com/health/2026/03/means-kennedy-vaccines-doctors-trust/686245/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-05T11:59:55-05:00"
@@ -185,7 +185,7 @@
           "title": "Donald Trump says he ‘must be involved’ in choosing Iran’s next supreme leader, reports say – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 18:08:16 GMT"
+          "ts": "Thu, 05 Mar 2026 18:14:54 GMT"
         },
         {
           "title": "Suspect apprehended after three women found dead in rural Utah",
