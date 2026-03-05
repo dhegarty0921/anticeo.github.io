@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T23:55:31.095025Z",
+  "generated_at": "2026-03-05T00:00:32.328308Z",
   "headline": {
     "title": "Pentagon identifies four of six US soldiers killed in Iran conflict",
     "url": "https://www.bbc.com/news/articles/c4gq33ynl07o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 04 Mar 2026 16:50:29 -0500"
         },
         {
+          "title": "Noem and D.H.S. Inspector General Spar Over Obstruction Claim",
+          "url": "https://www.nytimes.com/2026/03/04/us/politics/noem-dhs-inspector-general.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Mar 2026 23:54:24 +0000"
+        },
+        {
           "title": "What to Know About the Texas Runoffs in May: Key Races and Candidates",
           "url": "https://www.nytimes.com/2026/03/04/us/politics/texas-primaries-runoffs-may.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/04/us/politics/trump-texas-paxton-talarico-house-runoff.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Mar 2026 23:31:51 +0000"
-        },
-        {
-          "title": "Senate Thwarts Bid to Curb Trump’s War Powers on Iran",
-          "url": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Mar 2026 22:32:09 +0000"
         },
         {
           "title": "Unverified sex assault claim against Trump at center of latest Epstein files release",
@@ -176,6 +176,12 @@
           "ts": "2026-03-04T15:10:00-05:00"
         },
         {
+          "title": "US tech firms pledge at White House to bear costs of energy for data centers",
+          "url": "https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Mar 2026 23:40:59 GMT"
+        },
+        {
           "title": "Colorado governor likely to grant clemency to election denier Tina Peters, lawyer says",
           "url": "https://www.theguardian.com/us-news/2026/mar/04/colorado-governor-tina-peters-election",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/04/donald-trump-pete-hegseth-iran-james-talarico-primaries-midterms-immigration-minnesota-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Mar 2026 22:41:03 GMT"
-        },
-        {
-          "title": "Senate votes down resolution to prevent Trump from continuing war with Iran",
-          "url": "https://www.theguardian.com/us-news/2026/mar/04/us-israeli-iran-war-senate-vote-congress-prevent-trump",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Mar 2026 22:27:59 GMT"
         }
       ]
     },
