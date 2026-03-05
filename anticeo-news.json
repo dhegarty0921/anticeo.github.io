@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T15:55:30.835150Z",
+  "generated_at": "2026-03-05T16:00:34.124705Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
+          "title": "Pakistani man on trial in Brooklyn for Trump assassination plot says he was recruited by Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/pakistani-man-trial-trump-assassination-plot-iran",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 15:43:11 GMT"
+        },
+        {
           "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 15:26:59 GMT"
-        },
-        {
-          "title": "Trump administration to reportedly close controversial ICE jail in Texas",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-texas-ice-jail",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 14:31:30 GMT"
         }
       ]
     },
