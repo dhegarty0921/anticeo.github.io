@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T19:45:30.864784Z",
+  "generated_at": "2026-03-05T19:50:32.813227Z",
   "headline": {
     "title": "'Gaudy' - Vote on Trump's White House ballroom postponed amid deluge of criticism",
     "url": "https://www.bbc.com/news/articles/cz6eeq81z1go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 06:55:48 -0500"
         },
         {
+          "title": "Lindsey Halligan Is Under Investigation by the Florida Bar",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 19:47:25 +0000"
+        },
+        {
           "title": "How Trump’s Base Is Reacting to His War Message",
           "url": "https://www.nytimes.com/video/us/politics/100000010749958/how-trumps-base-is-reacting-to-his-war-message.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-iran-leader.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 19:32:17 +0000"
-        },
-        {
-          "title": "Senate Democrats Block D.H.S. Funding Again Over Enforcement Guardrails",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/senate-democrats-dhs-shutdown-ice-immigration.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 19:31:19 +0000"
         },
         {
           "title": "Trump says Cuba 'is going to fall'",
@@ -81,10 +81,10 @@
           "ts": "Thu, 05 Mar 2026 12:34:21 -0500"
         },
         {
-          "title": "America First? Trump's Iran Move Faces Concerns, Scrutiny",
-          "url": "https://www.realclearpolitics.com/2026/03/05/america_first_trumps_iran_move_faces_concerns_scrutiny_693603.html",
+          "title": "America First? Trump's Iran Move Faces Skepticism, Scrutiny",
+          "url": "https://www.realclearpolitics.com/2026/03/05/america_first_trumps_iran_move_faces_skepticism_scrutiny_693603.html",
           "source": "RealClearPolitics - Homepage",
-          "ts": "Thu, 05 Mar 2026 13:43:40 -0600"
+          "ts": "Thu, 05 Mar 2026 13:45:23 -0600"
         },
         {
           "title": "Iran Had a Plan To Fight. It All Collapsed After October 7",
@@ -99,22 +99,22 @@
           "ts": "Thu, 05 Mar 2026 13:39:25 -0600"
         },
         {
-          "title": "Anti-LGBTQ+ Republican claims voting was rigged after losing primary by landslide",
-          "url": "https://www.thepinknews.com/2026/03/05/anti-lgbtq-republican-claims-voting-was-rigged-after-losing-primary-by-landslide/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 05 Mar 2026 13:58:35 +0000"
+          "title": "Trump says he’ll help pick Iran’s leader, predicts regime change in Cuba",
+          "url": "https://www.politico.com/news/2026/03/05/trump-unleashed-president-bullish-on-iran-eyeing-regime-change-in-cuba-and-impatient-with-ukraine-00814292",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Thu, 05 Mar 2026 11:52:22 EST"
         },
         {
-          "title": "America’s Next Top Model star says it’s OK for women to be bisexual but not men",
-          "url": "https://www.thepinknews.com/2026/03/05/americas-next-top-model-jessica-white-bisexual-men/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 05 Mar 2026 13:51:47 +0000"
+          "title": "Trump puts Paxton on notice in Texas Senate primary in interview with POLITICO",
+          "url": "https://www.politico.com/news/2026/03/05/trump-paxton-texas-senate-primary-00814209",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Thu, 05 Mar 2026 11:24:32 EST"
         },
         {
-          "title": "Non-binary student sues school district after years of alleged harassment ignored",
-          "url": "https://www.thepinknews.com/2026/03/05/non-binary-student-lawsuit-school-trans-us/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 05 Mar 2026 12:49:16 +0000"
+          "title": "‘A Major Shock to the System’: POLITICO Reporters Dissect the Iran War Fallout",
+          "url": "https://www.politico.com/news/magazine/2026/03/04/iran-fallout-reporter-roundtable-00812016",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 16:00:57 EST"
         }
       ]
     },
@@ -126,6 +126,12 @@
           "url": "https://www.realclearinvestigations.com/articles/2026/03/05/transparency_suing_schools_that_hide_trans_kids_identities_from_parents_1168501.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Thu, 05 Mar 2026 08:09:32 -0600"
+        },
+        {
+          "title": "MAGA embrace: Europe’s nationalists head to Washington",
+          "url": "https://www.politico.eu/article/maga-embrace-europes-nationalists-head-to-washington/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 04 Mar 2026 22:08:42 EST"
         },
         {
           "title": "When the bombs fall on other people’s children",
@@ -180,24 +186,6 @@
           "url": "https://www.vox.com/the-highlight/480155/will-ai-replace-your-job",
           "source": "Vox",
           "ts": "2026-03-05T06:00:00-05:00"
-        },
-        {
-          "title": "Trump fires homeland security secretary Kristi Noem as Democrats welcome her exit – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 19:37:42 GMT"
-        },
-        {
-          "title": "Florida college Republicans group chat reveals racist texts: ‘Avoid the coloreds like the plague’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/florida-international-university-racist-group-chat",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 19:30:46 GMT"
-        },
-        {
-          "title": "Trump ousts DHS secretary Kristi Noem and replaces her with Republican senator",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 18:57:53 GMT"
         }
       ]
     },
