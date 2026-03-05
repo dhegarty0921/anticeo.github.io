@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T20:55:31.088388Z",
+  "generated_at": "2026-03-05T21:00:30.109240Z",
   "headline": {
     "title": "Who is Markwayne Mullin, Trump's new pick for Homeland Security secretary?",
     "url": "https://www.bbc.com/news/articles/c4g5xd2p7vqo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 06:55:48 -0500"
         },
         {
+          "title": "FEMA Delays Under Noem Angered Republicans",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-fema-disaster.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 20:51:06 +0000"
+        },
+        {
           "title": "Pokémon Company Objects to White House Use for Its Political Memes",
           "url": "https://www.nytimes.com/2026/03/05/arts/pokemon-company-white-house-memes.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/climate/climate-forward-science-federal-cuts.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 19:50:05 +0000"
-        },
-        {
-          "title": "Lindsey Halligan Is Under Investigation by the Florida Bar",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 19:47:25 +0000"
         },
         {
           "title": "Two dozen blue states sue over Trump's new tariffs",
@@ -128,6 +128,12 @@
           "ts": "Thu, 05 Mar 2026 08:09:32 -0600"
         },
         {
+          "title": "In Nigeria’s protracted violence, debate over whether religion is the cause, or the casualty",
+          "url": "https://religionnews.com/2026/03/05/in-nigerias-protracted-violence-debate-over-whether-religion-is-the-cause-or-the-casualty/",
+          "source": "RNS",
+          "ts": "Thu, 05 Mar 2026 20:55:34 +0000"
+        },
+        {
           "title": "The Western Wall isn’t just a public place — it’s an Orthodox synagogue",
           "url": "https://religionnews.com/2026/03/05/the-western-wall-isnt-just-a-public-place-its-an-orthodox-synagogue/",
           "source": "RNS",
@@ -138,12 +144,6 @@
           "url": "https://religionnews.com/2026/03/05/when-the-bombs-fall-on-other-peoples-children-iran-minab-girls-school/",
           "source": "RNS",
           "ts": "Thu, 05 Mar 2026 19:21:00 +0000"
-        },
-        {
-          "title": "Judge blocks DeSantis’ terrorist label of Muslim group",
-          "url": "https://religionnews.com/2026/03/05/cair-florida/",
-          "source": "RNS",
-          "ts": "Thu, 05 Mar 2026 18:43:08 +0000"
         },
         {
           "title": "Looks Like We’ve Democratized Insider Trading",
@@ -185,19 +185,19 @@
           "title": "Trump fires Kristi Noem; replacement pick Markwayne Mullin says nomination is ‘pretty humbling’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 20:37:32 GMT"
+          "ts": "Thu, 05 Mar 2026 20:47:13 GMT"
+        },
+        {
+          "title": "Trump fires homeland security secretary Kristi Noem",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-kristi-noem-homeland-security",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 20:47:08 GMT"
         },
         {
           "title": "Suspect apprehended after three women found dead in rural Utah",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 20:13:58 GMT"
-        },
-        {
-          "title": "New York and other US states sue Trump over ‘illegal and reckless’ tariffs",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-tariff-lawsuit",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 20:10:16 GMT"
         }
       ]
     },
