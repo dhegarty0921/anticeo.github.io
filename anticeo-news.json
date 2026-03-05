@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T11:07:00.997731Z",
+  "generated_at": "2026-03-05T11:11:31.560856Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Wed, 04 Mar 2026 21:57:57 GMT"
         },
         {
+          "title": "In lawsuit, Minnesota accuses Trump administration of 'weaponizing' Medicaid funding",
+          "url": "https://www.npr.org/2026/03/05/nx-s1-5736589/medicaid-funding-lawsuit-minnesota-trump",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 05 Mar 2026 06:00:00 -0500"
+        },
+        {
           "title": "A run for their money: Young candidates rival older incumbents in midterm fundraising",
           "url": "https://www.npr.org/2026/03/05/nx-s1-5736533/midterms-fundraising-democrats",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/05/nx-s1-5735879/texas-gop-rep-tony-gonzales-faces-runoff-amid-a-new-house-ethics-probe",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 05 Mar 2026 04:46:56 -0500"
-        },
-        {
-          "title": "Trump faces criticism for not have evacuation plans in place before starting the war",
-          "url": "https://www.npr.org/2026/03/04/nx-s1-5734489/trump-faces-criticism-for-not-have-evacuation-plans-in-place-before-starting-the-war",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 04 Mar 2026 17:39:57 -0500"
         },
         {
           "title": "Trump Wants a Quick Victory in Iran. But the War May Be Costly.",
@@ -158,22 +158,22 @@
           "ts": "2026-03-04T18:01:00-05:00"
         },
         {
+          "title": "4 reasons why AI (probably) won’t take your job",
+          "url": "https://www.vox.com/the-highlight/480155/will-ai-replace-your-job",
+          "source": "Vox",
+          "ts": "2026-03-05T06:00:00-05:00"
+        },
+        {
+          "title": "The giant loophole that lets Big Dairy keep baby cows in solitary confinement",
+          "url": "https://www.vox.com/the-highlight/480529/calf-ranches-grimmius-investigation-dairy-confinement",
+          "source": "Vox",
+          "ts": "2026-03-05T06:00:00-05:00"
+        },
+        {
           "title": "Iran had a plan to fight Israel and the US. It all collapsed after October 7.",
           "url": "https://www.vox.com/politics/481608/iran-axis-resistance-october-7-israel",
           "source": "Vox",
           "ts": "2026-03-04T18:00:00-05:00"
-        },
-        {
-          "title": "What the Iran war is costing you, briefly explained",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/481629/iran-war-oil-gas-prices-strait-hormuz",
-          "source": "Vox",
-          "ts": "2026-03-04T17:40:00-05:00"
-        },
-        {
-          "title": "How the US might be using AI in Iran",
-          "url": "https://www.vox.com/podcasts/481567/ai-claude-chatgpt-iran-war-pentagon-autonomous-weapons",
-          "source": "Vox",
-          "ts": "2026-03-04T15:10:00-05:00"
         },
         {
           "title": "White House pushes back against mounting questions over any US involvement in Iran school strike – as it happened",
