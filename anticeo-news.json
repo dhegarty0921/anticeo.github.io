@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T22:00:29.561078Z",
+  "generated_at": "2026-03-05T22:05:30.381680Z",
   "headline": {
     "title": "House rejects bid to curb Trump's war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c98qm5m8dj6o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 11:11:09 -0500"
         },
         {
+          "title": "House Turns Back Bid to Restrict Trump’s War Powers in Iran",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 21:59:24 +0000"
+        },
+        {
           "title": "As Noem Speaks in Nashville, Senate Swarms Mullin",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-fema-disaster.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 21:17:49 +0000"
-        },
-        {
-          "title": "Pokémon Company Objects to White House’s Political Memes",
-          "url": "https://www.nytimes.com/2026/03/05/arts/pokemon-company-white-house-memes.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 21:45:39 +0000"
         },
         {
           "title": "Two dozen blue states sue over Trump's new tariffs",
