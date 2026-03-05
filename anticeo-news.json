@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T16:10:31.021746Z",
+  "generated_at": "2026-03-05T16:15:32.888057Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Thu, 05 Mar 2026 12:17:30 GMT"
         },
         {
+          "title": "President Trump, Pam Bondi sued over sale of TikTok assets",
+          "url": "https://www.npr.org/2026/03/05/g-s1-112605/tiktok-deal-lawsuit-trump-bondi",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 05 Mar 2026 11:11:09 -0500"
+        },
+        {
           "title": "House to vote after Senate failed to constrain Trump's war in Iran",
           "url": "https://www.npr.org/2026/03/05/nx-s1-5736094/house-to-vote-after-senate-failed-to-constrain-trumps-war-in-iran",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/05/nx-s1-5735876/sen-ron-johnson-opposes-congress-voting-on-iran-war-because-it-would-show-us-divided",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 05 Mar 2026 06:55:42 -0500"
-        },
-        {
-          "title": "In lawsuit, Minnesota accuses Trump administration of 'weaponizing' Medicaid funding",
-          "url": "https://www.npr.org/2026/03/05/nx-s1-5736589/medicaid-funding-lawsuit-minnesota-trump",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 05 Mar 2026 06:00:00 -0500"
         },
         {
           "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
@@ -182,22 +182,22 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
-          "title": "Pakistani man on trial in Brooklyn for Trump assassination plot says he was recruited by Iran",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/pakistani-man-trial-trump-assassination-plot-iran",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 15:43:11 GMT"
-        },
-        {
           "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 15:35:12 GMT"
+          "ts": "Thu, 05 Mar 2026 16:07:52 GMT"
         },
         {
           "title": "Suspect apprehended after three women found dead in rural Utah",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 15:26:59 GMT"
+          "ts": "Thu, 05 Mar 2026 16:05:49 GMT"
+        },
+        {
+          "title": "Pakistani man on trial in Brooklyn for Trump assassination plot says he was recruited by Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/pakistani-man-trial-trump-assassination-plot-iran",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 15:43:11 GMT"
         }
       ]
     },
