@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T14:15:33.685268Z",
+  "generated_at": "2026-03-05T14:20:33.714434Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -146,6 +146,12 @@
           "ts": "Wed, 04 Mar 2026 20:53:43 +0000"
         },
         {
+          "title": "A Western That Goes Where Cormac McCarthy Wouldn’t",
+          "url": "https://www.theatlantic.com/books/2026/03/alvaro-enrigues-wild-western/686241/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-05T09:00:00-05:00"
+        },
+        {
           "title": "Trump’s Unauthorized War",
           "url": "https://www.theatlantic.com/ideas/2026/03/trump-unauthorized-war-iran/686239/?utm_source=feed",
           "source": "The Atlantic",
@@ -156,12 +162,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/03/intelligence-concept/686121/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-05T08:00:00-05:00"
-        },
-        {
-          "title": "The Humiliation of J. D. Vance",
-          "url": "https://www.theatlantic.com/ideas/2026/03/vance-declining-relevance-iran/686234/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-05T06:00:00-05:00"
         },
         {
           "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
@@ -182,22 +182,22 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
+          "title": "Three women found dead in rural Utah as police search for suspect",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 14:01:42 GMT"
+        },
+        {
+          "title": "No deportation officer has been killed in the line of duty since ICE’s creation",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/ice-homeland-security-job-danger",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 14:00:04 GMT"
+        },
+        {
           "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 13:42:51 GMT"
-        },
-        {
-          "title": "Trump administration is failing to address spread of measles, experts say",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/trump-administration-measles",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 13:00:03 GMT"
-        },
-        {
-          "title": "‘It’s discrimination’: US Small Business Administration cuts off loans to immigrant entrepreneurs",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/small-business-administration-loans-immigrant-entrepreneurs",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 13:00:01 GMT"
+          "ts": "Thu, 05 Mar 2026 13:58:27 GMT"
         }
       ]
     },
