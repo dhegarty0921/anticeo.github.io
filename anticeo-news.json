@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T22:50:31.302610Z",
+  "generated_at": "2026-03-05T22:55:29.905607Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 14:20:38 -0500"
         },
         {
+          "title": "Israel Begins Assault in Southern Beirut, Raising Fears of Wider Incursion",
+          "url": "https://www.nytimes.com/2026/03/05/world/middleeast/israel-evacuation-lebanon-iran-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 22:51:11 +0000"
+        },
+        {
           "title": "House Turns Back Bid to Restrict Trump’s War Powers in Iran",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-war-powers-iran-house-vote.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-fires-noem-gop-split-mullin.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 21:33:51 +0000"
-        },
-        {
-          "title": "FEMA Delays Under Kristi Noem Angered Republicans",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-fema-disaster.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 21:17:49 +0000"
         },
         {
           "title": "Prison abolitionist wins judge primary in North Carolina",
