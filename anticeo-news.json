@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T16:25:32.119380Z",
+  "generated_at": "2026-03-05T16:30:32.941805Z",
   "headline": {
     "title": "US Senate vote fails to rein in Trump war powers on Iran",
     "url": "https://www.bbc.com/news/articles/c5yjj28jjd0o?at_medium=RSS&at_campaign=rss"
@@ -146,12 +146,6 @@
           "ts": "Wed, 04 Mar 2026 21:57:11 +0000"
         },
         {
-          "title": "‘The Most Dangerous Man in the World’",
-          "url": "https://www.theatlantic.com/international/2026/03/mojtaba-khamenei-iran-supreme-leader/686243/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-05T11:10:00-05:00"
-        },
-        {
           "title": "<em>The Atlantic</em> Announces Sarah A. Topol and Jenisha Watts as Staff Writers",
           "url": "https://www.theatlantic.com/press-releases/2026/03/sarah-topol-jenisha-watts-staff-writers/686242/?utm_source=feed",
           "source": "The Atlantic",
@@ -162,6 +156,12 @@
           "url": "https://www.theatlantic.com/books/2026/03/alvaro-enrigues-wild-western/686241/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-05T09:00:00-05:00"
+        },
+        {
+          "title": "Trump’s Unauthorized War",
+          "url": "https://www.theatlantic.com/ideas/2026/03/trump-unauthorized-war-iran/686239/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-05T08:00:00-05:00"
         },
         {
           "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
@@ -182,16 +182,16 @@
           "ts": "2026-03-05T06:00:00-05:00"
         },
         {
+          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 16:24:49 GMT"
+        },
+        {
           "title": "‘What happened in Texas is a warning’: advocates say Republicans suppressed votes in the primaries",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/voter-suppression-texas-primaries",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 16:10:59 GMT"
-        },
-        {
-          "title": "House to vote on limiting Trump’s powers in Iran war after Senate measure fails – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 16:07:52 GMT"
         },
         {
           "title": "Suspect apprehended after three women found dead in rural Utah",
