@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T04:45:32.738801Z",
+  "generated_at": "2026-03-06T04:50:30.812797Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 14:20:38 -0500"
         },
         {
+          "title": "D.C. Court Strikes Down Local Ban on High-Capacity Gun Magazines",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/dc-court-gun-case.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 04:45:03 +0000"
+        },
+        {
           "title": "Representative Tony Gonzales Will Not Seek Re-election",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/tony-gonzales-resigns.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 01:57:07 +0000"
-        },
-        {
-          "title": "Timeline: The Rise and Fall of Kristi Noem as Trump’s DHS Secretary",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/kristi-noem-dhs-timeline.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 03:56:06 +0000"
         },
         {
           "title": "Senate passes bill to expand protections of minors' online data",
