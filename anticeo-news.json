@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T15:45:34.680469Z",
+  "generated_at": "2026-03-06T15:50:29.921168Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -140,22 +140,22 @@
           "ts": "Thu, 05 Mar 2026 20:08:02 +0000"
         },
         {
+          "title": "<em>America’s Next Top Model</em> Groomed a Generation",
+          "url": "https://www.theatlantic.com/culture/2026/03/reality-check-americas-next-top-model-netflix-documentary-review/686248/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T10:45:00-05:00"
+        },
+        {
+          "title": "The McCarthy Revivalists",
+          "url": "https://www.theatlantic.com/politics/2026/03/joseph-mccarthy-revivalism-trump/686258/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T10:35:26-05:00"
+        },
+        {
           "title": "Pete Hegseth’s Troubled Soul",
           "url": "https://www.theatlantic.com/politics/2026/03/pete-hegseth-briefings-iran/686260/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-06T10:25:15-05:00"
-        },
-        {
-          "title": "I Don’t Know How the War Is Going",
-          "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-war-confusion/686259/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T09:06:28-05:00"
-        },
-        {
-          "title": "Photos of the Week: Death Valley, Steam Train, Cherry Blossoms",
-          "url": "https://www.theatlantic.com/photography/2026/03/photos-of-the-week/686253/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T09:00:00-05:00"
         },
         {
           "title": "The real reason all of your eggs still aren&#8217;t cage-free",
@@ -176,12 +176,6 @@
           "ts": "2026-03-06T07:00:00-05:00"
         },
         {
-          "title": "Panel reviewing Trump’s $400m White House ballroom postpones vote",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/white-house-ballroom-panel-vote-postponed",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Mar 2026 15:31:11 GMT"
-        },
-        {
           "title": "Democrats celebrate Kristi Noem’s ouster but warn of battle to come for future of DHS – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
@@ -192,6 +186,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/06/children-care-relatives-family-us",
           "source": "US news | The Guardian",
           "ts": "Fri, 06 Mar 2026 15:00:26 GMT"
+        },
+        {
+          "title": "‘Abject cruelty’: review of 911 calls from Texas ICE detention facility reveals disturbing conditions",
+          "url": "https://www.theguardian.com/us-news/2026/mar/06/texas-ice-detention-center-el-paso",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 14:29:34 GMT"
         }
       ]
     },
