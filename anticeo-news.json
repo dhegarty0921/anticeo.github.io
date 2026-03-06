@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T01:10:30.389971Z",
+  "generated_at": "2026-03-06T01:15:30.421550Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 14:20:38 -0500"
         },
         {
+          "title": "Minnesota Governor Walz and Minneapolis Mayor Welcome Kristi Noem’s Firing",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/minnesota-kristi-noem-walz.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 01:05:00 +0000"
+        },
+        {
           "title": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/steve-daines-montana-senate-alme.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 01:03:44 +0000"
-        },
-        {
-          "title": "Senator Blumenthal Pushes to Investigate Kristi Noem for Perjury",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 00:29:08 +0000"
         },
         {
           "title": "Senate Democrats again block Homeland Security funding, ignore GOP warnings of Iran war needs",
