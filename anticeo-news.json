@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T00:30:29.009327Z",
+  "generated_at": "2026-03-06T00:35:36.244291Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -21,10 +21,10 @@
           "ts": "Thu, 05 Mar 2026 21:11:49 GMT"
         },
         {
-          "title": "US House rejects bid to curb Trump's war powers on Iran",
+          "title": "White House welcomes Congress' green light for Iran conflict",
           "url": "https://www.bbc.com/news/articles/c98qm5m8dj6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 05 Mar 2026 21:46:06 GMT"
+          "ts": "Fri, 06 Mar 2026 00:32:25 GMT"
         },
         {
           "title": "Vance balances role as Trump's deputy and his own ambitions",
@@ -164,22 +164,28 @@
           "ts": "2026-03-05T17:07:19-05:00"
         },
         {
-          "title": "The firing of Kristi Noem, briefly explained",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/481753/kristi-noem-homeland-security-fired-trump-markwayne-mullin",
-          "source": "Vox",
-          "ts": "2026-03-05T18:00:00-05:00"
-        },
-        {
-          "title": "More young women are dying from heart disease — and people are missing these warning signs",
-          "url": "https://www.vox.com/health/481621/heart-attack-disease-symptoms-women-warning-signs",
-          "source": "Vox",
-          "ts": "2026-03-05T16:00:00-05:00"
-        },
-        {
           "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
           "url": "https://www.vox.com/technology/481444/ai-chatgpt-teen-boys-teenagers-dating-relationships",
           "source": "Vox",
           "ts": "2026-03-05T07:45:00-05:00"
+        },
+        {
+          "title": "The surprising gender gap at the heart of America’s baby bust",
+          "url": "https://www.vox.com/podcasts/480877/gen-z-men-wanna-be-dads",
+          "source": "Vox",
+          "ts": "2026-03-05T07:15:00-05:00"
+        },
+        {
+          "title": "4 reasons why AI (probably) won’t take your job",
+          "url": "https://www.vox.com/the-highlight/480155/will-ai-replace-your-job",
+          "source": "Vox",
+          "ts": "2026-03-05T06:00:00-05:00"
+        },
+        {
+          "title": "Man charged with aggravated murder in killings of three women in Utah",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 00:11:21 GMT"
         },
         {
           "title": "Democrats say ‘good riddance’ to Kristi Noem after Trump fires her; DHS replacement pick calls nomination ‘pretty humbling’ – live",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-homeland-security-timeline",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 23:53:38 GMT"
-        },
-        {
-          "title": "Kristi Noem confronts grim truth that everyone is expendable in Trump world",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-fired",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 23:48:38 GMT"
         }
       ]
     },
