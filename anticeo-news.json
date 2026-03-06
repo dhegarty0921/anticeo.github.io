@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T17:35:31.631821Z",
+  "generated_at": "2026-03-06T17:40:32.155029Z",
   "headline": {
     "title": "US economy unexpectedly sheds 92,000 jobs in February",
     "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Fri, 06 Mar 2026 14:50:36 GMT"
         },
         {
-          "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
-          "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
+          "title": "Canada and US resume trade talks after months-long pause",
+          "url": "https://www.bbc.com/news/articles/cvg50j7y2l3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 05 Mar 2026 22:16:24 GMT"
+          "ts": "Fri, 06 Mar 2026 17:25:33 GMT"
         },
         {
-          "title": "From killing her dog to luxury jets: Six times Kristi Noem made headlines",
-          "url": "https://www.bbc.com/news/articles/ce94mggvp9do?at_medium=RSS&at_campaign=rss",
+          "title": "Pokémon condemns White House for using its imagery",
+          "url": "https://www.bbc.com/news/articles/cj4z0l8wvvdo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Fri, 06 Mar 2026 11:12:07 GMT"
+          "ts": "Fri, 06 Mar 2026 17:35:36 GMT"
         },
         {
           "title": "Trump fires Kristi Noem as head of DHS, names Oklahoma senator as her replacement",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Iran War Has Given Lebanon an Opportunity",
+          "url": "https://www.theatlantic.com/international/2026/03/lebanon-hezbollah-israel-iran/686262/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T12:23:00-05:00"
+        },
+        {
           "title": "Six Days of War, 10 Rationales",
           "url": "https://www.theatlantic.com/national-security/2026/03/iran-war-rationales-trump/686255/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/03/pushing-limits-historical-fiction/686263/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-06T11:15:00-05:00"
-        },
-        {
-          "title": "What <em>America’s Next Top Model </em>Was Really Selling",
-          "url": "https://www.theatlantic.com/culture/2026/03/reality-check-americas-next-top-model-netflix-documentary-review/686248/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T10:45:00-05:00"
         },
         {
           "title": "The real reason all of your eggs still aren&#8217;t cage-free",
@@ -161,19 +161,19 @@
           "title": "Democrats attack Trump after US jobs report shows economy ‘teetering on the edge of a recession’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 06 Mar 2026 17:12:04 GMT"
+          "ts": "Fri, 06 Mar 2026 17:25:34 GMT"
         },
         {
-          "title": "Trump sacks ‘ICE Barbie’ Kristi Noem – The Latest",
+          "title": "US senator seeks perjury investigation into Kristi Noem over DHS spending",
+          "url": "https://www.theguardian.com/us-news/2026/mar/06/kristi-noem-congress-investigation",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 17:17:15 GMT"
+        },
+        {
+          "title": "Trump sacks Kristi Noem: what does it mean for ICE? – The Latest",
           "url": "https://www.theguardian.com/us-news/audio/2026/mar/06/trump-sacks-ice-barbie-kristi-noem-the-latest",
           "source": "US news | The Guardian",
           "ts": "Fri, 06 Mar 2026 17:11:38 GMT"
-        },
-        {
-          "title": "White House releases video promoting ‘justice the American way’ featuring Hollywood characters",
-          "url": "https://www.theguardian.com/us-news/2026/mar/06/white-house-propaganda-video-characters",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Mar 2026 16:35:46 GMT"
         }
       ]
     },
