@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T20:00:32.095245Z",
+  "generated_at": "2026-03-06T20:05:31.795123Z",
   "headline": {
     "title": "Withheld Epstein files with accusations against Trump released by justice department",
     "url": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Fri, 06 Mar 2026 17:25:33 GMT"
         },
         {
+          "title": "No lawsuits required: U.S. Customs is working on a system to refund tariffs",
+          "url": "https://www.npr.org/2026/03/06/nx-s1-5739361/tariff-refunds-customs-lawsuits-trade-court",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 06 Mar 2026 14:54:40 -0500"
+        },
+        {
           "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
           "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
           "source": "NPR Topics: Politics",
@@ -39,10 +45,10 @@
           "ts": "Fri, 06 Mar 2026 14:02:52 -0500"
         },
         {
-          "title": "Trump fires Kristi Noem as head of DHS, names Oklahoma senator as her replacement",
-          "url": "https://www.npr.org/2026/03/06/nx-s1-5737623/trump-fires-kristi-noem-as-head-of-dhs-names-oklahoma-senator-as-her-replacement",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Mar 2026 06:46:58 -0500"
+          "title": "Jeremy Larner, Who Wrote ‘The Candidate,’ a Political Film Classic, Dies at 88",
+          "url": "https://www.nytimes.com/2026/03/06/movies/jeremy-larner-dead.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 19:59:43 +0000"
         },
         {
           "title": "Top National Symphony Leader Quits in New Blow to Kennedy Center",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/06/us/politics/todd-young-trump-iran-war-powers.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 18:27:47 +0000"
-        },
-        {
-          "title": "Trump Demands ‘Unconditional Surrender’ by Iran",
-          "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 18:36:44 +0000"
         },
         {
           "title": "Lawmaker seeks emergency court order to stop Trump demolishing Kennedy Center",
@@ -122,22 +122,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The moral danger of war with Iran — and the danger of ignoring evil",
-          "url": "https://religionnews.com/2026/03/06/the-moral-danger-of-war-with-iran-and-the-danger-of-ignoring-evil/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 18:57:29 +0000"
-        },
-        {
-          "title": "Forbidden love finds a way in new memoir about Israeli-Palestinian couple",
-          "url": "https://religionnews.com/2026/03/06/forbidden-love-finds-a-way-in-new-memoir-about-israeli-palestinian-couple/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 15:59:26 +0000"
-        },
-        {
-          "title": "Beth Moore, influential Bible teacher, to step back from large events",
-          "url": "https://religionnews.com/2026/03/05/beth-moore-to-end-living-proof-events-in-2027/",
-          "source": "RNS",
-          "ts": "Thu, 05 Mar 2026 22:59:09 +0000"
+          "title": "The Economy’s Warning Light Is Flashing Yellow",
+          "url": "https://www.theatlantic.com/economy/2026/03/economy-warning-jobs-report/686273/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T14:45:00-05:00"
         },
         {
           "title": "The Gulf Countries Can’t Take Much More",
@@ -150,12 +138,6 @@
           "url": "https://www.theatlantic.com/podcasts/2026/03/did-netflix-ruin-movies/686261/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-06T13:00:00-05:00"
-        },
-        {
-          "title": "America’s and Israel’s Goals Are Already Colliding",
-          "url": "https://www.theatlantic.com/international/2026/03/trump-netanyahu-iran-war/686267/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T12:56:00-05:00"
         },
         {
           "title": "The real reason all of your eggs still aren&#8217;t cage-free",
