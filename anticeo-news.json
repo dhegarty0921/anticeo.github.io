@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T18:30:29.649815Z",
+  "generated_at": "2026-03-06T18:35:30.999026Z",
   "headline": {
     "title": "US economy unexpectedly sheds 92,000 jobs in February",
     "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 06 Mar 2026 06:46:43 -0500"
         },
         {
+          "title": "Why a G.O.P. War Powers Hawk Was a No on Reining Trump In on Iran",
+          "url": "https://www.nytimes.com/2026/03/06/us/politics/todd-young-trump-iran-war-powers.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 18:27:47 +0000"
+        },
+        {
           "title": "Trump Demands ‘Unconditional Surrender’ by Iran",
           "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-public-support.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 18:00:00 +0000"
-        },
-        {
-          "title": "Lawmaker Asks Court to Block Trump From Closing Kennedy Center",
-          "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-kennedy-center-lawsuit.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 17:10:42 +0000"
         },
         {
           "title": "Legionella found at federal building that holds ICE detainees in Baltimore",
