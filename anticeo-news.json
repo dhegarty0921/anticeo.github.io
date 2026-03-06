@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T20:25:30.761035Z",
+  "generated_at": "2026-03-06T20:30:30.177840Z",
   "headline": {
     "title": "Withheld Epstein files with accusations against Trump released by justice department",
     "url": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 06 Mar 2026 14:02:52 -0500"
         },
         {
+          "title": "How The Times Tracks Down the Connections Behind Trump’s Pardons",
+          "url": "https://www.nytimes.com/2026/03/06/us/politics/how-the-times-covers-pardons.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 20:25:13 +0000"
+        },
+        {
           "title": "Justice Dept. Pushes for Charges Against Cuban Leaders",
           "url": "https://www.nytimes.com/2026/03/06/us/politics/justice-dept-cuba-investigation.html",
           "source": "NYT > U.S. > Politics",
@@ -54,13 +60,7 @@
           "title": "Trump Regulatory Czar Jeffrey Clark Leaves White House",
           "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-administration-jeffrey-clark-exit.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 20:14:44 +0000"
-        },
-        {
-          "title": "Jeremy Larner, Who Wrote ‘The Candidate,’ a Political Film Classic, Dies at 88",
-          "url": "https://www.nytimes.com/2026/03/06/movies/jeremy-larner-dead.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 19:59:43 +0000"
+          "ts": "Fri, 06 Mar 2026 20:14:45 +0000"
         },
         {
           "title": "Lawmaker seeks emergency court order to stop Trump demolishing Kennedy Center",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Today’s <em>Atlantic</em> Trivia: What’s Light, Sweet, and Undrinkable?",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/daily-trivia-questions-answers-week-19/686213/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T15:05:00-05:00"
+        },
+        {
           "title": "The Economy’s Warning Light Is Flashing Yellow",
           "url": "https://www.theatlantic.com/economy/2026/03/economy-warning-jobs-report/686273/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/international/2026/03/gulf-countries-iran-us-war/686272/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-06T13:52:54-05:00"
-        },
-        {
-          "title": "Did Netflix Ruin Movies?",
-          "url": "https://www.theatlantic.com/podcasts/2026/03/did-netflix-ruin-movies/686261/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T13:00:00-05:00"
         },
         {
           "title": "The real reason all of your eggs still aren&#8217;t cage-free",
@@ -161,19 +161,19 @@
           "title": "Trump says Cuba is ‘going to fall pretty soon’ after White House comments – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 06 Mar 2026 19:55:25 GMT"
+          "ts": "Fri, 06 Mar 2026 20:11:07 GMT"
+        },
+        {
+          "title": "‘I’m relieved she’s gone’: Fema staffers celebrate ousting of Kristi Noem",
+          "url": "https://www.theguardian.com/us-news/2026/mar/06/fema-staffers-celebrate-firing-kristi-noem",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 20:06:59 GMT"
         },
         {
           "title": "David Copperfield announces last Vegas show, weeks after Epstein ties revealed",
           "url": "https://www.theguardian.com/us-news/2026/mar/06/david-copperfield-last-vegas-show",
           "source": "US news | The Guardian",
           "ts": "Fri, 06 Mar 2026 19:18:11 GMT"
-        },
-        {
-          "title": "Kristi Noem’s departure from the DHS won’t mean an end to agency’s violent tactics",
-          "url": "https://www.theguardian.com/us-news/2026/mar/06/kristi-noem-dhs-leadership-shakeup-analysis",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Mar 2026 19:01:50 GMT"
         }
       ]
     },
