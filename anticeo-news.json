@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T18:10:33.198502Z",
+  "generated_at": "2026-03-06T18:15:34.360836Z",
   "headline": {
     "title": "US economy unexpectedly sheds 92,000 jobs in February",
     "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
@@ -122,22 +122,22 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Did Netflix Ruin Movies?",
+          "url": "https://www.theatlantic.com/podcasts/2026/03/did-netflix-ruin-movies/686261/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T13:00:00-05:00"
+        },
+        {
+          "title": "Trump and Netanyahu Don’t Agree on How This Should End",
+          "url": "https://www.theatlantic.com/international/2026/03/trump-netanyahu-iran-war/686267/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-06T12:56:00-05:00"
+        },
+        {
           "title": "Something New Is Happening in Lebanon",
           "url": "https://www.theatlantic.com/international/2026/03/lebanon-hezbollah-israel-iran/686262/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-06T12:23:00-05:00"
-        },
-        {
-          "title": "Six Days of War, 10 Rationales",
-          "url": "https://www.theatlantic.com/national-security/2026/03/iran-war-rationales-trump/686255/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T11:37:06-05:00"
-        },
-        {
-          "title": "Pushing the Limits of Historical Fiction",
-          "url": "https://www.theatlantic.com/newsletters/2026/03/pushing-limits-historical-fiction/686263/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-06T11:15:00-05:00"
         },
         {
           "title": "The real reason all of your eggs still aren&#8217;t cage-free",
@@ -161,7 +161,7 @@
           "title": "Democrats attack Trump after US jobs report shows economy ‘teetering on the edge of a recession’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 06 Mar 2026 17:44:06 GMT"
+          "ts": "Fri, 06 Mar 2026 17:50:54 GMT"
         },
         {
           "title": "US preparing system to process refunds on billions in illegal Trump tariffs",
