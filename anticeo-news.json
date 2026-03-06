@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T00:50:30.530364Z",
+  "generated_at": "2026-03-06T00:55:31.252396Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 14:20:38 -0500"
         },
         {
+          "title": "State Department Is Accused of Slow Assistance in Iran War for Americans Abroad",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/state-department-iran-evacuations.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 00:53:25 +0000"
+        },
+        {
           "title": "Steve Daines’s Switcheroo Starts New Fight in Montana Senate Race",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/steve-daines-montana-senate-alme.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 00:29:08 +0000"
-        },
-        {
-          "title": "S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps’ Crypto Coins",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 00:26:28 +0000"
         },
         {
           "title": "Senate Democrats again block Homeland Security funding, ignore GOP warnings of Iran war needs",
@@ -99,22 +99,22 @@
           "ts": "Thu, 05 Mar 2026 13:39:25 -0600"
         },
         {
-          "title": "‘Dead in the water’: Anti-war GOP feel abandoned by Trump",
-          "url": "https://www.politico.com/news/2026/03/05/gop-restraint-trump-iran-abandoned-00815962",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 05 Mar 2026 19:20:03 EST"
+          "title": "Anti-LGBTQ+ Republican claims voting was rigged after losing primary by landslide",
+          "url": "https://www.thepinknews.com/2026/03/05/anti-lgbtq-republican-claims-voting-was-rigged-after-losing-primary-by-landslide/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Mar 2026 13:58:35 +0000"
         },
         {
-          "title": "Congress declines to halt Iran war",
-          "url": "https://www.politico.com/news/2026/03/05/congress-declines-to-halt-iran-war-00815284",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 05 Mar 2026 16:45:17 EST"
+          "title": "America’s Next Top Model star says it’s OK for women to be bisexual but not men",
+          "url": "https://www.thepinknews.com/2026/03/05/americas-next-top-model-jessica-white-bisexual-men/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Mar 2026 13:51:47 +0000"
         },
         {
-          "title": "Warren Davidson is a rare hard-line Republican questioning the Middle East war",
-          "url": "https://www.politico.com/news/2026/03/05/warren-davidson-iran-war-opposition-00815280",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 05 Mar 2026 16:44:26 EST"
+          "title": "Non-binary student sues school district after years of alleged harassment ignored",
+          "url": "https://www.thepinknews.com/2026/03/05/non-binary-student-lawsuit-school-trans-us/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Mar 2026 12:49:16 +0000"
         }
       ]
     },
@@ -180,6 +180,24 @@
           "url": "https://www.vox.com/technology/481444/ai-chatgpt-teen-boys-teenagers-dating-relationships",
           "source": "Vox",
           "ts": "2026-03-05T07:45:00-05:00"
+        },
+        {
+          "title": "Democrats say ‘good riddance’ to Kristi Noem after Trump fires her; DHS replacement pick calls nomination ‘pretty humbling’ – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 00:31:25 GMT"
+        },
+        {
+          "title": "Man charged with aggravated murder in killings of three women in Utah",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/utah-women-dead-hiking-trail",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 00:11:21 GMT"
+        },
+        {
+          "title": "Minneapolis killings and deportation outrage: Kristi Noem’s scandal-plagued DHS tenure",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-homeland-security-timeline",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 23:53:38 GMT"
         }
       ]
     },
