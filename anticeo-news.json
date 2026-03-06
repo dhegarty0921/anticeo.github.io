@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T00:00:30.308912Z",
+  "generated_at": "2026-03-06T00:05:30.829728Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 05 Mar 2026 14:20:38 -0500"
         },
         {
+          "title": "Senator Blumenthal Pushes to Investigate Kristi Noem for Perjury",
+          "url": "https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Mar 2026 23:58:29 +0000"
+        },
+        {
           "title": "S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps’ Crypto Coins",
           "url": "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/05/us/politics/trump-noem-mullin-oklahoma-senate-seat-republicans.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Mar 2026 23:28:44 +0000"
-        },
-        {
-          "title": "Who Is Markwayne Mullin, Trump’s Pick for Homeland Security Secretary?",
-          "url": "https://www.nytimes.com/2026/03/05/us/politics/markwayne-mullin-trump-homeland-security.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Mar 2026 23:22:14 +0000"
         },
         {
           "title": "Prison abolitionist wins judge primary in North Carolina",
@@ -146,6 +146,12 @@
           "ts": "Thu, 05 Mar 2026 20:08:02 +0000"
         },
         {
+          "title": "A Current and Not-So-Short List of America’s Global Conflicts",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/america-global-conflicts-trump-iran-interventions/686256/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-05T18:46:00-05:00"
+        },
+        {
           "title": "The Glaring Oversight in the U.S. War Plan",
           "url": "https://www.theatlantic.com/national-security/2026/03/iran-war-drones-ukraine-pentagon/686249/?utm_source=feed",
           "source": "The Atlantic",
@@ -156,12 +162,6 @@
           "url": "https://www.theatlantic.com/health/2026/03/jay-bhattacharya-cdc/686252/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-05T16:39:57-05:00"
-        },
-        {
-          "title": "How Kristi Noem Lost Her Job",
-          "url": "https://www.theatlantic.com/ideas/2026/03/kristi-noem-fired/686251/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-05T16:38:58-05:00"
         },
         {
           "title": "The firing of Kristi Noem, briefly explained",
@@ -182,22 +182,22 @@
           "ts": "2026-03-05T07:45:00-05:00"
         },
         {
-          "title": "The worst of the worst: how Kristi Noem treated the American people ‘like dogs’",
+          "title": "Minneapolis killings and deportation outrage: Kristi Noem’s scandal-plagued DHS tenure",
+          "url": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-homeland-security-timeline",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Mar 2026 23:53:38 GMT"
+        },
+        {
+          "title": "Kristi Noem confronts grim truth that everyone is expendable in Trump world",
           "url": "https://www.theguardian.com/us-news/2026/mar/05/kristi-noem-fired",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 23:20:29 GMT"
+          "ts": "Thu, 05 Mar 2026 23:48:38 GMT"
         },
         {
           "title": "Democrats say ‘good riddance’ to Kristi Noem after Trump fires her; DHS replacement pick calls nomination ‘pretty humbling’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/05/donald-trump-war-powers-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Mar 2026 23:20:15 GMT"
-        },
-        {
-          "title": "Panel reviewing Trump’s $400m White House ballroom postpones vote",
-          "url": "https://www.theguardian.com/us-news/2026/mar/05/white-house-ballroom-panel-vote-postponed",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Mar 2026 22:00:01 GMT"
         }
       ]
     },
