@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T11:00:33.086394Z",
+  "generated_at": "2026-03-06T11:05:37.065153Z",
   "headline": {
     "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
     "url": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2026-03-05T17:07:19-05:00"
         },
         {
+          "title": "The elder care solution that everyone with aging parents should know about",
+          "url": "https://www.vox.com/the-highlight/480426/adult-day-care-caregiving-baby-boomers-sandwich-generation",
+          "source": "Vox",
+          "ts": "2026-03-06T06:00:00-05:00"
+        },
+        {
           "title": "The firing of Kristi Noem, briefly explained",
           "url": "https://www.vox.com/the-logoff-newsletter-trump/481753/kristi-noem-homeland-security-fired-trump-markwayne-mullin",
           "source": "Vox",
@@ -174,12 +180,6 @@
           "url": "https://www.vox.com/health/481621/heart-attack-disease-symptoms-women-warning-signs",
           "source": "Vox",
           "ts": "2026-03-05T16:00:00-05:00"
-        },
-        {
-          "title": "Teen boys are using ChatGPT as their wingman. What could go wrong?",
-          "url": "https://www.vox.com/technology/481444/ai-chatgpt-teen-boys-teenagers-dating-relationships",
-          "source": "Vox",
-          "ts": "2026-03-05T07:45:00-05:00"
         }
       ]
     },
