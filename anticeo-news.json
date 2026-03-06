@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T20:15:32.659838Z",
+  "generated_at": "2026-03-06T20:20:31.475008Z",
   "headline": {
     "title": "Withheld Epstein files with accusations against Trump released by justice department",
     "url": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 06 Mar 2026 14:02:52 -0500"
         },
         {
+          "title": "Trump Regulatory Czar Jeffrey Clark Leaves White House",
+          "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-administration-jeffrey-clark-exit.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 20:14:44 +0000"
+        },
+        {
           "title": "Jeremy Larner, Who Wrote ‘The Candidate,’ a Political Film Classic, Dies at 88",
           "url": "https://www.nytimes.com/2026/03/06/movies/jeremy-larner-dead.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 20:11:15 +0000"
-        },
-        {
-          "title": "Why a G.O.P. War Powers Hawk Was a No on Reining Trump In on Iran",
-          "url": "https://www.nytimes.com/2026/03/06/us/politics/todd-young-trump-iran-war-powers.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 18:27:47 +0000"
         },
         {
           "title": "Lawmaker seeks emergency court order to stop Trump demolishing Kennedy Center",
@@ -97,24 +97,6 @@
           "url": "https://www.realclearpolitics.com/2026/03/06/the_grand_senate_bargain_693668.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Fri, 06 Mar 2026 13:11:45 -0600"
-        },
-        {
-          "title": "Dems aren’t sure whether to actually spend big to flip Texas",
-          "url": "https://www.politico.com/news/2026/03/06/democrats-james-talarico-donors-spending-texas-00815690",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 06 Mar 2026 05:55:00 EST"
-        },
-        {
-          "title": "Top Mamdani aide takes progressive project to the UK",
-          "url": "https://www.politico.com/news/2026/03/06/mamdani-aide-british-progressives-00814876",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 06 Mar 2026 05:55:00 EST"
-        },
-        {
-          "title": "Mamdani’s Sunnyside Yard push illustrates shift on housing",
-          "url": "https://www.politico.com/news/2026/03/06/mamdanis-sunnyside-yard-push-illustrates-shift-on-housing-00813055",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 06 Mar 2026 05:55:00 EST"
         },
         {
           "title": "Here’s every single country’s Eurovision Song Contest 2026 entry, from Albania to the UK",
@@ -174,6 +156,24 @@
           "url": "https://www.vox.com/climate/481736/iran-war-us-israel-oil-energy-independence",
           "source": "Vox",
           "ts": "2026-03-06T07:00:00-05:00"
+        },
+        {
+          "title": "Trump says Cuba is ‘going to fall pretty soon’ after White House comments – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 19:55:25 GMT"
+        },
+        {
+          "title": "David Copperfield announces last Vegas show, weeks after Epstein ties revealed",
+          "url": "https://www.theguardian.com/us-news/2026/mar/06/david-copperfield-last-vegas-show",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 19:18:11 GMT"
+        },
+        {
+          "title": "Kristi Noem’s departure from the DHS won’t mean an end to agency’s violent tactics",
+          "url": "https://www.theguardian.com/us-news/2026/mar/06/kristi-noem-dhs-leadership-shakeup-analysis",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Mar 2026 19:01:50 GMT"
         }
       ]
     },
