@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T23:40:29.576488Z",
+  "generated_at": "2026-03-06T23:45:33.231890Z",
   "headline": {
     "title": "Withheld Epstein files with accusations against Trump released by justice department",
     "url": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 06 Mar 2026 14:02:52 -0500"
         },
         {
+          "title": "Iran War Poses Test for Justice Dept. After Firings Deplete National Security Ranks",
+          "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-iran-war-doj-dhs-firings.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Mar 2026 23:35:50 +0000"
+        },
+        {
           "title": "Russia Is Sharing Intelligence With Iran, U.S. Officials Say",
           "url": "https://www.nytimes.com/2026/03/06/us/politics/russia-iran-partnernship.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/06/us/politics/talarico-social-media-democrats-jobs-report.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Mar 2026 22:49:43 +0000"
-        },
-        {
-          "title": "Divisive F.D.A. Vaccine Regulator Resigns",
-          "url": "https://www.nytimes.com/2026/03/06/health/fda-prasad-resigns.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Mar 2026 22:36:34 +0000"
         },
         {
           "title": "Trump faces an awkward COVID reckoning of his own six years later",
