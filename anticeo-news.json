@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T04:41:01.006478Z",
+  "generated_at": "2026-03-07T04:46:02.870317Z",
   "headline": {
     "title": "Footage shows US citizen shot by ICE agent in Texas traffic stop",
     "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 06 Mar 2026 14:18:49 -0500"
         },
         {
+          "title": "Trump Calls On Private Companies to Take On a Bigger Role in Cyber",
+          "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-cybersecurity-strategy.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 07 Mar 2026 04:36:18 +0000"
+        },
+        {
           "title": "State Department Bypasses Congress to Send Israel More Than 20,000 Bombs",
           "url": "https://www.nytimes.com/2026/03/06/us/politics/state-department-bomb-sale-israel.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-us-weapons-stocks.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 07 Mar 2026 02:25:37 +0000"
-        },
-        {
-          "title": "Justice Dept. Denounces Federal Judges in Fight Against Law Firms",
-          "url": "https://www.nytimes.com/2026/03/06/us/politics/justice-department-law-firms-executive-orders.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 07 Mar 2026 02:07:46 +0000"
         },
         {
           "title": "Trump calls on Congress to pass bill aimed at bolstering college sports",
