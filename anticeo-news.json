@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T07:21:50.209997Z",
+  "generated_at": "2026-03-07T07:27:11.686302Z",
   "headline": {
     "title": "Footage shows US citizen shot by ICE agent in Texas traffic stop",
     "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Fri, 06 Mar 2026 17:58:33 GMT"
         },
         {
+          "title": "What the Trump administration says about why it went to war with Iran",
+          "url": "https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war",
+          "source": "NPR Topics: Politics",
+          "ts": "Sat, 07 Mar 2026 02:23:13 -0500"
+        },
+        {
           "title": "Trump looks to turn attention to Western Hemisphere at Americas summit",
           "url": "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/06/nx-s1-5740596/trump-administrations-embattled-fda-vaccine-chief-is-leaving-for-the-second-time",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 06 Mar 2026 21:38:53 -0500"
-        },
-        {
-          "title": "No lawsuits required: U.S. Customs is working on a system to refund tariffs",
-          "url": "https://www.npr.org/2026/03/06/nx-s1-5739361/tariff-refunds-customs-lawsuits-trade-court",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Mar 2026 14:54:40 -0500"
         },
         {
           "title": "Trump Calls On Private Companies to Take On a Bigger Role in Cyber",
@@ -121,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "‘A lie from the pit of hell’: Episcopal leaders push back on rumors of fatal decline",
+          "url": "https://religionnews.com/2026/03/06/the-episcopal-church-is-not-dead-yet-leaders-say-during-a-meeting-of-parishes/",
+          "source": "RNS",
+          "ts": "Fri, 06 Mar 2026 23:24:28 +0000"
+        },
+        {
+          "title": "4 men arrested in UK on suspicion of aiding Iran by spying on Jewish community",
+          "url": "https://religionnews.com/2026/03/06/4-men-arrested-in-uk-on-suspicion-of-aiding-iran-by-spying-on-jewish-community/",
+          "source": "RNS",
+          "ts": "Fri, 06 Mar 2026 22:23:20 +0000"
+        },
+        {
+          "title": "Israeli family who buried 3 of their children after missile attack clings to faith",
+          "url": "https://religionnews.com/2026/03/06/israeli-family-who-buried-3-of-their-children-after-missile-attack-clings-to-faith/",
+          "source": "RNS",
+          "ts": "Fri, 06 Mar 2026 22:19:42 +0000"
+        },
         {
           "title": "Operational Excellence, Strategic Incompetence",
           "url": "https://www.theatlantic.com/ideas/2026/03/iran-strategy-victory-disease/686275/?utm_source=feed",
