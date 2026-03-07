@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T02:45:55.739855Z",
+  "generated_at": "2026-03-07T02:51:13.633429Z",
   "headline": {
     "title": "Withheld Epstein files with accusations against Trump released by justice department",
     "url": "https://www.bbc.com/news/articles/c4g0dzg6e4mo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Fri, 06 Mar 2026 21:38:47 GMT"
         },
         {
+          "title": "Trump administration's embattled FDA vaccine chief is leaving for the second time",
+          "url": "https://www.npr.org/2026/03/06/nx-s1-5740596/trump-administrations-embattled-fda-vaccine-chief-is-leaving-for-the-second-time",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 06 Mar 2026 21:38:53 -0500"
+        },
+        {
           "title": "No lawsuits required: U.S. Customs is working on a system to refund tariffs",
           "url": "https://www.npr.org/2026/03/06/nx-s1-5739361/tariff-refunds-customs-lawsuits-trade-court",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 06 Mar 2026 14:18:49 -0500"
-        },
-        {
-          "title": "Poll: A majority of Americans opposes U.S. military action in Iran",
-          "url": "https://www.npr.org/2026/03/06/nx-s1-5737627/iran-us-military-poll-trump-approval",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Mar 2026 14:02:52 -0500"
         },
         {
           "title": "Trump Maintains That U.S. Has Ample Weapons as Iran War Depletes Stocks",
@@ -121,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "‘A lie from the pit of hell’: Episcopal leaders push back on rumors of fatal decline",
-          "url": "https://religionnews.com/2026/03/06/the-episcopal-church-is-not-dead-yet-leaders-say-during-a-meeting-of-parishes/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 23:24:28 +0000"
-        },
-        {
-          "title": "4 men arrested in UK on suspicion of aiding Iran by spying on Jewish community",
-          "url": "https://religionnews.com/2026/03/06/4-men-arrested-in-uk-on-suspicion-of-aiding-iran-by-spying-on-jewish-community/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 22:23:20 +0000"
-        },
-        {
-          "title": "Israeli family who buried 3 of their children after missile attack clings to faith",
-          "url": "https://religionnews.com/2026/03/06/israeli-family-who-buried-3-of-their-children-after-missile-attack-clings-to-faith/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 22:19:42 +0000"
-        },
         {
           "title": "An Epidemic of ‘Victory Disease’",
           "url": "https://www.theatlantic.com/ideas/2026/03/iran-strategy-victory-disease/686275/?utm_source=feed",
