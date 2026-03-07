@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T10:10:36.302292Z",
+  "generated_at": "2026-03-07T10:15:51.509300Z",
   "headline": {
     "title": "Footage shows US citizen shot by ICE agent in Texas traffic stop",
     "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-06T07:30:00-05:00"
         },
         {
+          "title": "Trump’s ever-changing rationale for war on Iran – how the story has shifted",
+          "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-rationale-war-iran-story",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Mar 2026 10:00:48 GMT"
+        },
+        {
           "title": "From ‘peace president’ to Operation Epic Fury: Donald Trump’s road to war",
           "url": "https://www.theguardian.com/us-news/2026/mar/07/from-peace-president-to-operation-epic-fury-donald-trumps-road-to-war",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/07/pakistani-man-convicted-of-plotting-to-kill-trump-over-death-of-iranian-commander",
           "source": "US news | The Guardian",
           "ts": "Sat, 07 Mar 2026 04:30:20 GMT"
-        },
-        {
-          "title": "Trump scolds Fox News reporter for question about Russia helping Iran target US troops – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 07 Mar 2026 03:07:28 GMT"
         }
       ]
     },
