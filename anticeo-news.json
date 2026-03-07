@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T21:15:31.298335Z",
+  "generated_at": "2026-03-07T21:20:37.391696Z",
   "headline": {
     "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
     "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 07 Mar 2026 02:23:13 -0500"
         },
         {
+          "title": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
+          "url": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 07 Mar 2026 21:15:15 +0000"
+        },
+        {
           "title": "How D.H.S. Retreated on Immigration Tactics After Minneapolis",
           "url": "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/07/magazine/rebecca-solnit-interview.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 07 Mar 2026 10:15:02 +0000"
-        },
-        {
-          "title": "Trump Witnesses Return of Bodies of U.S. Service Members",
-          "url": "https://www.nytimes.com/2026/03/07/us/politics/trump-dover-dignified-transfer-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 07 Mar 2026 21:14:49 +0000"
         },
         {
           "title": "Trump honors 6 soldiers killed in Iranian drone strike",
@@ -197,12 +197,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 07 Mar 2026 20:39:25 +0000"
-        },
-        {
-          "title": "Cuba says electricity plant successfully repaired after large blackout",
-          "url": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Mar 2026 20:34:18 +0000"
         }
       ]
     },
