@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T23:10:33.483707Z",
+  "generated_at": "2026-03-07T23:15:31.789817Z",
   "headline": {
     "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
     "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Sat, 07 Mar 2026 07:32:41 -0600"
         },
         {
-          "title": "The left’s housing civil war is ending",
-          "url": "https://www.politico.com/news/2026/03/07/mamdani-nithya-raman-housing-socialism-abundance-00817314",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 07 Mar 2026 14:01:00 EST"
-        },
-        {
-          "title": "‘Hurting peoples’ pocketbooks’: Hochul pushes to pare back landmark climate law",
-          "url": "https://www.politico.com/news/2026/03/07/new-york-governor-rethinks-climate-ambitions-00814743",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 07 Mar 2026 16:00:00 EST"
-        },
-        {
-          "title": "They Came to Spy on America. They Stayed to Coach Little League.",
-          "url": "https://www.politico.com/news/magazine/2026/03/07/soviet-spy-america-cold-war-00755831",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 07 Mar 2026 10:03:28 EST"
-        },
-        {
           "title": "Here’s every single country’s Eurovision Song Contest 2026 entry, from Albania to the UK",
           "url": "https://www.thepinknews.com/2026/03/06/heres-every-single-countrys-eurovision-song-contest-2026-entry-from-albania-to-the-uk/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -139,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
+          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
+        },
+        {
+          "title": "Pope Leo XIV taps career Vatican diplomat Archbishop Caccia as representative to the US",
+          "url": "https://religionnews.com/2026/03/07/pope-leo-xiv-taps-career-vatican-diplomat-archbishop-caccia-as-representative-to-the-us/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 12:35:55 +0000"
+        },
+        {
+          "title": "‘A lie from the pit of hell’: Episcopal leaders push back on rumors of fatal decline",
+          "url": "https://religionnews.com/2026/03/06/the-episcopal-church-is-not-dead-yet-leaders-say-during-a-meeting-of-parishes/",
+          "source": "RNS",
+          "ts": "Fri, 06 Mar 2026 23:24:28 +0000"
+        },
         {
           "title": "Winter Paralympics Photo of the Day: Flying Downhill",
           "url": "https://www.theatlantic.com/photography/2026/03/winter-paralympics-photo-day-flying-downhill/686288/?utm_source=feed",
@@ -174,6 +174,24 @@
           "url": "https://www.vox.com/future-perfect/481596/dogs-as-persons-habeas-corpus-ridglan-farms",
           "source": "Vox",
           "ts": "2026-03-07T06:30:00-05:00"
+        },
+        {
+          "title": "Trump tells Starmer help not needed even as US uses UK bases for Iran strikes",
+          "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-starmer-iran-criticism",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Mar 2026 22:37:00 GMT"
+        },
+        {
+          "title": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders",
+          "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Mar 2026 18:01:23 GMT"
+        },
+        {
+          "title": "ICE deports family, including deaf boy who wasn’t given his assistive devices",
+          "url": "https://www.theguardian.com/us-news/2026/mar/07/deaf-six-year-old-deported-colombia",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Mar 2026 14:00:53 GMT"
         }
       ]
     },
