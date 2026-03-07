@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T04:00:56.872845Z",
+  "generated_at": "2026-03-07T04:06:00.847799Z",
   "headline": {
     "title": "Footage shows US citizen shot by ICE agent in Texas traffic stop",
     "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 06 Mar 2026 14:18:49 -0500"
         },
         {
+          "title": "State Department Bypasses Congress to Send Israel More Than 20,000 Bombs",
+          "url": "https://www.nytimes.com/2026/03/06/us/politics/state-department-bomb-sale-israel.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 07 Mar 2026 04:03:56 +0000"
+        },
+        {
           "title": "Trump Maintains That U.S. Has Ample Weapons as Iran War Depletes Stocks",
           "url": "https://www.nytimes.com/2026/03/06/us/politics/trump-us-weapons-stocks.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/06/us/politics/justice-department-law-firms-executive-orders.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 07 Mar 2026 02:07:46 +0000"
-        },
-        {
-          "title": "Vulnerable California Republican Darrell Issa Drops Re-election Bid",
-          "url": "https://www.nytimes.com/2026/03/06/us/politics/darrell-issa-california-retire.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 07 Mar 2026 02:54:19 +0000"
         },
         {
           "title": "Trump calls on Congress to pass bill aimed at bolstering college sports",
@@ -121,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "‘A lie from the pit of hell’: Episcopal leaders push back on rumors of fatal decline",
-          "url": "https://religionnews.com/2026/03/06/the-episcopal-church-is-not-dead-yet-leaders-say-during-a-meeting-of-parishes/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 23:24:28 +0000"
-        },
-        {
-          "title": "4 men arrested in UK on suspicion of aiding Iran by spying on Jewish community",
-          "url": "https://religionnews.com/2026/03/06/4-men-arrested-in-uk-on-suspicion-of-aiding-iran-by-spying-on-jewish-community/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 22:23:20 +0000"
-        },
-        {
-          "title": "Israeli family who buried 3 of their children after missile attack clings to faith",
-          "url": "https://religionnews.com/2026/03/06/israeli-family-who-buried-3-of-their-children-after-missile-attack-clings-to-faith/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 22:19:42 +0000"
-        },
         {
           "title": "Operational Excellence, Strategic Incompetence",
           "url": "https://www.theatlantic.com/ideas/2026/03/iran-strategy-victory-disease/686275/?utm_source=feed",
