@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-07T05:45:51.549472Z",
+  "generated_at": "2026-03-07T05:50:52.173624Z",
   "headline": {
     "title": "Footage shows US citizen shot by ICE agent in Texas traffic stop",
     "url": "https://www.bbc.com/news/articles/cedzep6gp07o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Fri, 06 Mar 2026 17:58:33 GMT"
         },
         {
+          "title": "Trump looks to turn attention to Western Hemisphere at Americas summit",
+          "url": "https://www.npr.org/2026/03/07/g-s1-112852/trump-americas-summit",
+          "source": "NPR Topics: Politics",
+          "ts": "Sat, 07 Mar 2026 00:42:59 -0500"
+        },
+        {
           "title": "Trump administration's embattled FDA vaccine chief is leaving for the second time",
           "url": "https://www.npr.org/2026/03/06/nx-s1-5740596/trump-administrations-embattled-fda-vaccine-chief-is-leaving-for-the-second-time",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/06/nx-s1-5739361/tariff-refunds-customs-lawsuits-trade-court",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 06 Mar 2026 14:54:40 -0500"
-        },
-        {
-          "title": "Middle East conflicts largely avoided energy facilities in the past. Not in this war",
-          "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Mar 2026 14:18:49 -0500"
         },
         {
           "title": "Trump Calls On Private Companies to Take On a Bigger Role in Cyber",
