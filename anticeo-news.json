@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T19:20:26.621872Z",
+  "generated_at": "2026-03-08T19:25:26.318666Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Closing Al-Aqsa Mosque during Ramadan sets a dangerous precedent",
-          "url": "https://religionnews.com/2026/03/08/closing-al-aqsa-mosque-during-ramadan-sets-a-dangerous-precedent/",
-          "source": "RNS",
-          "ts": "Sun, 08 Mar 2026 16:58:56 +0000"
-        },
-        {
-          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
-          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
-          "source": "RNS",
-          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
-        },
-        {
-          "title": "Pope Leo XIV taps career Vatican diplomat Archbishop Caccia as representative to the US",
-          "url": "https://religionnews.com/2026/03/07/pope-leo-xiv-taps-career-vatican-diplomat-archbishop-caccia-as-representative-to-the-us/",
-          "source": "RNS",
-          "ts": "Sat, 07 Mar 2026 12:35:55 +0000"
-        },
-        {
           "title": "Winter Paralympics Photo of the Day: Para Biathlon",
           "url": "https://www.theatlantic.com/photography/2026/03/winter-paralympics-photo-day-para-biathlon/686293/?utm_source=feed",
           "source": "The Atlantic",
@@ -197,7 +179,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Trump vows control over Iran leaders as officials seek to calm oil concerns",
+          "url": "https://www.aljazeera.com/news/2026/3/8/trump-vows-control-over-iran-leaders-as-officials-seek-to-calm-oil-concerns?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 18:56:10 +0000"
+        },
+        {
+          "title": "Two killed in Saudi Arabia after ‘projectile’ falls on residential building",
+          "url": "https://www.aljazeera.com/news/2026/3/8/two-killed-in-saudi-arabia-after-projectile-falls-on-residential-building?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 18:02:44 +0000"
+        },
+        {
+          "title": "Why is the conflict with Iran being framed as a ‘holy war’?",
+          "url": "https://www.aljazeera.com/video/2026/3/8/aje-onl-nf_dnrexp-260306-warrinera-us_holy_war-07-080326?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 17:56:50 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
