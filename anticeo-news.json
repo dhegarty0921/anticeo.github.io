@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T16:41:54.577009Z",
+  "generated_at": "2026-03-08T16:46:59.561461Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
+          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
+        },
+        {
+          "title": "Pope Leo XIV taps career Vatican diplomat Archbishop Caccia as representative to the US",
+          "url": "https://religionnews.com/2026/03/07/pope-leo-xiv-taps-career-vatican-diplomat-archbishop-caccia-as-representative-to-the-us/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 12:35:55 +0000"
+        },
+        {
+          "title": "‘A lie from the pit of hell’: Episcopal leaders push back on rumors of fatal decline",
+          "url": "https://religionnews.com/2026/03/06/the-episcopal-church-is-not-dead-yet-leaders-say-during-a-meeting-of-parishes/",
+          "source": "RNS",
+          "ts": "Fri, 06 Mar 2026 23:24:28 +0000"
+        },
+        {
           "title": "Misrule Music",
           "url": "https://www.theatlantic.com/magazine/2026/04/robert-pinsky-misrule-music/686069/?utm_source=feed",
           "source": "The Atlantic",
@@ -140,12 +158,6 @@
           "ts": "2026-03-08T07:00:00-04:00"
         },
         {
-          "title": "The honest conversation about antidepressants I wish my psychiatrist had with me",
-          "url": "https://www.vox.com/future-perfect/481854/ssri-antidepressant-withdrawal-dependence-tapering",
-          "source": "Vox",
-          "ts": "2026-03-08T08:00:00-04:00"
-        },
-        {
           "title": "Reckoning with America’s Next Top Model",
           "url": "https://www.vox.com/podcasts/480888/americas-next-top-model-new-documentary-tyra-banks-legacy",
           "source": "Vox",
@@ -156,6 +168,12 @@
           "url": "https://www.vox.com/climate/481882/ocean-marine-climate-co2-carbon-removal-acidification",
           "source": "Vox",
           "ts": "2026-03-08T06:30:00-04:00"
+        },
+        {
+          "title": "The influencer circus around Nancy Guthrie’s home",
+          "url": "https://www.vox.com/podcasts/481832/nancy-guthrie-missing-savannah-true-crime-influencers",
+          "source": "Vox",
+          "ts": "2026-03-07T07:45:00-05:00"
         },
         {
           "title": "Judge rules Kari Lake unlawfully ran US media agency, voiding mass layoffs",
@@ -179,26 +197,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "‘Gulf countries may question US capability to protect them’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/8/gulf-countries-may-question-us-capability-to-protect?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Mar 2026 15:30:18 +0000"
-        },
-        {
-          "title": "Iran women’s football team sing anthem amid safety concerns during war",
-          "url": "https://www.aljazeera.com/sports/2026/3/8/iran-womens-football-team-sing-anthem-amid-safety-concerns-during-war?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Mar 2026 14:34:51 +0000"
-        },
-        {
-          "title": "How targeting of desalination plants could disrupt water supply in the Gulf",
-          "url": "https://www.aljazeera.com/news/2026/3/8/how-targeting-of-desalination-plants-could-disrupt-water-supply-in-the-gulf?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Mar 2026 14:22:47 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
