@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T17:57:00.800241Z",
+  "generated_at": "2026-03-08T18:01:35.721755Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Closing Al-Aqsa Mosque during Ramadan sets a dangerous precedent",
+          "url": "https://religionnews.com/2026/03/08/closing-al-aqsa-mosque-during-ramadan-sets-a-dangerous-precedent/",
+          "source": "RNS",
+          "ts": "Sun, 08 Mar 2026 16:58:56 +0000"
+        },
+        {
+          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
+          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
+        },
+        {
+          "title": "Pope Leo XIV taps career Vatican diplomat Archbishop Caccia as representative to the US",
+          "url": "https://religionnews.com/2026/03/07/pope-leo-xiv-taps-career-vatican-diplomat-archbishop-caccia-as-representative-to-the-us/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 12:35:55 +0000"
+        },
+        {
           "title": "The <em>SNL</em> Sketch That Broke All the Rules",
           "url": "https://www.theatlantic.com/culture/2026/03/snl-ryan-gosling-season-51/686291/?utm_source=feed",
           "source": "The Atlantic",
@@ -179,26 +197,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "T20 World Cup final: India defeat New Zealand by 96 runs for third title",
-          "url": "https://www.aljazeera.com/sports/2026/3/8/t20-world-cup-final-india-defeat-new-zealand-by-96-runs-for-third-title?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Mar 2026 17:42:30 +0000"
-        },
-        {
-          "title": "Israel’s Mossad relies on US cover and security rot for Iran strikes",
-          "url": "https://www.aljazeera.com/features/2026/3/8/israels-mossad-relies-on-us-cover-and-security-rot-for-iran-strikes?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Mar 2026 17:06:37 +0000"
-        },
-        {
-          "title": "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
-          "url": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Mar 2026 16:36:24 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
