@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T09:10:30.423014Z",
+  "generated_at": "2026-03-08T09:15:31.969111Z",
   "headline": {
     "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
     "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
@@ -158,12 +158,6 @@
           "ts": "2026-03-07T06:30:00-05:00"
         },
         {
-          "title": "‘A very dangerous person’: alarm as Pete Hegseth revels in carnage of Iran war",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/pete-hegseth-pentagon-trump-iran",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 09:00:15 GMT"
-        },
-        {
           "title": "Trump news at a glance: US leader says Iran being ‘decimated’; admits US troop deployment not off the table",
           "url": "https://www.theguardian.com/us-news/2026/mar/08/trump-news-at-a-glance-us-leader-says-iran-being-decimated-admits-us-troop-deployment-not-off-the-table",
           "source": "US news | The Guardian",
@@ -174,6 +168,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-starmer-iran-criticism",
           "source": "US news | The Guardian",
           "ts": "Sat, 07 Mar 2026 22:37:00 GMT"
+        },
+        {
+          "title": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders",
+          "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Mar 2026 18:01:23 GMT"
         }
       ]
     },
