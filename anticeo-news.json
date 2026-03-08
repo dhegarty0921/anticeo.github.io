@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T16:20:54.683309Z",
+  "generated_at": "2026-03-08T16:27:18.595684Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Misrule Music",
+          "url": "https://www.theatlantic.com/magazine/2026/04/robert-pinsky-misrule-music/686069/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-08T12:00:00-04:00"
+        },
+        {
           "title": "The Mind-Body Question",
           "url": "https://www.theatlantic.com/ideas/2026/03/body-mind-self-material-philosophy/686176/?utm_source=feed",
           "source": "The Atlantic",
@@ -130,12 +136,6 @@
         {
           "title": "Six Bizarre Movies That Are Actually Fun to Watch",
           "url": "https://www.theatlantic.com/newsletters/2026/03/six-bizarre-movies-that-are-actually-fun-to-watch/686281/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-08T07:00:00-04:00"
-        },
-        {
-          "title": "Hollywood’s Star Power Is Shifting",
-          "url": "https://www.theatlantic.com/culture/2026/03/hollywood-movie-stars-directors-auteurs-ryan-coogler/686268/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-08T07:00:00-04:00"
         },
