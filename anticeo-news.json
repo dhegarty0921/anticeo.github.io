@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T13:45:31.773767Z",
+  "generated_at": "2026-03-08T14:07:46.249873Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-08T06:30:00-04:00"
         },
         {
+          "title": "Judge rules Kari Lake unlawfully ran US media agency, voiding mass layoffs",
+          "url": "https://www.theguardian.com/us-news/2026/mar/08/kari-lake-us-media-agency-voice-of-america",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 08 Mar 2026 13:35:53 GMT"
+        },
+        {
           "title": "How Trump’s EPA rollbacks give US states new tools in climate suits",
           "url": "https://www.theguardian.com/us-news/2026/mar/08/trump-epa-rollbacks-vermont-new-york-climate-suits",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida",
           "source": "US news | The Guardian",
           "ts": "Sun, 08 Mar 2026 12:00:21 GMT"
-        },
-        {
-          "title": "‘How is he going to have the time?’ NIH staff voice concern as Bhattacharya takes on CDC role",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/nih-jay-bhattacharya-cdc",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 11:00:19 GMT"
         }
       ]
     },
