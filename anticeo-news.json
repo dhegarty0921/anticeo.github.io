@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T22:25:27.118383Z",
+  "generated_at": "2026-03-08T22:30:31.112848Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -97,24 +97,6 @@
           "url": "https://www.realclearpolitics.com/2026/03/08/a_question_for_mr_french_693822.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Sun, 08 Mar 2026 14:41:35 -0500"
-        },
-        {
-          "title": "14 queer women who made Oscars history, from Jodie Foster to Ariana DeBose",
-          "url": "https://www.thepinknews.com/2026/03/08/14-queer-women-who-made-oscars-history-jodie-foster-ariana-debose/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Sun, 08 Mar 2026 11:00:00 +0000"
-        },
-        {
-          "title": "Here’s every single country’s Eurovision Song Contest 2026 entry, from Albania to the UK",
-          "url": "https://www.thepinknews.com/2026/03/06/heres-every-single-countrys-eurovision-song-contest-2026-entry-from-albania-to-the-uk/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Fri, 06 Mar 2026 17:05:25 +0000"
-        },
-        {
-          "title": "‘No, it’s not a choice’ – Five things demisexual people want you to understand",
-          "url": "https://www.thepinknews.com/2026/03/06/five-things-you-need-to-know-about-being-demisexual/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Fri, 06 Mar 2026 16:42:28 +0000"
         }
       ]
     },
@@ -179,7 +161,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "One ‘party state’: Guinea dissolves main opposition parties",
+          "url": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 21:45:02 +0000"
+        },
+        {
+          "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 21:25:08 +0000"
+        },
+        {
+          "title": "Iran names Khamenei’s son as new supreme leader after father’s killing",
+          "url": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 21:21:28 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
