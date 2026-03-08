@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T01:16:03.102929Z",
+  "generated_at": "2026-03-08T01:20:34.622980Z",
   "headline": {
     "title": "At least six dead after tornadoes sweep across Michigan and Oklahoma, officials say",
     "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 07 Mar 2026 05:00:00 -0500"
         },
         {
+          "title": "Smoking Jars of Metal and Fuses Thrown at Protest Near Mayor’s House",
+          "url": "https://www.nytimes.com/2026/03/07/nyregion/gracie-mansion-protests.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 08 Mar 2026 01:12:37 +0000"
+        },
+        {
           "title": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
           "url": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/07/us/politics/ice-arrests-slowdown.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 07 Mar 2026 20:06:36 +0000"
-        },
-        {
-          "title": "Rebecca Solnit Says the Left’s Next Hero Is Already Here",
-          "url": "https://www.nytimes.com/2026/03/07/magazine/rebecca-solnit-interview.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 07 Mar 2026 10:15:02 +0000"
         },
         {
           "title": "Jan. 6 memorial plaque placed at Capitol, three years after intended",
