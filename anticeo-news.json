@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T16:51:54.530444Z",
+  "generated_at": "2026-03-08T16:57:09.329631Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
-          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
-          "source": "RNS",
-          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
-        },
-        {
-          "title": "Pope Leo XIV taps career Vatican diplomat Archbishop Caccia as representative to the US",
-          "url": "https://religionnews.com/2026/03/07/pope-leo-xiv-taps-career-vatican-diplomat-archbishop-caccia-as-representative-to-the-us/",
-          "source": "RNS",
-          "ts": "Sat, 07 Mar 2026 12:35:55 +0000"
-        },
-        {
-          "title": "‘A lie from the pit of hell’: Episcopal leaders push back on rumors of fatal decline",
-          "url": "https://religionnews.com/2026/03/06/the-episcopal-church-is-not-dead-yet-leaders-say-during-a-meeting-of-parishes/",
-          "source": "RNS",
-          "ts": "Fri, 06 Mar 2026 23:24:28 +0000"
-        },
-        {
           "title": "Misrule Music",
           "url": "https://www.theatlantic.com/magazine/2026/04/robert-pinsky-misrule-music/686069/?utm_source=feed",
           "source": "The Atlantic",
@@ -197,7 +179,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Is Israel reshaping Lebanon, trying to separate Hezbollah from its people?",
+          "url": "https://www.aljazeera.com/features/2026/3/8/is-israel-reshaping-lebanon-trying-to-separate-hezbollah-from-its-people?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 16:36:24 +0000"
+        },
+        {
+          "title": "We, the American people, have had enough of endless wars",
+          "url": "https://www.aljazeera.com/opinions/2026/3/8/we-the-american-people-have-had-enough-of-endless-wars?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 16:35:17 +0000"
+        },
+        {
+          "title": "Israel escalates attacks across Lebanon as two soldiers killed",
+          "url": "https://www.aljazeera.com/news/2026/3/8/israel-escalates-attacks-across-lebanon-as-two-soldiers-killed?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Mar 2026 16:31:19 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
