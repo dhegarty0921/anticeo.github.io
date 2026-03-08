@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T13:00:29.885571Z",
+  "generated_at": "2026-03-08T13:05:32.872016Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -60,7 +60,7 @@
           "title": "Trump Executive Order Protected Weedkiller Roundup and a Munition, White Phosphorus",
           "url": "https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 08 Mar 2026 09:00:40 +0000"
+          "ts": "Sun, 08 Mar 2026 09:00:41 +0000"
         },
         {
           "title": "Judge voids Trump's attempt to gut Voice of America",
@@ -158,6 +158,12 @@
           "ts": "2026-03-08T06:30:00-04:00"
         },
         {
+          "title": "How Trump’s EPA rollbacks give US states new tools in climate suits",
+          "url": "https://www.theguardian.com/us-news/2026/mar/08/trump-epa-rollbacks-vermont-new-york-climate-suits",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 08 Mar 2026 13:00:21 GMT"
+        },
+        {
           "title": "Lev Parnas, ex-member of Trump’s ‘cult’, runs for Congress as Florida Democrat",
           "url": "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/08/nih-jay-bhattacharya-cdc",
           "source": "US news | The Guardian",
           "ts": "Sun, 08 Mar 2026 11:00:19 GMT"
-        },
-        {
-          "title": "Court records reveal gutting of DHS oversight: ‘Incredibly dangerous’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/dhs-oversight-court-record-review",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 11:00:18 GMT"
         }
       ]
     },
