@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T12:00:30.772912Z",
+  "generated_at": "2026-03-08T12:05:31.472260Z",
   "headline": {
     "title": "Boy, 12, among six dead as tornadoes hit Michigan and Oklahoma",
     "url": "https://www.bbc.com/news/articles/crrxpwzvd5vo?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "2026-03-08T06:00:00-04:00"
         },
         {
+          "title": "The honest conversation about antidepressants I wish my psychiatrist had with me",
+          "url": "https://www.vox.com/future-perfect/481854/ssri-antidepressant-withdrawal-dependence-tapering",
+          "source": "Vox",
+          "ts": "2026-03-08T08:00:00-04:00"
+        },
+        {
           "title": "Reckoning with America’s Next Top Model",
           "url": "https://www.vox.com/podcasts/480888/americas-next-top-model-new-documentary-tyra-banks-legacy",
           "source": "Vox",
@@ -152,10 +158,10 @@
           "ts": "2026-03-08T06:30:00-04:00"
         },
         {
-          "title": "The influencer circus around Nancy Guthrie’s home",
-          "url": "https://www.vox.com/podcasts/481832/nancy-guthrie-missing-savannah-true-crime-influencers",
-          "source": "Vox",
-          "ts": "2026-03-07T07:45:00-05:00"
+          "title": "Lev Parnas, ex-member of Trump’s ‘cult’, runs for Congress as Florida Democrat",
+          "url": "https://www.theguardian.com/us-news/2026/mar/08/lev-parnas-ukraine-congress-florida",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 08 Mar 2026 12:00:21 GMT"
         },
         {
           "title": "‘How is he going to have the time?’ NIH staff voice concern as Bhattacharya takes on CDC role",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/08/dhs-oversight-court-record-review",
           "source": "US news | The Guardian",
           "ts": "Sun, 08 Mar 2026 11:00:18 GMT"
-        },
-        {
-          "title": "How Trump turmoil is driving more people to the therapist’s office: ‘This is all upside down’",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/08/political-depression-therapy-trump-era",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 10:00:17 GMT"
         }
       ]
     },
