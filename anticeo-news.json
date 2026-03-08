@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T16:46:59.561461Z",
+  "generated_at": "2026-03-08T16:51:54.530444Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "How Trump’s War in Iran Has Echoes of Putin and Ukraine",
           "url": "https://www.nytimes.com/2026/03/08/us/politics/trump-russia-ukraine-iran-war.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 08 Mar 2026 09:00:54 +0000"
+          "ts": "Sun, 08 Mar 2026 16:42:31 +0000"
         },
         {
           "title": "Trump Executive Order Protected Weedkiller Roundup and a Munition, White Phosphorus",
@@ -158,6 +158,12 @@
           "ts": "2026-03-08T07:00:00-04:00"
         },
         {
+          "title": "The honest conversation about antidepressants I wish my psychiatrist had with me",
+          "url": "https://www.vox.com/future-perfect/481854/ssri-antidepressant-withdrawal-dependence-tapering",
+          "source": "Vox",
+          "ts": "2026-03-08T08:00:00-04:00"
+        },
+        {
           "title": "Reckoning with America’s Next Top Model",
           "url": "https://www.vox.com/podcasts/480888/americas-next-top-model-new-documentary-tyra-banks-legacy",
           "source": "Vox",
@@ -168,12 +174,6 @@
           "url": "https://www.vox.com/climate/481882/ocean-marine-climate-co2-carbon-removal-acidification",
           "source": "Vox",
           "ts": "2026-03-08T06:30:00-04:00"
-        },
-        {
-          "title": "The influencer circus around Nancy Guthrie’s home",
-          "url": "https://www.vox.com/podcasts/481832/nancy-guthrie-missing-savannah-true-crime-influencers",
-          "source": "Vox",
-          "ts": "2026-03-07T07:45:00-05:00"
         },
         {
           "title": "Judge rules Kari Lake unlawfully ran US media agency, voiding mass layoffs",
