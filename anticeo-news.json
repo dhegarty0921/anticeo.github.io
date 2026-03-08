@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T19:50:26.084050Z",
+  "generated_at": "2026-03-08T19:55:26.676432Z",
   "headline": {
     "title": "Trump accuses Starmer of seeking to 'join wars after we've already won'",
     "url": "https://www.bbc.com/news/articles/c9dn3j04lydo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Sun, 08 Mar 2026 01:08:16 GMT"
         },
         {
+          "title": "Trump says he won't sign bills until Congress overhauls voting",
+          "url": "https://www.npr.org/2026/03/08/g-s1-112917/trump-says-he-wont-sign-bills-until-congress-overhauls-voting",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 08 Mar 2026 15:48:23 -0400"
+        },
+        {
           "title": "Retiring GOP Senator and Trump critic Thom Tillis hosts a dog parade on Capitol Hill",
           "url": "https://www.npr.org/2026/03/08/nx-s1-5732482/retiring-gop-senator-and-trump-critic-thom-tillis-hosts-a-dog-parade-on-capitol-hill",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/08/nx-s1-5737503/politics-chat-trumps-plans-for-iran-and-cuba-kristi-noems-ouster-texas-primaries",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 08 Mar 2026 07:49:58 -0400"
-        },
-        {
-          "title": "A new Nepali party, led by an ex-rapper, is set for a landslide win in parliamentary election",
-          "url": "https://www.npr.org/2026/03/08/nx-s1-5741598/nepali-party-rapper-win-parliamentary-election",
-          "source": "NPR Topics: Politics",
-          "ts": "Sun, 08 Mar 2026 03:18:54 -0500"
         },
         {
           "title": "U.S. Continues Airstrikes Against a Wide Array of Targets in Iran",
@@ -97,6 +97,24 @@
           "url": "https://www.realclearpolitics.com/2026/03/08/a_question_for_mr_french_693822.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Sun, 08 Mar 2026 14:41:35 -0500"
+        },
+        {
+          "title": "Senator mocked ‘green energy crap.’ His house runs on it.",
+          "url": "https://www.politico.com/news/2026/03/08/gop-senator-mocked-green-energy-crap-his-home-runs-on-it-00791293",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 08 Mar 2026 09:00:00 EST"
+        },
+        {
+          "title": "Why Washington is hamstrung on protecting workers from AI",
+          "url": "https://www.politico.com/news/2026/03/08/washington-workers-ai-00789199",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 08 Mar 2026 11:00:00 EST"
+        },
+        {
+          "title": "‘You’re Accumulating Opposition and Enemies’",
+          "url": "https://www.politico.com/news/magazine/2026/03/08/dan-crenshaw-defeat-social-media-trump-00817176",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 08 Mar 2026 09:00:00 EST"
         },
         {
           "title": "14 queer women who made Oscars history, from Jodie Foster to Ariana DeBose",
@@ -156,24 +174,6 @@
           "url": "https://www.vox.com/climate/481882/ocean-marine-climate-co2-carbon-removal-acidification",
           "source": "Vox",
           "ts": "2026-03-08T06:30:00-04:00"
-        },
-        {
-          "title": "Police investigating after device thrown at anti-Islam protest in New York City",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 19:20:03 GMT"
-        },
-        {
-          "title": "Judge rules Kari Lake unlawfully ran US media agency, voiding mass layoffs",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/kari-lake-us-media-agency-voice-of-america",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 15:59:17 GMT"
-        },
-        {
-          "title": "Stephen Miller a ‘big problem’ for Trump administration, says Republican senator",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/republican-senator-thom-tillis-stephen-miller",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 15:20:44 GMT"
         }
       ]
     },
