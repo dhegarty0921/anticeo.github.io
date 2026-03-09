@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T11:30:28.147579Z",
+  "generated_at": "2026-03-09T11:35:24.982617Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "2026-03-09T07:00:00-04:00"
         },
         {
+          "title": "The mysterious Redditor who’s changing the way we do laundry",
+          "url": "https://www.vox.com/life/481598/reddit-laundry-kismai-lipase-detergent-list-spa-day",
+          "source": "Vox",
+          "ts": "2026-03-09T07:30:00-04:00"
+        },
+        {
           "title": "Bugs were supposed to be the future of food. Now, the insect farming industry is collapsing.",
           "url": "https://www.vox.com/future-perfect/481920/insect-bug-farming-industry-startup-bankruptcy",
           "source": "Vox",
@@ -150,12 +156,6 @@
           "url": "https://www.vox.com/podcasts/481955/trump-marco-rubio-cuba-regime-change-venezuela-iran",
           "source": "Vox",
           "ts": "2026-03-09T07:00:00-04:00"
-        },
-        {
-          "title": "America’s vaccine skepticism is starting to show up in health data",
-          "url": "https://www.vox.com/health/481752/americas-vaccine-skepticism-is-starting-to-show-up-in-health-data",
-          "source": "Vox",
-          "ts": "2026-03-09T06:30:00-04:00"
         },
         {
           "title": "‘The cover-up is brazen’: one journalist’s tenacious, traumatic fight to expose Ghislaine Maxwell",
@@ -181,10 +181,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "‘Reprehensible’: New wave of Iranian missiles, drones target Gulf nations",
-          "url": "https://www.aljazeera.com/news/2026/3/9/reprehensible-new-wave-of-iranian-missiles-drones-target-gulf-nations?traffic_source=rss",
+          "title": "Newcastle United vs Barcelona: Champions League – team news, start, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/3/9/newcastle-united-vs-barcelona-champions-league-team-news-start?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Mar 2026 10:41:33 +0000"
+          "ts": "Mon, 09 Mar 2026 11:09:05 +0000"
         }
       ]
     },
