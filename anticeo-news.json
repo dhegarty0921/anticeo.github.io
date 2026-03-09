@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T19:30:26.203124Z",
+  "generated_at": "2026-03-09T19:35:23.354071Z",
   "headline": {
     "title": "FBI launches terrorism investigation after explosives lit outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 09 Mar 2026 13:30:59 -0400"
         },
         {
+          "title": "Alexander Butterfield, Who Revealed Nixon Tapes in Watergate Scandal, Dies at 99",
+          "url": "https://www.nytimes.com/2026/03/09/us/politics/alexander-butterfield-dead.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 09 Mar 2026 19:29:54 +0000"
+        },
+        {
           "title": "Judge Halts Trump Administration Move to Restrict Immigration Appeals",
           "url": "https://www.nytimes.com/2026/03/09/us/politics/judge-trump-immigration-appeals.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/09/us/politics/voice-of-america-audit.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 09 Mar 2026 17:24:02 +0000"
-        },
-        {
-          "title": "G7 Countries Hold Off on Releasing Emergency Oil Supplies",
-          "url": "https://www.nytimes.com/2026/03/09/business/energy-environment/iran-g7-oil-reserves.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 16:22:09 +0000"
         },
         {
           "title": "White House defends firing of Republican NTSB board member",
