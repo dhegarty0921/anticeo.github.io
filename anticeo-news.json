@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T17:20:24.290687Z",
+  "generated_at": "2026-03-09T17:25:25.918601Z",
   "headline": {
     "title": "FBI launches terrorism investigation after explosives lit outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Mon, 09 Mar 2026 06:00:55 -0500"
         },
         {
-          "title": "Kamala Harris Is Buying Time — But Democrats Are Looking Ahead",
-          "url": "https://www.politico.com/news/magazine/2026/03/09/kamala-harris-2028-book-tour-democrats-00818284",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "House Republicans’ meager majority faces big problems ahead of the midterms",
-          "url": "https://www.politico.com/news/2026/03/09/house-gop-retreat-trump-midterms-00817213",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Live Nation reaches settlement with DOJ in antitrust fight",
-          "url": "https://www.politico.com/news/2026/03/09/live-nation-reaches-settlement-with-doj-in-antitrust-fight-00818564",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 05:00:00 EST"
-        },
-        {
           "title": "Gay-for-pay OnlyFans star chained to Sussex housewife 24 hours a day in Channel 4’s Handcuffed",
           "url": "https://www.thepinknews.com/2026/03/09/gay-for-pay-onlyfans-star-channel-4-handcuffed-rob-charlie/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -140,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Who Gets to Claim the Kennedys?",
+          "url": "https://www.theatlantic.com/culture/2026/03/love-story-john-kennedy-carolyn-bessette-ryan-murphy/686298/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T13:08:00-04:00"
+        },
+        {
           "title": "A Dating-App Nightmare",
           "url": "https://www.theatlantic.com/national-security/2026/03/dating-app-nightmare/686280/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +138,6 @@
           "url": "https://www.theatlantic.com/national-security/2026/03/us-civilian-casualties-iran/686292/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T11:31:43-04:00"
-        },
-        {
-          "title": "The Fight Over Tylenol and Autism Just Got Messier",
-          "url": "https://www.theatlantic.com/health/2026/03/acetaminophen-autism-adhd-taiwan/686297/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T11:00:05-04:00"
         },
         {
           "title": "The logic of anxiety",
@@ -174,12 +156,49 @@
           "url": "https://www.vox.com/future-perfect/481920/insect-bug-farming-industry-startup-bankruptcy",
           "source": "Vox",
           "ts": "2026-03-09T07:15:00-04:00"
+        },
+        {
+          "title": "Trump says he won’t sign new legislation until Congress passes strict voter ID bill – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 17:06:46 GMT"
+        },
+        {
+          "title": "At least eight people dead after spate of tornadoes across central US",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/tornadoes-central-us-deaths",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 16:53:40 GMT"
+        },
+        {
+          "title": "California motel closes after two women found dead in same room days apart",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/california-motel-closed-deaths",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 16:50:35 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
+          "url": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 16:45:04 +0000"
+        },
+        {
+          "title": "US senators demand probe into ‘appalling’ attack on girls’s school in Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/9/us-senators-demand-probe-into-appalling-attack-on-girlss-school-in-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 16:41:43 +0000"
+        },
+        {
+          "title": "US military kills six in strike on alleged drug boat in the Eastern Pacific",
+          "url": "https://www.aljazeera.com/news/2026/3/9/us-military-kills-six-in-strike-on-alleged-drug-boat-in-the-eastern-pacific?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 16:40:59 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
