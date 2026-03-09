@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T09:50:25.616838Z",
+  "generated_at": "2026-03-09T09:55:45.254874Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Mon, 09 Mar 2026 03:01:00 GMT"
         },
         {
+          "title": "Does Iraq war hold lessons for Iran on regime change?",
+          "url": "https://www.npr.org/2026/03/09/nx-s1-5739280/does-iraq-war-hold-lessons-for-iran-on-regime-change",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 09 Mar 2026 05:46:38 -0400"
+        },
+        {
           "title": "The next redistricting battle might be who is counted in state legislative districts",
           "url": "https://www.npr.org/2026/03/09/nx-s1-5613878/us-census-citizenship-question-redistricting",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/09/nx-s1-5737442/afghans-and-pakistanis-living-in-iran-flee-new-conflict",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 09 Mar 2026 04:31:16 -0400"
-        },
-        {
-          "title": "Retired US Navy Vice Admiral discusses risk of lengthy Iran conflict",
-          "url": "https://www.npr.org/2026/03/09/nx-s1-5737427/retired-us-navy-vice-admiral-discusses-risk-of-lengthy-iran-conflict",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Mar 2026 04:31:03 -0400"
         },
         {
           "title": "How Markwayne Mullin Became Trump’s Homeland Security Pick",
@@ -127,6 +127,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Deportations surge, aid collapses and faith groups in Latin America struggle to respond",
+          "url": "https://religionnews.com/2026/03/08/as-deportations-rise-faith-groups-struggle-to-help-migrants-with-fewer-resources/",
+          "source": "RNS",
+          "ts": "Sun, 08 Mar 2026 21:16:26 +0000"
+        },
+        {
+          "title": "Closing Al-Aqsa Mosque during Ramadan sets a dangerous precedent",
+          "url": "https://religionnews.com/2026/03/08/closing-al-aqsa-mosque-during-ramadan-sets-a-dangerous-precedent/",
+          "source": "RNS",
+          "ts": "Sun, 08 Mar 2026 16:58:56 +0000"
+        },
+        {
+          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
+          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
+        },
         {
           "title": "Winter Paralympics Photo of the Day: Para Biathlon",
           "url": "https://www.theatlantic.com/photography/2026/03/winter-paralympics-photo-day-para-biathlon/686293/?utm_source=feed",
