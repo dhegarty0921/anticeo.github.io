@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T17:30:22.317355Z",
+  "generated_at": "2026-03-09T17:35:25.768568Z",
   "headline": {
     "title": "FBI launches terrorism investigation after explosives lit outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Mon, 09 Mar 2026 14:49:39 GMT"
         },
         {
+          "title": "Anthropic sues the Trump administration over 'supply chain risk' label",
+          "url": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 09 Mar 2026 13:30:59 -0400"
+        },
+        {
           "title": "Trump is using immigration policy to suppress speech, lawsuit claims",
           "url": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/09/nx-s1-5739280/does-iraq-war-hold-lessons-for-iran-on-regime-change",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 09 Mar 2026 05:46:38 -0400"
-        },
-        {
-          "title": "The next redistricting battle might be who is counted in state legislative districts",
-          "url": "https://www.npr.org/2026/03/09/nx-s1-5613878/us-census-citizenship-question-redistricting",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Mar 2026 05:00:00 -0400"
         },
         {
           "title": "As Kari Lake Sought to Shutter Voice of America, Parent Agency Rebuffed Auditors",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Who Gets to Claim the Kennedys?",
+          "url": "https://www.theatlantic.com/culture/2026/03/love-story-john-kennedy-carolyn-bessette-ryan-murphy/686298/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T13:08:00-04:00"
+        },
+        {
           "title": "A Dating-App Nightmare",
           "url": "https://www.theatlantic.com/national-security/2026/03/dating-app-nightmare/686280/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/national-security/2026/03/us-civilian-casualties-iran/686292/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T11:31:43-04:00"
-        },
-        {
-          "title": "The Fight Over Tylenol and Autism Just Got Messier",
-          "url": "https://www.theatlantic.com/health/2026/03/acetaminophen-autism-adhd-taiwan/686297/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T11:00:05-04:00"
         },
         {
           "title": "The logic of anxiety",
