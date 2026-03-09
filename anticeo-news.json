@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T03:20:25.133233Z",
+  "generated_at": "2026-03-09T03:25:26.086432Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -164,6 +164,12 @@
           "ts": "2026-03-08T06:30:00-04:00"
         },
         {
+          "title": "US military kills six in strike on alleged drug boat in Pacific",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/us-military-drug-boat-strike-pacific",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 03:09:50 GMT"
+        },
+        {
           "title": "Trump news at a glance: White House adviser Stephen Miller ‘should go’, says Republican senator",
           "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-news-updates-iran-oil-stephen-miller-republican-senator",
           "source": "US news | The Guardian",
@@ -174,12 +180,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/08/fox-news-trump-hat-salute-military",
           "source": "US news | The Guardian",
           "ts": "Sun, 08 Mar 2026 20:42:05 GMT"
-        },
-        {
-          "title": "Explosive device thrown outside of Zohran Mamdani’s residence at anti-Islam protest",
-          "url": "https://www.theguardian.com/us-news/2026/mar/08/new-york-city-anti-islam-protest",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Mar 2026 19:58:32 GMT"
         }
       ]
     },
