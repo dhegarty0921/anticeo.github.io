@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T19:55:24.199724Z",
+  "generated_at": "2026-03-09T20:00:23.932045Z",
   "headline": {
     "title": "Two men attempting to bomb protest outside NYC mayor's home pledged ISIS support - police",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 09 Mar 2026 13:30:59 -0400"
         },
         {
+          "title": "2 Teen Mariachi Musicians Released From ICE Detention",
+          "url": "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 09 Mar 2026 19:55:33 +0000"
+        },
+        {
           "title": "U.S. Reaches Tentative Deal Ending Prosecution of Turkish Bank",
           "url": "https://www.nytimes.com/2026/03/09/us/politics/us-turkey-halkbank-deal.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/09/us/politics/alexander-butterfield-dead.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 09 Mar 2026 19:29:54 +0000"
-        },
-        {
-          "title": "Judge Halts Trump Administration Move to Restrict Immigration Appeals",
-          "url": "https://www.nytimes.com/2026/03/09/us/politics/judge-trump-immigration-appeals.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 17:43:48 +0000"
         },
         {
           "title": "White House defends firing of Republican NTSB board member",
@@ -158,6 +158,12 @@
           "ts": "2026-03-09T07:15:00-04:00"
         },
         {
+          "title": "Trump cheers FBI subpoena of Arizona 2020 election records",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-fbi-subpoena-arizona-election",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 19:38:53 GMT"
+        },
+        {
           "title": "Trump says he won’t sign new legislation until Congress passes strict voter ID bill – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/09/ohio-state-university-president-resigns",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Mar 2026 18:33:05 GMT"
-        },
-        {
-          "title": "Two teens charged over ‘Islamic State-inspired’ attack outside Mamdani home",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 18:28:52 GMT"
         }
       ]
     },
