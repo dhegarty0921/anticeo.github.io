@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T11:15:25.113389Z",
+  "generated_at": "2026-03-09T11:20:26.246313Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Deportations surge, aid collapses and faith groups in Latin America struggle to respond",
-          "url": "https://religionnews.com/2026/03/08/as-deportations-rise-faith-groups-struggle-to-help-migrants-with-fewer-resources/",
-          "source": "RNS",
-          "ts": "Sun, 08 Mar 2026 21:16:26 +0000"
-        },
-        {
-          "title": "Closing Al-Aqsa Mosque during Ramadan sets a dangerous precedent",
-          "url": "https://religionnews.com/2026/03/08/closing-al-aqsa-mosque-during-ramadan-sets-a-dangerous-precedent/",
-          "source": "RNS",
-          "ts": "Sun, 08 Mar 2026 16:58:56 +0000"
-        },
-        {
-          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
-          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
-          "source": "RNS",
-          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
-        },
-        {
           "title": "The Asymmetric Ways Iran Could Strike Back",
           "url": "https://www.theatlantic.com/national-security/2026/03/asymmetric-warfare-iran-numbers-stations-cyber/686289/?utm_source=feed",
           "source": "The Atlantic",
@@ -158,6 +140,12 @@
           "ts": "2026-03-09T07:00:00-04:00"
         },
         {
+          "title": "Bugs were supposed to be the future of food. Now, the insect farming industry is collapsing.",
+          "url": "https://www.vox.com/future-perfect/481920/insect-bug-farming-industry-startup-bankruptcy",
+          "source": "Vox",
+          "ts": "2026-03-09T07:15:00-04:00"
+        },
+        {
           "title": "Is Trump coming for Cuba?",
           "url": "https://www.vox.com/podcasts/481955/trump-marco-rubio-cuba-regime-change-venezuela-iran",
           "source": "Vox",
@@ -168,12 +156,6 @@
           "url": "https://www.vox.com/health/481752/americas-vaccine-skepticism-is-starting-to-show-up-in-health-data",
           "source": "Vox",
           "ts": "2026-03-09T06:30:00-04:00"
-        },
-        {
-          "title": "How to figure out your finances after a breakup",
-          "url": "https://www.vox.com/advice/481697/post-breakup-finances-budget-subscriptions-bills",
-          "source": "Vox",
-          "ts": "2026-03-09T06:15:00-04:00"
         },
         {
           "title": "‘The cover-up is brazen’: one journalist’s tenacious, traumatic fight to expose Ghislaine Maxwell",
@@ -197,7 +179,14 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "‘Reprehensible’: New wave of Iranian missiles, drones target Gulf nations",
+          "url": "https://www.aljazeera.com/news/2026/3/9/reprehensible-new-wave-of-iranian-missiles-drones-target-gulf-nations?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 10:41:33 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
