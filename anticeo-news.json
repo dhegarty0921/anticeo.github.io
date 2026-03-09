@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T11:00:25.743851Z",
+  "generated_at": "2026-03-09T11:05:25.066637Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -60,7 +60,7 @@
           "title": "U.S. Carries Out Another Boat Strike, Killing Six",
           "url": "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 02:18:07 +0000"
+          "ts": "Mon, 09 Mar 2026 10:58:09 +0000"
         },
         {
           "title": "Sen. Thom Tillis wants White House adviser Stephen Miller gone",
@@ -105,24 +105,6 @@
           "ts": "Sun, 08 Mar 2026 22:16:47 -0500"
         },
         {
-          "title": "Live Nation reaches settlement with DOJ in antitrust fight",
-          "url": "https://www.politico.com/news/2026/03/09/live-nation-reaches-settlement-with-doj-in-antitrust-fight-00818564",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "House Republicans face internal and external headwinds as they gather to map out 2026",
-          "url": "https://www.politico.com/news/2026/03/09/house-gop-retreat-trump-midterms-00817213",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Kamala Harris Is Buying Time — But Democrats Are Looking Ahead",
-          "url": "https://www.politico.com/news/magazine/2026/03/09/kamala-harris-2028-book-tour-democrats-00818284",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 04:55:00 EST"
-        },
-        {
           "title": "14 queer women who made Oscars history, from Jodie Foster to Ariana DeBose",
           "url": "https://www.thepinknews.com/2026/03/08/14-queer-women-who-made-oscars-history-jodie-foster-ariana-debose/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -164,6 +146,12 @@
           "ts": "2026-03-08T12:00:00-04:00"
         },
         {
+          "title": "Is Trump coming for Cuba?",
+          "url": "https://www.vox.com/podcasts/481955/trump-marco-rubio-cuba-regime-change-venezuela-iran",
+          "source": "Vox",
+          "ts": "2026-03-09T07:00:00-04:00"
+        },
+        {
           "title": "America’s vaccine skepticism is starting to show up in health data",
           "url": "https://www.vox.com/health/481752/americas-vaccine-skepticism-is-starting-to-show-up-in-health-data",
           "source": "Vox",
@@ -176,10 +164,22 @@
           "ts": "2026-03-09T06:15:00-04:00"
         },
         {
-          "title": "The dangerous lesson countries may take from the Iran war",
-          "url": "https://www.vox.com/politics/481880/iran-france-nuclear-deterrent",
-          "source": "Vox",
-          "ts": "2026-03-09T06:00:00-04:00"
+          "title": "‘The cover-up is brazen’: one journalist’s tenacious, traumatic fight to expose Ghislaine Maxwell",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/lucia-osborne-crowley-tenacious-traumatic-fight-expose-ghislaine-maxwell-jeffrey-epstein",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 05:00:39 GMT"
+        },
+        {
+          "title": "US military kills six in strike on alleged drug boat in Pacific",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/us-military-drug-boat-strike-pacific",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 03:09:50 GMT"
+        },
+        {
+          "title": "Trump news at a glance: White House adviser Stephen Miller ‘should go’, says Republican senator",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-news-updates-iran-oil-stephen-miller-republican-senator",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 02:35:51 GMT"
         }
       ]
     },
