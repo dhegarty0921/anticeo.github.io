@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T12:15:27.125097Z",
+  "generated_at": "2026-03-09T12:20:25.287894Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Books Are Meant to Be Slow",
+          "url": "https://www.theatlantic.com/ideas/2026/03/slow-reading-books-benefits/686266/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T08:00:00-04:00"
+        },
+        {
           "title": "The Cynical, Gullible American Man",
           "url": "https://www.theatlantic.com/ideas/2026/03/cynical-gullible-american-man/686079/?utm_source=feed",
           "source": "The Atlantic",
@@ -130,12 +136,6 @@
         {
           "title": "The Asymmetric Ways Iran Could Strike Back",
           "url": "https://www.theatlantic.com/national-security/2026/03/asymmetric-warfare-iran-numbers-stations-cyber/686289/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T07:00:00-04:00"
-        },
-        {
-          "title": "The Left Shouldn’t Demonize Homeowners",
-          "url": "https://www.theatlantic.com/ideas/2026/03/mamdani-homeownership/686269/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T07:00:00-04:00"
         },
@@ -181,10 +181,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Bahrain king calls Iranian attacks unjustifiable",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/bahrain-king-calls-iranian-attacks-unjustifiable?traffic_source=rss",
+          "title": "Iranians celebrate as Mojtaba Khamenei named new supreme leader",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/iranians-celebrate-as-mojtaba-khamenei-named-new-supreme-leader?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Mar 2026 11:38:00 +0000"
+          "ts": "Mon, 09 Mar 2026 12:10:39 +0000"
         }
       ]
     },
