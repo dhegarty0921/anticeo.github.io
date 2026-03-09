@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T15:43:30.793111Z",
+  "generated_at": "2026-03-09T15:48:30.742648Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Mon, 09 Mar 2026 03:01:00 GMT"
         },
         {
+          "title": "Trump is using immigration policy to suppress speech, lawsuit claims",
+          "url": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 09 Mar 2026 11:35:06 -0400"
+        },
+        {
           "title": "Does Iraq war hold lessons for Iran on regime change?",
           "url": "https://www.npr.org/2026/03/09/nx-s1-5739280/does-iraq-war-hold-lessons-for-iran-on-regime-change",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/09/nx-s1-5613878/us-census-citizenship-question-redistricting",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 09 Mar 2026 05:00:00 -0400"
-        },
-        {
-          "title": "Afghans and Pakistanis living in Iran flee new conflict",
-          "url": "https://www.npr.org/2026/03/09/nx-s1-5737442/afghans-and-pakistanis-living-in-iran-flee-new-conflict",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Mar 2026 04:31:16 -0400"
         },
         {
           "title": "Trump Threatens to Crowd Out Republicans’ Midterm Message",
@@ -122,7 +122,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "A New and Confusing Study About Acetaminophen and Autism",
+          "title": "The Pentagon Cut Its Civilian Safeguards Before the Iran War",
+          "url": "https://www.theatlantic.com/national-security/2026/03/us-civilian-casualties-iran/686292/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T11:31:43-04:00"
+        },
+        {
+          "title": "The Fight Over Tylenol and Autism Just Got Messier",
           "url": "https://www.theatlantic.com/health/2026/03/acetaminophen-autism-adhd-taiwan/686297/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T11:00:05-04:00"
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/national-security/2026/03/air-campaign-military-primer/686294/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T09:31:47-04:00"
-        },
-        {
-          "title": "Americans Should Stop Using the Term <em>Christian Nationalism</em>",
-          "url": "https://www.theatlantic.com/books/2026/03/how-christian-nationalist-became-epithet/686279/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T09:01:16-04:00"
         },
         {
           "title": "The logic of anxiety",
