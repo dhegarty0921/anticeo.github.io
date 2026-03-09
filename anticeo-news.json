@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T12:10:26.676406Z",
+  "generated_at": "2026-03-09T12:15:27.125097Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "In Senate Race, Talarico Challenges ‘Heretical’ Right-Wing Christianity",
           "url": "https://www.nytimes.com/2026/03/09/us/politics/talarico-christian-religion-texas-senate.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 09:01:44 +0000"
+          "ts": "Mon, 09 Mar 2026 12:09:05 +0000"
         },
         {
           "title": "U.S. Carries Out Another Boat Strike, Killing Six",
@@ -122,12 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Books Are Meant to Be Slow",
-          "url": "https://www.theatlantic.com/ideas/2026/03/slow-reading-books-benefits/686266/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T08:00:00-04:00"
-        },
-        {
           "title": "The Cynical, Gullible American Man",
           "url": "https://www.theatlantic.com/ideas/2026/03/cynical-gullible-american-man/686079/?utm_source=feed",
           "source": "The Atlantic",
@@ -136,6 +130,12 @@
         {
           "title": "The Asymmetric Ways Iran Could Strike Back",
           "url": "https://www.theatlantic.com/national-security/2026/03/asymmetric-warfare-iran-numbers-stations-cyber/686289/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T07:00:00-04:00"
+        },
+        {
+          "title": "The Left Shouldn’t Demonize Homeowners",
+          "url": "https://www.theatlantic.com/ideas/2026/03/mamdani-homeownership/686269/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T07:00:00-04:00"
         },
