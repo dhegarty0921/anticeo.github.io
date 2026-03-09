@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T13:35:23.646637Z",
+  "generated_at": "2026-03-09T13:40:24.032659Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-09T07:15:00-04:00"
         },
         {
+          "title": "Pete Hegseth says ‘there will be more casualties’ in US war with Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/pete-hegseth-us-war-with-iran-casualties",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 13:33:12 GMT"
+        },
+        {
           "title": "Investigators are finally looking into Jeffrey Epstein’s New Mexico ranch. They may be too late",
           "url": "https://www.theguardian.com/us-news/2026/mar/09/jeffrey-epstein-new-mexico-ranch",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Mar 2026 12:56:52 GMT"
-        },
-        {
-          "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/first-thing-ali-khamenei-son-mojtaba-chosen-iran-new-supreme-leader",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 12:39:47 GMT"
         }
       ]
     },
@@ -181,10 +181,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "New missile video puts spotlight on US over Iran school attack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/new-missile-video-puts-spotlight-on-us-over-iran-school-attack?traffic_source=rss",
+          "title": "Gaza food crisis worsens due to Iran war and border closures",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/9/gaza-food-crisis-worsens-due-to-iran-war-and-border-closures?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Mar 2026 13:12:08 +0000"
+          "ts": "Mon, 09 Mar 2026 13:36:45 +0000"
         }
       ]
     },
