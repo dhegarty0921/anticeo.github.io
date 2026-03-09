@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T11:10:25.599053Z",
+  "generated_at": "2026-03-09T11:15:25.113389Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Mon, 09 Mar 2026 06:00:55 -0500"
         },
         {
-          "title": "Live Nation reaches settlement with DOJ in antitrust fight",
-          "url": "https://www.politico.com/news/2026/03/09/live-nation-reaches-settlement-with-doj-in-antitrust-fight-00818564",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 05:00:00 EST"
-        },
-        {
-          "title": "House Republicans face internal and external headwinds as they gather to map out 2026",
-          "url": "https://www.politico.com/news/2026/03/09/house-gop-retreat-trump-midterms-00817213",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Kamala Harris Is Buying Time — But Democrats Are Looking Ahead",
-          "url": "https://www.politico.com/news/magazine/2026/03/09/kamala-harris-2028-book-tour-democrats-00818284",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 09 Mar 2026 04:55:00 EST"
-        },
-        {
           "title": "Pixar boss slammed for comments about queer themes cut from Elio: ‘Unbelievably grim’",
           "url": "https://www.thepinknews.com/2026/03/09/pixar-pete-docter-elios-cut-queer-plot/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -140,22 +122,40 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Winter Paralympics Photo of the Day: Para Biathlon",
-          "url": "https://www.theatlantic.com/photography/2026/03/winter-paralympics-photo-day-para-biathlon/686293/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-08T14:27:29-04:00"
+          "title": "Deportations surge, aid collapses and faith groups in Latin America struggle to respond",
+          "url": "https://religionnews.com/2026/03/08/as-deportations-rise-faith-groups-struggle-to-help-migrants-with-fewer-resources/",
+          "source": "RNS",
+          "ts": "Sun, 08 Mar 2026 21:16:26 +0000"
         },
         {
-          "title": "The <em>SNL</em> Sketch That Broke All the Rules",
-          "url": "https://www.theatlantic.com/culture/2026/03/snl-ryan-gosling-season-51/686291/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-08T12:57:35-04:00"
+          "title": "Closing Al-Aqsa Mosque during Ramadan sets a dangerous precedent",
+          "url": "https://religionnews.com/2026/03/08/closing-al-aqsa-mosque-during-ramadan-sets-a-dangerous-precedent/",
+          "source": "RNS",
+          "ts": "Sun, 08 Mar 2026 16:58:56 +0000"
         },
         {
-          "title": "Misrule Music",
-          "url": "https://www.theatlantic.com/magazine/2026/04/robert-pinsky-misrule-music/686069/?utm_source=feed",
+          "title": "The Downward Arc of Donald Trump, With Ruth Ben-Ghiat",
+          "url": "https://religionnews.com/2026/03/07/the-downward-arc-of-donald-trump-with-ruth-ben-ghiat/",
+          "source": "RNS",
+          "ts": "Sat, 07 Mar 2026 23:05:59 +0000"
+        },
+        {
+          "title": "The Asymmetric Ways Iran Could Strike Back",
+          "url": "https://www.theatlantic.com/national-security/2026/03/asymmetric-warfare-iran-numbers-stations-cyber/686289/?utm_source=feed",
           "source": "The Atlantic",
-          "ts": "2026-03-08T12:00:00-04:00"
+          "ts": "2026-03-09T07:00:00-04:00"
+        },
+        {
+          "title": "The Power of Homeownership in New York",
+          "url": "https://www.theatlantic.com/ideas/2026/03/mamdani-homeownership/686269/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T07:00:00-04:00"
+        },
+        {
+          "title": "The Unbearable Lightness of Signalgate",
+          "url": "https://www.theatlantic.com/magazine/2026/04/signalgate-consequences-national-security/686056/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-09T07:00:00-04:00"
         },
         {
           "title": "Is Trump coming for Cuba?",
@@ -174,6 +174,24 @@
           "url": "https://www.vox.com/advice/481697/post-breakup-finances-budget-subscriptions-bills",
           "source": "Vox",
           "ts": "2026-03-09T06:15:00-04:00"
+        },
+        {
+          "title": "‘The cover-up is brazen’: one journalist’s tenacious, traumatic fight to expose Ghislaine Maxwell",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/lucia-osborne-crowley-tenacious-traumatic-fight-expose-ghislaine-maxwell-jeffrey-epstein",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 05:00:39 GMT"
+        },
+        {
+          "title": "US military kills six in strike on alleged drug boat in Pacific",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/us-military-drug-boat-strike-pacific",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 03:09:50 GMT"
+        },
+        {
+          "title": "Trump news at a glance: White House adviser Stephen Miller ‘should go’, says Republican senator",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-news-updates-iran-oil-stephen-miller-republican-senator",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 02:35:51 GMT"
         }
       ]
     },
