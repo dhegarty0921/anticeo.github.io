@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T15:03:30.835776Z",
+  "generated_at": "2026-03-09T15:08:27.096958Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Explosives thrown near New York City mayor’s residence investigated as ‘ISIS-related terrorism’",
-          "url": "https://religionnews.com/2026/03/09/explosives-thrown-near-new-york-city-mayors-residence-investigated-as-isis-related-terrorism/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 14:24:15 +0000"
-        },
-        {
-          "title": "Deportations surge, aid collapses and faith groups in Latin America struggle to respond",
-          "url": "https://religionnews.com/2026/03/08/as-deportations-rise-faith-groups-struggle-to-help-migrants-with-fewer-resources/",
-          "source": "RNS",
-          "ts": "Sun, 08 Mar 2026 21:16:26 +0000"
-        },
-        {
-          "title": "Closing Al-Aqsa Mosque during Ramadan sets a dangerous precedent",
-          "url": "https://religionnews.com/2026/03/08/closing-al-aqsa-mosque-during-ramadan-sets-a-dangerous-precedent/",
-          "source": "RNS",
-          "ts": "Sun, 08 Mar 2026 16:58:56 +0000"
-        },
-        {
           "title": "An Air-Campaign Primer",
           "url": "https://www.theatlantic.com/national-security/2026/03/air-campaign-military-primer/686294/?utm_source=feed",
           "source": "The Atlantic",
@@ -197,7 +179,14 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Israeli forces kill Palestinian journalist Amal Shamali in Gaza attack",
+          "url": "https://www.aljazeera.com/news/2026/3/9/israeli-forces-kill-palestinian-journalist-amal-shamali-in-gaza-attack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 14:39:36 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
