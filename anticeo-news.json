@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T18:15:23.341024Z",
+  "generated_at": "2026-03-09T18:20:23.224018Z",
   "headline": {
     "title": "FBI launches terrorism investigation after explosives lit outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Mon, 09 Mar 2026 14:49:39 GMT"
         },
         {
+          "title": "What to know about Mojtaba Khamenei, Iran's new supreme leader",
+          "url": "https://www.npr.org/2026/03/09/nx-s1-5742375/mojtaba-khamenei-iran-supreme-leader",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 09 Mar 2026 14:11:42 -0400"
+        },
+        {
           "title": "Anthropic sues the Trump administration over 'supply chain risk' label",
           "url": "https://www.npr.org/2026/03/09/nx-s1-5742548/anthropic-pentagon-lawsuit-amodai-hegseth",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/09/nx-s1-5741213/trump-censorship-visas-deportation-lawsuit",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 09 Mar 2026 11:35:06 -0400"
-        },
-        {
-          "title": "Does Iraq war hold lessons for Iran on regime change?",
-          "url": "https://www.npr.org/2026/03/09/nx-s1-5739280/does-iraq-war-hold-lessons-for-iran-on-regime-change",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Mar 2026 05:46:38 -0400"
         },
         {
           "title": "Judge Halts Trump Administration Move to Restrict Immigration Appeals",
@@ -181,6 +181,12 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "WHO chief raises alarm after Israeli attacks on Iranian oil facilities",
+          "url": "https://www.aljazeera.com/news/2026/3/9/who-chief-raises-alarm-after-israeli-attacks-on-iranian-oil-facilities?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 18:10:10 +0000"
+        },
+        {
           "title": "How the Iran war is affecting Africa",
           "url": "https://www.aljazeera.com/video/africa-now/2026/3/9/how-the-iran-war-is-affecting-africa?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -191,12 +197,6 @@
           "url": "https://www.aljazeera.com/news/2026/3/9/trump-says-australia-has-taken-care-of-iranian-women-football-players?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 09 Mar 2026 17:46:02 +0000"
-        },
-        {
-          "title": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
-          "url": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Mar 2026 16:45:04 +0000"
         }
       ]
     },
