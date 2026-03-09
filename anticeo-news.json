@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T18:10:25.610003Z",
+  "generated_at": "2026-03-09T18:15:23.341024Z",
   "headline": {
     "title": "FBI launches terrorism investigation after explosives lit outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Today’s obsession with authenticity isn’t new – being true to yourself has troubled philosophers for centuries",
-          "url": "https://religionnews.com/2026/03/09/todays-obsession-with-authenticity-isnt-new-being-true-to-yourself-has-troubled-philosophers-for-centuries/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 17:04:20 +0000"
-        },
-        {
-          "title": "Where things stand after another weekend of war",
-          "url": "https://religionnews.com/2026/03/09/where-things-stand-after-another-weekend-of-war/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 17:00:37 +0000"
-        },
-        {
-          "title": "Muslim leaders argue Al-Aqsa Mosque closure during Ramadan may be politically motivated",
-          "url": "https://religionnews.com/2026/03/09/muslim-leaders-argue-al-aqsa-mosque-closure-during-ramadan-may-be-politically-motivated/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 16:31:00 +0000"
-        },
-        {
           "title": "Who Gets to Claim the Kennedys?",
           "url": "https://www.theatlantic.com/culture/2026/03/love-story-john-kennedy-carolyn-bessette-ryan-murphy/686298/?utm_source=feed",
           "source": "The Atlantic",
@@ -176,28 +158,47 @@
           "ts": "2026-03-09T07:15:00-04:00"
         },
         {
+          "title": "California gas prices rise above $5 a gallon amid US war with Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/california-gas-prices-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 18:04:12 GMT"
+        },
+        {
           "title": "Trump says he won’t sign new legislation until Congress passes strict voter ID bill – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 17:41:24 GMT"
+          "ts": "Mon, 09 Mar 2026 17:59:05 GMT"
         },
         {
           "title": "At least eight people dead after spate of tornadoes across central US",
           "url": "https://www.theguardian.com/us-news/2026/mar/09/tornadoes-central-us-deaths",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Mar 2026 16:53:40 GMT"
-        },
-        {
-          "title": "California motel closes after two women found dead in same room days apart",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/california-motel-closed-deaths",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 16:50:35 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "How the Iran war is affecting Africa",
+          "url": "https://www.aljazeera.com/video/africa-now/2026/3/9/how-the-iran-war-is-affecting-africa?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 17:58:11 +0000"
+        },
+        {
+          "title": "Trump says Australia has ‘taken care of’ some Iranian women footballers",
+          "url": "https://www.aljazeera.com/news/2026/3/9/trump-says-australia-has-taken-care-of-iranian-women-football-players?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 17:46:02 +0000"
+        },
+        {
+          "title": "France preparing to escort ships in Strait of Hormuz when war calms: Macron",
+          "url": "https://www.aljazeera.com/news/2026/3/9/france-preparing-to-escort-ships-in-strait-of-hormuz-when-war-calms-macron?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Mar 2026 16:45:04 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
