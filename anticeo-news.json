@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T12:50:26.135396Z",
+  "generated_at": "2026-03-09T12:55:27.297817Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-09T07:15:00-04:00"
         },
         {
+          "title": "Ali Khamenei’s son Mojtaba chosen as Iran’s new supreme leader | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/first-thing-ali-khamenei-son-mojtaba-chosen-iran-new-supreme-leader",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 12:39:47 GMT"
+        },
+        {
           "title": "DHS leadership change is not enough to reopen government and start funding department, says Hakeem Jeffries – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/09/airline-wait-times-dhs-shutdown",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Mar 2026 12:30:51 GMT"
-        },
-        {
-          "title": "Somali Americans hounded by ICE and rightwing ‘influencers’ on edge in Ohio: ‘I’m scared to go outside’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/ohio-ice-somali-community",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 12:00:48 GMT"
         }
       ]
     },
