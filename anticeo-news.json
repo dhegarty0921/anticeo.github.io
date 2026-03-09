@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T23:30:31.912494Z",
+  "generated_at": "2026-03-09T23:35:33.217255Z",
   "headline": {
     "title": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 09 Mar 2026 14:36:22 -0400"
         },
         {
+          "title": "Iran’s Women’s Soccer Team Offered Asylum by President Trump",
+          "url": "https://www.nytimes.com/2026/03/09/us/politics/trumps-offer-to-irans-womens-soccer-team-is-an-about-face-on-asylum.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 09 Mar 2026 23:29:45 +0000"
+        },
+        {
           "title": "Oil Prices and Stocks Swing Wildly as Iran and Israel Launch New Strikes",
           "url": "https://www.nytimes.com/2026/03/09/world/middleeast/iran-war-israel-us.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/09/us/politics/iran-war-midterm-election-economy.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 09 Mar 2026 22:12:04 +0000"
-        },
-        {
-          "title": "2 Teen Mariachi Musicians Released From ICE Detention",
-          "url": "https://www.nytimes.com/2026/03/09/us/politics/mariachi-teens-immigration.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 22:50:54 +0000"
         },
         {
           "title": "Iran war follows decades of the theocratic regime's deadly global terrorism",
