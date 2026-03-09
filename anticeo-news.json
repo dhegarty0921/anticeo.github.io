@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T15:37:21.061177Z",
+  "generated_at": "2026-03-09T15:43:30.793111Z",
   "headline": {
     "title": "Starmer and Trump speak for first time since president's Iran criticism",
     "url": "https://www.bbc.com/news/articles/c05v28eqjyvo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 09 Mar 2026 04:31:16 -0400"
         },
         {
+          "title": "Trump Threatens to Crowd Out Republicans’ Midterm Message",
+          "url": "https://www.nytimes.com/2026/03/09/us/politics/trump-republicans-midterms.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 09 Mar 2026 15:39:31 +0000"
+        },
+        {
           "title": "How Markwayne Mullin Became Trump’s Homeland Security Pick",
           "url": "https://www.nytimes.com/2026/03/09/us/politics/markwayne-mullin-homeland-security-trump.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/09/us/politics/talarico-christian-religion-texas-senate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 09 Mar 2026 12:09:05 +0000"
-        },
-        {
-          "title": "U.S. Carries Out Another Boat Strike, Killing Six",
-          "url": "https://www.nytimes.com/2026/03/08/us/politics/boat-strike-eastern-pacific-six-killed.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 10:58:10 +0000"
         },
         {
           "title": "Trump: High oil prices, surging to over $100 a barrel, are 'small price to pay' as he wages Iran war",
@@ -158,6 +158,12 @@
           "ts": "2026-03-09T07:15:00-04:00"
         },
         {
+          "title": "Trump vows not to sign any new legislation until SAVE America act is passed – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 15:32:16 GMT"
+        },
+        {
           "title": "Texas lawmakers criticize ICE for detaining two teen mariachi musicians",
           "url": "https://www.theguardian.com/us-news/2026/mar/09/texas-lawmakers-ice-detaining-teen-mariachi-musicians",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/09/nyc-mamdani-explosive-device-terrorism",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Mar 2026 15:18:51 GMT"
-        },
-        {
-          "title": "Trump vows not to sign any new legislation until SAVE America act is passed – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 15:00:04 GMT"
         }
       ]
     },
