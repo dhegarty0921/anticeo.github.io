@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T23:10:28.428520Z",
+  "generated_at": "2026-03-09T23:15:27.924937Z",
   "headline": {
     "title": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-09T07:30:00-04:00"
         },
         {
+          "title": "Trump threatens not to sign any bills until Congress approves strict voter ID act",
+          "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-threat-congress-save-america-act",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Mar 2026 23:03:44 GMT"
+        },
+        {
           "title": "Trump claims Democrats ‘probably won’t win an election for 50 years’ if strict voter ID bill passes – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/09/oakland-california-bar-mass-shooting",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Mar 2026 22:06:48 GMT"
-        },
-        {
-          "title": "Alexander brothers, high-profile US real estate brokers, guilty of sex trafficking",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/alexander-brothers-convicted-sex-trafficking",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Mar 2026 21:56:33 GMT"
         }
       ]
     },
