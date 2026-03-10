@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T11:10:34.129407Z",
+  "generated_at": "2026-03-10T11:15:32.243470Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -128,6 +128,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Weather-Changing Conspiracy Theory That Will Never End",
+          "url": "https://www.theatlantic.com/technology/2026/03/haarp-weather-conspiracies/686264/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T07:00:00-04:00"
+        },
+        {
           "title": "What Anthropic’s Clash With the Pentagon Is Really About",
           "url": "https://www.theatlantic.com/technology/2026/03/pentagon-anthropic-dispute/686307/?utm_source=feed",
           "source": "The Atlantic",
@@ -138,12 +144,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/03/oil-prices-dramatic-rise-fall/686306/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-09T18:21:00-04:00"
-        },
-        {
-          "title": "Meet the Nepo-tollah",
-          "url": "https://www.theatlantic.com/international/2026/03/mojtaba-khamenei-nepo-baby/686303/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T17:15:42-04:00"
         },
         {
           "title": "How to get rid of all of your extra stuff",
@@ -164,22 +164,22 @@
           "ts": "2026-03-09T17:10:00-04:00"
         },
         {
+          "title": "Georgia votes for successor to Marjorie Taylor Greene after Trump spat – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 11:06:44 GMT"
+        },
+        {
+          "title": "RFK Jr’s pick to review Covid vaccines authored misleading research, experts say",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/rfk-jr-pick-review-covid-vaccines",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 11:00:05 GMT"
+        },
+        {
           "title": "Georgia votes in high-stakes primary for Marjorie Taylor Greene’s House seat",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 10:00:23 GMT"
-        },
-        {
-          "title": "Texas welder called ‘highway hero’ for stopping unconscious driver",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/texas-welder-stops-unconscious-driver",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 09:00:14 GMT"
-        },
-        {
-          "title": "Trump claims Democrats ‘probably won’t win an election for 50 years’ if strict voter ID bill passes – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 02:00:25 GMT"
         }
       ]
     },
