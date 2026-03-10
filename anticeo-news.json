@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T11:20:31.336401Z",
+  "generated_at": "2026-03-10T11:25:33.711419Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -15,7 +15,7 @@
           "ts": "Tue, 10 Mar 2026 02:37:46 GMT"
         },
         {
-          "title": "Trump wants to pick Marjorie Taylor Greene's replacement. Will Georgia voters listen?",
+          "title": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
           "url": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 10 Mar 2026 10:47:08 GMT"
@@ -128,24 +128,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
-        },
-        {
-          "title": "How one Chinese American healed from growing up in Western evangelicalism",
-          "url": "https://religionnews.com/2026/03/09/in-upcoming-book-author-explores-healing-in-asian-american-churches/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:33:54 +0000"
-        },
-        {
-          "title": "Whom Does Your God Love? A Jewish Case for the Stranger. With Shai Held.",
-          "url": "https://religionnews.com/2026/03/09/how-should-religious-people-think-about-immigrants/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:29:11 +0000"
-        },
-        {
           "title": "The Weather-Changing Conspiracy Theory That Will Never End",
           "url": "https://www.theatlantic.com/technology/2026/03/haarp-weather-conspiracies/686264/?utm_source=feed",
           "source": "The Atlantic",
@@ -186,6 +168,18 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 11:06:44 GMT"
+        },
+        {
+          "title": "RFK Jr’s pick to review Covid vaccines authored misleading research, experts say",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/rfk-jr-pick-review-covid-vaccines",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 11:00:05 GMT"
+        },
+        {
+          "title": "Georgia votes in high-stakes primary for Marjorie Taylor Greene’s House seat",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 10:00:23 GMT"
         }
       ]
     },
