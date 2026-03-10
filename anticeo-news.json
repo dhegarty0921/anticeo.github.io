@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T12:15:30.909246Z",
+  "generated_at": "2026-03-10T12:20:30.415170Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -111,6 +111,12 @@
           "ts": "Tue, 10 Mar 2026 06:31:19 -0500"
         },
         {
+          "title": "GB News whines that brands are ‘scared’ of advertising with them",
+          "url": "https://www.thepinknews.com/2026/03/10/gb-news-advertiser-boycott/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 10 Mar 2026 12:15:59 +0000"
+        },
+        {
           "title": "Chappell Roan films paparazzi ‘harassing’ her at Paris Fashion Week: ‘Disregarded as a human’",
           "url": "https://www.thepinknews.com/2026/03/10/chappell-roan-paparazzi-paris-fashion-week/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -121,12 +127,6 @@
           "url": "https://www.thepinknews.com/2026/03/10/heated-rivalry-season-two-locker-room-scene/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 10 Mar 2026 11:04:05 +0000"
-        },
-        {
-          "title": "Scream 7 star Anna Camp comes out as bisexual",
-          "url": "https://www.thepinknews.com/2026/03/10/anna-camp-bisexual-coming-out-publicly/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Tue, 10 Mar 2026 10:47:12 +0000"
         }
       ]
     },
@@ -134,40 +134,22 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
+          "title": "Winners of the British Wildlife Photography Awards 2026",
+          "url": "https://www.theatlantic.com/photography/2026/03/winners-british-wildlife-photography-awards-2026/686301/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T08:00:00-04:00"
         },
         {
-          "title": "How one Chinese American healed from growing up in Western evangelicalism",
-          "url": "https://religionnews.com/2026/03/09/in-upcoming-book-author-explores-healing-in-asian-american-churches/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:33:54 +0000"
-        },
-        {
-          "title": "Whom Does Your God Love? A Jewish Case for the Stranger. With Shai Held.",
-          "url": "https://religionnews.com/2026/03/09/how-should-religious-people-think-about-immigrants/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:29:11 +0000"
+          "title": "Six Books You’ll Have to Discuss With a Friend",
+          "url": "https://www.theatlantic.com/books/2026/03/books-discuss-friend-group-club-recommendations/686295/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T08:00:00-04:00"
         },
         {
           "title": "Just Don’t Say the W-Word",
           "url": "https://www.theatlantic.com/culture/2026/03/the-reason-the-administration-wont-say-war/686305/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T07:30:00-04:00"
-        },
-        {
-          "title": "AI Layoffs Are a Self-Fulfilling Prophecy",
-          "url": "https://www.theatlantic.com/technology/2026/03/ai-layoffs-block-jack-dorsey/686304/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T07:30:00-04:00"
-        },
-        {
-          "title": "A Never-Ending Conspiracy Theory in Remote Alaska",
-          "url": "https://www.theatlantic.com/technology/2026/03/haarp-weather-conspiracies/686264/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T07:00:00-04:00"
         },
         {
           "title": "How to get rid of all of your extra stuff",
@@ -209,7 +191,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "War on Iran fuelling Islamophobic social media surge in US: Report",
+          "url": "https://www.aljazeera.com/news/2026/3/10/war-on-iran-fuelling-islamophobic-social-media-surge-in-us-report?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 12:02:15 +0000"
+        },
+        {
+          "title": "Walk down Beirut street shows destruction after Israeli bombing",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/walk-down-beirut-street-shows-destruction-after-israeli-bombing?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 12:01:43 +0000"
+        },
+        {
+          "title": "Real Madrid vs Man City: Champions League – team news, start, lineups",
+          "url": "https://www.aljazeera.com/sports/2026/3/10/real-madrid-vs-man-city-champions-league-team-news-start?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 11:37:42 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
