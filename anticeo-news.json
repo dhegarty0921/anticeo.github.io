@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T13:55:34.917946Z",
+  "generated_at": "2026-03-10T14:00:31.459950Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -39,8 +39,8 @@
           "ts": "Tue, 10 Mar 2026 05:08:58 -0400"
         },
         {
-          "title": "Why Congress rarely pushes back when presidents deploy military force",
-          "url": "https://www.npr.org/2026/03/10/nx-s1-5734333/congress-war-powers-explained",
+          "title": "One year later: Mahmoud Khalil remains in limbo but ready to fight",
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5716101/mahmoud-khalil-legal-fight",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Mar 2026 05:00:00 -0400"
         },
@@ -134,7 +134,25 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Inside ICE’s Detention Center for Children",
+          "title": "The goal of National Women’s History Month should be to make misogyny history",
+          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
+          "source": "RNS",
+          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
+        },
+        {
+          "title": "How one Chinese American healed from growing up in Western evangelicalism",
+          "url": "https://religionnews.com/2026/03/09/in-upcoming-book-author-explores-healing-in-asian-american-churches/",
+          "source": "RNS",
+          "ts": "Mon, 09 Mar 2026 19:33:54 +0000"
+        },
+        {
+          "title": "Whom Does Your God Love? A Jewish Case for the Stranger. With Shai Held.",
+          "url": "https://religionnews.com/2026/03/09/how-should-religious-people-think-about-immigrants/",
+          "source": "RNS",
+          "ts": "Mon, 09 Mar 2026 19:29:11 +0000"
+        },
+        {
+          "title": "I Recognize the Look on Liam Ramos’s Face",
           "url": "https://www.theatlantic.com/politics/2026/03/ice-detention-center-dilley-children/686302/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T09:00:00-04:00"
@@ -191,26 +209,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Women’s football team to be welcomed home with open arms, Iran says",
-          "url": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 13:06:47 +0000"
-        },
-        {
-          "title": "Strait of Hormuz closure will have ‘ripple effect for weeks if not months’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/10/strait-of-hormuz-closure-will-have-ripple-effect-for-weeks-if-not?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:56:21 +0000"
-        },
-        {
-          "title": "How will soaring oil prices caused by Iran war impact food prices?",
-          "url": "https://www.aljazeera.com/news/2026/3/10/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:52:35 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
