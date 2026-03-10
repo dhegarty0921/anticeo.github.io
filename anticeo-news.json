@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T09:10:31.680821Z",
+  "generated_at": "2026-03-10T09:15:33.138029Z",
   "headline": {
     "title": "Rising prices, mixed messages: Iran war is fraught with political risk for Trump",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "Unlike in Past Conflicts, Most Americans Oppose Iran Attacks",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 09:01:36 +0000"
+          "ts": "Tue, 10 Mar 2026 09:01:37 +0000"
         },
         {
           "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
@@ -128,24 +128,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
-        },
-        {
-          "title": "How one Chinese American healed from growing up in Western evangelicalism",
-          "url": "https://religionnews.com/2026/03/09/in-upcoming-book-author-explores-healing-in-asian-american-churches/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:33:54 +0000"
-        },
-        {
-          "title": "Whom Does Your God Love? A Jewish Case for the Stranger. With Shai Held.",
-          "url": "https://religionnews.com/2026/03/09/how-should-religious-people-think-about-immigrants/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:29:11 +0000"
-        },
-        {
           "title": "What Anthropic’s Clash With the Pentagon Is Really About",
           "url": "https://www.theatlantic.com/technology/2026/03/pentagon-anthropic-dispute/686307/?utm_source=feed",
           "source": "The Atlantic",
@@ -182,6 +164,12 @@
           "ts": "2026-03-09T07:30:00-04:00"
         },
         {
+          "title": "Texas welder called ‘highway hero’ for stopping unconscious driver",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/texas-welder-stops-unconscious-driver",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 09:00:14 GMT"
+        },
+        {
           "title": "Trump claims Democrats ‘probably won’t win an election for 50 years’ if strict voter ID bill passes – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
           "source": "US news | The Guardian",
@@ -192,12 +180,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-iran-war-oil",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 01:48:18 GMT"
-        },
-        {
-          "title": "Teens in Texas mariachi band released from ICE detention after bipartisan backlash",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/texas-lawmakers-ice-detaining-teen-mariachi-musicians",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 01:10:50 GMT"
         }
       ]
     },
