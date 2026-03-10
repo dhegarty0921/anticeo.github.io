@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T13:20:36.763772Z",
+  "generated_at": "2026-03-10T13:25:31.616418Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -45,10 +45,10 @@
           "ts": "Tue, 10 Mar 2026 05:00:00 -0400"
         },
         {
-          "title": "After Venice Biennale Fallout, Artist Representing U.S. Signs With Mega-Gallery",
-          "url": "https://www.nytimes.com/2026/03/10/arts/after-venice-biennale-fallout-artist-representing-us-signs-with-mega-gallery.html",
+          "title": "Alma Allen Signs With Mega-Gallery After Venice Biennale Fallout",
+          "url": "https://www.nytimes.com/2026/03/10/arts/design/alma-allen-gallery-venice-biennale.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 13:09:40 +0000"
+          "ts": "Tue, 10 Mar 2026 13:19:06 +0000"
         },
         {
           "title": "Democrats Sued to Find Out Whether Trump Will Send Armed Officers to Election Sites",
@@ -134,6 +134,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Inside ICE’s Detention Center for Children",
+          "url": "https://www.theatlantic.com/politics/2026/03/ice-detention-center-dilley-children/686302/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T09:00:00-04:00"
+        },
+        {
           "title": "Winners of the British Wildlife Photography Awards 2026",
           "url": "https://www.theatlantic.com/photography/2026/03/winners-british-wildlife-photography-awards-2026/686301/?utm_source=feed",
           "source": "The Atlantic",
@@ -144,12 +150,6 @@
           "url": "https://www.theatlantic.com/books/2026/03/books-discuss-friend-group-club-recommendations/686295/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T08:00:00-04:00"
-        },
-        {
-          "title": "Just Don’t Say the W-Word",
-          "url": "https://www.theatlantic.com/culture/2026/03/the-reason-the-administration-wont-say-war/686305/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T07:30:00-04:00"
         },
         {
           "title": "These reforms could transform criminal justice for people — and they cost almost nothing",
