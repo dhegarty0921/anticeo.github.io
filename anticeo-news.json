@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T11:00:30.668782Z",
+  "generated_at": "2026-03-10T11:05:32.382973Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -105,6 +105,12 @@
           "ts": "Mon, 09 Mar 2026 19:56:13 -0500"
         },
         {
+          "title": "Heated Rivalry season two will include fan-favourite steamy scene from the books, author confirms",
+          "url": "https://www.thepinknews.com/2026/03/10/heated-rivalry-season-two-locker-room-scene/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 10 Mar 2026 11:04:05 +0000"
+        },
+        {
           "title": "Scream 7 star Anna Camp comes out as bisexual",
           "url": "https://www.thepinknews.com/2026/03/10/anna-camp-bisexual-coming-out-publicly/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -115,36 +121,12 @@
           "url": "https://www.thepinknews.com/2026/03/10/heated-rivalry-hudson-williams-francois-arnaud/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 10 Mar 2026 10:08:28 +0000"
-        },
-        {
-          "title": "Gay-for-pay OnlyFans star chained to Sussex housewife 24 hours a day in Channel 4’s Handcuffed",
-          "url": "https://www.thepinknews.com/2026/03/09/gay-for-pay-onlyfans-star-channel-4-handcuffed-rob-charlie/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 09 Mar 2026 15:21:50 +0000"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
-        },
-        {
-          "title": "How one Chinese American healed from growing up in Western evangelicalism",
-          "url": "https://religionnews.com/2026/03/09/in-upcoming-book-author-explores-healing-in-asian-american-churches/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:33:54 +0000"
-        },
-        {
-          "title": "Whom Does Your God Love? A Jewish Case for the Stranger. With Shai Held.",
-          "url": "https://religionnews.com/2026/03/09/how-should-religious-people-think-about-immigrants/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:29:11 +0000"
-        },
         {
           "title": "What Anthropic’s Clash With the Pentagon Is Really About",
           "url": "https://www.theatlantic.com/technology/2026/03/pentagon-anthropic-dispute/686307/?utm_source=feed",
@@ -164,6 +146,12 @@
           "ts": "2026-03-09T17:15:42-04:00"
         },
         {
+          "title": "How to get rid of all of your extra stuff",
+          "url": "https://www.vox.com/explain-it-to-me/481714/spring-cleaning-clutter-how-to-get-rid-of-stuff-explained",
+          "source": "Vox",
+          "ts": "2026-03-10T07:00:00-04:00"
+        },
+        {
           "title": "The strange reason why bears are attacking people in Japan",
           "url": "https://www.vox.com/climate/482021/japan-bear-attacks-akita-explained",
           "source": "Vox",
@@ -176,16 +164,22 @@
           "ts": "2026-03-09T17:10:00-04:00"
         },
         {
-          "title": "The logic of anxiety",
-          "url": "https://www.vox.com/podcasts/481839/anxiety-depression-symptoms-causes-treatment-meaning",
-          "source": "Vox",
-          "ts": "2026-03-09T08:00:00-04:00"
-        },
-        {
           "title": "Georgia votes in high-stakes primary for Marjorie Taylor Greene’s House seat",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 10:00:23 GMT"
+        },
+        {
+          "title": "Texas welder called ‘highway hero’ for stopping unconscious driver",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/texas-welder-stops-unconscious-driver",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 09:00:14 GMT"
+        },
+        {
+          "title": "Trump claims Democrats ‘probably won’t win an election for 50 years’ if strict voter ID bill passes – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 02:00:25 GMT"
         }
       ]
     },
