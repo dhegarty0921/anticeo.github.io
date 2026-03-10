@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T13:25:31.616418Z",
+  "generated_at": "2026-03-10T13:30:33.771476Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -39,8 +39,8 @@
           "ts": "Tue, 10 Mar 2026 05:08:58 -0400"
         },
         {
-          "title": "Out of work and with 2 teens, this mom may lose food stamps under Trump's changes",
-          "url": "https://www.npr.org/2026/03/10/nx-s1-5737476/snap-trump-work-requirements-families",
+          "title": "One year later: Mahmoud Khalil remains in limbo but ready to fight",
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5716101/mahmoud-khalil-legal-fight",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Mar 2026 05:00:00 -0400"
         },
@@ -111,6 +111,24 @@
           "ts": "Tue, 10 Mar 2026 06:31:19 -0500"
         },
         {
+          "title": "Sarah Huckabee Sanders Talks Trump and the GOP — Over a Plate of Ribs",
+          "url": "https://www.politico.com/news/magazine/2026/03/10/sarah-huckabee-sanders-trump-on-the-road-jonathan-martin-00820077",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 04:00:00 EST"
+        },
+        {
+          "title": "Trump is delaying Texas Senate endorsement to pressure GOP senators on SAVE America Act",
+          "url": "https://www.politico.com/news/2026/03/09/trump-is-delaying-texas-senate-endorsement-to-pressure-gop-senators-on-save-america-act-00819991",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 09 Mar 2026 18:54:20 EST"
+        },
+        {
+          "title": "‘We’ve got to pay attention’: GOP anxiety spikes over rising energy prices",
+          "url": "https://www.politico.com/news/2026/03/09/republicans-gas-prices-midterms-megabill-00819436",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 09 Mar 2026 15:35:02 EST"
+        },
+        {
           "title": "Trump vows not sign any bills until act with anti-trans provisions is passed",
           "url": "https://www.thepinknews.com/2026/03/10/donald-trump-save-act-trans/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -146,7 +164,7 @@
           "ts": "2026-03-10T08:00:00-04:00"
         },
         {
-          "title": "Six Books You’ll Have to Discuss With a Friend",
+          "title": "Six Books That Simply Must Be Talked About",
           "url": "https://www.theatlantic.com/books/2026/03/books-discuss-friend-group-club-recommendations/686295/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T08:00:00-04:00"
@@ -191,26 +209,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Women’s football team to be welcomed home with open arms, Iran says",
-          "url": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 13:06:47 +0000"
-        },
-        {
-          "title": "Strait of Hormuz closure will have ‘ripple effect for weeks if not months’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/10/strait-of-hormuz-closure-will-have-ripple-effect-for-weeks-if-not?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:56:21 +0000"
-        },
-        {
-          "title": "How will soaring oil prices caused by Iran war impact food prices?",
-          "url": "https://www.aljazeera.com/news/2026/3/10/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:52:35 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
