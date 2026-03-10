@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T10:45:32.822969Z",
+  "generated_at": "2026-03-10T10:50:30.999438Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -105,6 +105,12 @@
           "ts": "Mon, 09 Mar 2026 19:56:13 -0500"
         },
         {
+          "title": "Scream 7 star Anna Camp comes out as bisexual",
+          "url": "https://www.thepinknews.com/2026/03/10/anna-camp-bisexual-coming-out-publicly/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 10 Mar 2026 10:47:12 +0000"
+        },
+        {
           "title": "Heated Rivalry stars condemn online bigotry: ‘Don’t call yourself a fan’",
           "url": "https://www.thepinknews.com/2026/03/10/heated-rivalry-hudson-williams-francois-arnaud/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -115,36 +121,12 @@
           "url": "https://www.thepinknews.com/2026/03/09/gay-for-pay-onlyfans-star-channel-4-handcuffed-rob-charlie/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Mon, 09 Mar 2026 15:21:50 +0000"
-        },
-        {
-          "title": "Sophia Bush urges white people to ‘show up for Black people’ in Trump’s America",
-          "url": "https://www.thepinknews.com/2026/03/09/sophia-bush-white-allyship/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 09 Mar 2026 14:43:42 +0000"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
-        },
-        {
-          "title": "How one Chinese American healed from growing up in Western evangelicalism",
-          "url": "https://religionnews.com/2026/03/09/in-upcoming-book-author-explores-healing-in-asian-american-churches/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:33:54 +0000"
-        },
-        {
-          "title": "Whom Does Your God Love? A Jewish Case for the Stranger. With Shai Held.",
-          "url": "https://religionnews.com/2026/03/09/how-should-religious-people-think-about-immigrants/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:29:11 +0000"
-        },
         {
           "title": "What Anthropic’s Clash With the Pentagon Is Really About",
           "url": "https://www.theatlantic.com/technology/2026/03/pentagon-anthropic-dispute/686307/?utm_source=feed",
@@ -164,12 +146,6 @@
           "ts": "2026-03-09T17:15:42-04:00"
         },
         {
-          "title": "The strange reason why bears are attacking people in Japan",
-          "url": "https://www.vox.com/climate/482021/japan-bear-attacks-akita-explained",
-          "source": "Vox",
-          "ts": "2026-03-10T06:00:00-04:00"
-        },
-        {
           "title": "Trump might want “boots on the ground” in Iran. Just not American ones.",
           "url": "https://www.vox.com/politics/482018/kurds-iran-trump-komala",
           "source": "Vox",
@@ -182,6 +158,12 @@
           "ts": "2026-03-09T08:00:00-04:00"
         },
         {
+          "title": "The mysterious Redditor who’s changing the way we do laundry",
+          "url": "https://www.vox.com/life/481598/reddit-laundry-kismai-lipase-detergent-list-spa-day",
+          "source": "Vox",
+          "ts": "2026-03-09T07:30:00-04:00"
+        },
+        {
           "title": "Georgia votes in high-stakes primary for Marjorie Taylor Greene’s House seat",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
           "source": "US news | The Guardian",
@@ -192,6 +174,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/10/texas-welder-stops-unconscious-driver",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 09:00:14 GMT"
+        },
+        {
+          "title": "Trump claims Democrats ‘probably won’t win an election for 50 years’ if strict voter ID bill passes – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 02:00:25 GMT"
         }
       ]
     },
