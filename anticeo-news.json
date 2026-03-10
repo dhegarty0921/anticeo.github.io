@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T01:20:32.042128Z",
+  "generated_at": "2026-03-10T01:25:36.042462Z",
   "headline": {
     "title": "Two men charged with terror offences after homemade bomb thrown outside NYC mayor's home",
     "url": "https://www.bbc.com/news/articles/cy4we8ev5lpo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 09 Mar 2026 14:36:22 -0400"
         },
         {
+          "title": "Two Supreme Court Justices Debate Handling of Trump Emergency Cases",
+          "url": "https://www.nytimes.com/2026/03/09/us/politics/supreme-court-justices-emergency-cases.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Mar 2026 01:22:12 +0000"
+        },
+        {
           "title": "Trump’s War in Iran, and Rising Gas Prices, Collide With Midterm Agenda",
           "url": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/09/us/politics/trump-iran-missile-school.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 10 Mar 2026 00:59:00 +0000"
-        },
-        {
-          "title": "Iran’s Women’s Soccer Team Offered Asylum by President Trump",
-          "url": "https://www.nytimes.com/2026/03/09/us/politics/iran-womens-soccer-team-asylum-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Mar 2026 23:59:21 +0000"
         },
         {
           "title": "Democrats threaten to derail Senate business until Republicans hold public hearings on Iran war",
@@ -164,22 +164,22 @@
           "ts": "2026-03-09T07:30:00-04:00"
         },
         {
-          "title": "Texas lawmakers criticize ICE for detaining two teen mariachi musicians",
+          "title": "Teens in Texas mariachi band released from ICE detention after bipartisan backlash",
           "url": "https://www.theguardian.com/us-news/2026/mar/09/texas-lawmakers-ice-detaining-teen-mariachi-musicians",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 01:04:56 GMT"
+          "ts": "Tue, 10 Mar 2026 01:10:50 GMT"
+        },
+        {
+          "title": "Trump claims Democrats ‘probably won’t win an election for 50 years’ if strict voter ID bill passes – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/09/white-house-dhs-donald-trump-us-politics-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 01:08:28 GMT"
         },
         {
           "title": "Trump news at a glance: president issues an ultimatum to Congress to get voter ID bill passed",
           "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-news-at-a-glance",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 01:00:17 GMT"
-        },
-        {
-          "title": "Trump suggests war could end ‘very soon’ but issues threat to Iran over oil",
-          "url": "https://www.theguardian.com/us-news/2026/mar/09/trump-iran-war-oil",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 00:56:08 GMT"
         }
       ]
     },
