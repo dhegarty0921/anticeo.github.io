@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T14:30:32.211027Z",
+  "generated_at": "2026-03-10T14:35:32.933210Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 10 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "Smartmatic Says It’s a Target of Vindictive Prosecution by Trump",
+          "url": "https://www.nytimes.com/2026/03/10/us/politics/smartmatic-trump-indictment-vindictive-prosecution.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Mar 2026 14:29:23 +0000"
+        },
+        {
           "title": "Alma Allen Signs With Mega-Gallery After Venice Biennale Fallout",
           "url": "https://www.nytimes.com/2026/03/10/arts/design/alma-allen-gallery-venice-biennale.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 10 Mar 2026 13:34:39 +0000"
-        },
-        {
-          "title": "Mississippi and Georgia Elections: What to Watch in Today’s Primaries",
-          "url": "https://www.nytimes.com/2026/03/10/us/politics/mississippi-georgia-elections-what-to-know.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 13:35:46 +0000"
         },
         {
           "title": "War in Iran would be 'catastrophic' for oil market, Saudi Arabia's Aramco warns",
@@ -111,6 +111,12 @@
           "ts": "Tue, 10 Mar 2026 09:01:54 -0500"
         },
         {
+          "title": "Olympian Colin Jackson tells other gay athletes not to be ‘fearful’ of coming out",
+          "url": "https://www.thepinknews.com/2026/03/10/colin-jackson-gay-coming-out/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 10 Mar 2026 14:26:53 +0000"
+        },
+        {
           "title": "Trump vows not sign any bills until act with anti-trans provisions is passed",
           "url": "https://www.thepinknews.com/2026/03/10/donald-trump-save-act-trans/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -121,12 +127,6 @@
           "url": "https://www.thepinknews.com/2026/03/10/gb-news-advertiser-boycott/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 10 Mar 2026 12:15:59 +0000"
-        },
-        {
-          "title": "Chappell Roan films paparazzi ‘harassing’ her at Paris Fashion Week: ‘Disregarded as a human’",
-          "url": "https://www.thepinknews.com/2026/03/10/chappell-roan-paparazzi-paris-fashion-week/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Tue, 10 Mar 2026 11:22:05 +0000"
         }
       ]
     },
@@ -193,22 +193,22 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Women’s football team to be welcomed home with open arms, Iran says",
-          "url": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss",
+          "title": "Is architecture a portrait of society?",
+          "url": "https://www.aljazeera.com/video/doha-debates/2026/3/10/is-architecture-a-portrait-of-society?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 13:06:47 +0000"
+          "ts": "Tue, 10 Mar 2026 14:25:35 +0000"
         },
         {
-          "title": "Strait of Hormuz closure will have ‘ripple effect for weeks if not months’",
-          "url": "https://www.aljazeera.com/video/quotable/2026/3/10/strait-of-hormuz-closure-will-have-ripple-effect-for-weeks-if-not?traffic_source=rss",
+          "title": "Qatari spokesman says unchecked escalation has sparked regional war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/qatari-spokesman-says-unchecked-escalation-has-sparked-regional-war?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:56:21 +0000"
+          "ts": "Tue, 10 Mar 2026 14:15:53 +0000"
         },
         {
-          "title": "How will soaring oil prices caused by Iran war impact food cost?",
-          "url": "https://www.aljazeera.com/news/2026/3/10/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices?traffic_source=rss",
+          "title": "What is the Hezbollah-linked financial institution Al-Qard Al-Hassan?",
+          "url": "https://www.aljazeera.com/news/2026/3/10/what-is-the-hezbollah-linked-financial-institution-al-qard-al-hassan?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:52:35 +0000"
+          "ts": "Tue, 10 Mar 2026 14:06:29 +0000"
         }
       ]
     },
