@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T13:10:31.334326Z",
+  "generated_at": "2026-03-10T13:15:33.392473Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "After Venice Biennale Fallout, Artist Representing U.S. Signs With Mega-Gallery",
           "url": "https://www.nytimes.com/2026/03/10/arts/after-venice-biennale-fallout-artist-representing-us-signs-with-mega-gallery.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 13:07:55 +0000"
+          "ts": "Tue, 10 Mar 2026 13:09:39 +0000"
         },
         {
           "title": "Democrats Sued to Find Out Whether Trump Will Send Armed Officers to Election Sites",
@@ -134,6 +134,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Inside ICE’s Detention Center for Children",
+          "url": "https://www.theatlantic.com/politics/2026/03/ice-detention-center-dilley-children/686302/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T09:00:00-04:00"
+        },
+        {
           "title": "Winners of the British Wildlife Photography Awards 2026",
           "url": "https://www.theatlantic.com/photography/2026/03/winners-british-wildlife-photography-awards-2026/686301/?utm_source=feed",
           "source": "The Atlantic",
@@ -144,12 +150,6 @@
           "url": "https://www.theatlantic.com/books/2026/03/books-discuss-friend-group-club-recommendations/686295/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T08:00:00-04:00"
-        },
-        {
-          "title": "Just Don’t Say the W-Word",
-          "url": "https://www.theatlantic.com/culture/2026/03/the-reason-the-administration-wont-say-war/686305/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T07:30:00-04:00"
         },
         {
           "title": "These reforms could transform criminal justice for people — and they cost almost nothing",
@@ -173,19 +173,19 @@
           "title": "Georgia votes for successor to Marjorie Taylor Greene after Trump spat – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 12:55:03 GMT"
+          "ts": "Tue, 10 Mar 2026 13:01:44 GMT"
+        },
+        {
+          "title": "Immigrant truck drivers are vital to the economy. ICE crackdown is forcing them off roads",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/ice-crackdown-immigrant-truck-drivers",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 13:00:05 GMT"
         },
         {
           "title": "Missouri drops murder charge against man who opened fire at Super Bowl rally",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/super-bowl-shooter-missouri-murder-charge-dropped",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 12:49:52 GMT"
-        },
-        {
-          "title": "Trump says Iran war is ‘very complete, pretty much’ as economic toll rises | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/first-thing-trump-iran-war-very-complete-pretty-much-economic-toll",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 12:32:01 GMT"
         }
       ]
     },
@@ -193,22 +193,22 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Russia the only ‘winner’ of US-Israel war on Iran: EU Council president",
-          "url": "https://www.aljazeera.com/news/2026/3/10/russia-the-only-winner-of-us-israel-war-on-iran-eu-council-president?traffic_source=rss",
+          "title": "Women’s football team to be welcomed home with open arms, Iran says",
+          "url": "https://www.aljazeera.com/sports/2026/3/10/womens-football-team-to-be-welcomed-home-with-open-arms-iran-says?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:40:13 +0000"
+          "ts": "Tue, 10 Mar 2026 13:06:47 +0000"
         },
         {
-          "title": "Rescue workers search rubble after strikes hit Tehran neighbourhood",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/rescue-workers-search-rubble-after-strikes-hit-tehran-neighbourhood?traffic_source=rss",
+          "title": "Strait of Hormuz closure will have ‘ripple effect for weeks if not months’",
+          "url": "https://www.aljazeera.com/video/quotable/2026/3/10/strait-of-hormuz-closure-will-have-ripple-effect-for-weeks-if-not?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:34:14 +0000"
+          "ts": "Tue, 10 Mar 2026 12:56:21 +0000"
         },
         {
-          "title": "Pakistan orders sweeping austerity measures as Iran war triggers oil crisis",
-          "url": "https://www.aljazeera.com/news/2026/3/10/pakistan-orders-sweeping-austerity-measures-as-iran-war-triggers-oil-crisis?traffic_source=rss",
+          "title": "How will soaring oil prices caused by Iran war impact food prices?",
+          "url": "https://www.aljazeera.com/news/2026/3/10/how-will-soaring-oil-prices-caused-by-iran-war-impact-food-prices?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 12:17:20 +0000"
+          "ts": "Tue, 10 Mar 2026 12:52:35 +0000"
         }
       ]
     },
