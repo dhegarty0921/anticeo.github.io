@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T15:35:32.387692Z",
+  "generated_at": "2026-03-10T15:40:32.533430Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -39,8 +39,8 @@
           "ts": "Tue, 10 Mar 2026 05:08:58 -0400"
         },
         {
-          "title": "One year later: Mahmoud Khalil remains in limbo but ready to fight",
-          "url": "https://www.npr.org/2026/03/10/nx-s1-5716101/mahmoud-khalil-legal-fight",
+          "title": "Why Congress rarely pushes back when presidents deploy military force",
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5734333/congress-war-powers-explained",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Mar 2026 05:00:00 -0400"
         },
@@ -54,7 +54,7 @@
           "title": "Voting Company Smartmatic Says It’s a Target of Vindictive Prosecution by Trump",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/smartmatic-trump-indictment-vindictive-prosecution.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 15:09:44 +0000"
+          "ts": "Tue, 10 Mar 2026 15:35:50 +0000"
         },
         {
           "title": "Alma Allen Signs With Mega-Gallery After Venice Biennale Fallout",
@@ -193,6 +193,12 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Pete Hegseth vows ‘most intense day’ of US strikes against Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/10/pete-hegseth-vows-most-intense-day-of-us-strikes-against-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 15:08:32 +0000"
+        },
+        {
           "title": "Protesters block Iran’s women’s football team bus en route to airport",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/protesters-block-irans-womens-football-team-bus-en-route-to-airport?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -203,12 +209,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-defence-chief-ends-iran-war-briefing-with-prayer-for-troops?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 10 Mar 2026 14:36:28 +0000"
-        },
-        {
-          "title": "Is architecture a portrait of society?",
-          "url": "https://www.aljazeera.com/video/doha-debates/2026/3/10/is-architecture-a-portrait-of-society?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Mar 2026 14:25:35 +0000"
         }
       ]
     },
