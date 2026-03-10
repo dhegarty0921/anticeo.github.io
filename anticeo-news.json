@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T20:15:34.071742Z",
+  "generated_at": "2026-03-10T20:20:31.720915Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "How Long Will the Iran War Last? Trump Offers Conflicting Answers.",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/trump-iran-war-how-long-timeline.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 20:05:03 +0000"
+          "ts": "Tue, 10 Mar 2026 20:12:06 +0000"
         },
         {
           "title": "Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead",
@@ -170,6 +170,12 @@
           "ts": "2026-03-10T08:30:00-04:00"
         },
         {
+          "title": "White House says increase in gas prices is ‘temporary’ and claims there will be rapid drop – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 20:02:40 GMT"
+        },
+        {
           "title": "Alabama governor spares death row inmate set for nitrogen gas execution",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/alabama-governor-commutes-nitrogen-gas-execution",
           "source": "US news | The Guardian",
@@ -180,12 +186,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/10/suspicious-device-zohran-mamdani-residence",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 19:53:30 GMT"
-        },
-        {
-          "title": "White House says increase in gas prices is ‘temporary’ and claims there will be rapid drop – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 19:40:09 GMT"
         }
       ]
     },
