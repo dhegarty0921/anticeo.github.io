@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T17:05:54.762579Z",
+  "generated_at": "2026-03-10T17:10:41.699290Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -63,22 +63,22 @@
           "ts": "Tue, 10 Mar 2026 13:19:06 +0000"
         },
         {
-          "title": "New Mexico Sen. Heinrich bucks Schumer, endorses Platner in Maine Senate race",
-          "url": "https://www.washingtontimes.com/news/2026/mar/10/new-mexico-sen-martin-heinrich-bucks-chuck-schumer-endorses-graham/",
+          "title": "'Your time is up': Witness tries to silence Sen. John Kennedy",
+          "url": "https://www.washingtontimes.com/news/2026/mar/10/time-witness-tries-silence-sen-john-kennedy/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 10 Mar 2026 10:27:00 -0400"
+          "ts": "Tue, 10 Mar 2026 12:23:46 -0400"
         },
         {
-          "title": "Rep. Rosa DeLauro blames GOP for airport chaos amid the Democrats' DHS shutdown",
-          "url": "https://www.washingtontimes.com/news/2026/mar/10/rep-rosa-delauro-blames-gop-airport-chaos-amid-democrats-dhs-shutdown/",
+          "title": "Erika Kirk tapped as Air Force Board of Visitors member to replace her late husband Charlie Kirk",
+          "url": "https://www.washingtontimes.com/news/2026/mar/10/erika-kirk-tapped-air-force-board-visitors-member-replace-late/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 10 Mar 2026 09:53:30 -0400"
+          "ts": "Tue, 10 Mar 2026 12:17:34 -0400"
         },
         {
-          "title": "War in Iran would be 'catastrophic' for oil market, Saudi Arabia's Aramco warns",
-          "url": "https://www.washingtontimes.com/news/2026/mar/10/war-iran-would-catastrophic-oil-market-saudi-arabias-aramco-warns/",
+          "title": "DOJ official Ed Martin hit with ethics probe",
+          "url": "https://www.washingtontimes.com/news/2026/mar/10/doj-official-ed-martin-hit-ethics-probe/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 10 Mar 2026 08:42:32 -0400"
+          "ts": "Tue, 10 Mar 2026 11:22:09 -0400"
         },
         {
           "title": "How America's Oil and Gas Dominance Weakens Iran",
@@ -133,24 +133,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "White House’s religious liberty push is exactly what James Madison feared",
-          "url": "https://religionnews.com/2026/03/10/white-houses-religious-liberty-push-is-exactly-what-james-madison-feared/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 16:55:41 +0000"
-        },
-        {
-          "title": "How to use the classroom as a place to confront antisemitism without deepening divisions",
-          "url": "https://religionnews.com/2026/03/10/how-to-use-the-classroom-as-a-place-to-confront-antisemitism-without-deepening-divisions/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 14:21:40 +0000"
-        },
-        {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
-        },
         {
           "title": "The Highly Exclusive Way That Everybody Shops Now",
           "url": "https://www.theatlantic.com/culture/2026/03/shopping-drop-exclusive-selling-out/686308/?utm_source=feed",
@@ -209,7 +191,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "IEA due to meet as member states mull releasing oil reserves amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 16:37:15 +0000"
+        },
+        {
+          "title": "US general says he ‘respects’ Iran’s fight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 16:05:05 +0000"
+        },
+        {
+          "title": "Israeli air strike targets building in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 15:34:41 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
