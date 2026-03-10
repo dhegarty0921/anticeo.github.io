@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T22:10:30.803575Z",
+  "generated_at": "2026-03-10T22:15:31.359037Z",
   "headline": {
     "title": "Defence secretary Hegseth warns of 'most intense' day of US war on Iran",
     "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "Trump Tries to Sidestep Blame for Any Civilian Deaths in Iran",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/trump-civilian-deaths-iran-war.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 22:01:03 +0000"
+          "ts": "Tue, 10 Mar 2026 22:12:25 +0000"
         },
         {
           "title": "ChatGPT, Other Chatbots Approved for Official Use in the Senate",
@@ -170,12 +170,6 @@
           "ts": "2026-03-10T14:35:44-04:00"
         },
         {
-          "title": "White House says increase in gas prices is ‘temporary’ as Democrats blast Trump administration’s ‘incoherent’ Iran strategy – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 21:56:31 GMT"
-        },
-        {
           "title": "Mike Johnson refuses to condemn anti-Muslim comments by Republican lawmakers",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/mike-johnson-anti-muslim-comments",
           "source": "US news | The Guardian",
@@ -186,6 +180,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/10/la-county-homeless-deaths-report",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Mar 2026 21:48:45 GMT"
+        },
+        {
+          "title": "White House says increase in gas prices is ‘temporary’ as Democrats blast Trump administration’s ‘incoherent’ Iran strategy – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 21:40:37 GMT"
         }
       ]
     },
