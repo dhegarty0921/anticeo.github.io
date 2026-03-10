@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T21:00:31.305070Z",
+  "generated_at": "2026-03-10T21:05:31.832933Z",
   "headline": {
     "title": "Georgia voters to pick replacement for Marjorie Taylor Greene in special election",
     "url": "https://www.bbc.com/news/articles/c77ey1v7jrzo?at_medium=RSS&at_campaign=rss"
@@ -134,6 +134,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Peculiar State of Islamic Terror In America",
+          "url": "https://www.theatlantic.com/ideas/2026/03/isis-iran-mamdani-attacks/686316/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T16:52:00-04:00"
+        },
+        {
           "title": "Winter Paralympics Photo of the Day: Guided Speed",
           "url": "https://www.theatlantic.com/photography/2026/03/winter-paralympics-photo-day-guided-speed/686315/?utm_source=feed",
           "source": "The Atlantic",
@@ -144,12 +150,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/03/trivia-2026-03-10/686313/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T15:15:00-04:00"
-        },
-        {
-          "title": "Spain’s Wind-Farm Bargain",
-          "url": "https://www.theatlantic.com/science/2026/03/spain-wind-power/686311/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T13:46:34-04:00"
         },
         {
           "title": "You’re already paying for Trump’s Iran war",
@@ -173,7 +173,7 @@
           "title": "White House says increase in gas prices is ‘temporary’ and claims there will be rapid drop – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 20:28:46 GMT"
+          "ts": "Tue, 10 Mar 2026 20:45:52 GMT"
         },
         {
           "title": "Alabama governor spares death row inmate set for nitrogen gas execution",
