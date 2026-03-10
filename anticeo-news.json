@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T11:55:31.936392Z",
+  "generated_at": "2026-03-10T12:00:31.322659Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -39,8 +39,8 @@
           "ts": "Tue, 10 Mar 2026 05:08:58 -0400"
         },
         {
-          "title": "Out of work and with 2 teens, this mom may lose food stamps under Trump's changes",
-          "url": "https://www.npr.org/2026/03/10/nx-s1-5737476/snap-trump-work-requirements-families",
+          "title": "One year later: Mahmoud Khalil remains in limbo but ready to fight",
+          "url": "https://www.npr.org/2026/03/10/nx-s1-5716101/mahmoud-khalil-legal-fight",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Mar 2026 05:00:00 -0400"
         },
@@ -134,22 +134,22 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Weather-Changing Conspiracy Theory That Will Never End",
+          "title": "Just Don’t Say the W-Word",
+          "url": "https://www.theatlantic.com/culture/2026/03/the-reason-the-administration-wont-say-war/686305/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T07:30:00-04:00"
+        },
+        {
+          "title": "AI Layoffs Are a Self-Fulfilling Prophecy",
+          "url": "https://www.theatlantic.com/technology/2026/03/ai-layoffs-block-jack-dorsey/686304/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T07:30:00-04:00"
+        },
+        {
+          "title": "A Never-Ending Conspiracy Theory in Remote Alaska",
           "url": "https://www.theatlantic.com/technology/2026/03/haarp-weather-conspiracies/686264/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T07:00:00-04:00"
-        },
-        {
-          "title": "What Anthropic’s Clash With the Pentagon Is Really About",
-          "url": "https://www.theatlantic.com/technology/2026/03/pentagon-anthropic-dispute/686307/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T19:46:40-04:00"
-        },
-        {
-          "title": "The Wild 24-Hour Rise and Fall of Oil Prices",
-          "url": "https://www.theatlantic.com/newsletters/2026/03/oil-prices-dramatic-rise-fall/686306/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-09T18:21:00-04:00"
         },
         {
           "title": "How to get rid of all of your extra stuff",
@@ -173,7 +173,7 @@
           "title": "Georgia votes for successor to Marjorie Taylor Greene after Trump spat – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 11:39:03 GMT"
+          "ts": "Tue, 10 Mar 2026 11:52:53 GMT"
         },
         {
           "title": "RFK Jr’s pick to review Covid vaccines authored misleading research, experts say",
