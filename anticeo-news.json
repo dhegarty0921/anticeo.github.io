@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T17:15:42.404725Z",
+  "generated_at": "2026-03-10T17:20:51.176403Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -134,24 +134,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "White House’s religious liberty push is exactly what James Madison feared",
-          "url": "https://religionnews.com/2026/03/10/white-houses-religious-liberty-push-is-exactly-what-james-madison-feared/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 16:55:41 +0000"
-        },
-        {
-          "title": "How to use the classroom as a place to confront antisemitism without deepening divisions",
-          "url": "https://religionnews.com/2026/03/10/how-to-use-the-classroom-as-a-place-to-confront-antisemitism-without-deepening-divisions/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 14:21:40 +0000"
-        },
-        {
-          "title": "The goal of National Women’s History Month should be to make misogyny history",
-          "url": "https://religionnews.com/2026/03/09/the-goal-of-national-womens-history-month-should-be-to-make-misogyny-history/",
-          "source": "RNS",
-          "ts": "Mon, 09 Mar 2026 19:40:21 +0000"
-        },
-        {
           "title": "The Highly Exclusive Way That Everybody Shops Now",
           "url": "https://www.theatlantic.com/culture/2026/03/shopping-drop-exclusive-selling-out/686308/?utm_source=feed",
           "source": "The Atlantic",
@@ -191,7 +173,7 @@
           "title": "Republican aims to schedule Markwayne Mullin confirmation hearing next week after Kristi Noem’s ouster – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 16:34:53 GMT"
+          "ts": "Tue, 10 Mar 2026 17:01:42 GMT"
         },
         {
           "title": "‘They’re trying to change the rules’: Republicans ramp up fight to stop new maps in Utah",
@@ -209,7 +191,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "IEA due to meet as member states mull releasing oil reserves amid Iran war",
+          "url": "https://www.aljazeera.com/news/2026/3/10/iea-to-meet-as-countries-mull-releasing-oil-reserves-amid-iran-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 16:37:15 +0000"
+        },
+        {
+          "title": "US general says he ‘respects’ Iran’s fight",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/us-general-says-he-respects-irans-fight?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 16:05:05 +0000"
+        },
+        {
+          "title": "Israeli air strike targets building in south Lebanon",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/10/israeli-air-strike-targets-building-in-south-lebanon?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Mar 2026 15:34:41 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
