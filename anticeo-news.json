@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T19:40:32.777193Z",
+  "generated_at": "2026-03-10T19:45:33.823978Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 10 Mar 2026 05:08:58 -0400"
         },
         {
+          "title": "Trump’s Shifting Timeline for How Long the Iran War Will Last",
+          "url": "https://www.nytimes.com/2026/03/10/us/politics/trump-iran-war-how-long-timeline.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Mar 2026 19:37:39 +0000"
+        },
+        {
           "title": "Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/senate-housing-bill.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/10/us/politics/dc-bar-ed-martin-disciplinary-hearing.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 10 Mar 2026 15:16:59 +0000"
-        },
-        {
-          "title": "Higher Oil Prices Could Put the Fed in a Bind as Labor Market Softens",
-          "url": "https://www.nytimes.com/2026/03/10/business/fed-oil-iran-interest-rates.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 18:54:57 +0000"
         },
         {
           "title": "Rand Paul says GOP 'behind the eight ball' in midterms",
@@ -109,24 +109,6 @@
           "url": "https://www.realcleareducation.com/articles/2026/03/09/we_must_invest_in_civics_for_americas_250th_1169295.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 10 Mar 2026 09:01:54 -0500"
-        },
-        {
-          "title": "How Jared Kushner, Steve Witkoff see the world",
-          "url": "https://www.politico.com/news/2026/03/10/how-jared-kushner-steve-witkoff-see-the-world-00820113",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "Sarah Huckabee Sanders Talks Trump and the GOP — Over a Plate of Ribs",
-          "url": "https://www.politico.com/news/magazine/2026/03/10/sarah-huckabee-sanders-trump-on-the-road-jonathan-martin-00820077",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "FDA backs away from RFK Jr.’s claims about drug’s promise for autism patients",
-          "url": "https://www.politico.com/news/2026/03/10/fda-backs-away-from-rfk-jr-s-claims-about-drugs-promise-for-autism-patients-00820221",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 08:39:29 EST"
         },
         {
           "title": "‘You don’t need millions in the bank to adopt – children just need love and a safe place’",
@@ -186,6 +168,24 @@
           "url": "https://www.vox.com/future-perfect/481884/criminal-justice-prisons-jail-court-system-jennifer-doleac",
           "source": "Vox",
           "ts": "2026-03-10T08:30:00-04:00"
+        },
+        {
+          "title": "White House says increase in gas prices is ‘temporary’ and claims there will be rapid drop – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 19:17:37 GMT"
+        },
+        {
+          "title": "Trump names Erika Kirk to key advisory board of US Air Force Academy",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/erika-kirk-board-us-air-force-academy",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 18:43:56 GMT"
+        },
+        {
+          "title": "California Catholic bishop resigns amid charges he embezzled $270,000 from parish",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/chaldean-catholic-bishop-resigns-embezzling-charges",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Mar 2026 18:34:43 GMT"
         }
       ]
     },
