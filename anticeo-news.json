@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T19:37:03.238054Z",
+  "generated_at": "2026-03-10T19:40:32.777193Z",
   "headline": {
     "title": "Mixed messages from Trump leave more questions than answers over war's end",
     "url": "https://www.bbc.com/news/articles/c93j2dw72q9o?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/senate-housing-bill.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 18:27:41 +0000"
+          "ts": "Tue, 10 Mar 2026 19:34:23 +0000"
         },
         {
           "title": "D.C. Bar Begins Disciplinary Proceedings Against Ed Martin",
@@ -111,6 +111,24 @@
           "ts": "Tue, 10 Mar 2026 09:01:54 -0500"
         },
         {
+          "title": "How Jared Kushner, Steve Witkoff see the world",
+          "url": "https://www.politico.com/news/2026/03/10/how-jared-kushner-steve-witkoff-see-the-world-00820113",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 04:00:00 EST"
+        },
+        {
+          "title": "Sarah Huckabee Sanders Talks Trump and the GOP — Over a Plate of Ribs",
+          "url": "https://www.politico.com/news/magazine/2026/03/10/sarah-huckabee-sanders-trump-on-the-road-jonathan-martin-00820077",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 04:00:00 EST"
+        },
+        {
+          "title": "FDA backs away from RFK Jr.’s claims about drug’s promise for autism patients",
+          "url": "https://www.politico.com/news/2026/03/10/fda-backs-away-from-rfk-jr-s-claims-about-drugs-promise-for-autism-patients-00820221",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 08:39:29 EST"
+        },
+        {
           "title": "‘You don’t need millions in the bank to adopt – children just need love and a safe place’",
           "url": "https://www.thepinknews.com/2026/03/10/you-dont-need-millions-in-the-bank-to-adopt-children-just-need-love-and-a-safe-place/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -134,6 +152,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Today’s <em>Atlantic</em> Trivia: It’s All Greek to Me (Unless It’s Arabic)",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/trivia-2026-03-10/686313/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-10T15:15:00-04:00"
+        },
+        {
           "title": "Spain’s Wind-Farm Bargain",
           "url": "https://www.theatlantic.com/science/2026/03/spain-wind-power/686311/?utm_source=feed",
           "source": "The Atlantic",
@@ -144,12 +168,6 @@
           "url": "https://www.theatlantic.com/culture/2026/03/shopping-drop-exclusive-selling-out/686308/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T11:04:49-04:00"
-        },
-        {
-          "title": "Why Mahmoud Ahmadinejad Is Still Useful",
-          "url": "https://www.theatlantic.com/ideas/2026/03/mahmoud-ahmadinejad-iran-leadership/686309/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T10:20:00-04:00"
         },
         {
           "title": "You’re already paying for Trump’s Iran war",
@@ -168,24 +186,6 @@
           "url": "https://www.vox.com/future-perfect/481884/criminal-justice-prisons-jail-court-system-jennifer-doleac",
           "source": "Vox",
           "ts": "2026-03-10T08:30:00-04:00"
-        },
-        {
-          "title": "White House says increase in gas prices is ‘temporary’ and claims there will be rapid drop – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 19:17:37 GMT"
-        },
-        {
-          "title": "Trump names Erika Kirk to key advisory board of US Air Force Academy",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/erika-kirk-board-us-air-force-academy",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 18:43:56 GMT"
-        },
-        {
-          "title": "California Catholic bishop resigns amid charges he embezzled $270,000 from parish",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/chaldean-catholic-bishop-resigns-embezzling-charges",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 18:34:43 GMT"
         }
       ]
     },
