@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T22:15:31.597896Z",
+  "generated_at": "2026-03-11T22:20:31.015478Z",
   "headline": {
     "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
     "url": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-11T08:30:00-04:00"
         },
         {
+          "title": "Google founder backs both Republican and Democrat in California governor’s race while ex-CEO fights billionaire tax",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/silicon-valley-donations-california-governor-race",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 22:05:54 GMT"
+        },
+        {
           "title": "Trump puts pressure on Senate majority leader in blunt message: pass strict voter ID bill – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-john-thune-save-america-act",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 21:36:57 GMT"
-        },
-        {
-          "title": "New satirical statue depicts Trump and Epstein as doomed lovers from Titanic",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/titanic-statue-trump-epstein-national-mall",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 19:40:12 GMT"
         }
       ]
     },
