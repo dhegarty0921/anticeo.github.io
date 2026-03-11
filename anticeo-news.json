@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T12:20:31.863388Z",
+  "generated_at": "2026-03-11T12:25:32.194522Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "2026-03-11T07:00:00-04:00"
         },
         {
+          "title": "When do you actually need life insurance?",
+          "url": "https://www.vox.com/advice/482049/do-i-need-life-insurance",
+          "source": "Vox",
+          "ts": "2026-03-11T07:30:00-04:00"
+        },
+        {
           "title": "Diane Warren has been nominated 17 times for Best Original Song. Why hasn’t she won yet?",
           "url": "https://www.vox.com/culture/482083/oscars-2026-diane-warren-best-original-song-17-nominations",
           "source": "Vox",
@@ -152,16 +158,10 @@
           "ts": "2026-03-11T06:00:00-04:00"
         },
         {
-          "title": "Trump’s open-ended war, briefly explained",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/482135/trump-iran-war-how-does-it-end-timeline",
-          "source": "Vox",
-          "ts": "2026-03-10T18:00:28-04:00"
-        },
-        {
           "title": "Democrat and Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
           "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 11:52:03 GMT"
+          "ts": "Wed, 11 Mar 2026 12:09:40 GMT"
         },
         {
           "title": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr",
@@ -181,22 +181,22 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine records first territorial gains since 2023 amid Russian army woes",
+          "url": "https://www.aljazeera.com/news/2026/3/11/ukraine-records-first-territorial-gains-since-2023-amid-russian-army-woes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 12:00:34 +0000"
+        },
+        {
+          "title": "Which countries have seen the highest petrol prices since the Iran war?",
+          "url": "https://www.aljazeera.com/news/2026/3/11/which-countries-have-seen-the-highest-petrol-prices-since-the-iran-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 11:51:38 +0000"
+        },
+        {
           "title": "Iran security chief warns against anti-government protests",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/iran-security-chief-warns-against-anti-government-protests?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Wed, 11 Mar 2026 11:43:20 +0000"
-        },
-        {
-          "title": "How much a day of war on Iran costs the US",
-          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/11/how-much-a-day-of-war-on-iran-costs-the-us-2?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 11:40:52 +0000"
-        },
-        {
-          "title": "12 days: How 2025 Iran blueprint trapped US, Israel in longer war",
-          "url": "https://www.aljazeera.com/features/2026/3/11/12-days-how-2025-iran-blueprint-trapped-us-israel-in-longer-war?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 11:38:04 +0000"
         }
       ]
     },
