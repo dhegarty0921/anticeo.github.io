@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T12:00:50.065806Z",
+  "generated_at": "2026-03-11T12:05:31.693472Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Wed, 11 Mar 2026 06:25:53 -0500"
         },
         {
+          "title": "The White House isn’t panicking about oil prices. That may change in a few weeks.",
+          "url": "https://www.politico.com/news/2026/03/11/the-white-house-isnt-worried-about-oil-prices-that-may-change-in-a-few-weeks-00821643",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 11 Mar 2026 04:00:00 EST"
+        },
+        {
+          "title": "John Thune says he’s ready to take the filibuster heat",
+          "url": "https://www.politico.com/news/2026/03/11/john-thune-save-america-act-talking-filibuster-00822428",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 11 Mar 2026 03:45:00 EST"
+        },
+        {
+          "title": "Trump says his bill would ‘guarantee the midterms.’ House Republicans are moving on.",
+          "url": "https://www.politico.com/news/2026/03/10/house-gop-save-america-act-00822166",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 18:04:58 EST"
+        },
+        {
           "title": "Heated Rivalry star wins Best TV Performance as show named Best TV Drama at Queerties",
           "url": "https://www.thepinknews.com/2026/03/11/heated-rivalry-star-wins-best-tv-performance-as-show-named-best-tv-drama-at-queerties/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -122,6 +140,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Why I Can’t Stand the Hype",
+          "url": "https://www.theatlantic.com/culture/2026/03/pop-culture-hype-aversion/686312/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-11T07:30:00-04:00"
+        },
+        {
           "title": "Robyn Is Still Dancing On Her Own",
           "url": "https://www.theatlantic.com/magazine/2026/04/robyn-sexistential-album/686065/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +156,6 @@
           "url": "https://www.theatlantic.com/national-security/2026/03/big-story-signalgate-one-year-later-jeffrey-goldberg/686072/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-10T19:31:00-04:00"
-        },
-        {
-          "title": "The Iranian Regime Doubles Down",
-          "url": "https://www.theatlantic.com/international/2026/03/mojtaba-khamenei-iran-regime/686317/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T17:24:47-04:00"
         },
         {
           "title": "When do you actually need life insurance?",
@@ -161,7 +179,7 @@
           "title": "Democrat and Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
           "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 11:36:41 GMT"
+          "ts": "Wed, 11 Mar 2026 11:52:03 GMT"
         },
         {
           "title": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr",
@@ -179,26 +197,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "4 day week, fewer car trips in Philippines as Iran fallout bites",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/4-day-week-fewer-car-trips-in-philippines-as-iran-fallout-bites?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 11:32:46 +0000"
-        },
-        {
-          "title": "UN aid worker killed in DR Congo’s rebel-held Goma",
-          "url": "https://www.aljazeera.com/news/2026/3/11/un-aid-worker-killed-in-dr-congos-rebel-held-goma?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 11:15:45 +0000"
-        },
-        {
-          "title": "Iranian female footballer changes mind on Australian asylum offer",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/iranian-female-footballer-changes-mind-on-australian-asylum-offer?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 11:14:22 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
