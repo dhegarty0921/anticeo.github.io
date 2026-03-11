@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:25:34.003945Z",
+  "generated_at": "2026-03-11T13:30:31.774085Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "Japan and Germany Say They Will Release Oil",
           "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 12:58:09 +0000"
+          "ts": "Wed, 11 Mar 2026 13:25:38 +0000"
         },
         {
           "title": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
@@ -122,24 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Mike Johnson says Rep. Andy Ogles’ anti-Muslim remarks reflect ‘popular sentiment’",
-          "url": "https://religionnews.com/2026/03/10/speaker-johnson-addresses-rep-andy-ogles-anti-muslims-comments/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 22:54:52 +0000"
-        },
-        {
-          "title": "Chabad ups security, reiterates peaceful mission after Tucker Carlson’s Iran accusation",
-          "url": "https://religionnews.com/2026/03/10/chabad-ups-security-reiterates-peaceful-mission-after-tucker-carlsons-iran-accusation/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 22:06:03 +0000"
-        },
-        {
-          "title": "Muslim father sues over exclusion of Islamic schools from Texas voucher program",
-          "url": "https://religionnews.com/2026/03/10/muslim-father-sues-over-exclusion-of-islamic-schools-from-texas-voucher-program/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 21:42:10 +0000"
-        },
-        {
           "title": "Play It Again, Claude",
           "url": "https://www.theatlantic.com/ideas/2026/03/claude-piano-ai/686318/?utm_source=feed",
           "source": "The Atlantic",
@@ -197,7 +179,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/11/attacks-from-all-sides-why-iraq-was-dragged-into-us-israel-war-on-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 13:05:20 +0000"
+        },
+        {
+          "title": "Turkish president urges end to Iran war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/turkish-president-urges-end-to-iran-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 13:03:43 +0000"
+        },
+        {
+          "title": "Could Iran be using China’s highly accurate BeiDou navigation system?",
+          "url": "https://www.aljazeera.com/features/2026/3/11/could-iran-be-using-chinas-highly-accurate-beidou-navigation-system?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 12:54:55 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
