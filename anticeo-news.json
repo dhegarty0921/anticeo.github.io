@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T14:45:33.011525Z",
+  "generated_at": "2026-03-11T14:50:32.327544Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-11T06:45:00-04:00"
         },
         {
+          "title": "Democrats deliver stunning flip in New Hampshire special election",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/democrat-new-hampshire-bobbi-boudman",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 14:45:26 GMT"
+        },
+        {
           "title": "Democrat and Trump-endorsed Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/11/tornadoes-illinois-indiana-texas-storms",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 13:21:17 GMT"
-        },
-        {
-          "title": "Meet the Americans withholding their federal income tax to protest against Trump",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-income-tax-protest",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 13:00:49 GMT"
         }
       ]
     },
