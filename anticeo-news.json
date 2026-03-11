@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T00:55:30.243146Z",
+  "generated_at": "2026-03-11T01:00:30.373179Z",
   "headline": {
     "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
     "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 10 Mar 2026 12:51:56 -0400"
         },
         {
+          "title": "Bondi Is Said to Move to Military Housing Because of Threats",
+          "url": "https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 00:53:14 +0000"
+        },
+        {
           "title": "Democrats Demand Hegseth and Rubio Testify on Iran War",
           "url": "https://www.nytimes.com/2026/03/10/us/politics/democrats-rubio-hegseth-iran.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 10 Mar 2026 23:44:58 +0000"
-        },
-        {
-          "title": "Trump Tries to Sidestep Blame for Any Civilian Deaths in Iran",
-          "url": "https://www.nytimes.com/2026/03/10/us/politics/trump-civilian-deaths-iran-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Mar 2026 23:21:17 +0000"
         },
         {
           "title": "Pentagon says 140 service members wounded in Iran war as U.S. launches 'most intense' attacks so far",
@@ -109,6 +109,24 @@
           "url": "https://www.realcleareducation.com/articles/2026/03/09/we_must_invest_in_civics_for_americas_250th_1169295.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 10 Mar 2026 09:01:54 -0500"
+        },
+        {
+          "title": "Hegseth gutted offices that would have probed Iran school strike",
+          "url": "https://www.politico.com/news/2026/03/10/pentagon-iran-school-strike-civilian-casualties-00820780",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 17:19:01 EST"
+        },
+        {
+          "title": "Ted Cruz, Tucker Carlson reignite feud over Iran war",
+          "url": "https://www.politico.com/news/2026/03/10/ted-cruz-tucker-carlson-reignite-feud-as-iran-war-heats-up-00821384",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 15:00:34 EST"
+        },
+        {
+          "title": "MAGA war skeptics rage over Lindsey Graham",
+          "url": "https://www.politico.com/news/2026/03/10/lindsey-graham-iran-war-backlash-00821326",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 10 Mar 2026 14:28:58 EST"
         },
         {
           "title": "‘You don’t need millions in the bank to adopt – children just need love and a safe place’",
@@ -168,24 +186,6 @@
           "url": "https://www.vox.com/press-room/482091/vox-appoints-stephen-heuser-as-executive-editor",
           "source": "Vox",
           "ts": "2026-03-10T14:35:44-04:00"
-        },
-        {
-          "title": "Democrat blasts Trump’s ‘incoherent’ Iran strategy after Pentagon says 140 US service members wounded in operation – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 00:35:20 GMT"
-        },
-        {
-          "title": "Republican and Democrat head for run-off in election for Marjorie Taylor Greene’s House seat",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 00:25:05 GMT"
-        },
-        {
-          "title": "Hawaii braces for powerful kona storm bringing heavy rain and strong winds",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/hawaii-kona-storm-winds",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 00:13:31 GMT"
         }
       ]
     },
