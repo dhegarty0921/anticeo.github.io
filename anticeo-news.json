@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:45:30.921988Z",
+  "generated_at": "2026-03-11T13:50:31.465992Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-11T06:45:00-04:00"
         },
         {
+          "title": "Democrat and Trump-endorsed Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 13:34:45 GMT"
+        },
+        {
           "title": "Tornadoes hit Illinois, Indiana and Texas as severe storms sweep US",
           "url": "https://www.theguardian.com/us-news/2026/mar/11/tornadoes-illinois-indiana-texas-storms",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-income-tax-protest",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 13:00:49 GMT"
-        },
-        {
-          "title": "US attacks Iran’s mine-laying boats in strait of Hormuz as tensions rise over oil | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/first-thing-us-israel-attack-iran-boats-strait-of-hormuz-middle-east-crisis-oil",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 12:53:35 GMT"
         }
       ]
     },
