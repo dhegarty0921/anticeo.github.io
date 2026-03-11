@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T11:50:42.293195Z",
+  "generated_at": "2026-03-11T11:55:33.476781Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
           "url": "https://www.nytimes.com/2026/03/11/world/europe/uk-police-epstein-giuffre-maxwell-prince-andrew.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 10:25:35 +0000"
+          "ts": "Wed, 11 Mar 2026 11:51:53 +0000"
         },
         {
           "title": "Through Violent Memes on Social Media, Trump Promotes the War on Iran",
@@ -97,24 +97,6 @@
           "url": "https://www.realclearpolitics.com/2026/03/11/what_the_critics_have_wrong_about_the_iran_conflict_694067.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Wed, 11 Mar 2026 06:25:53 -0500"
-        },
-        {
-          "title": "The White House isn’t panicking about oil prices. That may change in a few weeks.",
-          "url": "https://www.politico.com/news/2026/03/11/the-white-house-isnt-worried-about-oil-prices-that-may-change-in-a-few-weeks-00821643",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 11 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "John Thune says he’s ready to take the filibuster heat",
-          "url": "https://www.politico.com/news/2026/03/11/john-thune-save-america-act-talking-filibuster-00822428",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 11 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Trump says his bill would ‘guarantee the midterms.’ House Republicans are moving on.",
-          "url": "https://www.politico.com/news/2026/03/10/house-gop-save-america-act-00822166",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 18:04:58 EST"
         },
         {
           "title": "Heated Rivalry star wins Best TV Performance as show named Best TV Drama at Queerties",
@@ -197,7 +179,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "4 day week, fewer car trips in Philippines as Iran fallout bites",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/4-day-week-fewer-car-trips-in-philippines-as-iran-fallout-bites?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 11:32:46 +0000"
+        },
+        {
+          "title": "UN aid worker killed in DR Congo’s rebel-held Goma",
+          "url": "https://www.aljazeera.com/news/2026/3/11/un-aid-worker-killed-in-dr-congos-rebel-held-goma?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 11:15:45 +0000"
+        },
+        {
+          "title": "Iranian female footballer changes mind on Australian asylum offer",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/iranian-female-footballer-changes-mind-on-australian-asylum-offer?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 11:14:22 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
