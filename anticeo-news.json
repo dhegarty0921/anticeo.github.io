@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T00:30:04.005866Z",
+  "generated_at": "2026-03-11T00:35:32.162077Z",
   "headline": {
     "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
     "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss"
@@ -188,6 +188,12 @@
           "ts": "2026-03-10T14:35:44-04:00"
         },
         {
+          "title": "Republican and Democrat head for run-off in election for Marjorie Taylor Greene’s House seat",
+          "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 00:25:05 GMT"
+        },
+        {
           "title": "Hawaii braces for powerful kona storm bringing heavy rain and strong winds",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/hawaii-kona-storm-winds",
           "source": "US news | The Guardian",
@@ -198,12 +204,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 00:05:52 GMT"
-        },
-        {
-          "title": "Mike Johnson refuses to condemn anti-Muslim comments by Republican lawmakers",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/mike-johnson-anti-muslim-comments",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Mar 2026 21:49:22 GMT"
         }
       ]
     },
