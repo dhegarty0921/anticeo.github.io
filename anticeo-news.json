@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T20:45:34.274144Z",
+  "generated_at": "2026-03-11T20:50:31.736921Z",
   "headline": {
     "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
     "url": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 11 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "Food Stamp Recipients Sue Over Bans on Sugary Drinks",
+          "url": "https://www.nytimes.com/2026/03/11/us/politics/usda-sued-snap-soda-ban.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 20:44:17 +0000"
+        },
+        {
           "title": "Trump Administration Asks Supreme Court to End Protections for Haitian Immigrants",
           "url": "https://www.nytimes.com/2026/03/11/us/politics/supreme-court-haitians-deportation.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/11/us/politics/house-republicans-immigration-midterms.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 11 Mar 2026 20:01:22 +0000"
-        },
-        {
-          "title": "V.A. Begins Drive to Put Homeless Veterans Into Guardianship",
-          "url": "https://www.nytimes.com/2026/03/11/us/politics/veterans-homeless-guardianship-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 18:40:10 +0000"
         },
         {
           "title": "Trump skips question about U.S. at fault for missile strike on Iran school",
