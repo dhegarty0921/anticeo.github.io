@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T12:45:33.511386Z",
+  "generated_at": "2026-03-11T12:50:32.205746Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 11 Mar 2026 04:21:50 -0400"
         },
         {
+          "title": "Japan and Germany Say They Will Release Oil",
+          "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 12:45:43 +0000"
+        },
+        {
           "title": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
           "url": "https://www.nytimes.com/2026/03/11/world/europe/uk-police-epstein-giuffre-maxwell-prince-andrew.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/11/arts/television/iran-war-trump-memes-social-media-videos.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 11 Mar 2026 11:21:36 +0000"
-        },
-        {
-          "title": "Trump Administration to Restart Global Entry Program",
-          "url": "https://www.nytimes.com/2026/03/10/us/politics/global-entry-dhs-shutdown.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 01:12:25 +0000"
         },
         {
           "title": "Trump visits Ohio and Kentucky to downplay war's effect on economy and target a top GOP antagonist",
@@ -140,6 +140,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Mike Johnson says Rep. Andy Ogles’ anti-Muslim remarks reflect ‘popular sentiment’",
+          "url": "https://religionnews.com/2026/03/10/speaker-johnson-addresses-rep-andy-ogles-anti-muslims-comments/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 22:54:52 +0000"
+        },
+        {
+          "title": "Chabad ups security, reiterates peaceful mission after Tucker Carlson’s Iran accusation",
+          "url": "https://religionnews.com/2026/03/10/chabad-ups-security-reiterates-peaceful-mission-after-tucker-carlsons-iran-accusation/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 22:06:03 +0000"
+        },
+        {
+          "title": "Muslim father sues over exclusion of Islamic schools from Texas voucher program",
+          "url": "https://religionnews.com/2026/03/10/muslim-father-sues-over-exclusion-of-islamic-schools-from-texas-voucher-program/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 21:42:10 +0000"
+        },
+        {
           "title": "Play It Again, Claude",
           "url": "https://www.theatlantic.com/ideas/2026/03/claude-piano-ai/686318/?utm_source=feed",
           "source": "The Atlantic",
@@ -174,24 +192,6 @@
           "url": "https://www.vox.com/culture/482083/oscars-2026-diane-warren-best-original-song-17-nominations",
           "source": "Vox",
           "ts": "2026-03-11T06:45:00-04:00"
-        },
-        {
-          "title": "Democrat and Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 12:09:40 GMT"
-        },
-        {
-          "title": "Experts fear ‘unethical’ vaccine trial in Africa is ‘prototype’ for US studies under RFK Jr",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/rfk-vaccine-trials-guinea-bissau",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 11:00:01 GMT"
-        },
-        {
-          "title": "Iranian exile factions vie for US leaders’ blessing to lead Iran",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/iran-leaders-us-trump-support",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 09:00:08 GMT"
         }
       ]
     },
