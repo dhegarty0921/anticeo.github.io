@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T17:05:32.845761Z",
+  "generated_at": "2026-03-11T17:10:30.828103Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -51,16 +51,16 @@
           "ts": "Wed, 11 Mar 2026 16:37:37 +0000"
         },
         {
+          "title": "Trump Administration to Announce New Trade Investigations",
+          "url": "https://www.nytimes.com/2026/03/11/business/economy/trump-trade-investigations-tariffs.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 16:09:57 +0000"
+        },
+        {
           "title": "Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War",
           "url": "https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 11 Mar 2026 16:34:54 +0000"
-        },
-        {
-          "title": "Trump Documents Missing in Epstein Files Highlight DOJ’s Missteps",
-          "url": "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 14:51:24 +0000"
         },
         {
           "title": "Global energy coalition to release 400M barrels of oil to deal with shocks from Hormuz blockade",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Can Democrats Actually Win in Texas?",
+          "url": "https://www.theatlantic.com/podcasts/2026/03/david-frum-show-beto-orourke-texas-democrats/686322/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-11T13:00:00-04:00"
+        },
+        {
           "title": "The Obvious Is Taking Its Revenge on Trump",
           "url": "https://www.theatlantic.com/international/2026/03/iran-war-trump/686314/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/03/claude-piano-ai/686318/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-11T08:00:00-04:00"
-        },
-        {
-          "title": "The People Who Shun Super-Popular Pop Culture",
-          "url": "https://www.theatlantic.com/culture/2026/03/pop-culture-hype-aversion/686312/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-11T07:30:00-04:00"
         },
         {
           "title": "The AI threat costing Americans $16.6 billion a year",
@@ -181,22 +181,22 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "IEA recommends record 400M barrel oil release amid Iran war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/iea-recommends-record-400m-barrel-oil-release-amid-iran-war?traffic_source=rss",
+          "title": "LIVE: Real Madrid vs Manchester City – Champions League last 16",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/3/11/live-real-madrid-vs-manchester-city-champions-league-last-16?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 16:43:56 +0000"
+          "ts": "Wed, 11 Mar 2026 17:00:00 +0000"
         },
         {
-          "title": "UN warns of widening crisis as Israeli attacks displace 750,000 in Lebanon",
-          "url": "https://www.aljazeera.com/news/2026/3/11/un-warns-of-widening-crisis-as-israeli-attacks-displace-750000-in-lebanon?traffic_source=rss",
+          "title": "Chile’s new president has praised Pinochet, a dictator. What does it mean?",
+          "url": "https://www.aljazeera.com/news/2026/3/11/chiles-new-president-has-praised-pinochet-a-dictator-what-does-it-mean?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 16:41:20 +0000"
+          "ts": "Wed, 11 Mar 2026 16:58:48 +0000"
         },
         {
-          "title": "Shell declares force majeure on LNG contracts from Qatar",
-          "url": "https://www.aljazeera.com/economy/2026/3/11/shell-declares-force-majeure-on-lng-contracts-from-qatar?traffic_source=rss",
+          "title": "Bangladesh demolish Pakistan who suffer record low score in contest",
+          "url": "https://www.aljazeera.com/sports/2026/3/11/bangladesh-demolish-pakistan-who-suffer-record-low-score-in-contest?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 16:36:53 +0000"
+          "ts": "Wed, 11 Mar 2026 16:56:25 +0000"
         }
       ]
     },
