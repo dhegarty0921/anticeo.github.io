@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:40:31.406661Z",
+  "generated_at": "2026-03-11T13:45:30.921988Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "Japan and Germany Say They Will Release Oil",
           "url": "https://www.nytimes.com/2026/03/11/business/energy-environment/iran-oil-reserves-release.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 13:25:38 +0000"
+          "ts": "Wed, 11 Mar 2026 13:40:13 +0000"
         },
         {
           "title": "Why Did the UK Police Repeatedly Decline to Investigate Claims About Epstein and Prince Andrew?",
@@ -99,24 +99,6 @@
           "ts": "Wed, 11 Mar 2026 06:25:53 -0500"
         },
         {
-          "title": "The White House isn’t panicking about oil prices. That may change in a few weeks.",
-          "url": "https://www.politico.com/news/2026/03/11/the-white-house-isnt-worried-about-oil-prices-that-may-change-in-a-few-weeks-00821643",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 11 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "John Thune says he’s ready to take the filibuster heat",
-          "url": "https://www.politico.com/news/2026/03/11/john-thune-save-america-act-talking-filibuster-00822428",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 11 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Trump says his bill would ‘guarantee the midterms.’ House Republicans are moving on.",
-          "url": "https://www.politico.com/news/2026/03/10/house-gop-save-america-act-00822166",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 18:04:58 EST"
-        },
-        {
           "title": "Heartstopper Forever gets release date update from Alice Oseman",
           "url": "https://www.thepinknews.com/2026/03/11/heartstopper-forever-gets-release-date-update-from-alice-oseman/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -139,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "Mike Johnson says Rep. Andy Ogles’ anti-Muslim remarks reflect ‘popular sentiment’",
-          "url": "https://religionnews.com/2026/03/10/speaker-johnson-addresses-rep-andy-ogles-anti-muslims-comments/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 22:54:52 +0000"
-        },
-        {
-          "title": "Chabad ups security, reiterates peaceful mission after Tucker Carlson’s Iran accusation",
-          "url": "https://religionnews.com/2026/03/10/chabad-ups-security-reiterates-peaceful-mission-after-tucker-carlsons-iran-accusation/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 22:06:03 +0000"
-        },
-        {
-          "title": "Muslim father sues over exclusion of Islamic schools from Texas voucher program",
-          "url": "https://religionnews.com/2026/03/10/muslim-father-sues-over-exclusion-of-islamic-schools-from-texas-voucher-program/",
-          "source": "RNS",
-          "ts": "Tue, 10 Mar 2026 21:42:10 +0000"
-        },
         {
           "title": "The Obvious Is Taking Its Revenge on Trump",
           "url": "https://www.theatlantic.com/international/2026/03/iran-war-trump/686314/?utm_source=feed",
@@ -192,12 +156,49 @@
           "url": "https://www.vox.com/culture/482083/oscars-2026-diane-warren-best-original-song-17-nominations",
           "source": "Vox",
           "ts": "2026-03-11T06:45:00-04:00"
+        },
+        {
+          "title": "Tornadoes hit Illinois, Indiana and Texas as severe storms sweep US",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/tornadoes-illinois-indiana-texas-storms",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 13:21:17 GMT"
+        },
+        {
+          "title": "Meet the Americans withholding their federal income tax to protest against Trump",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-income-tax-protest",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 13:00:49 GMT"
+        },
+        {
+          "title": "US attacks Iran’s mine-laying boats in strait of Hormuz as tensions rise over oil | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/first-thing-us-israel-attack-iran-boats-strait-of-hormuz-middle-east-crisis-oil",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 12:53:35 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Iran cannot participate in the FIFA World Cup, sports minister says",
+          "url": "https://www.aljazeera.com/sports/2026/3/11/iran-cannot-participate-in-the-fifa-world-cup-sports-minister-says?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 13:27:45 +0000"
+        },
+        {
+          "title": "Funeral held for top Iranian commanders killed in US-Israeli strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/funeral-held-for-top-iranian-commanders-killed-in-us-israeli-strikes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 13:25:40 +0000"
+        },
+        {
+          "title": "Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/news/2026/3/11/attacks-from-all-sides-why-iraq-was-dragged-into-us-israel-war-on-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Mar 2026 13:05:20 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
