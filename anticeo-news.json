@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:05:31.647581Z",
+  "generated_at": "2026-03-11T13:10:30.482737Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Mike Johnson says Rep. Andy Ogles’ anti-Muslim remarks reflect ‘popular sentiment’",
+          "url": "https://religionnews.com/2026/03/10/speaker-johnson-addresses-rep-andy-ogles-anti-muslims-comments/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 22:54:52 +0000"
+        },
+        {
+          "title": "Chabad ups security, reiterates peaceful mission after Tucker Carlson’s Iran accusation",
+          "url": "https://religionnews.com/2026/03/10/chabad-ups-security-reiterates-peaceful-mission-after-tucker-carlsons-iran-accusation/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 22:06:03 +0000"
+        },
+        {
+          "title": "Muslim father sues over exclusion of Islamic schools from Texas voucher program",
+          "url": "https://religionnews.com/2026/03/10/muslim-father-sues-over-exclusion-of-islamic-schools-from-texas-voucher-program/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 21:42:10 +0000"
+        },
+        {
           "title": "Play It Again, Claude",
           "url": "https://www.theatlantic.com/ideas/2026/03/claude-piano-ai/686318/?utm_source=feed",
           "source": "The Atlantic",
@@ -179,26 +197,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Could Iran be using China’s highly accurate BeiDou navigation system?",
-          "url": "https://www.aljazeera.com/features/2026/3/11/could-iran-be-using-chinas-highly-accurate-beidou-navigation-system?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 12:54:55 +0000"
-        },
-        {
-          "title": "Return to Russian fuels would be ‘strategic blunder’ says top EU official",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/return-to-russian-fuels-would-be-strategic-blunder-says-top-eu-official?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 12:52:48 +0000"
-        },
-        {
-          "title": "South African soldiers deploy in Johannesburg to tackle crime and gangs",
-          "url": "https://www.aljazeera.com/news/2026/3/11/south-african-soldiers-deploy-in-johannesburg-to-tackle-crime-and-gangs?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 12:46:04 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
