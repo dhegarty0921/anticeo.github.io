@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T12:15:31.860018Z",
+  "generated_at": "2026-03-11T12:20:31.863388Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Play It Again, Claude",
+          "url": "https://www.theatlantic.com/ideas/2026/03/claude-piano-ai/686318/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-11T08:00:00-04:00"
+        },
+        {
           "title": "Why I Can’t Stand the Hype",
           "url": "https://www.theatlantic.com/culture/2026/03/pop-culture-hype-aversion/686312/?utm_source=feed",
           "source": "The Atlantic",
@@ -134,18 +140,6 @@
           "ts": "2026-03-11T07:00:00-04:00"
         },
         {
-          "title": "The Big Story: Signalgate, One Year Later",
-          "url": "https://www.theatlantic.com/national-security/2026/03/big-story-signalgate-one-year-later-jeffrey-goldberg/686072/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-10T19:31:00-04:00"
-        },
-        {
-          "title": "When do you actually need life insurance?",
-          "url": "https://www.vox.com/advice/482049/do-i-need-life-insurance",
-          "source": "Vox",
-          "ts": "2026-03-11T07:30:00-04:00"
-        },
-        {
           "title": "Diane Warren has been nominated 17 times for Best Original Song. Why hasn’t she won yet?",
           "url": "https://www.vox.com/culture/482083/oscars-2026-diane-warren-best-original-song-17-nominations",
           "source": "Vox",
@@ -156,6 +150,12 @@
           "url": "https://www.vox.com/politics/482142/oil-gas-prices-iran-war-inflation",
           "source": "Vox",
           "ts": "2026-03-11T06:00:00-04:00"
+        },
+        {
+          "title": "Trump’s open-ended war, briefly explained",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/482135/trump-iran-war-how-does-it-end-timeline",
+          "source": "Vox",
+          "ts": "2026-03-10T18:00:28-04:00"
         },
         {
           "title": "Democrat and Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
