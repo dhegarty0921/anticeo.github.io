@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T17:10:30.828103Z",
+  "generated_at": "2026-03-11T17:15:30.260711Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -45,40 +45,40 @@
           "ts": "Wed, 11 Mar 2026 04:21:50 -0400"
         },
         {
+          "title": "V.A. Begins Drive to Put Homeless Veterans Into Guardianship",
+          "url": "https://www.nytimes.com/2026/03/11/us/politics/veterans-homeless-guardianship-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 17:09:01 +0000"
+        },
+        {
+          "title": "17 Democratic States Sue Over Trump Demand Colleges Provide Race Data",
+          "url": "https://www.nytimes.com/2026/03/11/us/democratic-states-trump-lawsuit-admissions.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 17:08:12 +0000"
+        },
+        {
           "title": "Thune Is in a Vise as Trump and the Far Right Demand a Fight on SAVE America Act",
           "url": "https://www.nytimes.com/2026/03/11/us/politics/thune-trump-voter-bill-senate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 11 Mar 2026 16:37:37 +0000"
         },
         {
-          "title": "Trump Administration to Announce New Trade Investigations",
-          "url": "https://www.nytimes.com/2026/03/11/business/economy/trump-trade-investigations-tariffs.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 16:09:57 +0000"
-        },
-        {
-          "title": "Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War",
-          "url": "https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 16:34:54 +0000"
-        },
-        {
-          "title": "Global energy coalition to release 400M barrels of oil to deal with shocks from Hormuz blockade",
-          "url": "https://www.washingtontimes.com/news/2026/mar/11/global-energy-coalition-release-400m-barrels-oil-deal-shocks-hormuz/",
+          "title": "Top Trump Senate ally says he believes U.S. responsible for school bombing in Iran",
+          "url": "https://www.washingtontimes.com/news/2026/mar/11/john-kennedy-top-trump-senate-ally-says-believes-us-responsible/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Wed, 11 Mar 2026 10:40:00 -0400"
+          "ts": "Wed, 11 Mar 2026 12:34:51 -0400"
         },
         {
-          "title": "Bondi moves to military housing after receiving threats",
-          "url": "https://www.washingtontimes.com/news/2026/mar/11/pam-bondi-moves-military-housing-receiving-threats/",
+          "title": "Thune promises SAVE America Act vote next week, but not passage",
+          "url": "https://www.washingtontimes.com/news/2026/mar/11/sen-john-thune-promises-save-america-act-vote-next-week-passage/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Wed, 11 Mar 2026 10:26:00 -0400"
+          "ts": "Wed, 11 Mar 2026 11:48:23 -0400"
         },
         {
-          "title": "Trump swoops onto home turf of his GOP foe Thomas Massie",
-          "url": "https://www.washingtontimes.com/news/2026/mar/11/trump-swoops-onto-home-turf-gop-foe-thomas-massie/",
+          "title": "Sen. John Cornyn ready to blow up filibuster to pass SAVE America Act",
+          "url": "https://www.washingtontimes.com/news/2026/mar/11/sen-john-cornyn-ready-blow-filibuster-pass-save-america-act/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Wed, 11 Mar 2026 10:16:04 -0400"
+          "ts": "Wed, 11 Mar 2026 11:45:20 -0400"
         },
         {
           "title": "Trump Aims To End Iran's War on America - on His Terms",
@@ -122,12 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Can Democrats Actually Win in Texas?",
-          "url": "https://www.theatlantic.com/podcasts/2026/03/david-frum-show-beto-orourke-texas-democrats/686322/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-11T13:00:00-04:00"
-        },
-        {
           "title": "The Obvious Is Taking Its Revenge on Trump",
           "url": "https://www.theatlantic.com/international/2026/03/iran-war-trump/686314/?utm_source=feed",
           "source": "The Atlantic",
@@ -138,6 +132,12 @@
           "url": "https://www.theatlantic.com/ideas/2026/03/claude-piano-ai/686318/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-11T08:00:00-04:00"
+        },
+        {
+          "title": "The People Who Shun Super-Popular Pop Culture",
+          "url": "https://www.theatlantic.com/culture/2026/03/pop-culture-hype-aversion/686312/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-11T07:30:00-04:00"
         },
         {
           "title": "The AI threat costing Americans $16.6 billion a year",
