@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:50:31.465992Z",
+  "generated_at": "2026-03-11T13:55:31.579337Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Religion News Service wins global AI grant funded by Google News Initiative",
+          "url": "https://religionnews.com/2026/03/11/religion-news-service-wins-global-ai-grant-funded-by-google-news-initiative/",
+          "source": "RNS",
+          "ts": "Wed, 11 Mar 2026 13:49:06 +0000"
+        },
+        {
+          "title": "Mike Johnson says Rep. Andy Ogles’ anti-Muslim remarks reflect ‘popular sentiment’",
+          "url": "https://religionnews.com/2026/03/10/speaker-johnson-addresses-rep-andy-ogles-anti-muslims-comments/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 22:54:52 +0000"
+        },
+        {
+          "title": "Chabad ups security, reiterates peaceful mission after Tucker Carlson’s Iran accusation",
+          "url": "https://religionnews.com/2026/03/10/chabad-ups-security-reiterates-peaceful-mission-after-tucker-carlsons-iran-accusation/",
+          "source": "RNS",
+          "ts": "Tue, 10 Mar 2026 22:06:03 +0000"
+        },
+        {
           "title": "The Obvious Is Taking Its Revenge on Trump",
           "url": "https://www.theatlantic.com/international/2026/03/iran-war-trump/686314/?utm_source=feed",
           "source": "The Atlantic",
@@ -179,26 +197,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran cannot participate in the FIFA World Cup, sports minister says",
-          "url": "https://www.aljazeera.com/sports/2026/3/11/iran-cannot-participate-in-the-fifa-world-cup-sports-minister-says?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 13:27:45 +0000"
-        },
-        {
-          "title": "Funeral held for top Iranian commanders killed in US-Israeli strikes",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/11/funeral-held-for-top-iranian-commanders-killed-in-us-israeli-strikes?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 13:25:40 +0000"
-        },
-        {
-          "title": "Attacks from all sides: Why Iraq was dragged into US-Israel war on Iran",
-          "url": "https://www.aljazeera.com/news/2026/3/11/attacks-from-all-sides-why-iraq-was-dragged-into-us-israel-war-on-iran?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Mar 2026 13:05:20 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
