@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T05:15:32.678486Z",
+  "generated_at": "2026-03-11T05:20:31.260795Z",
   "headline": {
     "title": "Georgia race to replace Marjorie Taylor Greene heads to a runoff",
     "url": "https://www.bbc.com/news/articles/cy4wknrz3exo?at_medium=RSS&at_campaign=rss"
@@ -170,6 +170,12 @@
           "ts": "2026-03-10T14:35:44-04:00"
         },
         {
+          "title": "Trump’s pick for state department role withdraws after backlash over past ‘anti-Israel’ and race remarks",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-state-department-pick-jeremy-carl-backlash",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 05:09:56 GMT"
+        },
+        {
           "title": "Democrat blasts Trump’s ‘incoherent’ Iran strategy after Pentagon says 140 US service members wounded in operation – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
           "source": "US news | The Guardian",
@@ -180,12 +186,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/10/trump-news-at-a-glance",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 01:00:03 GMT"
-        },
-        {
-          "title": "Republican and Democrat head for run-off in election for Marjorie Taylor Greene’s House seat",
-          "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 00:25:05 GMT"
         }
       ]
     },
