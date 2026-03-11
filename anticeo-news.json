@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T09:05:32.690052Z",
+  "generated_at": "2026-03-11T09:10:30.595346Z",
   "headline": {
     "title": "Georgia race to replace Marjorie Taylor Greene heads to a runoff",
     "url": "https://www.bbc.com/news/articles/cy4wknrz3exo?at_medium=RSS&at_campaign=rss"
@@ -27,22 +27,22 @@
           "ts": "Tue, 10 Mar 2026 21:28:09 GMT"
         },
         {
-          "title": "NEWSBRIEF: IRAN LATEST, NEW POLL: TRUMP AND MIDTERMS, GA SPECIAL ELECTION",
-          "url": "https://www.npr.org/2026/03/11/nx-s1-5741661/newsbrief-iran-latest-new-poll-trump-and-midterms-ga-special-election",
+          "title": "The Trump DOJ is giving guns back to felons, including one alleged fake elector",
+          "url": "https://www.npr.org/2026/03/11/g-s1-113204/gun-rights-restore-felons-trump-justice-department",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 11 Mar 2026 05:00:00 -0400"
+        },
+        {
+          "title": "Americans are split on wanting the National Guard to monitor voting, a new poll finds",
+          "url": "https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 11 Mar 2026 05:00:00 -0400"
+        },
+        {
+          "title": "Morning news brief",
+          "url": "https://www.npr.org/2026/03/11/nx-s1-5741661/morning-news-brief",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 11 Mar 2026 04:21:50 -0400"
-        },
-        {
-          "title": "Ex-national security adviser John Bolton on Trump's Iran goals",
-          "url": "https://www.npr.org/2026/03/11/nx-s1-5743548/ex-national-security-adviser-john-bolton-on-trumps-iran-goals",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 11 Mar 2026 04:20:02 -0400"
-        },
-        {
-          "title": "Iranian Kurds living in exile in Iraq say they're ready to fight a weakened Iran",
-          "url": "https://www.npr.org/2026/03/11/nx-s1-5743380/iranian-kurds-living-in-exile-in-iraq-say-theyre-ready-to-fight-a-weakened-iran",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 11 Mar 2026 04:18:34 -0400"
         },
         {
           "title": "Trump Administration to Restart Global Entry Program",
@@ -111,24 +111,6 @@
           "ts": "Tue, 10 Mar 2026 09:01:54 -0500"
         },
         {
-          "title": "Trump says his bill would ‘guarantee the midterms.’ House Republicans are moving on.",
-          "url": "https://www.politico.com/news/2026/03/10/house-gop-save-america-act-00822166",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 18:04:58 EST"
-        },
-        {
-          "title": "Trump-endorsed Republican advances to runoff in Georgia special election for MTG’s seat",
-          "url": "https://www.politico.com/news/2026/03/10/clayton-fuller-shawn-harris-georgia-special-election-runoff-00822374",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 19:15:55 EST"
-        },
-        {
-          "title": "Hegseth gutted offices that would have probed Iran school strike",
-          "url": "https://www.politico.com/news/2026/03/10/pentagon-iran-school-strike-civilian-casualties-00820780",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 10 Mar 2026 17:19:01 EST"
-        },
-        {
           "title": "‘You don’t need millions in the bank to adopt – children just need love and a safe place’",
           "url": "https://www.thepinknews.com/2026/03/10/you-dont-need-millions-in-the-bank-to-adopt-children-just-need-love-and-a-safe-place/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -186,6 +168,24 @@
           "url": "https://www.vox.com/press-room/482091/vox-appoints-stephen-heuser-as-executive-editor",
           "source": "Vox",
           "ts": "2026-03-10T14:35:44-04:00"
+        },
+        {
+          "title": "Iranian exile factions vie for US leaders’ blessing to lead Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/iran-leaders-us-trump-support",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 09:00:08 GMT"
+        },
+        {
+          "title": "Trump’s pick for state department role withdraws after backlash over past ‘anti-Israel’ and race remarks",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-state-department-pick-jeremy-carl-backlash",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 05:09:56 GMT"
+        },
+        {
+          "title": "Democrat blasts Trump’s ‘incoherent’ Iran strategy after Pentagon says 140 US service members wounded in operation – as it happened",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 02:03:04 GMT"
         }
       ]
     },
