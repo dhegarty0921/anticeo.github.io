@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T18:45:32.267586Z",
+  "generated_at": "2026-03-11T18:50:33.417439Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -48,13 +48,13 @@
           "title": "V.A. Begins Drive to Put Homeless Veterans Into Guardianship",
           "url": "https://www.nytimes.com/2026/03/11/us/politics/veterans-homeless-guardianship-trump.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 17:09:01 +0000"
+          "ts": "Wed, 11 Mar 2026 18:40:10 +0000"
         },
         {
           "title": "17 Democratic States Sue Over Trump Demand Colleges Provide Race Data",
           "url": "https://www.nytimes.com/2026/03/11/us/democratic-states-trump-lawsuit-admissions.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 18:28:36 +0000"
+          "ts": "Wed, 11 Mar 2026 18:44:46 +0000"
         },
         {
           "title": "Thune Is in a Vise as Trump and the Far Right Demand a Fight on SAVE America Act",
@@ -176,12 +176,6 @@
           "ts": "2026-03-11T07:30:00-04:00"
         },
         {
-          "title": "Donald Trump’s mixed messages on Iran leave questions unanswered",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-iran-war-mixed-messages",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 18:30:56 GMT"
-        },
-        {
           "title": "Parents of Georgia student charged in teacher’s death amid prank say family ‘in deep remorse’",
           "url": "https://www.theguardian.com/us-news/2026/mar/11/toilet-paper-high-school-student-prank-death",
           "source": "US news | The Guardian",
@@ -192,6 +186,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/11/texas-execution-cedric-ricks",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 16:35:29 GMT"
+        },
+        {
+          "title": "US vaccine panel retreats from mRNA Covid review ahead of midterms",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/covid-mrna-vaccines-midterms-rfk",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 16:25:05 GMT"
         }
       ]
     },
