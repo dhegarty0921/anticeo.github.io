@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T15:15:31.553612Z",
+  "generated_at": "2026-03-11T15:20:33.311927Z",
   "headline": {
     "title": "'I don't know why we're doing it' - Americans divided on Iran war",
     "url": "https://www.bbc.com/news/videos/cy8gm4vr70go?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Wed, 11 Mar 2026 04:21:50 -0400"
         },
         {
+          "title": "Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War",
+          "url": "https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 11 Mar 2026 15:14:41 +0000"
+        },
+        {
           "title": "Trump Documents Missing in Epstein Files Highlight DOJ’s Missteps",
           "url": "https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 14:51:23 +0000"
+          "ts": "Wed, 11 Mar 2026 14:51:24 +0000"
         },
         {
           "title": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
           "url": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 11 Mar 2026 15:10:41 +0000"
-        },
-        {
-          "title": "Trump’s Actions in Iran and Venezuela Show Limits of U.S. Sanctions",
-          "url": "https://www.nytimes.com/2026/03/11/us/politics/trump-sanctions-iran-venezuela.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 11 Mar 2026 14:20:03 +0000"
         },
         {
           "title": "Global energy coalition to release 400M barrels of oil to deal with shocks from Hormuz blockade",
@@ -158,6 +158,12 @@
           "ts": "2026-03-11T06:45:00-04:00"
         },
         {
+          "title": "Democrat and Trump-endorsed Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 15:15:01 GMT"
+        },
+        {
           "title": "‘I took two bites and had to spit it out’: candy makers are phasing out real cocoa in chocolate",
           "url": "https://www.theguardian.com/us-news/2026/mar/11/reeses-hersey-chocolate-candy-cocoa",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/11/the-california-town-that-lost-its-mayor-to-gun-suicide",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 15:00:44 GMT"
-        },
-        {
-          "title": "Democrat and Trump-endorsed Republican head to Georgia runoff election for Marjorie Taylor Greene’s seat – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 14:57:09 GMT"
         }
       ]
     },
