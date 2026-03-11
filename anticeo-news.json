@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T00:45:30.068999Z",
+  "generated_at": "2026-03-11T00:50:30.121256Z",
   "headline": {
     "title": "US strikes minelaying ships in Iran after warning of 'intense' day of bombing",
     "url": "https://www.bbc.com/news/articles/cgrzken84q5o?at_medium=RSS&at_campaign=rss"
@@ -170,6 +170,12 @@
           "ts": "2026-03-10T14:35:44-04:00"
         },
         {
+          "title": "Democrat blasts Trump’s ‘incoherent’ Iran strategy after Pentagon says 140 US service members wounded in operation – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Mar 2026 00:35:20 GMT"
+        },
+        {
           "title": "Republican and Democrat head for run-off in election for Marjorie Taylor Greene’s House seat",
           "url": "https://www.theguardian.com/us-news/2026/mar/10/marjorie-taylor-greene-house-seat-georgia-primary",
           "source": "US news | The Guardian",
@@ -180,12 +186,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/10/hawaii-kona-storm-winds",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Mar 2026 00:13:31 GMT"
-        },
-        {
-          "title": "Democrat blasts Trump’s ‘incoherent’ Iran strategy after Pentagon says 140 US service members wounded in operation – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Mar 2026 00:05:52 GMT"
         }
       ]
     },
