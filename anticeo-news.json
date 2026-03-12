@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T16:05:32.483109Z",
+  "generated_at": "2026-03-12T16:10:31.895917Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2026-03-12T06:30:00-04:00"
         },
         {
+          "title": "Trump downplays gas price surge as Iran war pushes oil above $100",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-gas-prices-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 16:04:22 GMT"
+        },
+        {
           "title": "Trump claims surging oil prices benefit US as Pentagon reportedly tells lawmakers Iran war cost $11.3bn in first week – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/12/epa-chief-bayer-ceo-supreme-court",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 13:10:31 GMT"
-        },
-        {
-          "title": "Republican farm bill criticized as agribusiness giveaway: ‘pesticide industry wishlist’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/republican-farm-bill-pesticide-environment",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 13:00:23 GMT"
         }
       ]
     },
