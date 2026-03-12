@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T19:10:34.214958Z",
+  "generated_at": "2026-03-12T19:15:33.670562Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 12 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "$42 Million Verdict for Iraqi Victims of U.S. Abuse Is Upheld on Appeal",
+          "url": "https://www.nytimes.com/2026/03/12/us/politics/iraqi-lawsuit-torture-verdict-upheld.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 12 Mar 2026 19:11:09 +0000"
+        },
+        {
           "title": "Will Illinois’ Democratic Primary for Senate Divide Black Voters?",
           "url": "https://www.nytimes.com/2026/03/12/us/politics/illinois-senate-primary-stratton-kelly-krishnamoorthi.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/12/us/politics/senate-homeland-security-funding.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 12 Mar 2026 18:42:16 +0000"
-        },
-        {
-          "title": "Senate Resoundingly Passes Housing Bill, but Challenges Lie Ahead",
-          "url": "https://www.nytimes.com/2026/03/12/us/politics/senate-housing-bill.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 12 Mar 2026 16:46:58 +0000"
         },
         {
           "title": "U.N. commission scolds Trump over 'racist' immigration enforcement surge",
@@ -140,6 +140,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "In Trump’s Iran conflict, it’s prosperity gospel vs. the Quran",
+          "url": "https://religionnews.com/2026/03/12/in-trumps-iran-conflict-its-prosperity-gospel-vs-the-quran/",
+          "source": "RNS",
+          "ts": "Thu, 12 Mar 2026 19:10:50 +0000"
+        },
+        {
           "title": "Suspect in Michigan synagogue attack is dead, AP source says",
           "url": "https://religionnews.com/2026/03/12/police-respond-to-a-report-of-an-active-shooter-at-a-detroit-area-synagogue/",
           "source": "RNS",
@@ -150,12 +156,6 @@
           "url": "https://religionnews.com/2026/03/12/iran-war-has-blocked-the-strait-of-hormuz-a-vital-oil-choke-point-reopening-it-is-a-big-challenge/",
           "source": "RNS",
           "ts": "Thu, 12 Mar 2026 17:13:24 +0000"
-        },
-        {
-          "title": "Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors",
-          "url": "https://religionnews.com/2026/03/12/iran-targets-busiest-international-airport-as-top-un-body-demands-halt-to-attacks-on-gulf-neighbors/",
-          "source": "RNS",
-          "ts": "Thu, 12 Mar 2026 17:09:01 +0000"
         },
         {
           "title": "How Does This War End?",
