@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T22:05:37.587453Z",
+  "generated_at": "2026-03-12T22:10:32.016207Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 12 Mar 2026 06:48:30 -0400"
         },
         {
+          "title": "With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation",
+          "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 12 Mar 2026 22:00:12 +0000"
+        },
+        {
           "title": "Executive and Judicial Branches Spar Over Control of Federal Courthouses",
           "url": "https://www.nytimes.com/2026/03/12/us/politics/federal-courthouses-gsa.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 12 Mar 2026 21:45:09 +0000"
-        },
-        {
-          "title": "How Do You Feel About Traveling Right Now? We Want to Know.",
-          "url": "https://www.nytimes.com/2026/03/12/travel/2026-travel-plans-iran-war-shutdown.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 12 Mar 2026 21:02:42 +0000"
         },
         {
           "title": "Trump says Iran war is moving along 'very well'",
@@ -115,24 +115,6 @@
           "url": "https://www.realclearinvestigations.com/articles/2026/03/12/the_grey_zone_when_do_protest_observers_become_lawbreaking_participants_1169944.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Thu, 12 Mar 2026 07:20:22 -0500"
-        },
-        {
-          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
-          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Homan wants a reset with Trump’s soon-to-be DHS chief",
-          "url": "https://www.politico.com/news/2026/03/12/after-a-year-of-tensions-with-noem-homan-eyes-reset-with-mullin-00824212",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "Immigration detention cases decline amid Trump admin pullback from hardline tactics",
-          "url": "https://www.politico.com/news/2026/03/12/immigration-detention-ice-cases-00823771",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Mar 2026 04:00:00 EST"
         },
         {
           "title": "Streeting pressed on whether ‘gender-critical’ doctor influenced pause on puberty blockers trial",
@@ -210,6 +192,24 @@
           "url": "https://www.vox.com/videos/482252/the-most-interesting-fruit-in-the-world-could-go-extinct",
           "source": "Vox",
           "ts": "2026-03-12T13:00:00-04:00"
+        },
+        {
+          "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 21:59:45 GMT"
+        },
+        {
+          "title": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 21:20:29 GMT"
+        },
+        {
+          "title": "Pentagon tells lawmakers Iran war costs top $11.3bn – but true price unknown",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/israel-us-iran-war-cost",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 21:11:51 GMT"
         }
       ]
     },
