@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T10:00:30.338704Z",
+  "generated_at": "2026-03-12T10:05:30.571802Z",
   "headline": {
     "title": "Pete Hegseth brings combative style as face of Trump's war in Iran",
     "url": "https://www.bbc.com/news/articles/cx2g4e5z0d3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-11T08:30:00-04:00"
         },
         {
+          "title": "‘America’s mortal enemy’: Pete Hegseth expressed extreme antipathy toward Iran for years",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/pete-hegseth-antipathy-iran",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 10:00:10 GMT"
+        },
+        {
           "title": "Trump puts pressure on Senate majority leader – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/11/politics-georgia-election-democrats-republicans-trump-ohio",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-administration-news-updates-today",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 00:45:14 GMT"
-        },
-        {
-          "title": "Trump-endorsed Republican in Louisiana accused of rape in 2007",
-          "url": "https://www.theguardian.com/us-news/2026/mar/11/louisiana-republican-blake-miguez",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 00:26:53 GMT"
         }
       ]
     },
