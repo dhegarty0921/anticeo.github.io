@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T23:20:33.185659Z",
+  "generated_at": "2026-03-12T23:25:34.060891Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Thu, 12 Mar 2026 12:22:22 GMT"
         },
         {
+          "title": "One dead and two injured in Virginia university shooting",
+          "url": "https://www.bbc.com/news/articles/c4gjrzgr32mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 12 Mar 2026 23:18:58 GMT"
+        },
+        {
           "title": "King expresses 'concern' over Alberta separatists in meeting with First Nations chiefs",
           "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 12 Mar 2026 20:04:44 GMT"
-        },
-        {
-          "title": "Customer sues Costco for tariff refunds",
-          "url": "https://www.bbc.com/news/articles/cwyxz3xe04yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 12 Mar 2026 16:08:37 GMT"
         },
         {
           "title": "Trump blames Iran for the war — critics question the diplomacy",
@@ -45,6 +45,12 @@
           "ts": "Thu, 12 Mar 2026 06:48:30 -0400"
         },
         {
+          "title": "A Weakened Iran Hits Back by Strangling the Vital Strait of Hormuz",
+          "url": "https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 12 Mar 2026 23:18:42 +0000"
+        },
+        {
           "title": "With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation",
           "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/12/us/politics/federal-courthouses-gsa.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 12 Mar 2026 21:48:31 +0000"
-        },
-        {
-          "title": "Iran Is Laying Mines in the Strait of Hormuz, U.S. Officials Say",
-          "url": "https://www.nytimes.com/2026/03/12/world/middleeast/iran-mines-strait-of-hormuz-us.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 12 Mar 2026 21:45:09 +0000"
         },
         {
           "title": "Trump says Iran war is moving along 'very well'",
@@ -158,13 +158,13 @@
           "ts": "Thu, 12 Mar 2026 19:45:14 +0000"
         },
         {
-          "title": "Hegseth Comes for the Lawyers",
+          "title": "Hegseth Comes For the Lawyers",
           "url": "https://www.theatlantic.com/national-security/2026/03/hegseth-comes-lawyers/686351/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T18:50:16-04:00"
         },
         {
-          "title": "Waste, Fraud, and Abuse in Trump’s Cabinet",
+          "title": "Maybe DOGE Was Just Looking in the Wrong Places",
           "url": "https://www.theatlantic.com/newsletters/2026/03/waste-fraud-abuse-doge/686358/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T17:15:00-04:00"
@@ -194,22 +194,22 @@
           "ts": "2026-03-12T13:00:00-04:00"
         },
         {
-          "title": "Fatal shooting at Virginia university investigated as act of terrorism, FBI says",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/old-dominion-university-shooting-suspect",
+          "title": "Rescue effort under way as US military refueling plane crashes in Iraq",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash",
           "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 23:00:13 GMT"
-        },
-        {
-          "title": "Suspect dead after ramming vehicle into Michigan synagogue, officials say",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 22:55:13 GMT"
+          "ts": "Thu, 12 Mar 2026 23:03:26 GMT"
         },
         {
           "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 22:55:11 GMT"
+          "ts": "Thu, 12 Mar 2026 23:02:37 GMT"
+        },
+        {
+          "title": "Fatal shooting at Virginia university investigated as act of terrorism, FBI says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/old-dominion-university-shooting-suspect",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 23:00:13 GMT"
         }
       ]
     },
