@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T17:45:32.344962Z",
+  "generated_at": "2026-03-12T17:50:31.829198Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -182,6 +182,12 @@
           "ts": "2026-03-12T08:00:00-04:00"
         },
         {
+          "title": "Police responding to reports of shooter at Michigan synagogue",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 17:45:00 GMT"
+        },
+        {
           "title": "Trump claims surging oil prices benefit US as Pentagon reportedly tells lawmakers Iran war cost $11.3bn in first week – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
           "source": "US news | The Guardian",
@@ -192,12 +198,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-gas-prices-iran-war",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 16:04:22 GMT"
-        },
-        {
-          "title": "EPA chief met with Bayer CEO over supreme court fight, agency records show",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/epa-chief-bayer-ceo-supreme-court",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 13:10:31 GMT"
         }
       ]
     },
