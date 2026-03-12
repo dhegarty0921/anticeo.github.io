@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T23:35:32.588152Z",
+  "generated_at": "2026-03-12T23:40:49.902078Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -54,7 +54,7 @@
           "title": "With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation",
           "url": "https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 12 Mar 2026 22:00:13 +0000"
+          "ts": "Thu, 12 Mar 2026 23:31:32 +0000"
         },
         {
           "title": "Executive and Judicial Branches Spar Over Control of Federal Courthouses",
@@ -158,7 +158,7 @@
           "ts": "Thu, 12 Mar 2026 19:45:14 +0000"
         },
         {
-          "title": "Hegseth Comes For the Lawyers",
+          "title": "The Pentagon’s Lawyers Are Now Under Review",
           "url": "https://www.theatlantic.com/national-security/2026/03/hegseth-comes-lawyers/686351/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T18:50:16-04:00"
@@ -194,6 +194,12 @@
           "ts": "2026-03-12T13:00:00-04:00"
         },
         {
+          "title": "Trump-endorsed Republican in Louisiana accused of rape in 2007",
+          "url": "https://www.theguardian.com/us-news/2026/mar/11/louisiana-republican-blake-miguez",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 23:28:19 GMT"
+        },
+        {
           "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
           "source": "US news | The Guardian",
@@ -204,12 +210,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 23:03:26 GMT"
-        },
-        {
-          "title": "Fatal shooting at Virginia university investigated as act of terrorism, FBI says",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/old-dominion-university-shooting-suspect",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 23:00:13 GMT"
         }
       ]
     },
