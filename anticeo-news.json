@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T20:00:34.450864Z",
+  "generated_at": "2026-03-12T20:05:32.308090Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -164,7 +164,7 @@
           "ts": "2026-03-12T15:25:10-04:00"
         },
         {
-          "title": "How Does This War End?",
+          "title": "The Iran War Has Four Stages. We’re in the Second.",
           "url": "https://www.theatlantic.com/national-security/2026/03/iran-war-trump-end/686339/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T15:02:41-04:00"
@@ -174,6 +174,12 @@
           "url": "https://www.theatlantic.com/newsletters/2026/03/trivia-2026-03-12/686348/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T15:02:00-04:00"
+        },
+        {
+          "title": "Nurse practitioners are rushing in to fill the gaps in US health care",
+          "url": "https://www.vox.com/good-medicine-newsletter/482268/nurse-practitioner-what-does-np-stand-for-school",
+          "source": "Vox",
+          "ts": "2026-03-12T16:00:00-04:00"
         },
         {
           "title": "How to help everyday people suffering in Iran — and beyond",
@@ -188,10 +194,10 @@
           "ts": "2026-03-12T13:00:00-04:00"
         },
         {
-          "title": "The 50-year struggle to get Best Casting into the Oscars",
-          "url": "https://www.vox.com/culture/482212/oscars-best-casting-academy-awards-explained",
-          "source": "Vox",
-          "ts": "2026-03-12T08:00:00-04:00"
+          "title": "Eswatini says it received more ‘third country’ deportees as part of deal with Trump administration",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/trump-immigration-deportations-eswatini",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 19:47:15 GMT"
         },
         {
           "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
@@ -204,12 +210,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/12/california-iran-threat-fbi",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 19:31:34 GMT"
-        },
-        {
-          "title": "Man who rammed vehicle into Michigan synagogue killed by security staff",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 19:29:54 GMT"
         }
       ]
     },
