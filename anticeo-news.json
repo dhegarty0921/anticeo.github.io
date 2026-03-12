@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T19:45:33.684000Z",
+  "generated_at": "2026-03-12T19:50:32.185762Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -117,24 +117,6 @@
           "ts": "Thu, 12 Mar 2026 07:20:22 -0500"
         },
         {
-          "title": "Furious MAGA allies lobby Trump to keep deporting migrants",
-          "url": "https://www.politico.com/news/2026/03/12/trump-deportations-immigration-poll-lobbying-00824245",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "Homan wants a reset with Trump’s soon-to-be DHS chief",
-          "url": "https://www.politico.com/news/2026/03/12/after-a-year-of-tensions-with-noem-homan-eyes-reset-with-mullin-00824212",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "Immigration detention cases decline amid Trump admin pullback from hardline tactics",
-          "url": "https://www.politico.com/news/2026/03/12/immigration-detention-ice-cases-00823771",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 12 Mar 2026 04:00:00 EST"
-        },
-        {
           "title": "Streeting pressed on whether ‘gender-critical’ doctor influenced pause on puberty blockers trial",
           "url": "https://www.thepinknews.com/2026/03/12/nhs-puberty-blockers-trial-paused/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -158,6 +140,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "US-Syria Business Council, the Atlantic Council to convene US-Syria Energy Symposium on March 26",
+          "url": "https://religionnews.com/2026/03/12/us-syria-business-council-the-atlantic-council-to-convene-us-syria-energy-symposium-on-march-26/",
+          "source": "RNS",
+          "ts": "Thu, 12 Mar 2026 19:45:14 +0000"
+        },
+        {
           "title": "In Trump’s Iran conflict, it’s prosperity gospel vs. the Quran",
           "url": "https://religionnews.com/2026/03/12/in-trumps-iran-conflict-its-prosperity-gospel-vs-the-quran/",
           "source": "RNS",
@@ -168,12 +156,6 @@
           "url": "https://religionnews.com/2026/03/12/police-respond-to-a-report-of-an-active-shooter-at-a-detroit-area-synagogue/",
           "source": "RNS",
           "ts": "Thu, 12 Mar 2026 18:07:42 +0000"
-        },
-        {
-          "title": "Iran war has blocked the Strait of Hormuz, a vital oil choke point. Reopening it is a big challenge",
-          "url": "https://religionnews.com/2026/03/12/iran-war-has-blocked-the-strait-of-hormuz-a-vital-oil-choke-point-reopening-it-is-a-big-challenge/",
-          "source": "RNS",
-          "ts": "Thu, 12 Mar 2026 17:13:24 +0000"
         },
         {
           "title": "Winter Paralympics Photo of the Day: Hard Crash",
@@ -210,6 +192,24 @@
           "url": "https://www.vox.com/culture/482212/oscars-best-casting-academy-awards-explained",
           "source": "Vox",
           "ts": "2026-03-12T08:00:00-04:00"
+        },
+        {
+          "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 19:34:01 GMT"
+        },
+        {
+          "title": "California officials say no imminent Iran threat found after FBI alert",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/california-iran-threat-fbi",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 19:31:34 GMT"
+        },
+        {
+          "title": "Man who rammed vehicle into Michigan synagogue killed by security staff",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 19:29:54 GMT"
         }
       ]
     },
