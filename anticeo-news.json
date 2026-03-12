@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T12:30:31.649234Z",
+  "generated_at": "2026-03-12T12:35:31.994468Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -146,7 +146,13 @@
           "ts": "Wed, 11 Mar 2026 22:32:02 +0000"
         },
         {
-          "title": "The California Housing Revolution That Wasn’t",
+          "title": "<em>The Atlantic</em>’s April Cover: McKay Coppins on His Year as a Degenerate Gambler",
+          "url": "https://www.theatlantic.com/press-releases/2026/03/the-atlantics-april-cover-mckay-coppinss-sucker/686330/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-12T08:20:24-04:00"
+        },
+        {
+          "title": "The California YIMBY Mystery",
           "url": "https://www.theatlantic.com/economy/2026/03/california-housing-yimby-reforms/686334/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T07:30:00-04:00"
@@ -154,12 +160,6 @@
         {
           "title": "Cinema’s Newest, Grimmest Trend",
           "url": "https://www.theatlantic.com/culture/2026/03/oscars-2026-young-character-deaths-hamnet-sirat/686332/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-12T07:00:00-04:00"
-        },
-        {
-          "title": "The Republican Party Continues Eating Its Own",
-          "url": "https://www.theatlantic.com/politics/2026/03/republican-independent-california-kevin-kiley/686324/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-12T07:00:00-04:00"
         },
@@ -185,19 +185,19 @@
           "title": "Republicans add to pressure on Senate majority leader after Trump voter ID bill call – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 12:03:23 GMT"
+          "ts": "Thu, 12 Mar 2026 12:26:21 GMT"
+        },
+        {
+          "title": "Iran escalates attacks on infrastructure and transport networks across the Gulf | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/mar/12/first-thing-iran-escalates-attacks-infrastructure-transport",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 12:21:40 GMT"
         },
         {
           "title": "Colon cancer now leading cause of cancer deaths under 50 in US",
           "url": "https://www.theguardian.com/us-news/2026/mar/12/colon-cancer-leading-deaths",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 12:00:23 GMT"
-        },
-        {
-          "title": "Panel awards $3.8m to ‘mom and pop’ investors whose risky investments tanked",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/mom-pop-investors-risky-investments",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 11:00:21 GMT"
         }
       ]
     },
