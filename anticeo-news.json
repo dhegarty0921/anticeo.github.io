@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T23:30:32.553672Z",
+  "generated_at": "2026-03-13T23:35:32.049986Z",
   "headline": {
     "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
     "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
@@ -176,12 +176,6 @@
           "ts": "2026-03-13T07:00:00-04:00"
         },
         {
-          "title": "Trump replaces Ric Grenell as Kennedy Center head",
-          "url": "https://www.theguardian.com/us-news/2026/mar/13/trump-ric-grenell-kennedy-center",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Mar 2026 23:20:32 GMT"
-        },
-        {
           "title": "Kyrsten Sinema says in court filings she had a ‘romantic’ relationship with guard",
           "url": "https://www.theguardian.com/us-news/2026/mar/13/kyrsten-sinema-romantic-relationship-guard",
           "source": "US news | The Guardian",
@@ -192,6 +186,12 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Fri, 13 Mar 2026 22:16:55 GMT"
+        },
+        {
+          "title": "Judge orders ICE to release Minneapolis man after 50 days of unlawful detention",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/judge-minneapolis-detention-order",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 22:10:59 GMT"
         }
       ]
     },
