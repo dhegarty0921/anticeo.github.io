@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T10:25:31.572926Z",
+  "generated_at": "2026-03-13T10:30:32.096807Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -27,12 +27,6 @@
           "ts": "Thu, 12 Mar 2026 23:18:58 GMT"
         },
         {
-          "title": "Democrats set a turnout record in Texas, so is this the year it turns blue?",
-          "url": "https://www.npr.org/2026/03/13/nx-s1-5745932/texas-primary-democrats-turnout-talarico-crockett",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
-        },
-        {
           "title": "Trump wants more apprenticeships. An Arkansas manufacturer is giving it a try",
           "url": "https://www.npr.org/2026/03/13/nx-s1-5727509/apprenticeships-manufacturing-workforce-trump-arkansas",
           "source": "NPR Topics: Politics",
@@ -41,6 +35,12 @@
         {
           "title": "Bucking stigma, more places turn to factory-built for affordable housing",
           "url": "https://www.npr.org/2026/03/13/nx-s1-5713908/bucking-stigma-more-places-turn-to-factory-built-affordable-housing",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
+        },
+        {
+          "title": "Democrats set a turnout record in Texas, so is this the year it turns blue?",
+          "url": "https://www.npr.org/2026/03/13/nx-s1-5745932/texas-primary-democrats-turnout-talarico-crockett",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
         },
@@ -176,12 +176,6 @@
           "ts": "2026-03-12T17:15:00-04:00"
         },
         {
-          "title": "The Iran war is not a video game",
-          "url": "https://www.vox.com/politics/482361/iran-war-white-house-video-game-propaganda",
-          "source": "Vox",
-          "ts": "2026-03-13T06:00:00-04:00"
-        },
-        {
           "title": "Nurse practitioners are rushing in to fill the gaps in US health care",
           "url": "https://www.vox.com/good-medicine-newsletter/482268/nurse-practitioner-what-does-np-stand-for-school",
           "source": "Vox",
@@ -192,6 +186,12 @@
           "url": "https://www.vox.com/future-perfect/482272/help-iran-war-humanitarian-aid",
           "source": "Vox",
           "ts": "2026-03-12T13:03:49-04:00"
+        },
+        {
+          "title": "The most interesting fruit in the world could go extinct",
+          "url": "https://www.vox.com/videos/482252/the-most-interesting-fruit-in-the-world-could-go-extinct",
+          "source": "Vox",
+          "ts": "2026-03-12T13:00:00-04:00"
         },
         {
           "title": "Four crew confirmed dead after US military plane crash in Iraq",
