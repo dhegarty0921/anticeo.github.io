@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T12:05:36.072738Z",
+  "generated_at": "2026-03-13T12:10:32.634413Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -140,6 +140,12 @@
           "ts": "Thu, 12 Mar 2026 19:45:14 +0000"
         },
         {
+          "title": "Inside the Dirty, Dystopian World of AI Data Centers",
+          "url": "https://www.theatlantic.com/magazine/2026/04/ai-data-centers-energy-demands/686064/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-13T08:00:00-04:00"
+        },
+        {
           "title": "Oil Really Could Hit $200 a Barrel",
           "url": "https://www.theatlantic.com/economy/2026/03/oil-price-200-barrel/686354/?utm_source=feed",
           "source": "The Atlantic",
@@ -148,12 +154,6 @@
         {
           "title": "Florida Is Trying to Ignore Measles Until It Can’t",
           "url": "https://www.theatlantic.com/health/2026/03/florida-measles-response-silence/686359/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-13T07:00:00-04:00"
-        },
-        {
-          "title": "A Strongman at The Hague",
-          "url": "https://www.theatlantic.com/international/2026/03/rodrigo-duterte-war-crimes-hague/686355/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-13T07:00:00-04:00"
         },
@@ -176,22 +176,22 @@
           "ts": "2026-03-13T06:00:00-04:00"
         },
         {
+          "title": "‘One of the last places of safety’: US tenants are striking against their landlords over steep rent hikes",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/tenants-strike-landlords-rent-increases",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 12:00:50 GMT"
+        },
+        {
+          "title": "Trump policies set to increase rates of lung disease and death, study finds",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/trump-policies-lung-disease-death",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 12:00:48 GMT"
+        },
+        {
           "title": "Trump issues fresh Iran warning, calling regime ‘deranged scumbags’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Fri, 13 Mar 2026 11:49:30 GMT"
-        },
-        {
-          "title": "One family’s harrowing escape to the US – and the Trump government’s relentless efforts to deport them back",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/13/honduras-family-immigration-deportation",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Mar 2026 11:00:50 GMT"
-        },
-        {
-          "title": "Ex-CIA analyst David McCloskey on the Mossad’s intelligence inside Iran: ‘I was surprised’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/13/david-mccloskey-persian-book",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Mar 2026 11:00:49 GMT"
         }
       ]
     },
