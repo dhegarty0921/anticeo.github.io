@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T22:15:33.940580Z",
+  "generated_at": "2026-03-13T22:20:33.651572Z",
   "headline": {
     "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
     "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "What to Know About A.I. Political Campaign Ads During Election Season",
+          "url": "https://www.nytimes.com/2026/03/13/us/politics/ai-ads-campaign-deepfake.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 13 Mar 2026 22:13:01 +0000"
+        },
+        {
           "title": "Judge Orders V.A. to Restore Union Contract With 300,000 Workers",
           "url": "https://www.nytimes.com/2026/03/13/us/politics/va-union-contract-judge-ruling.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/13/arts/kennedy-center-richard-grenell.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 13 Mar 2026 21:32:55 +0000"
-        },
-        {
-          "title": "Judge Quashes Justice Dept.’s Subpoenas of Fed, Crippling Its Pursuit of Trump’s Rivals",
-          "url": "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 13 Mar 2026 22:02:37 +0000"
         },
         {
           "title": "New TV ad campaign turns up the heat on lawmakers for DHS shutdown",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Islamic schools, more parents sue Texas over exclusion from voucher program",
+          "url": "https://religionnews.com/2026/03/13/islamic-schools-parents-sue-texas-over-exclusion-of-muslim-schools-from-voucher-program/",
+          "source": "RNS",
+          "ts": "Fri, 13 Mar 2026 22:15:44 +0000"
+        },
+        {
           "title": "Taylor Tomlinson’s Netflix special is too ungodly for many churches. This one welcomed her.",
           "url": "https://religionnews.com/2026/03/13/the-radical-church-in-taylor-tomlinsons-prodigal-daughter-netflix-special-fountain-street/",
           "source": "RNS",
@@ -132,12 +138,6 @@
           "url": "https://religionnews.com/2026/03/13/i-fasted-for-friendship-during-ramadan-and-lent-heres-what-i-learned/",
           "source": "RNS",
           "ts": "Fri, 13 Mar 2026 21:32:18 +0000"
-        },
-        {
-          "title": "Gay Muslim influencer hosts inclusive Ramadan meal and calls for acceptance across faiths",
-          "url": "https://religionnews.com/2026/03/13/gay-muslim-influencer-hosts-inclusive-ramadan-meal-and-calls-for-acceptance-across-faiths/",
-          "source": "RNS",
-          "ts": "Fri, 13 Mar 2026 17:09:47 +0000"
         },
         {
           "title": "The Movie Star Hiding in Plain Sight",
