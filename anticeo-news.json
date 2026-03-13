@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T14:20:33.522603Z",
+  "generated_at": "2026-03-13T14:25:30.488554Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "War Stirs Mixed Feelings for the Only Iranian American Democrat in Congress",
+          "url": "https://www.nytimes.com/2026/03/13/us/politics/ansari-iranian-american-congress.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 13 Mar 2026 14:18:58 +0000"
+        },
+        {
           "title": "What Does It Mean to Have Air Superiority Over Iran?",
           "url": "https://www.nytimes.com/2026/03/13/world/middleeast/air-superiority-iran-war.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/13/us/politics/joaquin-castro-immigration-detention-texas.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 13 Mar 2026 12:36:11 +0000"
-        },
-        {
-          "title": "Hegseth’s Boasts of ‘Maximum’ Engagement Authorities Face Scrutiny After School Is Hit",
-          "url": "https://www.nytimes.com/2026/03/13/us/politics/hegseth-iran-war-rules.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 13 Mar 2026 13:27:02 +0000"
         },
         {
           "title": "Trump says U.S. firepower is decimating 'deranged scumbags' in Iran",
