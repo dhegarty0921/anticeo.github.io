@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T04:35:34.293955Z",
+  "generated_at": "2026-03-13T04:40:32.985590Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Thu, 12 Mar 2026 23:18:58 GMT"
         },
         {
+          "title": "NYC's Mamdani condemns Tuberville's anti-Muslim posts as \"bigotry\"",
+          "url": "https://www.npr.org/2026/03/13/nx-s1-5746192/nycs-mamdani-condemns-tubervilles-anti-muslim-posts-as-bigotry",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 13 Mar 2026 00:35:14 -0400"
+        },
+        {
           "title": "Trump blames Iran for the war — critics question the diplomacy",
           "url": "https://www.npr.org/2026/03/12/nx-s1-5743449/trump-blames-iran-for-the-war-critics-question-the-diplomacy",
           "source": "NPR Topics: Politics",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/12/nx-s1-5743788/swing-voters-are-not-happy-with-trumps-war-in-iran",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 12 Mar 2026 16:13:50 -0400"
-        },
-        {
-          "title": "Sen. Chris Murphy, D-Conn., says Trump's plans for the war in Iran are 'incoherent'",
-          "url": "https://www.npr.org/2026/03/12/nx-s1-5744836/sen-chris-murphy-d-conn-says-trumps-plans-for-the-war-in-iran-are-incoherent",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 12 Mar 2026 06:48:30 -0400"
         },
         {
           "title": "Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict",
@@ -194,6 +194,12 @@
           "ts": "2026-03-12T13:00:00-04:00"
         },
         {
+          "title": "Trump news at a glance: president shrugs off highest gas prices in years",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/trump-news-at-a-glance-briefing-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 04:30:31 GMT"
+        },
+        {
           "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
           "source": "US news | The Guardian",
@@ -204,12 +210,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/12/old-dominion-university-shooting-suspect",
           "source": "US news | The Guardian",
           "ts": "Fri, 13 Mar 2026 01:48:29 GMT"
-        },
-        {
-          "title": "Suspect dead after ramming vehicle into Michigan synagogue, officials say",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Mar 2026 00:23:00 GMT"
         }
       ]
     },
