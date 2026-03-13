@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T16:10:31.585517Z",
+  "generated_at": "2026-03-13T16:15:33.623227Z",
   "headline": {
     "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
     "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "Trump-Iran Timeline: Key Moments Leading Up to War",
+          "url": "https://www.nytimes.com/2026/03/13/us/politics/trump-iran-history-timeline.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 13 Mar 2026 16:10:32 +0000"
+        },
+        {
           "title": "Pete Hegseth Says ‘the Sooner David Ellison’ Buys CNN, ‘the Better’",
           "url": "https://www.nytimes.com/2026/03/13/business/media/pete-hegseth-david-ellison-cnn.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 13 Mar 2026 15:26:00 +0000"
-        },
-        {
-          "title": "Hegseth Vows Lethal Day in Iran as Air War Intensifies",
-          "url": "https://www.nytimes.com/2026/03/13/us/politics/hegseth-air-war-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 13 Mar 2026 16:00:22 +0000"
         },
         {
           "title": "Trump DOJ warned court: ISIS convict needed 20 years -- judge gave him 11, he was free to kill",
@@ -176,6 +176,12 @@
           "ts": "2026-03-13T06:00:00-04:00"
         },
         {
+          "title": "With $200m to spend on the midterms, crypto hopes to repeat its 2024 success: ‘It’s the most critical time’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/midterms-crypto-pacs-political-spending",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 16:00:53 GMT"
+        },
+        {
           "title": "Pete Hegseth downplays strait of Hormuz disruption, claiming ‘don’t need to worry about it’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/13/jewish-community-fear-michigan-synagogue-attack",
           "source": "US news | The Guardian",
           "ts": "Fri, 13 Mar 2026 15:15:01 GMT"
-        },
-        {
-          "title": "All six crew members confirmed dead after US military plane crash in Iraq",
-          "url": "https://www.theguardian.com/us-news/2026/mar/12/us-military-aircraft-iraq-crash",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Mar 2026 15:04:45 GMT"
         }
       ]
     },
