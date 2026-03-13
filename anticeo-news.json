@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T19:30:34.919191Z",
+  "generated_at": "2026-03-13T19:35:31.804836Z",
   "headline": {
     "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
     "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
@@ -45,10 +45,10 @@
           "ts": "Fri, 13 Mar 2026 05:00:00 -0400"
         },
         {
-          "title": "Judge Quashes Justice Dept.’s Subpoenas Issued to Federal Reserve Chair",
+          "title": "Judge Quashes Justice Dept.’s Subpoenas Targeting Federal Reserve Chair",
           "url": "https://www.nytimes.com/2026/03/13/us/politics/jerome-powell-trump-subpoenas.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 13 Mar 2026 19:21:21 +0000"
+          "ts": "Fri, 13 Mar 2026 19:25:34 +0000"
         },
         {
           "title": "Trump’s Move to Seize Oil Tankers Costs the U.S. Tens of Millions of Dollars",
@@ -99,24 +99,6 @@
           "ts": "Fri, 13 Mar 2026 13:39:49 -0500"
         },
         {
-          "title": "Memo lays out Trump’s squeeze on Cuban doctor program",
-          "url": "https://www.politico.com/news/2026/03/13/cuban-doctors-us-pressure-00827683",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 13 Mar 2026 11:30:00 EST"
-        },
-        {
-          "title": "Hegseth ignored military officials when he slashed offices that limit risk to civilians",
-          "url": "https://www.politico.com/news/2026/03/13/military-leaders-warned-hegseth-not-to-gut-offices-that-limit-risk-to-civilians-00827722",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 13 Mar 2026 13:30:00 EST"
-        },
-        {
-          "title": "Republican lawmakers shrug at more funding for Iran war",
-          "url": "https://www.politico.com/news/2026/03/13/getting-congress-to-pay-for-the-iran-war-wont-be-an-easy-sell-00826757",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 13 Mar 2026 03:45:00 EST"
-        },
-        {
           "title": "These are the US states with the largest – and smallest – average penis size",
           "url": "https://www.thepinknews.com/2026/03/13/these-are-the-us-states-with-the-largest-and-smallest-average-penis-size/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -158,6 +140,12 @@
           "ts": "Fri, 13 Mar 2026 16:47:15 +0000"
         },
         {
+          "title": "Pete Hegseth’s Worrisome Press Briefing",
+          "url": "https://www.theatlantic.com/ideas/2026/03/pete-hegseth-strait-of-hormuz-iran/686368/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-13T15:31:21-04:00"
+        },
+        {
           "title": "How Not to Recommend a Book",
           "url": "https://www.theatlantic.com/newsletters/2026/03/books-briefing-how-recommend-book-readers-advisory/686371/?utm_source=feed",
           "source": "The Atlantic",
@@ -168,12 +156,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/03/hormuz-strait-iran-oil/686365/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-13T13:20:03-04:00"
-        },
-        {
-          "title": "Anti-Semitism Is Becoming Mainstream",
-          "url": "https://www.theatlantic.com/ideas/2026/03/michigan-synagogue-attack/686366/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-13T13:20:00-04:00"
         },
         {
           "title": "How the war in Iran threatens food supply everywhere",
@@ -192,6 +174,24 @@
           "url": "https://www.vox.com/politics/482361/iran-war-white-house-video-game-propaganda",
           "source": "Vox",
           "ts": "2026-03-13T06:00:00-04:00"
+        },
+        {
+          "title": "US airport security misses first paycheck as homeland security shutdown nears one month – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/13/donald-trump-iran-military-hegseth-caine-immigration-voter-id-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 19:15:03 GMT"
+        },
+        {
+          "title": "US Jewish communities warn increased security is needed after Michigan attack",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/jewish-community-fear-michigan-synagogue-attack",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 18:36:30 GMT"
+        },
+        {
+          "title": "Suspect in Michigan synagogue attack had lost family in Israeli strike on Lebanon",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/suspect-michigan-synagogue-attack-lost-family-lebanon",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Mar 2026 18:33:36 GMT"
         }
       ]
     },
