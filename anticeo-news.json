@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T23:55:33.574294Z",
+  "generated_at": "2026-03-13T00:00:35.334029Z",
   "headline": {
     "title": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
     "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss"
@@ -194,6 +194,12 @@
           "ts": "2026-03-12T13:00:00-04:00"
         },
         {
+          "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Mar 2026 23:44:13 GMT"
+        },
+        {
           "title": "Suspect dead after ramming vehicle into Michigan synagogue, officials say",
           "url": "https://www.theguardian.com/us-news/2026/mar/12/temple-israel-synagogue-shooter-police",
           "source": "US news | The Guardian",
@@ -204,12 +210,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/11/louisiana-republican-blake-miguez",
           "source": "US news | The Guardian",
           "ts": "Thu, 12 Mar 2026 23:28:19 GMT"
-        },
-        {
-          "title": "Senate again fails to pass homeland security funding as department shutdown nears one month – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/12/republicans-trump-iran-senate-majority-leader-john-thune-voter-id-bill-save-america-act-politics-live-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Mar 2026 23:12:05 GMT"
         }
       ]
     },
