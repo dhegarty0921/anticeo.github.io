@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T12:10:34.242652Z",
+  "generated_at": "2026-03-14T12:15:31.539124Z",
   "headline": {
     "title": "Mission accomplished? The 2003 boast that haunts today's Iran conflict",
     "url": "https://www.bbc.com/news/articles/c1e9yy84we8o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-13T18:00:00-04:00"
         },
         {
+          "title": "Democratic lead in Georgia special election signals change in party’s fortunes",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 12:00:20 GMT"
+        },
+        {
           "title": "Trump officials set to expand migrant family detention at Louisiana airport",
           "url": "https://www.theguardian.com/us-news/2026/mar/14/trump-migrant-detention-louisiana",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/14/trump-iran-war-chaos",
           "source": "US news | The Guardian",
           "ts": "Sat, 14 Mar 2026 10:00:17 GMT"
-        },
-        {
-          "title": "This doctor treated migrants’ severe injuries at the US-Mexico wall: ‘Political decisions made it as violent as possible’",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/14/migrant-border-wall-doctor-public-health",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Mar 2026 10:00:15 GMT"
         }
       ]
     },
