@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T14:35:33.683545Z",
+  "generated_at": "2026-03-14T14:40:31.685543Z",
   "headline": {
     "title": "Man charged for allegedly selling weapon to gunman in Virginia university attack",
     "url": "https://www.bbc.com/news/articles/c4gjrzgr32mo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Sat, 14 Mar 2026 07:31:48 -0500"
         },
         {
-          "title": "It's not just oil. Here comes Hormuz inflation.",
-          "url": "https://www.politico.com/news/2026/03/14/hormuz-inflation-helium-fertilizer-00828680",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 06:00:00 EST"
-        },
-        {
-          "title": "US strikes Kharg Island as Trump presses Iran to keep Strait of Hormuz open",
-          "url": "https://www.politico.com/news/2026/03/13/us-kharg-island-trump-iran-hormuz-00829134",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 13 Mar 2026 18:52:43 EST"
-        },
-        {
-          "title": "Hegseth ignored military officials when he slashed offices that limit risk to civilians",
-          "url": "https://www.politico.com/news/2026/03/13/military-leaders-warned-hegseth-not-to-gut-offices-that-limit-risk-to-civilians-00827722",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 13 Mar 2026 13:30:00 EST"
-        },
-        {
           "title": "These are the US states with the largest – and smallest – average penis size",
           "url": "https://www.thepinknews.com/2026/03/13/these-are-the-us-states-with-the-largest-and-smallest-average-penis-size/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -192,19 +174,30 @@
           "url": "https://www.vox.com/podcasts/482470/trump-dhs-markwayne-mullin",
           "source": "Vox",
           "ts": "2026-03-14T07:00:00-04:00"
+        },
+        {
+          "title": "The ‘Jolene doctrine’: retired US army general likens Trump foreign policy to Dolly Parton song",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/jolene-doctrine-us-foreign-policy-stanley-mcchrystal",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 13:56:07 GMT"
+        },
+        {
+          "title": "US immigrant parents are taking intense precautions in case of detention: ‘I need to prepare for the worst’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/us-immigrant-parents-preparation-detention",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 13:00:19 GMT"
+        },
+        {
+          "title": "Homicide charge dropped against Georgia teen after teacher’s prank death",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/charges-dropped-georgia-teen-teacher-prank-death",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 12:30:59 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran warns of retaliation after US bombing of Kharg Island",
-          "url": "https://www.politico.eu/article/iran-warns-of-retaliatory-strikes-on-us-oil-facilities-kharg-island/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 09:07:04 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
