@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T18:25:32.203241Z",
+  "generated_at": "2026-03-14T18:30:30.621580Z",
   "headline": {
     "title": "Man charged for allegedly selling weapon to gunman in Virginia university attack",
     "url": "https://www.bbc.com/news/articles/c4gjrzgr32mo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-14T07:00:00-04:00"
         },
         {
+          "title": "New York lawyer linked to Trump pardon charged with attempted extortion",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/new-york-attorney-extortion-plot-trump-pardon",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 18:15:56 GMT"
+        },
+        {
           "title": "Gas prices are soaring – but one Los Angeles gas station is taking it to the extreme",
           "url": "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/14/democratic-lawmaker-condemns-hegseth-no-quarter",
           "source": "US news | The Guardian",
           "ts": "Sat, 14 Mar 2026 15:46:40 GMT"
-        },
-        {
-          "title": "The ‘Jolene doctrine’: retired US army general likens Trump foreign policy to Dolly Parton song",
-          "url": "https://www.theguardian.com/us-news/2026/mar/14/jolene-doctrine-us-foreign-policy-stanley-mcchrystal",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Mar 2026 13:56:07 GMT"
         }
       ]
     },
