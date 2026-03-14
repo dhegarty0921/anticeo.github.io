@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T14:10:32.941413Z",
+  "generated_at": "2026-03-14T14:15:32.076229Z",
   "headline": {
     "title": "Man charged for allegedly selling weapon to gunman in Virginia university attack",
     "url": "https://www.bbc.com/news/articles/c4gjrzgr32mo?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-14T07:00:00-04:00"
         },
         {
+          "title": "The ‘Jolene doctrine’: retired US army general likens Trump foreign policy to Dolly Parton song",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/jolene-doctrine-us-foreign-policy-stanley-mcchrystal",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 13:56:07 GMT"
+        },
+        {
           "title": "US immigrant parents are taking intense precautions in case of detention: ‘I need to prepare for the worst’",
           "url": "https://www.theguardian.com/us-news/2026/mar/14/us-immigrant-parents-preparation-detention",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/14/charges-dropped-georgia-teen-teacher-prank-death",
           "source": "US news | The Guardian",
           "ts": "Sat, 14 Mar 2026 12:30:59 GMT"
-        },
-        {
-          "title": "Democratic lead in Georgia special election signals change in party’s fortunes",
-          "url": "https://www.theguardian.com/us-news/2026/mar/14/democrats-georgia-election",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Mar 2026 12:00:20 GMT"
         }
       ]
     },
