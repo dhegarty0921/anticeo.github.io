@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T23:20:31.616626Z",
+  "generated_at": "2026-03-14T23:25:30.344271Z",
   "headline": {
     "title": "Man charged for allegedly selling weapon to gunman in Virginia university attack",
     "url": "https://www.bbc.com/news/articles/c4gjrzgr32mo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Sat, 14 Mar 2026 09:40:55 -0500"
         },
         {
-          "title": "The reviews are in. It's not looking good, America.",
-          "url": "https://www.politico.com/news/2026/03/14/america-allies-divided-reviews-democracy-stability-00803863",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 09:00:00 EST"
-        },
-        {
-          "title": "It's not just oil. Here comes Hormuz inflation.",
-          "url": "https://www.politico.com/news/2026/03/14/hormuz-inflation-helium-fertilizer-00828680",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 06:00:00 EST"
-        },
-        {
-          "title": "2028 Dem veteran? Uncle Sam wants you.",
-          "url": "https://www.politico.com/news/2026/03/14/2028-iran-war-democrats-00829204",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 09:43:15 EST"
-        },
-        {
           "title": "These are the US states with the largest – and smallest – average penis size",
           "url": "https://www.thepinknews.com/2026/03/13/these-are-the-us-states-with-the-largest-and-smallest-average-penis-size/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -192,19 +174,30 @@
           "url": "https://www.vox.com/podcasts/482470/trump-dhs-markwayne-mullin",
           "source": "Vox",
           "ts": "2026-03-14T07:00:00-04:00"
+        },
+        {
+          "title": "FCC chair threatens to throttle news broadcasts over ‘hoaxes’ about Iran war",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/fcc-broadcast-permits-iran-war-news",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 21:12:25 GMT"
+        },
+        {
+          "title": "New York lawyer linked to Trump pardon charged with attempted extortion",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/new-york-attorney-extortion-plot-trump-pardon",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 18:15:56 GMT"
+        },
+        {
+          "title": "Gas prices are soaring – but one Los Angeles gas station is taking it to the extreme",
+          "url": "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Mar 2026 16:00:22 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran warns of retaliation after US bombing of Kharg Island",
-          "url": "https://www.politico.eu/article/iran-warns-of-retaliatory-strikes-on-us-oil-facilities-kharg-island/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 09:07:04 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
