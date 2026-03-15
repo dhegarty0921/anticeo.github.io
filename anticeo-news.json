@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T14:45:32.647104Z",
+  "generated_at": "2026-03-15T14:50:32.043165Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sun, 15 Mar 2026 07:00:08 -0400"
         },
         {
+          "title": "Energy Secretary Says ‘No Guarantees’ Oil Prices Will Fall Soon",
+          "url": "https://www.nytimes.com/2026/03/15/us/politics/energy-secretary-iran-oil-prices.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 15 Mar 2026 14:48:49 +0000"
+        },
+        {
           "title": "In Texas, an Unyielding Gun Culture Jumps Off YouTube and Into Politics",
           "url": "https://www.nytimes.com/2026/03/15/us/politics/brandon-hererra-guns-youtube.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/15/us/politics/farm-labor-trump-migrant-workers-h2a.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 15 Mar 2026 09:00:19 +0000"
-        },
-        {
-          "title": "Fund-raising Email Features Trump at Ritual for Soldiers Killed in Iran War",
-          "url": "https://www.nytimes.com/2026/03/14/us/politics/fund-raising-email-trump-ritual.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 15 Mar 2026 01:37:44 +0000"
         },
         {
           "title": "Federal judge orders Trump-Kennedy Center to fess up about plans to close",
