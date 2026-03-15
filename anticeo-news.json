@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T03:55:31.329197Z",
+  "generated_at": "2026-03-15T04:00:30.604071Z",
   "headline": {
     "title": "My letter to my dead daughter - after forgiving the man who killed her",
     "url": "https://www.bbc.com/news/articles/cnv6ne1zqyro?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-14T07:00:00-04:00"
         },
         {
+          "title": "Trump news at a glance: president says Iran’s Kharg Island ‘demolished’ and threatens more strikes ‘just for fun’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/trump-administration-news-updates-today",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 03:53:09 GMT"
+        },
+        {
           "title": "FCC chair threatens to throttle news broadcasts over ‘hoaxes’ about Iran war",
           "url": "https://www.theguardian.com/us-news/2026/mar/14/fcc-broadcast-permits-iran-war-news",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/14/new-york-attorney-extortion-plot-trump-pardon",
           "source": "US news | The Guardian",
           "ts": "Sat, 14 Mar 2026 18:15:56 GMT"
-        },
-        {
-          "title": "Gas prices are soaring – but one Los Angeles gas station is taking it to the extreme",
-          "url": "https://www.theguardian.com/us-news/2026/mar/14/gas-prices-los-angeles-chevron",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Mar 2026 16:00:22 GMT"
         }
       ]
     },
