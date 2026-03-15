@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T18:15:28.231296Z",
+  "generated_at": "2026-03-15T18:20:31.301492Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Sun, 15 Mar 2026 07:24:15 -0500"
         },
         {
+          "title": "Top US allies are turning toward China instead. Blame Trump.",
+          "url": "https://www.politico.com/news/2026/03/15/trump-china-europe-closer-ties-00823457",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 09:00:00 EST"
+        },
+        {
+          "title": "Trump’s latest tariffs face a fresh set of legal hurdles",
+          "url": "https://www.politico.com/news/2026/03/15/trump-tariffs-legal-challenges-00828854",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 06:00:00 EST"
+        },
+        {
+          "title": "Hegseth ignored military officials when he slashed offices that limit risk to civilians",
+          "url": "https://www.politico.com/news/2026/03/13/military-leaders-warned-hegseth-not-to-gut-offices-that-limit-risk-to-civilians-00827722",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Fri, 13 Mar 2026 13:30:00 EST"
+        },
+        {
           "title": "These are the US states with the largest – and smallest – average penis size",
           "url": "https://www.thepinknews.com/2026/03/13/these-are-the-us-states-with-the-largest-and-smallest-average-penis-size/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -174,30 +192,19 @@
           "url": "https://www.vox.com/podcasts/482508/david-ellison-paramount-merger",
           "source": "Vox",
           "ts": "2026-03-15T07:00:00-04:00"
-        },
-        {
-          "title": "Florida’s real estate ‘gold rush’ draws the super-rich as rising costs push others out",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/florida-real-estate",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 15:00:26 GMT"
-        },
-        {
-          "title": "Treasure hunter freed from prison after 10 years but location of gold coins still unknown",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/treasure-hunter-gold-coins-shipwreck",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 14:12:20 GMT"
-        },
-        {
-          "title": "Religious leaders condemn Michigan synagogue attack – but moving forward together tricky",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/dearborn-synagogue-attack-moving-forward",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 14:00:27 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Iran says Russia and China providing ‘military cooperation’",
+          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
