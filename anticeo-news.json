@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T22:45:30.114977Z",
+  "generated_at": "2026-03-15T22:50:29.889728Z",
   "headline": {
     "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
     "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-15T07:00:00-04:00"
         },
         {
+          "title": "‘Triple-threat megastorm’ to scatter snow, high winds and thunder across US",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/snow-wind-winter-storm-thunder-tornadoes",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 22:43:02 GMT"
+        },
+        {
           "title": "Republican rebukes FCC chair’s threats to revoke broadcast licenses over Iran war",
           "url": "https://www.theguardian.com/us-news/2026/mar/15/fcc-chair-broadcasters-license-iran-war",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/15/congress-shutdown-airport-security-officers-pay",
           "source": "US news | The Guardian",
           "ts": "Sun, 15 Mar 2026 18:29:53 GMT"
-        },
-        {
-          "title": "Florida’s real estate ‘gold rush’ draws the super-rich as rising costs push others out",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/florida-real-estate",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 15:00:26 GMT"
         }
       ]
     },
