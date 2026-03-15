@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T23:45:29.433042Z",
+  "generated_at": "2026-03-15T23:50:32.202142Z",
   "headline": {
     "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
     "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sun, 15 Mar 2026 07:00:08 -0400"
         },
         {
+          "title": "In Illinois, Clashes Over AIPAC Erupt As House Campaign Closes",
+          "url": "https://www.nytimes.com/2026/03/15/us/politics/illinois-democrats-ad-israel-congress-aipac.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 15 Mar 2026 23:41:54 +0000"
+        },
+        {
           "title": "Entering War’s Third Week, Trump Faces Stark Choices",
           "url": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/15/us/politics/trump-markwayne-mullin-homeland-security-stocks.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 15 Mar 2026 17:25:25 +0000"
-        },
-        {
-          "title": "Oil Prices May Not Fall Soon, U.S. Energy Secretary Says",
-          "url": "https://www.nytimes.com/2026/03/15/us/politics/energy-secretary-iran-oil-prices.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 15 Mar 2026 19:16:19 +0000"
         },
         {
           "title": "CEOs of top airlines demand Congress restore funding to Homeland Security and pay airport workers",
