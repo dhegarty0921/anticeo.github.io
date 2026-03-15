@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T12:05:34.154817Z",
+  "generated_at": "2026-03-15T12:10:31.846982Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-15T07:00:00-04:00"
         },
         {
+          "title": "Chaos outside Mamdani’s home brings terror charges for ‘IS-inspired’ teens – and host of questions",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/new-york-mamdani-teen-suspects",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 12:00:23 GMT"
+        },
+        {
           "title": "Hacked data shines light on homeland security’s AI surveillance ambitions",
           "url": "https://www.theguardian.com/us-news/2026/mar/15/hacked-data-homeland-security",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/15/abortion-wyoming-supreme-court",
           "source": "US news | The Guardian",
           "ts": "Sun, 15 Mar 2026 11:00:22 GMT"
-        },
-        {
-          "title": "Can scientists really resurrect the dodo? Inside the company that says they can",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/colossal-biosciences-resurrects-dire-wolf",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 10:00:23 GMT"
         }
       ]
     },
