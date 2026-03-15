@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T12:10:31.846982Z",
+  "generated_at": "2026-03-15T12:15:32.383636Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Sat, 14 Mar 2026 09:40:55 -0500"
         },
         {
+          "title": "Trump’s latest tariffs face a fresh set of legal hurdles",
+          "url": "https://www.politico.com/news/2026/03/15/trump-tariffs-legal-challenges-00828854",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 06:00:00 EST"
+        },
+        {
+          "title": "2028 Dem veteran? Uncle Sam wants you.",
+          "url": "https://www.politico.com/news/2026/03/14/2028-iran-war-democrats-00829204",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sat, 14 Mar 2026 09:43:15 EST"
+        },
+        {
+          "title": "Hegseth ignored military officials when he slashed offices that limit risk to civilians",
+          "url": "https://www.politico.com/news/2026/03/13/military-leaders-warned-hegseth-not-to-gut-offices-that-limit-risk-to-civilians-00827722",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Fri, 13 Mar 2026 13:30:00 EST"
+        },
+        {
           "title": "These are the US states with the largest – and smallest – average penis size",
           "url": "https://www.thepinknews.com/2026/03/13/these-are-the-us-states-with-the-largest-and-smallest-average-penis-size/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -174,30 +192,19 @@
           "url": "https://www.vox.com/podcasts/482508/david-ellison-paramount-merger",
           "source": "Vox",
           "ts": "2026-03-15T07:00:00-04:00"
-        },
-        {
-          "title": "Chaos outside Mamdani’s home brings terror charges for ‘IS-inspired’ teens – and host of questions",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/new-york-mamdani-teen-suspects",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 12:00:23 GMT"
-        },
-        {
-          "title": "Hacked data shines light on homeland security’s AI surveillance ambitions",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/hacked-data-homeland-security",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 11:00:23 GMT"
-        },
-        {
-          "title": "Wyoming passes new six-week abortion ban that lawmakers call ‘insult to voters’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/abortion-wyoming-supreme-court",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 11:00:22 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Iran says Russia and China providing ‘military cooperation’",
+          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
