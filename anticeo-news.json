@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T12:15:32.383636Z",
+  "generated_at": "2026-03-15T12:20:29.639013Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -27,22 +27,22 @@
           "ts": "Sat, 14 Mar 2026 20:33:34 GMT"
         },
         {
+          "title": "Politics chat: Trump's war priorities, FCC on war coverage, Save America Act",
+          "url": "https://www.npr.org/2026/03/15/nx-s1-5744772/politics-chat-trumps-war-priorities-fcc-on-war-coverage-save-america-act",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 15 Mar 2026 08:09:55 -0400"
+        },
+        {
+          "title": "How the Democrats' generational tug-of-war is playing out in one Chicago-area race",
+          "url": "https://www.npr.org/2026/03/15/nx-s1-5726873/how-the-democrats-generational-tug-of-war-is-playing-out-in-one-chicago-area-race",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 15 Mar 2026 08:09:47 -0400"
+        },
+        {
           "title": "U.S. military names six killed in plane crash as Iran war enters third week",
           "url": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 15 Mar 2026 07:00:08 -0400"
-        },
-        {
-          "title": "Why the Chicago Bears could be moving to Indiana",
-          "url": "https://www.npr.org/2026/03/14/g-s1-113826/why-the-chicago-bears-could-be-moving-to-indiana",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 14 Mar 2026 18:56:39 -0400"
-        },
-        {
-          "title": "Pentagon tightens controls over Stars and Stripes after calling it \"woke\"",
-          "url": "https://www.npr.org/2026/03/14/nx-s1-5748020/pentagon-tightens-controls-over-stars-and-stripes-after-calling-it-woke",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 14 Mar 2026 18:18:02 -0400"
         },
         {
           "title": "In Texas, an Unyielding Gun Culture Jumps Off YouTube and Into Politics",
@@ -97,24 +97,6 @@
           "url": "https://www.realclearpolitics.com/2026/03/14/the_oil_price_war_694293.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Sat, 14 Mar 2026 09:40:55 -0500"
-        },
-        {
-          "title": "Trump’s latest tariffs face a fresh set of legal hurdles",
-          "url": "https://www.politico.com/news/2026/03/15/trump-tariffs-legal-challenges-00828854",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 06:00:00 EST"
-        },
-        {
-          "title": "2028 Dem veteran? Uncle Sam wants you.",
-          "url": "https://www.politico.com/news/2026/03/14/2028-iran-war-democrats-00829204",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sat, 14 Mar 2026 09:43:15 EST"
-        },
-        {
-          "title": "Hegseth ignored military officials when he slashed offices that limit risk to civilians",
-          "url": "https://www.politico.com/news/2026/03/13/military-leaders-warned-hegseth-not-to-gut-offices-that-limit-risk-to-civilians-00827722",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Fri, 13 Mar 2026 13:30:00 EST"
         },
         {
           "title": "These are the US states with the largest – and smallest – average penis size",
@@ -192,19 +174,30 @@
           "url": "https://www.vox.com/podcasts/482508/david-ellison-paramount-merger",
           "source": "Vox",
           "ts": "2026-03-15T07:00:00-04:00"
+        },
+        {
+          "title": "Chaos outside Mamdani’s home brings terror charges for ‘IS-inspired’ teens – and host of questions",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/new-york-mamdani-teen-suspects",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 12:00:23 GMT"
+        },
+        {
+          "title": "Hacked data shines light on homeland security’s AI surveillance ambitions",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/hacked-data-homeland-security",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 11:00:23 GMT"
+        },
+        {
+          "title": "Wyoming passes new six-week abortion ban that lawmakers call ‘insult to voters’",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/abortion-wyoming-supreme-court",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 11:00:22 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran says Russia and China providing ‘military cooperation’",
-          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
