@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T19:25:29.677765Z",
+  "generated_at": "2026-03-15T19:30:29.837554Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -176,12 +176,6 @@
           "ts": "2026-03-15T07:00:00-04:00"
         },
         {
-          "title": "Republican rebukes FCC chair’s threats to revoke broadcast licenses over Iran war",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/fcc-chair-broadcasters-license-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 19:13:38 GMT"
-        },
-        {
           "title": "Airline CEOs urge Congress to end shutdown and pay airport TSA officers",
           "url": "https://www.theguardian.com/us-news/2026/mar/15/congress-shutdown-airport-security-officers-pay",
           "source": "US news | The Guardian",
@@ -192,6 +186,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/15/florida-real-estate",
           "source": "US news | The Guardian",
           "ts": "Sun, 15 Mar 2026 15:00:26 GMT"
+        },
+        {
+          "title": "Treasure hunter freed from prison after 10 years but location of gold coins still unknown",
+          "url": "https://www.theguardian.com/us-news/2026/mar/15/treasure-hunter-gold-coins-shipwreck",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Mar 2026 14:12:20 GMT"
         }
       ]
     },
