@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-15T18:25:32.040765Z",
+  "generated_at": "2026-03-15T18:30:28.713872Z",
   "headline": {
     "title": "US names six crew killed in refuelling plane crash in Iraq",
     "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sun, 15 Mar 2026 07:00:08 -0400"
         },
         {
+          "title": "Entering War’s Third Week, Trump Faces Stark Choices",
+          "url": "https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 15 Mar 2026 18:22:22 +0000"
+        },
+        {
           "title": "Markwayne Mullin, Trump’s Homeland Security Pick, Got Wealthier Stock Trading in Congress",
           "url": "https://www.nytimes.com/2026/03/15/us/politics/trump-markwayne-mullin-homeland-security-stocks.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/15/us/politics/energy-secretary-iran-oil-prices.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 15 Mar 2026 14:48:50 +0000"
-        },
-        {
-          "title": "In Texas, an Unyielding Gun Culture Jumps Off YouTube and Into Politics",
-          "url": "https://www.nytimes.com/2026/03/15/us/politics/brandon-hererra-guns-youtube.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 15 Mar 2026 09:01:20 +0000"
         },
         {
           "title": "'Amateur hour': Pete Buttigieg criticizes Trump over war planning, fundraising off war dead",
