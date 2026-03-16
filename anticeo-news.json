@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T20:55:33.669537Z",
+  "generated_at": "2026-03-16T21:00:30.425437Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-16T08:00:00-04:00"
         },
         {
+          "title": "Kennedy Center board votes to close for two years during renovations",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/kennedy-center-closing-renovation-trump",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 20:42:26 GMT"
+        },
+        {
           "title": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/judge-blocks-rfk-jr-vaccine-policy-changes",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 20:23:50 GMT"
-        },
-        {
-          "title": "Kennedy Center board votes to close for two years during renovations",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/kennedy-center-closing-renovation-trump",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 20:16:47 GMT"
         }
       ]
     },
