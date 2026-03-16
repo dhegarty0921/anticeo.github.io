@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:00:30.425437Z",
+  "generated_at": "2026-03-16T21:05:31.576987Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown",
+          "url": "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 20:55:09 +0000"
+        },
+        {
           "title": "Judge Strikes Down RFK Jr.’s Vaccine Policies in Blow to Trump’s Health Agenda",
           "url": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-administration-china-managed-trade.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 20:06:06 +0000"
-        },
-        {
-          "title": "What Are Trump’s Positions on Iran? They Can Change by the Sentence.",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 20:38:15 +0000"
         },
         {
           "title": "Burpees, takedowns, pipe wrenches: Markwayne Mullin brings unique toolbag to confirmation faceoff",
