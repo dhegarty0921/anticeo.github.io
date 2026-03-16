@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:45:34.795248Z",
+  "generated_at": "2026-03-16T21:50:30.655184Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Inside the Democrats’ Infighting in the Illinois Primary",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/illinois-democrat-primary-brandon-herrera-mamdani.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 21:44:07 +0000"
+        },
+        {
+          "title": "War Isn’t the Only Thing on Trump’s Mind",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-news-conference-kennedy-center-iran.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 21:41:38 +0000"
+        },
+        {
           "title": "Fire on the U.S. Aircraft Carrier Gerald R. Ford Raged for Hours, Sailors Say",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 21:33:24 +0000"
-        },
-        {
-          "title": "S.E.C.’s Enforcement Chief Abruptly Resigns",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/sec-enforcement-chief-resigns.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 21:15:14 +0000"
-        },
-        {
-          "title": "Supreme Court Defers Decision on Trump’s Bid to End Protections for Migrants",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/supreme-court-defers-tps.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 21:02:51 +0000"
         },
         {
           "title": "Trump says he is asking to delay trip to China due to war with Iran",
@@ -140,6 +140,12 @@
           "ts": "2026-03-16T15:45:00-04:00"
         },
         {
+          "title": "Trump’s Hormuz problem, briefly explained",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/482803/donald-trump-iran-war-strait-of-hormuz-oil-gas-us-allies",
+          "source": "Vox",
+          "ts": "2026-03-16T17:49:20-04:00"
+        },
+        {
           "title": "The Oscar was never really Timothée Chalamet&#8217;s to begin with",
           "url": "https://www.vox.com/culture/482672/timothee-chalamet-michael-b-jordan-oscars-marty-supreme-sinners-best-actor",
           "source": "Vox",
@@ -152,18 +158,6 @@
           "ts": "2026-03-16T15:25:00-04:00"
         },
         {
-          "title": "The best financial advice I ever received",
-          "url": "https://www.vox.com/advice/482257/when-to-hire-an-accountant",
-          "source": "Vox",
-          "ts": "2026-03-16T08:00:00-04:00"
-        },
-        {
-          "title": "At least 200 American troops wounded in Iran war, US military says",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 21:31:48 GMT"
-        },
-        {
           "title": "Supreme court to consider Trump push to end protection status for Haitians and Syrians",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/supreme-court-haiti-syria-protection-status-case",
           "source": "US news | The Guardian",
@@ -174,6 +168,12 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 21:09:57 GMT"
+        },
+        {
+          "title": "California highway patrol officer charged with murder over crash that killed four",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/california-highway-patrol-officer-murder-charge",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:09:29 GMT"
         }
       ]
     },
