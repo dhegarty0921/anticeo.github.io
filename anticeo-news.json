@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T10:50:30.507175Z",
+  "generated_at": "2026-03-16T10:55:29.582644Z",
   "headline": {
     "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
     "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Sun, 15 Mar 2026 21:27:39 -0500"
         },
         {
-          "title": "‘I think she will be loyal’: Jeffrey Epstein’s role in Peter Attia’s rise",
-          "url": "https://www.politico.com/news/2026/03/16/jeffrey-epstein-peter-attia-model-00824117",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "‘We’re going to have a problem’: Republicans want Trump to move on from 2020",
-          "url": "https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 04:40:00 EST"
-        },
-        {
-          "title": "The Trump health care policy red and blue states are embracing",
-          "url": "https://www.politico.com/news/2026/03/15/trump-health-policy-both-parties-bullish-on-00813177",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 15:00:00 EST"
-        },
-        {
           "title": "Thousands sign petition demanding renewal of I Kissed A Boy and I Kissed A Girl: ‘Representation matters’",
           "url": "https://www.thepinknews.com/2026/03/16/bbc-i-kissed-a-girl-i-kissed-a-boy-petition/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -127,6 +109,12 @@
           "url": "https://www.thepinknews.com/2026/03/16/queer-oscar-winner-forced-to-try-and-stop-speech-being-cut-so-disrespectful/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Mon, 16 Mar 2026 10:04:39 +0000"
+        },
+        {
+          "title": "These are the US states with the largest – and smallest – average penis size",
+          "url": "https://www.thepinknews.com/2026/03/13/these-are-the-us-states-with-the-largest-and-smallest-average-penis-size/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 13 Mar 2026 16:27:18 +0000"
         }
       ]
     },
@@ -168,19 +156,30 @@
           "url": "https://www.vox.com/politics/482389/voices-from-iran-war-dispatches",
           "source": "Vox",
           "ts": "2026-03-16T06:00:00-04:00"
+        },
+        {
+          "title": "‘I’m sick of stupid’: from excoriating Noem to breaking with Trump, Thom Tillis goes for fiery final act in Congress",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/thom-tillis-republican-senator",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 10:00:14 GMT"
+        },
+        {
+          "title": "‘The system is broken’: grassroots Democratic outreach group aims to reconnect with voters",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/grassroots-democratic-voter-outreach",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 10:00:13 GMT"
+        },
+        {
+          "title": "Trump claims he has ‘absolute right’ to impose new tariffs after supreme court blow",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-tariffs-absolute-right-claim-supreme-court-ruling",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 05:09:40 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran says Russia and China providing ‘military cooperation’",
-          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
