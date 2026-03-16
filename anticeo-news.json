@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T18:55:30.184660Z",
+  "generated_at": "2026-03-16T19:00:30.306541Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -54,10 +54,10 @@
           "title": "With Threats and Claims of ‘Treason,’ Trump Pressures Media on the War",
           "url": "https://www.nytimes.com/2026/03/16/business/media/trump-iran-media-coverage.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 18:26:53 +0000"
+          "ts": "Mon, 16 Mar 2026 18:53:52 +0000"
         },
         {
-          "title": "Trump Claims to Have Reversed a House Republican’s Terminal Diagnosis",
+          "title": "Trump Exposes Rep. Neal Dunn’s Terminal Diagnosis During News Conference",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-neal-dunn-terminal-diagnosis-johnson.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 18:15:30 +0000"
@@ -99,6 +99,24 @@
           "ts": "Mon, 16 Mar 2026 13:00:23 -0500"
         },
         {
+          "title": "‘We’re going to have a problem’: Republicans want Trump to move on from 2020",
+          "url": "https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 16 Mar 2026 04:40:00 EST"
+        },
+        {
+          "title": "‘I think she will be loyal’: Jeffrey Epstein’s role in Peter Attia’s rise",
+          "url": "https://www.politico.com/news/2026/03/16/jeffrey-epstein-peter-attia-model-00824117",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 16 Mar 2026 04:55:00 EST"
+        },
+        {
+          "title": "The Trump health care policy red and blue states are embracing",
+          "url": "https://www.politico.com/news/2026/03/15/trump-health-policy-both-parties-bullish-on-00813177",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 15:00:00 EST"
+        },
+        {
           "title": "Man who said Trump should ‘kill all trans people’ sentenced for anti-trans hate crime",
           "url": "https://www.thepinknews.com/2026/03/16/man-who-said-trump-should-kill-all-trans-people-sentenced-for-anti-trans-hate-crime/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -122,6 +140,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Iran’s War Is Not Only With the West",
+          "url": "https://www.theatlantic.com/ideas/2026/03/iran-history-terror-proxies/686405/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-16T14:34:34-04:00"
+        },
+        {
           "title": "Can’t Stop It, So Lead It",
           "url": "https://www.theatlantic.com/ideas/2026/03/democrats-strategy-iran-war/686404/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +156,6 @@
           "url": "https://www.theatlantic.com/politics/2026/03/ice-dhs-noem-warehouse-jails/686401/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-16T12:10:00-04:00"
-        },
-        {
-          "title": "Glimpsing Victory in Iran",
-          "url": "https://www.theatlantic.com/ideas/2026/03/iran-war-trump-win/686402/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-16T11:28:05-04:00"
         },
         {
           "title": "The best financial advice I ever received",
@@ -156,30 +174,19 @@
           "url": "https://www.vox.com/politics/479062/supreme-court-vote-by-mail-watson-republican-ballots",
           "source": "Vox",
           "ts": "2026-03-16T06:45:00-04:00"
-        },
-        {
-          "title": "Trump complains about allies and claims US destroyed more than 30 mine-laying ships in strait of Hormuz – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 18:24:28 GMT"
-        },
-        {
-          "title": "Tucker Carlson expresses fear that he may face federal charges for talking to Iranians",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/tucker-carlson-iran-comments-doj",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 18:10:36 GMT"
-        },
-        {
-          "title": "The Stop Asian Hate movement ‘galvanized political power’ in the US. Where is it now?",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/stop-asian-hate-movement-atlanta-shootings-trump",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 17:22:36 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Iran says Russia and China providing ‘military cooperation’",
+          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
