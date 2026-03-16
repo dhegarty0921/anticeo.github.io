@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:20:29.714073Z",
+  "generated_at": "2026-03-16T21:25:30.325125Z",
   "headline": {
     "title": "Trump border patrol chief Gregory Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "S.E.C.’s Enforcement Chief Abruptly Resigns",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/sec-enforcement-chief-resigns.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 21:15:14 +0000"
+        },
+        {
           "title": "Supreme Court Defers Decision on Trump’s Bid to End Protections for Migrants",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/supreme-court-defers-tps.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 20:55:09 +0000"
-        },
-        {
-          "title": "Judge Strikes Down RFK Jr.’s Vaccine Policies in Blow to Trump’s Health Agenda",
-          "url": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 21:13:09 +0000"
         },
         {
           "title": "Burpees, takedowns, pipe wrenches: Markwayne Mullin brings unique toolbag to confirmation faceoff",
@@ -158,22 +158,22 @@
           "ts": "2026-03-16T08:00:00-04:00"
         },
         {
+          "title": "Supreme court will hear arguments in challenge to legal protections for Haitian and Syrian immigrants – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:09:57 GMT"
+        },
+        {
+          "title": "California highway patrol officer charged with murder over crash that killed four",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/california-highway-patrol-officer-murder-charge",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:09:29 GMT"
+        },
+        {
           "title": "Trump discloses Florida Republican’s ‘terminal’ diagnosis in meandering rant",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-neal-dunn-florida-republican-health",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 20:55:44 GMT"
-        },
-        {
-          "title": "Kennedy Center board votes to close for two years during renovations",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/kennedy-center-closing-renovation-trump",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 20:42:26 GMT"
-        },
-        {
-          "title": "Federal judge blocks RFK Jr’s overhaul of vaccine recommendations",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/judge-blocks-rfk-jr-vaccine-policy-changes",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 20:37:39 GMT"
         }
       ]
     },
