@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T19:50:29.912707Z",
+  "generated_at": "2026-03-16T19:55:28.684584Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Mon, 16 Mar 2026 13:30:10 -0500"
         },
         {
-          "title": "‘We’re going to have a problem’: Republicans want Trump to move on from 2020",
-          "url": "https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 04:40:00 EST"
-        },
-        {
-          "title": "‘I think she will be loyal’: Jeffrey Epstein’s role in Peter Attia’s rise",
-          "url": "https://www.politico.com/news/2026/03/16/jeffrey-epstein-peter-attia-model-00824117",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "The Trump health care policy red and blue states are embracing",
-          "url": "https://www.politico.com/news/2026/03/15/trump-health-policy-both-parties-bullish-on-00813177",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 15:00:00 EST"
-        },
-        {
           "title": "Man who said Trump should ‘kill all trans people’ sentenced for anti-trans hate crime",
           "url": "https://www.thepinknews.com/2026/03/16/man-who-said-trump-should-kill-all-trans-people-sentenced-for-anti-trans-hate-crime/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -174,19 +156,30 @@
           "url": "https://www.vox.com/culture/482311/jeffrey-epstein-me-too-backlash-donald-trump-bill-clinton",
           "source": "Vox",
           "ts": "2026-03-16T07:15:00-04:00"
+        },
+        {
+          "title": "Trump chief of staff Susie Wiles diagnosed with breast cancer",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-susie-wiles-breast-cancer",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 19:37:01 GMT"
+        },
+        {
+          "title": "Trump complains about allies and claims US destroyed more than 30 mine-laying ships in strait of Hormuz – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 19:33:56 GMT"
+        },
+        {
+          "title": "Colorado funeral home owner given 18-year sentence in decaying bodies case",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/colorado-funeral-home-carie-hallford",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 19:21:14 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran says Russia and China providing ‘military cooperation’",
-          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
