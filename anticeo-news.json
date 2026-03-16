@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T16:25:31.769010Z",
+  "generated_at": "2026-03-16T16:30:30.160384Z",
   "headline": {
     "title": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
     "url": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Appeals Court Allows Trump Administration’s Third-Country Deportations, for Now",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-deportations-appeals-ruling.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 16:27:23 +0000"
+        },
+        {
           "title": "Susie Wiles, Trump’s White House Chief of Staff, Has Breast Cancer",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/susie-wiles-breast-cancer.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 16:01:30 +0000"
+          "ts": "Mon, 16 Mar 2026 16:23:02 +0000"
         },
         {
           "title": "Why Republicans are Changing Course on Immigration",
           "url": "https://www.nytimes.com/video/us/politics/100000010769509/why-trumps-immigration-policy-is-becoming-unpopular-with-voters.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 15:41:04 +0000"
-        },
-        {
-          "title": "With Iran War, Trump Risks Stepping on Gains From His Own Tax Cuts",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-tax-cuts.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 14:53:29 +0000"
         },
         {
           "title": "Apache tribe members urge Supreme Court to protect sacred land from U.S. mine deal",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "What Happens Now to Kristi Noem’s Warehouse Jails?",
+          "url": "https://www.theatlantic.com/politics/2026/03/ice-dhs-noem-warehouse-jails/686401/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-16T12:10:00-04:00"
+        },
+        {
           "title": "Glimpsing Victory in Iran",
           "url": "https://www.theatlantic.com/ideas/2026/03/iran-war-trump-win/686402/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/books/2026/03/night-night-fawn-bad-mother-trans-autofiction/686364/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-16T10:00:00-04:00"
-        },
-        {
-          "title": "A Possible Upside to the Iran War",
-          "url": "https://www.theatlantic.com/ideas/2026/03/china_iran/686400/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-16T08:31:00-04:00"
         },
         {
           "title": "The best financial advice I ever received",
@@ -161,7 +161,7 @@
           "title": "Donald Trump attacks supreme court over tariffs again in late-night social media post – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 16:15:14 GMT"
+          "ts": "Mon, 16 Mar 2026 16:19:33 GMT"
         },
         {
           "title": "‘The system is broken’: grassroots Democratic group aims to revitalize outmoded ground game",
