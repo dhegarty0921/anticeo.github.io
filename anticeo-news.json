@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:05:31.576987Z",
+  "generated_at": "2026-03-16T21:10:28.644197Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Supreme Court Defers Decision on Trump’s Bid to End Protections for Migrants",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/supreme-court-defers-tps.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 21:02:51 +0000"
+        },
+        {
           "title": "Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown",
           "url": "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 20:49:08 +0000"
-        },
-        {
-          "title": "Trump Officials Look to More Managed Approach to Trade With China",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-administration-china-managed-trade.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 20:06:06 +0000"
         },
         {
           "title": "Burpees, takedowns, pipe wrenches: Markwayne Mullin brings unique toolbag to confirmation faceoff",
@@ -158,6 +158,12 @@
           "ts": "2026-03-16T08:00:00-04:00"
         },
         {
+          "title": "Trump discloses Florida Republican’s ‘terminal’ diagnosis in meandering rant",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-neal-dunn-florida-republican-health",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 20:55:44 GMT"
+        },
+        {
           "title": "Kennedy Center board votes to close for two years during renovations",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/kennedy-center-closing-renovation-trump",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/16/judge-blocks-rfk-jr-vaccine-policy-changes",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 20:37:39 GMT"
-        },
-        {
-          "title": "Supreme court will hear arguments in challenge to legal protections for Haitian and Syrian immigrants – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 20:23:50 GMT"
         }
       ]
     },
