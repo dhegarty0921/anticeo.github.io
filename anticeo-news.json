@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T18:35:31.321759Z",
+  "generated_at": "2026-03-16T18:40:32.433284Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "In Choosing ‘Epic Fury,’ Trump Names a War and Defines His Presidency",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-operation-epic-fury-anger.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 18:36:39 +0000"
+        },
+        {
           "title": "With Threats and Claims of ‘Treason,’ Trump Pressures Media on the War",
           "url": "https://www.nytimes.com/2026/03/16/business/media/trump-iran-media-coverage.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-neal-dunn-terminal-diagnosis-johnson.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 18:15:30 +0000"
-        },
-        {
-          "title": "David A. Keene, Leader of Two Right-Wing Groups, Dies at 80",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/david-a-keene-dead.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 18:21:29 +0000"
         },
         {
           "title": "Trump says he's keeping tabs on who helps U.S. reopen the Strait of Hormuz -- and who does not",
@@ -121,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "As other Iran‑allied groups are engaging in the Mideast war, Yemen’s Houthis hold back",
+          "url": "https://religionnews.com/2026/03/16/as-other-iran-allied-groups-are-engaging-in-the-mideast-war-yemens-houthis-hold-back/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 17:25:04 +0000"
+        },
+        {
+          "title": "Trump says US bombed military sites on an island vital to Iran’s oil network",
+          "url": "https://religionnews.com/2026/03/16/trump-says-us-bombed-military-sites-on-an-island-vital-to-irans-oil-network/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 17:20:25 +0000"
+        },
+        {
+          "title": "As Iran war expands, some conservative Christians interpret the conflict through biblical prophecies",
+          "url": "https://religionnews.com/2026/03/16/as-iran-war-expands-some-conservative-christians-interpret-the-conflict-through-biblical-prophecies/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 17:07:00 +0000"
+        },
         {
           "title": "Can’t Stop It, So Lead It",
           "url": "https://www.theatlantic.com/ideas/2026/03/democrats-strategy-iran-war/686404/?utm_source=feed",
