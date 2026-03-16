@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T20:20:31.081091Z",
+  "generated_at": "2026-03-16T20:25:29.150564Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Judge Strikes Down Kennedy’s Vaccine Policies",
+          "url": "https://www.nytimes.com/2026/03/16/health/childhood-vaccines-lawsuit-kennedy.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 20:21:19 +0000"
+        },
+        {
           "title": "Trump Officials Look to More Managed Approach to Trade With China",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-administration-china-managed-trade.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 20:14:51 +0000"
-        },
-        {
-          "title": "In Choosing ‘Epic Fury,’ Trump Names a War and Defines His Presidency",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-operation-epic-fury-anger.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 18:36:39 +0000"
         },
         {
           "title": "Burpees, takedowns, pipe wrenches: Markwayne Mullin brings unique toolbag to confirmation faceoff",
