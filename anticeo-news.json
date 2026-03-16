@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T12:40:28.737219Z",
+  "generated_at": "2026-03-16T12:45:29.264626Z",
   "headline": {
     "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
     "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "Trump’s Threat to Delay Summit With Xi Casts New Shadow Over China Relations",
           "url": "https://www.nytimes.com/2026/03/16/world/middleeast/trump-visit-xi-china-iran.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 12:03:04 +0000"
+          "ts": "Mon, 16 Mar 2026 12:43:11 +0000"
         },
         {
           "title": "Trump’s Effort to Target Rivals Stall as Judges Cut Short Basic Investigative Steps",
@@ -99,6 +99,24 @@
           "ts": "Mon, 16 Mar 2026 06:33:54 -0500"
         },
         {
+          "title": "‘I think she will be loyal’: Jeffrey Epstein’s role in Peter Attia’s rise",
+          "url": "https://www.politico.com/news/2026/03/16/jeffrey-epstein-peter-attia-model-00824117",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 16 Mar 2026 04:55:00 EST"
+        },
+        {
+          "title": "‘We’re going to have a problem’: Republicans want Trump to move on from 2020",
+          "url": "https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 16 Mar 2026 04:40:00 EST"
+        },
+        {
+          "title": "The Trump health care policy red and blue states are embracing",
+          "url": "https://www.politico.com/news/2026/03/15/trump-health-policy-both-parties-bullish-on-00813177",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 15:00:00 EST"
+        },
+        {
           "title": "Gay skier Jake Adicoff makes history at Winter Paralympic Games",
           "url": "https://www.thepinknews.com/2026/03/16/jake-adicoff-winter-paralympic-games/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -121,6 +139,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "History as Fuel: Reza Aslan on the latest Iran War",
+          "url": "https://religionnews.com/2026/03/14/history-as-fuel-reza-aslan-on-the-latest-iran-war/",
+          "source": "RNS",
+          "ts": "Sat, 14 Mar 2026 22:05:37 +0000"
+        },
+        {
+          "title": "Islamic schools, more parents sue Texas over exclusion from voucher program",
+          "url": "https://religionnews.com/2026/03/13/islamic-schools-parents-sue-texas-over-exclusion-of-muslim-schools-from-voucher-program/",
+          "source": "RNS",
+          "ts": "Fri, 13 Mar 2026 22:15:44 +0000"
+        },
+        {
+          "title": "Taylor Tomlinson’s Netflix special is too ungodly for many churches. This one welcomed her.",
+          "url": "https://religionnews.com/2026/03/13/the-radical-church-in-taylor-tomlinsons-prodigal-daughter-netflix-special-fountain-street/",
+          "source": "RNS",
+          "ts": "Fri, 13 Mar 2026 21:41:20 +0000"
+        },
         {
           "title": "The College-Educated Working Class",
           "url": "https://www.theatlantic.com/magazine/2026/04/college-working-class-union-labor/686059/?utm_source=feed",
@@ -156,30 +192,19 @@
           "url": "https://www.vox.com/politics/479062/supreme-court-vote-by-mail-watson-republican-ballots",
           "source": "Vox",
           "ts": "2026-03-16T06:45:00-04:00"
-        },
-        {
-          "title": "First Thing: Trump steps up pressure on European allies to help protect strait of Hormuz",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/first-thing-trump-pressure-on-european-allies-strait-of-hormuz",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 12:15:01 GMT"
-        },
-        {
-          "title": "Aipac in the era of Trump: the pro-Israel Super Pac that has become an electoral liability",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/aipac-pro-israel-super-pac-elections",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 12:00:17 GMT"
-        },
-        {
-          "title": "Many US adults are skipping parenting or having fewer kids – and it’s forcing schools to close",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/birthrate-schools-closing",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 12:00:16 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Iran says Russia and China providing ‘military cooperation’",
+          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
