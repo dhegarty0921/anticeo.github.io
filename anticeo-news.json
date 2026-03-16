@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T22:25:31.588114Z",
+  "generated_at": "2026-03-16T22:30:30.410815Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Gregory Bovino to Retire From Border Patrol",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/gregory-bovino-retire-border-patrol.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 22:27:40 +0000"
+        },
+        {
           "title": "Inside the Democrats’ Infighting in the Illinois Primary",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/illinois-democrat-primary-brandon-herrera-mamdani.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-news-conference-kennedy-center-iran.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 21:41:38 +0000"
-        },
-        {
-          "title": "Fire on the U.S. Aircraft Carrier Gerald R. Ford Raged for Hours, Sailors Say",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 21:33:24 +0000"
         },
         {
           "title": "Trump says he is asking to delay trip to China due to war with Iran",
@@ -121,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "Armageddon is not a strategy for peace in Iran",
-          "url": "https://religionnews.com/2026/03/16/armageddon-is-not-a-military-strategy/",
-          "source": "RNS",
-          "ts": "Mon, 16 Mar 2026 20:35:03 +0000"
-        },
-        {
-          "title": "Why ‘Sinners’ resonates with Jews",
-          "url": "https://religionnews.com/2026/03/16/why-sinners-resonates-with-jews/",
-          "source": "RNS",
-          "ts": "Mon, 16 Mar 2026 19:36:49 +0000"
-        },
-        {
-          "title": "During all-night vigil, Muslim students pray, connect and unite in solidarity for Palestinians",
-          "url": "https://religionnews.com/2026/03/16/during-all-night-vigil-muslim-students-pray-connect-and-unite-in-solidarity-for-palestinians/",
-          "source": "RNS",
-          "ts": "Mon, 16 Mar 2026 19:13:26 +0000"
-        },
         {
           "title": "Trump Is Learning That His Bullying Has Consequences",
           "url": "https://www.theatlantic.com/national-security/2026/03/trump-nato-allies-strait-of-hormuz-assistance/686408/?utm_source=feed",
