@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T15:50:48.900132Z",
+  "generated_at": "2026-03-16T15:55:29.926891Z",
   "headline": {
     "title": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
     "url": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Glimpsing Victory in Iran",
+          "url": "https://www.theatlantic.com/ideas/2026/03/iran-war-trump-win/686402/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-16T11:28:05-04:00"
+        },
+        {
           "title": "A New Direction for the Trans Novel",
           "url": "https://www.theatlantic.com/books/2026/03/night-night-fawn-bad-mother-trans-autofiction/686364/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/03/china_iran/686400/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-16T08:31:00-04:00"
-        },
-        {
-          "title": "The College-Educated Working Class",
-          "url": "https://www.theatlantic.com/magazine/2026/04/college-working-class-union-labor/686059/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-16T08:00:00-04:00"
         },
         {
           "title": "The best financial advice I ever received",
@@ -158,16 +158,16 @@
           "ts": "2026-03-16T06:45:00-04:00"
         },
         {
+          "title": "Donald Trump attacks supreme court over tariffs again in late-night social media post – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 15:40:19 GMT"
+        },
+        {
           "title": "US judge dismisses $100,000 suit over spiciness of New York taqueria’s sauce",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/judge-dismisses-lawsuit-new-york-taqueria-sauce",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 15:16:21 GMT"
-        },
-        {
-          "title": "Donald Trump attacks supreme court over tariffs again in late-night social media post – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 15:15:39 GMT"
         },
         {
           "title": "Oakland homicides fall to 25-year low – how did it stem the violence?",
