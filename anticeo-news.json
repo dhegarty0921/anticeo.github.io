@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:35:33.914060Z",
+  "generated_at": "2026-03-16T21:40:31.222133Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Fire on the U.S. Aircraft Carrier Gerald R. Ford Raged for Hours, Sailors Say",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/uss-ford-fire-iran-venezuela.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 21:33:24 +0000"
+        },
+        {
           "title": "S.E.C.’s Enforcement Chief Abruptly Resigns",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/sec-enforcement-chief-resigns.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/supreme-court-defers-tps.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 21:02:51 +0000"
-        },
-        {
-          "title": "Airport Security Lines Grow as TSA Goes Unpaid in Partial Shutdown",
-          "url": "https://www.nytimes.com/2026/03/16/travel/tsa-airport-delays-shutdown.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 20:55:09 +0000"
         },
         {
           "title": "Trump says he is asking to delay trip to China due to war with Iran",
@@ -158,6 +158,12 @@
           "ts": "2026-03-16T08:00:00-04:00"
         },
         {
+          "title": "At least 200 American troops wounded in Iran war, US military says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:31:48 GMT"
+        },
+        {
           "title": "Supreme court to consider Trump push to end protection status for Haitians and Syrians",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/supreme-court-haiti-syria-protection-status-case",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 21:09:57 GMT"
-        },
-        {
-          "title": "California highway patrol officer charged with murder over crash that killed four",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/california-highway-patrol-officer-murder-charge",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 21:09:29 GMT"
         }
       ]
     },
