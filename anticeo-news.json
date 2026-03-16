@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T22:50:31.310901Z",
+  "generated_at": "2026-03-16T22:55:30.845767Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -99,30 +99,6 @@
           "ts": "Mon, 16 Mar 2026 13:30:10 -0500"
         },
         {
-          "title": "Trump is losing one battle after another. Cue the posts.",
-          "url": "https://www.politico.com/news/2026/03/16/donald-trump-supreme-court-attacks-00829708",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 12:31:07 EST"
-        },
-        {
-          "title": "Vance backs Trump on Iran — but defends past skepticism",
-          "url": "https://www.politico.com/news/2026/03/16/jd-vance-iran-war-skepticism-00830798",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 16:55:01 EST"
-        },
-        {
-          "title": "Federal judge puts RFK Jr.’s new vaccine schedule, advisers on ice",
-          "url": "https://www.politico.com/news/2026/03/16/federal-judge-puts-rfk-jr-s-new-vaccine-schedule-advisers-on-ice-00830395",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 15:51:19 EST"
-        },
-        {
-          "title": "Don’t ‘blackmail’ us: Europe rejects Trump’s demand to help clean up Hormuz mess",
-          "url": "https://www.politico.eu/article/europe-donald-trump-strait-of-hormuz-war-iran/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 15:22:14 EST"
-        },
-        {
           "title": "Man who said Trump should ‘kill all trans people’ sentenced for anti-trans hate crime",
           "url": "https://www.thepinknews.com/2026/03/16/man-who-said-trump-should-kill-all-trans-people-sentenced-for-anti-trans-hate-crime/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -145,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Armageddon is not a strategy for peace in Iran",
+          "url": "https://religionnews.com/2026/03/16/armageddon-is-not-a-military-strategy/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 20:35:03 +0000"
+        },
+        {
+          "title": "Why ‘Sinners’ resonates with Jews",
+          "url": "https://religionnews.com/2026/03/16/why-sinners-resonates-with-jews/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 19:36:49 +0000"
+        },
+        {
+          "title": "During all-night vigil, Muslim students pray, connect and unite in solidarity for Palestinians",
+          "url": "https://religionnews.com/2026/03/16/during-all-night-vigil-muslim-students-pray-connect-and-unite-in-solidarity-for-palestinians/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 19:13:26 +0000"
+        },
         {
           "title": "Trump Is Learning That His Bullying Has Consequences",
           "url": "https://www.theatlantic.com/national-security/2026/03/trump-nato-allies-strait-of-hormuz-assistance/686408/?utm_source=feed",
@@ -180,6 +174,24 @@
           "url": "https://www.vox.com/culture/482649/oscars-2026-sinners-four-oscar-underdog",
           "source": "Vox",
           "ts": "2026-03-16T15:25:00-04:00"
+        },
+        {
+          "title": "Supreme court will hear arguments in challenge to legal protections for Haitian and Syrian immigrants – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 22:30:08 GMT"
+        },
+        {
+          "title": "Thousands of flights canceled as winter storm marches across US",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/winter-storm-airport-flight-delays-snow-tornado",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 22:23:37 GMT"
+        },
+        {
+          "title": "Texas lawmakers spar over DHS funding as long lines loom at US airports",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:57:09 GMT"
         }
       ]
     },
