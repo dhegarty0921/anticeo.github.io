@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T01:05:28.356529Z",
+  "generated_at": "2026-03-16T01:10:30.604435Z",
   "headline": {
     "title": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
     "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss"
@@ -176,6 +176,12 @@
           "ts": "2026-03-15T07:00:00-04:00"
         },
         {
+          "title": "Trump news at a glance: call for allied protection of strait of Hormuz in doubt as allies appear sceptical",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-news-at-a-glance-call-for-allied-protection-of-strait-of-hormuz-in-doubt-as-allies-appear-sceptical",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 00:49:54 GMT"
+        },
+        {
           "title": "Hawaii faces flash flooding, blizzard conditions and landslides with more rain to come",
           "url": "https://www.theguardian.com/us-news/2026/mar/15/hawaii-flooding-storms",
           "source": "US news | The Guardian",
@@ -186,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/15/snow-wind-winter-storm-thunder-tornadoes",
           "source": "US news | The Guardian",
           "ts": "Sun, 15 Mar 2026 22:43:02 GMT"
-        },
-        {
-          "title": "Republican rebukes FCC chair’s threats to revoke broadcast licenses over Iran war",
-          "url": "https://www.theguardian.com/us-news/2026/mar/15/fcc-chair-broadcasters-license-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Mar 2026 19:13:38 GMT"
         }
       ]
     },
