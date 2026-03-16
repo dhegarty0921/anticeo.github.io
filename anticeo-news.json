@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T21:50:30.655184Z",
+  "generated_at": "2026-03-16T21:55:33.579908Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-16T15:25:00-04:00"
         },
         {
+          "title": "At least 200 American troops wounded in Iran war, US military says",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:31:48 GMT"
+        },
+        {
           "title": "Supreme court to consider Trump push to end protection status for Haitians and Syrians",
           "url": "https://www.theguardian.com/us-news/2026/mar/16/supreme-court-haiti-syria-protection-status-case",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
           "source": "US news | The Guardian",
           "ts": "Mon, 16 Mar 2026 21:09:57 GMT"
-        },
-        {
-          "title": "California highway patrol officer charged with murder over crash that killed four",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/california-highway-patrol-officer-murder-charge",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 21:09:29 GMT"
         }
       ]
     },
