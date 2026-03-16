@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T18:25:31.774241Z",
+  "generated_at": "2026-03-16T18:30:31.698756Z",
   "headline": {
     "title": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
     "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "With Threats and Claims of ‘Treason,’ Trump Pressures Media on the War",
+          "url": "https://www.nytimes.com/2026/03/16/business/media/trump-iran-media-coverage.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 18:26:52 +0000"
+        },
+        {
           "title": "Trump Claims to Have Reversed a House Republican’s Terminal Diagnosis",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-neal-dunn-terminal-diagnosis-johnson.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/david-a-keene-dead.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 18:21:29 +0000"
-        },
-        {
-          "title": "Trump Defends Need for Kennedy Center Renovation Project",
-          "url": "https://www.nytimes.com/2026/03/16/arts/design/kennedy-center-renovations-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 17:45:50 +0000"
         },
         {
           "title": "Trump says he's keeping tabs on who helps U.S. reopen the Strait of Hormuz -- and who does not",
@@ -84,37 +84,19 @@
           "title": "U.S. Is Divided on the Iran War But United on Its Goals",
           "url": "https://www.realclearpolitics.com/2026/03/16/us_is_divided_on_the_iran_war_but_united_on_its_goals_694487.html",
           "source": "RealClearPolitics - Homepage",
-          "ts": "Mon, 16 Mar 2026 13:00:18 -0500"
+          "ts": "Mon, 16 Mar 2026 13:24:43 -0500"
         },
         {
           "title": "Is Iran Worth Losing the Midterms Over?",
           "url": "https://www.realclearpolitics.com/2026/03/16/is_iran_worth_losing_the_midterms_over_694468.html",
           "source": "RealClearPolitics - Homepage",
-          "ts": "Mon, 16 Mar 2026 13:00:20 -0500"
+          "ts": "Mon, 16 Mar 2026 13:26:05 -0500"
         },
         {
           "title": "Trump's Energy Triumph",
           "url": "https://www.realclearpolitics.com/2026/03/13/trumps_energy_triumph_694189.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Mon, 16 Mar 2026 13:00:23 -0500"
-        },
-        {
-          "title": "‘We’re going to have a problem’: Republicans want Trump to move on from 2020",
-          "url": "https://www.politico.com/news/2026/03/16/gop-trump-voter-fraud-messaging-midterms-00828317",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 04:40:00 EST"
-        },
-        {
-          "title": "‘I think she will be loyal’: Jeffrey Epstein’s role in Peter Attia’s rise",
-          "url": "https://www.politico.com/news/2026/03/16/jeffrey-epstein-peter-attia-model-00824117",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "The Trump health care policy red and blue states are embracing",
-          "url": "https://www.politico.com/news/2026/03/15/trump-health-policy-both-parties-bullish-on-00813177",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 15:00:00 EST"
         },
         {
           "title": "Man who said Trump should ‘kill all trans people’ sentenced for anti-trans hate crime",
@@ -174,19 +156,30 @@
           "url": "https://www.vox.com/politics/479062/supreme-court-vote-by-mail-watson-republican-ballots",
           "source": "Vox",
           "ts": "2026-03-16T06:45:00-04:00"
+        },
+        {
+          "title": "Trump complains about allies and claims US destroyed more than 30 mine-laying ships in strait of Hormuz – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 18:17:53 GMT"
+        },
+        {
+          "title": "Tucker Carlson expresses fear that he may face federal charges for talking to Iranians",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/tucker-carlson-iran-comments-doj",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 18:10:36 GMT"
+        },
+        {
+          "title": "The Stop Asian Hate movement ‘galvanized political power’ in the US. Where is it now?",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/stop-asian-hate-movement-atlanta-shootings-trump",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 17:22:36 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Iran says Russia and China providing ‘military cooperation’",
-          "url": "https://www.politico.eu/article/iran-abbas-araghchi-says-russia-and-china-providing-military-cooperation/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Sun, 15 Mar 2026 06:56:20 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
