@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T23:00:30.764003Z",
+  "generated_at": "2026-03-16T23:06:50.801603Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,22 +45,22 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Aide Accused by Hegseth of Leaking Is Hired for Intelligence Job",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/dan-caldwell-pentagon-dni.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 23:00:48 +0000"
+        },
+        {
+          "title": "Administration Targeted Climate Lab Over Tina Peters, Lawsuit Says",
+          "url": "https://www.nytimes.com/2026/03/16/climate/ncar-climate-lab-lawsuit-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Mar 2026 23:00:34 +0000"
+        },
+        {
           "title": "Gregory Bovino to Retire From Border Patrol",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/gregory-bovino-retire-border-patrol.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 22:27:40 +0000"
-        },
-        {
-          "title": "Inside the Democrats’ Infighting in the Illinois Primary",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/illinois-democrat-primary-brandon-herrera-mamdani.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 21:44:07 +0000"
-        },
-        {
-          "title": "War Isn’t the Only Thing on Trump’s Mind",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-news-conference-kennedy-center-iran.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 21:41:38 +0000"
         },
         {
           "title": "Trump says he is asking to delay trip to China due to war with Iran",
@@ -97,30 +97,6 @@
           "url": "https://www.realclearpolitics.com/2026/03/16/trumps_energy_triumph_694189.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Mon, 16 Mar 2026 13:30:10 -0500"
-        },
-        {
-          "title": "Trump is losing one battle after another. Cue the posts.",
-          "url": "https://www.politico.com/news/2026/03/16/donald-trump-supreme-court-attacks-00829708",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 12:31:07 EST"
-        },
-        {
-          "title": "Vance backs Trump on Iran — but defends past skepticism",
-          "url": "https://www.politico.com/news/2026/03/16/jd-vance-iran-war-skepticism-00830798",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 16:55:01 EST"
-        },
-        {
-          "title": "Federal judge puts RFK Jr.’s new vaccine schedule, advisers on ice",
-          "url": "https://www.politico.com/news/2026/03/16/federal-judge-puts-rfk-jr-s-new-vaccine-schedule-advisers-on-ice-00830395",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 15:51:19 EST"
-        },
-        {
-          "title": "Don’t ‘blackmail’ us: Europe rejects Trump’s demand to help clean up Hormuz mess",
-          "url": "https://www.politico.eu/article/europe-donald-trump-strait-of-hormuz-war-iran/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Mon, 16 Mar 2026 15:22:14 EST"
         },
         {
           "title": "Man who said Trump should ‘kill all trans people’ sentenced for anti-trans hate crime",
@@ -180,6 +156,24 @@
           "url": "https://www.vox.com/culture/482649/oscars-2026-sinners-four-oscar-underdog",
           "source": "Vox",
           "ts": "2026-03-16T15:25:00-04:00"
+        },
+        {
+          "title": "Supreme court will hear arguments in challenge to legal protections for Haitian and Syrian immigrants – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 22:46:43 GMT"
+        },
+        {
+          "title": "Thousands of flights canceled as winter storm marches across US",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/winter-storm-airport-flight-delays-snow-tornado",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 22:23:37 GMT"
+        },
+        {
+          "title": "Texas lawmakers spar over DHS funding as long lines loom at US airports",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Mar 2026 21:57:09 GMT"
         }
       ]
     },
