@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T16:50:35.872588Z",
+  "generated_at": "2026-03-17T16:55:37.632811Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 17 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "Flight Costs Are Up, but Travelers Aren’t Deterred, U.S. Airlines Say",
+          "url": "https://www.nytimes.com/2026/03/17/business/air-travel-iran-war-fares-jet-fuel.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 16:47:44 +0000"
+        },
+        {
           "title": "Trump’s Gutting of Election Security Fuels Worries for Midterms",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-cisa-election-security.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 16:16:20 +0000"
-        },
-        {
-          "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
-          "url": "https://www.nytimes.com/2026/03/17/world/middleeast/joe-kent-counterterrorism-resigns-iran-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 15:30:15 +0000"
         },
         {
           "title": "Senators tell ByteDance to close Seedance AI tool, citing 'glaring' copyright concerns",
@@ -99,6 +99,24 @@
           "ts": "Tue, 17 Mar 2026 09:04:07 -0500"
         },
         {
+          "title": "AIPAC makes a $22 million gamble in Illinois",
+          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 03:45:00 EST"
+        },
+        {
+          "title": "5 things to watch in Tuesday's Illinois primaries",
+          "url": "https://www.politico.com/news/2026/03/17/what-to-watch-illinois-primary-aipac-pritzker-00830755",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:55:00 EST"
+        },
+        {
+          "title": "‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control",
+          "url": "https://www.politico.com/news/2026/03/17/they-hold-the-cards-now-trump-allies-fear-iran-is-slipping-beyond-the-presidents-control-00830449",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:05:00 EST"
+        },
+        {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
           "url": "https://www.thepinknews.com/2026/03/17/facebook-overrun-with-fake-posts-saying-your-favourite-celeb-is-homophobic/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -121,6 +139,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Vatican appeals court declares mistrial in the ‘trial of the century’ against a cardinal",
+          "url": "https://religionnews.com/2026/03/17/vatican-appeals-court-declares-mistrial-in-the-trial-of-the-century-against-a-cardinal/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 16:22:18 +0000"
+        },
+        {
+          "title": "Pope’s upcoming Africa odyssey takes him to a mosque, a prison and the site of a deadly 2021 blast",
+          "url": "https://religionnews.com/2026/03/17/popes-upcoming-africa-odyssey-takes-him-to-a-mosque-a-prison-and-the-site-of-a-deadly-2021-blast/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 15:53:37 +0000"
+        },
+        {
+          "title": "War rages on multiple fronts as Israeli attacks on Lebanon grow amid Iran shipping stranglehold",
+          "url": "https://religionnews.com/2026/03/17/war-rages-on-multiple-fronts-as-israeli-attacks-on-lebanon-grow-amid-iran-shipping-stranglehold/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 15:48:58 +0000"
+        },
         {
           "title": "The Human Skill That Eludes AI",
           "url": "https://www.theatlantic.com/technology/2026/03/ai-creative-writing/686418/?utm_source=feed",
@@ -156,30 +192,19 @@
           "url": "https://www.vox.com/explain-it-to-me/482621/sugar-addiction-health-effects-eat-less",
           "source": "Vox",
           "ts": "2026-03-17T07:30:00-04:00"
-        },
-        {
-          "title": "UF College Republicans sue after suspension over Nazi salute post",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/university-of-florida-republican-lawsuit-nazi-post",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 16:34:26 GMT"
-        },
-        {
-          "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 16:20:35 GMT"
-        },
-        {
-          "title": "Can culling your garden slow a wildfire? A California city pins its hopes on a contested plan",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/california-wildfire-risk-berkeley",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 16:00:50 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Israel says it killed Iran’s security chief Ali Larijani in overnight airstrike",
+          "url": "https://www.politico.eu/article/israel-says-it-killed-iran-security-chief-larijani-overnight-strike/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 05:32:49 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
