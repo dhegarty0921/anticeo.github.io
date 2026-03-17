@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T00:10:31.572703Z",
+  "generated_at": "2026-03-17T00:15:29.953751Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Trump Claims an Ex-President Confided His Regrets on Iran. But Who?",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-presidents-democrats.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 00:05:24 +0000"
+        },
+        {
           "title": "Aide Accused by Hegseth of Leaking Is Hired for Intelligence Job",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/dan-caldwell-pentagon-dni.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/climate/ncar-climate-lab-lawsuit-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Mar 2026 23:00:34 +0000"
-        },
-        {
-          "title": "Gregory Bovino to Retire From Border Patrol",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/gregory-bovino-retire-border-patrol.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 22:27:40 +0000"
         },
         {
           "title": "Trump says he is asking to delay trip to China due to war with Iran",
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Armageddon is not a strategy for peace in Iran",
+          "url": "https://religionnews.com/2026/03/16/armageddon-is-not-a-military-strategy/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 20:35:03 +0000"
+        },
+        {
+          "title": "Why ‘Sinners’ resonates with Jews",
+          "url": "https://religionnews.com/2026/03/16/why-sinners-resonates-with-jews/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 19:36:49 +0000"
+        },
+        {
+          "title": "During all-night vigil, Muslim students pray, connect and unite in solidarity for Palestinians",
+          "url": "https://religionnews.com/2026/03/16/during-all-night-vigil-muslim-students-pray-connect-and-unite-in-solidarity-for-palestinians/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 19:13:26 +0000"
+        },
+        {
           "title": "J. D. Vance Learns What Mike Pence Already Knows",
           "url": "https://www.theatlantic.com/newsletters/2026/03/vance-pence-trump/686412/?utm_source=feed",
           "source": "The Atlantic",
@@ -158,22 +176,22 @@
           "ts": "2026-03-16T15:25:00-04:00"
         },
         {
-          "title": "Supreme court will hear arguments in challenge to legal protections for Haitian and Syrian immigrants – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/16/donald-trump-administration-tariffs-latest-updates",
+          "title": "Judge orders ICE to release Minneapolis man after 50 days of unlawful detention",
+          "url": "https://www.theguardian.com/us-news/2026/mar/13/judge-minneapolis-detention-order",
           "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 23:25:51 GMT"
+          "ts": "Tue, 17 Mar 2026 00:05:30 GMT"
         },
         {
-          "title": "Thousands of flights canceled as winter storm marches across US",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/winter-storm-airport-flight-delays-snow-tornado",
+          "title": "Leqaa Kordia, a pro-Palestinian activist, released after a year in ICE custody",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/leqaa-kordia-released-ice-custody",
           "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 22:23:37 GMT"
+          "ts": "Tue, 17 Mar 2026 00:05:12 GMT"
         },
         {
-          "title": "Texas lawmakers spar over DHS funding as long lines loom at US airports",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/dhs-shutdown-funding-debate-airport-delays-texas",
+          "title": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war",
           "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 21:57:09 GMT"
+          "ts": "Mon, 16 Mar 2026 23:52:13 GMT"
         }
       ]
     },
