@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T11:46:37.122086Z",
+  "generated_at": "2026-03-17T11:50:31.948843Z",
   "headline": {
     "title": "Utah bereavement author found guilty of fatally poisoning her husband",
     "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Will Small Businesses Get Their Money Back?",
+          "url": "https://www.theatlantic.com/economy/2026/03/small-businesses-trade-war/686406/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T07:31:00-04:00"
+        },
+        {
           "title": "The Window to Declare Victory Is Closing",
           "url": "https://www.theatlantic.com/international/2026/03/iran-victory-trump/686411/?utm_source=feed",
           "source": "The Atlantic",
@@ -130,12 +136,6 @@
         {
           "title": "The Women of Avenger Field",
           "url": "https://www.theatlantic.com/magazine/2026/04/women-airforce-service-pilots-world-war-ii/686063/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T07:00:00-04:00"
-        },
-        {
-          "title": "My Self-Driving Car Crash",
-          "url": "https://www.theatlantic.com/magazine/2026/04/self-driving-car-technology-tesla-crash/686054/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T07:00:00-04:00"
         },
