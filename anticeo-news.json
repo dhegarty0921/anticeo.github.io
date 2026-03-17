@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:35:30.652678Z",
+  "generated_at": "2026-03-17T22:40:31.196866Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Tue, 17 Mar 2026 15:02:53 -0500"
         },
         {
+          "title": "AIPAC makes a $22M gamble in Illinois",
+          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 03:45:00 EST"
+        },
+        {
+          "title": "5 things to watch in Tuesday’s Illinois primaries",
+          "url": "https://www.politico.com/news/2026/03/17/what-to-watch-illinois-primary-aipac-pritzker-00830755",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:55:00 EST"
+        },
+        {
+          "title": "‘Never heard him so angry’: Trump is furious that global allies aren’t pitching in in Iran",
+          "url": "https://www.politico.com/news/2026/03/17/trump-iran-nato-allies-assistance-00831355",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 11:31:41 EST"
+        },
+        {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
           "url": "https://www.thepinknews.com/2026/03/17/facebook-overrun-with-fake-posts-saying-your-favourite-celeb-is-homophobic/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -122,6 +140,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The First Big Administration Defection Over Iran",
+          "url": "https://www.theatlantic.com/national-security/2026/03/joe-kent-tulsi-gabbard-iran/686433/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T18:34:00-04:00"
+        },
+        {
           "title": "Who Will Apologize for D.C.’s Tornado Bust?",
           "url": "https://www.theatlantic.com/science/2026/03/dc-tornado-bust/686431/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +156,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/03/joe-kent-resignation-iran-trump/686434/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T17:05:00-04:00"
-        },
-        {
-          "title": "Joe Kent’s Secret",
-          "url": "https://www.theatlantic.com/ideas/2026/03/joe-kent-resignation-trump/686428/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T16:41:33-04:00"
         },
         {
           "title": "Scientists finally have something hopeful to tell us about monarch butterflies",
@@ -156,24 +174,6 @@
           "url": "https://www.vox.com/politics/482868/elizabeth-warren-corporate-landlord-wall-street-ban-housing-bill",
           "source": "Vox",
           "ts": "2026-03-17T12:30:00-04:00"
-        },
-        {
-          "title": "House oversight committee subpoenas Pam Bondi over her handling of Epstein investigation – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 22:08:29 GMT"
-        },
-        {
-          "title": "Chief justice John Roberts calls for end to ‘dangerous’ hostility toward judges",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/john-roberts-hostility-toward-judges",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 21:09:24 GMT"
-        },
-        {
-          "title": "Pam Bondi subpoenaed over Epstein files release by House committee",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 20:53:21 GMT"
         }
       ]
     },
