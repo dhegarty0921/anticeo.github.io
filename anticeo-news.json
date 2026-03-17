@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T19:50:34.673847Z",
+  "generated_at": "2026-03-17T19:55:31.441399Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Tue, 17 Mar 2026 13:27:23 -0500"
         },
         {
+          "title": "AIPAC makes a $22M gamble in Illinois",
+          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 03:45:00 EST"
+        },
+        {
+          "title": "5 things to watch in Tuesday’s Illinois primaries",
+          "url": "https://www.politico.com/news/2026/03/17/what-to-watch-illinois-primary-aipac-pritzker-00830755",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:55:00 EST"
+        },
+        {
+          "title": "‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control",
+          "url": "https://www.politico.com/news/2026/03/17/they-hold-the-cards-now-trump-allies-fear-iran-is-slipping-beyond-the-presidents-control-00830449",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:05:00 EST"
+        },
+        {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
           "url": "https://www.thepinknews.com/2026/03/17/facebook-overrun-with-fake-posts-saying-your-favourite-celeb-is-homophobic/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -122,22 +140,22 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Everyone but Trump Understands What He’s Done",
+          "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T15:35:05-04:00"
+        },
+        {
+          "title": "All the President’s Men in the President’s Shoes",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/trump-administration-shoes/686427/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T14:38:00-04:00"
+        },
+        {
           "title": "Today’s <em>Atlantic</em> Trivia: Unlikely Vacation Places",
           "url": "https://www.theatlantic.com/trivia/2026/03/17-strait-hormuz-sirat/686424/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T14:26:44-04:00"
-        },
-        {
-          "title": "How Washington Can Help Lebanon",
-          "url": "https://www.theatlantic.com/ideas/2026/03/lebanon-diplomacy-hezbollah-opportunity/686421/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T13:32:44-04:00"
-        },
-        {
-          "title": "The Human Skill That Eludes AI",
-          "url": "https://www.theatlantic.com/technology/2026/03/ai-creative-writing/686418/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T11:25:02-04:00"
         },
         {
           "title": "A top Trump aide resigned over Iran. Liberals should stay away from him.",
@@ -156,30 +174,19 @@
           "url": "https://www.vox.com/advice/482425/optimism-bias-unrealistic-motivation-delulu",
           "source": "Vox",
           "ts": "2026-03-17T08:00:00-04:00"
-        },
-        {
-          "title": "Oil flows again through controversial California pipeline after Trump order",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/oil-california-pipeline-iran",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 19:27:25 GMT"
-        },
-        {
-          "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 19:11:07 GMT"
-        },
-        {
-          "title": "Meteor over Ohio causes large boom heard as far away as Pennsylvania",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 19:04:14 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Israel says it killed Iran’s security chief Ali Larijani in overnight airstrike",
+          "url": "https://www.politico.eu/article/israel-says-it-killed-iran-security-chief-larijani-overnight-strike/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 05:32:49 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
