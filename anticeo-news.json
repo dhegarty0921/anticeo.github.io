@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T18:39:36.282470Z",
+  "generated_at": "2026-03-17T18:40:54.970745Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,24 @@
           "ts": "Tue, 17 Mar 2026 13:27:23 -0500"
         },
         {
+          "title": "AIPAC makes a $22 million gamble in Illinois",
+          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 03:45:00 EST"
+        },
+        {
+          "title": "5 things to watch in Tuesday’s Illinois primaries",
+          "url": "https://www.politico.com/news/2026/03/17/what-to-watch-illinois-primary-aipac-pritzker-00830755",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:55:00 EST"
+        },
+        {
+          "title": "‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control",
+          "url": "https://www.politico.com/news/2026/03/17/they-hold-the-cards-now-trump-allies-fear-iran-is-slipping-beyond-the-presidents-control-00830449",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:05:00 EST"
+        },
+        {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
           "url": "https://www.thepinknews.com/2026/03/17/facebook-overrun-with-fake-posts-saying-your-favourite-celeb-is-homophobic/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -156,30 +174,19 @@
           "url": "https://www.vox.com/advice/482425/optimism-bias-unrealistic-motivation-delulu",
           "source": "Vox",
           "ts": "2026-03-17T08:00:00-04:00"
-        },
-        {
-          "title": "Security lines persist at US airports as Congress negotiates DHS funding",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/dhs-funding-congress-airport-security-lines",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 18:14:14 GMT"
-        },
-        {
-          "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 18:14:06 GMT"
-        },
-        {
-          "title": "Florida Republican student group sues university after suspension over Nazi salute post",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/university-of-florida-republican-lawsuit-nazi-post",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 16:34:26 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Israel says it killed Iran’s security chief Ali Larijani in overnight airstrike",
+          "url": "https://www.politico.eu/article/israel-says-it-killed-iran-security-chief-larijani-overnight-strike/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 05:32:49 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
