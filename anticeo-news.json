@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T15:05:32.079610Z",
+  "generated_at": "2026-03-17T15:10:32.189550Z",
   "headline": {
     "title": "Utah mother who wrote book about grief found guilty of poisoning husband",
     "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
@@ -51,10 +51,10 @@
           "ts": "Tue, 17 Mar 2026 14:13:04 +0000"
         },
         {
-          "title": "What’s in the Voter ID Bill Trump and Republicans Are Pushing?",
+          "title": "What’s in Trump’s SAVE Act, the Voter ID Bill Republicans Are Pushing?",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-voter-id-bill.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 14:11:50 +0000"
+          "ts": "Tue, 17 Mar 2026 14:11:51 +0000"
         },
         {
           "title": "Joe Kent, a Top Counterterrorism Official for the Trump Administration, Resigns, Citing Iran War",
@@ -122,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Snorkeling in the Strait of Hormuz",
+          "url": "https://www.theatlantic.com/international/2026/03/snorkeling-strait-hormuz/686417/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T10:40:00-04:00"
+        },
+        {
           "title": "Girls’ Sports Are Getting More Physical",
           "url": "https://www.theatlantic.com/health/2026/03/girls-sports-physical-football-wrestling/686416/?utm_source=feed",
           "source": "The Atlantic",
@@ -132,12 +138,6 @@
           "url": "https://www.theatlantic.com/books/2026/03/are-we-intimacy-crisis/686413/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T08:00:00-04:00"
-        },
-        {
-          "title": "Will Small Businesses Get Their Money Back?",
-          "url": "https://www.theatlantic.com/economy/2026/03/small-businesses-trade-war/686406/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T07:31:00-04:00"
         },
         {
           "title": "Why a little delusion is good for you",
@@ -161,7 +161,7 @@
           "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 14:36:11 GMT"
+          "ts": "Tue, 17 Mar 2026 15:00:53 GMT"
         },
         {
           "title": "Half a million lose power as storm lashes US from midwest to east coast",
