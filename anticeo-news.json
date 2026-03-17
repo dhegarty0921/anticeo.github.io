@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T23:35:31.520783Z",
+  "generated_at": "2026-03-17T23:40:34.175557Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,40 +45,40 @@
           "ts": "Tue, 17 Mar 2026 15:22:49 -0400"
         },
         {
+          "title": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 23:38:06 +0000"
+        },
+        {
+          "title": "Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 23:35:52 +0000"
+        },
+        {
           "title": "Kharg Island Is an Appealing Target for Trump, With High Risks",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 21:58:31 +0000"
         },
         {
-          "title": "Trump Administration Offers Narrow Immigration Changes to End D.H.S. Shutdown",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-immigration-dhs-shutdown.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 21:48:20 +0000"
-        },
-        {
-          "title": "Miami Cubans Fear Trump Won’t Go Far Enough: ‘The Castros Have to Go’",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/florida-cuba-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 21:56:32 +0000"
-        },
-        {
-          "title": "An update on immigrants who were detained in Trump's crackdown on campus activism",
-          "url": "https://www.washingtontimes.com/news/2026/mar/17/update-immigrants-detained-trumps-crackdown-campus-activism/",
+          "title": "House asks Fairfax County officials to testify on sanctuary status",
+          "url": "https://www.washingtontimes.com/news/2026/mar/17/house-asks-fairfax-county-officials-testify-sanctuary-status/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 17 Mar 2026 17:21:35 -0400"
+          "ts": "Tue, 17 Mar 2026 19:25:22 -0400"
         },
         {
-          "title": "Trump's homeland security pick Mullin is poised to inherit a department beset by challenges",
-          "url": "https://www.washingtontimes.com/news/2026/mar/17/donald-trumps-homeland-security-pick-mullin-poised-inherit-department/",
+          "title": "Trump's attempt to shutter Voice of America ruled illegal",
+          "url": "https://www.washingtontimes.com/news/2026/mar/17/trumps-attempt-shutter-voice-america-ruled-illegal/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 17 Mar 2026 16:51:48 -0400"
+          "ts": "Tue, 17 Mar 2026 18:46:21 -0400"
         },
         {
-          "title": "Senate launches bitter floor battle over voter ID legislation",
-          "url": "https://www.washingtontimes.com/news/2026/mar/17/senate-launches-bitter-floor-battle-voter-id-legislation/",
+          "title": "Trump administration widens Medicaid fraud crackdown to Florida, calling it a 'hotspot'",
+          "url": "https://www.washingtontimes.com/news/2026/mar/17/trump-administration-widens-medicaid-fraud-crackdown-florida-calling/",
           "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 17 Mar 2026 16:30:18 -0400"
+          "ts": "Tue, 17 Mar 2026 18:09:22 -0400"
         },
         {
           "title": "What's Really Happening in Iran Not Being Reported",
@@ -121,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
+          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
+        },
+        {
+          "title": "Chavismo faces split among evangelical Christian political allies in Venezuela",
+          "url": "https://religionnews.com/2026/03/17/chavismo-faces-split-among-evangelical-christian-political-allies-in-venezuela/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 22:25:36 +0000"
+        },
+        {
+          "title": "After backlash, Vatican points to Olympic champion Lollobrigida as model of motherhood",
+          "url": "https://religionnews.com/2026/03/17/after-backlash-vatican-points-to-olympic-champion-lollobrigida-as-model-of-motherhood/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 20:41:32 +0000"
+        },
         {
           "title": "The First Big Administration Defection Over Iran",
           "url": "https://www.theatlantic.com/national-security/2026/03/joe-kent-tulsi-gabbard-iran/686433/?utm_source=feed",
