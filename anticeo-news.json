@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T21:50:33.602492Z",
+  "generated_at": "2026-03-17T21:55:33.121457Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 17 Mar 2026 15:22:49 -0400"
         },
         {
+          "title": "Trump Administration Offers Narrow Immigration Changes to End D.H.S. Shutdown",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-immigration-dhs-shutdown.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 21:48:20 +0000"
+        },
+        {
           "title": "Miami Cubans Fear Trump Won’t Go Far Enough: ‘The Castros Have to Go’",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/florida-cuba-trump.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/17/us/politics/h1b-visa-fees-doctors-nurses-waived-bill.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 20:17:21 +0000"
-        },
-        {
-          "title": "Chief Justice Says Personal Attacks on Judges Are ‘Dangerous’ and Must Stop",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/chief-justice-trump-personal-attacks.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 19:20:26 +0000"
         },
         {
           "title": "An update on immigrants who were detained in Trump's crackdown on campus activism",
@@ -99,24 +99,6 @@
           "ts": "Tue, 17 Mar 2026 15:02:53 -0500"
         },
         {
-          "title": "AIPAC makes a $22M gamble in Illinois",
-          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "5 things to watch in Tuesday’s Illinois primaries",
-          "url": "https://www.politico.com/news/2026/03/17/what-to-watch-illinois-primary-aipac-pritzker-00830755",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "‘Never heard him so angry’: Trump is furious that global allies aren’t pitching in in Iran",
-          "url": "https://www.politico.com/news/2026/03/17/trump-iran-nato-allies-assistance-00831355",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 11:31:41 EST"
-        },
-        {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
           "url": "https://www.thepinknews.com/2026/03/17/facebook-overrun-with-fake-posts-saying-your-favourite-celeb-is-homophobic/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -139,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "After backlash, Vatican points to Olympic champion Lollobrigida as model of motherhood",
-          "url": "https://religionnews.com/2026/03/17/after-backlash-vatican-points-to-olympic-champion-lollobrigida-as-model-of-motherhood/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 20:41:32 +0000"
-        },
-        {
-          "title": "Dwight Hopkins is not MAGA: On confusing a Black theologian’s research with his beliefs",
-          "url": "https://religionnews.com/2026/03/17/dwight-hopkins-is-not-maga-on-confusing-a-black-theologians-research-with-his-beliefs/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 20:17:51 +0000"
-        },
-        {
-          "title": "Last pro-Palestinian protester detained in Trump’s campus crackdowns is released by ICE",
-          "url": "https://religionnews.com/2026/03/17/last-pro-palestinian-protester-detained-in-trumps-campus-crackdowns-is-released-by-ice/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 20:08:11 +0000"
-        },
         {
           "title": "Who Will Apologize for D.C.’s Tornado Bust?",
           "url": "https://www.theatlantic.com/science/2026/03/dc-tornado-bust/686431/?utm_source=feed",
@@ -192,6 +156,24 @@
           "url": "https://www.vox.com/politics/482868/elizabeth-warren-corporate-landlord-wall-street-ban-housing-bill",
           "source": "Vox",
           "ts": "2026-03-17T12:30:00-04:00"
+        },
+        {
+          "title": "Chief justice John Roberts calls for end to ‘dangerous’ hostility toward judges",
+          "url": "https://www.theguardian.com/us-news/2026/mar/17/john-roberts-hostility-toward-judges",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 21:09:24 GMT"
+        },
+        {
+          "title": "Pam Bondi subpoenaed over Epstein files release by House committee",
+          "url": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 20:53:21 GMT"
+        },
+        {
+          "title": "US Senate heeds Trump’s call to debate restrictive Save America Act voting bill",
+          "url": "https://www.theguardian.com/us-news/2026/mar/17/save-act-senate-voting-bill",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 20:39:51 GMT"
         }
       ]
     },
