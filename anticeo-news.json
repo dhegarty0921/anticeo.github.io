@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T09:00:33.846570Z",
+  "generated_at": "2026-03-17T09:06:05.000392Z",
   "headline": {
     "title": "Utah bereavement author found guilty of fatally poisoning her husband",
     "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
@@ -27,6 +27,12 @@
           "ts": "Tue, 17 Mar 2026 02:04:48 GMT"
         },
         {
+          "title": "'Rewarding loyalists,' punishing critics: How Trump's Treasury sanctions foreigners",
+          "url": "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 17 Mar 2026 05:00:00 -0400"
+        },
+        {
           "title": "Voters head to the polls for statewide primaries in Illinois",
           "url": "https://www.npr.org/2026/03/17/nx-s1-5749354/voters-head-to-the-polls-for-statewide-primaries-in-illinois",
           "source": "NPR Topics: Politics",
@@ -39,10 +45,10 @@
           "ts": "Tue, 17 Mar 2026 04:47:43 -0400"
         },
         {
-          "title": "Trump refocuses his message on 'winning' as broad support for the war in Iran wavers",
-          "url": "https://www.npr.org/2026/03/16/nx-s1-5748534/trump-refocuses-his-message-on-winning-as-broad-support-for-the-war-in-iran-wavers",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 16 Mar 2026 06:51:16 -0400"
+          "title": "War in Iran Shows Growing Conservative Divide Over Israel",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/iran-war-trump-conservative-divide-israel.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 09:01:30 +0000"
         },
         {
           "title": "University of Florida Penalizes GOP Group Over Antisemitism Accusations",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/grenell-kennedy-center.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 01:04:03 +0000"
-        },
-        {
-          "title": "Trump Claims an Ex-President Confided His Regrets on Iran. But Who?",
-          "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-presidents-democrats.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 00:05:24 +0000"
         },
         {
           "title": "Thune ready to move SAVE Act forward in Senate",
@@ -133,6 +133,12 @@
           "url": "https://www.thepinknews.com/2026/03/16/non-binary-winner-of-los-angeles-marathon-receives-no-prize-money/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Mon, 16 Mar 2026 15:03:20 +0000"
+        },
+        {
+          "title": "Harry Styles hits back at ‘queerbaiting’ claims again with kiss on SNL",
+          "url": "https://www.thepinknews.com/2026/03/16/harry-styles-snl-queerbaiting-kiss/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 16 Mar 2026 14:05:30 +0000"
         }
       ]
     },
@@ -174,12 +180,6 @@
           "url": "https://www.vox.com/culture/482649/oscars-2026-sinners-four-oscar-underdog",
           "source": "Vox",
           "ts": "2026-03-16T15:25:00-04:00"
-        },
-        {
-          "title": "LA community centre launches trans health clinic ‘open for all’",
-          "url": "https://www.thepinknews.com/2026/03/16/trans-clinic-los-angeles-open/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 16 Mar 2026 15:59:01 +0000"
         }
       ]
     },
