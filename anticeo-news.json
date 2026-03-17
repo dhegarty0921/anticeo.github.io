@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T15:40:43.701309Z",
+  "generated_at": "2026-03-17T15:45:31.736544Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -122,12 +122,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Human Skill That Eludes AI",
-          "url": "https://www.theatlantic.com/technology/2026/03/ai-creative-writing/686418/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T11:25:02-04:00"
-        },
-        {
           "title": "Snorkeling in the Strait of Hormuz",
           "url": "https://www.theatlantic.com/international/2026/03/snorkeling-strait-hormuz/686417/?utm_source=feed",
           "source": "The Atlantic",
@@ -138,6 +132,12 @@
           "url": "https://www.theatlantic.com/health/2026/03/girls-sports-physical-football-wrestling/686416/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T10:23:16-04:00"
+        },
+        {
+          "title": "The Basic Drive That Humans Might Be Losing",
+          "url": "https://www.theatlantic.com/books/2026/03/are-we-intimacy-crisis/686413/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T08:00:00-04:00"
         },
         {
           "title": "Why a little delusion is good for you",
@@ -161,7 +161,7 @@
           "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 15:22:47 GMT"
+          "ts": "Tue, 17 Mar 2026 15:34:35 GMT"
         },
         {
           "title": "US Senate prepares to take up debate on restrictive voting bill",
