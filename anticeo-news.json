@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T12:30:30.934144Z",
+  "generated_at": "2026-03-17T12:35:33.882565Z",
   "headline": {
     "title": "Utah bereavement author found guilty of fatally poisoning her husband",
     "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
@@ -99,6 +99,30 @@
           "ts": "Tue, 17 Mar 2026 06:23:19 -0500"
         },
         {
+          "title": "‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control",
+          "url": "https://www.politico.com/news/2026/03/17/they-hold-the-cards-now-trump-allies-fear-iran-is-slipping-beyond-the-presidents-control-00830449",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 04:05:00 EST"
+        },
+        {
+          "title": "Don’t ‘blackmail’ us: Europe rejects Trump’s demand to help clean up Hormuz mess",
+          "url": "https://www.politico.eu/article/europe-donald-trump-strait-of-hormuz-war-iran/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 16 Mar 2026 15:22:14 EST"
+        },
+        {
+          "title": "Trump is losing one battle after another. Cue the posts.",
+          "url": "https://www.politico.com/news/2026/03/16/donald-trump-supreme-court-attacks-00829708",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Mon, 16 Mar 2026 12:31:07 EST"
+        },
+        {
+          "title": "Netflix’s Chief Opens Up About Trump, YouTube and Europe",
+          "url": "https://www.politico.com/news/magazine/2026/03/17/netflix-ted-sarandos-europe-trump-interview-00829909",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 01:00:00 EST"
+        },
+        {
           "title": "Sarah Michelle Gellar reveals grim theory on why Buffy The Vampire Slayer reboot got axed",
           "url": "https://www.thepinknews.com/2026/03/17/sarah-michelle-gellar-reveals-grim-theory-on-why-buffy-the-vampire-slayer-reboot-got-axed/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -156,30 +180,19 @@
           "url": "https://www.vox.com/advice/482445/owe-money-irs-what-to-do-taxes",
           "source": "Vox",
           "ts": "2026-03-17T07:00:00-04:00"
-        },
-        {
-          "title": "Will the Iran war turn midwest swing states against Trump after his ‘America first’ promise?",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/midwest-swing-states-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 12:00:46 GMT"
-        },
-        {
-          "title": "Saving the pint: behind the race to climate-proof beer in the US",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/climate-crisis-beer-brewers-farmers",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 12:00:45 GMT"
-        },
-        {
-          "title": "Senate expected to take up voter ID bill opposed by Democrats – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 11:51:35 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Israel says it killed Iran’s security chief Ali Larijani in overnight airstrike",
+          "url": "https://www.politico.eu/article/israel-says-it-killed-iran-security-chief-larijani-overnight-strike/",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 05:32:49 EST"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
