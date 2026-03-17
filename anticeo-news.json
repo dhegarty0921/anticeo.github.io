@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T21:55:33.121457Z",
+  "generated_at": "2026-03-17T22:00:30.718817Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-17T12:30:00-04:00"
         },
         {
+          "title": "House oversight committee subpoenas Pam Bondi over her handling of Epstein investigation – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 21:48:45 GMT"
+        },
+        {
           "title": "Chief justice John Roberts calls for end to ‘dangerous’ hostility toward judges",
           "url": "https://www.theguardian.com/us-news/2026/mar/17/john-roberts-hostility-toward-judges",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee",
           "source": "US news | The Guardian",
           "ts": "Tue, 17 Mar 2026 20:53:21 GMT"
-        },
-        {
-          "title": "US Senate heeds Trump’s call to debate restrictive Save America Act voting bill",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/save-act-senate-voting-bill",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 20:39:51 GMT"
         }
       ]
     },
