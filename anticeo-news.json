@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T11:25:34.191952Z",
+  "generated_at": "2026-03-17T11:31:02.382550Z",
   "headline": {
     "title": "Utah bereavement author found guilty of fatally poisoning her husband",
     "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss"
@@ -48,7 +48,7 @@
           "title": "In Maine, Janet Mills Slams Graham Platner in First Negative Ad",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/janet-mills-graham-platner-ad-maine-senate-race.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 10:00:16 +0000"
+          "ts": "Tue, 17 Mar 2026 11:24:39 +0000"
         },
         {
           "title": "Admiral’s Comments Undercut Pentagon’s Cluster Munition Policy",
@@ -158,6 +158,12 @@
           "ts": "2026-03-17T06:00:00-04:00"
         },
         {
+          "title": "Senate expected to take up voter ID bill opposed by Democrats – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 11:10:42 GMT"
+        },
+        {
           "title": "867-5309: number from 1980s hit song Jenny now routes callers to cancer support",
           "url": "https://www.theguardian.com/us-news/2026/mar/17/867-5309-jenny-tommy-tutone-cancer-support",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/17/illinois-election-day-senate-congressional-races",
           "source": "US news | The Guardian",
           "ts": "Tue, 17 Mar 2026 09:00:44 GMT"
-        },
-        {
-          "title": "Utah woman who wrote book on grief after husband’s death found guilty of murdering him",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/utah-woman-kouri-richins-found-guilty-husband-ntwnfb",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 03:59:22 GMT"
         }
       ]
     },
