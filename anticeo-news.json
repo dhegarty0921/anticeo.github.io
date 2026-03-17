@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T00:50:30.784480Z",
+  "generated_at": "2026-03-17T00:55:31.969809Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Mon, 16 Mar 2026 04:31:50 -0400"
         },
         {
+          "title": "Richard Grenell: From Trump Cabinet Hopeful to Ex-Kennedy Center Manager",
+          "url": "https://www.nytimes.com/2026/03/16/us/politics/grenell-kennedy-center.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 00:47:14 +0000"
+        },
+        {
           "title": "Trump Claims an Ex-President Confided His Regrets on Iran. But Who?",
           "url": "https://www.nytimes.com/2026/03/16/us/politics/trump-iran-presidents-democrats.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/16/us/politics/dan-caldwell-pentagon-dni.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 00:32:38 +0000"
-        },
-        {
-          "title": "Administration Targeted Climate Lab Over Tina Peters, Lawsuit Says",
-          "url": "https://www.nytimes.com/2026/03/16/climate/ncar-climate-lab-lawsuit-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Mar 2026 23:00:34 +0000"
         },
         {
           "title": "Trump says he is asking to delay trip to China due to war with Iran",
@@ -121,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "Armageddon is not a strategy for peace in Iran",
-          "url": "https://religionnews.com/2026/03/16/armageddon-is-not-a-military-strategy/",
-          "source": "RNS",
-          "ts": "Mon, 16 Mar 2026 20:35:03 +0000"
-        },
-        {
-          "title": "Why ‘Sinners’ resonates with Jews",
-          "url": "https://religionnews.com/2026/03/16/why-sinners-resonates-with-jews/",
-          "source": "RNS",
-          "ts": "Mon, 16 Mar 2026 19:36:49 +0000"
-        },
-        {
-          "title": "During all-night vigil, Muslim students pray, connect and unite in solidarity for Palestinians",
-          "url": "https://religionnews.com/2026/03/16/during-all-night-vigil-muslim-students-pray-connect-and-unite-in-solidarity-for-palestinians/",
-          "source": "RNS",
-          "ts": "Mon, 16 Mar 2026 19:13:26 +0000"
-        },
         {
           "title": "J. D. Vance Learns What Mike Pence Already Knows",
           "url": "https://www.theatlantic.com/newsletters/2026/03/vance-pence-trump/686412/?utm_source=feed",
