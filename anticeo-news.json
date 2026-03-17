@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T19:20:32.489345Z",
+  "generated_at": "2026-03-17T19:25:29.989359Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -21,10 +21,16 @@
           "ts": "Tue, 17 Mar 2026 00:24:01 GMT"
         },
         {
-          "title": "US west coast prepares for 'dangerous' heatwave in early spring",
-          "url": "https://www.bbc.com/news/articles/cwy80zk8d8xo?at_medium=RSS&at_campaign=rss",
+          "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
+          "url": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Tue, 17 Mar 2026 13:26:03 GMT"
+          "ts": "Tue, 17 Mar 2026 18:59:17 GMT"
+        },
+        {
+          "title": "Khamenei's killing renews questions about US assassinating foreign leaders",
+          "url": "https://www.npr.org/2026/03/17/g-s1-114070/assassination-iran-supreme-leader-questions-democracies",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 17 Mar 2026 15:22:49 -0400"
         },
         {
           "title": "The Postal Service may be out of cash in 2027 without Congress' help, postmaster says",
@@ -37,12 +43,6 @@
           "url": "https://www.npr.org/2026/03/17/nx-s1-5749404/white-house-chief-of-staff-susie-wiles-diagnosed-with-breast-cancer",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 17 Mar 2026 06:44:41 -0400"
-        },
-        {
-          "title": "How Trump's Treasury is shifting sanctions to punish his critics and reward friends",
-          "url": "https://www.npr.org/2026/03/17/nx-s1-5675211/treasury-sanctions-trump-foreign-punish",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 17 Mar 2026 05:00:00 -0400"
         },
         {
           "title": "Trump Says U.S. Doesn’t Need Allies to Reopen Strait of Hormuz",
@@ -97,24 +97,6 @@
           "url": "https://www.realclearpolitics.com/2026/03/17/i_supported_foreign_policies_trump_ran_on_in_2016_20_24_-_not_this_694581.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 17 Mar 2026 13:27:23 -0500"
-        },
-        {
-          "title": "AIPAC makes a $22 million gamble in Illinois",
-          "url": "https://www.politico.com/news/2026/03/17/aipac-illinois-primary-israel-democrats-divides-00829743",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 03:45:00 EST"
-        },
-        {
-          "title": "5 things to watch in Tuesday’s Illinois primaries",
-          "url": "https://www.politico.com/news/2026/03/17/what-to-watch-illinois-primary-aipac-pritzker-00830755",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 04:55:00 EST"
-        },
-        {
-          "title": "‘They hold the cards now’: Trump allies fear Iran is slipping beyond the president’s control",
-          "url": "https://www.politico.com/news/2026/03/17/they-hold-the-cards-now-trump-allies-fear-iran-is-slipping-beyond-the-presidents-control-00830449",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 04:05:00 EST"
         },
         {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
@@ -174,19 +156,30 @@
           "url": "https://www.vox.com/advice/482425/optimism-bias-unrealistic-motivation-delulu",
           "source": "Vox",
           "ts": "2026-03-17T08:00:00-04:00"
+        },
+        {
+          "title": "Trump threatens political retribution for lawmakers who vote against voter ID bill – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 19:11:07 GMT"
+        },
+        {
+          "title": "Meteor over Ohio causes large boom heard as far away as Pennsylvania",
+          "url": "https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 19:04:14 GMT"
+        },
+        {
+          "title": "Security lines persist at US airports as Congress negotiates DHS funding",
+          "url": "https://www.theguardian.com/us-news/2026/mar/17/dhs-funding-congress-airport-security-lines",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 18:14:14 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Israel says it killed Iran’s security chief Ali Larijani in overnight airstrike",
-          "url": "https://www.politico.eu/article/israel-says-it-killed-iran-security-chief-larijani-overnight-strike/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 05:32:49 EST"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
