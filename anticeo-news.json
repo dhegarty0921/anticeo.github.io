@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T00:45:31.002014Z",
+  "generated_at": "2026-03-17T00:50:30.784480Z",
   "headline": {
     "title": "Trump border patrol chief Greg Bovino to retire",
     "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss"
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Armageddon is not a strategy for peace in Iran",
+          "url": "https://religionnews.com/2026/03/16/armageddon-is-not-a-military-strategy/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 20:35:03 +0000"
+        },
+        {
+          "title": "Why ‘Sinners’ resonates with Jews",
+          "url": "https://religionnews.com/2026/03/16/why-sinners-resonates-with-jews/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 19:36:49 +0000"
+        },
+        {
+          "title": "During all-night vigil, Muslim students pray, connect and unite in solidarity for Palestinians",
+          "url": "https://religionnews.com/2026/03/16/during-all-night-vigil-muslim-students-pray-connect-and-unite-in-solidarity-for-palestinians/",
+          "source": "RNS",
+          "ts": "Mon, 16 Mar 2026 19:13:26 +0000"
+        },
+        {
           "title": "J. D. Vance Learns What Mike Pence Already Knows",
           "url": "https://www.theatlantic.com/newsletters/2026/03/vance-pence-trump/686412/?utm_source=feed",
           "source": "The Atlantic",
@@ -158,6 +176,12 @@
           "ts": "2026-03-16T15:25:00-04:00"
         },
         {
+          "title": "Cheese from largest US raw milk distributor linked to E coli outbreak",
+          "url": "https://www.theguardian.com/us-news/2026/mar/16/cheese-raw-milk-e-coli-outbreak",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 00:41:32 GMT"
+        },
+        {
           "title": "Judge orders ICE to release Minneapolis man after 50 days of unlawful detention",
           "url": "https://www.theguardian.com/us-news/2026/mar/13/judge-minneapolis-detention-order",
           "source": "US news | The Guardian",
@@ -168,12 +192,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/16/leqaa-kordia-released-ice-custody",
           "source": "US news | The Guardian",
           "ts": "Tue, 17 Mar 2026 00:05:12 GMT"
-        },
-        {
-          "title": "Trump seeks to delay China summit as Vance denies ‘wedge’ over Iran war",
-          "url": "https://www.theguardian.com/us-news/2026/mar/16/trump-china-summit-iran-war",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Mar 2026 23:52:13 GMT"
         }
       ]
     },
