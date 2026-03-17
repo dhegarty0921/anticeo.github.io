@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T21:20:29.892266Z",
+  "generated_at": "2026-03-17T21:25:32.368633Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -122,7 +122,7 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Logic of Joe Kent’s Resignation Letter",
+          "title": "Joe Kent’s Secret",
           "url": "https://www.theatlantic.com/ideas/2026/03/joe-kent-resignation-trump/686428/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T16:41:33-04:00"
@@ -158,6 +158,12 @@
           "ts": "2026-03-17T08:00:00-04:00"
         },
         {
+          "title": "Chief justice John Roberts calls for end to ‘dangerous’ hostility toward judges",
+          "url": "https://www.theguardian.com/us-news/2026/mar/17/john-roberts-hostility-toward-judges",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Mar 2026 21:09:24 GMT"
+        },
+        {
           "title": "Pam Bondi subpoenaed over Epstein files release by House committee",
           "url": "https://www.theguardian.com/us-news/2026/mar/17/pam-bondi-epstein-files-house-committee",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/17/save-act-senate-voting-bill",
           "source": "US news | The Guardian",
           "ts": "Tue, 17 Mar 2026 20:39:51 GMT"
-        },
-        {
-          "title": "House oversight committee subpoenas Pam Bondi over her handling of Epstein investigation – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 20:39:36 GMT"
         }
       ]
     },
