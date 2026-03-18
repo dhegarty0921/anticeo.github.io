@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T18:00:27.938265Z",
+  "generated_at": "2026-03-18T18:07:45.327173Z",
   "headline": {
     "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
     "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss"
@@ -128,6 +128,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Mormon women can now be Sunday school presidents",
+          "url": "https://religionnews.com/2026/03/18/mormon-women-can-now-be-sunday-school-presidents/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 17:56:53 +0000"
+        },
+        {
+          "title": "Judge orders Texas to extend school voucher deadline in response to lawsuit from Islamic schools",
+          "url": "https://religionnews.com/2026/03/18/judge-orders-texas-to-extend-school-voucher-deadline-in-response-to-lawsuit-from-islamic-schools/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 14:33:46 +0000"
+        },
+        {
+          "title": "Med student by day, Quran reciter by night: Young ‘huffaz’ carry Ramadan’s most demanding tradition",
+          "url": "https://religionnews.com/2026/03/18/med-student-by-day-quran-reciter-by-night-young-hafiz-carry-ramadans-most-demanding-tradition/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 14:07:49 +0000"
+        },
+        {
           "title": "Photos: Birds in Early Springtime",
           "url": "https://www.theatlantic.com/photography/2026/03/photos-birds-early-springtime/686440/?utm_source=feed",
           "source": "The Atlantic",
@@ -164,6 +182,12 @@
           "ts": "2026-03-18T06:00:00-04:00"
         },
         {
+          "title": "Markwayne Mullin strikes conciliatory tone at Senate hearing to lead homeland security",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Mar 2026 17:50:26 GMT"
+        },
+        {
           "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
@@ -174,37 +198,12 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/18/social-media-black-latino-neighborhoods-us",
           "source": "US news | The Guardian",
           "ts": "Wed, 18 Mar 2026 16:00:42 GMT"
-        },
-        {
-          "title": "Markwayne Mullin defends ability to lead homeland security at tense Senate hearing",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 15:26:04 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 17:10:14 +0000"
-        },
-        {
-          "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 16:51:05 +0000"
-        },
-        {
-          "title": "President or Congress? Who in the US has the power to declare war?",
-          "url": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 16:48:57 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
