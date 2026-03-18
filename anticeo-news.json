@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T14:40:31.005424Z",
+  "generated_at": "2026-03-18T14:46:09.386425Z",
   "headline": {
     "title": "Trump's homeland security pick Mullin faces senators' questions",
     "url": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&at_campaign=rss"
@@ -128,6 +128,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Judge orders Texas to extend school voucher deadline in response to lawsuit from Islamic schools",
+          "url": "https://religionnews.com/2026/03/18/judge-orders-texas-to-extend-school-voucher-deadline-in-response-to-lawsuit-from-islamic-schools/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 14:33:46 +0000"
+        },
+        {
+          "title": "Med student by day, Quran reciter by night: Young ‘huffaz’ carry Ramadan’s most demanding tradition",
+          "url": "https://religionnews.com/2026/03/18/med-student-by-day-quran-reciter-by-night-young-hafiz-carry-ramadans-most-demanding-tradition/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 14:07:49 +0000"
+        },
+        {
+          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
+          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
+        },
+        {
           "title": "Friendship, on Demand",
           "url": "https://www.theatlantic.com/family/2026/03/ai-friendship-chatbot/686345/?utm_source=feed",
           "source": "The Atlantic",
@@ -185,26 +203,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Senegal govt alleges corruption in decision to hand AFCON title to Morocco",
-          "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-govt-alleges-corruption-in-decision-to-hand-afcon-title-to-morocco?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 13:41:33 +0000"
-        },
-        {
-          "title": "How Dubai and UAE are being affected by Iran attacks and US-Israeli war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/how-dubai-and-uae-are-being-affected-by-iran-attacks-and-us-israeli-war?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 13:26:31 +0000"
-        },
-        {
-          "title": "Israel says it killed Iranian intelligence chief Khatib",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 13:15:07 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
