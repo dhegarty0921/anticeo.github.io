@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T00:25:35.227542Z",
+  "generated_at": "2026-03-18T00:30:36.049273Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 17 Mar 2026 16:33:25 -0400"
         },
         {
+          "title": "Year After Trump Takeover, Institute of Peace Is Little More Than Scenery",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/institute-of-peace-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 00:21:53 +0000"
+        },
+        {
           "title": "In His Resignation Letter, Joe Kent Spoke About the Death of His Wife",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 23:38:06 +0000"
-        },
-        {
-          "title": "Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 23:35:52 +0000"
         },
         {
           "title": "House asks Fairfax County officials to testify on sanctuary status",
@@ -121,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
+          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
+        },
+        {
+          "title": "Chavismo faces split among evangelical Christian political allies in Venezuela",
+          "url": "https://religionnews.com/2026/03/17/chavismo-faces-split-among-evangelical-christian-political-allies-in-venezuela/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 22:25:36 +0000"
+        },
+        {
+          "title": "After backlash, Vatican points to Olympic champion Lollobrigida as model of motherhood",
+          "url": "https://religionnews.com/2026/03/17/after-backlash-vatican-points-to-olympic-champion-lollobrigida-as-model-of-motherhood/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 20:41:32 +0000"
+        },
         {
           "title": "How Much Pain Is Trump Really Willing to Endure?",
           "url": "https://www.theatlantic.com/national-security/2026/03/trump-iran-war-endure/686425/?utm_source=feed",
