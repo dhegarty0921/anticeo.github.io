@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T22:25:35.619209Z",
+  "generated_at": "2026-03-18T22:30:31.643528Z",
   "headline": {
     "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
     "url": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 18 Mar 2026 06:45:06 -0400"
         },
         {
+          "title": "Following Trump, Republicans in Congress Propose to Ban Most Voting by Mail",
+          "url": "https://www.nytimes.com/2026/03/18/us/politics/trump-republicans-ban-mail-voting.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 22:21:43 +0000"
+        },
+        {
           "title": "Carol Kitman, 96, Dies; Photographer Documented the Vindman Twins",
           "url": "https://www.nytimes.com/2026/03/18/arts/carol-kitman-dead.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/18/us/politics/jd-vance-joe-kent-resignation.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Mar 2026 19:18:12 +0000"
-        },
-        {
-          "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
-          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 18:47:30 +0000"
         },
         {
           "title": "House lawmakers debate legality of Maduro capture, attacks on alleged drug boats",
@@ -133,6 +133,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "‘We,’ not ‘I’: An Ohio archbishop called Catholics to talk their way to consensus",
+          "url": "https://religionnews.com/2026/03/18/we-not-i-an-ohio-archbishop-called-catholics-to-talk-their-way-to-consensus/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 21:11:39 +0000"
+        },
+        {
+          "title": "Pope Leo XIV’s African visit a journey to the margins — and the heart of Christianity",
+          "url": "https://religionnews.com/2026/03/18/pope-leo-xivs-african-visit-a-rare-journey-to-those-in-the-margins/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 20:03:24 +0000"
+        },
+        {
+          "title": "23 killed, 108 wounded in suspected suicide bombings in northeast Nigeria",
+          "url": "https://religionnews.com/2026/03/18/23-killed-108-wounded-in-suspected-suicide-bombings-in-northeast-nigeria/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 18:36:03 +0000"
+        },
         {
           "title": "Maybe Turning War Into a Casino Was a Bad Idea?",
           "url": "https://www.theatlantic.com/technology/2026/03/emanuel-fabian-threats-polymarket/686454/?utm_source=feed",
