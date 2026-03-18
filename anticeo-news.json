@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T16:05:39.832550Z",
+  "generated_at": "2026-03-18T16:10:34.074297Z",
   "headline": {
     "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
     "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss"
@@ -128,24 +128,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Judge orders Texas to extend school voucher deadline in response to lawsuit from Islamic schools",
-          "url": "https://religionnews.com/2026/03/18/judge-orders-texas-to-extend-school-voucher-deadline-in-response-to-lawsuit-from-islamic-schools/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 14:33:46 +0000"
-        },
-        {
-          "title": "Med student by day, Quran reciter by night: Young ‘huffaz’ carry Ramadan’s most demanding tradition",
-          "url": "https://religionnews.com/2026/03/18/med-student-by-day-quran-reciter-by-night-young-hafiz-carry-ramadans-most-demanding-tradition/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 14:07:49 +0000"
-        },
-        {
-          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
-          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
-        },
-        {
           "title": "Who’s In Charge of Vaccines Now?",
           "url": "https://www.theatlantic.com/health/2026/03/vaccine-ruling-acip-pause/686437/?utm_source=feed",
           "source": "The Atlantic",
@@ -182,28 +164,47 @@
           "ts": "2026-03-18T06:00:00-04:00"
         },
         {
-          "title": "How social media is fuelling violence in overlooked US communities",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/social-media-black-latino-neighborhoods-us",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 16:00:42 GMT"
-        },
-        {
           "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 16:00:23 GMT"
+          "ts": "Wed, 18 Mar 2026 15:47:48 GMT"
         },
         {
           "title": "Markwayne Mullin defends ability to lead homeland security at tense Senate hearing",
           "url": "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs",
           "source": "US news | The Guardian",
           "ts": "Wed, 18 Mar 2026 15:26:04 GMT"
+        },
+        {
+          "title": "Looking for leverage: China keeps close eye on US politics after summit delay",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/looking-for-leverage-china-keeps-close-eye-on-us-politics-after-summit-delay",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Mar 2026 15:25:18 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "How Los Angeles’s Iranian diaspora is confronting the US war on Iran",
+          "url": "https://www.aljazeera.com/news/longform/2026/3/18/how-los-angeless-iranian-diaspora-is-confronting-the-us-war-on-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 15:42:59 +0000"
+        },
+        {
+          "title": "Trump wants to overthrow the Cuban president",
+          "url": "https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 14:59:16 +0000"
+        },
+        {
+          "title": "Iran threatens to strike Gulf energy facilities after South Pars attack",
+          "url": "https://www.aljazeera.com/news/2026/3/18/iran-threatens-to-strike-gulf-energy-facilities-after-south-pars-attack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 14:58:00 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
