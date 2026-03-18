@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T22:30:31.643528Z",
+  "generated_at": "2026-03-18T22:35:31.403330Z",
   "headline": {
     "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
     "url": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 18 Mar 2026 06:45:06 -0400"
         },
         {
+          "title": "What’s a Threat? Gabbard Says It’s Up to Trump, on Iran and Elsewhere.",
+          "url": "https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 22:30:37 +0000"
+        },
+        {
           "title": "Following Trump, Republicans in Congress Propose to Ban Most Voting by Mail",
           "url": "https://www.nytimes.com/2026/03/18/us/politics/trump-republicans-ban-mail-voting.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/18/arts/carol-kitman-dead.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Mar 2026 20:27:09 +0000"
-        },
-        {
-          "title": "Vance Says He Welcomes Disagreement, but Supports Joe Kent’s Resignation",
-          "url": "https://www.nytimes.com/2026/03/18/us/politics/jd-vance-joe-kent-resignation.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 19:18:12 +0000"
         },
         {
           "title": "House lawmakers debate legality of Maduro capture, attacks on alleged drug boats",
@@ -111,6 +111,24 @@
           "ts": "Wed, 18 Mar 2026 07:27:36 -0500"
         },
         {
+          "title": "Inside the White House plan to sell the Iran war online",
+          "url": "https://www.politico.com/news/2026/03/18/white-house-iran-game-online-00834373",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 18 Mar 2026 16:00:00 EST"
+        },
+        {
+          "title": "Trump’s intel agencies back his claims on peace deals, Europe",
+          "url": "https://www.politico.com/news/2026/03/18/trumps-intel-peace-deal-europe-00834970",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 18 Mar 2026 16:11:50 EST"
+        },
+        {
+          "title": "Iran and oil imperil Trump-Japan summit",
+          "url": "https://www.politico.com/news/2026/03/18/from-cherry-blossoms-to-crisis-iran-imperils-trump-japan-summit-00834991",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 18 Mar 2026 17:00:00 EST"
+        },
+        {
           "title": "Heated Rivalry season 2 casting call includes details of eight new characters",
           "url": "https://www.thepinknews.com/2026/03/18/heated-rivalry-season-2-casting-call-includes-details-of-eight-new-characters/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -133,24 +151,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "‘We,’ not ‘I’: An Ohio archbishop called Catholics to talk their way to consensus",
-          "url": "https://religionnews.com/2026/03/18/we-not-i-an-ohio-archbishop-called-catholics-to-talk-their-way-to-consensus/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 21:11:39 +0000"
-        },
-        {
-          "title": "Pope Leo XIV’s African visit a journey to the margins — and the heart of Christianity",
-          "url": "https://religionnews.com/2026/03/18/pope-leo-xivs-african-visit-a-rare-journey-to-those-in-the-margins/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 20:03:24 +0000"
-        },
-        {
-          "title": "23 killed, 108 wounded in suspected suicide bombings in northeast Nigeria",
-          "url": "https://religionnews.com/2026/03/18/23-killed-108-wounded-in-suspected-suicide-bombings-in-northeast-nigeria/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 18:36:03 +0000"
-        },
         {
           "title": "Maybe Turning War Into a Casino Was a Bad Idea?",
           "url": "https://www.theatlantic.com/technology/2026/03/emanuel-fabian-threats-polymarket/686454/?utm_source=feed",
@@ -186,24 +186,6 @@
           "url": "https://www.vox.com/future-perfect/482653/openai-nonprofit-foundation-philanthropy",
           "source": "Vox",
           "ts": "2026-03-18T06:30:00-04:00"
-        },
-        {
-          "title": "Lawmakers and community leaders react to ‘indefensible’ César Chávez sexual abuse allegations",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/cesar-chavez-sexual-abuse-allegations",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 22:12:28 GMT"
-        },
-        {
-          "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 22:10:38 GMT"
-        },
-        {
-          "title": "Dolores Huerta says she was abused by César Chávez: ‘My silence ends here’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/dolores-huerta-cesar-chavez-abuse-allegations",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 21:49:37 GMT"
         }
       ]
     },
