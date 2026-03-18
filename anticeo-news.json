@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T16:30:47.774803Z",
+  "generated_at": "2026-03-18T16:36:59.660125Z",
   "headline": {
     "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
     "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "Iran’s South Pars Gas Field Is Attacked, Sending Energy Prices Soaring",
+          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 16:27:15 +0000"
+        },
+        {
           "title": "Paul Questions Mullin’s Character Over Response to Attack by Neighbor",
           "url": "https://www.nytimes.com/2026/03/18/us/politics/paul-mullin-confirmation-hearing.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/18/us/politics/what-happened-illinois-election.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Mar 2026 13:52:03 +0000"
-        },
-        {
-          "title": "Trump’s Pick for Homeland Security Secretary to Testify",
-          "url": "https://www.nytimes.com/2026/03/18/us/politics/markwayne-mullin-homeland-security-confirmation-hearing.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 09:03:15 +0000"
         },
         {
           "title": "White House distances itself from counterterrorism official who resigned over Iran war",
@@ -128,7 +128,7 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Who’s In Charge of Vaccines Now?",
+          "title": "A New Level of Vaccine Purgatory",
           "url": "https://www.theatlantic.com/health/2026/03/vaccine-ruling-acip-pause/686437/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-18T11:50:22-04:00"
@@ -167,7 +167,7 @@
           "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 16:09:39 GMT"
+          "ts": "Wed, 18 Mar 2026 16:15:55 GMT"
         },
         {
           "title": "How social media is fuelling violence in overlooked US communities",
