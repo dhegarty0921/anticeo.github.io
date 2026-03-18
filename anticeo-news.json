@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T14:35:33.521879Z",
+  "generated_at": "2026-03-18T14:40:31.005424Z",
   "headline": {
     "title": "Trump's homeland security pick Mullin faces senators' questions",
     "url": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&at_campaign=rss"
@@ -105,24 +105,6 @@
           "ts": "Wed, 18 Mar 2026 07:27:36 -0500"
         },
         {
-          "title": "Paul challenges Mullin over assault comments during DHS grilling",
-          "url": "https://www.politico.com/news/2026/03/18/paul-challenges-mullin-over-assault-comments-during-dhs-grilling-00833659",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 18 Mar 2026 09:07:53 EST"
-        },
-        {
-          "title": "King of Illinois: Pritzker swings Senate race as he targets Trump",
-          "url": "https://www.politico.com/news/2026/03/18/pritzker-kingmaker-illinois-senate-stratton-00833545",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 23:16:13 EST"
-        },
-        {
-          "title": "AIPAC faces calls to reassess strategy after split results in Illinois",
-          "url": "https://www.politico.com/news/2026/03/18/aipac-israel-illinois-primary-results-00833615",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 18 Mar 2026 00:35:18 EST"
-        },
-        {
           "title": "Hannah Montana writer says Disney show was ‘terrified’ to have gay character",
           "url": "https://www.thepinknews.com/2026/03/18/hannah-montana-writer-says-disney-show-was-terrified-to-have-gay-character/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -182,10 +164,16 @@
           "ts": "2026-03-18T06:00:00-04:00"
         },
         {
-          "title": "Republican chair immediately goes after Mullin at DHS nomination hearing: ‘You told the media that I was a freaking snake’ – live",
+          "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 14:03:24 GMT"
+          "ts": "Wed, 18 Mar 2026 14:29:20 GMT"
+        },
+        {
+          "title": "Trump’s DHS pick, Markwayne Mullin, never served in military but talks as if he did",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/trump-dhs-markwayne-mullin-military",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Mar 2026 14:24:02 GMT"
         },
         {
           "title": "California’s new ‘war on drugs’: thousands arrested, few get treatment, data shows",
@@ -197,7 +185,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Senegal govt alleges corruption in decision to hand AFCON title to Morocco",
+          "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-govt-alleges-corruption-in-decision-to-hand-afcon-title-to-morocco?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 13:41:33 +0000"
+        },
+        {
+          "title": "How Dubai and UAE are being affected by Iran attacks and US-Israeli war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/how-dubai-and-uae-are-being-affected-by-iran-attacks-and-us-israeli-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 13:26:31 +0000"
+        },
+        {
+          "title": "Israel says it killed Iranian intelligence chief Khatib",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 13:15:07 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
