@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T18:51:53.452300Z",
+  "generated_at": "2026-03-18T18:56:49.309612Z",
   "headline": {
     "title": "US holds interest rates as Iran war triggers oil shock",
     "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War",
+          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 18:47:30 +0000"
+        },
+        {
           "title": "Alvin Greene, a No-Show Senate Nominee Who Won Primary, Dies at 48",
           "url": "https://www.nytimes.com/2026/03/18/us/politics/alvin-greene-dead.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/18/us/politics/trump-mullin-dhs-hearing-immigration.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Mar 2026 17:57:07 +0000"
-        },
-        {
-          "title": "F.A.A. Ends Use of ‘See and Avoid’ for Helicopters Near Busy Airports",
-          "url": "https://www.nytimes.com/2026/03/18/us/politics/faa-visual-separation-policy.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 17:00:44 +0000"
         },
         {
           "title": "Rand Paul threatens to cancel DHS secretary vote over dispute on transparency",
