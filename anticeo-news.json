@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T15:25:32.912833Z",
+  "generated_at": "2026-03-18T15:30:30.619871Z",
   "headline": {
     "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
     "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss"
@@ -128,6 +128,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Judge orders Texas to extend school voucher deadline in response to lawsuit from Islamic schools",
+          "url": "https://religionnews.com/2026/03/18/judge-orders-texas-to-extend-school-voucher-deadline-in-response-to-lawsuit-from-islamic-schools/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 14:33:46 +0000"
+        },
+        {
+          "title": "Med student by day, Quran reciter by night: Young ‘huffaz’ carry Ramadan’s most demanding tradition",
+          "url": "https://religionnews.com/2026/03/18/med-student-by-day-quran-reciter-by-night-young-hafiz-carry-ramadans-most-demanding-tradition/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 14:07:49 +0000"
+        },
+        {
+          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
+          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
+          "source": "RNS",
+          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
+        },
+        {
           "title": "Friendship, on Demand",
           "url": "https://www.theatlantic.com/family/2026/03/ai-friendship-chatbot/686345/?utm_source=feed",
           "source": "The Atlantic",
@@ -167,7 +185,7 @@
           "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 15:04:47 GMT"
+          "ts": "Wed, 18 Mar 2026 15:12:46 GMT"
         },
         {
           "title": "Trump’s DHS pick, Markwayne Mullin, never served in military but talks as if he did",
@@ -185,26 +203,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Trump wants to overthrow the Cuban president",
-          "url": "https://www.aljazeera.com/video/2026/3/18/trump-wants-to-overthrow-the-cuban-president?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 14:59:16 +0000"
-        },
-        {
-          "title": "Iran threatens to strike Gulf energy facilities after South Pars attack",
-          "url": "https://www.aljazeera.com/news/2026/3/18/iran-threatens-to-strike-gulf-energy-facilities-after-south-pars-attack?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 14:58:00 +0000"
-        },
-        {
-          "title": "How the killing of Iran’s Ali Larijani could impact the war",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/how-the-killing-of-irans-ali-larijani-could-impact-the-war?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Mar 2026 14:43:43 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
