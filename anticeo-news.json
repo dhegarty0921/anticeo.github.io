@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T11:20:31.543835Z",
+  "generated_at": "2026-03-18T11:25:31.873936Z",
   "headline": {
     "title": "Trump's homeland security pick Mullin faces senators' questions",
     "url": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Wed, 18 Mar 2026 10:29:15 GMT"
         },
         {
+          "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
+          "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 18 Mar 2026 11:23:32 GMT"
+        },
+        {
           "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
           "url": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 17 Mar 2026 18:59:17 GMT"
-        },
-        {
-          "title": "Parades, rivers and the White House fountain: US celebrates St Patrick's Day",
-          "url": "https://www.bbc.com/news/videos/c4geg7jpv3yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 18 Mar 2026 01:03:32 GMT"
         },
         {
           "title": "Rep. María Elvira Salazar, R-Fla., talks about Trump's comments on Cuba",
@@ -158,6 +158,12 @@
           "ts": "2026-03-17T17:30:00-04:00"
         },
         {
+          "title": "Trump nominee Mullin expected to get quick confirmation to replace Noem at DHS – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Mar 2026 11:07:31 GMT"
+        },
+        {
           "title": "Jeffrey Epstein’s elite relationships visualised: the prince, the sultan and the politicians",
           "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/18/jeffrey-epsteins-elite-relationships-visualised-the-prince-the-sultan-and-the-politicians",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/18/rfk-jr-samoa-trip-scott-brown",
           "source": "US news | The Guardian",
           "ts": "Wed, 18 Mar 2026 11:00:40 GMT"
-        },
-        {
-          "title": "Florida professors quietly defy restrictions on race and gender: ‘This is how authoritarianism works’",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/florida-colleges-push-back-race-gender-restrictions",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 11:00:38 GMT"
         }
       ]
     },
