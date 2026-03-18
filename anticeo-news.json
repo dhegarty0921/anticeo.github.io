@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T14:00:33.460669Z",
+  "generated_at": "2026-03-18T14:05:31.392068Z",
   "headline": {
     "title": "Trump's homeland security pick Mullin faces senators' questions",
     "url": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&at_campaign=rss"
@@ -105,6 +105,12 @@
           "ts": "Wed, 18 Mar 2026 07:27:36 -0500"
         },
         {
+          "title": "Hannah Montana writer says Disney show was ‘terrified’ to have gay character",
+          "url": "https://www.thepinknews.com/2026/03/18/hannah-montana-writer-says-disney-show-was-terrified-to-have-gay-character/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Wed, 18 Mar 2026 13:58:03 +0000"
+        },
+        {
           "title": "Activists stage mock funeral in protest of Trump’s HIV funding cuts",
           "url": "https://www.thepinknews.com/2026/03/18/activists-stage-mock-funeral-in-protest-of-trumps-hiv-funding-cuts/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -115,36 +121,12 @@
           "url": "https://www.thepinknews.com/2026/03/18/labour-jk-rowling-following-on-twitter/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Wed, 18 Mar 2026 11:58:29 +0000"
-        },
-        {
-          "title": "What NASCAR’s Daniel Dye said as he’s suspended for homophobic mocking",
-          "url": "https://www.thepinknews.com/2026/03/18/what-nascars-daniel-dye-said-as-hes-suspended-for-homophobic-mocking/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 18 Mar 2026 10:55:43 +0000"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
-          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
-        },
-        {
-          "title": "Chavismo faces split among evangelical Christian political allies in Venezuela",
-          "url": "https://religionnews.com/2026/03/17/chavismo-faces-split-among-evangelical-christian-political-allies-in-venezuela/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 22:25:36 +0000"
-        },
-        {
-          "title": "After backlash, Vatican points to Olympic champion Lollobrigida as model of motherhood",
-          "url": "https://religionnews.com/2026/03/17/after-backlash-vatican-points-to-olympic-champion-lollobrigida-as-model-of-motherhood/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 20:41:32 +0000"
-        },
         {
           "title": "What AI ‘Friends’ Reveal About Human Friendship",
           "url": "https://www.theatlantic.com/family/2026/03/ai-friendship-chatbot/686345/?utm_source=feed",
@@ -203,7 +185,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Senegal govt alleges corruption in decision to hand AFCON title to Morocco",
+          "url": "https://www.aljazeera.com/sports/2026/3/18/senegal-govt-alleges-corruption-in-decision-to-hand-afcon-title-to-morocco?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 13:41:33 +0000"
+        },
+        {
+          "title": "How Dubai and UAE are being affected by Iran attacks and US-Israeli war",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/how-dubai-and-uae-are-being-affected-by-iran-attacks-and-us-israeli-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 13:26:31 +0000"
+        },
+        {
+          "title": "Israel says it killed Iranian intelligence chief Khatib",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/israel-says-it-killed-iranian-intelligence-chief-khatib?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 13:15:07 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
