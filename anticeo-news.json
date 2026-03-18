@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T00:00:31.921387Z",
+  "generated_at": "2026-03-18T00:05:31.164906Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 17 Mar 2026 16:33:25 -0400"
         },
         {
+          "title": "In His Resignation Letter, Joe Kent Spoke About the Death of His Wife",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Mar 2026 23:57:37 +0000"
+        },
+        {
           "title": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/17/us/politics/trump-iran-nuclear-fuel.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Mar 2026 23:35:52 +0000"
-        },
-        {
-          "title": "Kharg Island Is an Appealing Target for Trump, With High Risks",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 21:58:31 +0000"
         },
         {
           "title": "House asks Fairfax County officials to testify on sanctuary status",
@@ -122,22 +122,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
-          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
-        },
-        {
-          "title": "Chavismo faces split among evangelical Christian political allies in Venezuela",
-          "url": "https://religionnews.com/2026/03/17/chavismo-faces-split-among-evangelical-christian-political-allies-in-venezuela/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 22:25:36 +0000"
-        },
-        {
-          "title": "After backlash, Vatican points to Olympic champion Lollobrigida as model of motherhood",
-          "url": "https://religionnews.com/2026/03/17/after-backlash-vatican-points-to-olympic-champion-lollobrigida-as-model-of-motherhood/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 20:41:32 +0000"
+          "title": "How Much Pain Is Trump Really Willing to Endure?",
+          "url": "https://www.theatlantic.com/national-security/2026/03/trump-iran-war-endure/686425/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-17T19:50:00-04:00"
         },
         {
           "title": "The First Big Administration Defection Over Iran",
@@ -150,12 +138,6 @@
           "url": "https://www.theatlantic.com/science/2026/03/dc-tornado-bust/686431/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-17T17:18:09-04:00"
-        },
-        {
-          "title": "The Dangerous Logic of the Joe Kent Letter",
-          "url": "https://www.theatlantic.com/newsletters/2026/03/joe-kent-resignation-iran-trump/686434/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-17T17:05:00-04:00"
         },
         {
           "title": "Scientists finally have something hopeful to tell us about monarch butterflies",
