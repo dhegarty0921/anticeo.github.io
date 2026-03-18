@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T18:42:02.036692Z",
+  "generated_at": "2026-03-18T18:47:10.229905Z",
   "headline": {
     "title": "US holds interest rates as Iran war triggers oil shock",
     "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
@@ -39,8 +39,8 @@
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
         {
-          "title": "Sen. Paul confronts Sen. Mullin over violent rhetoric at his DHS confirmation hearing",
-          "url": "https://www.npr.org/2026/03/18/nx-s1-5749360/markwayne-mullin-dhs-confirmation-hearing",
+          "title": "Israel is a key issue in Democratic primaries as support for the U.S. ally drops",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
@@ -111,6 +111,24 @@
           "ts": "Wed, 18 Mar 2026 07:27:36 -0500"
         },
         {
+          "title": "‘Tell it to my face’: Paul airs beef with Mullin in DHS nomination clash",
+          "url": "https://www.politico.com/news/2026/03/18/paul-challenges-mullin-over-assault-comments-during-dhs-grilling-00833659",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 18 Mar 2026 09:07:53 EST"
+        },
+        {
+          "title": "Quick vote on Mullin’s DHS nomination hangs on classified briefing",
+          "url": "https://www.politico.com/news/2026/03/18/markwayne-mullin-dhs-secret-trip-00834484",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Wed, 18 Mar 2026 13:10:59 EST"
+        },
+        {
+          "title": "King of Illinois: Pritzker swings Senate race as he targets Trump",
+          "url": "https://www.politico.com/news/2026/03/18/pritzker-kingmaker-illinois-senate-stratton-00833545",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 23:16:13 EST"
+        },
+        {
           "title": "Heated Rivalry season 2 casting call includes details of eight new characters",
           "url": "https://www.thepinknews.com/2026/03/18/heated-rivalry-season-2-casting-call-includes-details-of-eight-new-characters/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -133,24 +151,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "23 killed, 108 wounded in suspected suicide bombings in northeast Nigeria",
-          "url": "https://religionnews.com/2026/03/18/23-killed-108-wounded-in-suspected-suicide-bombings-in-northeast-nigeria/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 18:36:03 +0000"
-        },
-        {
-          "title": "UN rights report condemns displacement of Palestinians in West Bank",
-          "url": "https://religionnews.com/2026/03/18/un-rights-report-condemns-displacement-of-palestinians-in-west-bank/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 18:34:33 +0000"
-        },
-        {
-          "title": "Iran launches barrage of missiles after Israel kills 2 of its top officials",
-          "url": "https://religionnews.com/2026/03/18/iran-launches-barrage-of-missiles-after-israel-kills-2-of-its-top-officials/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 18:30:24 +0000"
-        },
         {
           "title": "Photos: Birds in Early Springtime",
           "url": "https://www.theatlantic.com/photography/2026/03/photos-birds-early-springtime/686440/?utm_source=feed",
@@ -186,24 +186,6 @@
           "url": "https://www.vox.com/podcasts/482895/botox-toxin-botulism-medical-treatment-cosmetic-explained",
           "source": "Vox",
           "ts": "2026-03-18T06:00:00-04:00"
-        },
-        {
-          "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 18:19:53 GMT"
-        },
-        {
-          "title": "Markwayne Mullin strikes softer tone but defends Trump policies in Senate hearing",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 18:14:45 GMT"
-        },
-        {
-          "title": "Orlando begins demolition of Pulse nightclub, site of 2016 mass shooting that killed 49",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/orlando-florida-pulse-lgbtq-nightclub-demolition",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 18:03:05 GMT"
         }
       ]
     },
