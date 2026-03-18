@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T00:41:22.772176Z",
+  "generated_at": "2026-03-18T00:45:32.172966Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 17 Mar 2026 16:33:25 -0400"
         },
         {
+          "title": "Judge Orders Voice of America to Restart All News Operations",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/voice-of-america-news.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 00:38:44 +0000"
+        },
+        {
           "title": "Year After Trump Takeover, Institute of Peace Is Little More Than Scenery",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/institute-of-peace-trump.html",
           "source": "NYT > U.S. > Politics",
@@ -54,13 +60,7 @@
           "title": "In His Resignation Letter, Joe Kent Spoke About the Death of His Wife",
           "url": "https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 23:57:37 +0000"
-        },
-        {
-          "title": "No Trump Endorsement for Cornyn or Paxton in Texas Senate Race as Deadline Passes",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/texas-senate-trump-cornyn-paxton.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Mar 2026 23:38:06 +0000"
+          "ts": "Wed, 18 Mar 2026 00:38:58 +0000"
         },
         {
           "title": "House asks Fairfax County officials to testify on sanctuary status",
@@ -97,6 +97,24 @@
           "url": "https://www.realclearpolitics.com/2026/03/17/i_supported_foreign_policies_trump_ran_on_in_2016_20_24_-_not_this_694581.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 17 Mar 2026 17:42:55 -0500"
+        },
+        {
+          "title": "Trump presses allies for Hormuz pledges, but not specifics",
+          "url": "https://www.politico.com/news/2026/03/17/strait-hormuz-iran-trump-allies-oil-00832792",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 16:04:39 EST"
+        },
+        {
+          "title": "‘Never heard him so angry’: Trump is furious that global allies aren’t pitching in in Iran",
+          "url": "https://www.politico.com/news/2026/03/17/trump-iran-nato-allies-assistance-00831355",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 11:31:41 EST"
+        },
+        {
+          "title": "Brendan Carr’s ‘equal time’ curveball crashes the midterms",
+          "url": "https://www.politico.com/news/2026/03/17/brendan-carrs-equal-time-curveball-crashes-the-midterms-00830210",
+          "source": "Politics, Policy, Political News Top Stories",
+          "ts": "Tue, 17 Mar 2026 09:00:00 EST"
         },
         {
           "title": "Facebook overrun with fake posts saying your favourite celeb is homophobic",
@@ -156,24 +174,6 @@
           "url": "https://www.vox.com/politics/482868/elizabeth-warren-corporate-landlord-wall-street-ban-housing-bill",
           "source": "Vox",
           "ts": "2026-03-17T12:30:00-04:00"
-        },
-        {
-          "title": "Tulsi Gabbard, who warned of war with Iran, now defends Trump’s decision to attack – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/mar/17/us-senate-voter-id-donald-trump-iran-hormuz-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 00:09:14 GMT"
-        },
-        {
-          "title": "US rapper Mystikal pleads guilty to third-degree rape in 2022 arrest",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/us-rapper-mystikal-pleads-guilty-third-degree-rape",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 22:23:37 GMT"
-        },
-        {
-          "title": "Chief justice John Roberts calls for end to ‘dangerous’ hostility toward judges",
-          "url": "https://www.theguardian.com/us-news/2026/mar/17/john-roberts-hostility-toward-judges",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Mar 2026 21:09:24 GMT"
         }
       ]
     },
