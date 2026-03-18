@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T17:00:26.385159Z",
+  "generated_at": "2026-03-18T17:07:25.029824Z",
   "headline": {
     "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
     "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
         {
+          "title": "F.A.A. Ends Use of ‘See and Avoid’ for Helicopters Near Busy Airports",
+          "url": "https://www.nytimes.com/2026/03/18/us/politics/faa-visual-separation-policy.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 17:00:44 +0000"
+        },
+        {
           "title": "Iran’s South Pars Gas Field Is Attacked, Sending Energy Prices Soaring",
           "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/18/us/politics/paul-mullin-confirmation-hearing.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Mar 2026 15:44:34 +0000"
-        },
-        {
-          "title": "The Buzziest Outcomes From the Illinois Races",
-          "url": "https://www.nytimes.com/2026/03/18/us/politics/what-happened-illinois-election.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 13:52:03 +0000"
         },
         {
           "title": "White House distances itself from counterterrorism official who resigned over Iran war",
@@ -167,7 +167,7 @@
           "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 16:35:05 GMT"
+          "ts": "Wed, 18 Mar 2026 16:57:12 GMT"
         },
         {
           "title": "How social media is fuelling violence in overlooked US communities",
