@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:15:30.309858Z",
+  "generated_at": "2026-03-18T06:20:30.849405Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-17T12:30:00-04:00"
         },
         {
+          "title": "Ali Larijani was ruthless – and clear-eyed about west’s implacable hostility to Iran",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/ali-larijani-israel-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Mar 2026 06:00:25 GMT"
+        },
+        {
           "title": "Fire damage, clogged toilets, and sinking morale: USS Gerald R Ford to set sails for repairs in Crete",
           "url": "https://www.theguardian.com/us-news/2026/mar/18/onboard-fire-uss-gerald-ford-aircraft-carrier",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/18/democratic-voters-select-house-candidates-in-illinois-after-heated-primaries",
           "source": "US news | The Guardian",
           "ts": "Wed, 18 Mar 2026 04:36:17 GMT"
-        },
-        {
-          "title": "Juliana Stratton wins Illinois Democratic Senate primary race",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/illinois-democratic-senate-primary-race-juliana-stratton",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 02:44:05 GMT"
         }
       ]
     },
