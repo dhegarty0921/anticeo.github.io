@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T01:05:32.069225Z",
+  "generated_at": "2026-03-18T01:10:31.669325Z",
   "headline": {
     "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
     "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Tue, 17 Mar 2026 16:33:25 -0400"
         },
         {
+          "title": "USPS General Says Service Will Be ‘Out of Cash’ in Under a Year at Its Current Rate",
+          "url": "https://www.nytimes.com/2026/03/17/us/politics/usps-postal-service-finances.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Mar 2026 01:06:08 +0000"
+        },
+        {
           "title": "U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk",
           "url": "https://www.nytimes.com/2026/03/17/technology/anthropic-pentagon-national-security-risk.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/17/us/politics/voice-of-america-news.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Mar 2026 00:38:44 +0000"
-        },
-        {
-          "title": "Year After Trump Takeover, Institute of Peace Is Little More Than Scenery",
-          "url": "https://www.nytimes.com/2026/03/17/us/politics/institute-of-peace-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 00:21:53 +0000"
         },
         {
           "title": "House asks Fairfax County officials to testify on sanctuary status",
