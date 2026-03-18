@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T11:55:31.783891Z",
+  "generated_at": "2026-03-18T12:01:00.368814Z",
   "headline": {
     "title": "Trump's homeland security pick Mullin faces senators' questions",
     "url": "https://www.bbc.com/news/articles/cq575gyjgy9o?at_medium=RSS&at_campaign=rss"
@@ -128,24 +128,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Photos of the Week: Ramadan winds down, synagogue attack",
-          "url": "https://religionnews.com/2026/03/17/photos-of-the-week-ramadan-winds-down-synagogue-attack/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 23:13:39 +0000"
-        },
-        {
-          "title": "Chavismo faces split among evangelical Christian political allies in Venezuela",
-          "url": "https://religionnews.com/2026/03/17/chavismo-faces-split-among-evangelical-christian-political-allies-in-venezuela/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 22:25:36 +0000"
-        },
-        {
-          "title": "After backlash, Vatican points to Olympic champion Lollobrigida as model of motherhood",
-          "url": "https://religionnews.com/2026/03/17/after-backlash-vatican-points-to-olympic-champion-lollobrigida-as-model-of-motherhood/",
-          "source": "RNS",
-          "ts": "Tue, 17 Mar 2026 20:41:32 +0000"
-        },
-        {
           "title": "What Caused the D.C. Sewer Disaster",
           "url": "https://www.theatlantic.com/ideas/2026/03/potomac-sewer-washington-dc/686429/?utm_source=feed",
           "source": "The Atlantic",
@@ -203,7 +185,26 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Olympics urged to drop reported gender test plans for female athletes",
+          "url": "https://www.aljazeera.com/sports/2026/3/18/olympics-urged-to-drop-reported-gender-test-plans-for-female-athletes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 11:41:09 +0000"
+        },
+        {
+          "title": "Turkiye says NATO bringing in more defences after missile interceptions",
+          "url": "https://www.aljazeera.com/news/2026/3/18/turkiye-says-nato-bringing-in-more-defences-after-missile-interceptions?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 11:24:40 +0000"
+        },
+        {
+          "title": "Iranian women footballers arrive in eastern Turkiye, on home border",
+          "url": "https://www.aljazeera.com/sports/2026/3/18/iran-womens-football-team-arrive-in-eastern-turkiye-on-home-border?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 11:23:56 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
