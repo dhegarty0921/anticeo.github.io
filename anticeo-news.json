@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T17:17:00.468101Z",
+  "generated_at": "2026-03-18T17:22:33.722660Z",
   "headline": {
     "title": "Juliana Stratton wins Illinois Democratic primary for US Senate",
     "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss"
@@ -39,8 +39,8 @@
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
         {
-          "title": "Israel is a key issue in Democratic primaries as support for the U.S. ally drops",
-          "url": "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
+          "title": "Sen. Paul confronts Sen. Mullin over violent rhetoric at his DHS confirmation hearing",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5749360/markwayne-mullin-dhs-confirmation-hearing",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 18 Mar 2026 05:00:00 -0400"
         },
@@ -105,24 +105,6 @@
           "ts": "Wed, 18 Mar 2026 07:27:36 -0500"
         },
         {
-          "title": "‘Tell it to my face ’: Paul airs beef with Mullin in DHS nomination clash",
-          "url": "https://www.politico.com/news/2026/03/18/paul-challenges-mullin-over-assault-comments-during-dhs-grilling-00833659",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 18 Mar 2026 09:07:53 EST"
-        },
-        {
-          "title": "King of Illinois: Pritzker swings Senate race as he targets Trump",
-          "url": "https://www.politico.com/news/2026/03/18/pritzker-kingmaker-illinois-senate-stratton-00833545",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Tue, 17 Mar 2026 23:16:13 EST"
-        },
-        {
-          "title": "AIPAC faces calls to reassess strategy after split results in Illinois",
-          "url": "https://www.politico.com/news/2026/03/18/aipac-israel-illinois-primary-results-00833615",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 18 Mar 2026 00:35:18 EST"
-        },
-        {
           "title": "Heated Rivalry season 2 casting call includes details of eight new characters",
           "url": "https://www.thepinknews.com/2026/03/18/heated-rivalry-season-2-casting-call-includes-details-of-eight-new-characters/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -185,19 +167,44 @@
           "title": "Trump nominee Markwayne Mullin grilled by senators at DHS confirmation hearing – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 16:57:12 GMT"
+          "ts": "Wed, 18 Mar 2026 17:04:58 GMT"
         },
         {
           "title": "How social media is fuelling violence in overlooked US communities",
           "url": "https://www.theguardian.com/us-news/2026/mar/18/social-media-black-latino-neighborhoods-us",
           "source": "US news | The Guardian",
           "ts": "Wed, 18 Mar 2026 16:00:42 GMT"
+        },
+        {
+          "title": "Markwayne Mullin defends ability to lead homeland security at tense Senate hearing",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/senate-markwayne-mullin-nomination-dhs",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Mar 2026 15:26:04 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "LIVE: Liverpool vs Galatasaray – Champions League last 16",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/3/18/live-liverpool-vs-galatasaray-champions-league-last-16?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 17:10:14 +0000"
+        },
+        {
+          "title": "Gunshots disperse crowd during Persian New Year festivities in Tehran",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/gunshots-disperse-crowd-during-persian-new-year-festivities-in-tehran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 16:51:05 +0000"
+        },
+        {
+          "title": "President or Congress? Who in the US has the power to declare war?",
+          "url": "https://www.aljazeera.com/news/2026/3/18/president-or-congress-who-in-the-us-has-the-power-to-declare-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Mar 2026 16:48:57 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
