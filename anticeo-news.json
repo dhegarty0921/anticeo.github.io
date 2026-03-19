@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T01:15:32.097621Z",
+  "generated_at": "2026-03-19T01:20:30.716512Z",
   "headline": {
     "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
     "url": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Wed, 18 Mar 2026 06:45:06 -0400"
         },
         {
+          "title": "Bondi Doesn’t Commit to Deposition With House Panel Over Epstein Files",
+          "url": "https://www.nytimes.com/2026/03/18/us/politics/pam-bondi-house-oversight-epstein-files.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Mar 2026 01:10:47 +0000"
+        },
+        {
           "title": "Mullin Faces Questions About War Zone Observations",
           "url": "https://www.nytimes.com/2026/03/18/us/politics/mullin-smell-war.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/18/us/politics/senate-republicans-trump-iran-war-authorization.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 19 Mar 2026 00:05:30 +0000"
-        },
-        {
-          "title": "Trump’s Planning for America’s 250th Emphasizes Religion’s Role in the Nation’s Founding",
-          "url": "https://www.nytimes.com/2026/03/18/arts/design/trump-america-250-year-anniversary-plan.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Mar 2026 22:55:43 +0000"
         },
         {
           "title": "Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary",
@@ -134,6 +134,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "In New York, fear of ICE raids casts shadow over Ramadan for West African Muslims",
+          "url": "https://religionnews.com/2026/03/18/in-new-york-fear-of-ice-raids-casts-shadow-over-ramadan-for-west-african-muslims/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 22:34:29 +0000"
+        },
+        {
+          "title": "‘We,’ not ‘I’: An Ohio archbishop called Catholics to talk their way to consensus",
+          "url": "https://religionnews.com/2026/03/18/we-not-i-an-ohio-archbishop-called-catholics-to-talk-their-way-to-consensus/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 21:11:39 +0000"
+        },
+        {
+          "title": "Pope Leo XIV’s African visit a journey to the margins — and the heart of Christianity",
+          "url": "https://religionnews.com/2026/03/18/pope-leo-xivs-african-visit-a-rare-journey-to-those-in-the-margins/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 20:03:24 +0000"
+        },
+        {
           "title": "The Lesson of Tulsi Gabbard’s Flip-Flop",
           "url": "https://www.theatlantic.com/newsletters/2026/03/tulsi-gabbard-iran-war-trump-cabinet/686456/?utm_source=feed",
           "source": "The Atlantic",
@@ -173,19 +191,19 @@
           "title": "Senate Republicans vote down Democrats’ war powers resolution to check Trump on Iran – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 19 Mar 2026 00:57:08 GMT"
+          "ts": "Thu, 19 Mar 2026 01:07:46 GMT"
         },
         {
-          "title": "Senate votes down measure aiming to limit Trump’s war powers by 53-47 vote",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/senate-trump-war-powers-vote",
+          "title": "Democrats walk out in protest over ‘outrageous fake’ Epstein briefing from Pam Bondi",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/pam-bondi-epstein-briefing-democrats",
           "source": "US news | The Guardian",
-          "ts": "Thu, 19 Mar 2026 00:37:06 GMT"
+          "ts": "Thu, 19 Mar 2026 01:07:01 GMT"
         },
         {
-          "title": "Kash Patel admits under oath FBI is buying location data on Americans",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/kash-patel-fbi-location-data",
+          "title": "Trump news at a glance: president’s war on Iran is putting billions on the US till",
+          "url": "https://www.theguardian.com/us-news/2026/mar/18/trump-news-latest-updates-today",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Mar 2026 23:26:36 GMT"
+          "ts": "Thu, 19 Mar 2026 01:00:53 GMT"
         }
       ]
     },
