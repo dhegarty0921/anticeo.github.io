@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T16:55:37.090758Z",
+  "generated_at": "2026-03-19T17:00:32.958974Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 19 Mar 2026 06:24:19 -0400"
         },
         {
+          "title": "Lawsuit Accuses Justice Dept. Leadership of ‘Political Retribution’",
+          "url": "https://www.nytimes.com/2026/03/19/us/politics/fbi-retribution-lawsuit.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Mar 2026 16:50:24 +0000"
+        },
+        {
           "title": "General Says U.S. Boat Strikes Are Not Answer to Country’s Drug Problem",
           "url": "https://www.nytimes.com/2026/03/19/us/politics/boat-strikes-caribbean.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/19/business/mortgage-rates-iran-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 19 Mar 2026 16:20:34 +0000"
-        },
-        {
-          "title": "Pentagon Seeks Additional $200 Billion to Fund Iran War",
-          "url": "https://www.nytimes.com/2026/03/19/world/middleeast/pentagon-200-billion-iran-war-funding-hegseth.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Mar 2026 15:23:08 +0000"
         },
         {
           "title": "States seek to unmask federal immigration agents -- and their own police",
@@ -99,24 +99,6 @@
           "ts": "Thu, 19 Mar 2026 08:48:04 -0500"
         },
         {
-          "title": "The Number of MAGA Fractures Is Growing",
-          "url": "https://www.politico.com/news/magazine/2026/03/19/trump-maga-coalition-fractures-00833990",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "‘What is he doing?’: New threats emerge for Trump’s economy as war drags on",
-          "url": "https://www.politico.com/news/2026/03/19/threats-trump-economy-iran-war-inflation-fed-00833425",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "Congress braces for $200B Iran war request",
-          "url": "https://www.politico.com/news/2026/03/19/congress-braces-for-200b-iran-war-request-00835914",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 10:28:39 EST"
-        },
-        {
           "title": "Man sentenced after defrauding gay men on dating apps for over £28,000",
           "url": "https://www.thepinknews.com/2026/03/19/man-sentenced-after-defrauding-gay-men-on-dating-apps-for-over-28000/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -139,24 +121,6 @@
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "Vatican to host global summit on marriage, family in October",
-          "url": "https://religionnews.com/2026/03/19/vatican-to-host-global-summit-on-marriage-family-in-october/",
-          "source": "RNS",
-          "ts": "Thu, 19 Mar 2026 15:54:03 +0000"
-        },
-        {
-          "title": "Something Is Happening … But Is It a Revival?",
-          "url": "https://religionnews.com/2026/03/19/something-is-happening-but-is-it-a-revival/",
-          "source": "RNS",
-          "ts": "Thu, 19 Mar 2026 09:30:41 +0000"
-        },
-        {
-          "title": "In New York, fear of ICE raids casts shadow over Ramadan for West African Muslims",
-          "url": "https://religionnews.com/2026/03/18/in-new-york-fear-of-ice-raids-casts-shadow-over-ramadan-for-west-african-muslims/",
-          "source": "RNS",
-          "ts": "Wed, 18 Mar 2026 22:34:29 +0000"
-        },
         {
           "title": "There’s No Way the West Will Have a Normal Summer",
           "url": "https://www.theatlantic.com/science/2026/03/west-heat-wave/686457/?utm_source=feed",
@@ -192,12 +156,37 @@
           "url": "https://www.vox.com/policy/482933/trump-tariffs-refunds-argentine-penguin",
           "source": "Vox",
           "ts": "2026-03-19T06:00:00-04:00"
+        },
+        {
+          "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 16:55:22 GMT"
+        },
+        {
+          "title": "Historic March heatwave pushes south-west US toward triple digits",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/march-heatwave-weather-us",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 16:49:18 GMT"
+        },
+        {
+          "title": "No timeframe for ending US war against Iran, says Pete Hegseth",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/pete-hegseth-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 15:02:07 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Senegal instruct lawyers, while CAF’s Motsepe defends Morocco’s AFCON award",
+          "url": "https://www.aljazeera.com/sports/2026/3/19/senegal-instruct-lawyers-while-cafs-motsepe-defends-moroccos-afcon-award?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Mar 2026 16:14:41 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
