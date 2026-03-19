@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T12:15:30.350761Z",
+  "generated_at": "2026-03-19T12:20:31.182830Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -99,30 +99,6 @@
           "ts": "Thu, 19 Mar 2026 06:38:37 -0500"
         },
         {
-          "title": "‘What is he doing?’: New threats emerge for Trump’s economy as war drags on",
-          "url": "https://www.politico.com/news/2026/03/19/threats-trump-economy-iran-war-inflation-fed-00833425",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "Inside the White House plan to sell the Iran war online",
-          "url": "https://www.politico.com/news/2026/03/18/white-house-iran-game-online-00834373",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 18 Mar 2026 16:00:00 EST"
-        },
-        {
-          "title": "The Number of MAGA Fractures Is Growing",
-          "url": "https://www.politico.com/news/magazine/2026/03/19/trump-maga-coalition-fractures-00833990",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "Black Cube, leaked tapes and corruption: Israeli spy firm crashes Slovenia’s election",
-          "url": "https://www.politico.eu/article/black-cube-leak-tape-corruption-israel-spy-firm-slovenia-election/",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Wed, 18 Mar 2026 23:02:00 EST"
-        },
-        {
           "title": "Former NHL player deletes Pride Night rant as ‘bad mojo’ theory debunked",
           "url": "https://www.thepinknews.com/2026/03/19/former-nhl-player-deletes-pride-night-rant-as-bad-mojo-theory-debunked/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -146,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "How to Save a Dying Friendship",
+          "url": "https://www.theatlantic.com/ideas/2026/03/friendship-dads/686415/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-19T08:00:00-04:00"
+        },
+        {
           "title": "The <em>Seinfeld</em> Principle of COVID Fiction",
           "url": "https://www.theatlantic.com/books/2026/03/down-time-andrew-martin-pandemic-novel-review/686455/?utm_source=feed",
           "source": "The Atlantic",
@@ -158,18 +140,6 @@
           "ts": "2026-03-19T07:00:00-04:00"
         },
         {
-          "title": "Israel Is Missing Its Big Chance in Lebanon",
-          "url": "https://www.theatlantic.com/international/2026/03/israel-lebanon-iran-hezbollah/686444/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-19T07:00:00-04:00"
-        },
-        {
-          "title": "How Georgia manufactured the peach state myth",
-          "url": "https://www.vox.com/videos/483056/how-georgia-manufactured-the-peach-state-myth",
-          "source": "Vox",
-          "ts": "2026-03-19T08:00:00-04:00"
-        },
-        {
           "title": "The ragebait candidate who wants to govern Florida",
           "url": "https://www.vox.com/podcasts/483040/james-fishback-florida-governor-groyper-fuentes-racist-antisemitic",
           "source": "Vox",
@@ -180,12 +150,55 @@
           "url": "https://www.vox.com/policy/482933/trump-tariffs-refunds-argentine-penguin",
           "source": "Vox",
           "ts": "2026-03-19T06:00:00-04:00"
+        },
+        {
+          "title": "How people are making millions on the Iran war",
+          "url": "https://www.vox.com/podcasts/483033/polymarket-kalshi-betting-iran-war-assassination-missile-strikes",
+          "source": "Vox",
+          "ts": "2026-03-18T16:30:04-04:00"
+        },
+        {
+          "title": "Democrats move to impeach Pam Bondi after ‘fake’ Jeffrey Epstein briefing – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 12:00:52 GMT"
+        },
+        {
+          "title": "First Thing: Trump threatens to ‘blow up’ all of Iran’s South Pars gasfield if Tehran strikes Qatar",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/first-thing-trump-threatens-to-blow-up-all-of-irans-south-pars-gasfield-if-tehran-strikes-qatar",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 11:23:27 GMT"
+        },
+        {
+          "title": "Jeffrey Epstein’s elite relationships visualised: the banker, the economist and the director",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/19/jeffrey-epsteins-elite-relationships-visualised-the-banker-the-economist-and-the-director",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 11:00:06 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Could Iran war trigger the next global food shock?",
+          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/3/19/could-iran-war-trigger-the-next-global-food-shock?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Mar 2026 11:50:51 +0000"
+        },
+        {
+          "title": "Conflict shifts to ‘energy war’ as Iran targets Gulf oil and gas",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/conflict-shifts-to-energy-war-as-iran-targets-gulf-oil-and-gas?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Mar 2026 11:44:31 +0000"
+        },
+        {
+          "title": "What did Arab and Muslim ministers discuss in Riyadh meeting on Iran?",
+          "url": "https://www.aljazeera.com/news/2026/3/19/what-did-arab-and-muslim-ministers-discuss-in-riyadh-meeting-on-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Mar 2026 11:38:41 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
