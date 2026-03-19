@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T10:25:31.274560Z",
+  "generated_at": "2026-03-19T10:30:31.614277Z",
   "headline": {
     "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
     "url": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Wed, 18 Mar 2026 18:51:07 GMT"
         },
         {
-          "title": "US holds interest rates as Iran war triggers inflation fears",
-          "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 18 Mar 2026 20:20:24 GMT"
-        },
-        {
           "title": "Alberta seeks to set limits on use of medically assisted dying",
           "url": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 18 Mar 2026 23:23:49 GMT"
+        },
+        {
+          "title": "US intelligence chief says Iran's regime 'intact' but 'degraded'",
+          "url": "https://www.bbc.com/news/articles/c1d6dk569w6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 18 Mar 2026 22:18:19 GMT"
         },
         {
           "title": "Trump started a war with no clear end in sight. They rarely end well for presidents",
@@ -111,6 +111,12 @@
           "ts": "Wed, 18 Mar 2026 07:27:36 -0500"
         },
         {
+          "title": "People in Florida can still legally marry their first cousin as bill fails to pass",
+          "url": "https://www.thepinknews.com/2026/03/19/people-in-florida-can-still-legally-marry-their-first-cousin-as-bill-fails-to-pass/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 19 Mar 2026 10:23:48 +0000"
+        },
+        {
           "title": "Piers Morgan clashes with HSTikkyTokky in homophobia row before walking off show",
           "url": "https://www.thepinknews.com/2026/03/19/piers-morgan-clashes-with-hstikkytokky-in-homophobia-row-before-walking-off-show/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -121,18 +127,18 @@
           "url": "https://www.thepinknews.com/2026/03/19/renee-rapp-stops-manchester-gig-after-multiple-incidents-in-crowd/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 19 Mar 2026 09:17:09 +0000"
-        },
-        {
-          "title": "Heated Rivalry season 2 casting call includes details of eight new characters",
-          "url": "https://www.thepinknews.com/2026/03/18/heated-rivalry-season-2-casting-call-includes-details-of-eight-new-characters/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 18 Mar 2026 15:59:10 +0000"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Trump Is Betraying Iran’s Pro-Democracy Protesters",
+          "url": "https://www.theatlantic.com/ideas/2026/03/trump-iran-democracy-protest/686442/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-19T06:00:00-04:00"
+        },
         {
           "title": "The Lesson of Tulsi Gabbard’s Flip-Flop",
           "url": "https://www.theatlantic.com/newsletters/2026/03/tulsi-gabbard-iran-war-trump-cabinet/686456/?utm_source=feed",
@@ -144,12 +150,6 @@
           "url": "https://www.theatlantic.com/technology/2026/03/emanuel-fabian-threats-polymarket/686454/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-18T17:05:46-04:00"
-        },
-        {
-          "title": "Today’s <em>Atlantic</em> Trivia: Remember Lycos? Me Neither.",
-          "url": "https://www.theatlantic.com/trivia/2026/03/18-iran-openai-senate/686451/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-18T16:22:09-04:00"
         },
         {
           "title": "Trump’s tariffs are illegal now. Do I get a refund on this Argentine penguin?",
