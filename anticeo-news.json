@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T17:25:33.418565Z",
+  "generated_at": "2026-03-19T17:30:35.139020Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 19 Mar 2026 06:24:19 -0400"
         },
         {
+          "title": "U.S. Encourages Flow of Iranian Oil While It Battles Iran",
+          "url": "https://www.nytimes.com/2026/03/19/us/politics/iran-oil-sanctions.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Mar 2026 17:25:59 +0000"
+        },
+        {
           "title": "Patel Says F.B.I. Agents Who Worked Mar-a-Lago Case Were Fired for Ethics Violations",
           "url": "https://www.nytimes.com/2026/03/19/us/politics/patel-fbi-mar-a-lago-trump.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/19/us/politics/fbi-retribution-lawsuit.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 19 Mar 2026 16:50:24 +0000"
-        },
-        {
-          "title": "General Says U.S. Boat Strikes Are Not Answer to Country’s Drug Problem",
-          "url": "https://www.nytimes.com/2026/03/19/us/politics/boat-strikes-caribbean.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Mar 2026 16:01:50 +0000"
         },
         {
           "title": "States seek to unmask federal immigration agents -- and their own police",
@@ -161,7 +161,7 @@
           "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 19 Mar 2026 17:18:32 GMT"
+          "ts": "Thu, 19 Mar 2026 17:10:52 GMT"
         },
         {
           "title": "Trump administration is deporting parents without their children in violation of its own policies, report finds",
@@ -185,12 +185,6 @@
           "url": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 19 Mar 2026 16:39:21 +0000"
-        },
-        {
-          "title": "European nations, Japan to join ‘appropriate efforts’ to open Hormuz Strait",
-          "url": "https://www.aljazeera.com/news/2026/3/19/european-nations-japan-to-join-appropriate-efforts-to-open-hormuz-strait?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Mar 2026 16:36:15 +0000"
         }
       ]
     },
