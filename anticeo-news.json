@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T20:40:31.506216Z",
+  "generated_at": "2026-03-19T20:45:34.727673Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 19 Mar 2026 06:48:15 -0400"
         },
         {
+          "title": "Student Loan Office Leaves the Education Department",
+          "url": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Mar 2026 20:36:45 +0000"
+        },
+        {
           "title": "Trump’s Reaction to Israeli Strike on Gas Field Exposes Divergent Strategies",
           "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/19/us/politics/elizabeth-warren-graham-platner-maine-schumer-senate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 19 Mar 2026 19:23:42 +0000"
-        },
-        {
-          "title": "Trump’s Planned White House Screening Center Is Too Big, Arts Panel Says",
-          "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-white-house-visitor-center.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Mar 2026 19:13:09 +0000"
         },
         {
           "title": "From hero to zero: U.S. grapples with how to cancel Cesar Chavez",
