@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T22:10:37.602352Z",
+  "generated_at": "2026-03-19T22:15:32.151760Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 19 Mar 2026 06:48:15 -0400"
         },
         {
+          "title": "Cesar Chavez Avenue May Soon Be Gone. Yet to Be Confronted: His Legacy.",
+          "url": "https://www.nytimes.com/2026/03/19/us/politics/cesar-chavez-memorials-renaming.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Mar 2026 22:12:23 +0000"
+        },
+        {
           "title": "Student Loan Office to Leave the Education Department",
           "url": "https://www.nytimes.com/2026/03/19/us/politics/student-loan-office-education-department.html",
           "source": "NYT > U.S. > Politics",
@@ -54,13 +60,7 @@
           "title": "Trump’s Reaction to Israeli Strike on Gas Field Exposes Divergent Strategies",
           "url": "https://www.nytimes.com/2026/03/19/us/politics/trump-netanyahu-iran-gas-field-attack.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Mar 2026 20:35:46 +0000"
-        },
-        {
-          "title": "Warren Endorses Platner in Maine, Splitting With Schumer",
-          "url": "https://www.nytimes.com/2026/03/19/us/politics/elizabeth-warren-graham-platner-maine-schumer-senate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Mar 2026 22:05:13 +0000"
+          "ts": "Thu, 19 Mar 2026 22:09:48 +0000"
         },
         {
           "title": "Arkansas governor asked to leave restaurant because it made people 'uncomfortable'",
@@ -121,6 +121,24 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Shuttered stores, canceled pilgrimages: Can Bethlehem’s Christians survive another Easter?",
+          "url": "https://religionnews.com/2026/03/19/shuttered-stores-canceled-pilgrimages-can-bethlehems-christians-survive-another-easter/",
+          "source": "RNS",
+          "ts": "Thu, 19 Mar 2026 21:31:37 +0000"
+        },
+        {
+          "title": "From Bush to Obama to Trump, White House faith office persists at 25 years",
+          "url": "https://religionnews.com/2026/03/19/white-house-faith-office-endures-after-25-years-of-gop-democratic-leadership/",
+          "source": "RNS",
+          "ts": "Thu, 19 Mar 2026 21:12:56 +0000"
+        },
+        {
+          "title": "The Divine Art of Music — Event to celebrate 100th anniversary of Paramahansa Yogananda’s devotional chanting in America",
+          "url": "https://religionnews.com/2026/03/19/the-divine-art-of-music-event-to-celebrate-100th-anniversary-of-paramahansa-yoganandas-devotional-chanting-in-america/",
+          "source": "RNS",
+          "ts": "Thu, 19 Mar 2026 19:33:18 +0000"
+        },
         {
           "title": "The IRS Is in Trouble",
           "url": "https://www.theatlantic.com/newsletters/2026/03/irs-trouble-tax-season/686472/?utm_source=feed",
