@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T17:05:32.853850Z",
+  "generated_at": "2026-03-19T17:10:33.093319Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -99,24 +99,6 @@
           "ts": "Thu, 19 Mar 2026 08:48:04 -0500"
         },
         {
-          "title": "The Number of MAGA Fractures Is Growing",
-          "url": "https://www.politico.com/news/magazine/2026/03/19/trump-maga-coalition-fractures-00833990",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "‘What is he doing?’: New threats emerge for Trump’s economy as war drags on",
-          "url": "https://www.politico.com/news/2026/03/19/threats-trump-economy-iran-war-inflation-fed-00833425",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 04:00:00 EST"
-        },
-        {
-          "title": "Congress braces for $200B Iran war request",
-          "url": "https://www.politico.com/news/2026/03/19/congress-braces-for-200b-iran-war-request-00835914",
-          "source": "Politics, Policy, Political News Top Stories",
-          "ts": "Thu, 19 Mar 2026 10:28:39 EST"
-        },
-        {
           "title": "Man sentenced after defrauding gay men on dating apps for over £28,000",
           "url": "https://www.thepinknews.com/2026/03/19/man-sentenced-after-defrauding-gay-men-on-dating-apps-for-over-28000/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -140,6 +122,12 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "How Long Is 15 Minutes of Fame, Really?",
+          "url": "https://www.theatlantic.com/newsletters/2026/03/celebrity-fame-longer/686461/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-03-19T12:45:00-04:00"
+        },
+        {
           "title": "There’s No Way the West Will Have a Normal Summer",
           "url": "https://www.theatlantic.com/science/2026/03/west-heat-wave/686457/?utm_source=feed",
           "source": "The Atlantic",
@@ -150,12 +138,6 @@
           "url": "https://www.theatlantic.com/family/2026/03/micro-cheater-dating-trend/686443/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-03-19T10:41:36-04:00"
-        },
-        {
-          "title": "Are They Still Your Friends if You Never See Them?",
-          "url": "https://www.theatlantic.com/ideas/2026/03/friendship-dads/686415/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-03-19T08:00:00-04:00"
         },
         {
           "title": "How Georgia manufactured the Peach State myth",
@@ -174,12 +156,43 @@
           "url": "https://www.vox.com/policy/482933/trump-tariffs-refunds-argentine-penguin",
           "source": "Vox",
           "ts": "2026-03-19T06:00:00-04:00"
+        },
+        {
+          "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 16:55:22 GMT"
+        },
+        {
+          "title": "Historic March heatwave pushes south-west US toward triple digits",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/march-heatwave-weather-us",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 16:49:18 GMT"
+        },
+        {
+          "title": "No timeframe for ending US war against Iran, says Pete Hegseth",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/pete-hegseth-iran-war",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 15:02:07 GMT"
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Iran attacks cut 17% of Qatar’s LNG capacity for up to 5 years: QatarEnergy",
+          "url": "https://www.aljazeera.com/news/2026/3/19/iran-attacks-cut-17-of-qatars-lng-capacity-for-up-to-5-years-qatarenergy?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Mar 2026 16:39:21 +0000"
+        },
+        {
+          "title": "European nations, Japan to join ‘appropriate efforts’ to open Hormuz Strait",
+          "url": "https://www.aljazeera.com/news/2026/3/19/european-nations-japan-to-join-appropriate-efforts-to-open-hormuz-strait?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Mar 2026 16:36:15 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
