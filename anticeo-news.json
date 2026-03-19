@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T04:15:30.480490Z",
+  "generated_at": "2026-03-19T04:20:32.613984Z",
   "headline": {
     "title": "Five takeaways from Markwayne Mullin's Homeland Security confirmation hearing",
     "url": "https://www.bbc.com/news/articles/c2k8kp7d832o?at_medium=RSS&at_campaign=rss"
@@ -134,6 +134,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "In New York, fear of ICE raids casts shadow over Ramadan for West African Muslims",
+          "url": "https://religionnews.com/2026/03/18/in-new-york-fear-of-ice-raids-casts-shadow-over-ramadan-for-west-african-muslims/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 22:34:29 +0000"
+        },
+        {
+          "title": "‘We,’ not ‘I’: An Ohio archbishop called Catholics to talk their way to consensus",
+          "url": "https://religionnews.com/2026/03/18/we-not-i-an-ohio-archbishop-called-catholics-to-talk-their-way-to-consensus/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 21:11:39 +0000"
+        },
+        {
+          "title": "Pope Leo XIV’s African visit a journey to the margins — and the heart of Christianity",
+          "url": "https://religionnews.com/2026/03/18/pope-leo-xivs-african-visit-a-rare-journey-to-those-in-the-margins/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 20:03:24 +0000"
+        },
+        {
           "title": "The Lesson of Tulsi Gabbard’s Flip-Flop",
           "url": "https://www.theatlantic.com/newsletters/2026/03/tulsi-gabbard-iran-war-trump-cabinet/686456/?utm_source=feed",
           "source": "The Atlantic",
@@ -170,6 +188,12 @@
           "ts": "2026-03-18T06:30:00-04:00"
         },
         {
+          "title": "‘Criminal’ or ‘kids throwing snowballs’? How a viral snow fight provoked Mamdani’s schism with NYPD",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/snowball-fight-mamdani-nypd",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 04:00:57 GMT"
+        },
+        {
           "title": "FBI probing US counter-terrorism chief who resigned over Iran war, reports say",
           "url": "https://www.theguardian.com/us-news/2026/mar/19/fbi-probing-counterterrorism-official-who-resigned-over-iran-war-reports-say",
           "source": "US news | The Guardian",
@@ -180,12 +204,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/mar/18/donald-trump-iran-war-markwayne-mullin-security-immigration-intelligence-federal-reserve-interest-rates-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 19 Mar 2026 02:09:00 GMT"
-        },
-        {
-          "title": "New York high school student released after 10 months in ICE facility",
-          "url": "https://www.theguardian.com/us-news/2026/mar/18/new-york-high-school-student-released-ice",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 19 Mar 2026 01:32:31 GMT"
         }
       ]
     },
