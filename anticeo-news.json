@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T19:10:30.888724Z",
+  "generated_at": "2026-03-19T19:15:32.031337Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -158,6 +158,12 @@
           "ts": "2026-03-19T06:00:00-04:00"
         },
         {
+          "title": "Strike on Iran gas field exposes US-Israel rift as Trump claims he did not know",
+          "url": "https://www.theguardian.com/us-news/2026/mar/19/israeli-strike-iranian-gas-field-trump",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Mar 2026 18:59:50 GMT"
+        },
+        {
           "title": "Trump confirms he will ask Congress for $200bn to fund war on Iran, calling it ‘a small price to pay’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
@@ -168,12 +174,6 @@
           "url": "https://www.theguardian.com/us-news/2026/mar/19/joseph-duggar-arrested-child-molestation-charges",
           "source": "US news | The Guardian",
           "ts": "Thu, 19 Mar 2026 17:39:36 GMT"
-        },
-        {
-          "title": "California moves to rename Cesar Chavez Day after recent sexual abuse allegations",
-          "url": "https://www.theguardian.com/us-news/2026/mar/19/california-rename-cesar-chavez-day",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 19 Mar 2026 17:39:27 GMT"
         }
       ]
     },
