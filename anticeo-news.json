@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T14:20:31.420022Z",
+  "generated_at": "2026-03-19T14:25:33.477978Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Thu, 19 Mar 2026 06:24:19 -0400"
         },
         {
+          "title": "What to Know About Section 702, the Controversial Warrantless Surveillance Law",
+          "url": "https://www.nytimes.com/article/section-702-surveillance-law.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Mar 2026 14:14:39 +0000"
+        },
+        {
           "title": "Attacks on Energy Infrastructure Could Lead to Much Higher Prices",
           "url": "https://www.nytimes.com/2026/03/19/business/energy-environment/iran-oil-natural-gas-attacks.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/03/19/us/politics/markwayne-mullin-dhs.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 19 Mar 2026 13:42:04 +0000"
-        },
-        {
-          "title": "Elon Musk Whips Up Frenzy Against John Thune Over SAVE America Act",
-          "url": "https://www.nytimes.com/2026/03/19/us/politics/elon-musk-john-thune-save-america-act.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Mar 2026 09:03:34 +0000"
         },
         {
           "title": "Japanese Prime Minister Sanae Takaichi to meet with Trump under shadow of Iran war",
@@ -158,7 +158,7 @@
           "ts": "2026-03-19T06:00:00-04:00"
         },
         {
-          "title": "Democrats move to impeach Pam Bondi after ‘fake’ Jeffrey Epstein briefing – US politics live",
+          "title": "Senate committee approves Trump nominee Markwayne Mullin to lead DHS, heads for full vote – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 19 Mar 2026 14:00:06 GMT"
@@ -191,12 +191,6 @@
           "url": "https://www.aljazeera.com/news/2026/3/19/drone-attack-from-sudan-kills-17-in-chad-as-conflict-spills-over?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 19 Mar 2026 13:30:14 +0000"
-        },
-        {
-          "title": "China’s silence on Iran reveals its true priorities",
-          "url": "https://www.aljazeera.com/opinions/2026/3/19/chinas-silence-on-iran-reveals-its-true-priorities?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Mar 2026 13:05:30 +0000"
         }
       ]
     },
