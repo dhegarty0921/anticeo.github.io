@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T15:50:32.435225Z",
+  "generated_at": "2026-03-19T15:55:33.356152Z",
   "headline": {
     "title": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
     "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss"
@@ -15,16 +15,16 @@
           "ts": "Thu, 19 Mar 2026 10:37:36 GMT"
         },
         {
+          "title": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+          "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 19 Mar 2026 14:07:28 GMT"
+        },
+        {
           "title": "Japan PM to hold 'difficult' talks with Trump as Iran conflict looms large",
           "url": "https://www.bbc.com/news/articles/cde4e2xyelpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 19 Mar 2026 10:30:42 GMT"
-        },
-        {
-          "title": "Alberta seeks to set limits on use of medically assisted dying",
-          "url": "https://www.bbc.com/news/articles/c8d5d54glreo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 18 Mar 2026 23:23:49 GMT"
         },
         {
           "title": "The SAVE Act faces long odds in the Senate. GOP-led states are picking up the cause",
@@ -122,6 +122,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Vatican to host global summit on marriage, family in October",
+          "url": "https://religionnews.com/2026/03/19/vatican-to-host-global-summit-on-marriage-family-in-october/",
+          "source": "RNS",
+          "ts": "Thu, 19 Mar 2026 15:54:03 +0000"
+        },
+        {
+          "title": "Something Is Happening … But Is It a Revival?",
+          "url": "https://religionnews.com/2026/03/19/something-is-happening-but-is-it-a-revival/",
+          "source": "RNS",
+          "ts": "Thu, 19 Mar 2026 09:30:41 +0000"
+        },
+        {
+          "title": "In New York, fear of ICE raids casts shadow over Ramadan for West African Muslims",
+          "url": "https://religionnews.com/2026/03/18/in-new-york-fear-of-ice-raids-casts-shadow-over-ramadan-for-west-african-muslims/",
+          "source": "RNS",
+          "ts": "Wed, 18 Mar 2026 22:34:29 +0000"
+        },
+        {
           "title": "The West Is Roasting",
           "url": "https://www.theatlantic.com/science/2026/03/west-heat-wave/686457/?utm_source=feed",
           "source": "The Atlantic",
@@ -161,7 +179,7 @@
           "title": "Senate committee approves Trump nominee Markwayne Mullin to lead DHS, heads for full vote – live",
           "url": "https://www.theguardian.com/us-news/live/2026/mar/19/donald-trump-iran-bondi-epstein-mullin-japan-takaichi-save-voter-id-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 19 Mar 2026 15:21:14 GMT"
+          "ts": "Thu, 19 Mar 2026 15:48:40 GMT"
         },
         {
           "title": "No timeframe for ending US war against Iran, says Pete Hegseth",
@@ -179,14 +197,7 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": [
-        {
-          "title": "Child among survivors pulled from rubble of US-Israeli attack in Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/3/19/child-among-survivors-pulled-from-rubble-of-us-israeli-attack-in-iran?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Mar 2026 13:31:10 +0000"
-        }
-      ]
+      "items": []
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
