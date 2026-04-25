@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T14:35:30.786922Z",
+  "generated_at": "2026-04-25T14:40:32.241484Z",
   "headline": {
     "title": "US justice department drops probe into Fed chairman Jerome Powell",
     "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
@@ -128,24 +128,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Canterbury archbishop to visit pope, a milestone for churches split on women clergy",
-          "url": "https://religionnews.com/2026/04/24/canterbury-archbishop-to-visit-pope-a-milestone-for-churches-split-on-women-clergy/",
-          "source": "RNS",
-          "ts": "Fri, 24 Apr 2026 20:37:38 +0000"
-        },
-        {
-          "title": "Worship attendance at churches up for the first time in decades, according to new report",
-          "url": "https://religionnews.com/2026/04/24/worship-attendance-at-churches-up-for-the-first-time-in-decades-according-to-new-report/",
-          "source": "RNS",
-          "ts": "Fri, 24 Apr 2026 20:37:37 +0000"
-        },
-        {
-          "title": "Two new books reveal secrets, alliances behind Pope Leo’s election",
-          "url": "https://religionnews.com/2026/04/24/two-new-books-reveal-secrets-alliances-behind-pope-leos-election/",
-          "source": "RNS",
-          "ts": "Fri, 24 Apr 2026 18:32:08 +0000"
-        },
-        {
           "title": "The U.K. Smoking Ban Is Illiberal",
           "url": "https://www.theatlantic.com/ideas/2026/04/case-against-uk-smoking-ban/686949/?utm_source=feed",
           "source": "The Atlantic",
@@ -203,7 +185,14 @@
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
-      "items": []
+      "items": [
+        {
+          "title": "Israeli attacks kill four in southern Lebanon",
+          "url": "https://www.aljazeera.com/news/2026/4/25/israeli-strikes-kill-four-in-southern-lebanon?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 25 Apr 2026 13:25:30 +0000"
+        }
+      ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
