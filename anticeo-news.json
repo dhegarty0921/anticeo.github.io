@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T16:00:32.157878Z",
+  "generated_at": "2026-04-25T16:05:34.315634Z",
   "headline": {
     "title": "US justice department drops probe into Fed chairman Jerome Powell",
     "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
@@ -45,6 +45,12 @@
           "ts": "Sat, 25 Apr 2026 05:00:00 -0400"
         },
         {
+          "title": "Trump to Dine With Reporters He’s Been Roasting All Week",
+          "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-to-dine-with-reporters-hes-been-roasting-all-week.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sat, 25 Apr 2026 16:00:02 +0000"
+        },
+        {
           "title": "Trump Seeks to Abolish Iran’s Nuclear Stockpile, a Problem He Helped Create",
           "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
           "source": "NYT > U.S. > Politics",
@@ -55,12 +61,6 @@
           "url": "https://www.nytimes.com/2026/04/25/us/politics/tennessee-immigration-bills-what-to-know.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 25 Apr 2026 09:02:45 +0000"
-        },
-        {
-          "title": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
-          "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 25 Apr 2026 09:02:36 +0000"
         },
         {
           "title": "Immigration court rules DACA is no longer an automatic block to deporting 'Dreamers'",
