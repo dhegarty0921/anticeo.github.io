@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:53:06.576159Z",
+  "generated_at": "2026-10-06T19:03:44.271331Z",
   "headline": {
     "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
     "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss"
@@ -21,16 +21,10 @@
           "ts": "Tue, 06 Oct 2026 07:19:25 -0400"
         },
         {
-          "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles?",
+          "title": "What, Exactly, Did Trump Say About Iran Taking Out Los Angeles and San Diego?",
           "url": "https://www.nytimes.com/2026/10/06/us/politics/trump-iran-take-out-los-angeles.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 06 Oct 2026 18:48:24 +0000"
-        },
-        {
-          "title": "ABC and Trump's FCC battle in federal court over issues of free speech and jurisdiction",
-          "url": "https://www.washingtontimes.com/news/2026/oct/6/abc-trumps-fcc-battle-federal-court-issues-free-speech-jurisdiction/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 06 Oct 2026 14:14:46 -0400"
         },
         {
           "title": "Red Tide Goes Out--With a Blue Splashback",
@@ -51,10 +45,16 @@
           "ts": "Tue, 06 Oct 2026 13:26:16 +0000"
         },
         {
-          "title": "Watch: At the scene of student protests in Lille",
-          "url": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
+          "title": "Objections to conscription triple in Germany – media",
+          "url": "https://www.rt.com/news/646819-objections-to-conscription-triple-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "source": "RT - Daily news",
+          "ts": "Tue, 06 Oct 2026 17:34:45 +0000"
+        },
+        {
+          "title": "Tear gas in Paris and Marseille as school protests grow across France",
+          "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Tue, 06 Oct 2026 15:02:56 GMT"
+          "ts": "Tue, 06 Oct 2026 18:03:19 GMT"
         },
         {
           "title": "Cornell names former acting U.S. attorney general to review rape case",
@@ -81,12 +81,6 @@
           "ts": "Tue, 06 Oct 2026 17:58:14 +0000"
         },
         {
-          "title": "Attorneys for former Olympian ask federal watchdog to review Lincoln Memorial Reflecting Pool case",
-          "url": "https://www.washingtontimes.com/news/2026/oct/6/david-hearn-attorneys-ask-federal-watchdog-review-lincoln-memorial/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 06 Oct 2026 13:17:50 -0400"
-        },
-        {
           "title": "Latin American Left Losing Since USAID Dismantled",
           "url": "https://www.realclearpolitics.com/articles/2026/10/06/latin_americas_many_trumps_154565.html",
           "source": "RealClearPolitics - Homepage",
@@ -111,16 +105,16 @@
           "ts": "Mon, 05 Oct 2026 15:14:05 +0000"
         },
         {
+          "title": "Putin clears UniCredit sale in Russia",
+          "url": "https://www.rt.com/business/646798-putin-unicredit-russia-sale/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "source": "RT - Daily news",
+          "ts": "Tue, 06 Oct 2026 17:15:21 +0000"
+        },
+        {
           "title": "Wrongly Indicted Man Seeks Inquiry of Official Conduct in Reflecting Pool Case",
           "url": "https://www.nytimes.com/2026/10/06/us/politics/reflecting-pool-vandalism-case.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 06 Oct 2026 16:38:14 +0000"
-        },
-        {
-          "title": "Trump-led GOP intensifies support for Graham in volatile South Carolina race",
-          "url": "https://www.washingtontimes.com/news/2026/oct/6/trump-led-gop-intensifies-support-graham-volatile-south-carolina-race/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 06 Oct 2026 12:51:18 -0400"
         },
         {
           "title": "Ramaswamy's Heavy Lift in Ohio",
@@ -139,6 +133,12 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-offers-exclusive-dinner-meme-coin-crypto-investors-1235635558/",
           "source": "Politics News",
           "ts": "Thu, 01 Oct 2026 21:24:48 +0000"
+        },
+        {
+          "title": "Ovechkin retires: The NHL record-breaker who never turned his back on Russia (PHOTOS, VIDEOS)",
+          "url": "https://www.rt.com/news/646788-who-is-hockey-star-ovechkin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+          "source": "RT World News",
+          "ts": "Tue, 06 Oct 2026 16:48:33 +0000"
         },
         {
           "title": "Big Brother house erupts as face-to-face nominations expose true feelings",
@@ -179,7 +179,7 @@
           "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 06 Oct 2026 18:41:59 GMT"
+          "ts": "Tue, 06 Oct 2026 18:51:38 GMT"
         },
         {
           "title": "What We Really Know About the Russian ‘Plague’ Case",
