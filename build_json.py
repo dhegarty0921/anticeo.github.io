@@ -108,6 +108,7 @@ if NDJSON.exists():
             "url": u,
             "source": rec.get("source") or h or "",
             "ts": rec.get("ts") or _nowz(),
+            "section": rec.get("section") or "",
         })
 
 # ---------- Dedupe, classify, cap ----------
@@ -115,7 +116,7 @@ items = dedupe_by_url(items)
 
 sections_map = {t: [] for t in ORDER}
 for it in items:
-    bucket = classify(it.get("title",""), it.get("url",""))
+    bucket = it.get("section") or classify(it.get("title",""), it.get("url",""))
     sections_map.setdefault(bucket, []).append(it)
 
 sections = []
