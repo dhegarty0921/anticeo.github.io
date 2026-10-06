@@ -1,0 +1,54 @@
+name: Crawl feeds and update news
+
+on:
+  schedule:
+    # every 15 minutes; change to '*/5 * * * *' if you want the old 5-min cadence
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write   # to commit anticeo-news.json
+  pages: write      # to deploy the site (GITHUB_TOKEN pushes don't retrigger pages.yml)
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  crawl-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser pyyaml
+
+      - name: Crawl feeds
+        run: python3 crawl_rss.py
+
+      - name: Build news JSON
+        run: python3 build_json.py
+
+      - name: Commit updated news
+        run: |
+          git config user.name "ANTICEO Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add anticeo-news.json
+          git diff --cached --quiet || git commit -m "update: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

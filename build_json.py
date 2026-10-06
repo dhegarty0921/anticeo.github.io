@@ -22,7 +22,7 @@ except Exception:
 
 # ---------- Helpers ----------
 def _nowz() -> str:
-    return datetime.datetime.utcnow().isoformat() + "Z"
+    return datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z")
 
 def _host(u: str) -> str:
     h = (urlparse(u or "").hostname or "").lower()
