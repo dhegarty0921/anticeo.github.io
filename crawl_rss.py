@@ -9,8 +9,9 @@ src = yaml.safe_load(pathlib.Path("sources.yml").read_text(encoding="utf-8"))
 # (The old code concatenated feeds in order and truncated at 200, which
 # starved every feed after the first ~4 and left two sections permanently empty.)
 per_feed = []
+HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"}
 for url in src.get("feeds", []):
-    d = feedparser.parse(url)
+    d = feedparser.parse(url, request_headers=HEADERS)
     feed_items = []
     for e in d.entries[:50]:
         title = e.get("title") or "(untitled)"
