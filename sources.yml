@@ -38,6 +38,7 @@ feeds:
   - https://www.rollingstone.com/politics/politics-news/feed/ # investigations/FOIA/natsec stories appear
   - https://www.aclu.org/news/feed
   - https://unlimitedhangout.com/feed/ # Unlimited Hangout (investigative/natsec)
+  - https://www.dropsitenews.com/feed/ # Drop Site News (investigative)
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://feeds.bbci.co.uk/news/rss.xml
