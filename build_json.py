@@ -69,10 +69,10 @@ RULES = [
      "domains":["religionnews.com","pinknews.co.uk","vox.com","nationalreview.com","theatlantic.com","theguardian.com","tabletmag.com","christianitytoday.com"],
      "any":["lgbt","trans","religion","church","faith","dei","campus","pronoun","abortion","book ban","school board","drag","culture war","race","crt"]},
     {"title":"MILITARY INDUSTRIAL COMPLEX",
-     "domains":["defenseone.com","thedrive.com","warontherocks.com","navalnews.com","armytimes.com","aljazeera.com","reuters.com","dw.com","antiwar.com","quincyinst.org","scheerpost.com","venezuelanalysis.com"],
+     "domains":["defenseone.com","thedrive.com","warontherocks.com","navalnews.com","armytimes.com","aljazeera.com","reuters.com","dw.com","antiwar.com","quincyinst.org","scheerpost.com","venezuelanalysis.com","mintpressnews.com"],
      "any":["israel","gaza","palestin","ukraine","nato","pentagon","defense","weapons","missile","airstrike","drone","war","military","army","navy","marines","iran","yemen","hezbollah","taiwan","venezuela"]},
     {"title":"PARA POLITICAL INTRIGUE",
-     "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","aclu.org","theintercept.com","scheerpost.com"],
+     "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","aclu.org","theintercept.com","scheerpost.com","unlimitedhangout.com"],
      "any":["cia","fbi","nsa","surveillance","whistleblower","leak","foia","spy","informant","homeland security","doj","dhs","patriot act","9/11","oklahoma city","okc bombing"]}
 ]
 ORDER = [r["title"] for r in RULES]

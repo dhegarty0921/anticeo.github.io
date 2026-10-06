@@ -33,6 +33,7 @@ feeds:
   - https://quincyinst.org/program-areas/democratizing-foreign-policy/
   - https://scheerpost.com/category/military/
   - https://venezuelanalysis.com/category/news/
+  - https://www.mintpressnews.com/feed/ # MintPress News (war/foreign policy)
 
  # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
   - https://www.unz.com/xfeed/rss/ # The Unz Review - all items
@@ -48,6 +49,7 @@ feeds:
   - https://www.rt.com/rss/news/
   - https://wikispooks.com/w/index.php?title=Main_Page&oldid=307868
   - https://headlineusa.com/
+  - https://unlimitedhangout.com/feed/ # Unlimited Hangout (investigative/natsec)
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://feeds.bbci.co.uk/news/rss.xml
