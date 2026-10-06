@@ -28,6 +28,7 @@ feeds:
   - https://scheerpost.com/category/military/feed/
   - https://venezuelanalysis.com/feed/
   - https://www.mintpressnews.com/feed/ # MintPress News (war/foreign policy)
+  - https://electronicintifada.net/rss.xml # Electronic Intifada (Palestine/Israel)
 
  # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
   - https://www.unz.com/xfeed/rss/
