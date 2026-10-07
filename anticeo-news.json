@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:03:18.893511Z",
+  "generated_at": "2026-10-07T17:12:58.835293Z",
   "headline": {
     "title": "Canada suspends plans to expand assisted dying to people with mental illness",
     "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
@@ -48,6 +48,13 @@
           "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 07 Oct 2026 14:33:11 GMT",
+          "section": ""
+        },
+        {
+          "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
+          "url": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 07 Oct 2026 12:55:19 -0400",
           "section": ""
         },
         {
@@ -104,13 +111,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-suggests-letting-iran-take-out-la-san-diego-1235637433/",
           "source": "Politics News",
           "ts": "Tue, 06 Oct 2026 13:26:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gut microbes followed migrating humans across continents, new study suggests",
-          "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
-          "source": "NPR Topics: News",
-          "ts": "Wed, 07 Oct 2026 11:00:47 -0400",
           "section": ""
         },
         {
@@ -231,10 +231,10 @@
           "section": ""
         },
         {
-          "title": "Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio",
-          "url": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
+          "title": "Republican Ken Paxton reportedly blames Iran war and high gas prices for campaign struggles as Trump heads to Texas – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 16:36:34 GMT",
+          "ts": "Wed, 07 Oct 2026 16:59:13 GMT",
           "section": ""
         },
         {
@@ -273,10 +273,10 @@
           "section": ""
         },
         {
-          "title": "Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates",
+          "title": "Christa Pike’s lawyer says she is speaking ‘limitedly’ after botched execution attempt – latest updates",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/07/christa-pike-lawyers-live-updates-tennessee-execution",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 16:33:54 GMT",
+          "ts": "Wed, 07 Oct 2026 16:57:21 GMT",
           "section": ""
         },
         {
@@ -315,10 +315,10 @@
           "section": ""
         },
         {
-          "title": "Republican Ken Paxton reportedly blames Iran war and high gas prices for campaign struggles as Trump heads to Texas – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+          "title": "Paxton admits Trump’s Iran war and US gas prices are plaguing Republicans in leaked audio",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/ken-paxton-trumps-iran-war-gas-prices-republicans",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 16:19:32 GMT",
+          "ts": "Wed, 07 Oct 2026 16:36:34 GMT",
           "section": ""
         }
       ]
