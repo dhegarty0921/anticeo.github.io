@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:48:30.945001Z",
+  "generated_at": "2026-10-07T20:06:18.959636Z",
   "headline": {
     "title": "Canada suspends plans to expand assisted dying to people with mental illness",
     "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss"
@@ -26,7 +26,7 @@
           "title": "A Public Health-Minded Senator Asks: What Comes After Trump and Kennedy?",
           "url": "https://www.nytimes.com/2026/10/07/us/politics/patty-murray-public-health.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 07 Oct 2026 19:36:35 +0000",
+          "ts": "Wed, 07 Oct 2026 19:59:10 +0000",
           "section": ""
         },
         {
@@ -48,6 +48,13 @@
           "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 07 Oct 2026 14:33:11 GMT",
+          "section": ""
+        },
+        {
+          "title": "This surprising mammal fossil is giving scientists something to chew on",
+          "url": "https://www.npr.org/2026/10/07/nx-s1-5991361/fossil-mammal-platypus-chew-swallow-suckle-earliest",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 07 Oct 2026 15:59:16 -0400",
           "section": ""
         },
         {
@@ -100,13 +107,6 @@
           "section": ""
         },
         {
-          "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
-          "url": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
-          "source": "NPR Topics: News",
-          "ts": "Wed, 07 Oct 2026 14:00:31 -0400",
-          "section": ""
-        },
-        {
           "title": "Dewsbury campaigners urge Reform council to reopen vital sports centre",
           "url": "https://www.thecanary.co/uk/2026/10/07/dewsbury-sports-centre-oct-2026/",
           "source": "Canary",
@@ -156,10 +156,10 @@
           "section": ""
         },
         {
-          "title": "Lithuania Moves To Lift Nuclear Weapons Ban as Trump Considers Permanent US Base",
-          "url": "https://news.antiwar.com/2026/10/06/lithuania-moves-to-lift-nuclear-weapons-ban-as-trump-considers-permanent-us-base/?utm_source=rss&utm_medium=rss&utm_campaign=lithuania-moves-to-lift-nuclear-weapons-ban-as-trump-considers-permanent-us-base",
-          "source": "News From Antiwar.com",
-          "ts": "Tue, 06 Oct 2026 20:01:55 +0000",
+          "title": "Trump Says Iran Could “Take Out” American Cities",
+          "url": "https://www.youtube.com/watch?v=XNPkvoU3MQQ",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Tue, 06 Oct 2026 19:48:32 +0000",
           "section": ""
         },
         {
@@ -181,6 +181,13 @@
           "url": "https://www.thecanary.co/skwawkbox/2026/10/07/guardian-data-story-wrong/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 09:28:25 +0000",
+          "section": ""
+        },
+        {
+          "title": "Lithuania Moves To Lift Nuclear Weapons Ban as Trump Considers Permanent US Base",
+          "url": "https://news.antiwar.com/2026/10/06/lithuania-moves-to-lift-nuclear-weapons-ban-as-trump-considers-permanent-us-base/?utm_source=rss&utm_medium=rss&utm_campaign=lithuania-moves-to-lift-nuclear-weapons-ban-as-trump-considers-permanent-us-base",
+          "source": "News From Antiwar.com",
+          "ts": "Tue, 06 Oct 2026 20:01:55 +0000",
           "section": ""
         },
         {
@@ -231,10 +238,10 @@
           "section": ""
         },
         {
-          "title": "Trump says he has ‘no regrets’ about endorsing Texas Republican Ken Paxton amid leaked recordings – live",
+          "title": "Trump heads to Texas as Republican midterms woes deepen – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 19:35:30 GMT",
+          "ts": "Wed, 07 Oct 2026 19:51:03 GMT",
           "section": ""
         },
         {
@@ -273,10 +280,10 @@
           "section": ""
         },
         {
-          "title": "Hegseth tells USS Lincoln sailors controversial deployment ‘wasn’t easy’",
-          "url": "https://www.theguardian.com/us-news/2026/oct/07/pete-hegseth-uss-abraham-lincoln",
+          "title": "EU drops sponsorship of disinformation conference at Trump officials’ request",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-eu-disinformation-conference",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 19:32:50 GMT",
+          "ts": "Wed, 07 Oct 2026 19:38:24 GMT",
           "section": ""
         },
         {
@@ -315,10 +322,10 @@
           "section": ""
         },
         {
-          "title": "Christa Pike severely unwell, ‘angry and confused’, says lawyer, after judge orders all execution evidence preserved – latest",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/07/christa-pike-lawyers-live-updates-tennessee-execution",
+          "title": "Hegseth tells USS Lincoln sailors controversial deployment ‘wasn’t easy’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/pete-hegseth-uss-abraham-lincoln",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 19:24:24 GMT",
+          "ts": "Wed, 07 Oct 2026 19:32:50 GMT",
           "section": ""
         }
       ]
@@ -334,17 +341,17 @@
           "section": ""
         },
         {
-          "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
-          "url": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
+          "title": "Former Catholic bishop sentenced for abusing indigenous men in Australia",
+          "url": "https://www.aljazeera.com/news/2026/10/7/former-catholic-bishop-sentenced-for-abusing-indigenous-men-in-australia?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 07 Oct 2026 18:57:18 +0000",
+          "ts": "Wed, 07 Oct 2026 19:57:14 +0000",
           "section": ""
         },
         {
-          "title": "Report Details 81 US Aircraft Lost or Damaged in Iran War",
-          "url": "https://news.antiwar.com/2026/10/07/report-details-81-us-aircraft-lost-or-damaged-in-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=report-details-81-us-aircraft-lost-or-damaged-in-iran-war",
+          "title": "Israeli Forces Shoot and Wound Another Civilian in Southwest Syria",
+          "url": "https://news.antiwar.com/2026/10/07/israeli-forces-shoot-and-wound-another-civilian-in-southwest-syria/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-forces-shoot-and-wound-another-civilian-in-southwest-syria",
           "source": "News From Antiwar.com",
-          "ts": "Wed, 07 Oct 2026 19:05:47 +0000",
+          "ts": "Wed, 07 Oct 2026 19:52:58 +0000",
           "section": ""
         },
         {
@@ -418,17 +425,17 @@
           "section": ""
         },
         {
-          "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
-          "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
+          "title": "Indian opposition leader Rahul Gandhi detained over election chief protest",
+          "url": "https://www.aljazeera.com/news/2026/10/7/indian-opposition-leader-rahul-gandhi-detained-over-election-chief-protest?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 07 Oct 2026 18:43:47 +0000",
+          "ts": "Wed, 07 Oct 2026 19:40:07 +0000",
           "section": ""
         },
         {
-          "title": "Israeli Strikes in Gaza Kill at Least Four Palestinians as Relentless Attacks Continue",
-          "url": "https://news.antiwar.com/2026/10/07/israeli-strikes-in-gaza-kill-at-least-four-palestinians-as-relentless-attacks-continue/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-strikes-in-gaza-kill-at-least-four-palestinians-as-relentless-attacks-continue",
+          "title": "Report Details 81 US Aircraft Lost or Damaged in Iran War",
+          "url": "https://news.antiwar.com/2026/10/07/report-details-81-us-aircraft-lost-or-damaged-in-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=report-details-81-us-aircraft-lost-or-damaged-in-iran-war",
           "source": "News From Antiwar.com",
-          "ts": "Wed, 07 Oct 2026 17:52:43 +0000",
+          "ts": "Wed, 07 Oct 2026 19:05:47 +0000",
           "section": ""
         },
         {
@@ -502,10 +509,10 @@
           "section": ""
         },
         {
-          "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+          "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
+          "url": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 07 Oct 2026 18:32:08 +0000",
+          "ts": "Wed, 07 Oct 2026 18:57:18 +0000",
           "section": ""
         },
         {
@@ -569,13 +576,6 @@
           "url": "https://www.972mag.com/israel-ai-chatbots-influence/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Tue, 06 Oct 2026 19:42:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Can the U.S. Collapse Iran’s Economy?",
-          "url": "https://www.youtube.com/watch?v=sZZTI_oSzmM",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 06 Oct 2026 13:56:55 +0000",
           "section": ""
         }
       ]
