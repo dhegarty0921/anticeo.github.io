@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T21:38:13.486045Z",
+  "generated_at": "2026-10-07T21:50:04.189928Z",
   "headline": {
     "title": "What happens next to Christa Pike?",
     "url": "https://www.bbc.co.uk/news/articles/cxvgd65m735mo?at_medium=RSS&at_campaign=rss"
@@ -196,7 +196,14 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Race to Secure the Internet Is On",
+          "title": "For the first time, a Catholic archbishop sues Trump over access to immigrant detainees",
+          "url": "https://religionnews.com/2026/10/07/st-louis-archbishop-files-lawsuit-against-trump-administration/",
+          "source": "RNS",
+          "ts": "Wed, 07 Oct 2026 20:40:46 +0000",
+          "section": ""
+        },
+        {
+          "title": "How Long Until AI Hacks Everything?",
           "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-cybersecurity-race/688911/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-07T16:59:07-04:00",
@@ -210,10 +217,10 @@
           "section": ""
         },
         {
-          "title": "There’s a silver lining to your unhappiness",
-          "url": "https://www.vox.com/future-perfect/505391/opposite-of-happiness-loewenstein",
+          "title": "How October 7 changed everything",
+          "url": "https://www.vox.com/today-explained-newsletter/505337/october-7-attack-anniversary",
           "source": "Vox",
-          "ts": "2026-10-07T10:45:00-04:00",
+          "ts": "2026-10-07T17:30:00-04:00",
           "section": ""
         },
         {
@@ -224,10 +231,17 @@
           "section": ""
         },
         {
-          "title": "Trump heads to Texas as Republican midterms woes deepen – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+          "title": "Christa Pike ‘angry, confused’ and unable to move arms after failed execution, lawyers say",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/christa-pike-botched-execution-evidence-judge",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 21:22:36 GMT",
+          "ts": "Wed, 07 Oct 2026 21:34:04 GMT",
+          "section": ""
+        },
+        {
+          "title": "Pope Leo urges church to accompany fragile families, continuing Francis’ legacy",
+          "url": "https://religionnews.com/2026/10/07/pope-leo-urges-church-to-accompany-fragile-families-continuing-francis-legacy/",
+          "source": "RNS",
+          "ts": "Wed, 07 Oct 2026 20:25:22 +0000",
           "section": ""
         },
         {
@@ -245,10 +259,10 @@
           "section": ""
         },
         {
-          "title": "Big AI has a problem on the right. It starts in Florida.",
-          "url": "https://www.vox.com/politics/505319/ron-desantis-ai-james-uthmeier-openai-lawsuit",
+          "title": "There’s a silver lining to your unhappiness",
+          "url": "https://www.vox.com/future-perfect/505391/opposite-of-happiness-loewenstein",
           "source": "Vox",
-          "ts": "2026-10-07T06:00:00-04:00",
+          "ts": "2026-10-07T10:45:00-04:00",
           "section": ""
         },
         {
@@ -259,10 +273,17 @@
           "section": ""
         },
         {
-          "title": "Texas set to carry out first US execution since botched lethal injection of Christa Pike",
-          "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
+          "title": "Trump heads to Texas as Republican midterms woes deepen – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 20:58:51 GMT",
+          "ts": "Wed, 07 Oct 2026 21:28:25 GMT",
+          "section": ""
+        },
+        {
+          "title": "Why people keep looking for Noah’s Ark in a natural rock formation in Turkey: A scholar of early Christianity explains",
+          "url": "https://religionnews.com/2026/10/07/why-people-keep-looking-for-noahs-ark-in-a-natural-rock-formation-in-turkey-a-scholar-of-early-christianity-explains/",
+          "source": "RNS",
+          "ts": "Wed, 07 Oct 2026 19:31:46 +0000",
           "section": ""
         },
         {
@@ -280,10 +301,10 @@
           "section": ""
         },
         {
-          "title": "The cruelty of a beloved American pastime",
-          "url": "https://www.vox.com/future-perfect/505350/catch-and-release-fishing-ethics-cruelty",
+          "title": "Big AI has a problem on the right. It starts in Florida.",
+          "url": "https://www.vox.com/politics/505319/ron-desantis-ai-james-uthmeier-openai-lawsuit",
           "source": "Vox",
-          "ts": "2026-10-07T05:34:00-04:00",
+          "ts": "2026-10-07T06:00:00-04:00",
           "section": ""
         },
         {
@@ -294,10 +315,10 @@
           "section": ""
         },
         {
-          "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
-          "url": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+          "title": "Texas set to carry out first US execution since botched lethal injection of Christa Pike",
+          "url": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
           "source": "US news | The Guardian",
-          "ts": "Wed, 07 Oct 2026 20:31:37 GMT",
+          "ts": "Wed, 07 Oct 2026 20:58:51 GMT",
           "section": ""
         }
       ]
@@ -320,10 +341,10 @@
           "section": ""
         },
         {
-          "title": "Reports: Syria May Send Troops to Yemen To Help Saudi Arabia Fight Ansar Allah",
-          "url": "https://news.antiwar.com/2026/10/07/reports-syria-may-send-troops-to-yemen-to-help-saudi-arabia-fight-ansar-allah/?utm_source=rss&utm_medium=rss&utm_campaign=reports-syria-may-send-troops-to-yemen-to-help-saudi-arabia-fight-ansar-allah",
+          "title": "Vance Suggests US Would Accept Iran Reducing Uranium Enrichment, Something Tehran Offered Before War",
+          "url": "https://news.antiwar.com/2026/10/07/vance-suggests-us-would-accept-iran-reducing-uranium-enrichment-something-tehran-offered-before-war/?utm_source=rss&utm_medium=rss&utm_campaign=vance-suggests-us-would-accept-iran-reducing-uranium-enrichment-something-tehran-offered-before-war",
           "source": "News From Antiwar.com",
-          "ts": "Wed, 07 Oct 2026 20:59:42 +0000",
+          "ts": "Wed, 07 Oct 2026 21:41:50 +0000",
           "section": ""
         },
         {
@@ -404,10 +425,10 @@
           "section": ""
         },
         {
-          "title": "Iran Reportedly Gave Hezbollah $200 Million to Help Lebanon’s Displaced",
-          "url": "https://news.antiwar.com/2026/10/07/iran-reportedly-gave-hezbollah-200-million-to-help-lebanons-displaced/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reportedly-gave-hezbollah-200-million-to-help-lebanons-displaced",
+          "title": "Reports: Syria May Send Troops to Yemen To Help Saudi Arabia Fight Ansar Allah",
+          "url": "https://news.antiwar.com/2026/10/07/reports-syria-may-send-troops-to-yemen-to-help-saudi-arabia-fight-ansar-allah/?utm_source=rss&utm_medium=rss&utm_campaign=reports-syria-may-send-troops-to-yemen-to-help-saudi-arabia-fight-ansar-allah",
           "source": "News From Antiwar.com",
-          "ts": "Wed, 07 Oct 2026 20:33:48 +0000",
+          "ts": "Wed, 07 Oct 2026 20:59:42 +0000",
           "section": ""
         },
         {
@@ -488,10 +509,10 @@
           "section": ""
         },
         {
-          "title": "‘Massive’ Russian Attack on Ukraine Kills at Least 25",
-          "url": "https://news.antiwar.com/2026/10/07/massive-russian-attack-on-ukraine-kills-at-least-25/?utm_source=rss&utm_medium=rss&utm_campaign=massive-russian-attack-on-ukraine-kills-at-least-25",
+          "title": "Iran Reportedly Gave Hezbollah $200 Million to Help Lebanon’s Displaced",
+          "url": "https://news.antiwar.com/2026/10/07/iran-reportedly-gave-hezbollah-200-million-to-help-lebanons-displaced/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reportedly-gave-hezbollah-200-million-to-help-lebanons-displaced",
           "source": "News From Antiwar.com",
-          "ts": "Wed, 07 Oct 2026 20:17:48 +0000",
+          "ts": "Wed, 07 Oct 2026 20:33:48 +0000",
           "section": ""
         },
         {
