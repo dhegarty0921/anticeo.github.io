@@ -21,9 +21,9 @@ jobs:
     environment:
       name: github-pages
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
@@ -42,13 +42,23 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add anticeo-news.json
           git diff --cached --quiet || git commit -m "update: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+          # Retry push: GitHub occasionally answers transient 5xx on push,
+          # which used to kill the whole cycle including the site deploy.
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin main; then
+              exit 0
+            fi
+            echo "push attempt $i failed; retrying in 30s"
+            sleep 30
+          done
+          echo "push failed after 3 attempts"
+          exit 1
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: .
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
