@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:44:19.393197Z",
+  "generated_at": "2026-10-08T15:56:03.572815Z",
   "headline": {
     "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
     "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
@@ -103,7 +103,7 @@
           "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
           "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 08 Oct 2026 15:38:24 GMT",
+          "ts": "Thu, 08 Oct 2026 15:53:41 GMT",
           "section": ""
         },
         {
@@ -238,10 +238,10 @@
           "section": ""
         },
         {
-          "title": "Trump says he is considering asking FBI to investigate the death of Nolan Wells",
-          "url": "https://www.theguardian.com/us-news/2026/oct/08/trump-fbi-nolan-wells-death-investigation",
+          "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
           "source": "US news | The Guardian",
-          "ts": "Thu, 08 Oct 2026 15:35:15 GMT",
+          "ts": "Thu, 08 Oct 2026 15:49:48 GMT",
           "section": ""
         },
         {
@@ -280,10 +280,10 @@
           "section": ""
         },
         {
-          "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+          "title": "Trump says he is considering asking FBI to investigate the death of Nolan Wells",
+          "url": "https://www.theguardian.com/us-news/2026/oct/08/trump-fbi-nolan-wells-death-investigation",
           "source": "US news | The Guardian",
-          "ts": "Thu, 08 Oct 2026 15:29:46 GMT",
+          "ts": "Thu, 08 Oct 2026 15:35:15 GMT",
           "section": ""
         },
         {
@@ -348,13 +348,6 @@
           "section": ""
         },
         {
-          "title": "Defense Business Brief: 1:1 with Gabe Camarillo; Tariff ripple effects?, and more",
-          "url": "https://www.defenseone.com/business/2026/10/defense-business-brief-11-gabe-camarillo-tariff-ripple-effects-and-more/416490/",
-          "source": "Defense One - All Content",
-          "ts": "Thu, 08 Oct 2026 04:55:32 -0400",
-          "section": ""
-        },
-        {
           "title": "Ten Wartime Technologies at America’s 250th",
           "url": "https://warontherocks.com/cogs-of-war/ten-wartime-technologies-at-americas-250th/",
           "source": "War on the Rocks",
@@ -373,6 +366,13 @@
           "url": "https://www.armytimes.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
           "source": "Army Times",
           "ts": "Thu, 08 Oct 2026 14:06:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "Hindustan Shipyard Launches First Fleet Support Ship ‘Surya’ for Indian Navy",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hindustan-shipyard-launches-first-fleet-support-ship-surya-for-indian-navy/",
+          "source": "Naval News",
+          "ts": "Thu, 08 Oct 2026 09:54:05 +0000",
           "section": ""
         },
         {
@@ -425,13 +425,6 @@
           "section": ""
         },
         {
-          "title": "Army activates sustainment brigade as part of Pacific restructuring",
-          "url": "https://www.defenseone.com/threats/2026/10/army-activates-sustainment-brigade-part-pacific-restructuring/416486/",
-          "source": "Defense One - All Content",
-          "ts": "Wed, 07 Oct 2026 22:06:11 -0400",
-          "section": ""
-        },
-        {
           "title": "Achieving Breakthrough: Maneuver Warfare in the Face of Robotic Mass",
           "url": "https://warontherocks.com/achieving-breakthrough-maneuver-warfare-in-the-face-of-robotic-mass/",
           "source": "War on the Rocks",
@@ -450,6 +443,13 @@
           "url": "https://www.armytimes.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
           "source": "Army Times",
           "ts": "Thu, 08 Oct 2026 13:25:20 +0000",
+          "section": ""
+        },
+        {
+          "title": "Japan Launches Seventh Taigei-Class Submarine as Nuclear Propulsion Debate Grows",
+          "url": "https://www.navalnews.com/naval-news/2026/10/japan-launches-seventh-taigei-class-submarine-as-nuclear-propulsion-debate-grows/",
+          "source": "Naval News",
+          "ts": "Thu, 08 Oct 2026 06:38:18 +0000",
           "section": ""
         },
         {
@@ -495,13 +495,6 @@
           "section": ""
         },
         {
-          "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
-          "url": "https://www.defenseone.com/threats/2026/10/recent-taiwan-simulation-highlights-us-cyberdefense-gaps-against-china-experts-warn/416487/",
-          "source": "Defense One - All Content",
-          "ts": "Wed, 07 Oct 2026 11:59:00 -0400",
-          "section": ""
-        },
-        {
           "title": "The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence",
           "url": "https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence/",
           "source": "War on the Rocks",
@@ -520,6 +513,13 @@
           "url": "https://www.armytimes.com/news/your-military/2026/10/07/us-aircraft-lost-or-damaged-in-iran-war-nearly-doubles-in-latest-congressional-report/",
           "source": "Army Times",
           "ts": "Wed, 07 Oct 2026 18:47:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "HD Hyundai Signs Strategic Teaming Agreement With Croatia’s Iskra Shipyard for Multirole Corvettes and Expanded Maritime Cooperation",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hd-hyundai-signs-strategic-teaming-agreement-with-croatias-iskra-shipyard-for-multirole-corvettes-and-expanded-maritime-cooperation/",
+          "source": "Naval News",
+          "ts": "Wed, 07 Oct 2026 10:20:09 +0000",
           "section": ""
         },
         {
@@ -570,10 +570,10 @@
           "section": ""
         },
         {
-          "title": "Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Build Border Wall",
-          "url": "https://theintercept.com/2026/10/08/border-wall-tree-sit-protest-bulldozed/",
+          "title": "Pete Hegseth’s Military of the Future: Defined by AI and an Utter Lack of Oversight",
+          "url": "https://theintercept.com/2026/10/08/hegseth-military-ai-drones-autonomous-war/",
           "source": "The Intercept",
-          "ts": "Thu, 08 Oct 2026 09:00:00 +0000",
+          "ts": "Thu, 08 Oct 2026 15:44:42 +0000",
           "section": ""
         },
         {
@@ -619,10 +619,10 @@
           "section": ""
         },
         {
-          "title": "Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny Vermont Town",
-          "url": "https://theintercept.com/2026/10/07/ice-protest-vermont-surveillance-charges/",
+          "title": "Armed Border Agents Arrest Protesters, Bulldoze 200-Year-Old Tree to Build Border Wall",
+          "url": "https://theintercept.com/2026/10/08/border-wall-tree-sit-protest-bulldozed/",
           "source": "The Intercept",
-          "ts": "Wed, 07 Oct 2026 17:45:50 +0000",
+          "ts": "Thu, 08 Oct 2026 09:00:00 +0000",
           "section": ""
         },
         {
@@ -668,10 +668,10 @@
           "section": ""
         },
         {
-          "title": "He Confessed to an Afghanistan War Murder. The U.S. Military Promptly Closed the Case.",
-          "url": "https://theintercept.com/2026/10/07/afghanistan-war-crime-confession-accountability/",
+          "title": "Feds Charged Activists Just Before Major Anti-ICE Protest in a Tiny Vermont Town",
+          "url": "https://theintercept.com/2026/10/07/ice-protest-vermont-surveillance-charges/",
           "source": "The Intercept",
-          "ts": "Wed, 07 Oct 2026 09:00:00 +0000",
+          "ts": "Wed, 07 Oct 2026 17:45:50 +0000",
           "section": ""
         },
         {
