@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T19:25:15.987882Z",
+  "generated_at": "2026-10-08T19:37:34.540716Z",
   "headline": {
     "title": "White House correspondent April Ryan reflects on reporting while under attack",
     "url": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack"
@@ -34,6 +34,13 @@
           "url": "https://www.thepinknews.com/2026/10/08/oklahoma-birth-certificate-sex-marker-fowler-stitt/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 08 Oct 2026 15:55:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Should We Keep Funding Israel? America’s $3.8 Billion Question",
+          "url": "https://www.washingtontimes.com/news/2026/oct/8/dialogue-three-years-october-7-america-keep-arming-israel/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 08 Oct 2026 19:21:25 +0000",
           "section": ""
         },
         {
@@ -93,13 +100,6 @@
           "section": ""
         },
         {
-          "title": "The ‘G2’ illusion? After Xi-Trump summit, China wants equality while the US seeks deals",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3370028/g2-illusion-after-xi-trump-summit-china-wants-equality-while-us-seeks-deals",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Thu, 08 Oct 2026 14:17:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Ex-Bard President Resigns From College Roles Over Epstein Email",
           "url": "https://www.rollingstone.com/politics/politics-news/leon-botstein-resigns-bard-college-epstein-1235639586/",
           "source": "Politics News",
@@ -149,10 +149,10 @@
           "section": ""
         },
         {
-          "title": "What ‘Winning the Battle of Hormuz’ Got Wrong",
-          "url": "https://www.theamericanconservative.com/what-winning-the-battle-of-hormuz-got-wrong/",
+          "title": "The ‘G2’ illusion? After Xi-Trump summit, China wants equality while the US seeks deals",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3370028/g2-illusion-after-xi-trump-summit-china-wants-equality-while-us-seeks-deals",
           "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Thu, 08 Oct 2026 13:10:00 +0000",
+          "ts": "Thu, 08 Oct 2026 14:17:00 +0000",
           "section": ""
         },
         {
@@ -181,6 +181,13 @@
           "url": "https://news.antiwar.com/2026/10/07/report-trump-might-bomb-iran-before-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=report-trump-might-bomb-iran-before-midterms",
           "source": "News From Antiwar.com",
           "ts": "Thu, 08 Oct 2026 00:45:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "What ‘Winning the Battle of Hormuz’ Got Wrong",
+          "url": "https://www.theamericanconservative.com/what-winning-the-battle-of-hormuz-got-wrong/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 08 Oct 2026 13:10:00 +0000",
           "section": ""
         },
         {
@@ -383,17 +390,10 @@
           "section": ""
         },
         {
-          "title": "Planned DEERS outage could affect Tricare beneficiaries, DOD says",
-          "url": "https://www.armytimes.com/pay-benefits/military-benefits/health-care/2026/10/08/planned-deers-outage-could-affect-tricare-beneficiaries-dod-says/",
+          "title": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
+          "url": "https://www.armytimes.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
           "source": "Army Times",
-          "ts": "Thu, 08 Oct 2026 17:11:19 +0000",
-          "section": ""
-        },
-        {
-          "title": "The End of Gaza",
-          "url": "https://quincyinst.org/2026/10/08/the-end-of-gaza/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Thu, 08 Oct 2026 14:38:57 +0000",
+          "ts": "Thu, 08 Oct 2026 19:23:25 +0000",
           "section": ""
         },
         {
@@ -453,10 +453,17 @@
           "section": ""
         },
         {
-          "title": "Pentagon recruits drone pilots from across services for upcoming competition",
-          "url": "https://www.armytimes.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
+          "title": "Planned DEERS outage could affect Tricare beneficiaries, DOD says",
+          "url": "https://www.armytimes.com/pay-benefits/military-benefits/health-care/2026/10/08/planned-deers-outage-could-affect-tricare-beneficiaries-dod-says/",
           "source": "Army Times",
-          "ts": "Thu, 08 Oct 2026 14:06:55 +0000",
+          "ts": "Thu, 08 Oct 2026 17:11:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "The End of Gaza",
+          "url": "https://quincyinst.org/2026/10/08/the-end-of-gaza/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 08 Oct 2026 14:38:57 +0000",
           "section": ""
         },
         {
@@ -516,10 +523,10 @@
           "section": ""
         },
         {
-          "title": "German pilots prepare for CH‑47F fleet with US Army flight simulator",
-          "url": "https://www.armytimes.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
+          "title": "Pentagon recruits drone pilots from across services for upcoming competition",
+          "url": "https://www.armytimes.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
           "source": "Army Times",
-          "ts": "Thu, 08 Oct 2026 13:25:20 +0000",
+          "ts": "Thu, 08 Oct 2026 14:06:55 +0000",
           "section": ""
         },
         {
@@ -548,13 +555,6 @@
           "url": "https://asiatimes.com/2026/10/how-china-deploys-wartime-history-against-japan/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Wed, 07 Oct 2026 22:13:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Oil Prices Surge as Iran War Drains Global Stockpile",
-          "url": "https://www.youtube.com/watch?v=PcA5PttlrSE",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 06 Oct 2026 20:58:00 +0000",
           "section": ""
         }
       ]
