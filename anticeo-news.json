@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:48:13.428391Z",
+  "generated_at": "2026-10-08T15:05:54.609709Z",
   "headline": {
     "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
     "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
@@ -44,13 +44,6 @@
           "section": ""
         },
         {
-          "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
-          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Thu, 08 Oct 2026 11:47:00 +0000",
-          "section": ""
-        },
-        {
           "title": "The Day Accountability Arrived, by Paul Craig Roberts",
           "url": "https://www.unz.com/proberts/the-day-accountability-arrived/",
           "source": "The Unz Review:",
@@ -75,7 +68,7 @@
           "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
           "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 08 Oct 2026 08:13:52 GMT",
+          "ts": "Thu, 08 Oct 2026 15:02:32 GMT",
           "section": ""
         },
         {
@@ -107,17 +100,24 @@
           "section": ""
         },
         {
+          "title": "How a U.S. Diplomat Suppressed and Altered Reports Critical of Israel",
+          "url": "https://www.nytimes.com/2026/10/08/world/middleeast/israel-embassy-milstein-huckabee.html",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 08 Oct 2026 11:47:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two men arrested on suspicion of trespass at RAF base",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 08 Oct 2026 15:00:56 GMT",
+          "section": ""
+        },
+        {
           "title": "Somalia faces hunger crisis amid climate chaos and global power struggles",
           "url": "https://www.thecanary.co/explainer/2026/10/07/somalia-climate-crisis/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 16:30:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
-          "url": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 08 Oct 2026 14:10:58 GMT",
           "section": ""
         },
         {
@@ -132,6 +132,13 @@
           "url": "https://www.thepinknews.com/2026/10/08/andrew-scott-elsinore-oscar-best-actor/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 08 Oct 2026 14:03:31 +0000",
+          "section": ""
+        },
+        {
+          "title": "When Will This White House Madness End?, by Philip Giraldi",
+          "url": "https://www.unz.com/pgiraldi/when-will-this-white-house-madness-end/",
+          "source": "The Unz Review:",
+          "ts": "Thu, 08 Oct 2026 04:00:48 +0000",
           "section": ""
         },
         {
@@ -170,20 +177,6 @@
           "section": ""
         },
         {
-          "title": "Trump Says Iran Could “Take Out” American Cities",
-          "url": "https://www.youtube.com/watch?v=XNPkvoU3MQQ",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 06 Oct 2026 19:48:32 +0000",
-          "section": ""
-        },
-        {
-          "title": "Is Trump Stupid Enough to Renew Attacking Iran Just Before the Midterm Election?, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/is-trump-stupid-enough-to-renew-attacking-iran-just-before-the-midterm-election/",
-          "source": "The Unz Review:",
-          "ts": "Thu, 08 Oct 2026 04:00:14 +0000",
-          "section": ""
-        },
-        {
           "title": "California Leaders Erupt After Trump Suggests Letting Iran ‘Take Out’ Cities",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-suggests-letting-iran-take-out-la-san-diego-1235637433/",
           "source": "Politics News",
@@ -195,6 +188,13 @@
           "url": "https://www.thecanary.co/skwawkbox/2026/10/07/guardian-data-story-wrong/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 09:28:25 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump Says Iran Could “Take Out” American Cities",
+          "url": "https://www.youtube.com/watch?v=XNPkvoU3MQQ",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Tue, 06 Oct 2026 19:48:32 +0000",
           "section": ""
         }
       ]
@@ -334,10 +334,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "EU envoy in Beijing for talks to calm trade tensions",
-          "url": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
+          "title": "Nobel Prize winner Anne Carson: Where to start reading",
+          "url": "https://www.dw.com/en/nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-08T14:42:00Z",
+          "ts": "2026-10-08T14:57:00Z",
           "section": ""
         },
         {
@@ -376,6 +376,13 @@
           "section": ""
         },
         {
+          "title": "The End of Gaza",
+          "url": "https://quincyinst.org/2026/10/08/the-end-of-gaza/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 08 Oct 2026 14:38:57 +0000",
+          "section": ""
+        },
+        {
           "title": "Growing U.S. military Footprint In Guam Intensifies Concerns Over Environmental Damage And Sovereignty",
           "url": "https://scheerpost.com/2026/08/15/growing-u-s-military-footprint-in-guam-intensifies-concerns-over-environmental-damage-and-sovereignty/",
           "source": "Military",
@@ -397,10 +404,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "India faces water and power stress after weak monsoon",
-          "url": "https://www.dw.com/en/india-faces-water-and-power-stress-after-weak-monsoon/a-79599540?maca=en-rss-en-all-1573-rdf",
+          "title": "EU envoy in Beijing for talks to calm trade tensions",
+          "url": "https://www.dw.com/en/eu-envoy-in-beijing-for-talks-to-calm-trade-tensions/a-79598713?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-08T14:40:00Z",
+          "ts": "2026-10-08T14:42:00Z",
           "section": ""
         },
         {
@@ -446,13 +453,6 @@
           "section": ""
         },
         {
-          "title": "How China Deploys Wartime History Against Japan",
-          "url": "https://asiatimes.com/2026/10/how-china-deploys-wartime-history-against-japan/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Wed, 07 Oct 2026 22:13:00 +0000",
-          "section": ""
-        },
-        {
           "title": "US Military Morale In The Middle East In The Overflowing Toilet",
           "url": "https://scheerpost.com/2026/08/14/us-military-morale-in-the-middle-east-in-the-overflowing-toilet/",
           "source": "Military",
@@ -474,10 +474,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "World Cup 2034: Does Saudi Arabia shelving Neom Stadium spell trouble?",
-          "url": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf",
+          "title": "India faces water and power stress after weak monsoon",
+          "url": "https://www.dw.com/en/india-faces-water-and-power-stress-after-weak-monsoon/a-79599540?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-08T14:24:00Z",
+          "ts": "2026-10-08T14:40:00Z",
           "section": ""
         },
         {
@@ -523,10 +523,10 @@
           "section": ""
         },
         {
-          "title": "Oil Prices Surge as Iran War Drains Global Stockpile",
-          "url": "https://www.youtube.com/watch?v=PcA5PttlrSE",
+          "title": "How China Deploys Wartime History Against Japan",
+          "url": "https://asiatimes.com/2026/10/how-china-deploys-wartime-history-against-japan/",
           "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 06 Oct 2026 20:58:00 +0000",
+          "ts": "Wed, 07 Oct 2026 22:13:00 +0000",
           "section": ""
         },
         {
@@ -551,10 +551,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Israel’s flailing chatbot army",
-          "url": "https://www.972mag.com/israel-ai-chatbots-influence/",
+          "title": "Oil Prices Surge as Iran War Drains Global Stockpile",
+          "url": "https://www.youtube.com/watch?v=PcA5PttlrSE",
           "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 06 Oct 2026 19:42:00 +0000",
+          "ts": "Tue, 06 Oct 2026 20:58:00 +0000",
           "section": ""
         }
       ]
@@ -605,10 +605,10 @@
           "section": ""
         },
         {
-          "title": "74,250 Palestinians in Gaza killed since Oct. 7, 2023; U.S. trade deficit top $100 billion; Kenya confirms first Ebola case",
-          "url": "https://www.dropsitenews.com/p/gaza-palestine-israel-us-trade-deficit-kenya-ebola",
+          "title": "Ansarallah attacks Saudi airports; Russia kills 33 in Ukraine bus attack; Americans are financially worse off than a year ago",
+          "url": "https://www.dropsitenews.com/p/ansarallah-saudi-airports-russia-ukraine-bus-attack-us-inflation",
           "source": "Drop Site News",
-          "ts": "Wed, 07 Oct 2026 14:29:31 GMT",
+          "ts": "Thu, 08 Oct 2026 15:01:40 GMT",
           "section": ""
         },
         {
@@ -654,10 +654,10 @@
           "section": ""
         },
         {
-          "title": "Why Bagram Air Base Remains a Target Five Years After U.S. Exited Afghanistan",
-          "url": "https://www.dropsitenews.com/p/bagram-airbase-afghanistan-taliban",
+          "title": "74,250 Palestinians in Gaza killed since Oct. 7, 2023; U.S. trade deficit top $100 billion; Kenya confirms first Ebola case",
+          "url": "https://www.dropsitenews.com/p/gaza-palestine-israel-us-trade-deficit-kenya-ebola",
           "source": "Drop Site News",
-          "ts": "Tue, 06 Oct 2026 20:01:30 GMT",
+          "ts": "Wed, 07 Oct 2026 14:29:31 GMT",
           "section": ""
         },
         {
@@ -703,10 +703,10 @@
           "section": ""
         },
         {
-          "title": "Saudi Arabia, Turkey, Pakistan activate Mecca defense pact; Democrats predict House majority; 17 killed in Ethiopia fighting",
-          "url": "https://www.dropsitenews.com/p/saudi-turkey-pakistan-defense-mecca-democrats-house-ethiopia-fighting",
+          "title": "Why Bagram Air Base Remains a Target Five Years After U.S. Exited Afghanistan",
+          "url": "https://www.dropsitenews.com/p/bagram-airbase-afghanistan-taliban",
           "source": "Drop Site News",
-          "ts": "Tue, 06 Oct 2026 13:52:54 GMT",
+          "ts": "Tue, 06 Oct 2026 20:01:30 GMT",
           "section": ""
         }
       ]
