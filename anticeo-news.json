@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:37:37.546165Z",
+  "generated_at": "2026-10-08T17:50:43.425369Z",
   "headline": {
     "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
     "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
@@ -121,13 +121,6 @@
           "section": ""
         },
         {
-          "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
-          "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 08 Oct 2026 17:36:28 GMT",
-          "section": ""
-        },
-        {
           "title": "Somalia faces hunger crisis amid climate chaos and global power struggles",
           "url": "https://www.thecanary.co/explainer/2026/10/07/somalia-climate-crisis/",
           "source": "Canary",
@@ -167,6 +160,13 @@
           "url": "https://www.unz.com/pgiraldi/when-will-this-white-house-madness-end/",
           "source": "The Unz Review:",
           "ts": "Thu, 08 Oct 2026 04:00:48 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two Latvian men arrested on suspicion of trespass at RAF base in Cambridgeshire",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly0vzew9e8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 08 Oct 2026 17:36:28 GMT",
           "section": ""
         },
         {
@@ -248,7 +248,7 @@
           "title": "Trump claims US won’t strike Iran before November midterms – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
           "source": "US news | The Guardian",
-          "ts": "Thu, 08 Oct 2026 17:05:26 GMT",
+          "ts": "Thu, 08 Oct 2026 17:26:02 GMT",
           "section": ""
         },
         {
@@ -348,10 +348,10 @@
           "section": ""
         },
         {
-          "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
-          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
+          "title": "Syria calls for independent probe into sinking of ship in Black Sea",
+          "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 08 Oct 2026 17:25:02 +0000",
+          "ts": "Thu, 08 Oct 2026 17:27:47 +0000",
           "section": ""
         },
         {
@@ -418,10 +418,10 @@
           "section": ""
         },
         {
-          "title": "Jerusalem Daily: Remembrance and mourning",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+          "title": "US suspends Microsoft and Adobe from visa programme amid fraud claims",
+          "url": "https://www.aljazeera.com/economy/2026/10/8/us-suspends-microsoft-and-adobe-from-visa-programme-amid-fraud-claims?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 08 Oct 2026 17:17:22 +0000",
+          "ts": "Thu, 08 Oct 2026 17:25:02 +0000",
           "section": ""
         },
         {
@@ -481,10 +481,10 @@
           "section": ""
         },
         {
-          "title": "CAS promises Senegal-Morocco AFCON title decision within days",
-          "url": "https://www.aljazeera.com/sports/2026/10/8/cas-promises-senegal-morocco-afcon-title-decision-within-days?traffic_source=rss",
+          "title": "Jerusalem Daily: Remembrance and mourning",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 08 Oct 2026 17:08:15 +0000",
+          "ts": "Thu, 08 Oct 2026 17:17:22 +0000",
           "section": ""
         },
         {
@@ -509,7 +509,7 @@
           "section": ""
         },
         {
-          "title": "One Clapped BMW E36 Had the Funniest Response to City’s New ‘Sideshow Deterrent’ Barrier",
+          "title": "City Installs ‘Sideshow Barrier’ in Intersection, Accidentally Makes It Perfect for Donuts",
           "url": "https://www.thedrive.com/news/one-clapped-bmw-e36-had-the-funniest-response-to-citys-new-sideshow-deterrent-barrier",
           "source": "The Drive",
           "ts": "Thu, 08 Oct 2026 10:06:34 -0400",
