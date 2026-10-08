@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:46:03.073327Z",
+  "generated_at": "2026-10-08T21:05:19.433103Z",
   "headline": {
     "title": "White House correspondent April Ryan reflects on reporting while under attack",
     "url": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack"
@@ -16,10 +16,10 @@
           "section": ""
         },
         {
-          "title": "Pentagon Draws Up New Iran Strike Plans as Trump Hesitates",
+          "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
           "url": "https://www.nytimes.com/2026/10/08/us/politics/trump-iran-war-options.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 08 Oct 2026 20:41:23 +0000",
+          "ts": "Thu, 08 Oct 2026 20:49:51 +0000",
           "section": ""
         },
         {
@@ -163,13 +163,6 @@
           "section": ""
         },
         {
-          "title": "Trump Says He Won’t Bomb Iran Before Midterms",
-          "url": "https://news.antiwar.com/2026/10/08/trump-says-he-wont-bomb-iran-before-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=trump-says-he-wont-bomb-iran-before-midterms",
-          "source": "News From Antiwar.com",
-          "ts": "Thu, 08 Oct 2026 17:29:41 +0000",
-          "section": ""
-        },
-        {
           "title": "The ‘G2’ illusion? After Xi-Trump summit, China wants equality while the US seeks deals",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3370028/g2-illusion-after-xi-trump-summit-china-wants-equality-while-us-seeks-deals",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -184,10 +177,10 @@
           "section": ""
         },
         {
-          "title": "Report: Trump Might Bomb Iran Before Midterms",
-          "url": "https://news.antiwar.com/2026/10/07/report-trump-might-bomb-iran-before-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=report-trump-might-bomb-iran-before-midterms",
+          "title": "Trump Says He Won’t Bomb Iran Before Midterms",
+          "url": "https://news.antiwar.com/2026/10/08/trump-says-he-wont-bomb-iran-before-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=trump-says-he-wont-bomb-iran-before-midterms",
           "source": "News From Antiwar.com",
-          "ts": "Thu, 08 Oct 2026 00:45:42 +0000",
+          "ts": "Thu, 08 Oct 2026 17:29:41 +0000",
           "section": ""
         },
         {
@@ -209,6 +202,13 @@
           "url": "https://www.thecanary.co/skwawkbox/2026/10/07/guardian-data-story-wrong/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 09:28:25 +0000",
+          "section": ""
+        },
+        {
+          "title": "Report: Trump Might Bomb Iran Before Midterms",
+          "url": "https://news.antiwar.com/2026/10/07/report-trump-might-bomb-iran-before-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=report-trump-might-bomb-iran-before-midterms",
+          "source": "News From Antiwar.com",
+          "ts": "Thu, 08 Oct 2026 00:45:42 +0000",
           "section": ""
         }
       ]
@@ -362,10 +362,10 @@
           "section": ""
         },
         {
-          "title": "Ansar Allah Pounds Saudi Airports as Yemen War Escalates",
-          "url": "https://news.antiwar.com/2026/10/08/ansar-allah-pounds-saudi-airports-as-yemen-war-escalates/?utm_source=rss&utm_medium=rss&utm_campaign=ansar-allah-pounds-saudi-airports-as-yemen-war-escalates",
+          "title": "Saudi Airstrike on Passenger Vehicle in Yemen Kills at Least Two Civilians, Injures Children: Health Ministry",
+          "url": "https://news.antiwar.com/2026/10/08/saudi-airstrike-on-passenger-vehicle-in-yemen-kills-at-least-two-civilians-injures-children-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-airstrike-on-passenger-vehicle-in-yemen-kills-at-least-two-civilians-injures-children-health-ministry",
           "source": "News From Antiwar.com",
-          "ts": "Thu, 08 Oct 2026 19:53:27 +0000",
+          "ts": "Thu, 08 Oct 2026 20:52:36 +0000",
           "section": ""
         },
         {
@@ -394,13 +394,6 @@
           "url": "https://www.armytimes.com/news/your-military/2026/10/08/us-army-report-cites-systematic-failures-in-2025-helicopter-and-jet-collision-that-killed-67/",
           "source": "Army Times",
           "ts": "Thu, 08 Oct 2026 19:49:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Shield AI and U.S. government investment in X-BAT reaches $400 million",
-          "url": "https://www.navalnews.com/naval-news/2026/10/shield-ai-and-u-s-government-investment-in-x-bat-reaches-400-million/",
-          "source": "Naval News",
-          "ts": "Thu, 08 Oct 2026 20:02:10 +0000",
           "section": ""
         },
         {
@@ -474,13 +467,6 @@
           "section": ""
         },
         {
-          "title": "German Budget Committee approves procurement of four additional MEKO A-200 DEU-class frigates",
-          "url": "https://www.navalnews.com/naval-news/2026/10/german-budget-committee-approves-procurement-of-four-additional-meko-a-200-deu-class-frigates/",
-          "source": "Naval News",
-          "ts": "Thu, 08 Oct 2026 16:33:06 +0000",
-          "section": ""
-        },
-        {
           "title": "US Military Morale In The Middle East In The Overflowing Toilet",
           "url": "https://scheerpost.com/2026/08/14/us-military-morale-in-the-middle-east-in-the-overflowing-toilet/",
           "source": "Military",
@@ -541,13 +527,6 @@
           "url": "https://www.armytimes.com/pay-benefits/military-benefits/health-care/2026/10/08/planned-deers-outage-could-affect-tricare-beneficiaries-dod-says/",
           "source": "Army Times",
           "ts": "Thu, 08 Oct 2026 17:11:19 +0000",
-          "section": ""
-        },
-        {
-          "title": "Hindustan Shipyard Launches First Fleet Support Ship ‘Surya’ for Indian Navy",
-          "url": "https://www.navalnews.com/naval-news/2026/10/hindustan-shipyard-launches-first-fleet-support-ship-surya-for-indian-navy/",
-          "source": "Naval News",
-          "ts": "Thu, 08 Oct 2026 09:54:05 +0000",
           "section": ""
         },
         {
