@@ -29,6 +29,7 @@ feeds:
   - https://venezuelanalysis.com/feed/
   - https://www.mintpressnews.com/feed/ # MintPress News (war/foreign policy)
   - https://electronicintifada.net/rss.xml # Electronic Intifada (Palestine/Israel)
+  - https://www.globalresearch.ca/feed/ # Global Research (war/foreign policy)
 
  # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
   - https://www.unz.com/xfeed/rss/
