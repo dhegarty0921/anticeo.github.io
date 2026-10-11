@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T20:26:40.674267Z",
+  "generated_at": "2026-10-11T20:40:33.962705Z",
   "headline": {
     "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
     "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
@@ -41,6 +41,13 @@
           "url": "https://www.thepinknews.com/2026/10/11/11-of-tvs-most-memorable-coming-out-moments-from-soap-first-to-reality-tears/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Sun, 11 Oct 2026 09:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Zelensky Says He’ll Hold Elections If Putin Agrees to a 60-Day Ceasefire",
+          "url": "https://news.antiwar.com/2026/10/11/zelensky-says-hell-hold-elections-if-putin-agrees-to-a-60-day-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-says-hell-hold-elections-if-putin-agrees-to-a-60-day-ceasefire",
+          "source": "News From Antiwar.com",
+          "ts": "Sun, 11 Oct 2026 20:28:47 +0000",
           "section": ""
         },
         {
@@ -188,13 +195,6 @@
           "url": "https://www.thecanary.co/skwawkbox/2026/10/07/guardian-data-story-wrong/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 09:28:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "Two Killed in Separate Incidents During South Lebanon Olive Harvest",
-          "url": "https://news.antiwar.com/2026/10/11/two-killed-in-separate-incidents-during-south-lebanon-olive-harvest/?utm_source=rss&utm_medium=rss&utm_campaign=two-killed-in-separate-incidents-during-south-lebanon-olive-harvest",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 11 Oct 2026 17:18:57 +0000",
           "section": ""
         },
         {
@@ -355,13 +355,6 @@
           "section": ""
         },
         {
-          "title": "Israeli Drone Strikes Wounds Six, Mostly Syrians, in Northeast Lebanon",
-          "url": "https://news.antiwar.com/2026/10/11/israeli-drone-strikes-wounds-six-mostly-syrians-in-northeast-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-drone-strikes-wounds-six-mostly-syrians-in-northeast-lebanon",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 11 Oct 2026 18:52:35 +0000",
-          "section": ""
-        },
-        {
           "title": "The Pentagon awarded $350M to a firm tied to a senior DOD official",
           "url": "https://www.defenseone.com/policy/2026/10/pentagon-350-million-contracts-official/416543/",
           "source": "Defense One - All Content",
@@ -425,10 +418,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Saudi Arabia: Second strike hits Riyadh airport",
-          "url": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+          "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+          "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-11T16:24:00Z",
+          "ts": "2026-10-11T18:57:00Z",
           "section": ""
         },
         {
@@ -439,10 +432,10 @@
           "section": ""
         },
         {
-          "title": "UN: Israel Holding at Least 49 Syrians Amid Growing Number of Incursions",
-          "url": "https://news.antiwar.com/2026/10/11/un-israel-holding-at-least-49-syrians-amid-growing-number-of-incursions/?utm_source=rss&utm_medium=rss&utm_campaign=un-israel-holding-at-least-49-syrians-amid-growing-number-of-incursions",
+          "title": "Israeli Drone Strikes Wounds Six, Mostly Syrians, in Northeast Lebanon",
+          "url": "https://news.antiwar.com/2026/10/11/israeli-drone-strikes-wounds-six-mostly-syrians-in-northeast-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-drone-strikes-wounds-six-mostly-syrians-in-northeast-lebanon",
           "source": "News From Antiwar.com",
-          "ts": "Sun, 11 Oct 2026 18:51:47 +0000",
+          "ts": "Sun, 11 Oct 2026 18:52:35 +0000",
           "section": ""
         },
         {
@@ -509,10 +502,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "German 'lawfare': When lawsuits become a political weapon",
-          "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-rdf",
+          "title": "Saudi Arabia: Second strike hits Riyadh airport",
+          "url": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-11T15:14:00Z",
+          "ts": "2026-10-11T16:24:00Z",
           "section": ""
         },
         {
@@ -520,6 +513,13 @@
           "url": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 11 Oct 2026 19:19:50 +0000",
+          "section": ""
+        },
+        {
+          "title": "UN: Israel Holding at Least 49 Syrians Amid Growing Number of Incursions",
+          "url": "https://news.antiwar.com/2026/10/11/un-israel-holding-at-least-49-syrians-amid-growing-number-of-incursions/?utm_source=rss&utm_medium=rss&utm_campaign=un-israel-holding-at-least-49-syrians-amid-growing-number-of-incursions",
+          "source": "News From Antiwar.com",
+          "ts": "Sun, 11 Oct 2026 18:51:47 +0000",
           "section": ""
         },
         {
@@ -572,10 +572,10 @@
           "section": ""
         },
         {
-          "title": "EU connives in Israel’s theft of Dead Sea Scrolls - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalh1bVl6YUNvdFBOSFlva3RIR3p1VlpZU2dVb1lsODhxaEJhSENtamwyQ2dFNEdHYnFxc3JPY0tQamFyZlJiNzgyY1JMbk5saDJfVl9Da1Ixek52TFZRYnpFSG94ZTlLZmRtYzZWQ0JqeS1tNE10NUNFOXdFMldCanVfekUzcy00WkVKWEtIb3drSFFOZW5R?oc=5",
+          "title": "Why Palestinians will continue to resist - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1hLVEV5NUVYWkEzOFdnZHowekRFWDZaaE9EVktpMHRFMUZsSmNwYzhQakF1ZFRqSXZxRFdqRnNYQmh5bG9BaVlPOEZxV3FFT011MmlQNTZhX0JDeUFRU2pIZnlCVUZnUWQ2N3p3MS1wTUlkOWszN1pOdWM2eUszVEdGd0hZUmZHbVE?oc=5",
           "source": "via Google News",
-          "ts": "Thu, 08 Oct 2026 09:46:21 GMT",
+          "ts": "Wed, 07 Oct 2026 15:10:20 GMT",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
