@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:28:49.117413Z",
+  "generated_at": "2026-10-12T20:46:44.516198Z",
   "headline": {
     "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
     "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
@@ -44,6 +44,13 @@
           "section": ""
         },
         {
+          "title": "Russia Declines To Comment on Trump’s Claimed Energy Ceasefire, Rejects Zelensky Call for 60-Day Truce",
+          "url": "https://news.antiwar.com/2026/10/12/russia-declines-to-comment-on-trumps-claimed-energy-ceasefire-rejects-zelensky-call-for-60-day-truce/?utm_source=rss&utm_medium=rss&utm_campaign=russia-declines-to-comment-on-trumps-claimed-energy-ceasefire-rejects-zelensky-call-for-60-day-truce",
+          "source": "News From Antiwar.com",
+          "ts": "Mon, 12 Oct 2026 20:29:58 +0000",
+          "section": ""
+        },
+        {
           "title": "Judge Tears Into Trump Admin. for Cutting Down D.C. Trees: ‘Beyond Upset and Furious’",
           "url": "https://www.rollingstone.com/politics/politics-news/judge-tears-into-trump-cutting-down-trees-dc-1235641343/",
           "source": "Politics News",
@@ -82,7 +89,7 @@
           "title": "A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence",
           "url": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 12 Oct 2026 17:42:50 +0000",
+          "ts": "Mon, 12 Oct 2026 20:41:21 +0000",
           "section": ""
         },
         {
@@ -177,13 +184,6 @@
           "section": ""
         },
         {
-          "title": "Trump Again Claims That Russia and Ukraine Have Agreed to an Energy Ceasefire",
-          "url": "https://news.antiwar.com/2026/10/11/trump-again-claims-that-russia-and-ukraine-have-agreed-to-an-energy-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=trump-again-claims-that-russia-and-ukraine-have-agreed-to-an-energy-ceasefire",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 11 Oct 2026 21:00:19 +0000",
-          "section": ""
-        },
-        {
           "title": "The Guardian inverts reality as number of UK anti-Zionist Jews leaps by 50%",
           "url": "https://www.thecanary.co/skwawkbox/2026/10/07/guardian-data-story-wrong/",
           "source": "Canary",
@@ -191,10 +191,10 @@
           "section": ""
         },
         {
-          "title": "Zelensky Says He’ll Hold Elections If Putin Agrees to a 60-Day Ceasefire",
-          "url": "https://news.antiwar.com/2026/10/11/zelensky-says-hell-hold-elections-if-putin-agrees-to-a-60-day-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-says-hell-hold-elections-if-putin-agrees-to-a-60-day-ceasefire",
+          "title": "Trump Again Claims That Russia and Ukraine Have Agreed to an Energy Ceasefire",
+          "url": "https://news.antiwar.com/2026/10/11/trump-again-claims-that-russia-and-ukraine-have-agreed-to-an-energy-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=trump-again-claims-that-russia-and-ukraine-have-agreed-to-an-energy-ceasefire",
           "source": "News From Antiwar.com",
-          "ts": "Sun, 11 Oct 2026 20:28:47 +0000",
+          "ts": "Sun, 11 Oct 2026 21:00:19 +0000",
           "section": ""
         }
       ]
@@ -203,10 +203,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Theobro pastor Joel Webbon calls for public execution of Mike Huckabee",
-          "url": "https://religionnews.com/2026/10/12/theobro-pastor-joel-webbon-calls-for-mike-huckabees-execution/",
+          "title": "Congregants celebrate the reconstruction of one of America’s oldest Black churches",
+          "url": "https://religionnews.com/2026/10/12/congregants-celebrate-the-reconstruction-of-one-of-americas-oldest-black-churches/",
           "source": "RNS",
-          "ts": "Mon, 12 Oct 2026 19:47:04 +0000",
+          "ts": "Mon, 12 Oct 2026 20:43:26 +0000",
           "section": ""
         },
         {
@@ -238,17 +238,17 @@
           "section": ""
         },
         {
-          "title": "Democrats rebuke federal raid of Ilhan Omar’s home: ‘rogue abuse of power’",
-          "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump",
+          "title": "Archbishop of US military condemns Pentagon plans to livestream execution",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution",
           "source": "US news | The Guardian",
-          "ts": "Mon, 12 Oct 2026 17:57:28 GMT",
+          "ts": "Mon, 12 Oct 2026 20:33:21 GMT",
           "section": ""
         },
         {
-          "title": "The Very American Rise and Fall and Rise and Death of Jim Bakker",
-          "url": "https://religionnews.com/2026/10/12/the-very-american-rise-and-fall-and-rise-and-death-of-jim-bakker/",
+          "title": "Australian bishop acknowledges 8-year delay in justice in Indigenous abuse case but defends process",
+          "url": "https://religionnews.com/2026/10/12/australian-bishop-acknowledges-8-year-delay-in-justice-in-indigenous-abuse-case-but-defends-process/",
           "source": "RNS",
-          "ts": "Mon, 12 Oct 2026 19:33:31 +0000",
+          "ts": "Mon, 12 Oct 2026 20:35:30 +0000",
           "section": ""
         },
         {
@@ -280,17 +280,17 @@
           "section": ""
         },
         {
-          "title": "About 70 ultramarathon runners in Utah evacuated after being stranded by flooding",
-          "url": "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
+          "title": "Democrats rebuke federal raid of Ilhan Omar’s home: ‘rogue abuse of power’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump",
           "source": "US news | The Guardian",
-          "ts": "Mon, 12 Oct 2026 17:36:18 GMT",
+          "ts": "Mon, 12 Oct 2026 17:57:28 GMT",
           "section": ""
         },
         {
-          "title": "Christianity teaches us not to turn executions into entertainment",
-          "url": "https://religionnews.com/2026/10/12/christianity-teaches-us-not-to-turn-executions-into-entertainment/",
+          "title": "Theobro pastor Joel Webbon calls for public execution of Mike Huckabee",
+          "url": "https://religionnews.com/2026/10/12/theobro-pastor-joel-webbon-calls-for-mike-huckabees-execution/",
           "source": "RNS",
-          "ts": "Mon, 12 Oct 2026 18:50:38 +0000",
+          "ts": "Mon, 12 Oct 2026 19:47:04 +0000",
           "section": ""
         },
         {
@@ -322,10 +322,10 @@
           "section": ""
         },
         {
-          "title": "Ilhan Omar says she will not be silenced after federal agents raid her home",
-          "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
+          "title": "About 70 ultramarathon runners in Utah evacuated after being stranded by flooding",
+          "url": "https://www.theguardian.com/us-news/2026/oct/12/storm-rachel-runners-stranded-evacuated-utah",
           "source": "US news | The Guardian",
-          "ts": "Mon, 12 Oct 2026 16:20:42 GMT",
+          "ts": "Mon, 12 Oct 2026 17:36:18 GMT",
           "section": ""
         }
       ]
@@ -341,17 +341,10 @@
           "section": ""
         },
         {
-          "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
-          "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+          "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 19:48:21 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israeli Strikes Kill More Palestinians in Gaza as Post-Ceasefire Deal Death Toll Approaches 1,500",
-          "url": "https://news.antiwar.com/2026/10/12/israeli-strikes-kill-more-palestinians-in-gaza-as-post-ceasefire-deal-death-toll-approaches-1500/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-strikes-kill-more-palestinians-in-gaza-as-post-ceasefire-deal-death-toll-approaches-1500",
-          "source": "News From Antiwar.com",
-          "ts": "Mon, 12 Oct 2026 19:04:35 +0000",
+          "ts": "Mon, 12 Oct 2026 20:06:04 +0000",
           "section": ""
         },
         {
@@ -383,10 +376,10 @@
           "section": ""
         },
         {
-          "title": "Hanwha Highlights M38/M48 MUSV and Containerized Munitions at AUSA 2026",
-          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-highlights-m38-m48-musv-and-containerized-munitions-at-ausa-2026/",
+          "title": "French Navy Intercepts and Boards Shadow Fleet Tanker ‘DF Peak’ South of Réunion",
+          "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-intercepts-and-boards-shadow-fleet-tanker-df-peak-south-of-reunion/",
           "source": "Naval News",
-          "ts": "Mon, 12 Oct 2026 19:36:17 +0000",
+          "ts": "Mon, 12 Oct 2026 20:35:27 +0000",
           "section": ""
         },
         {
@@ -432,10 +425,17 @@
           "section": ""
         },
         {
-          "title": "Teenager shoots headmaster, teacher at French school",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
+          "title": "Elon Musk spends $366m to bolster Republican Party in US midterm elections",
+          "url": "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 19:44:00 +0000",
+          "ts": "Mon, 12 Oct 2026 19:48:21 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israeli Strikes Kill More Palestinians in Gaza as Post-Ceasefire Deal Death Toll Approaches 1,500",
+          "url": "https://news.antiwar.com/2026/10/12/israeli-strikes-kill-more-palestinians-in-gaza-as-post-ceasefire-deal-death-toll-approaches-1500/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-strikes-kill-more-palestinians-in-gaza-as-post-ceasefire-deal-death-toll-approaches-1500",
+          "source": "News From Antiwar.com",
+          "ts": "Mon, 12 Oct 2026 19:04:35 +0000",
           "section": ""
         },
         {
@@ -467,10 +467,10 @@
           "section": ""
         },
         {
-          "title": "Video: Inside Naval Group’s Next-Gen SETIS Combat Management System",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/video-inside-naval-groups-next-gen-setis-combat-management-system/",
+          "title": "Hanwha Highlights M38/M48 MUSV and Containerized Munitions at AUSA 2026",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-highlights-m38-m48-musv-and-containerized-munitions-at-ausa-2026/",
           "source": "Naval News",
-          "ts": "Mon, 12 Oct 2026 14:50:55 +0000",
+          "ts": "Mon, 12 Oct 2026 19:36:17 +0000",
           "section": ""
         },
         {
@@ -516,10 +516,10 @@
           "section": ""
         },
         {
-          "title": "US Rep. Ilhan Omar’s home searched by immigration agents",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/us-rep-ilhan-omars-home-searched-by-immigration-agents?traffic_source=rss",
+          "title": "Teenager shoots headmaster, teacher at French school",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 19:37:11 +0000",
+          "ts": "Mon, 12 Oct 2026 19:44:00 +0000",
           "section": ""
         },
         {
@@ -551,10 +551,10 @@
           "section": ""
         },
         {
-          "title": "U.S. Navy to Integrate LRASM into USAF’s B-52 Strategic Bombers",
-          "url": "https://www.navalnews.com/naval-news/2026/10/u-s-navy-to-integrate-lrasm-into-usafs-b-52-strategic-bombers/",
+          "title": "Video: Inside Naval Group’s Next-Gen SETIS Combat Management System",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/video-inside-naval-groups-next-gen-setis-combat-management-system/",
           "source": "Naval News",
-          "ts": "Mon, 12 Oct 2026 12:30:03 +0000",
+          "ts": "Mon, 12 Oct 2026 14:50:55 +0000",
           "section": ""
         },
         {
