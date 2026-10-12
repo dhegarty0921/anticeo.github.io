@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:05:31.274603Z",
+  "generated_at": "2026-10-12T22:26:51.254570Z",
   "headline": {
     "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
     "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss"
@@ -16,10 +16,10 @@
           "section": ""
         },
         {
-          "title": "Democratic senator talks Trump's Russian diesel deal",
-          "url": "https://www.npr.org/2026/10/12/nx-s1-5998040/democratic-senator-talks-trumps-russian-diesel-deal",
+          "title": "New White House press secretary a \"devoted fan\" of Trump and MAGA",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998948/new-white-house-press-secretary-a-devoted-fan-of-trump-and-maga",
           "source": "NPR Topics: Politics",
-          "ts": "Mon, 12 Oct 2026 07:37:00 -0400",
+          "ts": "Mon, 12 Oct 2026 18:17:43 -0400",
           "section": ""
         },
         {
@@ -58,13 +58,6 @@
           "section": ""
         },
         {
-          "title": "Federal agents search Rep. Ilhan Omar's DC home, DOJ says it approved the warrant",
-          "url": "https://www.npr.org/2026/10/12/nx-s1-5998856/federal-agents-search-congressperson-home-dc-doj",
-          "source": "NPR Topics: News",
-          "ts": "Mon, 12 Oct 2026 13:17:17 -0400",
-          "section": ""
-        },
-        {
           "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
           "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -72,10 +65,10 @@
           "section": ""
         },
         {
-          "title": "Republican strategist on how Trump's personal grievances could affect the GOP",
-          "url": "https://www.npr.org/2026/10/12/nx-s1-5996646/republican-strategist-on-how-trumps-personal-grievances-could-affect-the-gop",
+          "title": "Government spent $10 million on pro-Trump ads after president said super PAC would fund",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
           "source": "NPR Topics: Politics",
-          "ts": "Mon, 12 Oct 2026 04:39:36 -0400",
+          "ts": "Mon, 12 Oct 2026 18:16:47 -0400",
           "section": ""
         },
         {
@@ -100,13 +93,6 @@
           "section": ""
         },
         {
-          "title": "American White People Are Losing 14th Amendment Protection, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/american-white-people-are-losing-14th-amendment-protection/",
-          "source": "The Unz Review:",
-          "ts": "Mon, 12 Oct 2026 04:00:56 +0000",
-          "section": ""
-        },
-        {
           "title": "The Right’s Desperate Conspiracy Theory About James Talarico Goes Up In Flames",
           "url": "https://www.rollingstone.com/politics/politics-news/james-talarico-mental-health-hospital-ohio-conspiracy-1235641325/",
           "source": "Politics News",
@@ -118,6 +104,13 @@
           "url": "https://www.thecanary.co/explainer/2026/10/07/somalia-climate-crisis/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 16:30:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democratic senator talks Trump's Russian diesel deal",
+          "url": "https://www.npr.org/2026/10/12/nx-s1-5998040/democratic-senator-talks-trumps-russian-diesel-deal",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 12 Oct 2026 07:37:00 -0400",
           "section": ""
         },
         {
@@ -156,13 +149,6 @@
           "section": ""
         },
         {
-          "title": "Trump’s Retreat: How al-Aqsa Flood Took Down the US Empire, by Kevin Barrett",
-          "url": "https://www.unz.com/kbarrett/trumps-retreat-how-al-aqsa-flood-took-down-the-us-empire/",
-          "source": "The Unz Review:",
-          "ts": "Mon, 12 Oct 2026 04:00:50 +0000",
-          "section": ""
-        },
-        {
           "title": "Trump’s Vendetta Against Ilhan Omar Now Involves Federal Agents Raiding Her Home",
           "url": "https://www.rollingstone.com/politics/politics-news/ilhan-omar-home-searched-federal-agents-1235641187/",
           "source": "Politics News",
@@ -177,17 +163,17 @@
           "section": ""
         },
         {
-          "title": "Does Vaccination Cause Autism: An Introduction, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/does-vaccination-cause-autism-an-introduction/",
-          "source": "The Unz Review:",
-          "ts": "Mon, 12 Oct 2026 04:00:33 +0000",
-          "section": ""
-        },
-        {
           "title": "The Guardian inverts reality as number of UK anti-Zionist Jews leaps by 50%",
           "url": "https://www.thecanary.co/skwawkbox/2026/10/07/guardian-data-story-wrong/",
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 09:28:25 +0000",
+          "section": ""
+        },
+        {
+          "title": "The U.S. Has Kept Its Distance From the Saudi-Houthi Fight, But Can That Last?",
+          "url": "https://www.washingtonsun.com/foreign-policy/us-distance-saudi-houthi-fight?ct=t",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Fri, 09 Oct 2026 19:38:00 +0000",
           "section": ""
         }
       ]
@@ -196,7 +182,7 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "What to know about Pope Leo XIV’s lung surgery on Tuesday",
+          "title": "What to know about Pope Leo XIV’s upcoming lung surgery",
           "url": "https://religionnews.com/2026/10/12/what-to-know-about-pope-leo-xivs-lung-surgery-on-tuesday/",
           "source": "RNS",
           "ts": "Mon, 12 Oct 2026 21:25:13 +0000",
@@ -334,10 +320,10 @@
           "section": ""
         },
         {
-          "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
-          "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
+          "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
+          "url": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 21:33:13 +0000",
+          "ts": "Mon, 12 Oct 2026 22:23:44 +0000",
           "section": ""
         },
         {
@@ -425,10 +411,10 @@
           "section": ""
         },
         {
-          "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-          "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
+          "title": "Canada’s Carney calls for unity as Alberta prepares for secession vote",
+          "url": "https://www.aljazeera.com/news/2026/10/12/canadas-carney-calls-for-unity-as-alberta-prepares-for-secession-vote?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 21:27:42 +0000",
+          "ts": "Mon, 12 Oct 2026 21:33:13 +0000",
           "section": ""
         },
         {
@@ -516,10 +502,10 @@
           "section": ""
         },
         {
-          "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
-          "url": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+          "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
+          "url": "https://www.aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 21:16:58 +0000",
+          "ts": "Mon, 12 Oct 2026 21:27:42 +0000",
           "section": ""
         },
         {
