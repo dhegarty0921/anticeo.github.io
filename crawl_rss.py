@@ -18,8 +18,15 @@ FALLBACKS = {
     "https://electronicintifada.net/rss.xml":
         "https://news.google.com/rss/search?q=site:electronicintifada.net&hl=en-US&gl=US&ceid=US:en",
 }
+# Per-feed section override: every item from a listed feed lands in the given
+# section, regardless of title keywords or domain classification in build_json.py.
+# (Originally only used for Google News fallbacks, since fallback URLs point at
+# news.google.com instead of the real domain; now also pins author/aggregated
+# feeds whose domain mapping or keyword mix would misclassify them.)
 SECTION_HINT = {
     "https://electronicintifada.net/rss.xml": "MILITARY INDUSTRIAL COMPLEX",
+    "https://headlineusa.com/author/ksilva/feed/": "PARA POLITICAL INTRIGUE",
+    "https://www.globalresearch.ca/feed/": "MILITARY INDUSTRIAL COMPLEX",
 }
 
 for url in src.get("feeds", []):
@@ -41,7 +48,7 @@ for url in src.get("feeds", []):
             "source": source,
             "ts": ts
         }
-        if used_fallback and url in SECTION_HINT:
+        if url in SECTION_HINT:
             rec["section"] = SECTION_HINT[url]
         feed_items.append(rec)
     per_feed.append(feed_items)
