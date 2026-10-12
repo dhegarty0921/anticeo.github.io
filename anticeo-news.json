@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T03:17:04.014311Z",
+  "generated_at": "2026-10-12T03:55:20.526433Z",
   "headline": {
     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
     "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
@@ -23,10 +23,10 @@
           "section": ""
         },
         {
-          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
-          "url": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
+          "title": "Federal Judge Bars Trump Administration From Airing Publicly Funded Ads",
+          "url": "https://www.nytimes.com/2026/10/11/us/politics/judge-bars-trump-taxpayer-ads.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 11 Oct 2026 22:22:16 +0000",
+          "ts": "Mon, 12 Oct 2026 03:14:37 +0000",
           "section": ""
         },
         {
@@ -86,10 +86,10 @@
           "section": ""
         },
         {
-          "title": "Democrats Press Pentagon on Iran Civilian Deaths",
-          "url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
+          "title": "In Maine Senate Race, Anxious Democrats Turn to Bernie Sanders for a Jolt",
+          "url": "https://www.nytimes.com/2026/10/11/us/politics/maine-bernie-sanders-troy-jackson-seante-democrats.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 11 Oct 2026 18:28:39 +0000",
+          "ts": "Sun, 11 Oct 2026 22:22:16 +0000",
           "section": ""
         },
         {
@@ -156,10 +156,10 @@
           "section": ""
         },
         {
-          "title": "How the White House Manufactured a Narrative About a Trump Aide’s Call Logs",
-          "url": "https://www.nytimes.com/2026/10/11/us/politics/white-house-manufactured-narrative-solomon.html",
+          "title": "Democrats Press Pentagon on Iran Civilian Deaths",
+          "url": "https://www.nytimes.com/2026/10/11/us/politics/democrats-press-pentagon-on-iran-civilian-deaths.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 11 Oct 2026 19:15:03 +0000",
+          "ts": "Sun, 11 Oct 2026 18:28:39 +0000",
           "section": ""
         },
         {
@@ -191,13 +191,6 @@
           "section": ""
         },
         {
-          "title": "Advanced Technology Will Not Save Us, by Caitlin Johnstone",
-          "url": "https://www.unz.com/cjohnstone/advanced-technology-will-not-save-us/",
-          "source": "The Unz Review:",
-          "ts": "Sun, 11 Oct 2026 04:00:57 +0000",
-          "section": ""
-        },
-        {
           "title": "Charlie Kirk Event Attendee Sues Candace Owens",
           "url": "https://headlineusa.com/charlie-kirk-event-attendee-sues-candace-owens/",
           "source": "Ken Silva, Author at Headline USA",
@@ -219,6 +212,13 @@
           "section": ""
         },
         {
+          "title": "Advanced Technology Will Not Save Us, by Caitlin Johnstone",
+          "url": "https://www.unz.com/cjohnstone/advanced-technology-will-not-save-us/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 11 Oct 2026 04:00:57 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump Official Lauds Administration for ‘Protecting White American Men From Discrimination’",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-administration-protect-white-american-men-1235639789/",
           "source": "Politics News",
@@ -230,13 +230,6 @@
           "url": "https://www.scmp.com/news/china/diplomacy/article/3370028/g2-illusion-after-xi-trump-summit-china-wants-equality-while-us-seeks-deals",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Thu, 08 Oct 2026 14:17:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Reflections on the Price of Peace, by Hans Vogel",
-          "url": "https://www.unz.com/article/reflections-on-the-price-of-peace/",
-          "source": "The Unz Review:",
-          "ts": "Sun, 11 Oct 2026 04:00:02 +0000",
           "section": ""
         },
         {
@@ -383,17 +376,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
-          "url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+          "title": "North Korea fires missiles after Seoul's hypersonic test",
+          "url": "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-11T22:59:00Z",
+          "ts": "2026-10-12T03:24:00Z",
           "section": ""
         },
         {
-          "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
+          "title": "North Korea fires multiple ballistic missiles towards the sea",
+          "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 02:11:21 +0000",
+          "ts": "Mon, 12 Oct 2026 03:37:12 +0000",
           "section": ""
         },
         {
@@ -467,17 +460,24 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
-          "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-11T22:18:00Z",
+          "title": "Sinwar Tore the Mask Off Zionism. But At What Cost?, by Mike Whitney",
+          "url": "https://www.unz.com/mwhitney/sinwar-tore-the-mask-off-zionism-but-at-what-cost/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 11 Oct 2026 04:20:18 +0000",
           "section": ""
         },
         {
-          "title": "Bridge washed away by torrent of water in Nepal",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-clip-nepal-bridgewashesaway-np?traffic_source=rss",
+          "title": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+          "url": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-11T22:59:00Z",
+          "section": ""
+        },
+        {
+          "title": "At least 139 dead as migrant boat from Djibouti to Yemen capsizes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 01:24:26 +0000",
+          "ts": "Mon, 12 Oct 2026 03:09:11 +0000",
           "section": ""
         },
         {
@@ -544,17 +544,17 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
-          "url": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-rdf",
+          "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
+          "url": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-11T19:41:00Z",
+          "ts": "2026-10-11T22:18:00Z",
           "section": ""
         },
         {
-          "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
-          "url": "https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote?traffic_source=rss",
+          "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
+          "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 12 Oct 2026 01:12:35 +0000",
+          "ts": "Mon, 12 Oct 2026 02:11:21 +0000",
           "section": ""
         },
         {
