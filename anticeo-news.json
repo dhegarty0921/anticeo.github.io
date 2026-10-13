@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T01:15:42.699063Z",
+  "generated_at": "2026-10-13T01:52:42.481723Z",
   "headline": {
     "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
     "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss"
@@ -139,6 +139,13 @@
           "url": "https://www.thepinknews.com/2026/10/12/william-shatner-pillion-film-neil-degrasse-tyson-alexander-skarsgard/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Mon, 12 Oct 2026 14:17:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Scramble to Rewrite Biden’s Record on Gaza",
+          "url": "https://www.youtube.com/watch?v=tLYGxe1JqLU",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Sun, 11 Oct 2026 20:24:00 +0000",
           "section": ""
         },
         {
@@ -320,8 +327,8 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "'Breaking Bad' actor and disability activist RJ Mitte dies",
-          "url": "https://www.dw.com/en/breaking-bad-actor-and-disability-activist-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf",
+          "title": "'Breaking Bad' actor and disability advocate RJ Mitte dies",
+          "url": "https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-13T01:00:00Z",
           "section": ""
@@ -373,6 +380,13 @@
           "url": "https://www.navalnews.com/naval-news/2026/10/french-navy-intercepts-and-boards-shadow-fleet-tanker-df-peak-south-of-reunion/",
           "source": "Naval News",
           "ts": "Mon, 12 Oct 2026 20:35:27 +0000",
+          "section": ""
+        },
+        {
+          "title": "How China and America Can Move from Competition to Stability",
+          "url": "https://quincyinst.org/2026/10/12/how-china-and-america-can-move-from-competition-to-stability/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Mon, 12 Oct 2026 15:34:13 +0000",
           "section": ""
         },
         {
@@ -457,6 +471,13 @@
           "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-highlights-m38-m48-musv-and-containerized-munitions-at-ausa-2026/",
           "source": "Naval News",
           "ts": "Mon, 12 Oct 2026 19:36:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Israel Lobby’s Changing Fortunes",
+          "url": "https://www.theamericanconservative.com/the-israel-lobbys-changing-fortunes/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Mon, 12 Oct 2026 13:21:00 +0000",
           "section": ""
         },
         {
@@ -565,11 +586,25 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "America Is Safer 25 Years After Launching the War on Terror, But What About the Middle East?",
+          "url": "https://www.chicagotribune.com/2026/10/11/opinion-afghanistan-us-war-on-terror/?ct=t",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Sun, 11 Oct 2026 15:37:53 +0000",
+          "section": ""
+        },
+        {
           "title": "Socialism’s Arrow in Imperialism’s Bow",
           "url": "https://www.globalresearch.ca/socialism-arrow-imperialism-bow/5943491",
           "source": "Global Research",
           "ts": "Mon, 12 Oct 2026 14:48:51 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Can Iran prevent a wider war between the US and Houthis?",
+          "url": "https://www.youtube.com/watch?v=5JCrMBtMF6A",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Sun, 11 Oct 2026 13:40:44 +0000",
+          "section": ""
         }
       ]
     },
