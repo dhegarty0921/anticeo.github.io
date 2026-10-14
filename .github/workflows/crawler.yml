@@ -61,4 +61,12 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
+        # Pages deployments occasionally stall in "updating_pages" and burn the
+        # full timeout (runs #594/#595). Don't fail the run on the first stall;
+        # the retry step below redeploys the same artifact.
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+
+      - name: Deploy to GitHub Pages (retry)
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
