@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T15:27:52.745696Z",
+  "generated_at": "2026-10-14T15:43:48.975985Z",
   "headline": {
     "title": "US inflation rises more than expected - here's what is happening with prices",
     "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
@@ -23,10 +23,10 @@
           "section": ""
         },
         {
-          "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
-          "url": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html",
+          "title": "Kamala Harris to Campaign for Democrats in Mississippi, New Hampshire and Wisconsin Ahead of Midterms",
+          "url": "https://www.nytimes.com/2026/10/14/us/politics/kamala-harris-midterms-democrats-campaign.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 14 Oct 2026 12:26:57 +0000",
+          "ts": "Wed, 14 Oct 2026 15:29:17 +0000",
           "section": ""
         },
         {
@@ -100,10 +100,10 @@
           "section": ""
         },
         {
-          "title": "Supreme Court Weighs Privacy Law From the Videotape Era of ‘Be Kind, Rewind’",
-          "url": "https://www.nytimes.com/2026/10/14/us/politics/supreme-court-bork-video-privacy.html",
+          "title": "A Trump Backlash Endangers Susan Collins in the Maine Senate Race",
+          "url": "https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 14 Oct 2026 09:01:31 +0000",
+          "ts": "Wed, 14 Oct 2026 12:26:57 +0000",
           "section": ""
         },
         {
@@ -142,10 +142,10 @@
           "section": ""
         },
         {
-          "title": "How Top Trump Officials Stoked Fears of a Nuke That Could Fry the Power Grid",
-          "url": "https://www.nytimes.com/2026/10/14/science/electromagnetic-pulse-nuke-trump-officials.html",
+          "title": "Supreme Court Weighs Privacy Law From the Videotape Era of ‘Be Kind, Rewind’",
+          "url": "https://www.nytimes.com/2026/10/14/us/politics/supreme-court-bork-video-privacy.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 14 Oct 2026 09:00:30 +0000",
+          "ts": "Wed, 14 Oct 2026 09:01:31 +0000",
           "section": ""
         },
         {
@@ -210,19 +210,19 @@
           "source": "Canary",
           "ts": "Wed, 07 Oct 2026 12:20:13 +0000",
           "section": ""
+        },
+        {
+          "title": "Trump Says ‘Houthis Behaving Very Badly’ as Saudi Strikes Hit Oil Infrastructure in Yemen",
+          "url": "https://news.antiwar.com/2026/10/13/trump-says-houthis-misbehaving-as-saudi-strikes-hit-oil-infrastructure-in-yemen/?utm_source=rss&utm_medium=rss&utm_campaign=trump-says-houthis-misbehaving-as-saudi-strikes-hit-oil-infrastructure-in-yemen",
+          "source": "News From Antiwar.com",
+          "ts": "Tue, 13 Oct 2026 18:08:31 +0000",
+          "section": ""
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
-        {
-          "title": "SBC seminaries see new generation of leaders with R. Scott Pace installed at Southeastern",
-          "url": "https://religionnews.com/2026/10/13/sbc-seminaries-see-a-generational-change-in-leadership-with-r-scott-pace-installed-at-southeastern/",
-          "source": "RNS",
-          "ts": "Tue, 13 Oct 2026 21:53:50 +0000",
-          "section": ""
-        },
         {
           "title": "The Most Cursed Team in American Sports",
           "url": "https://www.theatlantic.com/magazine/2026/12/josh-allen-buffalo-bills-curse/688982/?utm_source=feed",
@@ -255,14 +255,7 @@
           "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 14 Oct 2026 15:08:35 GMT",
-          "section": ""
-        },
-        {
-          "title": "Even murderers are made in the image of God",
-          "url": "https://religionnews.com/2026/10/13/even-murderers-are-made-in-the-image-of-god/",
-          "source": "RNS",
-          "ts": "Tue, 13 Oct 2026 21:44:36 +0000",
+          "ts": "Wed, 14 Oct 2026 15:25:15 GMT",
           "section": ""
         },
         {
@@ -298,13 +291,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/14/new-york-city-horse-drawn-carriages-ban",
           "source": "US news | The Guardian",
           "ts": "Wed, 14 Oct 2026 14:14:20 GMT",
-          "section": ""
-        },
-        {
-          "title": "Pope Leo XIV diagnosed with lung cancer after surgery to remove part of right lung",
-          "url": "https://religionnews.com/2026/10/13/pope-leo-xiv-diagnosed-with-lung-cancer-after-surgery-to-remove-part-of-right-lung/",
-          "source": "RNS",
-          "ts": "Tue, 13 Oct 2026 21:02:19 +0000",
           "section": ""
         },
         {
@@ -348,17 +334,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-          "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
+          "title": "India urges Russia, Ukraine to protect Black Sea shipping",
+          "url": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-14T15:13:00Z",
+          "ts": "2026-10-14T15:29:00Z",
           "section": ""
         },
         {
-          "title": "Saudi national charged with planting a listening device at OpenAI offices",
-          "url": "https://www.aljazeera.com/news/2026/10/14/saudi-national-charged-with-planting-a-listening-device-at-openai-offices?traffic_source=rss",
+          "title": "Pope Leo recovering well after cancer surgery, Vatican says",
+          "url": "https://www.aljazeera.com/news/2026/10/14/pope-leo-recovering-well-after-cancer-surgery-vatican-says?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 14 Oct 2026 14:39:29 +0000",
+          "ts": "Wed, 14 Oct 2026 15:09:48 +0000",
           "section": ""
         },
         {
@@ -390,13 +376,6 @@
           "section": ""
         },
         {
-          "title": "New Launcher Spotted Aboard Royal Navy Type 45 Destroyer",
-          "url": "https://www.navalnews.com/naval-news/2026/10/type-45-destroyer-drone-interceptor-launchers/",
-          "source": "Naval News",
-          "ts": "Wed, 14 Oct 2026 12:33:16 +0000",
-          "section": ""
-        },
-        {
           "title": "Yemeni Politics and Houthi Conflict",
           "url": "https://podcasts.apple.com/us/podcast/6-yemen-yemeni-politics-and-houthi-conflict-annelle/id589864479?i=1000796219136&l=zh-Hans-CN",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -425,31 +404,24 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "The “Thirdworldization” of the Russian Federation.  IMF-World Bank Shock Treatment under Boris Yeltsin",
-          "url": "https://www.globalresearch.ca/thirdworldization-russian-federation/5867385",
+          "title": "Reiner Fuellmich Needs Our Help. In Germany – a political prisoner is tortured.",
+          "url": "https://www.globalresearch.ca/reiner-fuellmich-needs-our-help-in-germany-a-political-prisoner-is-tortured/5943814",
           "source": "Global Research",
-          "ts": "Wed, 14 Oct 2026 10:57:17 +0000",
+          "ts": "Wed, 14 Oct 2026 14:48:09 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Albania: Fire at Education Ministry as students protest",
-          "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
+          "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
+          "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-14T14:56:00Z",
+          "ts": "2026-10-14T15:13:00Z",
           "section": ""
         },
         {
-          "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
-          "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil?traffic_source=rss",
+          "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
+          "url": "https://www.aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 14 Oct 2026 14:38:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "Zelensky Says Ukraine’s Backers Didn’t Provide Early Warning on Russian Missile Launch for Second Night",
-          "url": "https://news.antiwar.com/2026/10/13/zelensky-says-ukraines-backers-didnt-provide-early-warning-on-russian-missile-launch-for-second-night/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-says-ukraines-backers-didnt-provide-early-warning-on-russian-missile-launch-for-second-night",
-          "source": "News From Antiwar.com",
-          "ts": "Tue, 13 Oct 2026 22:06:00 +0000",
+          "ts": "Wed, 14 Oct 2026 15:06:18 +0000",
           "section": ""
         },
         {
@@ -481,13 +453,6 @@
           "section": ""
         },
         {
-          "title": "Hellenic Navy Tests SARONIC’s Corsair USV Ahead of Major Order",
-          "url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-tests-saronics-corsair-usv-ahead-of-major-order/",
-          "source": "Naval News",
-          "ts": "Wed, 14 Oct 2026 10:28:21 +0000",
-          "section": ""
-        },
-        {
           "title": "Israel’s New & Terrifying Security Doctrine",
           "url": "https://www.youtube.com/watch?v=7m9IFCdKrkc",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -516,24 +481,24 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "All Wars Are Bankers’ Wars: Iran and the Bankers’ Endgame",
-          "url": "https://www.globalresearch.ca/all-wars-bankers-wars-iran/5922072",
+          "title": "The “Thirdworldization” of the Russian Federation.  IMF-World Bank Shock Treatment under Boris Yeltsin",
+          "url": "https://www.globalresearch.ca/thirdworldization-russian-federation/5867385",
           "source": "Global Research",
-          "ts": "Wed, 14 Oct 2026 08:18:14 +0000",
+          "ts": "Wed, 14 Oct 2026 10:57:17 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Climate change and drone attacks exacerbate the humanitarian crisis in war-torn Sudan",
-          "url": "https://www.dw.com/en/climate-change-and-drone-attacks-exacerbate-the-humanitarian-crisis-in-war-torn-sudan/a-79659603?maca=en-rss-en-all-1573-rdf",
+          "title": "Albania: Fire at Education Ministry as students protest",
+          "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-14T14:25:00Z",
+          "ts": "2026-10-14T14:56:00Z",
           "section": ""
         },
         {
-          "title": "What is potash, and why is the US importing it from Belarus?",
-          "url": "https://www.aljazeera.com/news/2026/10/14/what-is-potash-and-why-is-the-us-importing-it-from-belarus?traffic_source=rss",
+          "title": "Manchester City vs PSG Live: Champions League",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/14/manchester-city-vs-psg-live-champions-league?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 14 Oct 2026 14:36:48 +0000",
+          "ts": "Wed, 14 Oct 2026 15:00:00 +0000",
           "section": ""
         },
         {
@@ -565,13 +530,6 @@
           "section": ""
         },
         {
-          "title": "HD HHI Launches Third 2,400-Ton OPV ‘BRP Rajah Humabon’ for Philippine Navy",
-          "url": "https://www.navalnews.com/naval-news/2026/10/hd-hhi-launches-third-2400-ton-opv-brp-rajah-humabon-for-philippine-navy/",
-          "source": "Naval News",
-          "ts": "Wed, 14 Oct 2026 08:16:31 +0000",
-          "section": ""
-        },
-        {
           "title": "Iran Threatens Ground Attacks If US Restarts Attacks",
           "url": "https://www.youtube.com/watch?v=GUVlszo2VAM",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -600,10 +558,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Video: Reclaiming Human Rights From U.S.-NATO Stranglehold",
-          "url": "https://www.globalresearch.ca/video-reclaiming-human-rights-from-u-s-nato-stranglehold/5942782",
+          "title": "All Wars Are Bankers’ Wars: Iran and the Bankers’ Endgame",
+          "url": "https://www.globalresearch.ca/all-wars-bankers-wars-iran/5922072",
           "source": "Global Research",
-          "ts": "Tue, 13 Oct 2026 14:53:05 +0000",
+          "ts": "Wed, 14 Oct 2026 08:18:14 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
@@ -618,6 +576,13 @@
           "url": "https://dailycaller.com/2026/10/12/china-ukraine-war/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 12 Oct 2026 20:58:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "How China and America Can Move from Competition to Stability",
+          "url": "https://quincyinst.org/2026/10/12/how-china-and-america-can-move-from-competition-to-stability/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Mon, 12 Oct 2026 15:34:13 +0000",
           "section": ""
         }
       ]
