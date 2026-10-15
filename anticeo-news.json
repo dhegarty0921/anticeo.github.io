@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:24:21.766947Z",
+  "generated_at": "2026-10-15T20:36:08.925266Z",
   "headline": {
     "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
     "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
@@ -16,10 +16,10 @@
           "section": ""
         },
         {
-          "title": "Lots of red state stumping for President Trump",
-          "url": "https://www.npr.org/2026/10/15/nx-s1-6003645/lots-of-red-state-stumping-for-president-trump",
+          "title": "Suspicious mailings to election officials, congressional offices under investigation",
+          "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
           "source": "NPR Topics: Politics",
-          "ts": "Thu, 15 Oct 2026 16:13:33 -0400",
+          "ts": "Thu, 15 Oct 2026 15:54:15 -0400",
           "section": ""
         },
         {
@@ -58,20 +58,6 @@
           "section": ""
         },
         {
-          "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-          "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 15 Oct 2026 15:55:14 GMT",
-          "section": ""
-        },
-        {
-          "title": "Suspicious mailings to election officials, congressional offices under investigation",
-          "url": "https://www.npr.org/2026/10/15/nx-s1-6003857/suspicious-mailings-election-congressional-offices",
-          "source": "NPR Topics: News",
-          "ts": "Thu, 15 Oct 2026 15:54:15 -0400",
-          "section": ""
-        },
-        {
           "title": "Letters with 'suspicious substances' sent to US election offices",
           "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -79,17 +65,17 @@
           "section": ""
         },
         {
-          "title": "They voted for Trump in 2024, but now are talking about voting to check his power",
-          "url": "https://www.npr.org/2026/10/15/nx-s1-5996813/they-voted-for-trump-in-2024-but-now-are-talking-about-voting-to-check-his-power",
+          "title": "U.S. historic preservation law faces the most serious threat in its 60-year history",
+          "url": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary",
           "source": "NPR Topics: Politics",
-          "ts": "Thu, 15 Oct 2026 16:13:32 -0400",
+          "ts": "Thu, 15 Oct 2026 14:38:05 -0400",
           "section": ""
         },
         {
           "title": "Trump Administration Sues California Over Voter Rolls",
           "url": "https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 15 Oct 2026 19:43:20 +0000",
+          "ts": "Thu, 15 Oct 2026 20:24:32 +0000",
           "section": ""
         },
         {
@@ -132,6 +118,20 @@
           "url": "https://www.thecanary.co/discovery/lifestyle/2026/10/13/how-to-retrain-as-a-personal-trainer-while-working-full-time/",
           "source": "Canary",
           "ts": "Tue, 13 Oct 2026 12:18:54 +0000",
+          "section": ""
+        },
+        {
+          "title": "Maduro pleads not guilty to new torture-related charges in New York",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 15 Oct 2026 16:52:44 GMT",
+          "section": ""
+        },
+        {
+          "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+          "url": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 15 Oct 2026 12:45:02 -0400",
           "section": ""
         },
         {
@@ -390,10 +390,10 @@
           "section": ""
         },
         {
-          "title": "Cadillac Quit Chasing BMW. GM Says the Blackwing Has No Direct Rival",
-          "url": "https://www.thedrive.com/news/cadillac-quit-chasing-bmw-gm-says-the-blackwing-has-no-direct-rival",
+          "title": "Porsche Mission S Revealed: New Mid-Engine Supercar Gets a ‘Permanent’ Place in the Lineup",
+          "url": "https://www.thedrive.com/news/porsche-mission-s-revealed-new-mid-engine-supercar-gets-a-permanent-place-in-the-lineup",
           "source": "The Drive",
-          "ts": "Thu, 15 Oct 2026 12:12:25 -0400",
+          "ts": "Thu, 15 Oct 2026 16:30:00 -0400",
           "section": ""
         },
         {
@@ -481,10 +481,10 @@
           "section": ""
         },
         {
-          "title": "Corvette Fans Want a Z06X. GM Asks If You’d Pay Almost ZR1 Money",
-          "url": "https://www.thedrive.com/news/corvette-fans-want-a-z06x-gm-asks-if-youd-pay-almost-zr1-money",
+          "title": "Cadillac Quit Chasing BMW. GM Says the Blackwing Has No Direct Rival",
+          "url": "https://www.thedrive.com/news/cadillac-quit-chasing-bmw-gm-says-the-blackwing-has-no-direct-rival",
           "source": "The Drive",
-          "ts": "Thu, 15 Oct 2026 11:29:48 -0400",
+          "ts": "Thu, 15 Oct 2026 12:12:25 -0400",
           "section": ""
         },
         {
@@ -558,10 +558,10 @@
           "section": ""
         },
         {
-          "title": "New Volvo Heavy-Hauler Looks Like a Supersized Tonka Truck",
-          "url": "https://www.thedrive.com/news/new-volvo-heavy-hauler-looks-like-a-supersized-tonka-truck",
+          "title": "Corvette Fans Want a Z06X. GM Asks If You’d Pay Almost ZR1 Money",
+          "url": "https://www.thedrive.com/news/corvette-fans-want-a-z06x-gm-asks-if-youd-pay-almost-zr1-money",
           "source": "The Drive",
-          "ts": "Thu, 15 Oct 2026 11:04:22 -0400",
+          "ts": "Thu, 15 Oct 2026 11:29:48 -0400",
           "section": ""
         },
         {
@@ -626,10 +626,10 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
-          "title": "Just the Docs: Eight States Sue OpenAI, Alleging It Misled the Public About ChatGPT’s Safety",
-          "url": "https://www.justsecurity.org/160981/eight-states-sue-openai-chatgpt-safety/?utm_source=rss&utm_medium=rss&utm_campaign=eight-states-sue-openai-chatgpt-safety",
+          "title": "Guantanamo Dispatches: Four Possible Obstacles to Jury Selection in the USS Cole Case at Guantanamo Bay",
+          "url": "https://www.justsecurity.org/161003/guantanamo-dispatches-four-possible-obstacles-to-jury-selection-in-the-uss-cole-case-at-guantanamo-bay/?utm_source=rss&utm_medium=rss&utm_campaign=guantanamo-dispatches-four-possible-obstacles-to-jury-selection-in-the-uss-cole-case-at-guantanamo-bay",
           "source": "Just Security",
-          "ts": "Thu, 15 Oct 2026 18:24:46 +0000",
+          "ts": "Thu, 15 Oct 2026 20:25:19 +0000",
           "section": ""
         },
         {
@@ -682,10 +682,10 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "Lessons from U.S. Global Anti-Corruption Efforts and Opportunities Ahead",
-          "url": "https://www.justsecurity.org/160243/lessons-us-global-anticorruption-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=lessons-us-global-anticorruption-efforts",
+          "title": "Just the Docs: Eight States Sue OpenAI, Alleging It Misled the Public About ChatGPT’s Safety",
+          "url": "https://www.justsecurity.org/160981/eight-states-sue-openai-chatgpt-safety/?utm_source=rss&utm_medium=rss&utm_campaign=eight-states-sue-openai-chatgpt-safety",
           "source": "Just Security",
-          "ts": "Thu, 15 Oct 2026 13:15:02 +0000",
+          "ts": "Thu, 15 Oct 2026 18:24:46 +0000",
           "section": ""
         },
         {
@@ -738,10 +738,10 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "The Mythos of Digital Sovereignty",
-          "url": "https://www.justsecurity.org/157445/anthropic-mythos-digital-sovereignty/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-mythos-digital-sovereignty",
+          "title": "Lessons from U.S. Global Anti-Corruption Efforts and Opportunities Ahead",
+          "url": "https://www.justsecurity.org/160243/lessons-us-global-anticorruption-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=lessons-us-global-anticorruption-efforts",
           "source": "Just Security",
-          "ts": "Thu, 15 Oct 2026 13:05:04 +0000",
+          "ts": "Thu, 15 Oct 2026 13:15:02 +0000",
           "section": ""
         },
         {
