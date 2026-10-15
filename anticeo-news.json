@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:23:53.223948Z",
+  "generated_at": "2026-10-15T11:36:10.182571Z",
   "headline": {
     "title": "How backlash against data centres could shape the US midterm elections",
     "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss"
@@ -72,6 +72,13 @@
           "section": ""
         },
         {
+          "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+          "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+          "source": "NPR Topics: News",
+          "ts": "Thu, 15 Oct 2026 07:31:25 -0400",
+          "section": ""
+        },
+        {
           "title": "White House defends new press secretary amid questions about her legal credentials",
           "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -125,13 +132,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/inflation-numbers-trump-wrecked-economy-1235642667/",
           "source": "Politics News",
           "ts": "Wed, 14 Oct 2026 19:15:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
-          "url": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
-          "source": "NPR Topics: News",
-          "ts": "Thu, 15 Oct 2026 06:05:58 -0400",
           "section": ""
         },
         {
@@ -255,7 +255,7 @@
           "title": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 15 Oct 2026 11:01:32 GMT",
+          "ts": "Thu, 15 Oct 2026 11:28:46 GMT",
           "section": ""
         },
         {
@@ -348,17 +348,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Hamburg court sentences Iranian agents over plans to attack Jewish leaders in Germany",
-          "url": "https://www.dw.com/en/hamburg-court-sentences-iranian-agents-over-plans-to-attack-jewish-leaders-in-germany/a-79667895?maca=en-rss-en-all-1573-rdf",
+          "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+          "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-15T11:07:00Z",
+          "ts": "2026-10-15T11:32:00Z",
           "section": ""
         },
         {
-          "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
-          "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+          "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+          "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 15 Oct 2026 10:52:12 +0000",
+          "ts": "Thu, 15 Oct 2026 11:12:00 +0000",
           "section": ""
         },
         {
@@ -432,17 +432,17 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "German gamblers could claim losses back",
-          "url": "https://www.dw.com/en/german-gamblers-could-claim-losses-back/a-79667844?maca=en-rss-en-all-1573-rdf",
+          "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+          "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-15T10:50:00Z",
+          "ts": "2026-10-15T11:27:00Z",
           "section": ""
         },
         {
-          "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
-          "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+          "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+          "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 15 Oct 2026 10:46:08 +0000",
+          "ts": "Thu, 15 Oct 2026 10:52:12 +0000",
           "section": ""
         },
         {
@@ -516,17 +516,17 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
-          "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-rdf",
+          "title": "Hamburg court sentences Iranian agents over plans to attack Jewish leaders in Germany",
+          "url": "https://www.dw.com/en/hamburg-court-sentences-iranian-agents-over-plans-to-attack-jewish-leaders-in-germany/a-79667895?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-15T10:20:00Z",
+          "ts": "2026-10-15T11:07:00Z",
           "section": ""
         },
         {
-          "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
-          "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+          "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+          "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 15 Oct 2026 10:44:03 +0000",
+          "ts": "Thu, 15 Oct 2026 10:46:08 +0000",
           "section": ""
         },
         {
