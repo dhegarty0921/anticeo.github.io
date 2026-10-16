@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:50:14.911066Z",
+  "generated_at": "2026-10-16T06:08:36.630088Z",
   "headline": {
     "title": "Three children and teacher killed in US primary school shooting",
     "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
@@ -224,6 +224,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "In rare joint statement, evangelicals and Catholic bishops urge compassionate immigration laws",
+          "url": "https://religionnews.com/2026/10/15/evangelicals-and-catholic-bishops-says-compassion-and-wisdoms-should-shape-immigration-laws/",
+          "source": "RNS",
+          "ts": "Thu, 15 Oct 2026 21:12:42 +0000",
+          "section": ""
+        },
+        {
           "title": "How Pete Hegseth’s Plan for a Reality-TV Execution Imploded",
           "url": "https://www.theatlantic.com/national-security/2026/10/pete-hegseth-livestreamed-execution-plan/689020/?utm_source=feed",
           "source": "The Atlantic",
@@ -259,6 +266,13 @@
           "section": ""
         },
         {
+          "title": "After religious pushback, Trump says Pentagon won’t livestream execution",
+          "url": "https://religionnews.com/2026/10/15/after-religious-pushback-trump-says-pentagon-wont-livestream-execution-of-fort-hood-shooter/",
+          "source": "RNS",
+          "ts": "Thu, 15 Oct 2026 16:34:35 +0000",
+          "section": ""
+        },
+        {
           "title": "America’s Latest Inflation Check-In Doesn’t Look Good for Trump",
           "url": "https://www.theatlantic.com/newsletters/2026/10/inflation-trump-consumer-price-index-september/689030/?utm_source=feed",
           "source": "The Atlantic",
@@ -291,6 +305,13 @@
           "url": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Fri, 16 Oct 2026 01:59:51 GMT",
+          "section": ""
+        },
+        {
+          "title": "Attacking the Democrat’s religion isn’t working in Kansas",
+          "url": "https://religionnews.com/2026/10/15/attacking-the-democrats-religion-isnt-working-in-kansas/",
+          "source": "RNS",
+          "ts": "Thu, 15 Oct 2026 16:31:55 +0000",
           "section": ""
         },
         {
@@ -334,17 +355,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Carney says US trying to break Canada amid vote for Alberta independence referendum",
-          "url": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf",
+          "title": "India's 'Cockroaches' to march again after protest crackdown",
+          "url": "https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-16T04:24:00Z",
+          "ts": "2026-10-16T06:04:00Z",
           "section": ""
         },
         {
-          "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
-          "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+          "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 16 Oct 2026 05:28:29 +0000",
+          "ts": "Fri, 16 Oct 2026 05:51:40 +0000",
           "section": ""
         },
         {
@@ -418,17 +439,24 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Oregon school shooting: Gunman kills 3 students and teacher before being shot dead by community member",
-          "url": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf",
+          "title": "The Politics of Denial: When Americans Stop Seeing the Warning Signs",
+          "url": "https://www.globalresearch.ca/politics-denial-when-americans-stop-seeing-warning-signs/5943891",
+          "source": "Global Research",
+          "ts": "Thu, 15 Oct 2026 22:26:35 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Starlink: How Elon Musk's company influences geopolitics",
+          "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-15T21:59:00Z",
+          "ts": "2026-10-16T05:51:00Z",
           "section": ""
         },
         {
-          "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
-          "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+          "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+          "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 16 Oct 2026 05:15:09 +0000",
+          "ts": "Fri, 16 Oct 2026 05:28:29 +0000",
           "section": ""
         },
         {
@@ -488,17 +516,24 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
-          "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-rdf",
+          "title": "India Resists US Tariff Pressure and Sticks With Russian Oil",
+          "url": "https://www.globalresearch.ca/india-resists-us-tariff-pressure-sticks-russian-oil/5943888",
+          "source": "Global Research",
+          "ts": "Thu, 15 Oct 2026 22:18:10 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Carney says US trying to break Canada amid vote for Alberta independence referendum",
+          "url": "https://www.dw.com/en/carney-says-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-15T20:42:00Z",
+          "ts": "2026-10-16T04:24:00Z",
           "section": ""
         },
         {
-          "title": "Bystander guns down suspected primary school shooter in Oregon",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+          "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+          "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 16 Oct 2026 05:00:25 +0000",
+          "ts": "Fri, 16 Oct 2026 05:15:09 +0000",
           "section": ""
         },
         {
@@ -562,6 +597,13 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcC03a3RMdUxzR2NkZGkwMklocmZ0NlNkU2NuVVNwYmozdWhhZXl5YzZjSGtHLTgxbW1ON0RhUm51U0xmemhpRTIxOEF2WHhMVnlOTkQ3dmh5YjlDRUFrQXp1S0NkTHY1LTljTWlyS0wyd21qSHA0S0NlOF8zeFVmSlRnSkFtOEpmRDJ0X0d3SVBzZ2tnUm8zMnBySmFOTG1FZTZfLVJlN1lWTUk?oc=5",
           "source": "via Google News",
           "ts": "Tue, 06 Oct 2026 07:00:00 GMT",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Selected Articles: Video: Trump Wants Russian Diesel. Uncertain Peace Negotiations",
+          "url": "https://www.globalresearch.ca/selected-articles-video-trump-wants-russian-diesel-uncertain-peace-negotiations/5943942",
+          "source": "Global Research",
+          "ts": "Thu, 15 Oct 2026 18:49:26 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
