@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:35:54.710262Z",
+  "generated_at": "2026-10-16T11:48:25.252796Z",
   "headline": {
     "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
     "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
@@ -12,7 +12,7 @@
           "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
           "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Fri, 16 Oct 2026 10:36:50 GMT",
+          "ts": "Fri, 16 Oct 2026 11:41:58 GMT",
           "section": ""
         },
         {
@@ -58,17 +58,17 @@
           "section": ""
         },
         {
-          "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-          "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 16 Oct 2026 07:03:57 -0400",
-          "section": ""
-        },
-        {
           "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
           "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 15 Oct 2026 17:47:22 GMT",
+          "section": ""
+        },
+        {
+          "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+          "url": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 16 Oct 2026 07:03:57 -0400",
           "section": ""
         },
         {
@@ -128,17 +128,17 @@
           "section": ""
         },
         {
-          "title": "What this bankruptcy says about AI startups",
-          "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 16 Oct 2026 07:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "How to Retrain as a Personal Trainer While Working Full Time",
           "url": "https://www.thecanary.co/discovery/lifestyle/2026/10/13/how-to-retrain-as-a-personal-trainer-while-working-full-time/",
           "source": "Canary",
           "ts": "Tue, 13 Oct 2026 12:18:54 +0000",
+          "section": ""
+        },
+        {
+          "title": "Why some Gen Z voters who backed Trump now regret their decision",
+          "url": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 16 Oct 2026 05:00:00 -0400",
           "section": ""
         },
         {
@@ -245,10 +245,10 @@
           "section": ""
         },
         {
-          "title": "Can this Democrat crack the code for universal healthcare?",
-          "url": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
+          "title": "The case for data centers, explained by a person who wants you to like them",
+          "url": "https://www.vox.com/podcasts/506325/data-center-backlash-public-relations-change-minds",
           "source": "Vox",
-          "ts": "2026-10-16T06:30:00-04:00",
+          "ts": "2026-10-16T07:30:00-04:00",
           "section": ""
         },
         {
@@ -259,10 +259,10 @@
           "section": ""
         },
         {
-          "title": "Trump attacks fellow Republicans for ‘hurting Texas’ during senate election race – US politics live",
+          "title": "Trump attacks Republicans for ‘hurting Texas’ as Paxton struggles against surging Talarico – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 11:23:18 GMT",
+          "ts": "Fri, 16 Oct 2026 11:26:09 GMT",
           "section": ""
         },
         {
@@ -287,10 +287,10 @@
           "section": ""
         },
         {
-          "title": "I outsourced my life to AI agents for two weeks. It went…weirdly.",
-          "url": "https://www.vox.com/advice/506547/muse-instinct-chatgpt-dots-ai-personal-agent",
+          "title": "Can this Democrat crack the code for universal healthcare?",
+          "url": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
           "source": "Vox",
-          "ts": "2026-10-16T06:00:00-04:00",
+          "ts": "2026-10-16T06:30:00-04:00",
           "section": ""
         },
         {
@@ -301,10 +301,10 @@
           "section": ""
         },
         {
-          "title": "First Thing: Three young children killed in Oregon elementary school shooting",
-          "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
+          "title": "Shooter kills three children and one teacher at Oregon elementary school",
+          "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 11:07:08 GMT",
+          "ts": "Fri, 16 Oct 2026 11:25:44 GMT",
           "section": ""
         },
         {
@@ -329,10 +329,10 @@
           "section": ""
         },
         {
-          "title": "Trump’s plan to deport a member of Congress",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/506572/trump-ilhan-omar-investigation-citizenship-deport",
+          "title": "I outsourced my life to AI agents for two weeks. It went…weirdly.",
+          "url": "https://www.vox.com/advice/506547/muse-instinct-chatgpt-dots-ai-personal-agent",
           "source": "Vox",
-          "ts": "2026-10-15T18:10:00-04:00",
+          "ts": "2026-10-16T06:00:00-04:00",
           "section": ""
         },
         {
@@ -343,10 +343,10 @@
           "section": ""
         },
         {
-          "title": "‘Too big to rig’: No Kings movement heads to the polls to boost early voting",
-          "url": "https://www.theguardian.com/us-news/2026/oct/16/no-kings-early-voting-midterm-elections",
+          "title": "First Thing: Three young children killed in Oregon elementary school shooting",
+          "url": "https://www.theguardian.com/us-news/2026/oct/16/first-thing-three-young-children-killed-in-oregon-elementary-school-shooting",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 10:30:46 GMT",
+          "ts": "Fri, 16 Oct 2026 11:07:08 GMT",
           "section": ""
         }
       ]
@@ -362,7 +362,7 @@
           "section": ""
         },
         {
-          "title": "Locals in India’s Odisha allege forgery behind land taken for Adani mine",
+          "title": "‘It was fake’: Indian villagers allege forgery behind Adani mine project",
           "url": "https://www.aljazeera.com/news/2026/10/16/tribals-in-indias-odisha-allege-forgery-behind-lands-taken-for-adani-mine?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 16 Oct 2026 11:05:45 +0000",
@@ -430,13 +430,6 @@
           "source": "MintPress News",
           "ts": "Wed, 14 Oct 2026 20:02:08 +0000",
           "section": ""
-        },
-        {
-          "title": "Universities fire dozens amid pressure from Zionist billionaires - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTUNZOVNhYVltNDNwM3ZmSnRsUDFhdEZGTWlDbVo2T191bm1QbW43bVR1OHRRY2xVOGpsN1hmVXlRTjNWenp0WUF4VEVQZElNbnlGS0JCaEpsaWhEenVfSW5LbHhVcFdmdUlwM3lJN1V0eWwwNDB2MGJxUWdseGFYSlFOcGdUUWpSU1pZUXphcDUyUkV2QXJxMG1Oc1NrUTc3dURUZXdfMkFnRGRBT2c?oc=5",
-          "source": "via Google News",
-          "ts": "Wed, 14 Oct 2026 13:17:21 GMT",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "This Week’s Most Popular Articles",
@@ -507,13 +500,6 @@
           "source": "MintPress News",
           "ts": "Wed, 14 Oct 2026 15:18:11 +0000",
           "section": ""
-        },
-        {
-          "title": "This did not start in October 2023 - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhd0JmOXFIVE5RVFduWnhNajMzRHd0TjBLZWVnalZGb2NzVVNEZ1c4LXB1dU4zWFVON0dMSTE3N0ZwZU1nTWZhX0VrdEh0aUswel9vWXZvQk14T1NleXRiTVJ4V3VOd0xTdDllam14RkFNTURhM2ZHclBhTQ?oc=5",
-          "source": "via Google News",
-          "ts": "Sat, 10 Oct 2026 12:43:03 GMT",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Keep Your News Unchained. Watch for an ‘October Surprise.’",
@@ -591,13 +577,6 @@
           "source": "MintPress News",
           "ts": "Fri, 09 Oct 2026 19:36:03 +0000",
           "section": ""
-        },
-        {
-          "title": "susan abulhawa wins fight against Oxford Union censorship - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcC03a3RMdUxzR2NkZGkwMklocmZ0NlNkU2NuVVNwYmozdWhhZXl5YzZjSGtHLTgxbW1ON0RhUm51U0xmemhpRTIxOEF2WHhMVnlOTkQ3dmh5YjlDRUFrQXp1S0NkTHY1LTljTWlyS0wyd21qSHA0S0NlOF8zeFVmSlRnSkFtOEpmRDJ0X0d3SVBzZ2tnUm8zMnBySmFOTG1FZTZfLVJlN1lWTUk?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 06 Oct 2026 07:00:00 GMT",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "The Politics of Denial: When Americans Stop Seeing the Warning Signs",
