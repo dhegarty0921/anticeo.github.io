@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:32:38.888548Z",
+  "generated_at": "2026-10-16T23:47:18.445382Z",
   "headline": {
     "title": "What we learned from heated US midterm Senate debates",
     "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss"
@@ -65,6 +65,13 @@
           "section": ""
         },
         {
+          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Fri, 16 Oct 2026 23:07:38 GMT",
+          "section": ""
+        },
+        {
           "title": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania",
           "url": "https://www.bbc.co.uk/news/articles/cmwy4qnyjg4zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -111,13 +118,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/hepatitis-b-vaccine-study-documents-cdc-1235642201/",
           "source": "Politics News",
           "ts": "Wed, 14 Oct 2026 19:39:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Fri, 16 Oct 2026 16:00:30 GMT",
           "section": ""
         },
         {
@@ -259,10 +259,10 @@
           "section": ""
         },
         {
-          "title": "The case for data centers, explained by a person who wants you to like them",
-          "url": "https://www.vox.com/podcasts/506325/data-center-backlash-public-relations-change-minds",
+          "title": "How to lose a job in five days",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/506776/katie-zacharia-press-secretary-fired",
           "source": "Vox",
-          "ts": "2026-10-16T07:30:00-04:00",
+          "ts": "2026-10-16T18:10:00-04:00",
           "section": ""
         },
         {
@@ -276,7 +276,7 @@
           "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 23:09:38 GMT",
+          "ts": "Fri, 16 Oct 2026 23:44:34 GMT",
           "section": ""
         },
         {
@@ -301,10 +301,10 @@
           "section": ""
         },
         {
-          "title": "Vermont once dreamed of universal healthcare. This Democrat wants to try again — with a twist.",
-          "url": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
+          "title": "West Bank settlers brutally attack a Washington Post journalist",
+          "url": "https://www.vox.com/today-explained-newsletter/506707/heidi-levine-photojournalist-attack-settlers-west-bank",
           "source": "Vox",
-          "ts": "2026-10-16T06:30:00-04:00",
+          "ts": "2026-10-16T17:45:00-04:00",
           "section": ""
         },
         {
@@ -315,10 +315,10 @@
           "section": ""
         },
         {
-          "title": "Shooter in fatal Bend, Oregon, school shooting was former student there",
-          "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+          "title": "Brush fires set homes ablaze in southern California as it braces for more hot weather",
+          "url": "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 23:03:42 GMT",
+          "ts": "Fri, 16 Oct 2026 23:21:59 GMT",
           "section": ""
         },
         {
@@ -343,10 +343,10 @@
           "section": ""
         },
         {
-          "title": "I outsourced my life to AI agents for two weeks. It went…weirdly.",
-          "url": "https://www.vox.com/advice/506547/muse-instinct-chatgpt-dots-ai-personal-agent",
+          "title": "The case for data centers, explained by a person who wants you to like them",
+          "url": "https://www.vox.com/podcasts/506325/data-center-backlash-public-relations-change-minds",
           "source": "Vox",
-          "ts": "2026-10-16T06:00:00-04:00",
+          "ts": "2026-10-16T07:30:00-04:00",
           "section": ""
         },
         {
@@ -357,10 +357,10 @@
           "section": ""
         },
         {
-          "title": "Trump in Georgia falsely claims election of Jon Ossoff was illegitimate",
-          "url": "https://www.theguardian.com/us-news/2026/oct/16/trump-georgia-rally-jon-ossoff",
+          "title": "Shooter in fatal Bend, Oregon, school shooting was former student there",
+          "url": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 22:59:37 GMT",
+          "ts": "Fri, 16 Oct 2026 23:03:42 GMT",
           "section": ""
         }
       ]
