@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:04:58.982771Z",
+  "generated_at": "2026-10-16T20:24:30.489387Z",
   "headline": {
     "title": "What we learned from heated US midterm Senate debates",
     "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss"
@@ -80,9 +80,9 @@
         },
         {
           "title": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing.",
-          "url": "https://www.nytimes.com/2026/10/16/us/politics/kennedy-vaccines.html",
+          "url": "https://www.nytimes.com/2026/10/16/us/politics/rfk-jr-vaccines.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 16 Oct 2026 18:57:45 +0000",
+          "ts": "Fri, 16 Oct 2026 20:07:20 +0000",
           "section": ""
         },
         {
@@ -238,10 +238,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple",
-          "url": "https://religionnews.com/2026/10/16/teen-accused-of-plotting-mass-shooting-at-chicago-area-hindu-temple/",
+          "title": "Americans who go to church and trust science are also more likely to believe in ghosts and curses, new research shows",
+          "url": "https://religionnews.com/2026/10/16/americans-who-go-to-church-and-trust-science-are-also-more-likely-to-believe-in-ghosts-and-curses-new-research-shows/",
           "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 20:03:40 +0000",
+          "ts": "Fri, 16 Oct 2026 20:09:54 +0000",
           "section": ""
         },
         {
@@ -276,14 +276,14 @@
           "title": "Trump rallies in Georgia as new White House press secretary is fired after five days on the job - live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 16 Oct 2026 19:35:06 GMT",
+          "ts": "Fri, 16 Oct 2026 20:17:47 GMT",
           "section": ""
         },
         {
-          "title": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis",
-          "url": "https://religionnews.com/2026/10/16/chicago-catholics-rally-for-prayer-in-pope-leos-hometown-after-his-lung-cancer-diagnosis/",
+          "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple",
+          "url": "https://religionnews.com/2026/10/16/teen-accused-of-plotting-mass-shooting-at-chicago-area-hindu-temple/",
           "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 20:01:06 +0000",
+          "ts": "Fri, 16 Oct 2026 20:03:40 +0000",
           "section": ""
         },
         {
@@ -322,10 +322,10 @@
           "section": ""
         },
         {
-          "title": "Louis Appignani, atheist philanthropist, dies at 93",
-          "url": "https://religionnews.com/2026/10/16/louis-appignani-atheist-philanthropist-dies-at-93/",
+          "title": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis",
+          "url": "https://religionnews.com/2026/10/16/chicago-catholics-rally-for-prayer-in-pope-leos-hometown-after-his-lung-cancer-diagnosis/",
           "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 17:44:33 +0000",
+          "ts": "Fri, 16 Oct 2026 20:01:06 +0000",
           "section": ""
         },
         {
@@ -626,6 +626,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Can the Law Stop AI Hackers?",
+          "url": "https://www.justsecurity.org/160341/law-stop-ai-hackers/?utm_source=rss&utm_medium=rss&utm_campaign=law-stop-ai-hackers",
+          "source": "Just Security",
+          "ts": "Fri, 16 Oct 2026 13:15:55 +0000",
+          "section": ""
+        },
+        {
           "title": "DHS Was Designed as a Weapon",
           "url": "https://theintercept.com/2026/10/16/ice-raid-ilhan-omar-dhs-trump/",
           "source": "The Intercept",
@@ -675,6 +682,13 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
+          "title": "Servant of the Law: The President as Chief Prosecutor",
+          "url": "https://www.justsecurity.org/159847/servant-law-president-chief-prosecutor/?utm_source=rss&utm_medium=rss&utm_campaign=servant-law-president-chief-prosecutor",
+          "source": "Just Security",
+          "ts": "Fri, 16 Oct 2026 13:04:31 +0000",
+          "section": ""
+        },
+        {
           "title": "Long After the Maui Fires, Toxic Metals Linger in Residents’ Bodies",
           "url": "https://theintercept.com/2026/10/16/maui-wildfire-toxic-metals/",
           "source": "The Intercept",
@@ -722,6 +736,13 @@
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Tue, 13 Oct 2026 14:23:10 +0000",
           "section": "PARA POLITICAL INTRIGUE"
+        },
+        {
+          "title": "To Secretary Rubio: Demand Freedom for Uzbekistan’s Political Prisoners",
+          "url": "https://www.justsecurity.org/161025/secretary-rubio-demand-freedom-uzbekistan-political-prisoners/?utm_source=rss&utm_medium=rss&utm_campaign=secretary-rubio-demand-freedom-uzbekistan-political-prisoners",
+          "source": "Just Security",
+          "ts": "Fri, 16 Oct 2026 12:49:16 +0000",
+          "section": ""
         },
         {
           "title": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
