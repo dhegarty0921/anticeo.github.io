@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:47:18.190028Z",
+  "generated_at": "2026-10-16T20:04:58.982771Z",
   "headline": {
     "title": "What we learned from heated US midterm Senate debates",
     "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss"
@@ -65,13 +65,6 @@
           "section": ""
         },
         {
-          "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
-          "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Fri, 16 Oct 2026 15:59:30 GMT",
-          "section": ""
-        },
-        {
           "title": "Sean 'Diddy' Combs moved to low-security facility in Pennsylvania",
           "url": "https://www.bbc.co.uk/news/articles/cmwy4qnyjg4zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -118,6 +111,13 @@
           "url": "https://www.rollingstone.com/politics/politics-news/hepatitis-b-vaccine-study-documents-cdc-1235642201/",
           "source": "Politics News",
           "ts": "Wed, 14 Oct 2026 19:39:56 +0000",
+          "section": ""
+        },
+        {
+          "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Fri, 16 Oct 2026 16:00:30 GMT",
           "section": ""
         },
         {
@@ -238,10 +238,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Louis Appignani, atheist philanthropist, dies at 93",
-          "url": "https://religionnews.com/2026/10/16/louis-appignani-atheist-philanthropist-dies-at-93/",
+          "title": "Teen accused of plotting mass shooting at Chicago-area Hindu temple",
+          "url": "https://religionnews.com/2026/10/16/teen-accused-of-plotting-mass-shooting-at-chicago-area-hindu-temple/",
           "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 17:44:33 +0000",
+          "ts": "Fri, 16 Oct 2026 20:03:40 +0000",
           "section": ""
         },
         {
@@ -273,17 +273,17 @@
           "section": ""
         },
         {
-          "title": "Trump rallies in Georgia as new White House secretary is fired after five days on the job - live",
+          "title": "Trump rallies in Georgia as new White House press secretary is fired after five days on the job - live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Fri, 16 Oct 2026 19:35:06 GMT",
           "section": ""
         },
         {
-          "title": "The mystery within the street names of a Jerusalem neighborhood",
-          "url": "https://religionnews.com/2026/10/16/the-mystery-of-a-jerusalem-neighborhood/",
+          "title": "Chicago Catholics rally for prayer in Pope Leo’s hometown after his lung cancer diagnosis",
+          "url": "https://religionnews.com/2026/10/16/chicago-catholics-rally-for-prayer-in-pope-leos-hometown-after-his-lung-cancer-diagnosis/",
           "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 12:00:50 +0000",
+          "ts": "Fri, 16 Oct 2026 20:01:06 +0000",
           "section": ""
         },
         {
@@ -322,10 +322,10 @@
           "section": ""
         },
         {
-          "title": "Florida churches turn backpack drives into a gateway to immigration advocacy",
-          "url": "https://religionnews.com/2026/10/16/florida-churches-turn-backpack-drives-into-a-gateway-to-immigrant-advocacy/",
+          "title": "Louis Appignani, atheist philanthropist, dies at 93",
+          "url": "https://religionnews.com/2026/10/16/louis-appignani-atheist-philanthropist-dies-at-93/",
           "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 11:30:47 +0000",
+          "ts": "Fri, 16 Oct 2026 17:44:33 +0000",
           "section": ""
         },
         {
@@ -383,10 +383,10 @@
           "section": ""
         },
         {
-          "title": "The real job of the Army’s new ‘robotics technicians’ is constant adaptation",
-          "url": "https://www.defenseone.com/policy/2026/10/army-robotics-technician--adaptation/416651/",
+          "title": "Marines fielding new tech for prolonged medical care on the battlefield",
+          "url": "https://www.defenseone.com/threats/2026/10/marines-fielding-new-tech-prolonged-medical-care-battlefield/416656/",
           "source": "Defense One - All Content",
-          "ts": "Fri, 16 Oct 2026 15:10:17 -0400",
+          "ts": "Fri, 16 Oct 2026 15:51:04 -0400",
           "section": ""
         },
         {
@@ -467,10 +467,10 @@
           "section": ""
         },
         {
-          "title": "The lack of a shared lexicon is undermining responsible AI-military integration",
-          "url": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/",
+          "title": "The real job of the Army’s new ‘robotics technicians’ is constant adaptation",
+          "url": "https://www.defenseone.com/policy/2026/10/army-robotics-technician--adaptation/416651/",
           "source": "Defense One - All Content",
-          "ts": "Fri, 16 Oct 2026 12:11:36 -0400",
+          "ts": "Fri, 16 Oct 2026 15:10:17 -0400",
           "section": ""
         },
         {
@@ -551,10 +551,10 @@
           "section": ""
         },
         {
-          "title": "Fast-flying Shahed drones spur new class of interceptors",
-          "url": "https://www.defenseone.com/business/2026/10/fast-flying-shahed-drones-spur-new-class-interceptors/416643/",
+          "title": "The lack of a shared lexicon is undermining responsible AI-military integration",
+          "url": "https://www.defenseone.com/ideas/2026/10/data-fragmentation-challenge-ai-military/416632/",
           "source": "Defense One - All Content",
-          "ts": "Fri, 16 Oct 2026 07:00:00 -0400",
+          "ts": "Fri, 16 Oct 2026 12:11:36 -0400",
           "section": ""
         },
         {
@@ -626,13 +626,6 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
-          "title": "Can the Law Stop AI Hackers?",
-          "url": "https://www.justsecurity.org/160341/law-stop-ai-hackers/?utm_source=rss&utm_medium=rss&utm_campaign=law-stop-ai-hackers",
-          "source": "Just Security",
-          "ts": "Fri, 16 Oct 2026 13:15:55 +0000",
-          "section": ""
-        },
-        {
           "title": "DHS Was Designed as a Weapon",
           "url": "https://theintercept.com/2026/10/16/ice-raid-ilhan-omar-dhs-trump/",
           "source": "The Intercept",
@@ -640,10 +633,10 @@
           "section": ""
         },
         {
-          "title": "11 Or 13 Justices Start An Arms Race. 100 Justices Might Actually End It.",
-          "url": "https://www.techdirt.com/2026/10/16/11-or-13-justices-start-an-arms-race-100-justices-might-actually-end-it/",
+          "title": "Ctrl-Alt-Speech: No Good Feed Goes Unpunished",
+          "url": "https://www.techdirt.com/2026/10/16/ctrl-alt-speech-no-good-feed-goes-unpunished/",
           "source": "Techdirt",
-          "ts": "Fri, 16 Oct 2026 18:03:09 +0000",
+          "ts": "Fri, 16 Oct 2026 20:02:42 +0000",
           "section": ""
         },
         {
@@ -682,13 +675,6 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "Servant of the Law: The President as Chief Prosecutor",
-          "url": "https://www.justsecurity.org/159847/servant-law-president-chief-prosecutor/?utm_source=rss&utm_medium=rss&utm_campaign=servant-law-president-chief-prosecutor",
-          "source": "Just Security",
-          "ts": "Fri, 16 Oct 2026 13:04:31 +0000",
-          "section": ""
-        },
-        {
           "title": "Long After the Maui Fires, Toxic Metals Linger in Residents’ Bodies",
           "url": "https://theintercept.com/2026/10/16/maui-wildfire-toxic-metals/",
           "source": "The Intercept",
@@ -696,10 +682,10 @@
           "section": ""
         },
         {
-          "title": "Daily Deal: The Ultimate Web Coding for Everyone Bundle",
-          "url": "https://www.techdirt.com/2026/10/16/daily-deal-the-ultimate-web-coding-for-everyone-bundle/",
+          "title": "11 Or 13 Justices Start An Arms Race. 100 Justices Might Actually End It.",
+          "url": "https://www.techdirt.com/2026/10/16/11-or-13-justices-start-an-arms-race-100-justices-might-actually-end-it/",
           "source": "Techdirt",
-          "ts": "Fri, 16 Oct 2026 17:58:09 +0000",
+          "ts": "Fri, 16 Oct 2026 18:03:09 +0000",
           "section": ""
         },
         {
@@ -738,13 +724,6 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "To Secretary Rubio: Demand Freedom for Uzbekistan’s Political Prisoners",
-          "url": "https://www.justsecurity.org/161025/secretary-rubio-demand-freedom-uzbekistan-political-prisoners/?utm_source=rss&utm_medium=rss&utm_campaign=secretary-rubio-demand-freedom-uzbekistan-political-prisoners",
-          "source": "Just Security",
-          "ts": "Fri, 16 Oct 2026 12:49:16 +0000",
-          "section": ""
-        },
-        {
           "title": "Lockheed Martin Showered Susan Collins With Cash as F-35 Program Hit Turbulence",
           "url": "https://theintercept.com/2026/10/15/susan-collins-lockheed-martin-f35-fighter-jet/",
           "source": "The Intercept",
@@ -752,10 +731,10 @@
           "section": ""
         },
         {
-          "title": "DOJ Lawyers Starting To Get Hit With Sanctions, But So Far, It’s Barely Even A Wrist Slap",
-          "url": "https://www.techdirt.com/2026/10/16/doj-lawyers-starting-to-get-hit-with-sanctions-but-so-far-its-barely-even-a-wrist-slap/",
+          "title": "Daily Deal: The Ultimate Web Coding for Everyone Bundle",
+          "url": "https://www.techdirt.com/2026/10/16/daily-deal-the-ultimate-web-coding-for-everyone-bundle/",
           "source": "Techdirt",
-          "ts": "Fri, 16 Oct 2026 16:29:56 +0000",
+          "ts": "Fri, 16 Oct 2026 17:58:09 +0000",
           "section": ""
         },
         {
