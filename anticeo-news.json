@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:05:57.318653Z",
+  "generated_at": "2026-10-17T08:28:24.406260Z",
   "headline": {
     "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
     "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss"
@@ -72,6 +72,13 @@
           "section": ""
         },
         {
+          "title": "Coastal homes burn as hot winds fuel California fires",
+          "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+          "source": "NPR Topics: News",
+          "ts": "Sat, 17 Oct 2026 04:20:00 -0400",
+          "section": ""
+        },
+        {
           "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
           "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
           "source": "NPR Topics: Politics",
@@ -125,13 +132,6 @@
           "url": "https://www.thecanary.co/discovery/lifestyle/2026/10/13/how-to-retrain-as-a-personal-trainer-while-working-full-time/",
           "source": "Canary",
           "ts": "Tue, 13 Oct 2026 12:18:54 +0000",
-          "section": ""
-        },
-        {
-          "title": "Amid talk of public execution, public opinion on death penalty is split",
-          "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 16 Oct 2026 12:28:00 -0400",
           "section": ""
         },
         {
@@ -369,17 +369,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "France braces for nationwide protests",
-          "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+          "title": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
+          "url": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-17T08:02:00Z",
+          "ts": "2026-10-17T08:19:00Z",
           "section": ""
         },
         {
-          "title": "Israeli raids and arrests in southern Syria push population to the brink",
-          "url": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+          "title": "Oregon school shooter was former special-needs student, police say",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 17 Oct 2026 07:17:06 +0000",
+          "ts": "Sat, 17 Oct 2026 08:04:35 +0000",
           "section": ""
         },
         {
@@ -411,10 +411,10 @@
           "section": ""
         },
         {
-          "title": "Naval Group rolls out 5th Suffren-class attack submarine",
-          "url": "https://www.navalnews.com/naval-news/2026/10/naval-group-rolls-out-5th-suffren-class-attack-submarine/",
+          "title": "Mothership, MCM, Trials Platform: Indian Navy Inducts First Multi-Purpose Vessel",
+          "url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-first-multi-purpose-vessel-ins-samarthak/",
           "source": "Naval News",
-          "ts": "Fri, 16 Oct 2026 19:29:03 +0000",
+          "ts": "Sat, 17 Oct 2026 08:27:02 +0000",
           "section": ""
         },
         {
@@ -446,17 +446,17 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
-          "url": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-rdf",
+          "title": "France braces for nationwide protests",
+          "url": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-17T06:21:00Z",
+          "ts": "2026-10-17T08:02:00Z",
           "section": ""
         },
         {
-          "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
-          "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+          "title": "Wildfire prompts thousands of evacuation orders in Orange County",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 17 Oct 2026 06:41:34 +0000",
+          "ts": "Sat, 17 Oct 2026 08:03:26 +0000",
           "section": ""
         },
         {
@@ -495,10 +495,10 @@
           "section": ""
         },
         {
-          "title": "MARTAC USVs Gain Real-Time Machine Vision from SEA.AI",
-          "url": "https://www.navalnews.com/naval-news/2026/10/martac-usvs-gain-real-time-machine-vision-from-sea-ai/",
+          "title": "Naval Group rolls out 5th Suffren-class attack submarine",
+          "url": "https://www.navalnews.com/naval-news/2026/10/naval-group-rolls-out-5th-suffren-class-attack-submarine/",
           "source": "Naval News",
-          "ts": "Fri, 16 Oct 2026 13:48:49 +0000",
+          "ts": "Fri, 16 Oct 2026 19:29:03 +0000",
           "section": ""
         },
         {
@@ -537,17 +537,17 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "US: Homes burned in California as wildfires rage",
-          "url": "https://www.dw.com/en/us-homes-burned-in-california-as-wildfires-rage/a-79685480?maca=en-rss-en-all-1573-rdf",
+          "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
+          "url": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-17T06:08:00Z",
+          "ts": "2026-10-17T06:21:00Z",
           "section": ""
         },
         {
-          "title": "Ukraine and Europe have little choice but to work with Trump",
-          "url": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
+          "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
+          "url": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 17 Oct 2026 06:36:03 +0000",
+          "ts": "Sat, 17 Oct 2026 07:45:31 +0000",
           "section": ""
         },
         {
@@ -579,10 +579,10 @@
           "section": ""
         },
         {
-          "title": "Fincantieri Cuts Steel for Italian Navy’s Final PPA",
-          "url": "https://www.navalnews.com/naval-news/2026/10/fincantieri-cuts-steel-for-italian-navys-final-ppa-patrol-vessel/",
+          "title": "MARTAC USVs Gain Real-Time Machine Vision from SEA.AI",
+          "url": "https://www.navalnews.com/naval-news/2026/10/martac-usvs-gain-real-time-machine-vision-from-sea-ai/",
           "source": "Naval News",
-          "ts": "Fri, 16 Oct 2026 09:57:53 +0000",
+          "ts": "Fri, 16 Oct 2026 13:48:49 +0000",
           "section": ""
         },
         {
