@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T13:33:17.310615Z",
+  "generated_at": "2026-10-17T13:47:44.806944Z",
   "headline": {
     "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
     "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss"
@@ -55,13 +55,6 @@
           "url": "https://thehill.com/policy/defense/6152622-us-jungle-warfare-training-latin-america/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Fri, 16 Oct 2026 12:55:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Promise of False Security, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/the-promise-of-false-security/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 16 Oct 2026 04:20:17 +0000",
           "section": ""
         },
         {
@@ -121,6 +114,13 @@
           "section": ""
         },
         {
+          "title": "The Promise of False Security, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/the-promise-of-false-security/",
+          "source": "The Unz Review:",
+          "ts": "Fri, 16 Oct 2026 04:20:17 +0000",
+          "section": ""
+        },
+        {
           "title": "How a Controversial Hepatitis B Study Was Funded by the CDC Amid a Global Swirl of Criticism",
           "url": "https://www.rollingstone.com/politics/politics-news/hepatitis-b-vaccine-study-documents-cdc-1235642201/",
           "source": "Politics News",
@@ -138,7 +138,7 @@
           "title": "What Pennsylvania Reveals About the Midterms",
           "url": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 17 Oct 2026 09:00:55 +0000",
+          "ts": "Sat, 17 Oct 2026 13:42:26 +0000",
           "section": ""
         },
         {
@@ -153,13 +153,6 @@
           "url": "https://news.antiwar.com/2026/10/15/ukraine-hits-russian-oil-refinery-as-zelensky-says-hes-done-with-trumps-energy-truce/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-hits-russian-oil-refinery-as-zelensky-says-hes-done-with-trumps-energy-truce",
           "source": "News From Antiwar.com",
           "ts": "Thu, 15 Oct 2026 21:41:08 +0000",
-          "section": ""
-        },
-        {
-          "title": "What Party Represents America?, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/what-party-represents-america/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 16 Oct 2026 04:00:41 +0000",
           "section": ""
         },
         {
@@ -191,10 +184,10 @@
           "section": ""
         },
         {
-          "title": "This Year, I’m a One-Issue Voter: Anti-Jewish Interests, by David Skrbina",
-          "url": "https://www.unz.com/article/this-year-im-a-one-issue-voter-anti-jewish-interests/",
+          "title": "What Party Represents America?, by Paul Craig Roberts",
+          "url": "https://www.unz.com/proberts/what-party-represents-america/",
           "source": "The Unz Review:",
-          "ts": "Fri, 16 Oct 2026 04:00:37 +0000",
+          "ts": "Fri, 16 Oct 2026 04:00:41 +0000",
           "section": ""
         },
         {
@@ -216,6 +209,13 @@
           "url": "https://www.youtube.com/watch?v=BTc9jbzz0gw",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Wed, 14 Oct 2026 18:08:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "This Year, I’m a One-Issue Voter: Anti-Jewish Interests, by David Skrbina",
+          "url": "https://www.unz.com/article/this-year-im-a-one-issue-voter-anti-jewish-interests/",
+          "source": "The Unz Review:",
+          "ts": "Fri, 16 Oct 2026 04:00:37 +0000",
           "section": ""
         },
         {
@@ -411,13 +411,6 @@
           "section": ""
         },
         {
-          "title": "Mothership, MCM, Trials Platform: Indian Navy Inducts First Multi-Purpose Vessel",
-          "url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-first-multi-purpose-vessel-ins-samarthak/",
-          "source": "Naval News",
-          "ts": "Sat, 17 Oct 2026 08:27:02 +0000",
-          "section": ""
-        },
-        {
           "title": "Beware White Nationalists Like Trump Branding Jews A “Separate Race”",
           "url": "https://scheerpost.com/2026/10/13/beware-white-nationalists-like-trump-branding-jews-a-separate-race/",
           "source": "Military",
@@ -495,13 +488,6 @@
           "section": ""
         },
         {
-          "title": "Naval Group rolls out 5th Suffren-class attack submarine",
-          "url": "https://www.navalnews.com/naval-news/2026/10/naval-group-rolls-out-5th-suffren-class-attack-submarine/",
-          "source": "Naval News",
-          "ts": "Fri, 16 Oct 2026 19:29:03 +0000",
-          "section": ""
-        },
-        {
           "title": "Israel Declares All Arab States Illegitimate",
           "url": "https://www.youtube.com/watch?v=tdvM6eZWArQ",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -576,13 +562,6 @@
           "url": "https://www.armytimes.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
           "source": "Army Times",
           "ts": "Fri, 16 Oct 2026 17:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "MARTAC USVs Gain Real-Time Machine Vision from SEA.AI",
-          "url": "https://www.navalnews.com/naval-news/2026/10/martac-usvs-gain-real-time-machine-vision-from-sea-ai/",
-          "source": "Naval News",
-          "ts": "Fri, 16 Oct 2026 13:48:49 +0000",
           "section": ""
         },
         {
