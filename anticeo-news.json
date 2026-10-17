@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:07:00.209582Z",
+  "generated_at": "2026-10-17T12:30:21.078691Z",
   "headline": {
     "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
     "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss"
@@ -26,7 +26,7 @@
           "title": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
           "url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 17 Oct 2026 09:02:18 +0000",
+          "ts": "Sat, 17 Oct 2026 12:28:51 +0000",
           "section": ""
         },
         {
@@ -65,10 +65,10 @@
           "section": ""
         },
         {
-          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+          "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Sat, 17 Oct 2026 11:56:06 GMT",
+          "ts": "Sat, 17 Oct 2026 12:14:52 GMT",
           "section": ""
         },
         {
@@ -76,6 +76,13 @@
           "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
           "source": "NPR Topics: News",
           "ts": "Sat, 17 Oct 2026 08:00:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sat, 17 Oct 2026 11:56:06 GMT",
           "section": ""
         },
         {
@@ -118,13 +125,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/hepatitis-b-vaccine-study-documents-cdc-1235642201/",
           "source": "Politics News",
           "ts": "Wed, 14 Oct 2026 19:39:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sat, 17 Oct 2026 09:58:17 GMT",
           "section": ""
         },
         {
@@ -273,10 +273,10 @@
           "section": ""
         },
         {
-          "title": "The people who are transforming Philly’s vacant lots into green spaces",
-          "url": "https://www.theguardian.com/us-news/2026/oct/17/philadelphia-vacant-lots-green-spaces",
+          "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak",
+          "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
           "source": "US news | The Guardian",
-          "ts": "Sat, 17 Oct 2026 11:00:30 GMT",
+          "ts": "Sat, 17 Oct 2026 12:00:30 GMT",
           "section": ""
         },
         {
@@ -315,10 +315,10 @@
           "section": ""
         },
         {
-          "title": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
-          "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+          "title": "The people who are transforming Philly’s vacant lots into green spaces",
+          "url": "https://www.theguardian.com/us-news/2026/oct/17/philadelphia-vacant-lots-green-spaces",
           "source": "US news | The Guardian",
-          "ts": "Sat, 17 Oct 2026 11:00:29 GMT",
+          "ts": "Sat, 17 Oct 2026 11:00:30 GMT",
           "section": ""
         },
         {
@@ -357,8 +357,8 @@
           "section": ""
         },
         {
-          "title": "Insults, odd obsessions and rambling thoughts: a week in Trump rallies",
-          "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview",
+          "title": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
+          "url": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
           "source": "US news | The Guardian",
           "ts": "Sat, 17 Oct 2026 11:00:29 GMT",
           "section": ""
@@ -408,6 +408,13 @@
           "url": "https://www.armytimes.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
           "source": "Army Times",
           "ts": "Fri, 16 Oct 2026 22:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Mothership, MCM, Trials Platform: Indian Navy Inducts First Multi-Purpose Vessel",
+          "url": "https://www.navalnews.com/naval-news/2026/10/indian-navy-first-multi-purpose-vessel-ins-samarthak/",
+          "source": "Naval News",
+          "ts": "Sat, 17 Oct 2026 08:27:02 +0000",
           "section": ""
         },
         {
@@ -488,6 +495,13 @@
           "section": ""
         },
         {
+          "title": "Naval Group rolls out 5th Suffren-class attack submarine",
+          "url": "https://www.navalnews.com/naval-news/2026/10/naval-group-rolls-out-5th-suffren-class-attack-submarine/",
+          "source": "Naval News",
+          "ts": "Fri, 16 Oct 2026 19:29:03 +0000",
+          "section": ""
+        },
+        {
           "title": "Israel Declares All Arab States Illegitimate",
           "url": "https://www.youtube.com/watch?v=tdvM6eZWArQ",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -562,6 +576,13 @@
           "url": "https://www.armytimes.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
           "source": "Army Times",
           "ts": "Fri, 16 Oct 2026 17:30:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "MARTAC USVs Gain Real-Time Machine Vision from SEA.AI",
+          "url": "https://www.navalnews.com/naval-news/2026/10/martac-usvs-gain-real-time-machine-vision-from-sea-ai/",
+          "source": "Naval News",
+          "ts": "Fri, 16 Oct 2026 13:48:49 +0000",
           "section": ""
         },
         {
@@ -647,10 +668,10 @@
           "section": ""
         },
         {
-          "title": "Record Israeli attacks on Palestinian olive groves; Teen shooter kills children at Oregon school; Poland scrambles jets following Russian strikes",
-          "url": "https://www.dropsitenews.com/p/israel-settlers-west-bank-olive-oregon-school-shooting-poland-russia-jets",
+          "title": "“Win, Lose, or Draw,” Pearson Campaign Builds a Progressive Coalition in Rural Tennessee",
+          "url": "https://www.dropsitenews.com/p/justin-pearson-tennessee-redistricting-data-centers",
           "source": "Drop Site News",
-          "ts": "Fri, 16 Oct 2026 15:28:56 GMT",
+          "ts": "Sat, 17 Oct 2026 12:09:16 GMT",
           "section": ""
         },
         {
@@ -703,10 +724,10 @@
           "section": ""
         },
         {
-          "title": "Encircled by War, Yemen's Taiz Residents Brace for Fighting and a Renewed Siege",
-          "url": "https://www.dropsitenews.com/p/yemen-taiz-ansarallah-siege-fuel-food-crisis",
+          "title": "Record Israeli attacks on Palestinian olive groves; Teen shooter kills children at Oregon school; Poland scrambles jets following Russian strikes",
+          "url": "https://www.dropsitenews.com/p/israel-settlers-west-bank-olive-oregon-school-shooting-poland-russia-jets",
           "source": "Drop Site News",
-          "ts": "Thu, 15 Oct 2026 21:02:12 GMT",
+          "ts": "Fri, 16 Oct 2026 15:28:56 GMT",
           "section": ""
         },
         {
@@ -759,10 +780,10 @@
           "section": ""
         },
         {
-          "title": "Displaced Civilians Sifting for Gold in Sudan Killed in Bloody Drone Strike",
-          "url": "https://www.dropsitenews.com/p/sudan-strike-civilians-rapid-support-forces-blue-nile",
+          "title": "Encircled by War, Yemen's Taiz Residents Brace for Fighting and a Renewed Siege",
+          "url": "https://www.dropsitenews.com/p/yemen-taiz-ansarallah-siege-fuel-food-crisis",
           "source": "Drop Site News",
-          "ts": "Thu, 15 Oct 2026 18:41:46 GMT",
+          "ts": "Thu, 15 Oct 2026 21:02:12 GMT",
           "section": ""
         },
         {
