@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T13:21:28.792597Z",
+  "generated_at": "2026-10-18T13:33:09.978535Z",
   "headline": {
-    "title": "Paris left reeling as student-led protests turn chaotic",
-    "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss"
+    "title": "France: Young voters blase about Glucksmann's Socialists",
+    "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -189,6 +189,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Bad Vibes",
+          "url": "https://www.theatlantic.com/ideas/2026/10/vibrators-sexuality-intimacy-loneliness/689004/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-18T09:25:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Are We Too Political?",
           "url": "https://www.theatlantic.com/podcasts/2026/10/are-we-too-political/689011/?utm_source=feed",
           "source": "The Atlantic",
@@ -210,16 +217,16 @@
           "section": ""
         },
         {
-          "title": "The Evolution of Human Brain Set It Up for Failure",
-          "url": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/?utm_source=feed",
-          "source": "The Atlantic",
+          "title": "I give to charity — but never to people on the street. Is that wrong?",
+          "url": "https://www.vox.com/future-perfect/372519/charity-giving-effective-altruism-mutual-aid-homeless",
+          "source": "Vox",
           "ts": "2026-10-18T08:00:00-04:00",
           "section": ""
         },
         {
-          "title": "I give to charity — but never to people on the street. Is that wrong?",
-          "url": "https://www.vox.com/future-perfect/372519/charity-giving-effective-altruism-mutual-aid-homeless",
-          "source": "Vox",
+          "title": "The Evolution of Human Brain Set It Up for Failure",
+          "url": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/?utm_source=feed",
+          "source": "The Atlantic",
           "ts": "2026-10-18T08:00:00-04:00",
           "section": ""
         },
@@ -228,13 +235,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
           "source": "US news | The Guardian",
           "ts": "Sun, 18 Oct 2026 11:00:03 GMT",
-          "section": ""
-        },
-        {
-          "title": "America Has a Police Shortage",
-          "url": "https://www.theatlantic.com/ideas/2026/10/police-officers-usa-europe/689006/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-18T07:00:00-04:00",
           "section": ""
         },
         {
@@ -334,10 +334,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Paris left reeling as student-led protests turn chaotic",
-          "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 18 Oct 2026 13:08:06 +0000",
+          "title": "France: Young voters blase about Glucksmann's Socialists",
+          "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-18T13:31:00Z",
           "section": ""
         },
         {
@@ -362,6 +362,13 @@
           "section": ""
         },
         {
+          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
+          "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 18 Oct 2026 12:35:56 +0000",
+          "section": ""
+        },
+        {
           "title": "Is Germany's eight-hour workday under threat?",
           "url": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -373,13 +380,6 @@
           "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-18T10:26:00Z",
-          "section": ""
-        },
-        {
-          "title": "Vietnam signs free trade deal with four European countries",
-          "url": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-18T09:19:00Z",
           "section": ""
         },
         {
