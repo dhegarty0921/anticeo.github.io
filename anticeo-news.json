@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T23:20:45.055631Z",
+  "generated_at": "2026-10-18T23:32:41.712898Z",
   "headline": {
-    "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
-    "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss"
+    "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss"
   },
   "sections": [
     {
@@ -299,6 +299,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 18 Oct 2026 23:06:16 +0000",
+          "section": ""
+        },
+        {
           "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
           "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -345,13 +352,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 18 Oct 2026 21:53:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Macron condemns violence after riots lead to looting and mass arrests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 18 Oct 2026 21:10:47 +0000",
           "section": ""
         },
         {
@@ -624,13 +624,6 @@
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Thu, 15 Oct 2026 14:57:26 +0000",
           "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "We’re Asking the Wisconsin Supreme Court to End Warrantless ALPR Searches",
-          "url": "https://www.eff.org/deeplinks/2026/10/were-asking-wisconsin-supreme-court-end-warrantless-alpr-searches",
-          "source": "Deeplinks",
-          "ts": "Wed, 14 Oct 2026 23:21:37 +0000",
-          "section": ""
         }
       ]
     }
