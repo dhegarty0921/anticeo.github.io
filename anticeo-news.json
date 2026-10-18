@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:33:09.978535Z",
+  "generated_at": "2026-10-18T13:47:43.950713Z",
   "headline": {
     "title": "France: Young voters blase about Glucksmann's Socialists",
     "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf"
@@ -189,13 +189,6 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Bad Vibes",
-          "url": "https://www.theatlantic.com/ideas/2026/10/vibrators-sexuality-intimacy-loneliness/689004/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-18T09:25:00-04:00",
-          "section": ""
-        },
-        {
           "title": "Are We Too Political?",
           "url": "https://www.theatlantic.com/podcasts/2026/10/are-we-too-political/689011/?utm_source=feed",
           "source": "The Atlantic",
@@ -217,16 +210,16 @@
           "section": ""
         },
         {
-          "title": "I give to charity — but never to people on the street. Is that wrong?",
-          "url": "https://www.vox.com/future-perfect/372519/charity-giving-effective-altruism-mutual-aid-homeless",
-          "source": "Vox",
+          "title": "The Evolution of Human Brain Set It Up for Failure",
+          "url": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/?utm_source=feed",
+          "source": "The Atlantic",
           "ts": "2026-10-18T08:00:00-04:00",
           "section": ""
         },
         {
-          "title": "The Evolution of Human Brain Set It Up for Failure",
-          "url": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/?utm_source=feed",
-          "source": "The Atlantic",
+          "title": "I give to charity — but never to people on the street. Is that wrong?",
+          "url": "https://www.vox.com/future-perfect/372519/charity-giving-effective-altruism-mutual-aid-homeless",
+          "source": "Vox",
           "ts": "2026-10-18T08:00:00-04:00",
           "section": ""
         },
@@ -235,6 +228,13 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/18/california-beach-erosion-san-clemente",
           "source": "US news | The Guardian",
           "ts": "Sun, 18 Oct 2026 11:00:03 GMT",
+          "section": ""
+        },
+        {
+          "title": "America Has a Police Shortage",
+          "url": "https://www.theatlantic.com/ideas/2026/10/police-officers-usa-europe/689006/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-18T07:00:00-04:00",
           "section": ""
         },
         {
@@ -341,31 +341,31 @@
           "section": ""
         },
         {
+          "title": "Was ancient India the world’s forgotten superpower?",
+          "url": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 18 Oct 2026 13:17:31 +0000",
+          "section": ""
+        },
+        {
+          "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+          "url": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 18 Oct 2026 13:16:13 +0000",
+          "section": ""
+        },
+        {
+          "title": "Paris left reeling as student-led protests turn chaotic",
+          "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 18 Oct 2026 13:08:06 +0000",
+          "section": ""
+        },
+        {
           "title": "Russia has moved past ‘hybrid war.’ Why hasn’t Washington?",
           "url": "https://www.defenseone.com/ideas/2026/10/russia-has-moved-past-hybrid-war-why-hasnt-washington/416629/",
           "source": "Defense One - All Content",
           "ts": "Sun, 18 Oct 2026 09:00:00 -0400",
-          "section": ""
-        },
-        {
-          "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
-          "url": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 18 Oct 2026 12:49:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 18 Oct 2026 12:44:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Why have settler pogroms surged during olive harvest season in West Bank?",
-          "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 18 Oct 2026 12:35:56 +0000",
           "section": ""
         },
         {
