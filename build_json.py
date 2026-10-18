@@ -10,6 +10,7 @@ CFG    = pathlib.Path("categories.yml")   # optional
 # ---------- Optional YAML config ----------
 skip_domains = set()
 per_domain_cap = 3
+max_age_days = 4
 
 try:
     import yaml                      # pip install pyyaml
@@ -17,12 +18,34 @@ try:
         cfg = yaml.safe_load(CFG.read_text(encoding="utf-8")) or {}
         skip_domains = set(cfg.get("skip_domains") or [])
         per_domain_cap = int(cfg.get("per_domain_cap", per_domain_cap))
+        max_age_days = int(cfg.get("max_age_days", max_age_days))
 except Exception:
     pass
 
 # ---------- Helpers ----------
 def _nowz() -> str:
     return datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z")
+
+def _now() -> datetime.datetime:
+    return datetime.datetime.now(datetime.timezone.utc)
+
+def parse_ts(ts: str):
+    """Parse RSS (RFC-822) or ISO-8601 timestamps; unparseable -> None."""
+    if not ts:
+        return None
+    try:
+        import email.utils
+        dt = email.utils.parsedate_to_datetime(ts)
+        if dt is None:
+            return None
+        return dt if dt.tzinfo else dt.replace(tzinfo=datetime.timezone.utc)
+    except Exception:
+        pass
+    try:
+        dt = datetime.datetime.fromisoformat(str(ts).replace("Z", "+00:00"))
+        return dt if dt.tzinfo else dt.replace(tzinfo=datetime.timezone.utc)
+    except Exception:
+        return None
 
 def _host(u: str) -> str:
     h = (urlparse(u or "").hostname or "").lower()
@@ -114,6 +137,16 @@ if NDJSON.exists():
 # ---------- Dedupe, classify, cap ----------
 items = dedupe_by_url(items)
 
+# Drop items past their shelf life: feeds re-list the same top stories for
+# days, which made the page look frozen. Unparseable ts -> keep (treat as new).
+cutoff = _now() - datetime.timedelta(days=max_age_days)
+items = [it for it in items
+         if (t := parse_ts(it.get("ts"))) is None or t >= cutoff]
+
+def _ts_key(it):
+    t = parse_ts(it.get("ts"))
+    return t.timestamp() if t else _now().timestamp() + 86400  # unparseable last
+
 sections_map = {t: [] for t in ORDER}
 for it in items:
     bucket = it.get("section") or classify(it.get("title",""), it.get("url",""))
@@ -122,18 +155,24 @@ for it in items:
 sections = []
 for title in ORDER:
     lst = sections_map.get(title, [])
+    lst.sort(key=_ts_key, reverse=True)        # freshest first, so the cap keeps news
     lst = cap_per_domain(lst, per_domain_cap)  # cap inside each section
     sections.append({"title": title, "items": lst})
 
 sections = cap_per_domain_global(sections, per_domain_cap)  # global cap
+for sec in sections:
+    sec["items"].sort(key=_ts_key, reverse=True)  # re-sort after global cap
 
 # ---------- Headline & write ----------
 headline_item = None
+newest = None
 for s in sections:
-    if s["items"]:
-        headline_item = {"title": s["items"][0]["title"], "url": s["items"][0]["url"]}
-        break
-if not headline_item:
+    for it in s["items"]:
+        if newest is None or _ts_key(it) > _ts_key(newest):
+            newest = it
+if newest:
+    headline_item = {"title": newest["title"], "url": newest["url"]}
+else:
     headline_item = {"title": "ANTICEO", "url": "https://anticeo.com"}
 
 news = {
