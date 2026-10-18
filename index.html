@@ -76,6 +76,19 @@ body {
     opacity: .7;
   }
 
+  .ts {
+    opacity: .55;
+    font-size: .85em;
+    white-space: nowrap;
+  }
+
+  .new-flag {
+    color: #ff3333;
+    font-weight: bold;
+    font-size: .8em;
+    letter-spacing: 1px;
+  }
+
   footer {
     margin: 24px 0 8px;
     font-size: .85rem;
@@ -98,12 +111,42 @@ body {
     "PARA POLITICAL INTRIGUE"
   ];
 
+  const NEW_WINDOW_MS = 12 * 3600 * 1000; // flag items newer than 12h
+
+  function fmtTs(ts) {
+    const d = new Date(ts);
+    if (isNaN(d)) return "";
+    let h = d.getHours();
+    const m = String(d.getMinutes()).padStart(2, "0");
+    const ap = h >= 12 ? "p" : "a";
+    h = h % 12 || 12;
+    return ` ${h}:${m}${ap}`;
+  }
+
+  function agoText(iso) {
+    const s = Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 1000));
+    if (s < 90) return `${s} seconds ago`;
+    const m = Math.round(s / 60);
+    if (m < 90) return `${m} minute${m === 1 ? "" : "s"} ago`;
+    const h = Math.round(m / 60);
+    return `${h} hour${h === 1 ? "" : "s"} ago`;
+  }
+
   fetch("./anticeo-news.json?t=" + Date.now())
     .then(r => r.json())
     .then(data => {
       // headline as you already had it …
       const container = document.getElementById("news-columns");
       container.innerHTML = "";
+
+      // live footer: freshness + story count
+      const total = (data.sections || []).reduce((n, s) => n + (s.items || []).length, 0);
+      const footerEl = document.querySelector("footer");
+      if (data.generated_at) {
+        footerEl.textContent = `Updated ${agoText(data.generated_at)} by CLASSWARFARE servers · ${total} stories`;
+      } else {
+        footerEl.textContent = `Updated automatically by CLASSWARFARE servers · ${total} stories`;
+      }
 
       // map by title for stable ordering
       const map = Object.fromEntries((data.sections||[]).map(s => [s.title, s]));
@@ -122,8 +165,11 @@ body {
         const ul = document.createElement("ul");
         (sec.items || []).forEach(it => {
           const li = document.createElement("li");
+          const isNew = it.ts && (Date.now() - new Date(it.ts).getTime()) < NEW_WINDOW_MS;
           li.innerHTML = `<a href="${it.url || '#'}" rel="noopener">${(it.title||'').toUpperCase()}</a>` +
-                         (it.source ? ` <span class="source">(${it.source})</span>` : "");
+                         (it.source ? ` <span class="source">(${it.source})</span>` : "") +
+                         (it.ts ? `<span class="ts">${fmtTs(it.ts)}</span>` : "") +
+                         (isNew ? ` <span class="new-flag">NEW</span>` : "");
           ul.appendChild(li);
         });
         container.appendChild(ul);
