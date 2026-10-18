@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-18T16:04:42.160764Z",
+  "generated_at": "2026-10-18T16:24:48.067441Z",
   "headline": {
-    "title": "This Is Why Everyone Hates V6 Engines",
-    "url": "https://www.thedrive.com/news/this-is-why-everyone-hates-v6-engines"
+    "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
+    "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "Trump Endorses Netanyahu as Best U.S. Partner in Tight Israeli Election",
           "url": "https://www.nytimes.com/2026/10/18/us/politics/trump-endorses-netanyahu-election-israel.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 18 Oct 2026 15:52:23 +0000",
+          "ts": "Sun, 18 Oct 2026 16:07:23 +0000",
+          "section": ""
+        },
+        {
+          "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sun, 18 Oct 2026 15:46:10 GMT",
           "section": ""
         },
         {
@@ -48,13 +55,6 @@
           "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
           "source": "NPR Topics: News",
           "ts": "Sun, 18 Oct 2026 08:55:01 -0400",
-          "section": ""
-        },
-        {
-          "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sun, 18 Oct 2026 12:09:04 GMT",
           "section": ""
         },
         {
@@ -189,6 +189,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Catalog of Misplaced Things",
+          "url": "https://www.theatlantic.com/books/2026/10/poem-j-mae-barizo-catalog/689060/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-18T12:00:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
           "url": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
           "source": "US news | The Guardian",
@@ -227,13 +234,6 @@
           "title": "I give to charity — but never to people on the street. Is that wrong?",
           "url": "https://www.vox.com/future-perfect/372519/charity-giving-effective-altruism-mutual-aid-homeless",
           "source": "Vox",
-          "ts": "2026-10-18T08:00:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "The Evolution of the Human Brain Set It Up for Failure",
-          "url": "https://www.theatlantic.com/health/2026/10/alzheimers-evolution/689062/?utm_source=feed",
-          "source": "The Atlantic",
           "ts": "2026-10-18T08:00:00-04:00",
           "section": ""
         },
@@ -334,6 +334,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+          "url": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-18T16:02:00Z",
+          "section": ""
+        },
+        {
           "title": "This Is Why Everyone Hates V6 Engines",
           "url": "https://www.thedrive.com/news/this-is-why-everyone-hates-v6-engines",
           "source": "The Drive",
@@ -394,13 +401,6 @@
           "url": "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-18T14:14:00Z",
-          "section": ""
-        },
-        {
-          "title": "France: Young voters blase about Glucksmann's Socialists",
-          "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-18T13:31:00Z",
           "section": ""
         },
         {
