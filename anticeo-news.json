@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:04:31.361273Z",
+  "generated_at": "2026-10-19T17:23:27.870981Z",
   "headline": {
     "title": "Announcing Privacy Badger for Safari on macOS",
     "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos"
@@ -8,6 +8,27 @@
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 19 Oct 2026 17:18:04 GMT",
+          "section": ""
+        },
+        {
+          "title": "Judge Grills Witnesses About Decisions Behind Trump’s Plan for DC Golf Course",
+          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 19 Oct 2026 17:16:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "CNN anchor Christiane Amanpour to leave network after 43 years",
+          "url": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 19 Oct 2026 16:48:36 GMT",
+          "section": ""
+        },
         {
           "title": "Supreme Court to Hear New Case on Race and School Admissions",
           "url": "https://www.nytimes.com/2026/10/19/us/politics/supreme-court-race-school-admissions.html",
@@ -27,27 +48,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 19 Oct 2026 16:22:12 GMT",
-          "section": ""
-        },
-        {
-          "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 19 Oct 2026 16:16:55 GMT",
-          "section": ""
-        },
-        {
-          "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
-          "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 19 Oct 2026 16:16:51 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump Says Renovations on Disputed DC Golf Course Will Begin Immediately",
-          "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 19 Oct 2026 16:12:28 +0000",
           "section": ""
         },
         {
@@ -142,13 +142,6 @@
           "section": ""
         },
         {
-          "title": "In Endorsement Message, Trump Says He Wants a Netanyahu-Led Israel To Help ‘Finish the Job’ Against Iran",
-          "url": "https://news.antiwar.com/2026/10/18/in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran/?utm_source=rss&utm_medium=rss&utm_campaign=in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 18 Oct 2026 18:47:20 +0000",
-          "section": ""
-        },
-        {
           "title": "A US Scholar’s Take on How Shifts in US-China Relations Are Felt in a Tsinghua Classroom",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3371126/us-scholars-take-how-shifts-us-china-relations-are-felt-tsinghua-classroom?pgtype=topic",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -168,24 +161,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Black bear breaks into California library to raid snacks and eat jar of honey",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 17:04:36 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 17:03:30 GMT",
+          "section": ""
+        },
+        {
           "title": "Most Americans think Trump is using presidency to enrich himself, poll finds",
           "url": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
           "source": "US news | The Guardian",
           "ts": "Mon, 19 Oct 2026 16:41:15 GMT",
-          "section": ""
-        },
-        {
-          "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 16:34:36 GMT",
-          "section": ""
-        },
-        {
-          "title": "New details emerge on two killed after woman drove through Kansas soccer game",
-          "url": "https://www.theguardian.com/us-news/2026/oct/19/kansas-deaths-soccer-game-vehicle-latest",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 16:23:41 GMT",
           "section": ""
         },
         {
@@ -306,7 +299,14 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Honda’s HTX App Makes Your Off-Road Videos Cooler With Real-Time Driving Data",
+          "title": "Ansar Allah Strikes Military Training Camp in Yemen’s Shabwah Governorate, Killing Over 50",
+          "url": "https://news.antiwar.com/2026/10/19/ansar-allah-strikes-military-training-camp-in-yemens-shabwah-governorate-killing-over-50/?utm_source=rss&utm_medium=rss&utm_campaign=ansar-allah-strikes-military-training-camp-in-yemens-shabwah-governorate-killing-over-50",
+          "source": "News From Antiwar.com",
+          "ts": "Mon, 19 Oct 2026 17:22:44 +0000",
+          "section": ""
+        },
+        {
+          "title": "Honda’s HTX App Makes Your Off-Road Videos Way Cooler",
           "url": "https://www.thedrive.com/news/hondas-htx-app-makes-your-off-road-videos-cooler-with-real-time-driving-data",
           "source": "The Drive",
           "ts": "Mon, 19 Oct 2026 12:43:47 -0400",
@@ -379,7 +379,7 @@
           "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
           "url": "https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-19T15:02:00Z",
+          "ts": "2026-10-19T15:07:00Z",
           "section": ""
         },
         {
@@ -485,13 +485,6 @@
           "url": "https://warontherocks.com/chinas-strategic-reassessment-of-india/",
           "source": "War on the Rocks",
           "ts": "Fri, 16 Oct 2026 07:30:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israel Declares All Arab States Illegitimate",
-          "url": "https://www.youtube.com/watch?v=tdvM6eZWArQ",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Thu, 15 Oct 2026 17:09:27 +0000",
           "section": ""
         }
       ]
