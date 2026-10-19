@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T14:52:33.969528Z",
+  "generated_at": "2026-10-19T15:05:39.645328Z",
   "headline": {
-    "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
-    "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf"
+    "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
+    "url": "https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -20,6 +20,13 @@
           "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 19 Oct 2026 14:13:18 GMT",
+          "section": ""
+        },
+        {
+          "title": "Australian MP critically injured after being hit by car in apparent attack",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 19 Oct 2026 14:09:54 GMT",
           "section": ""
         },
         {
@@ -55,13 +62,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 19 Oct 2026 13:44:57 GMT",
-          "section": ""
-        },
-        {
-          "title": "Are the French riots a warning of an intense election to come?",
-          "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 19 Oct 2026 13:43:27 GMT",
           "section": ""
         },
         {
@@ -168,6 +168,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 14:45:11 GMT",
+          "section": ""
+        },
+        {
           "title": "Man who heckled Abdul El-Sayed is former Josh Hawley aide, records show",
           "url": "https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy",
           "source": "US news | The Guardian",
@@ -186,13 +193,6 @@
           "url": "https://www.nationalreview.com/2026/10/the-pogrom-inside-the-riots/",
           "source": "National Review",
           "ts": "Mon, 19 Oct 2026 14:11:15 +0000",
-          "section": ""
-        },
-        {
-          "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 13:54:11 GMT",
           "section": ""
         },
         {
@@ -306,6 +306,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
+          "url": "https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-19T15:02:00Z",
+          "section": ""
+        },
+        {
+          "title": "Who is cult leader Paul Mackenzie, accused of convincing followers to die?",
+          "url": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 14:54:24 +0000",
+          "section": ""
+        },
+        {
+          "title": "Albania’s protests explained",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 14:46:53 +0000",
+          "section": ""
+        },
+        {
           "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
           "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -334,13 +355,6 @@
           "section": ""
         },
         {
-          "title": "PSG vs Barcelona match will not be postponed despite protests: French PM",
-          "url": "https://www.aljazeera.com/sports/2026/10/19/psg-vs-barcelona-match-will-not-be-postponed-despite-protests-french-pm?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 14:01:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Groups seek clarity on motive behind Pentagon’s study of women in combat",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
           "source": "Army Times",
@@ -355,25 +369,11 @@
           "section": ""
         },
         {
-          "title": "Australian Member of Parliament critically injured after being hit by a car",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/australian-member-of-parliament-critically-injured-after-being-hit-by-a-car?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 13:49:32 +0000",
-          "section": ""
-        },
-        {
           "title": "Rooney Has UK Bookstores Scrambling to See If They’re Breaking Terrorism Law by Selling Her Books",
           "url": "https://www.globalresearch.ca/rooney-uk-bookstores-scrambling-breaking-terrorism-law-selling-her-books/5944034",
           "source": "Global Research",
           "ts": "Mon, 19 Oct 2026 13:09:44 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program",
-          "url": "https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-19T12:31:00Z",
-          "section": ""
         },
         {
           "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
@@ -610,13 +610,6 @@
           "source": "Deeplinks",
           "ts": "Thu, 15 Oct 2026 20:08:58 +0000",
           "section": ""
-        },
-        {
-          "title": "Neo-Nazi Sentenced to Prison for Terrorist Plot Where FBI Agents ‘Encouraged’ Him",
-          "url": "https://headlineusa.com/neo-nazi-sentenced-to-prison-for-terrorist-plot-where-fbi-agents-encouraged-him/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Thu, 15 Oct 2026 14:57:26 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
         }
       ]
     }
