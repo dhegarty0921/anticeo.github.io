@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T23:04:54.068833Z",
+  "generated_at": "2026-10-19T23:24:15.159760Z",
   "headline": {
-    "title": "U.N.C. Strikes Trump Deal to Keep Federal Funding",
-    "url": "https://www.nytimes.com/2026/10/19/us/politics/unc-trump-deal.html"
+    "title": "Children among six killed in Russian drone strike on Ukraine park",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss"
   },
   "sections": [
     {
@@ -23,8 +23,8 @@
           "section": ""
         },
         {
-          "title": "Judge hears latest arguments on White House renovation of Washington golf course",
-          "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/judge-hears-latest-arguments-on-white-house-renovation-of-washington-golf-course",
+          "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+          "url": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 19 Oct 2026 17:56:37 -0400",
           "section": ""
@@ -320,6 +320,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Children among six killed in Russian drone strike on Ukraine park",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 23:12:42 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -331,13 +338,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 19 Oct 2026 21:46:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "160 people reported killed in escalating drone attacks across Sudan",
-          "url": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 21:38:46 +0000",
           "section": ""
         },
         {
@@ -362,8 +362,8 @@
           "section": ""
         },
         {
-          "title": "France: Curfews issued in Paris, Nice after unrest",
-          "url": "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+          "title": "France: Partial curfews issued in Paris, Nice after unrest",
+          "url": "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-19T19:57:00Z",
           "section": ""
