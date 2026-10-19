@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:23:27.870981Z",
+  "generated_at": "2026-10-19T17:35:52.020972Z",
   "headline": {
     "title": "Announcing Privacy Badger for Safari on macOS",
     "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos"
@@ -16,10 +16,10 @@
           "section": ""
         },
         {
-          "title": "Judge Grills Witnesses About Decisions Behind Trump’s Plan for DC Golf Course",
+          "title": "Trump Golf Course Dispute Sparks Clash Between Judge and DOJ",
           "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 19 Oct 2026 17:16:41 +0000",
+          "ts": "Mon, 19 Oct 2026 17:16:42 +0000",
           "section": ""
         },
         {
@@ -161,17 +161,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 17:24:32 GMT",
+          "section": ""
+        },
+        {
           "title": "Black bear breaks into California library to raid snacks and eat jar of honey",
           "url": "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library",
           "source": "US news | The Guardian",
           "ts": "Mon, 19 Oct 2026 17:04:36 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 17:03:30 GMT",
           "section": ""
         },
         {
@@ -299,10 +299,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Israeli Defense Minister Katz Says Over 60 Lebanon Villages Have Been Destroyed",
+          "url": "https://news.antiwar.com/2026/10/19/israeli-defense-minister-katz-says-over-60-lebanon-villages-have-been-destroyed/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-defense-minister-katz-says-over-60-lebanon-villages-have-been-destroyed",
+          "source": "News From Antiwar.com",
+          "ts": "Mon, 19 Oct 2026 17:26:40 +0000",
+          "section": ""
+        },
+        {
           "title": "Ansar Allah Strikes Military Training Camp in Yemen’s Shabwah Governorate, Killing Over 50",
           "url": "https://news.antiwar.com/2026/10/19/ansar-allah-strikes-military-training-camp-in-yemens-shabwah-governorate-killing-over-50/?utm_source=rss&utm_medium=rss&utm_campaign=ansar-allah-strikes-military-training-camp-in-yemens-shabwah-governorate-killing-over-50",
           "source": "News From Antiwar.com",
           "ts": "Mon, 19 Oct 2026 17:22:44 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+          "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 17:16:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
+          "url": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 17:14:41 +0000",
           "section": ""
         },
         {
@@ -317,20 +338,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 19 Oct 2026 16:40:01 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran War backlash threatens Republican control of Congress",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 16:24:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 16:06:57 +0000",
           "section": ""
         },
         {
@@ -376,8 +383,8 @@
           "section": ""
         },
         {
-          "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
-          "url": "https://www.dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435?maca=en-rss-en-all-1573-rdf",
+          "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+          "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-19T15:07:00Z",
           "section": ""
@@ -430,13 +437,6 @@
           "source": "Global Research",
           "ts": "Mon, 19 Oct 2026 03:20:53 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Araghchi Says Iran’s Proposal To Open Strait of Hormuz Within Seven Days Is Still on the Table",
-          "url": "https://news.antiwar.com/2026/10/18/araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table/?utm_source=rss&utm_medium=rss&utm_campaign=araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table",
-          "source": "News From Antiwar.com",
-          "ts": "Mon, 19 Oct 2026 00:30:44 +0000",
-          "section": ""
         },
         {
           "title": "BREAKING NEW STUDY: Enoki Mushroom Extract Suppressed Cancer Tumor Growth by 99.8% in Mice",
@@ -497,6 +497,13 @@
           "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
           "source": "Deeplinks",
           "ts": "Mon, 19 Oct 2026 17:59:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israel-Backed Palestinian Militias Terrorize Displaced Families in Gaza",
+          "url": "https://www.dropsitenews.com/p/gaza-israel-backed-palestinian-militias-yellow-line-jabaliya",
+          "source": "Drop Site News",
+          "ts": "Mon, 19 Oct 2026 17:25:38 GMT",
           "section": ""
         },
         {
@@ -588,13 +595,6 @@
           "url": "https://theintercept.com/2026/10/18/trump-president-apocalypse-war/",
           "source": "The Intercept",
           "ts": "Sun, 18 Oct 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "“Win, Lose, or Draw,” Pearson Campaign Builds a Progressive Coalition in Rural Tennessee",
-          "url": "https://www.dropsitenews.com/p/justin-pearson-tennessee-redistricting-data-centers",
-          "source": "Drop Site News",
-          "ts": "Sat, 17 Oct 2026 12:09:16 GMT",
           "section": ""
         },
         {
