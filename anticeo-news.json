@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-10-19T08:40:34.467199Z",
+  "generated_at": "2026-10-19T08:59:07.243643Z",
   "headline": {
-    "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-    "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf"
+    "title": "Morning news brief",
+    "url": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Morning news brief",
+          "url": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+          "source": "NPR Topics: News",
+          "ts": "Mon, 19 Oct 2026 04:46:44 -0400",
+          "section": ""
+        },
         {
           "title": "Strictly fans rage as next celebrity sent home: ‘I’m calling sabotage’",
           "url": "https://www.thepinknews.com/2026/10/19/who-left-strictly-last-night-2026-dame-sarah-storey/",
@@ -107,24 +114,10 @@
           "section": ""
         },
         {
-          "title": "What does a White House press secretary do?",
-          "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
-          "source": "NPR Topics: Politics",
-          "ts": "Sun, 18 Oct 2026 21:41:24 -0400",
-          "section": ""
-        },
-        {
           "title": "Trump Decides Not To Add New Sanctions on Russia Under Lindsey Graham Act",
           "url": "https://news.antiwar.com/2026/10/18/trump-decides-not-to-add-new-sanctions-on-russia-under-lindsey-graham-act/?utm_source=rss&utm_medium=rss&utm_campaign=trump-decides-not-to-add-new-sanctions-on-russia-under-lindsey-graham-act",
           "source": "News From Antiwar.com",
           "ts": "Sun, 18 Oct 2026 20:24:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "In Endorsement Message, Trump Says He Wants a Netanyahu-Led Israel To Help ‘Finish the Job’ Against Iran",
-          "url": "https://news.antiwar.com/2026/10/18/in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran/?utm_source=rss&utm_medium=rss&utm_campaign=in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 18 Oct 2026 18:47:20 +0000",
           "section": ""
         },
         {
@@ -306,6 +299,13 @@
           "section": ""
         },
         {
+          "title": "Denmark Procures Additional Naval Strike Missiles from Kongsberg",
+          "url": "https://www.navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg/",
+          "source": "Naval News",
+          "ts": "Mon, 19 Oct 2026 08:28:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
           "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -313,10 +313,24 @@
           "section": ""
         },
         {
+          "title": "France’s Macron declines minister’s resignation after violent protests",
+          "url": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 08:25:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Mali’s military and armed groups committing abuses against civilians: HRW",
           "url": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 19 Oct 2026 08:06:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Taiwan Coast Guard to Acquire MARTAC Devil Ray T24 USVs",
+          "url": "https://www.navalnews.com/naval-news/2026/10/taiwan-coast-guard-to-acquire-martac-devil-ray-t24-usvs/",
+          "source": "Naval News",
+          "ts": "Mon, 19 Oct 2026 08:04:45 +0000",
           "section": ""
         },
         {
@@ -334,10 +348,10 @@
           "section": ""
         },
         {
-          "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 07:49:17 +0000",
+          "title": "Rheinmetall to take over the Mangalia shipyard in Romania",
+          "url": "https://www.navalnews.com/naval-news/2026/10/rheinmetall-to-take-over-the-mangalia-shipyard-in-romania/",
+          "source": "Naval News",
+          "ts": "Mon, 19 Oct 2026 07:36:36 +0000",
           "section": ""
         },
         {
@@ -381,6 +395,13 @@
           "source": "Global Research",
           "ts": "Sun, 18 Oct 2026 22:18:42 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Saudi Airstrike on Civilian Home in Yemen Kills 10, Including Seven Children: Health Ministry",
+          "url": "https://news.antiwar.com/2026/10/18/saudi-airstrike-on-civilian-home-in-yemen-kills-10-including-seven-children-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-airstrike-on-civilian-home-in-yemen-kills-10-including-seven-children-health-ministry",
+          "source": "News From Antiwar.com",
+          "ts": "Sun, 18 Oct 2026 22:10:18 +0000",
+          "section": ""
         },
         {
           "title": "Japanese TV Station Interviews Americans About Their Love for Kei Trucks, and It’s Too Wholesome",
