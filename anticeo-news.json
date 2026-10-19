@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T10:06:15.856878Z",
+  "generated_at": "2026-10-19T10:26:27.246246Z",
   "headline": {
-    "title": "Four arrested after police officer injured in shooting",
-    "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss"
+    "title": "Greece: At least 12 die in migrant drownings overnight",
+    "url": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -12,7 +12,21 @@
           "title": "Four arrested after police officer injured in shooting",
           "url": "https://www.bbc.co.uk/news/articles/c6073pdxpvjvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Mon, 19 Oct 2026 10:02:51 GMT",
+          "ts": "Mon, 19 Oct 2026 10:17:42 GMT",
+          "section": ""
+        },
+        {
+          "title": "Marvel Studios chooses its first gay X-Men hero for reboot movie",
+          "url": "https://www.thepinknews.com/2026/10/19/iceman-xmen-reboot-2028/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 19 Oct 2026 10:16:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Delta Goodrem in tears as she’s forced to miss Strictly after ‘rough week’",
+          "url": "https://www.thepinknews.com/2026/10/19/strictly-come-dancing-delta-goodrem-rib-injury-2026/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 19 Oct 2026 10:05:13 +0000",
           "section": ""
         },
         {
@@ -34,13 +48,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 19 Oct 2026 09:24:33 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Archers airs first lesbian wedding in 75-year history",
-          "url": "https://www.thepinknews.com/2026/10/19/archers-lesbian-wedding-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 19 Oct 2026 09:10:18 +0000",
           "section": ""
         },
         {
@@ -86,13 +93,6 @@
           "section": ""
         },
         {
-          "title": "Strictly fans rage as next celebrity sent home: ‘I’m calling sabotage’",
-          "url": "https://www.thepinknews.com/2026/10/19/who-left-strictly-last-night-2026-dame-sarah-storey/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 19 Oct 2026 08:32:03 +0000",
-          "section": ""
-        },
-        {
           "title": "American Pravda: The Fall of Saudi Arabia?, by Ron Unz",
           "url": "https://www.unz.com/runz/american-pravda-the-fall-of-saudi-arabia/",
           "source": "The Unz Review:",
@@ -135,6 +135,13 @@
           "section": ""
         },
         {
+          "title": "In Endorsement Message, Trump Says He Wants a Netanyahu-Led Israel To Help ‘Finish the Job’ Against Iran",
+          "url": "https://news.antiwar.com/2026/10/18/in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran/?utm_source=rss&utm_medium=rss&utm_campaign=in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran",
+          "source": "News From Antiwar.com",
+          "ts": "Sun, 18 Oct 2026 18:47:20 +0000",
+          "section": ""
+        },
+        {
           "title": "Is Rihanna's \"Umbrella\" the Only Skankerpiece?, by Jung-Freud",
           "url": "https://www.unz.com/jfreud/is-rihannas-umbrella-the-only-skankerpiece/",
           "source": "The Unz Review:",
@@ -154,6 +161,34 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump to head to Kansas to show support for embattled Marshall – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 10:18:27 GMT",
+          "section": ""
+        },
+        {
+          "title": "Sticker tycoon. Trump cheerleader. Rapper. Congressman?",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/republican-anthony-constantino-new-york-house-midterms",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 10:00:06 GMT",
+          "section": ""
+        },
+        {
+          "title": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 19 Oct 2026 10:00:03 GMT",
+          "section": ""
+        },
+        {
+          "title": "Maine Has Changed. Susan Collins Hasn’t.",
+          "url": "https://www.theatlantic.com/politics/2026/10/susan-collins-maine-debate-troy-jackson/689037/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-19T06:00:00-04:00",
+          "section": ""
+        },
+        {
           "title": "America’s next big healthcare reform might already be underway",
           "url": "https://www.vox.com/policy/506744/healthcare-democrats-public-option-obamacare-aca-insurance-colorado",
           "source": "Vox",
@@ -168,6 +203,13 @@
           "section": ""
         },
         {
+          "title": "The Democratic Party’s New Villain",
+          "url": "https://www.theatlantic.com/politics/2026/10/democratic-party-big-tech/689008/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-19T06:00:00-04:00",
+          "section": ""
+        },
+        {
           "title": "What the Bible’s Most Political Book Can Teach Us",
           "url": "https://www.christianitytoday.com/2026/10/esther-most-political-bible-book-midterms/",
           "source": "Christianity Today",
@@ -175,45 +217,10 @@
           "section": ""
         },
         {
-          "title": "Trump to head to Kansas to show support for embattled Marshall – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 09:44:42 GMT",
-          "section": ""
-        },
-        {
-          "title": "Vatican upholds excommunication of US deacon who resigned after son was molested by priest",
-          "url": "https://www.theguardian.com/us-news/2026/oct/19/catholic-church-excommunication-appeal-louisiana",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 09:00:24 GMT",
-          "section": ""
-        },
-        {
-          "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
-          "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 04:43:41 GMT",
-          "section": ""
-        },
-        {
           "title": "Siding With Putin Is a Huge Mistake",
           "url": "https://www.theatlantic.com/ideas/2026/10/trump-putin/689067/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-18T18:26:41-04:00",
-          "section": ""
-        },
-        {
-          "title": "America Is Now an Ally of Russia",
-          "url": "https://www.theatlantic.com/ideas/2026/10/america-now-ally-russia/689066/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-18T17:51:28-04:00",
-          "section": ""
-        },
-        {
-          "title": "Catalog of Misplaced Things",
-          "url": "https://www.theatlantic.com/books/2026/10/poem-j-mae-barizo-catalog/689060/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-18T12:00:00-04:00",
           "section": ""
         },
         {
@@ -292,6 +299,34 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Greece: At least 12 die in migrant drownings overnight",
+          "url": "https://www.dw.com/en/greece-at-least-12-die-in-migrant-drownings-overnight/a-79697504?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-19T10:19:00Z",
+          "section": ""
+        },
+        {
+          "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+          "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 10:08:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Mexican protesters demanding clean water storm state congress",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 10:08:01 +0000",
+          "section": ""
+        },
+        {
+          "title": "Australian MP seriously hurt in suspected car attack",
+          "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-19T10:06:00Z",
+          "section": ""
+        },
+        {
           "title": "Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says",
           "url": "https://www.dw.com/en/ukraine-got-no-warning-of-russian-ballistic-strikes-zelenskyy-says/a-79697476?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -306,13 +341,6 @@
           "section": ""
         },
         {
-          "title": "Exail USVs Set for U.S. Navy and Coast Guard Evaluations",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations/",
-          "source": "Naval News",
-          "ts": "Mon, 19 Oct 2026 09:34:54 +0000",
-          "section": ""
-        },
-        {
           "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
           "url": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -320,52 +348,10 @@
           "section": ""
         },
         {
-          "title": "How a grass fire at a Canadian military base killed four soldiers",
-          "url": "https://www.aljazeera.com/news/2026/10/19/how-a-grass-fire-at-a-canadian-military-base-killed-four-soldiers?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 09:12:31 +0000",
-          "section": ""
-        },
-        {
           "title": "US Army fields new system for sweeping munitions planning, management",
           "url": "https://www.armytimes.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
           "source": "Army Times",
           "ts": "Mon, 19 Oct 2026 09:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
-          "url": "https://www.aljazeera.com/news/2026/10/19/rubio-says-there-was-no-us-pause-in-intelligence-sharing-with?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 08:58:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats",
-          "url": "https://www.dw.com/en/west-bank-israel-arrests-10-suspects-over-settler-attacks-on-us-journalist-european-diplomats/a-79696514?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-19T08:33:00Z",
-          "section": ""
-        },
-        {
-          "title": "Denmark Procures Additional Naval Strike Missiles from Kongsberg",
-          "url": "https://www.navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg/",
-          "source": "Naval News",
-          "ts": "Mon, 19 Oct 2026 08:28:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
-          "url": "https://www.dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-19T08:26:00Z",
-          "section": ""
-        },
-        {
-          "title": "Taiwan Coast Guard to Acquire MARTAC Devil Ray T24 USVs",
-          "url": "https://www.navalnews.com/naval-news/2026/10/taiwan-coast-guard-to-acquire-martac-devil-ray-t24-usvs/",
-          "source": "Naval News",
-          "ts": "Mon, 19 Oct 2026 08:04:45 +0000",
           "section": ""
         },
         {
@@ -409,13 +395,6 @@
           "source": "Global Research",
           "ts": "Sun, 18 Oct 2026 22:18:42 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Saudi Airstrike on Civilian Home in Yemen Kills 10, Including Seven Children: Health Ministry",
-          "url": "https://news.antiwar.com/2026/10/18/saudi-airstrike-on-civilian-home-in-yemen-kills-10-including-seven-children-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-airstrike-on-civilian-home-in-yemen-kills-10-including-seven-children-health-ministry",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 18 Oct 2026 22:10:18 +0000",
-          "section": ""
         },
         {
           "title": "Japanese TV Station Interviews Americans About Their Love for Kei Trucks, and It’s Too Wholesome",
