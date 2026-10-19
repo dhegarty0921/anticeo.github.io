@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:24:51.788284Z",
+  "generated_at": "2026-10-19T11:37:38.651870Z",
   "headline": {
     "title": "Ted Cruz rants about ‘left-wing transgender witches’ who hate Donald Trump",
     "url": "https://www.thepinknews.com/2026/10/19/ted-cruz-fox-news-left-wing-transgender-witches-donald-trump/"
@@ -139,6 +139,13 @@
           "url": "https://news.antiwar.com/2026/10/18/trump-decides-not-to-add-new-sanctions-on-russia-under-lindsey-graham-act/?utm_source=rss&utm_medium=rss&utm_campaign=trump-decides-not-to-add-new-sanctions-on-russia-under-lindsey-graham-act",
           "source": "News From Antiwar.com",
           "ts": "Sun, 18 Oct 2026 20:24:36 +0000",
+          "section": ""
+        },
+        {
+          "title": "In Endorsement Message, Trump Says He Wants a Netanyahu-Led Israel To Help ‘Finish the Job’ Against Iran",
+          "url": "https://news.antiwar.com/2026/10/18/in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran/?utm_source=rss&utm_medium=rss&utm_campaign=in-endorsement-message-trump-says-he-wants-a-netanyahu-led-israel-to-help-finish-the-job-against-iran",
+          "source": "News From Antiwar.com",
+          "ts": "Sun, 18 Oct 2026 18:47:20 +0000",
           "section": ""
         },
         {
@@ -292,10 +299,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/indonesia-battles-worst-forest-fires-and-toxic-haze-in-11-years?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 11:05:57 +0000",
+          "section": ""
+        },
+        {
           "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
           "url": "https://www.armytimes.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
           "source": "Army Times",
           "ts": "Mon, 19 Oct 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Museum protesters in Colombia accuse gov’t of erasing history",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/museum-protesters-in-colombia-accuse-govt-of-erasing-history?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 10:55:23 +0000",
           "section": ""
         },
         {
@@ -313,24 +334,10 @@
           "section": ""
         },
         {
-          "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
-          "url": "https://www.aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 10:43:55 +0000",
-          "section": ""
-        },
-        {
-          "title": "How a homeless man lives in front of a London mega-mansion",
-          "url": "https://www.dw.com/en/how-a-homeless-man-lives-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf",
+          "title": "The homeless man living in front of a London mega-mansion",
+          "url": "https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-19T10:38:00Z",
-          "section": ""
-        },
-        {
-          "title": "Australian MP Helen Haines critically injured in ‘deliberate’ car ramming",
-          "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 10:35:48 +0000",
           "section": ""
         },
         {
@@ -348,31 +355,10 @@
           "section": ""
         },
         {
-          "title": "Exail USVs Set for U.S. Navy and Coast Guard Evaluations",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations/",
-          "source": "Naval News",
-          "ts": "Mon, 19 Oct 2026 09:34:54 +0000",
-          "section": ""
-        },
-        {
           "title": "US Army fields new system for sweeping munitions planning, management",
           "url": "https://www.armytimes.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
           "source": "Army Times",
           "ts": "Mon, 19 Oct 2026 09:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Denmark Procures Additional Naval Strike Missiles from Kongsberg",
-          "url": "https://www.navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg/",
-          "source": "Naval News",
-          "ts": "Mon, 19 Oct 2026 08:28:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Taiwan Coast Guard to Acquire MARTAC Devil Ray T24 USVs",
-          "url": "https://www.navalnews.com/naval-news/2026/10/taiwan-coast-guard-to-acquire-martac-devil-ray-t24-usvs/",
-          "source": "Naval News",
-          "ts": "Mon, 19 Oct 2026 08:04:45 +0000",
           "section": ""
         },
         {
@@ -416,13 +402,6 @@
           "source": "Global Research",
           "ts": "Sun, 18 Oct 2026 22:18:42 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Saudi Airstrike on Civilian Home in Yemen Kills 10, Including Seven Children: Health Ministry",
-          "url": "https://news.antiwar.com/2026/10/18/saudi-airstrike-on-civilian-home-in-yemen-kills-10-including-seven-children-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-airstrike-on-civilian-home-in-yemen-kills-10-including-seven-children-health-ministry",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 18 Oct 2026 22:10:18 +0000",
-          "section": ""
         },
         {
           "title": "Japanese TV Station Interviews Americans About Their Love for Kei Trucks, and It’s Too Wholesome",
