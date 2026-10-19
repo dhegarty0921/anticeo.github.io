@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:35:52.020972Z",
+  "generated_at": "2026-10-19T17:47:26.605757Z",
   "headline": {
     "title": "Announcing Privacy Badger for Safari on macOS",
     "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos"
@@ -135,13 +135,6 @@
           "section": ""
         },
         {
-          "title": "Trump Decides Not To Add New Sanctions on Russia Under Lindsey Graham Act",
-          "url": "https://news.antiwar.com/2026/10/18/trump-decides-not-to-add-new-sanctions-on-russia-under-lindsey-graham-act/?utm_source=rss&utm_medium=rss&utm_campaign=trump-decides-not-to-add-new-sanctions-on-russia-under-lindsey-graham-act",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 18 Oct 2026 20:24:36 +0000",
-          "section": ""
-        },
-        {
           "title": "A US Scholar’s Take on How Shifts in US-China Relations Are Felt in a Tsinghua Classroom",
           "url": "https://www.scmp.com/news/china/diplomacy/article/3371126/us-scholars-take-how-shifts-us-china-relations-are-felt-tsinghua-classroom?pgtype=topic",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -161,10 +154,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Actor Chris Pratt joins Pope Leo in new documentary about St. Peter’s long-lost remains",
+          "url": "https://religionnews.com/2026/10/19/actor-chris-pratt-joins-pope-leo-in-new-documentary-about-st-peters-long-lost-remains/",
+          "source": "RNS",
+          "ts": "Mon, 19 Oct 2026 17:44:32 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 19 Oct 2026 17:24:32 GMT",
+          "ts": "Mon, 19 Oct 2026 17:37:45 GMT",
           "section": ""
         },
         {
@@ -273,13 +273,6 @@
           "section": ""
         },
         {
-          "title": "Photo Gallery: First images of Pope Leo XIV after surgery, letters of healing",
-          "url": "https://religionnews.com/2026/10/16/photo-gallery-first-images-of-pope-leo-xiv-after-surgery/",
-          "source": "RNS",
-          "ts": "Fri, 16 Oct 2026 21:28:24 +0000",
-          "section": ""
-        },
-        {
           "title": "Katie Zacharia Is ‘Transitioning Out’ as Press Secretary After Nightmare First Week",
           "url": "https://www.rollingstone.com/politics/politics-news/katie-zacharias-press-secretary-struggles-1235643934/",
           "source": "Politics News",
@@ -327,7 +320,7 @@
           "section": ""
         },
         {
-          "title": "Honda’s HTX App Makes Your Off-Road Videos Way Cooler",
+          "title": "Honda’s HTX App Off-Road Tested: A Cool Tool for Recording Adventures",
           "url": "https://www.thedrive.com/news/hondas-htx-app-makes-your-off-road-videos-cooler-with-real-time-driving-data",
           "source": "The Drive",
           "ts": "Mon, 19 Oct 2026 12:43:47 -0400",
@@ -362,7 +355,7 @@
           "section": ""
         },
         {
-          "title": "$1 Gas Gridlocks Georgia Town After Gas Station Price War Goes Nuclear",
+          "title": "Price War Brings Throngs to Rival Georgia Gas Stations in Search of $1 Gas",
           "url": "https://www.thedrive.com/news/1-gas-gridlocks-georgia-town-after-gas-station-price-war-goes-nuclear",
           "source": "The Drive",
           "ts": "Mon, 19 Oct 2026 11:40:07 -0400",
@@ -411,10 +404,31 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines",
+          "url": "https://www.navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines/",
+          "source": "Naval News",
+          "ts": "Mon, 19 Oct 2026 12:34:20 +0000",
+          "section": ""
+        },
+        {
           "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
           "url": "https://www.armytimes.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
           "source": "Army Times",
           "ts": "Mon, 19 Oct 2026 12:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Exail USVs Set for U.S. Navy and Coast Guard Evaluations",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/exail-usvs-set-for-u-s-navy-and-coast-guard-evaluations/",
+          "source": "Naval News",
+          "ts": "Mon, 19 Oct 2026 09:34:54 +0000",
+          "section": ""
+        },
+        {
+          "title": "Denmark Procures Additional Naval Strike Missiles from Kongsberg",
+          "url": "https://www.navalnews.com/naval-news/2026/10/denmark-procures-additional-naval-strike-missiles-from-kongsberg/",
+          "source": "Naval News",
+          "ts": "Mon, 19 Oct 2026 08:28:30 +0000",
           "section": ""
         },
         {
@@ -437,6 +451,13 @@
           "source": "Global Research",
           "ts": "Mon, 19 Oct 2026 03:20:53 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Araghchi Says Iran’s Proposal To Open Strait of Hormuz Within Seven Days Is Still on the Table",
+          "url": "https://news.antiwar.com/2026/10/18/araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table/?utm_source=rss&utm_medium=rss&utm_campaign=araghchi-says-irans-proposal-to-open-strait-of-hormuz-within-seven-days-is-still-on-the-table",
+          "source": "News From Antiwar.com",
+          "ts": "Mon, 19 Oct 2026 00:30:44 +0000",
+          "section": ""
         },
         {
           "title": "BREAKING NEW STUDY: Enoki Mushroom Extract Suppressed Cancer Tumor Growth by 99.8% in Mice",
@@ -497,6 +518,13 @@
           "url": "https://www.eff.org/deeplinks/2026/10/announcing-privacy-badger-safari-macos",
           "source": "Deeplinks",
           "ts": "Mon, 19 Oct 2026 17:59:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "$100 Million ICE “Intelligence” Program is a Domestic Secret Police Agency in the Making",
+          "url": "https://www.aclu.org/news/privacy-technology/ero-one",
+          "source": "Posts | American Civil Liberties Union",
+          "ts": "Mon, 19 Oct 2026 17:42:45 +0000",
           "section": ""
         },
         {
