@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T06:11:17.251785Z",
+  "generated_at": "2026-10-19T06:51:23.125004Z",
   "headline": {
-    "title": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-    "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf"
+    "title": "Germany news: Berlin conference seeks to drum up investment",
+    "url": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -16,13 +16,6 @@
           "section": ""
         },
         {
-          "title": "Macron calls for 'calm and order' after riots across France",
-          "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 19 Oct 2026 05:07:21 GMT",
-          "section": ""
-        },
-        {
           "title": "Companies exploiting welfare system by using residents as 'cash cows,' BBC finds",
           "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -30,7 +23,7 @@
           "section": ""
         },
         {
-          "title": "France's government under pressure after weekend of widespread violence",
+          "title": "France's government under pressure after widespread violence",
           "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 19 Oct 2026 04:16:46 GMT",
@@ -97,6 +90,13 @@
           "url": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 18 Oct 2026 21:41:24 -0400",
+          "section": ""
+        },
+        {
+          "title": "The father and son on opposite sides of Alberta’s separation referendum",
+          "url": "https://www.bbc.co.uk/news/videos/c6g7xj3d88nvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 19 Oct 2026 00:42:51 GMT",
           "section": ""
         },
         {
@@ -292,6 +292,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Germany news: Berlin conference seeks to drum up investment",
+          "url": "https://www.dw.com/en/germany-news-berlin-conference-seeks-to-drum-up-investment/live-79695354?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-19T06:49:00Z",
+          "section": ""
+        },
+        {
+          "title": "India news: CJP alleges 'deliberate' delay in leaders' release",
+          "url": "https://www.dw.com/en/india-news-cjp-alleges-deliberate-delay-in-leaders-release/live-79695410?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-19T06:25:00Z",
+          "section": ""
+        },
+        {
+          "title": "Mbappe scores two, Guler one, as Real Madrid find form before El Clasico",
+          "url": "https://www.aljazeera.com/sports/2026/10/19/mbappe-scores-two-guler-one-as-real-madrid-find-form-before-el-clasico?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 19 Oct 2026 06:01:51 +0000",
+          "section": ""
+        },
+        {
           "title": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
           "url": "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -299,38 +320,17 @@
           "section": ""
         },
         {
-          "title": "France: Emmanuel Macron slams 'failures' over protest unrest",
-          "url": "https://www.dw.com/en/france-emmanuel-macron-slams-failures-over-protest-unrest/a-79695496?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-19T05:53:00Z",
-          "section": ""
-        },
-        {
-          "title": "What Earth's sixth mass extinction event means for humans",
-          "url": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-19T05:48:00Z",
-          "section": ""
-        },
-        {
-          "title": "US President Donald Trump endorses Netanyahu for Israeli election",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
+          "title": "The kingmakers who could determine Israel’s election",
+          "url": "https://www.aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 05:10:37 +0000",
+          "ts": "Mon, 19 Oct 2026 05:58:46 +0000",
           "section": ""
         },
         {
-          "title": "Pope greeted by crowds in first major appearance since lung cancer surgery",
-          "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss",
+          "title": "China’s economy grows 4.5 percent in Q3, beating forecasts",
+          "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 04:42:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
-          "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 19 Oct 2026 04:27:00 +0000",
+          "ts": "Mon, 19 Oct 2026 05:56:47 +0000",
           "section": ""
         },
         {
