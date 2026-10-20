@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:24:56.851408Z",
+  "generated_at": "2026-10-20T21:36:02.694538Z",
   "headline": {
     "title": "If Democrats Win Congress, Could the G.O.P. Refuse to Seat Them?",
     "url": "https://www.nytimes.com/2026/10/20/us/politics/democrats-republicans-congress-midterm-elections.html"
@@ -12,7 +12,14 @@
           "title": "If Democrats Win Congress, Could the G.O.P. Refuse to Seat Them?",
           "url": "https://www.nytimes.com/2026/10/20/us/politics/democrats-republicans-congress-midterm-elections.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 21:21:19 +0000",
+          "ts": "Tue, 20 Oct 2026 21:32:34 +0000",
+          "section": ""
+        },
+        {
+          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 20 Oct 2026 21:27:39 GMT",
           "section": ""
         },
         {
@@ -41,13 +48,6 @@
           "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
           "source": "NPR Topics: News",
           "ts": "Tue, 20 Oct 2026 16:19:16 -0400",
-          "section": ""
-        },
-        {
-          "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 20 Oct 2026 20:01:04 GMT",
           "section": ""
         },
         {
@@ -189,17 +189,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 20 Oct 2026 21:15:41 GMT",
+          "section": ""
+        },
+        {
           "title": "You Can Believe Everything",
           "url": "https://www.theatlantic.com/technology/2026/10/theranos-elizabeth-holmes-musk-flying-car/689095/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-20T17:12:43-04:00",
-          "section": ""
-        },
-        {
-          "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 20 Oct 2026 21:09:19 GMT",
           "section": ""
         },
         {
