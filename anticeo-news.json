@@ -1,15 +1,29 @@
 {
-  "generated_at": "2026-10-20T19:23:00.171031Z",
+  "generated_at": "2026-10-20T19:35:33.971569Z",
   "headline": {
-    "title": "Christina Applegate says she was wrongfully diagnosed with MS",
-    "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss"
+    "title": "Sally Rooney Is Wrong, and So Is What’s Happening to Her",
+    "url": "https://www.theatlantic.com/ideas/2026/10/sally-rooney-free-speech/689087/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
-          "title": "Christina Applegate says she was wrongfully diagnosed with MS",
+          "title": "Trump sued over Canadian tariffs in latest legal challenge",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 20 Oct 2026 19:30:05 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+          "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 20 Oct 2026 19:22:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Christina Applegate says she was wrongly diagnosed with MS",
           "url": "https://www.bbc.co.uk/news/articles/cqlyel3wnxmxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 20 Oct 2026 19:22:10 GMT",
@@ -69,20 +83,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/vivek-ramaswamy-ad-amy-acton-mother-1235645616/",
           "source": "Politics News",
           "ts": "Tue, 20 Oct 2026 18:42:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
-          "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 18:28:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Google resolves cloud outage affecting UK banks and websites",
-          "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 20 Oct 2026 18:03:19 GMT",
           "section": ""
         },
         {
@@ -182,6 +182,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Sally Rooney Is Wrong, and So Is What’s Happening to Her",
+          "url": "https://www.theatlantic.com/ideas/2026/10/sally-rooney-free-speech/689087/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-20T15:34:09-04:00",
+          "section": ""
+        },
+        {
+          "title": "An Unexpected Iran-War Opponent: The President’s Son",
+          "url": "https://www.theatlantic.com/politics/2026/10/trump-don-jr-iran-war/689078/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-20T15:25:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
           "source": "US news | The Guardian",
@@ -245,24 +259,10 @@
           "section": ""
         },
         {
-          "title": "Winners of the 2026 Epson International Pano Awards",
-          "url": "https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-20T11:02:00-04:00",
-          "section": ""
-        },
-        {
           "title": "The Anti-French Revolt in France",
           "url": "https://www.nationalreview.com/2026/10/the-anti-french-revolt-in-france/",
           "source": "National Review",
           "ts": "Tue, 20 Oct 2026 14:10:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump’s ‘Staggering One-Two Punch’ to Ukraine",
-          "url": "https://www.theatlantic.com/podcasts/2026/10/ra-ukraine/689068/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-20T10:09:11-04:00",
           "section": ""
         },
         {
@@ -312,6 +312,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Reading Pyongyang Through the Cracks of the International System",
+          "url": "https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system/",
+          "source": "War on the Rocks",
+          "ts": "Tue, 20 Oct 2026 19:30:05 +0000",
+          "section": ""
+        },
         {
           "title": "Convicted Fraudster’s Massive Car Collection Is Being Sold Off by the US Marshals",
           "url": "https://www.thedrive.com/news/fraudster-bought-90-cars-with-dirty-money-now-the-feds-are-selling-them-off",
@@ -366,13 +373,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 20 Oct 2026 18:53:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "HAVELSAN Demonstrates Coordinated Unmanned Air and Maritime Operations",
-          "url": "https://www.navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations/",
-          "source": "Naval News",
-          "ts": "Tue, 20 Oct 2026 18:40:15 +0000",
           "section": ""
         },
         {
@@ -446,20 +446,6 @@
           "section": ""
         },
         {
-          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-          "url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
-          "source": "Naval News",
-          "ts": "Tue, 20 Oct 2026 13:39:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away",
-          "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away/",
-          "source": "Naval News",
-          "ts": "Tue, 20 Oct 2026 12:28:10 +0000",
-          "section": ""
-        },
-        {
           "title": "Guns, Growth, and the German Reinvention of Military Keynesianism",
           "url": "https://warontherocks.com/guns-growth-and-the-german-reinvention-of-military-keynesianism/",
           "source": "War on the Rocks",
@@ -513,13 +499,6 @@
           "url": "https://www.c-span.org/program/washington-journal/annelle-sheline-on-us-iran-war-and-regional-impacts/686598",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 15:16:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Pentagon Doesn’t Need to Reinvent Supply Chain Transparency",
-          "url": "https://warontherocks.com/cogs-of-war/the-pentagon-doesnt-need-to-reinvent-supply-chain-transparency/",
-          "source": "War on the Rocks",
-          "ts": "Mon, 19 Oct 2026 08:00:14 +0000",
           "section": ""
         },
         {
