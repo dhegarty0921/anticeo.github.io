@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-20T09:06:00.312063Z",
+  "generated_at": "2026-10-20T09:27:56.550736Z",
   "headline": {
-    "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
-    "url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html"
+    "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+    "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Trump Announces $8 Billion Plan to Cover Farm Losses",
+          "url": "https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 20 Oct 2026 09:13:50 +0000",
+          "section": ""
+        },
+        {
+          "title": "Republican National Committee Moves $50 Million to Help Midterm Candidates in Huge Cash Transfer",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/republicans-midterm-election-cash-transfer.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 20 Oct 2026 09:02:13 +0000",
+          "section": ""
+        },
         {
           "title": "Taunting Trump Over Gas Prices, Iran Braces for Aftermath of U.S. Vote",
           "url": "https://www.nytimes.com/2026/10/20/us/politics/iran-trump-midterm-elections.html",
@@ -16,17 +30,10 @@
           "section": ""
         },
         {
-          "title": "A.I. Fortunes Could Bring Critical Funds to Global Health. The Scramble Is On.",
-          "url": "https://www.nytimes.com/2026/10/20/us/politics/ai-fortunes-could-bring-critical-funds-to-global-health-the-scramble-is-on.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 09:01:01 +0000",
-          "section": ""
-        },
-        {
-          "title": "When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.",
-          "url": "https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 09:00:06 +0000",
+          "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 20 Oct 2026 05:00:00 -0400",
           "section": ""
         },
         {
@@ -39,13 +46,6 @@
         {
           "title": "Can the new federal voucher program help public schools? Democrats are torn",
           "url": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 20 Oct 2026 05:00:00 -0400",
-          "section": ""
-        },
-        {
-          "title": "Why are some food prices up and others down? Here are the stories of 5 items",
-          "url": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
           "source": "NPR Topics: News",
           "ts": "Tue, 20 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -320,6 +320,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Why US investors are snapping up Germany's famed Mittelstand",
+          "url": "https://www.dw.com/en/why-us-investors-are-snapping-up-germany-s-famed-mittelstand/a-79705421?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-20T09:06:00Z",
+          "section": ""
+        },
+        {
           "title": "Brutal, revolutionary empire builder: Genghis Khan's legacy",
           "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -352,13 +359,6 @@
           "url": "https://www.aljazeera.com/sports/2026/10/20/uefa-demands-fifa-release-key-documents-on-world-cup-sell-off-plan?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 20 Oct 2026 08:24:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Germany news: Siemens warns on AI eliminating entry-level jobs",
-          "url": "https://www.dw.com/en/germany-news-siemens-warns-on-ai-eliminating-entry-level-jobs/live-79709090?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-20T08:21:00Z",
           "section": ""
         },
         {
