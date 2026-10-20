@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T15:05:30.206786Z",
+  "generated_at": "2026-10-20T15:25:20.481766Z",
   "headline": {
     "title": "A.I. Fortunes Could Bring Critical Funds to Global Health. The Scramble Is On.",
     "url": "https://www.nytimes.com/2026/10/20/us/politics/ai-fortunes-could-bring-critical-funds-to-global-health-the-scramble-is-on.html"
@@ -12,7 +12,14 @@
           "title": "A.I. Fortunes Could Bring Critical Funds to Global Health. The Scramble Is On.",
           "url": "https://www.nytimes.com/2026/10/20/us/politics/ai-fortunes-could-bring-critical-funds-to-global-health-the-scramble-is-on.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 14:56:01 +0000",
+          "ts": "Tue, 20 Oct 2026 15:15:18 +0000",
+          "section": ""
+        },
+        {
+          "title": "Student who stabbed housemate 30 times admits murder",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6n55l23rlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 20 Oct 2026 14:35:14 GMT",
           "section": ""
         },
         {
@@ -65,13 +72,6 @@
           "section": ""
         },
         {
-          "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 20 Oct 2026 13:10:43 GMT",
-          "section": ""
-        },
-        {
           "title": "How Routine and Familiarity Help People Living With Dementia",
           "url": "https://www.thecanary.co/discovery/health/2026/10/20/how-routine-and-familiarity-help-people-living-with-dementia/",
           "source": "Canary",
@@ -114,8 +114,8 @@
           "section": ""
         },
         {
-          "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
-          "url": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+          "title": "Can the new federal voucher program help public schools? Democrats are torn",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
           "source": "NPR Topics: News",
           "ts": "Tue, 20 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -182,10 +182,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The surprising conservative backlash against Justice Alito",
+          "url": "https://www.vox.com/politics/506990/supreme-court-samuel-alito-originalism-conservative-backlash",
+          "source": "Vox",
+          "ts": "2026-10-20T11:10:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 20 Oct 2026 14:16:31 GMT",
+          "ts": "Tue, 20 Oct 2026 15:09:28 GMT",
+          "section": ""
+        },
+        {
+          "title": "Winners of the 2026 Epson International Pano Awards",
+          "url": "https://www.theatlantic.com/photography/2026/10/winners-2026-epson-international-pano-awards/689074/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-20T11:02:00-04:00",
           "section": ""
         },
         {
@@ -259,24 +273,10 @@
           "section": ""
         },
         {
-          "title": "The Cynicism of Trump’s Climate Policy",
-          "url": "https://www.theatlantic.com/ideas/2026/10/epa-greenhouse-gas-emissions-power/689070/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-20T07:00:00-04:00",
-          "section": ""
-        },
-        {
           "title": "RFK Jr.’s anti-vax agenda might kill millions of birds this winter",
           "url": "https://www.vox.com/future-perfect/506937/bird-flu-vaccination-poultry-rfk-usda",
           "source": "Vox",
           "ts": "2026-10-20T06:45:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Where did all the vegan restaurants go?",
-          "url": "https://www.vox.com/the-highlight/503739/vegan-restaurants-closing-animal-rights",
-          "source": "Vox",
-          "ts": "2026-10-20T06:13:00-04:00",
           "section": ""
         },
         {
@@ -320,6 +320,34 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+          "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-20T15:12:00Z",
+          "section": ""
+        },
+        {
+          "title": "Who are the women powering India's youth-led protests?",
+          "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-20T15:04:00Z",
+          "section": ""
+        },
+        {
+          "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+          "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 20 Oct 2026 14:42:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+          "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 20 Oct 2026 14:39:50 +0000",
+          "section": ""
+        },
+        {
           "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -334,13 +362,6 @@
           "section": ""
         },
         {
-          "title": "Celebrating Fela Kuti’s legacy and the global rise of Afrobeats",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 20 Oct 2026 14:13:12 +0000",
-          "section": ""
-        },
-        {
           "title": "Hey Elon, Where’s My $25,000 EV?",
           "url": "https://www.thedrive.com/news/hey-elon-wheres-my-25000-ev",
           "source": "The Drive",
@@ -352,13 +373,6 @@
           "url": "https://www.thedrive.com/news/gms-ongoing-ev-pullback-has-claimed-a-battery-plant-tds",
           "source": "The Drive",
           "ts": "Tue, 20 Oct 2026 10:03:10 -0400",
-          "section": ""
-        },
-        {
-          "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
-          "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 20 Oct 2026 14:00:49 +0000",
           "section": ""
         },
         {
@@ -388,20 +402,6 @@
           "source": "Global Research",
           "ts": "Tue, 20 Oct 2026 12:38:23 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Wagner brothers begin new NBA chapter on different paths",
-          "url": "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-20T12:31:00Z",
-          "section": ""
-        },
-        {
-          "title": "Germany: Google must have consent to publish property images",
-          "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-20T11:46:00Z",
-          "section": ""
         },
         {
           "title": "Guns, Growth, and the German Reinvention of Military Keynesianism",
