@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-10-20T20:49:55.821473Z",
+  "generated_at": "2026-10-20T21:05:18.937993Z",
   "headline": {
-    "title": "UK Says It Will Deploy Typhoon Fighter Jets To Fly ‘Defensive Missions’ Over Saudi Arabia",
-    "url": "https://news.antiwar.com/2026/10/20/uk-says-it-will-deploy-typhoon-fighter-jets-to-fly-defensive-missions-over-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=uk-says-it-will-deploy-typhoon-fighter-jets-to-fly-defensive-missions-over-saudi-arabia"
+    "title": "Don’t Be Cowed by AI",
+    "url": "https://www.nationalreview.com/2026/10/dont-be-cowed-by-ai/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Trump Pushes to Evict White House Press Corps",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 20 Oct 2026 20:59:42 +0000",
+          "section": ""
+        },
         {
           "title": "UK Says It Will Deploy Typhoon Fighter Jets To Fly ‘Defensive Missions’ Over Saudi Arabia",
           "url": "https://news.antiwar.com/2026/10/20/uk-says-it-will-deploy-typhoon-fighter-jets-to-fly-defensive-missions-over-saudi-arabia/?utm_source=rss&utm_medium=rss&utm_campaign=uk-says-it-will-deploy-typhoon-fighter-jets-to-fly-defensive-missions-over-saudi-arabia",
@@ -16,24 +23,17 @@
           "section": ""
         },
         {
-          "title": "Republican Women Lean on Working Mom Cred to Stump in Tight Iowa Race",
+          "title": "Trump Says He Asked Putin to Release an American Jailed in Russia",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-russia-prisoner-stephen-hubbard.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 20 Oct 2026 20:47:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Republican Women Hail Working-Mom Credentials to Boost Hinson in Iowa Senate Race",
           "url": "https://www.nytimes.com/2026/10/20/us/politics/republican-women-iowa-senate-race.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 20:42:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "China Condemns U.S. Ban on DeepSeek A.I. in Government Systems",
-          "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 20:37:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump Pushes to Evict White House Press Corps",
-          "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 20 Oct 2026 20:35:38 +0000",
+          "ts": "Tue, 20 Oct 2026 20:42:40 +0000",
           "section": ""
         },
         {
@@ -189,6 +189,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Don’t Be Cowed by AI",
+          "url": "https://www.nationalreview.com/2026/10/dont-be-cowed-by-ai/",
+          "source": "National Review",
+          "ts": "Tue, 20 Oct 2026 21:04:01 +0000",
+          "section": ""
+        },
+        {
+          "title": "Kyle Kennedy, granddaughter of Robert F Kennedy, dies aged 42",
+          "url": "https://www.theguardian.com/us-news/2026/oct/20/kyle-kennedy-dead-rfk",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 20 Oct 2026 20:55:01 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme",
           "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
           "source": "US news | The Guardian",
@@ -207,13 +221,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/10/france-protests-macron-government/689089/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-20T15:54:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Kansas Democrat’s pitch to voters amid historic Senate bid: ‘I’m gonna just fight like hell’",
-          "url": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 20 Oct 2026 19:47:27 GMT",
           "section": ""
         },
         {
@@ -287,13 +294,6 @@
           "section": ""
         },
         {
-          "title": "France in Flames",
-          "url": "https://www.nationalreview.com/2026/10/france-in-flames/",
-          "source": "National Review",
-          "ts": "Tue, 20 Oct 2026 13:15:32 +0000",
-          "section": ""
-        },
-        {
           "title": "“Can Religion Save Democracy”? Yes, But Not Like This.",
           "url": "https://www.christianitytoday.com/2026/10/can-religion-save-democracy-review/",
           "source": "Christianity Today",
@@ -320,6 +320,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 20 Oct 2026 20:49:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -331,13 +338,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 20 Oct 2026 20:23:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
-          "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 20 Oct 2026 20:17:53 +0000",
           "section": ""
         },
         {
@@ -404,13 +404,6 @@
           "section": ""
         },
         {
-          "title": "HAVELSAN Demonstrates Coordinated Unmanned Air and Maritime Operations",
-          "url": "https://www.navalnews.com/naval-news/2026/10/havelsan-demonstrates-coordinated-unmanned-air-and-maritime-operations/",
-          "source": "Naval News",
-          "ts": "Tue, 20 Oct 2026 18:40:15 +0000",
-          "section": ""
-        },
-        {
           "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
           "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -457,20 +450,6 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/",
           "source": "Army Times",
           "ts": "Tue, 20 Oct 2026 15:56:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "Norway Outlines Procurement Strategy for Up to 20 P1118 Standardized Vessels",
-          "url": "https://www.navalnews.com/naval-news/2026/10/norway-outlines-procurement-strategy-for-up-to-20-p1118-standardized-vessels/",
-          "source": "Naval News",
-          "ts": "Tue, 20 Oct 2026 13:39:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Navy Carrier Remote-Controls MQ-25A Stingray Over 2,100 Miles Away",
-          "url": "https://www.navalnews.com/naval-news/2026/10/us-navy-carrier-remote-controls-mq-25a-stingray-over-2100-miles-away/",
-          "source": "Naval News",
-          "ts": "Tue, 20 Oct 2026 12:28:10 +0000",
           "section": ""
         },
         {
