@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:58:24.875675Z",
+  "generated_at": "2026-10-21T13:20:05.204489Z",
   "headline": {
     "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
     "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
@@ -40,7 +40,7 @@
           "title": "How a Democrat Positioned Himself to Be Alaska’s Next Governor",
           "url": "https://www.nytimes.com/2026/10/21/us/politics/alaska-governor-race-jkt.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 12:27:55 +0000",
+          "ts": "Wed, 21 Oct 2026 12:27:56 +0000",
           "section": ""
         },
         {
@@ -48,13 +48,6 @@
           "url": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 08:09:41 -0400",
-          "section": ""
-        },
-        {
-          "title": "Teenage boy guilty of trying to murder girl, 15, in school",
-          "url": "https://www.bbc.co.uk/news/articles/cm0j0q9znzdlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 12:03:52 GMT",
           "section": ""
         },
         {
@@ -69,6 +62,13 @@
           "url": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 07:46:59 -0400",
+          "section": ""
+        },
+        {
+          "title": "'My friend was lying next to me... I was only 8 but I realised he was dead'",
+          "url": "https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 21 Oct 2026 11:21:58 GMT",
           "section": ""
         },
         {
@@ -128,6 +128,13 @@
           "section": ""
         },
         {
+          "title": "Trump Continues to Serve Israel at the Expense of Republicans in the Midterm Elections, by Paul Craig Roberts",
+          "url": "https://www.unz.com/proberts/trump-continues-to-serve-israel-at-the-expense-of-republicans-in-the-midterm-elections/",
+          "source": "The Unz Review:",
+          "ts": "Wed, 21 Oct 2026 04:00:36 +0000",
+          "section": ""
+        },
+        {
           "title": "After Talks With Zelensky in Norway, Witkoff To Meet Putin in St. Petersburg",
           "url": "https://news.antiwar.com/2026/10/20/after-talks-with-zelensky-in-norway-witkoff-to-meet-putin-in-st-petersburg/?utm_source=rss&utm_medium=rss&utm_campaign=after-talks-with-zelensky-in-norway-witkoff-to-meet-putin-in-st-petersburg",
           "source": "News From Antiwar.com",
@@ -170,13 +177,6 @@
           "section": ""
         },
         {
-          "title": "Villains of Judea: Robert Kraft, by Jose Alberto Nino",
-          "url": "https://www.unz.com/jnino/villains-of-judea-robert-kraft/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 20 Oct 2026 04:20:58 +0000",
-          "section": ""
-        },
-        {
           "title": "Zelensky rolls the dice on combative Trump pressure campaign",
           "url": "https://thehill.com/policy/international/6159291-zelensky-bets-trump-pressure-campaign-russia/",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -199,7 +199,14 @@
           "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 12:45:29 GMT",
+          "ts": "Wed, 21 Oct 2026 13:14:30 GMT",
+          "section": ""
+        },
+        {
+          "title": "NYC built a monument to Khalil Gibran and Little Syria. Why was there global uproar?",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/new-york-little-syria-monument-lebanon",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 13:00:19 GMT",
           "section": ""
         },
         {
@@ -207,13 +214,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/21/washington-anti-trans-sports-genital-exams",
           "source": "US news | The Guardian",
           "ts": "Wed, 21 Oct 2026 12:30:18 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme",
-          "url": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 12:18:04 GMT",
           "section": ""
         },
         {
@@ -327,24 +327,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Macron says Trump spread rumours about protests",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 12:18:37 +0000",
+          "title": "Germany news: Nvidia CEO optimistic about EU's AI economy",
+          "url": "https://www.dw.com/en/germany-news-nvidia-ceo-optimistic-about-eu-s-ai-economy/live-79719483?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-21T13:14:00Z",
           "section": ""
         },
         {
-          "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-          "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+          "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
+          "url": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 12:18:10 +0000",
+          "ts": "Wed, 21 Oct 2026 13:06:53 +0000",
           "section": ""
         },
         {
-          "title": "Cost of living protests aren’t just happening in Europe",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
+          "title": "2027 Honda Passport TrailSport Off-Road Review: Not ‘Good for a Crossover.’ Just Plain Good",
+          "url": "https://www.thedrive.com/car-reviews/2027-honda-passport-trailsport-off-road-review",
+          "source": "The Drive",
+          "ts": "Wed, 21 Oct 2026 09:00:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+          "url": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 10:49:44 +0000",
+          "ts": "Wed, 21 Oct 2026 12:54:43 +0000",
+          "section": ""
+        },
+        {
+          "title": "Protests as UK approves new gas drilling in North Sea",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 12:49:52 +0000",
           "section": ""
         },
         {
@@ -362,10 +376,10 @@
           "section": ""
         },
         {
-          "title": "UK approves Jackdaw gas field after years in limbo",
-          "url": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-21T09:21:00Z",
+          "title": "Establishing Battery Supply Chain Resilience for Drones",
+          "url": "https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/",
+          "source": "War on the Rocks",
+          "ts": "Wed, 21 Oct 2026 08:00:11 +0000",
           "section": ""
         },
         {
@@ -439,13 +453,6 @@
           "section": ""
         },
         {
-          "title": "Old-School Box Speakers Are Back—and Pioneer’s New ‘Cassette Deck’ Car Stereo Is Finally Coming to America",
-          "url": "https://www.thedrive.com/news/old-school-box-speakers-are-back-and-pioneers-new-cassette-deck-car-stereo-is-finally-coming-to-america",
-          "source": "The Drive",
-          "ts": "Tue, 20 Oct 2026 14:54:41 -0400",
-          "section": ""
-        },
-        {
           "title": "Pentagon to start expanding Greenland bases next year: official",
           "url": "https://www.defenseone.com/policy/2026/10/pentagon-expand-greenland-bases/416706/",
           "source": "Defense One - All Content",
@@ -465,13 +472,6 @@
           "source": "Global Research",
           "ts": "Tue, 20 Oct 2026 17:01:05 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Guns, Growth, and the German Reinvention of Military Keynesianism",
-          "url": "https://warontherocks.com/guns-growth-and-the-german-reinvention-of-military-keynesianism/",
-          "source": "War on the Rocks",
-          "ts": "Tue, 20 Oct 2026 07:30:41 +0000",
-          "section": ""
         },
         {
           "title": "Israel’s Terrifying Security Doctrine",
@@ -513,6 +513,13 @@
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "Finland’s Prosecution of Russian Mercenary: The Rusich Appellate Ruling and War Crimes Accountability",
+          "url": "https://www.justsecurity.org/161455/rusich-ruling-finland-russian-war-crimes-prosecutions/?utm_source=rss&utm_medium=rss&utm_campaign=rusich-ruling-finland-russian-war-crimes-prosecutions",
+          "source": "Just Security",
+          "ts": "Wed, 21 Oct 2026 13:02:15 +0000",
+          "section": ""
+        },
         {
           "title": "Early Edition: October 21, 2026",
           "url": "https://www.justsecurity.org/161515/early-edition-october-21-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-21-2026",
@@ -581,13 +588,6 @@
           "url": "https://www.justsecurity.org/161370/foreign-threats-us-elections-maturing/?utm_source=rss&utm_medium=rss&utm_campaign=foreign-threats-us-elections-maturing",
           "source": "Just Security",
           "ts": "Tue, 20 Oct 2026 13:14:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Examining State-Level Legislation on Transnational Repression in the United States",
-          "url": "https://www.justsecurity.org/158542/state-legislation-transnational-repression-us/?utm_source=rss&utm_medium=rss&utm_campaign=state-legislation-transnational-repression-us",
-          "source": "Just Security",
-          "ts": "Tue, 20 Oct 2026 13:04:46 +0000",
           "section": ""
         },
         {
