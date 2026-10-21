@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T20:38:44.351901Z",
+  "generated_at": "2026-10-21T20:50:38.310414Z",
   "headline": {
-    "title": "AIPAC Makes Last-Minute Donation to Boost Rogers in Michigan Senate Race Against El-Sayed",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/aipac-michigan-senate-rogers-donation.html"
+    "title": "Pastors, Pews and Power: Religion in the Midterms",
+    "url": "https://religionnews.com/2026/10/21/pastors-pews-and-power-religion-in-the-midterms/"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "AIPAC Makes Last-Minute Donation to Boost Rogers in Michigan Senate Race Against El-Sayed",
           "url": "https://www.nytimes.com/2026/10/21/us/politics/aipac-michigan-senate-rogers-donation.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 20:33:56 +0000",
+          "ts": "Wed, 21 Oct 2026 20:43:02 +0000",
+          "section": ""
+        },
+        {
+          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 21 Oct 2026 20:42:43 GMT",
           "section": ""
         },
         {
@@ -83,13 +90,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-america-only-do-job-republicans-win-1235646122/",
           "source": "Politics News",
           "ts": "Wed, 21 Oct 2026 18:27:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-          "url": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 18:10:42 GMT",
           "section": ""
         },
         {
@@ -168,10 +168,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Pastors, Pews and Power: Religion in the Midterms",
+          "url": "https://religionnews.com/2026/10/21/pastors-pews-and-power-religion-in-the-midterms/",
+          "source": "RNS",
+          "ts": "Wed, 21 Oct 2026 20:43:18 +0000",
+          "section": ""
+        },
+        {
           "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 20:21:09 GMT",
+          "ts": "Wed, 21 Oct 2026 20:38:37 GMT",
           "section": ""
         },
         {
@@ -270,13 +277,6 @@
           "url": "https://www.christianitytoday.com/2026/10/how-i-changed-my-mind-kind-of-on-the-death-penalty/",
           "source": "Christianity Today",
           "ts": "Wed, 21 Oct 2026 14:47:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pastor Philip Anthony Mitchell’s spiritual warfare is more political than he admits",
-          "url": "https://religionnews.com/2026/10/21/pastor-phillip-anthony-mitchells-spiritual-warfare-is-more-political-than-he-admits/",
-          "source": "RNS",
-          "ts": "Wed, 21 Oct 2026 12:00:52 +0000",
           "section": ""
         },
         {
