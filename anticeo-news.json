@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T17:22:59.995102Z",
+  "generated_at": "2026-10-21T17:36:01.733714Z",
   "headline": {
-    "title": "Democratic-Aligned Groups Sue Over Federal Crackdown on Voting",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/democratic-lawsuit-election-trump.html"
+    "title": "This Democrat’s accountability plan has Trump fuming",
+    "url": "https://www.vox.com/america-actually/507018/elissa-slotkin-trump-accountability-plan-democratic-majority"
   },
   "sections": [
     {
@@ -196,14 +196,28 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 17:07:07 GMT",
+          "title": "This Democrat’s accountability plan has Trump fuming",
+          "url": "https://www.vox.com/america-actually/507018/elissa-slotkin-trump-accountability-plan-democratic-majority",
+          "source": "Vox",
+          "ts": "2026-10-21T13:30:00-04:00",
           "section": ""
         },
         {
-          "title": "US Park Police spend $343,000 for mobile surveillance cameras in Washington DC",
+          "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 17:18:04 GMT",
+          "section": ""
+        },
+        {
+          "title": "Pollster admits to fabricating data for ‘social experiment’ to expose flaws of industry",
+          "url": "https://www.theguardian.com/us-news/2026/oct/21/polling-fabricated-data-social-experiment",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 17:12:45 GMT",
+          "section": ""
+        },
+        {
+          "title": "US Park Police spend $343,000 on mobile surveillance cameras in Washington DC",
           "url": "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc",
           "source": "US news | The Guardian",
           "ts": "Wed, 21 Oct 2026 17:06:36 GMT",
@@ -228,13 +242,6 @@
           "url": "https://www.nationalreview.com/2026/10/escaping-the-china-dream-hopefully/",
           "source": "National Review",
           "ts": "Wed, 21 Oct 2026 16:55:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "24-year-old Kansas man arrested for allegedly threatening to shoot Donald Trump",
-          "url": "https://www.theguardian.com/us-news/2026/oct/21/kansas-man-arrested-allegedly-threaten-shoot-trump",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 16:35:36 GMT",
           "section": ""
         },
         {
@@ -280,13 +287,6 @@
           "section": ""
         },
         {
-          "title": "What to do if you feel so, so angry at the state of the world",
-          "url": "https://www.vox.com/advice/506689/righteous-anger-spirituality",
-          "source": "Vox",
-          "ts": "2026-10-21T07:30:00-04:00",
-          "section": ""
-        },
-        {
           "title": "‘East of Eden’ is perhaps the ultimate Jewish story",
           "url": "https://religionnews.com/2026/10/21/east-of-eden-is-perhaps-the-ultimate-jewish-story/",
           "source": "RNS",
@@ -326,6 +326,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+          "url": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 16:58:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 16:57:15 +0000",
+          "section": ""
+        },
         {
           "title": "PHP developers say key patches available after global scare",
           "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-rdf",
@@ -373,20 +387,6 @@
           "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-21T16:14:00Z",
-          "section": ""
-        },
-        {
-          "title": "Real Madrid vs RB Leipzig LIVE: Champions League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/real-madrid-vs-rb-leipzig-live-champions-league?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 16:01:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Bayern Munich vs Arsenal LIVE: Champions League",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/10/21/bayern-munich-vs-arsenal-live-champions-league?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 16:00:00 +0000",
           "section": ""
         },
         {
