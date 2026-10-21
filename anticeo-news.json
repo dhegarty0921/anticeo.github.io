@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:08:51.615185Z",
+  "generated_at": "2026-10-21T02:34:46.792622Z",
   "headline": {
     "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
     "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html"
@@ -12,7 +12,14 @@
           "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
           "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 02:03:36 +0000",
+          "ts": "Wed, 21 Oct 2026 02:20:02 +0000",
+          "section": ""
+        },
+        {
+          "title": "Some on DOJ's 20,000 \"likely\" noncitizen list in Calif. appear to be U.S.-born",
+          "url": "https://www.npr.org/2026/10/20/nx-s1-6009873/california-doj-voter-rolls-noncitizens",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 20 Oct 2026 22:15:50 -0400",
           "section": ""
         },
         {
@@ -114,13 +121,6 @@
           "section": ""
         },
         {
-          "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
-          "url": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 20 Oct 2026 12:27:01 -0400",
-          "section": ""
-        },
-        {
           "title": "Lucy Spraggan recalls how Rylan Clark helped her after hotel porter assaulted her during X Factor",
           "url": "https://www.thepinknews.com/2026/10/20/lucy-spraggan-x-factor-rylan-clark/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -189,10 +189,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+          "title": "University of Arizona sorority member alleges sexual assault at fraternity house",
+          "url": "https://www.theguardian.com/us-news/2026/oct/20/university-of-arizona-sexual-assault-fraternity",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 02:04:27 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump says he will have spent $400m to support Republicans in midterms – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 01:59:17 GMT",
+          "ts": "Wed, 21 Oct 2026 02:02:09 GMT",
           "section": ""
         },
         {
@@ -221,13 +228,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/20/florida-execution-18th",
           "source": "US news | The Guardian",
           "ts": "Tue, 20 Oct 2026 23:22:21 GMT",
-          "section": ""
-        },
-        {
-          "title": "Alabama governor commutes sentence of prisoner on death row",
-          "url": "https://www.theguardian.com/us-news/2026/oct/20/alabama-governor-commutes-death-row-sentence",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 20 Oct 2026 23:18:52 GMT",
           "section": ""
         },
         {
