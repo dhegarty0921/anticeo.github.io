@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:34:46.792622Z",
+  "generated_at": "2026-10-21T02:54:48.575918Z",
   "headline": {
     "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
     "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html"
@@ -12,7 +12,35 @@
           "title": "A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.",
           "url": "https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 02:20:02 +0000",
+          "ts": "Wed, 21 Oct 2026 02:50:14 +0000",
+          "section": ""
+        },
+        {
+          "title": "MAGA Inc. Unleashes Millions to Turn Out Republicans At the Polls",
+          "url": "https://www.nytimes.com/2026/10/20/us/politics/trump-maga-inc-super-pac.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 02:41:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Gad Saad on French Riots, 'Suicidal Empathy'",
+          "url": "https://www.realclearpolitics.com/2026/10/20/gad_saad_on_french_riots_suicidal_empathy_714790.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 20 Oct 2026 21:38:29 -0500",
+          "section": ""
+        },
+        {
+          "title": "Rep. Omar's Shady Castle Starts To Crumble",
+          "url": "https://www.realclearpolitics.com/2026/10/19/rep_omars_shady_castle_starts_to_crumble_714568.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 20 Oct 2026 21:38:25 -0500",
+          "section": ""
+        },
+        {
+          "title": "Trump's Golf Course Renovation Is Attack on Rule of Law",
+          "url": "https://www.realclearpolitics.com/2026/10/20/trumps_golf_course_renovation_is_attack_on_rule_of_law_714680.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 20 Oct 2026 21:38:23 -0500",
           "section": ""
         },
         {
@@ -34,13 +62,6 @@
           "url": "https://www.nytimes.com/2026/10/20/us/politics/cia-interview-reports-sept-11-torture.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 21 Oct 2026 01:07:23 +0000",
-          "section": ""
-        },
-        {
-          "title": "How Zelensky Is Trying to Navigate Trump’s Tilt Toward Russia",
-          "url": "https://www.nytimes.com/video/us/politics/100000011225769/how-zelensky-is-trying-to-navigate-trumps-tilt-toward-russia.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 00:41:44 +0000",
           "section": ""
         },
         {
@@ -90,27 +111,6 @@
           "url": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
           "source": "NPR Topics: News",
           "ts": "Tue, 20 Oct 2026 16:19:16 -0400",
-          "section": ""
-        },
-        {
-          "title": "Could Massive Minnesota Fraud Lift Tafoya vs. Flanagan?",
-          "url": "https://www.realclearpolitics.com/2026/10/20/could_massive_minnesota_fraud_lift_tafoya_vs_flanagan_714765.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 20 Oct 2026 14:48:58 -0500",
-          "section": ""
-        },
-        {
-          "title": "Talarico Is Preaching a Gospel of Pluralism",
-          "url": "https://www.realclearpolitics.com/2026/10/20/talarico_is_preaching_a_gospel_of_pluralism_714773.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 20 Oct 2026 14:44:56 -0500",
-          "section": ""
-        },
-        {
-          "title": "BofA Went Harder on Conservatives Than Drug Cartels",
-          "url": "https://www.realclearpolitics.com/2026/10/20/bofa_went_harder_on_conservatives_than_drug_cartels_714767.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 20 Oct 2026 14:44:40 -0500",
           "section": ""
         },
         {
@@ -327,6 +327,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+          "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 02:19:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 02:18:10 +0000",
+          "section": ""
+        },
+        {
           "title": "UN experts call on India to stop using ‘excessive force’ against protesters",
           "url": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -338,20 +352,6 @@
           "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-21T01:23:00Z",
-          "section": ""
-        },
-        {
-          "title": "Musk confirms SpaceX and Tesla exploring merger",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 01:19:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "US jails Guatemalan man for 30 years over deadly smuggling operation",
-          "url": "https://www.aljazeera.com/news/2026/10/21/us-jails-guatemalan-man-for-30-years-over-deadly-smuggling-operation?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 01:01:25 +0000",
           "section": ""
         },
         {
