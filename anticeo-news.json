@@ -1,32 +1,39 @@
 {
-  "generated_at": "2026-10-21T19:04:53.408707Z",
+  "generated_at": "2026-10-21T19:22:45.484936Z",
   "headline": {
-    "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html"
+    "title": "Vivek Ramaswamy Reminds Voters Why They Never Liked Him",
+    "url": "https://www.nationalreview.com/2026/10/vivek-ramaswamy-reminds-voters-why-they-never-liked-him/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
-          "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
-          "url": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 19:01:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "A.I. Discovered a Critical Security Flaw Underpinning Websites",
-          "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 18:54:12 +0000",
-          "section": ""
-        },
-        {
           "title": "Meta fined $25bn for 'lies' over user data privacy",
           "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 18:40:39 GMT",
+          "ts": "Wed, 21 Oct 2026 19:11:53 GMT",
+          "section": ""
+        },
+        {
+          "title": "How Title IX Became a Political Tool",
+          "url": "https://www.nytimes.com/video/us/politics/100000011216870/how-title-ix-became-a-political-tool.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 19:06:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "A.I. Discovered a Critical Vulnerability in PHP, a Coding Language Behind Many Websites",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/php-vulnerability-ai-openai-cybersecurity.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 19:04:36 +0000",
+          "section": ""
+        },
+        {
+          "title": "Cornell Case Highlights Shifting Federal Title IX Enforcement",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/title-ix-trump-administration-cornell.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 19:04:32 +0000",
           "section": ""
         },
         {
@@ -34,13 +41,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-america-only-do-job-republicans-win-1235646122/",
           "source": "Politics News",
           "ts": "Wed, 21 Oct 2026 18:27:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "GM Aims to Bring ‘Eyes-Off’ Driving to AI-Powered Cars Within 2 Years",
-          "url": "https://www.nytimes.com/2026/10/21/business/gm-ai-electric-vehicles-china.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 18:23:52 +0000",
           "section": ""
         },
         {
@@ -168,10 +168,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Vivek Ramaswamy Reminds Voters Why They Never Liked Him",
+          "url": "https://www.nationalreview.com/2026/10/vivek-ramaswamy-reminds-voters-why-they-never-liked-him/",
+          "source": "National Review",
+          "ts": "Wed, 21 Oct 2026 19:13:29 +0000",
+          "section": ""
+        },
+        {
           "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 19:00:03 GMT",
+          "ts": "Wed, 21 Oct 2026 19:08:24 GMT",
           "section": ""
         },
         {
@@ -273,13 +280,6 @@
           "section": ""
         },
         {
-          "title": "Prediction Markets Are Not ‘Just Gambling’ Platforms",
-          "url": "https://www.nationalreview.com/2026/10/prediction-markets-are-not-just-gambling-platforms/",
-          "source": "National Review",
-          "ts": "Wed, 21 Oct 2026 10:30:56 +0000",
-          "section": ""
-        },
-        {
           "title": "Kinship With the Dead Doesn’t Have to Be Spooky",
           "url": "https://www.christianitytoday.com/2026/10/kinship-with-dead-spooky-graveyard-halloween-church/",
           "source": "Christianity Today",
@@ -306,6 +306,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 19:01:05 +0000",
+          "section": ""
+        },
+        {
           "title": "Totally Overbuilt Race Car Trailer Made to Withstand Baja Can Be Fixed With Chevy Truck Parts",
           "url": "https://www.thedrive.com/news/totally-overbuilt-race-car-trailer-made-to-withstand-baja-can-be-fixed-with-chevy-truck-parts",
           "source": "The Drive",
@@ -313,24 +320,17 @@
           "section": ""
         },
         {
-          "title": "Thousands march for school funding in Greece",
-          "url": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
+          "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 18:45:46 +0000",
+          "ts": "Wed, 21 Oct 2026 18:59:37 +0000",
           "section": ""
         },
         {
-          "title": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact?traffic_source=rss",
+          "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+          "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 18:35:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
-          "url": "https://www.aljazeera.com/news/2026/10/21/actors-writers-condemn-uk-anti-terror-law-targeting-sally-rooney?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 18:35:03 +0000",
+          "ts": "Wed, 21 Oct 2026 18:58:29 +0000",
           "section": ""
         },
         {
@@ -425,6 +425,13 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "EDGE Leads Integration of Sovereign Autonomous Systems in UAE Navy Demonstration with Allied Forces",
+          "url": "https://www.navalnews.com/naval-news/2026/10/edge-leads-integration-of-sovereign-autonomous-systems-in-uae-navy-demonstration-with-allied-forces/",
+          "source": "Naval News",
+          "ts": "Wed, 21 Oct 2026 14:17:06 +0000",
+          "section": ""
+        },
+        {
           "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
           "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -436,6 +443,20 @@
           "url": "https://www.mintpressnews.com/iran-destroys-u-s-strike-plan-as-yemen-acquires-khaibar-shekan-missiles-to-strike-israel/291263/",
           "source": "MintPress News",
           "ts": "Wed, 21 Oct 2026 13:58:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
+          "url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
+          "source": "Naval News",
+          "ts": "Wed, 21 Oct 2026 13:32:56 +0000",
+          "section": ""
+        },
+        {
+          "title": "ST Engineering Lays Keel for Kuwait’s Third Al Dorra-Class Vessel",
+          "url": "https://www.navalnews.com/naval-news/2026/10/st-engineering-lays-keel-for-kuwaits-third-al-dorra-class-vessel/",
+          "source": "Naval News",
+          "ts": "Wed, 21 Oct 2026 11:50:01 +0000",
           "section": ""
         },
         {
@@ -500,19 +521,19 @@
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 20:20:00 +0000",
           "section": ""
-        },
-        {
-          "title": "Four Principles to Lift the Academic Fog Around War and Be More Realistic about Battle",
-          "url": "https://quincyinst.org/2026/10/19/four-principles-to-lift-the-academic-fog-around-war-and-be-more-realistic-about-battle/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Mon, 19 Oct 2026 19:55:00 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "Just the Docs: DHS Discloses July Order Stripping DeepSeek AI from Federal Civilian IT Systems",
+          "url": "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order",
+          "source": "Just Security",
+          "ts": "Wed, 21 Oct 2026 19:01:52 +0000",
+          "section": ""
+        },
         {
           "title": "Guantanamo Dispatches: Ahead of Jury Selection, Defense Psychiatrist Calls USS Cole Defendant Unfit for Trial",
           "url": "https://www.justsecurity.org/161589/defense-psychiatrist-uss-cole-defendant-unfit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defense-psychiatrist-uss-cole-defendant-unfit-trial",
@@ -567,13 +588,6 @@
           "url": "https://www.justsecurity.org/159720/dhs-ai-inventory-limits-federal-ai-transparency-law/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-ai-inventory-limits-federal-ai-transparency-law",
           "source": "Just Security",
           "ts": "Wed, 21 Oct 2026 15:22:38 +0000",
-          "section": ""
-        },
-        {
-          "title": "Finland’s Prosecution of Russian Mercenary: The Rusich Appellate Ruling and War Crimes Accountability",
-          "url": "https://www.justsecurity.org/161455/rusich-ruling-finland-russian-war-crimes-prosecutions/?utm_source=rss&utm_medium=rss&utm_campaign=rusich-ruling-finland-russian-war-crimes-prosecutions",
-          "source": "Just Security",
-          "ts": "Wed, 21 Oct 2026 13:02:15 +0000",
           "section": ""
         },
         {
