@@ -1,17 +1,45 @@
 {
-  "generated_at": "2026-10-21T15:52:25.240846Z",
+  "generated_at": "2026-10-21T16:05:40.179487Z",
   "headline": {
-    "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
-    "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy"
+    "title": "Why local officials are feeling 'on edge' as election day approaches",
+    "url": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "Why local officials are feeling 'on edge' as election day approaches",
+          "url": "https://www.npr.org/2026/10/21/nx-s1-6010517/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 21 Oct 2026 12:01:17 -0400",
+          "section": ""
+        },
+        {
+          "title": "Supreme Court Blocks Trump From Denying Gender-Affirming Care to Trans Prisoners",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 16:00:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
+          "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 21 Oct 2026 15:56:03 GMT",
+          "section": ""
+        },
+        {
+          "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 21 Oct 2026 15:53:32 GMT",
+          "section": ""
+        },
+        {
           "title": "Supreme Court upholds pause on Trump's anti-trans prison policy",
           "url": "https://www.npr.org/2026/10/21/nx-s1-5993878/supreme-court-trump-trans-prison-policy",
-          "source": "NPR Topics: Politics",
+          "source": "NPR Topics: News",
           "ts": "Wed, 21 Oct 2026 11:46:27 -0400",
           "section": ""
         },
@@ -44,31 +72,10 @@
           "section": ""
         },
         {
-          "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition",
-          "source": "NPR Topics: News",
-          "ts": "Wed, 21 Oct 2026 11:21:47 -0400",
-          "section": ""
-        },
-        {
-          "title": "Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary",
-          "url": "https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 15:17:46 GMT",
-          "section": ""
-        },
-        {
           "title": "WNBA says Enes Kanter Freedom and Royce White cannot play after claiming to identify as women",
           "url": "https://www.thepinknews.com/2026/10/21/wnba-eligibility-rules-enes-kanter-freedom-royce-white-cathy-engelbert-transgender/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Wed, 21 Oct 2026 14:33:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-          "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 14:26:24 GMT",
           "section": ""
         },
         {
@@ -83,13 +90,6 @@
           "url": "https://www.nytimes.com/2026/10/21/us/politics/alaska-governor-race-jkt.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 21 Oct 2026 14:14:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "How The New York Times Reports on A.I. Images",
-          "url": "https://www.nytimes.com/2026/10/21/insider/trump-ai-videos-photos.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 13:21:54 +0000",
           "section": ""
         },
         {
@@ -196,6 +196,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Supreme Court may be about to make America’s prisons much crueler",
+          "url": "https://www.vox.com/politics/506261/supreme-court-trump-kingdom-prisons-cruel-unusual-transgender",
+          "source": "Vox",
+          "ts": "2026-10-21T12:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 15:55:10 GMT",
+          "section": ""
+        },
+        {
           "title": "You can now create an AI version of a dead loved one. Here’s what could happen.",
           "url": "https://www.vox.com/podcasts/506698/deadbots-ai-chatbots-ethics-talking-d",
           "source": "Vox",
@@ -210,21 +224,14 @@
           "section": ""
         },
         {
-          "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 15:26:07 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Year the World Turned on Data Centers",
+          "title": "The Data Center Rebellion Is Just Beginning",
           "url": "https://www.theatlantic.com/technology/2026/10/year-world-turned-data-centers/689081/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-21T11:00:06-04:00",
           "section": ""
         },
         {
-          "title": "How to Be an African Writer in the AI Era",
+          "title": "The Paradox of African Writing and AI",
           "url": "https://www.theatlantic.com/books/2026/10/caine-prize-winner-tope-folarin-on-african-writing-and-ai/689098/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-21T10:53:53-04:00",
@@ -270,13 +277,6 @@
           "url": "https://religionnews.com/2026/10/21/east-of-eden-is-perhaps-the-ultimate-jewish-story/",
           "source": "RNS",
           "ts": "Wed, 21 Oct 2026 11:00:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Has Susan Collins’s political luck finally run out?",
-          "url": "https://www.vox.com/podcasts/506849/susan-collins-maine-senate-race-trump-midterms",
-          "source": "Vox",
-          "ts": "2026-10-21T07:00:00-04:00",
           "section": ""
         },
         {
@@ -326,6 +326,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Pentagon AI oversight office struggles to keep pace with department’s ambitions, GAO finds",
+          "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+          "source": "Army Times",
+          "ts": "Wed, 21 Oct 2026 15:55:31 +0000",
+          "section": ""
+        },
         {
           "title": "Got milk? US Army refines its pasteurization power",
           "url": "https://www.armytimes.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
@@ -471,13 +478,6 @@
           "url": "https://www.youtube.com/watch?v=cxW694Segww",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Tue, 20 Oct 2026 19:41:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-          "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
-          "source": "Army Times",
-          "ts": "Tue, 20 Oct 2026 19:32:18 +0000",
           "section": ""
         },
         {
