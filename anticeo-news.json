@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-21T21:04:59.166116Z",
+  "generated_at": "2026-10-21T21:23:52.764985Z",
   "headline": {
-    "title": "Putin Tells Witkoff Russia Is Ready To Resume Trilateral Talks With the US and Ukraine",
-    "url": "https://news.antiwar.com/2026/10/21/putin-tells-witkoff-russia-is-ready-to-resume-trilateral-talks-with-the-us-and-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=putin-tells-witkoff-russia-is-ready-to-resume-trilateral-talks-with-the-us-and-ukraine"
+    "title": "The War Tehran Believes Is Coming",
+    "url": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Trump Administration Asks Supreme Court to Allow Border Wall Construction",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 21:21:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "New Rules in North Carolina Threaten Thousands of Mail Ballots",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/north-carolina-senate-mail-ballot-rejections.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 21 Oct 2026 21:18:07 +0000",
+          "section": ""
+        },
         {
           "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
           "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
@@ -27,13 +41,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 21 Oct 2026 20:42:43 GMT",
-          "section": ""
-        },
-        {
-          "title": "George W. Bush’s Brother Neil Bush Breaks G.O.P. Ranks to Vote for James Talarico in Texas",
-          "url": "https://www.nytimes.com/2026/10/21/us/politics/neil-bush-talarico-paxton-texas-senate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 20:00:55 +0000",
           "section": ""
         },
         {
@@ -62,13 +69,6 @@
           "url": "https://www.npr.org/2026/10/21/nx-s1-6011170/democrats-election-interference-preparations-president-trump",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 15:47:18 -0400",
-          "section": ""
-        },
-        {
-          "title": "Vance Defends Ramaswamy Ad Featuring Acton’s Mother Despite Backlash",
-          "url": "https://www.nytimes.com/2026/10/21/us/politics/ramaswamy-acton-ad-ohio.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 19:41:15 +0000",
           "section": ""
         },
         {
@@ -182,7 +182,21 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+          "title": "AME Church retirees to receive tens of millions more in funds lost amid scandal",
+          "url": "https://religionnews.com/2026/10/21/44m-settlement-replenishes-part-of-ame-church-retirement-fund-depleted-amid-scandal/",
+          "source": "RNS",
+          "ts": "Wed, 21 Oct 2026 21:09:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Vanishing Irish",
+          "url": "https://www.nationalreview.com/2026/10/the-vanishing-irish/",
+          "source": "National Review",
+          "ts": "Wed, 21 Oct 2026 21:08:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "JD Vance says he is ‘a little bit disgusted’ by Republicans who criticized Ramaswamy campaign ad – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Wed, 21 Oct 2026 20:56:43 GMT",
@@ -259,24 +273,10 @@
           "section": ""
         },
         {
-          "title": "Photos of the Week: Peruvian procession, Dalai Lama",
-          "url": "https://religionnews.com/2026/10/21/photos-of-the-week-peruvian-procession-dalai-lama-longevity/",
-          "source": "RNS",
-          "ts": "Wed, 21 Oct 2026 17:02:56 +0000",
-          "section": ""
-        },
-        {
           "title": "Will the Tech Oligarchs Turn on Trump?",
           "url": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-kara-swisher-tech-oligarchs-trump-ai/689101/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-21T13:00:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Escaping the ‘China Dream’ (Hopefully)",
-          "url": "https://www.nationalreview.com/2026/10/escaping-the-china-dream-hopefully/",
-          "source": "National Review",
-          "ts": "Wed, 21 Oct 2026 16:55:16 +0000",
           "section": ""
         },
         {
@@ -313,6 +313,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Trump heads to South Carolina to boost Senator Darline Graham in race",
+          "url": "https://www.aljazeera.com/news/2026/10/21/trump-heads-to-south-carolina-to-boost-senator-darline-graham-in-race?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 21:07:43 +0000",
+          "section": ""
+        },
+        {
+          "title": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+          "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 21:01:32 +0000",
+          "section": ""
+        },
+        {
           "title": "Putin Tells Witkoff Russia Is Ready To Resume Trilateral Talks With the US and Ukraine",
           "url": "https://news.antiwar.com/2026/10/21/putin-tells-witkoff-russia-is-ready-to-resume-trilateral-talks-with-the-us-and-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=putin-tells-witkoff-russia-is-ready-to-resume-trilateral-talks-with-the-us-and-ukraine",
           "source": "News From Antiwar.com",
@@ -327,24 +341,10 @@
           "section": ""
         },
         {
-          "title": "Colombia seizes 7.6 tonnes of cocaine in biggest haul in a decade",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/colombia-seizes-7-6-tonnes-of-cocaine-in-biggest-haul-in-a-decade?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 20:51:23 +0000",
-          "section": ""
-        },
-        {
           "title": "OCIUS’ New Bluebottle Hybrid USV Demonstrates Capability at Maritime Big Play Pacific",
           "url": "https://www.navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific/",
           "source": "Naval News",
           "ts": "Wed, 21 Oct 2026 20:50:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Video shows Israeli settler assaulting Palestinian child",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 20:34:57 +0000",
           "section": ""
         },
         {
@@ -549,6 +549,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "The War Tehran Believes Is Coming",
+          "url": "https://www.dropsitenews.com/p/iran-war-israel-netanyahu-trump-hormuz-mohsen-rezaei",
+          "source": "Drop Site News",
+          "ts": "Wed, 21 Oct 2026 21:21:27 GMT",
+          "section": ""
+        },
+        {
           "title": "AI Is Anti-Punk",
           "url": "https://www.techdirt.com/2026/10/21/ai-is-anti-punk/",
           "source": "Techdirt",
@@ -637,13 +644,6 @@
           "url": "https://www.eff.org/deeplinks/2026/10/victory-court-rules-opms-disclosure-personal-records-doge-unlawful",
           "source": "Deeplinks",
           "ts": "Tue, 20 Oct 2026 21:46:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Sudan drone strikes kill 160+; Oil hits five-month high; Mahmoud Khalil appeals to SCOTUS",
-          "url": "https://www.dropsitenews.com/p/sudan-drone-strikes-oil-hormuz--iran-yemen-mahmoud-khalil-scotus",
-          "source": "Drop Site News",
-          "ts": "Tue, 20 Oct 2026 15:41:51 GMT",
           "section": ""
         },
         {
