@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-21T14:51:13.392441Z",
+  "generated_at": "2026-10-21T15:07:32.651054Z",
   "headline": {
-    "title": "How I Changed My Mind (Kind Of) on the Death Penalty",
-    "url": "https://www.christianitytoday.com/2026/10/how-i-changed-my-mind-kind-of-on-the-death-penalty/"
+    "title": "The Year the World Turned on Data Centers",
+    "url": "https://www.theatlantic.com/technology/2026/10/year-world-turned-data-centers/689081/?utm_source=feed"
   },
   "sections": [
     {
@@ -30,7 +30,7 @@
           "section": ""
         },
         {
-          "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Westminster",
+          "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
           "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 21 Oct 2026 14:26:24 GMT",
@@ -196,10 +196,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Year the World Turned on Data Centers",
+          "url": "https://www.theatlantic.com/technology/2026/10/year-world-turned-data-centers/689081/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-21T11:00:06-04:00",
+          "section": ""
+        },
+        {
+          "title": "How to Be an African Writer in the AI Era",
+          "url": "https://www.theatlantic.com/books/2026/10/caine-prize-winner-tope-folarin-on-african-writing-and-ai/689098/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-21T10:53:53-04:00",
+          "section": ""
+        },
+        {
+          "title": "The US midterm races that will decide control of Congress – mapped",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 14:50:28 GMT",
+          "section": ""
+        },
+        {
           "title": "How I Changed My Mind (Kind Of) on the Death Penalty",
           "url": "https://www.christianitytoday.com/2026/10/how-i-changed-my-mind-kind-of-on-the-death-penalty/",
           "source": "Christianity Today",
           "ts": "Wed, 21 Oct 2026 14:47:52 +0000",
+          "section": ""
+        },
+        {
+          "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 21 Oct 2026 14:46:17 GMT",
           "section": ""
         },
         {
@@ -210,38 +238,10 @@
           "section": ""
         },
         {
-          "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 14:17:36 GMT",
-          "section": ""
-        },
-        {
           "title": "Photographing the Microscopic: Winners of Nikon Small World 2026",
           "url": "https://www.theatlantic.com/photography/2026/10/microscopic-photography-competition-winners/689093/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-21T10:01:34-04:00",
-          "section": ""
-        },
-        {
-          "title": "<em>The Atlantic</em> Publishes List of “50 Unforgettable Love Stories”",
-          "url": "https://www.theatlantic.com/press-releases/2026/10/atlantics-list-50-unforgettable-love-stories/689099/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-21T09:41:37-04:00",
-          "section": ""
-        },
-        {
-          "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-          "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 13:40:08 GMT",
-          "section": ""
-        },
-        {
-          "title": "Stop Trying to Be Your Best Self",
-          "url": "https://www.theatlantic.com/family/2026/10/self-worth-esteem-book/689079/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-21T09:33:43-04:00",
           "section": ""
         },
         {
@@ -327,6 +327,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+          "url": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 14:41:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 14:39:08 +0000",
+          "section": ""
+        },
+        {
           "title": "The Hunger Games – Global Britain Has Starved the World Throughout History",
           "url": "https://www.globalresearch.ca/hunger-games-global-britain-starved-world/5944162",
           "source": "Global Research",
@@ -339,6 +353,13 @@
           "source": "Global Research",
           "ts": "Wed, 21 Oct 2026 14:35:02 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Russia releases American Stephen Hubbard after four years in prison",
+          "url": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 21 Oct 2026 14:31:53 +0000",
+          "section": ""
         },
         {
           "title": "France’s Economic Strain: Public Debt, Monetary Constraints, and Political Deadlock",
@@ -362,13 +383,6 @@
           "section": ""
         },
         {
-          "title": "US congressional candidate Brad Lander freed after West Bank detention",
-          "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 14:12:15 +0000",
-          "section": ""
-        },
-        {
           "title": "This Guy Invented the Ultimate Old-School Stereo Head Unit With Hidden CarPlay",
           "url": "https://www.thedrive.com/news/this-guy-invented-the-ultimate-old-school-stereo-head-unit-with-hidden-carplay",
           "source": "The Drive",
@@ -383,24 +397,10 @@
           "section": ""
         },
         {
-          "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-          "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 13:58:17 +0000",
-          "section": ""
-        },
-        {
           "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
           "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-21T13:56:00Z",
-          "section": ""
-        },
-        {
-          "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
-          "url": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 13:32:57 +0000",
           "section": ""
         },
         {
@@ -506,13 +506,6 @@
           "url": "https://quincyinst.org/2026/10/19/south-korea-wants-to-take-wartime-military-command-away-from-american-general/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 20:20:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran’s Covert Missile Strikes Revealed, US Threatens MOAB Attack & The Arab-Israeli Plot Exposed",
-          "url": "https://www.mintpressnews.com/irans-covert-missile-strikes-revealed-us-threatens-moab-attack-the-arab-israeli-plot-exposed/291255/",
-          "source": "MintPress News",
-          "ts": "Sat, 17 Oct 2026 14:59:01 +0000",
           "section": ""
         }
       ]
