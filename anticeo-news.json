@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T08:34:21.858296Z",
+  "generated_at": "2026-10-22T08:54:55.430172Z",
   "headline": {
-    "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss"
+    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
           "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 22 Oct 2026 08:19:47 GMT",
+          "ts": "Thu, 22 Oct 2026 08:43:43 GMT",
+          "section": ""
+        },
+        {
+          "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+          "url": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
+          "source": "NPR Topics: News",
+          "ts": "Thu, 22 Oct 2026 04:39:19 -0400",
           "section": ""
         },
         {
@@ -83,13 +90,6 @@
           "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 20:22:48 -0400",
-          "section": ""
-        },
-        {
-          "title": "The Justice Department begins notifying counties where it wants to monitor elections",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 21 Oct 2026 20:18:47 -0400",
           "section": ""
         },
         {
@@ -292,10 +292,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 08:33:01 +0000",
+          "title": "Germany news: Many sites back online after PHP security fix",
+          "url": "https://www.dw.com/en/germany-news-many-sites-back-online-after-php-security-fix/live-79728628?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T08:40:00Z",
+          "section": ""
+        },
+        {
+          "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+          "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T08:33:00Z",
           "section": ""
         },
         {
@@ -320,20 +327,6 @@
           "section": ""
         },
         {
-          "title": "Africa CDC calls crisis meeting as Ebola spreads",
-          "url": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T08:16:00Z",
-          "section": ""
-        },
-        {
-          "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
-          "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T08:07:00Z",
-          "section": ""
-        },
-        {
           "title": "Can Russia broker a new US-Iran deal?",
           "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -345,6 +338,13 @@
           "url": "https://warontherocks.com/cogs-of-war/the-endless-chip-war/",
           "source": "War on the Rocks",
           "ts": "Thu, 22 Oct 2026 08:00:46 +0000",
+          "section": ""
+        },
+        {
+          "title": "Angel Reese shines again as Dream down Valkyries to lead WNBA Finals",
+          "url": "https://www.aljazeera.com/sports/2026/10/22/angel-reese-shines-again-as-dream-down-valkyries-to-lead-wnba-finals?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 07:53:55 +0000",
           "section": ""
         },
         {
