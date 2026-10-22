@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T01:16:48.521147Z",
+  "generated_at": "2026-10-22T01:43:54.927822Z",
   "headline": {
-    "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html"
+    "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
   },
   "sections": [
     {
@@ -23,7 +23,7 @@
           "section": ""
         },
         {
-          "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+          "title": "AIPAC halts endorsements and direct contributions to candidates",
           "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 20:22:48 -0400",
@@ -58,17 +58,17 @@
           "section": ""
         },
         {
-          "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-          "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 23:02:30 GMT",
-          "section": ""
-        },
-        {
           "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
           "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 21 Oct 2026 22:59:18 GMT",
+          "section": ""
+        },
+        {
+          "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+          "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 21 Oct 2026 22:54:58 GMT",
           "section": ""
         },
         {
@@ -185,7 +185,14 @@
           "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 00:34:52 GMT",
+          "ts": "Thu, 22 Oct 2026 01:26:51 GMT",
+          "section": ""
+        },
+        {
+          "title": "‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester",
+          "url": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 01:23:04 GMT",
           "section": ""
         },
         {
@@ -200,13 +207,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/10/congratulations-great-humanitarian-vladimir-putin/689111/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-21T18:56:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Nancy Pelosi’s office latest recipient of letter containing white powder",
-          "url": "https://www.theguardian.com/us-news/2026/oct/21/nancy-pelosi-office-letter-white-powder",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 22:47:28 GMT",
           "section": ""
         },
         {
@@ -313,24 +313,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Colombian president purges National Museum of works promoting ‘communism’",
+          "url": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 01:09:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Brother of George W Bush endorses Democratic Senate candidate in Texas",
+          "url": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 01:01:52 +0000",
+          "section": ""
+        },
+        {
           "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
           "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 22 Oct 2026 00:25:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "World leaders warn of security flaws found in PHP programming language",
-          "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 00:10:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 00:00:00 +0000",
           "section": ""
         },
         {
@@ -605,6 +605,13 @@
           "section": ""
         },
         {
+          "title": "Guantanamo Dispatches: Pentagon Reducing Rank of Top Military Commission Lawyers",
+          "url": "https://www.justsecurity.org/160438/pentagon-reducing-rank-military-commission-lawyers/?utm_source=rss&utm_medium=rss&utm_campaign=pentagon-reducing-rank-military-commission-lawyers",
+          "source": "Just Security",
+          "ts": "Wed, 21 Oct 2026 18:49:58 +0000",
+          "section": ""
+        },
+        {
           "title": "Guantanamo Dispatches: Ahead of Jury Selection, Defense Psychiatrist Calls USS Cole Defendant Unfit for Trial",
           "url": "https://www.justsecurity.org/161589/defense-psychiatrist-uss-cole-defendant-unfit-trial/?utm_source=rss&utm_medium=rss&utm_campaign=defense-psychiatrist-uss-cole-defendant-unfit-trial",
           "source": "Just Security",
@@ -630,13 +637,6 @@
           "url": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
           "source": "Drop Site News",
           "ts": "Wed, 21 Oct 2026 15:22:47 GMT",
-          "section": ""
-        },
-        {
-          "title": "DHS’s AI Inventory Reveals the Limits of Federal AI Transparency Law",
-          "url": "https://www.justsecurity.org/159720/dhs-ai-inventory-limits-federal-ai-transparency-law/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-ai-inventory-limits-federal-ai-transparency-law",
-          "source": "Just Security",
-          "ts": "Wed, 21 Oct 2026 15:22:38 +0000",
           "section": ""
         },
         {
