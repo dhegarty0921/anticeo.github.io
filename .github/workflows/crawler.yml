@@ -45,7 +45,24 @@ jobs:
           # Retry push: GitHub occasionally answers transient 5xx on push,
           # which used to kill the whole cycle including the site deploy.
           for i in 1 2 3; do
-            if git pull --rebase origin main && git push origin main; then
+            # Clear any conflicted rebase left over from a previous attempt
+            git rebase --abort 2>/dev/null || true
+            if ! git pull --rebase origin main; then
+              # Overlapping scheduled runs both regenerate anticeo-news.json,
+              # so the rebase conflicts in that file every time. It is rebuilt
+              # wholesale each crawl — keep our freshly generated version.
+              # (During a rebase, --theirs = our commit being replayed.)
+              if [ -f .git/MERGE_MSG ] || git status --porcelain | grep -q '^UU'; then
+                git checkout --theirs anticeo-news.json
+                git add anticeo-news.json
+                GIT_EDITOR=true git rebase --continue || git rebase --skip
+              else
+                echo "pull failed for a non-conflict reason on attempt $i"
+                sleep 30
+                continue
+              fi
+            fi
+            if git push origin main; then
               exit 0
             fi
             echo "push attempt $i failed; retrying in 30s"
