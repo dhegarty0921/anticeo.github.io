@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T07:06:26.642537Z",
+  "generated_at": "2026-10-22T07:32:48.429153Z",
   "headline": {
-    "title": "US universities are failing to protect victims of sexual assault",
-    "url": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss"
+    "title": "Deception in Mass Autonomous Warfare",
+    "url": "https://warontherocks.com/deception-in-mass-autonomous-warfare/"
   },
   "sections": [
     {
@@ -20,6 +20,13 @@
           "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 22 Oct 2026 06:24:59 GMT",
+          "section": ""
+        },
+        {
+          "title": "Is the UK set to green-light a huge untapped oil field?",
+          "url": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 22 Oct 2026 06:09:44 GMT",
           "section": ""
         },
         {
@@ -90,13 +97,6 @@
           "url": "https://news.antiwar.com/2026/10/21/report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east",
           "source": "News From Antiwar.com",
           "ts": "Thu, 22 Oct 2026 00:09:21 +0000",
-          "section": ""
-        },
-        {
-          "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study",
-          "url": "https://www.bbc.co.uk/news/articles/cqlye4v721nwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 21 Oct 2026 23:02:30 GMT",
           "section": ""
         },
         {
@@ -313,6 +313,34 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Deception in Mass Autonomous Warfare",
+          "url": "https://warontherocks.com/deception-in-mass-autonomous-warfare/",
+          "source": "War on the Rocks",
+          "ts": "Thu, 22 Oct 2026 07:30:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "The West Is Thinking Too Small About Ukraine’s Victory",
+          "url": "https://warontherocks.com/the-west-is-thinking-too-small-about-ukraines-victory/",
+          "source": "War on the Rocks",
+          "ts": "Thu, 22 Oct 2026 07:30:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "Wrong national anthems played three times at Asian Para Games in Japan",
+          "url": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 07:10:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
+          "url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 07:02:10 +0000",
+          "section": ""
+        },
+        {
           "title": "US universities are failing to protect victims of sexual assault",
           "url": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -320,24 +348,10 @@
           "section": ""
         },
         {
-          "title": "China edge USA to women’s team gold at Gymnastics World Championships",
-          "url": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 06:23:30 +0000",
-          "section": ""
-        },
-        {
           "title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
           "url": "https://www.navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns/",
           "source": "Naval News",
           "ts": "Thu, 22 Oct 2026 06:19:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
-          "url": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 06:06:28 +0000",
           "section": ""
         },
         {
@@ -478,20 +492,6 @@
           "url": "https://www.mintpressnews.com/iran-destroys-u-s-strike-plan-as-yemen-acquires-khaibar-shekan-missiles-to-strike-israel/291263/",
           "source": "MintPress News",
           "ts": "Wed, 21 Oct 2026 13:58:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Establishing Battery Supply Chain Resilience for Drones",
-          "url": "https://warontherocks.com/cogs-of-war/establishing-battery-supply-chain-resilience-for-drones/",
-          "source": "War on the Rocks",
-          "ts": "Wed, 21 Oct 2026 08:00:11 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tehran is a Different Beast Now",
-          "url": "https://warontherocks.com/tehran-is-a-different-beast-now/",
-          "source": "War on the Rocks",
-          "ts": "Wed, 21 Oct 2026 07:30:35 +0000",
           "section": ""
         },
         {
