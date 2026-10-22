@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T15:06:08.648349Z",
+  "generated_at": "2026-10-22T15:27:01.356258Z",
   "headline": {
-    "title": "Carney and Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-    "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss"
+    "title": "The hate that goes ignored",
+    "url": "https://www.vox.com/politics/507163/midterms-actually-islamophobia-omar-elsayed"
   },
   "sections": [
     {
@@ -182,10 +182,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The hate that goes ignored",
+          "url": "https://www.vox.com/politics/507163/midterms-actually-islamophobia-omar-elsayed",
+          "source": "Vox",
+          "ts": "2026-10-22T11:25:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 14:50:25 GMT",
+          "ts": "Thu, 22 Oct 2026 15:06:41 GMT",
+          "section": ""
+        },
+        {
+          "title": "Pete Hegseth’s staff break priceless historic globe he requested for office",
+          "url": "https://www.theguardian.com/us-news/2026/oct/22/pete-hegseth-eisenhower-globe-pentagon-office-broken",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 15:04:44 GMT",
           "section": ""
         },
         {
@@ -210,13 +224,6 @@
           "section": ""
         },
         {
-          "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 13:29:33 GMT",
-          "section": ""
-        },
-        {
           "title": "China’s Economy Has a Huge Weakness",
           "url": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088/?utm_source=feed",
           "source": "The Atlantic",
@@ -235,13 +242,6 @@
           "url": "https://religionnews.com/2026/10/22/hispanic-evangelicals-are-turning-on-trump-but-will-they-vote-for-democrats/",
           "source": "RNS",
           "ts": "Thu, 22 Oct 2026 11:05:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Islamophobia is getting louder. Why isn’t the response?",
-          "url": "https://www.vox.com/politics/507163/midterms-actually-islamophobia-omar-elsayed",
-          "source": "Vox",
-          "ts": "2026-10-22T07:00:00-04:00",
           "section": ""
         },
         {
@@ -313,24 +313,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Carney and Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-          "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
+          "title": "From the streets to the ballot box: Serbia’s students hope for election win",
+          "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 15:00:37 +0000",
+          "ts": "Thu, 22 Oct 2026 15:13:34 +0000",
           "section": ""
         },
         {
-          "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss",
+          "title": "Fatal Custody",
+          "url": "https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 14:55:59 +0000",
+          "ts": "Thu, 22 Oct 2026 15:08:32 +0000",
           "section": ""
         },
         {
-          "title": "Germany arrests Ukrainian man accused of spying for Russia",
-          "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
+          "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
+          "url": "https://www.aljazeera.com/economy/2026/10/22/rising-costs-and-tight-budgets-strain-americans-ahead-of-midterm-elections?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 14:36:06 +0000",
+          "ts": "Thu, 22 Oct 2026 15:07:38 +0000",
           "section": ""
         },
         {
@@ -528,6 +528,20 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Exclusive: UN abandons Rafah crossing; PHP flaws expose websites; AIPAC ends endorsements",
+          "url": "https://www.dropsitenews.com/p/un-rafah-gaza-israel-php-flaws-websites-aipac-end-endorsements",
+          "source": "Drop Site News",
+          "ts": "Thu, 22 Oct 2026 15:22:06 GMT",
+          "section": ""
+        },
+        {
+          "title": "How Technologies Move From Empowering to Imprisoning",
+          "url": "https://www.aclu.org/news/privacy-technology/from-empowering-to-imprisoning",
+          "source": "Posts | American Civil Liberties Union",
+          "ts": "Thu, 22 Oct 2026 15:17:09 +0000",
+          "section": ""
+        },
+        {
           "title": "How Civil Society Can Help Unlock More Universal and Extraterritorial Jurisdiction Cases",
           "url": "https://www.justsecurity.org/161544/civil-society-unlock-universal-extraterritorial-jurisdiction-cases/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-unlock-universal-extraterritorial-jurisdiction-cases",
           "source": "Just Security",
@@ -609,13 +623,6 @@
           "url": "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/",
           "source": "The Intercept",
           "ts": "Wed, 21 Oct 2026 16:25:02 +0000",
-          "section": ""
-        },
-        {
-          "title": "Hospitals in Gaza face power shutdowns; U.S. polling firm admits fabricating data; Water crisis in Yemen",
-          "url": "https://www.dropsitenews.com/p/hospitals-gaza-shutdowns-us-polling-wedgewood-yemen-ansarallah-water-crisis",
-          "source": "Drop Site News",
-          "ts": "Wed, 21 Oct 2026 15:22:47 GMT",
           "section": ""
         },
         {
