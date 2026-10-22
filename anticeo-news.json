@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T12:58:47.753313Z",
+  "generated_at": "2026-10-22T13:21:58.819680Z",
   "headline": {
-    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-    "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+    "title": "How Civil Society Can Help Unlock More Universal and Extraterritorial Jurisdiction Cases",
+    "url": "https://www.justsecurity.org/161544/civil-society-unlock-universal-extraterritorial-jurisdiction-cases/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-unlock-universal-extraterritorial-jurisdiction-cases"
   },
   "sections": [
     {
@@ -164,7 +164,7 @@
           "title": "Vivek Ramaswamy campaign ad for Ohio ‘shameful, disgusting’, says Republican congresswoman – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 12:38:30 GMT",
+          "ts": "Thu, 22 Oct 2026 13:00:42 GMT",
           "section": ""
         },
         {
@@ -175,7 +175,7 @@
           "section": ""
         },
         {
-          "title": "Chinese Manufacturers Can Make Anything—Except a Profit",
+          "title": "China’s Economy Has a Huge Weakness",
           "url": "https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-22T08:13:00-04:00",
@@ -224,10 +224,24 @@
           "section": ""
         },
         {
-          "title": "More Mosaic Madness, from the Adriatic to the Great Plains",
-          "url": "https://www.nationalreview.com/2026/10/more-mosaic-madness-from-the-adriatic-to-the-great-plains/",
+          "title": "He Didn’t Ask",
+          "url": "https://www.nationalreview.com/2026/10/he-didnt-ask/",
           "source": "National Review",
-          "ts": "Thu, 22 Oct 2026 10:30:10 +0000",
+          "ts": "Thu, 22 Oct 2026 10:30:48 +0000",
+          "section": ""
+        },
+        {
+          "title": "How Democrats Lost Their Way on Gaza",
+          "url": "https://www.nationalreview.com/2026/10/how-democrats-lost-their-way-on-gaza/",
+          "source": "National Review",
+          "ts": "Thu, 22 Oct 2026 10:30:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "Could This Time Be Different on Ukraine?",
+          "url": "https://www.nationalreview.com/2026/10/could-this-time-be-different-on-ukraine/",
+          "source": "National Review",
+          "ts": "Thu, 22 Oct 2026 10:30:40 +0000",
           "section": ""
         },
         {
@@ -266,20 +280,6 @@
           "section": ""
         },
         {
-          "title": "The Vanishing Irish",
-          "url": "https://www.nationalreview.com/2026/10/the-vanishing-irish/",
-          "source": "National Review",
-          "ts": "Wed, 21 Oct 2026 21:08:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "Vivek Ramaswamy Reminds Voters Why They Never Liked Him",
-          "url": "https://www.nationalreview.com/2026/10/vivek-ramaswamy-reminds-voters-why-they-never-liked-him/",
-          "source": "National Review",
-          "ts": "Wed, 21 Oct 2026 19:13:29 +0000",
-          "section": ""
-        },
-        {
           "title": "How I Changed My Mind (Kind Of) on the Death Penalty",
           "url": "https://www.christianitytoday.com/2026/10/how-i-changed-my-mind-kind-of-on-the-death-penalty/",
           "source": "Christianity Today",
@@ -292,24 +292,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Macron blames ‘seditious’ far left for unrest as France bans some protests",
+          "url": "https://www.aljazeera.com/news/2026/10/22/macron-blames-seditious-ultra-left-for-unrest-as-france-bans-protests?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 13:12:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Maradona doctor was made ‘scapegoat’ for his death, Argentinian court told",
+          "url": "https://www.aljazeera.com/sports/2026/10/22/maradona-doctor-was-made-scapegoat-for-his-death-argentinian-court-told?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 13:10:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Shark returns to South Korea canal after failed rescue attempt",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/shark-returns-to-south-korea-canal-after-failed-rescue-attempt?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 13:05:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "India news: Gandhi's nephew forced to pull protest photos",
+          "url": "https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T12:58:00Z",
+          "section": ""
+        },
+        {
           "title": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
           "url": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-22T12:46:00Z",
-          "section": ""
-        },
-        {
-          "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 12:37:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 12:12:32 +0000",
           "section": ""
         },
         {
@@ -320,27 +334,6 @@
           "section": ""
         },
         {
-          "title": "Ukraine: Life near the front line in Sloviansk",
-          "url": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T11:44:00Z",
-          "section": ""
-        },
-        {
-          "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
-          "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 11:36:02 +0000",
-          "section": ""
-        },
-        {
-          "title": "MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy",
-          "url": "https://www.navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy/",
-          "source": "Naval News",
-          "ts": "Thu, 22 Oct 2026 08:25:21 +0000",
-          "section": ""
-        },
-        {
           "title": "The Endless Chip War",
           "url": "https://warontherocks.com/cogs-of-war/the-endless-chip-war/",
           "source": "War on the Rocks",
@@ -348,24 +341,10 @@
           "section": ""
         },
         {
-          "title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
-          "url": "https://www.navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod/",
-          "source": "Naval News",
-          "ts": "Thu, 22 Oct 2026 07:51:18 +0000",
-          "section": ""
-        },
-        {
           "title": "The West Is Thinking Too Small About Ukraine’s Victory",
           "url": "https://warontherocks.com/the-west-is-thinking-too-small-about-ukraines-victory/",
           "source": "War on the Rocks",
           "ts": "Thu, 22 Oct 2026 07:30:35 +0000",
-          "section": ""
-        },
-        {
-          "title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
-          "url": "https://www.navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns/",
-          "source": "Naval News",
-          "ts": "Thu, 22 Oct 2026 06:19:52 +0000",
           "section": ""
         },
         {
@@ -521,12 +500,33 @@
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 20:20:00 +0000",
           "section": ""
+        },
+        {
+          "title": "Four Principles to Lift the Academic Fog Around War and Be More Realistic about Battle",
+          "url": "https://quincyinst.org/2026/10/19/four-principles-to-lift-the-academic-fog-around-war-and-be-more-realistic-about-battle/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Mon, 19 Oct 2026 19:55:00 +0000",
+          "section": ""
         }
       ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "How Civil Society Can Help Unlock More Universal and Extraterritorial Jurisdiction Cases",
+          "url": "https://www.justsecurity.org/161544/civil-society-unlock-universal-extraterritorial-jurisdiction-cases/?utm_source=rss&utm_medium=rss&utm_campaign=civil-society-unlock-universal-extraterritorial-jurisdiction-cases",
+          "source": "Just Security",
+          "ts": "Thu, 22 Oct 2026 13:14:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "United States Seabed Mineral Activities: Understanding the Legal Landscape",
+          "url": "https://www.justsecurity.org/161136/us-seabed-mining-legal-landscape/?utm_source=rss&utm_medium=rss&utm_campaign=us-seabed-mining-legal-landscape",
+          "source": "Just Security",
+          "ts": "Thu, 22 Oct 2026 13:04:06 +0000",
+          "section": ""
+        },
         {
           "title": "Frontier AI and Independent Evaluations: Some Inconvenient Questions",
           "url": "https://www.justsecurity.org/161488/frontier-ai-independent-evaluations-inconvenient-questions/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-ai-independent-evaluations-inconvenient-questions",
@@ -539,13 +539,6 @@
           "url": "https://www.techdirt.com/2026/10/22/brendan-carr-a-weak-coward-threatens-journalists-for-covering-polls-trump-doesnt-like/",
           "source": "Techdirt",
           "ts": "Thu, 22 Oct 2026 12:26:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Early Edition: October 22, 2026",
-          "url": "https://www.justsecurity.org/161692/early-edition-october-22-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-22-2026",
-          "source": "Just Security",
-          "ts": "Thu, 22 Oct 2026 12:19:08 +0000",
           "section": ""
         },
         {
@@ -595,13 +588,6 @@
           "url": "https://www.dropsitenews.com/p/mike-rogers-puts-spotlight-on-failed-benghazi",
           "source": "Drop Site News",
           "ts": "Wed, 21 Oct 2026 19:55:53 GMT",
-          "section": ""
-        },
-        {
-          "title": "Just the Docs: DHS Discloses July Order Stripping DeepSeek AI from Federal Civilian IT Systems",
-          "url": "https://www.justsecurity.org/161614/dhs-deepseek-exclusion-removal-order/?utm_source=rss&utm_medium=rss&utm_campaign=dhs-deepseek-exclusion-removal-order",
-          "source": "Just Security",
-          "ts": "Wed, 21 Oct 2026 19:01:52 +0000",
           "section": ""
         },
         {
