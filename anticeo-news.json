@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-10-22T08:07:23.836599Z",
+  "generated_at": "2026-10-22T08:34:21.858296Z",
   "headline": {
-    "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
-    "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html"
+    "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 22 Oct 2026 08:19:47 GMT",
+          "section": ""
+        },
         {
           "title": "MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways",
           "url": "https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html",
@@ -30,13 +37,6 @@
           "section": ""
         },
         {
-          "title": "Is the UK set to green-light a huge untapped oil field in the North Atlantic?",
-          "url": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 22 Oct 2026 06:09:44 GMT",
-          "section": ""
-        },
-        {
           "title": "Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham",
           "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html",
           "source": "NYT > U.S. > Politics",
@@ -44,10 +44,10 @@
           "section": ""
         },
         {
-          "title": "US embassy accuses Canada of election meddling ahead of midterms",
-          "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+          "title": "How Arab parties could hold critical balance of power in Israeli election",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 22 Oct 2026 03:05:28 GMT",
+          "ts": "Thu, 22 Oct 2026 05:30:22 GMT",
           "section": ""
         },
         {
@@ -90,6 +90,13 @@
           "url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 20:18:47 -0400",
+          "section": ""
+        },
+        {
+          "title": "Report: US Troops and Diplomats Evacuating Posts Across the Middle East",
+          "url": "https://news.antiwar.com/2026/10/21/report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east",
+          "source": "News From Antiwar.com",
+          "ts": "Thu, 22 Oct 2026 00:09:21 +0000",
           "section": ""
         },
         {
@@ -285,6 +292,55 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Bill Clinton quotes Quran and condemns anti-Muslim rhetoric",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/bill-clinton-quotes-quran-and-condemns-anti-muslim-rhetoric?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 08:33:01 +0000",
+          "section": ""
+        },
+        {
+          "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+          "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T08:31:00Z",
+          "section": ""
+        },
+        {
+          "title": "MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy",
+          "url": "https://www.navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy/",
+          "source": "Naval News",
+          "ts": "Thu, 22 Oct 2026 08:25:21 +0000",
+          "section": ""
+        },
+        {
+          "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+          "url": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 08:18:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Africa CDC calls crisis meeting as Ebola spreads",
+          "url": "https://www.dw.com/en/africa-cdc-calls-crisis-meeting-as-ebola-spreads/a-79728604?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T08:16:00Z",
+          "section": ""
+        },
+        {
+          "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
+          "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T08:07:00Z",
+          "section": ""
+        },
+        {
+          "title": "Can Russia broker a new US-Iran deal?",
+          "url": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 08:00:48 +0000",
+          "section": ""
+        },
+        {
           "title": "The Endless Chip War",
           "url": "https://warontherocks.com/cogs-of-war/the-endless-chip-war/",
           "source": "War on the Rocks",
@@ -313,52 +369,10 @@
           "section": ""
         },
         {
-          "title": "Meta faces Australian lawsuit over alleged social media harm to children",
-          "url": "https://www.aljazeera.com/news/2026/10/22/meta-faces-australian-lawsuit-over-alleged-social-media-harm-to-children?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 07:23:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "Wrong national anthems played three times at Asian Para Games in Japan",
-          "url": "https://www.aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 07:10:55 +0000",
-          "section": ""
-        },
-        {
-          "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
-          "url": "https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 07:02:10 +0000",
-          "section": ""
-        },
-        {
           "title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
           "url": "https://www.navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns/",
           "source": "Naval News",
           "ts": "Thu, 22 Oct 2026 06:19:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail",
-          "url": "https://www.dw.com/en/india-news-cjp-leaders-saurav-das-ashutosh-ranka-released-from-tihar-jail/live-79727462?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T05:22:00Z",
-          "section": ""
-        },
-        {
-          "title": "Ukraine, Russia trade strikes after Witkoff talks",
-          "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T04:57:00Z",
-          "section": ""
-        },
-        {
-          "title": "Austrian, Swiss women kidnapped in Niger are freed — report",
-          "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T02:54:00Z",
           "section": ""
         },
         {
@@ -369,10 +383,17 @@
           "section": ""
         },
         {
-          "title": "OCIUS’ New Bluebottle Hybrid USV Demonstrates Capability at Maritime Big Play Pacific",
-          "url": "https://www.navalnews.com/naval-news/2026/10/ocius-new-bluebottle-hybrid-usv-demonstrates-capability-at-maritime-big-play-pacific/",
-          "source": "Naval News",
-          "ts": "Wed, 21 Oct 2026 20:50:30 +0000",
+          "title": "Israel Flew Dozens of Fighter Jets Near Iran’s Border on Monday: Axios",
+          "url": "https://news.antiwar.com/2026/10/21/israel-flew-dozens-of-fighter-jets-near-irans-border-on-monday-axios/?utm_source=rss&utm_medium=rss&utm_campaign=israel-flew-dozens-of-fighter-jets-near-irans-border-on-monday-axios",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 21 Oct 2026 21:31:16 +0000",
+          "section": ""
+        },
+        {
+          "title": "Putin Tells Witkoff Russia Is Ready To Resume Trilateral Talks With the US and Ukraine",
+          "url": "https://news.antiwar.com/2026/10/21/putin-tells-witkoff-russia-is-ready-to-resume-trilateral-talks-with-the-us-and-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=putin-tells-witkoff-russia-is-ready-to-resume-trilateral-talks-with-the-us-and-ukraine",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 21 Oct 2026 20:57:40 +0000",
           "section": ""
         },
         {
@@ -499,13 +520,6 @@
           "url": "https://quincyinst.org/2026/10/19/south-korea-wants-to-take-wartime-military-command-away-from-american-general/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 20:20:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Four Principles to Lift the Academic Fog Around War and Be More Realistic about Battle",
-          "url": "https://quincyinst.org/2026/10/19/four-principles-to-lift-the-academic-fog-around-war-and-be-more-realistic-about-battle/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Mon, 19 Oct 2026 19:55:00 +0000",
           "section": ""
         }
       ]
