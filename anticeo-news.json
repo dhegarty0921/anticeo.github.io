@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-10-22T11:24:31.820443Z",
+  "generated_at": "2026-10-22T11:37:19.142332Z",
   "headline": {
-    "title": "What is PHP and why did it spark an international cyber-security alert?",
-    "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+    "title": "America Is About to See What Happens When Voters Turn to AI",
+    "url": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+          "url": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 22 Oct 2026 07:28:24 -0400",
+          "section": ""
+        },
         {
           "title": "What is PHP and why did it spark an international cyber-security alert?",
           "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
@@ -86,13 +93,6 @@
           "section": ""
         },
         {
-          "title": "Trump merchandise stores are closing: 'He has peaked'",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6002970/trump-merchandise-stores-closing-maga-midterms",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 22 Oct 2026 05:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "El-Sayed Is Seeking To Make Gas Prices Higher",
           "url": "https://www.realclearpolitics.com/2026/10/21/el-sayed_is_seeking_to_make_gas_prices_higher_714670.html",
           "source": "RealClearPolitics - Homepage",
@@ -161,6 +161,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "America Is About to See What Happens When Voters Turn to AI",
+          "url": "https://www.theatlantic.com/technology/2026/10/ai-midterm-election-voters-chatbots/689103/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T07:30:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Vivek Ramaswamy campaign ad for Ohio ‘shameful, disgusting’, says Republican congresswoman – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
           "source": "US news | The Guardian",
@@ -189,13 +196,6 @@
           "section": ""
         },
         {
-          "title": "The Underground Battles Shaping the War in Ukraine",
-          "url": "https://www.theatlantic.com/national-security/2026/10/ukraine-war-gas-pipelines-russia/689105/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-22T07:00:00-04:00",
-          "section": ""
-        },
-        {
           "title": "Islamophobia is getting louder. Why isn’t the response?",
           "url": "https://www.vox.com/politics/507163/midterms-actually-islamophobia-omar-elsayed",
           "source": "Vox",
@@ -203,8 +203,8 @@
           "section": ""
         },
         {
-          "title": "Maria Bamford Is Tough as Nails",
-          "url": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/?utm_source=feed",
+          "title": "The Underground Battles Shaping the War in Ukraine",
+          "url": "https://www.theatlantic.com/national-security/2026/10/ukraine-war-gas-pipelines-russia/689105/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-22T07:00:00-04:00",
           "section": ""
@@ -217,8 +217,8 @@
           "section": ""
         },
         {
-          "title": "After the Apocalypse",
-          "url": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/?utm_source=feed",
+          "title": "Maria Bamford Is Tough as Nails",
+          "url": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-22T07:00:00-04:00",
           "section": ""
@@ -334,6 +334,13 @@
           "section": ""
         },
         {
+          "title": "MSI Defense Integrates LIONFISH 20 Weapon Systems on Ex-USCG Cutters for Hellenic Navy",
+          "url": "https://www.navalnews.com/naval-news/2026/10/msi-defense-lionfish-20-hellenic-navy/",
+          "source": "Naval News",
+          "ts": "Thu, 22 Oct 2026 08:25:21 +0000",
+          "section": ""
+        },
+        {
           "title": "The Endless Chip War",
           "url": "https://warontherocks.com/cogs-of-war/the-endless-chip-war/",
           "source": "War on the Rocks",
@@ -341,10 +348,24 @@
           "section": ""
         },
         {
+          "title": "Voyant Successfully Demonstrates GNSS-denied Navigation for UK MoD",
+          "url": "https://www.navalnews.com/naval-news/2026/10/voyant-successfully-demonstrates-gnss-denied-navigation-for-uk-mod/",
+          "source": "Naval News",
+          "ts": "Thu, 22 Oct 2026 07:51:18 +0000",
+          "section": ""
+        },
+        {
           "title": "The West Is Thinking Too Small About Ukraine’s Victory",
           "url": "https://warontherocks.com/the-west-is-thinking-too-small-about-ukraines-victory/",
           "source": "War on the Rocks",
           "ts": "Thu, 22 Oct 2026 07:30:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "Future German F128 Frigates To Receive MSI-DS Seahawk Light Gun Systems",
+          "url": "https://www.navalnews.com/naval-news/2026/10/future-german-f128-frigates-to-receive-msi-seahawk-light-guns/",
+          "source": "Naval News",
+          "ts": "Thu, 22 Oct 2026 06:19:52 +0000",
           "section": ""
         },
         {
@@ -499,13 +520,6 @@
           "url": "https://quincyinst.org/2026/10/19/south-korea-wants-to-take-wartime-military-command-away-from-american-general/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 20:20:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Four Principles to Lift the Academic Fog Around War and Be More Realistic about Battle",
-          "url": "https://quincyinst.org/2026/10/19/four-principles-to-lift-the-academic-fog-around-war-and-be-more-realistic-about-battle/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Mon, 19 Oct 2026 19:55:00 +0000",
           "section": ""
         }
       ]
