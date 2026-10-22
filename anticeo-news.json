@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-10-22T00:11:32.600511Z",
+  "generated_at": "2026-10-22T00:54:52.578382Z",
   "headline": {
-    "title": "Report: US Troops and Diplomats Evacuating Posts Across the Middle East",
-    "url": "https://news.antiwar.com/2026/10/21/report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east"
+    "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Trump Asks Supreme Court to Allow Border Wall Construction in Big Bend",
+          "url": "https://www.nytimes.com/2026/10/21/us/politics/trump-supreme-court-border-wall.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 22 Oct 2026 00:32:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+          "url": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 21 Oct 2026 20:22:48 -0400",
+          "section": ""
+        },
+        {
+          "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+          "url": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 21 Oct 2026 20:18:47 -0400",
+          "section": ""
+        },
         {
           "title": "Report: US Troops and Diplomats Evacuating Posts Across the Middle East",
           "url": "https://news.antiwar.com/2026/10/21/report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=report-us-troops-and-diplomats-evacuating-posts-across-the-middle-east",
@@ -55,27 +76,6 @@
           "url": "https://www.npr.org/2026/10/21/nx-s1-6009571/california-gas-prices-have-long-plagued-democratic-candidates-this-year-is-different",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 21 Oct 2026 18:48:18 -0400",
-          "section": ""
-        },
-        {
-          "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
-          "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 21 Oct 2026 22:41:32 +0000",
-          "section": ""
-        },
-        {
-          "title": "Vivek Ramaswamy's attack ad features mother of Amy Acton, who alleges childhood abuse",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6010530/vivek-ramaswamys-attack-ad-features-mother-of-amy-acton-who-alleges-childhood-abuse",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 21 Oct 2026 18:39:16 -0400",
-          "section": ""
-        },
-        {
-          "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
-          "url": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
-          "source": "NPR Topics: News",
-          "ts": "Wed, 21 Oct 2026 16:56:07 -0400",
           "section": ""
         },
         {
@@ -185,7 +185,7 @@
           "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 21 Oct 2026 23:50:23 GMT",
+          "ts": "Thu, 22 Oct 2026 00:34:52 GMT",
           "section": ""
         },
         {
@@ -313,31 +313,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+          "url": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 00:25:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "World leaders warn of security flaws found in PHP programming language",
+          "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 00:10:27 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 00:00:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Pope Leo will not need further cancer treatment — Vatican",
           "url": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-21T23:47:00Z",
-          "section": ""
-        },
-        {
-          "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
-          "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 23:20:58 +0000",
-          "section": ""
-        },
-        {
-          "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
-          "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 23:20:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
-          "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 21 Oct 2026 23:13:35 +0000",
           "section": ""
         },
         {
