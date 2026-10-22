@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-10-22T10:50:15.393835Z",
+  "generated_at": "2026-10-22T11:05:22.237789Z",
   "headline": {
-    "title": "Which Glee stars are returning for reboot as Lea Michele ‘confirmed’",
-    "url": "https://www.thepinknews.com/2026/10/22/glee-reboot-cast-lea-michelle-heather-morris-chord-overstreet/"
+    "title": "‘America, this is a warning’: pro- Trump Maga media in a froth over Europe protests",
+    "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Sophia Bush shuts down ‘affair’ rumours with wife Ashlyn Harris",
+          "url": "https://www.thepinknews.com/2026/10/22/sophia-bush-ashyln-harris-affair-rumours/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 22 Oct 2026 10:58:39 +0000",
+          "section": ""
+        },
         {
           "title": "Which Glee stars are returning for reboot as Lea Michele ‘confirmed’",
           "url": "https://www.thepinknews.com/2026/10/22/glee-reboot-cast-lea-michelle-heather-morris-chord-overstreet/",
@@ -72,8 +79,8 @@
           "section": ""
         },
         {
-          "title": "Farm country has beef with Trump as midterms approach",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6011214/farm-country-has-beef-with-trump-as-midterms-approach",
+          "title": "Trump's redistricting gave Republicans a head start, now it goes to the voters",
+          "url": "https://www.npr.org/2026/10/22/nx-s1-6004891/trump-redistricting-advantage-midterms",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 22 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -128,17 +135,17 @@
           "section": ""
         },
         {
-          "title": "Donald Trump’s niece says his comments about men’s bodies are ‘deeply weird’ and ‘alarming’",
-          "url": "https://www.thepinknews.com/2026/10/21/mary-trump-donald-jon-husted-weird-alarming/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 21 Oct 2026 15:44:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Trump Blows Up at Reporters in Oval Office: ‘You Better Be Careful’",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-blows-up-reporter-oval-office-1235645737/",
           "source": "Politics News",
           "ts": "Tue, 20 Oct 2026 21:36:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "How Routine and Familiarity Help People Living With Dementia",
+          "url": "https://www.thecanary.co/discovery/health/2026/10/20/how-routine-and-familiarity-help-people-living-with-dementia/",
+          "source": "Canary",
+          "ts": "Tue, 20 Oct 2026 12:59:14 +0000",
           "section": ""
         },
         {
@@ -154,17 +161,66 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "‘America, this is a warning’: pro- Trump Maga media in a froth over Europe protests",
+          "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-maga-media-europe-protests",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 11:00:42 GMT",
+          "section": ""
+        },
+        {
+          "title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+          "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 11:00:40 GMT",
+          "section": ""
+        },
+        {
+          "title": "The Underground Battles Shaping the War in Ukraine",
+          "url": "https://www.theatlantic.com/national-security/2026/10/ukraine-war-gas-pipelines-russia/689105/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T07:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Islamophobia is getting louder. Why isn’t the response?",
+          "url": "https://www.vox.com/politics/507163/midterms-actually-islamophobia-omar-elsayed",
+          "source": "Vox",
+          "ts": "2026-10-22T07:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Maria Bamford Is Tough as Nails",
+          "url": "https://www.theatlantic.com/podcasts/2026/10/maria-bamford-is-tough-as-nails/689076/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T07:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "How the biggest renewable energy project in US history finally got built",
+          "url": "https://www.vox.com/future-perfect/507189/sunzia-wind-energy-transmission-project",
+          "source": "Vox",
+          "ts": "2026-10-22T07:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "After the Apocalypse",
+          "url": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T07:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Vivek Ramaswamy campaign ad for Ohio ‘shameful, disgusting’, says Republican congresswoman – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 10:58:12 GMT",
+          "section": ""
+        },
+        {
           "title": "More Mosaic Madness, from the Adriatic to the Great Plains",
           "url": "https://www.nationalreview.com/2026/10/more-mosaic-madness-from-the-adriatic-to-the-great-plains/",
           "source": "National Review",
           "ts": "Thu, 22 Oct 2026 10:30:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Meet the volunteers who will observe Trump’s election monitors during the midterms",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/volunteers-trump-election-monitors-midterms",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 10:30:01 GMT",
           "section": ""
         },
         {
@@ -175,17 +231,10 @@
           "section": ""
         },
         {
-          "title": "Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 10:00:39 GMT",
-          "section": ""
-        },
-        {
-          "title": "Experts alarmed by ‘less transparent’ CDC as US measles deaths rise",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-pennsylvania-state-deaths",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 10:00:39 GMT",
+          "title": "Holy Claude! When AI Comes to Church + Jay Y. Kim",
+          "url": "https://religionnews.com/2026/10/22/holy-claude-when-ai-comes-to-church-jay-y-kim/",
+          "source": "RNS",
+          "ts": "Thu, 22 Oct 2026 10:05:20 +0000",
           "section": ""
         },
         {
@@ -196,13 +245,6 @@
           "section": ""
         },
         {
-          "title": "The Cornell rape case has surfaced a hidden divide among progressives",
-          "url": "https://www.vox.com/politics/507219/cornell-seven-new-york-voluntary-intoxication-loophole",
-          "source": "Vox",
-          "ts": "2026-10-22T06:00:00-04:00",
-          "section": ""
-        },
-        {
           "title": "UK Christians Question Using the Term Christian Nationalism",
           "url": "https://www.christianitytoday.com/2026/10/uk-christian-nationalism-far-right/",
           "source": "Christianity Today",
@@ -210,31 +252,10 @@
           "section": ""
         },
         {
-          "title": "Vladimir Putin, the Humanitarian",
-          "url": "https://www.theatlantic.com/newsletters/2026/10/congratulations-great-humanitarian-vladimir-putin/689111/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-21T18:56:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Russia released a US prisoner. What did they get out of it?",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/507217/trump-russia-hubbard-sanctions-ukraine-starlink",
-          "source": "Vox",
-          "ts": "2026-10-21T18:25:00-04:00",
-          "section": ""
-        },
-        {
           "title": "Landslides, fires, El Niño: Big Sur’s spiritual centers ‘living with precariousness’",
           "url": "https://religionnews.com/2026/10/21/amid-landslides-fires-and-el-nino-big-surs-spiritual-centers-living-with-precariousness/",
           "source": "RNS",
           "ts": "Wed, 21 Oct 2026 22:03:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Vivek Ramaswamy’s Appalling Campaign Ad",
-          "url": "https://www.theatlantic.com/newsletters/2026/10/vivek-ramaswamy-ohio-amy-acton-child-abuse/689108/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-21T17:50:00-04:00",
           "section": ""
         },
         {
@@ -249,20 +270,6 @@
           "url": "https://www.nationalreview.com/2026/10/the-vanishing-irish/",
           "source": "National Review",
           "ts": "Wed, 21 Oct 2026 21:08:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pastors, Pews and Power: Religion in the Midterms",
-          "url": "https://religionnews.com/2026/10/21/pastors-pews-and-power-religion-in-the-midterms/",
-          "source": "RNS",
-          "ts": "Wed, 21 Oct 2026 20:43:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "Read This Website While You Still Can",
-          "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-21T15:21:21-04:00",
           "section": ""
         },
         {
@@ -285,6 +292,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Is Neha Bora, India’s new red star, Modi’s real Gen Z threat?",
+          "url": "https://www.aljazeera.com/features/2026/10/22/is-neha-bora-indias-new-red-star-modis-real-gen-z-threat?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 10:45:01 +0000",
+          "section": ""
+        },
+        {
           "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
           "url": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -303,13 +317,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 22 Oct 2026 10:01:55 +0000",
-          "section": ""
-        },
-        {
-          "title": "Can European leaders fix the cost-of-living crisis?",
-          "url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 09:58:21 +0000",
           "section": ""
         },
         {
@@ -513,13 +520,6 @@
           "url": "https://quincyinst.org/2026/10/19/south-korea-wants-to-take-wartime-military-command-away-from-american-general/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Mon, 19 Oct 2026 20:20:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Four Principles to Lift the Academic Fog Around War and Be More Realistic about Battle",
-          "url": "https://quincyinst.org/2026/10/19/four-principles-to-lift-the-academic-fog-around-war-and-be-more-realistic-about-battle/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Mon, 19 Oct 2026 19:55:00 +0000",
           "section": ""
         }
       ]
