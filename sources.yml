@@ -31,6 +31,7 @@ feeds:
   - https://www.mintpressnews.com/feed/ # MintPress News (war/foreign policy)
   - https://electronicintifada.net/rss.xml # Electronic Intifada (Palestine/Israel)
   - https://www.globalresearch.ca/feed/ # Global Research (war/foreign policy)
+  - https://www.moonofalabama.org/feed/ # Moon of Alabama (geopolitics/antiwar analysis)
 
  # --- PARA POLITICAL INTRIGUE (natsec/surveillance/legal) ---
   - https://www.unz.com/xfeed/rss/
