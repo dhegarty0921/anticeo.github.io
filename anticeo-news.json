@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:18:57.600829Z",
+  "generated_at": "2026-10-22T19:21:37.965232Z",
   "headline": {
     "title": "Congressman Questions FBI about Possible Alibi for Accused Jan. 6 Pipe Bomber",
     "url": "https://headlineusa.com/congressman-questions-fbi-about-possible-alibi-for-accused-jan-6-pipe-bomber/"
@@ -10,7 +10,7 @@
       "items": [
         {
           "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
-          "url": "https://www.npr.org/2026/10/22/nx-s1-6012682/federal-judge-restricts-dhs-field-operations-looking-for-noncitizen-voters",
+          "url": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
           "source": "NPR Topics: News",
           "ts": "Thu, 22 Oct 2026 15:16:20 -0400",
           "section": ""
@@ -196,10 +196,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The False Promise of Safe AI",
+          "url": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T15:12:03-04:00",
+          "section": ""
+        },
+        {
           "title": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Thu, 22 Oct 2026 19:09:58 GMT",
+          "section": ""
+        },
+        {
+          "title": "America Needs Its Indian Immigrants",
+          "url": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T15:00:27-04:00",
           "section": ""
         },
         {
@@ -252,24 +266,10 @@
           "section": ""
         },
         {
-          "title": "The Limits of the Cinematic Universe",
-          "url": "https://www.theatlantic.com/newsletters/2026/10/clayface-dc-universe-james-gunn-video-village/689115/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-22T13:37:18-04:00",
-          "section": ""
-        },
-        {
           "title": "The hate that goes ignored",
           "url": "https://www.vox.com/politics/507163/midterms-actually-islamophobia-omar-elsayed",
           "source": "Vox",
           "ts": "2026-10-22T11:25:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Why So Many Men Aren’t Working",
-          "url": "https://www.theatlantic.com/ideas/2026/10/job-market-unemployment-men-screentime/689109/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-22T09:49:15-04:00",
           "section": ""
         },
         {
@@ -326,6 +326,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Albania's student protests are only getting bigger",
+          "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T19:18:00Z",
+          "section": ""
+        },
+        {
+          "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
+          "url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-22T19:17:00Z",
+          "section": ""
+        },
         {
           "title": "Pentagon Launches 120-Day “Sprint” to Field Counter-UAS Armed USVs",
           "url": "https://www.navalnews.com/naval-news/2026/10/pentagon-diu-sprint-counter-uas-armed-usvs/",
@@ -408,20 +422,6 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
           "source": "News - Army Times",
           "ts": "Thu, 22 Oct 2026 17:15:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Canada's Mark Carney visits Turkey to boost trade ties",
-          "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T17:07:00Z",
-          "section": ""
-        },
-        {
-          "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
-          "url": "https://www.dw.com/en/france-s-macron-says-illegitimate-protests-will-be-banned-in-coming-days/a-79735137?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-22T16:28:00Z",
           "section": ""
         },
         {
@@ -577,7 +577,7 @@
           "section": ""
         },
         {
-          "title": "Your Questions Answered: How Data Centers Erode Civil Liberties",
+          "title": "Your Questions Answered: How Data Centers Erode Civil Rights and Civil Liberties",
           "url": "https://www.aclu.org/news/privacy-technology/your-questions-answered-how-data-centers-erode-civil-liberties",
           "source": "Posts | American Civil Liberties Union",
           "ts": "Thu, 22 Oct 2026 18:05:29 +0000",
