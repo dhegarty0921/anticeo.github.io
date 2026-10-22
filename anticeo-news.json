@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T19:34:36.012809Z",
+  "generated_at": "2026-10-22T19:47:53.947484Z",
   "headline": {
-    "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-    "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss"
+    "title": "Saudi Attacks in Yemen Have Killed 155 Civilians Since July: Health Ministry",
+    "url": "https://news.antiwar.com/2026/10/22/saudi-attacks-in-yemen-have-killed-155-civilians-since-july-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-attacks-in-yemen-have-killed-155-civilians-since-july-health-ministry"
   },
   "sections": [
     {
@@ -196,6 +196,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump defends Ramaswamy campaign ad condemned by Republicans, saying ‘Vivek should keep it up’ – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 19:38:46 GMT",
+          "section": ""
+        },
+        {
+          "title": "The One Resource the American West Will Never Stop Fighting Over",
+          "url": "https://www.theatlantic.com/newsletters/2026/10/the-one-resource-the-american-west-will-never-stop-fighting-over/689120/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-22T15:32:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+          "url": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 22 Oct 2026 19:23:14 GMT",
+          "section": ""
+        },
+        {
           "title": "FrontGate Media announces sponsorship and advertising representation for Faith On Film TV",
           "url": "https://religionnews.com/2026/10/22/frontgate-media-announces-sponsorship-and-advertising-representation-for-faith-on-film-tv/",
           "source": "RNS",
@@ -207,13 +228,6 @@
           "url": "https://www.theatlantic.com/technology/2026/10/false-promise-of-safe-ai/689114/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-22T15:12:03-04:00",
-          "section": ""
-        },
-        {
-          "title": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 19:09:58 GMT",
           "section": ""
         },
         {
@@ -238,24 +252,10 @@
           "section": ""
         },
         {
-          "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 22 Oct 2026 18:30:39 GMT",
-          "section": ""
-        },
-        {
           "title": "Flashy AI campaign ads use religion to stir emotions and attack candidates",
           "url": "https://religionnews.com/2026/10/22/flashy-ai-campaign-ads-use-religion-to-stir-emotions-and-attack-candidates/",
           "source": "RNS",
           "ts": "Thu, 22 Oct 2026 18:30:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "A Congressional Race That’s a Referendum on the War",
-          "url": "https://www.theatlantic.com/politics/2026/10/iran-war-virginia-midterms/688948/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-22T14:18:03-04:00",
           "section": ""
         },
         {
@@ -327,10 +327,45 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Saudi Attacks in Yemen Have Killed 155 Civilians Since July: Health Ministry",
+          "url": "https://news.antiwar.com/2026/10/22/saudi-attacks-in-yemen-have-killed-155-civilians-since-july-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-attacks-in-yemen-have-killed-155-civilians-since-july-health-ministry",
+          "source": "News From Antiwar.com",
+          "ts": "Thu, 22 Oct 2026 19:42:59 +0000",
+          "section": ""
+        },
+        {
+          "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 19:35:18 +0000",
+          "section": ""
+        },
+        {
+          "title": "White evangelical support for Trump slips but still strong as midterms near",
+          "url": "https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 19:31:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries",
+          "url": "https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 22 Oct 2026 19:31:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Electric Trucks Haven’t Sold Like GM Hoped. Its Vehicle Boss Says They Still Make Sense",
           "url": "https://www.thedrive.com/news/electric-trucks-havent-sold-like-gm-hoped-its-vehicle-boss-says-they-still-make-sense",
           "source": "The Drive",
           "ts": "Thu, 22 Oct 2026 15:27:33 -0400",
+          "section": ""
+        },
+        {
+          "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+          "url": "https://www.armytimes.com/news/your-army/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+          "source": "News - Army Times",
+          "ts": "Thu, 22 Oct 2026 19:27:22 +0000",
           "section": ""
         },
         {
@@ -369,11 +404,11 @@
           "section": ""
         },
         {
-          "title": "Time just changed forever",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/time-just-changed-forever?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 19:00:07 +0000",
-          "section": ""
+          "title": "Selected Articles: The Super-Entity That Owns the World",
+          "url": "https://www.globalresearch.ca/selected-articles-super-entity-owns-world/5944337",
+          "source": "Global Research",
+          "ts": "Thu, 22 Oct 2026 18:50:33 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
@@ -383,31 +418,10 @@
           "section": ""
         },
         {
-          "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
-          "url": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 18:17:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump says NBA star LeBron James disrespected US national anthem",
-          "url": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 22 Oct 2026 18:05:52 +0000",
-          "section": ""
-        },
-        {
           "title": "As Talks End, Israel Again Steps Up Strikes Against Southern, Eastern Lebanon",
           "url": "https://news.antiwar.com/2026/10/22/as-talks-end-israel-again-steps-up-strikes-against-southern-eastern-lebanon/?utm_source=rss&utm_medium=rss&utm_campaign=as-talks-end-israel-again-steps-up-strikes-against-southern-eastern-lebanon",
           "source": "News From Antiwar.com",
           "ts": "Thu, 22 Oct 2026 18:00:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran’s IRGC Navy Says Seven Oil Tankers Struck in the Strait of Hormuz",
-          "url": "https://news.antiwar.com/2026/10/22/irans-irgc-navy-says-seven-oil-tankers-struck-in-the-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=irans-irgc-navy-says-seven-oil-tankers-struck-in-the-strait-of-hormuz",
-          "source": "News From Antiwar.com",
-          "ts": "Thu, 22 Oct 2026 17:53:46 +0000",
           "section": ""
         },
         {
@@ -446,24 +460,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "BREAKING: Putin Floats Summit Idea With Trump and Xi to Discuss Ukraine",
-          "url": "https://www.globalresearch.ca/putin-floats-summit-idea-trump-xi-discuss-ukraine/5944218",
-          "source": "Global Research",
-          "ts": "Thu, 22 Oct 2026 14:16:31 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "Euronaval 2026: Global Naval Shipbuilding Surges 50%",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/euronaval-2026-global-naval-shipbuilding-surges-50/",
           "source": "Naval News",
           "ts": "Thu, 22 Oct 2026 13:51:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
-          "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
-          "source": "News - Army Times",
-          "ts": "Thu, 22 Oct 2026 13:45:04 +0000",
           "section": ""
         },
         {
