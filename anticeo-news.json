@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T10:05:10.489058Z",
+  "generated_at": "2026-10-23T10:25:40.842385Z",
   "headline": {
-    "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss"
+    "title": "Why are doctors paid less for procedures on women?",
+    "url": "https://www.vox.com/the-highlight/504071/medical-billing-womens-health-outcomes"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
           "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Fri, 23 Oct 2026 10:00:09 GMT",
+          "ts": "Fri, 23 Oct 2026 10:17:54 GMT",
+          "section": ""
+        },
+        {
+          "title": "François Arnaud is ‘protecting himself more’ after Heated Rivalry fame",
+          "url": "https://www.thepinknews.com/2026/10/23/francois-arnaud-is-protecting-himself-more-after-heated-rivalry-fame/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Fri, 23 Oct 2026 10:05:47 +0000",
           "section": ""
         },
         {
@@ -128,13 +135,6 @@
           "section": ""
         },
         {
-          "title": "Caitlyn Jenner makes rare appearance on The Kardashians – and it’s chaotic",
-          "url": "https://www.thepinknews.com/2026/10/22/caitlyn-jenner-thekardashians-kendall-jenner/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 22 Oct 2026 14:24:07 +0000",
-          "section": ""
-        },
-        {
           "title": "Has America Hit Peak Protectionism?",
           "url": "https://danieldrezner.substack.com/p/has-america-hit-peak-protectionism",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -196,10 +196,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "How to ban gerrymandering when the Supreme Court is stacked against you",
-          "url": "https://www.vox.com/politics/507376/supreme-court-gerrymandering-ban-for-the-people",
+          "title": "Why are doctors paid less for procedures on women?",
+          "url": "https://www.vox.com/the-highlight/504071/medical-billing-womens-health-outcomes",
           "source": "Vox",
-          "ts": "2026-10-23T06:00:00-04:00",
+          "ts": "2026-10-23T06:22:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Billionaire tax and trans rights: what are key state ballot initiatives in midterms?",
+          "url": "https://www.theguardian.com/us-news/2026/oct/23/key-midterms-ballot-initiatives",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 23 Oct 2026 10:00:30 GMT",
           "section": ""
         },
         {
@@ -207,6 +214,13 @@
           "url": "https://www.christianitytoday.com/2026/10/affirming-human-dignity-across-the-board/",
           "source": "Christianity Today",
           "ts": "Fri, 23 Oct 2026 10:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "How to ban gerrymandering when the Supreme Court is stacked against you",
+          "url": "https://www.vox.com/politics/507376/supreme-court-gerrymandering-ban-for-the-people",
+          "source": "Vox",
+          "ts": "2026-10-23T06:00:00-04:00",
           "section": ""
         },
         {
@@ -228,13 +242,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
           "source": "US news | The Guardian",
           "ts": "Fri, 23 Oct 2026 01:50:38 GMT",
-          "section": ""
-        },
-        {
-          "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
-          "url": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 23 Oct 2026 00:55:02 GMT",
           "section": ""
         },
         {
@@ -270,13 +277,6 @@
           "url": "https://religionnews.com/2026/10/22/new-vatican-document-cautions-against-triumphalism-over-rise-in-baptisms/",
           "source": "RNS",
           "ts": "Thu, 22 Oct 2026 21:15:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Can Trump deport Ilhan Omar?",
-          "url": "https://www.vox.com/podcasts/507328/ilhan-omar-trump-immigration-investigation-denaturalize-deport",
-          "source": "Vox",
-          "ts": "2026-10-22T17:00:00-04:00",
           "section": ""
         },
         {
@@ -327,6 +327,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit",
+          "url": "https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 23 Oct 2026 09:56:28 +0000",
+          "section": ""
+        },
+        {
           "title": "Serbia’s snap election: What’s at stake and can students unseat Vucic?",
           "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -338,13 +345,6 @@
           "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 23 Oct 2026 09:40:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "What role does the military play in Israeli schools?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 23 Oct 2026 09:32:33 +0000",
           "section": ""
         },
         {
