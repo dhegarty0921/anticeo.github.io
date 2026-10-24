@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, pathlib, datetime
+import json, pathlib, datetime, re
 from urllib.parse import urlparse
 
 # ---------- Inputs ----------
@@ -84,7 +84,19 @@ def cap_per_domain_global(sections, max_per: int):
     return sections
 
 # ---------- Section rules ----------
+# Classification priority = list order (first match wins), which is decoupled
+# from display order (ORDER below): the settler-colonial rule is checked FIRST
+# so its specific keywords beat the generic "israel"/"iran" hits in MILITARY
+# INDUSTRIAL COMPLEX, but it still RENDERS at the bottom of the page.
 RULES = [
+    {"title":"SETTLER COLONIAL STATE FALSE FLAG LIES",
+     "domains":[],
+     "any":["netanyahu","ben-gvir","ben gvir","bengvir","gvir","itamar",
+            "aipac","adl","anti-defamation league",
+            "threatens iran","threatened iran","threatens war on iran",
+            "strike on iran","strikes on iran","attacked iran","attack iran",
+            "bomb iran","bombing iran","war on iran","war with iran",
+            "israel threatens","israeli threats"]},
     {"title":"CHUDS VS SHITLIBS",
      "domains":["thehill.com","realclearpolitics.com","washingtontimes.com","politico.com","npr.org","nytimes.com","bbc.com","headlineusa.com"],
      "any":["trump","biden","democrat","republican","gop","election","primary","congress","senate","house","white house","campaign"]},
@@ -98,7 +110,8 @@ RULES = [
      "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","aclu.org","theintercept.com","scheerpost.com","unlimitedhangout.com","dropsitenews.com"],
      "any":["cia","fbi","nsa","surveillance","whistleblower","leak","foia","spy","informant","homeland security","doj","dhs","patriot act","9/11","oklahoma city","okc bombing"]}
 ]
-ORDER = [r["title"] for r in RULES]
+ORDER = ["CHUDS VS SHITLIBS","CULTURE WAR","MILITARY INDUSTRIAL COMPLEX",
+         "PARA POLITICAL INTRIGUE","SETTLER COLONIAL STATE FALSE FLAG LIES"]
 
 def classify(title: str, url: str) -> str:
     t = (title or "").lower()
@@ -108,9 +121,10 @@ def classify(title: str, url: str) -> str:
             return r["title"]
     for r in RULES:                 # keyword next
         for kw in (r.get("any") or []):
-            if kw in t:
+            # word-boundary match so "adl" doesn't fire inside "headlines"
+            if re.search(r"(?<!\w)" + re.escape(kw) + r"(?!\w)", t):
                 return r["title"]
-    return RULES[0]["title"]        # default to first section
+    return ORDER[0]                 # default to first DISPLAY section (CHUDS)
 
 # ---------- Load items ----------
 items = []
