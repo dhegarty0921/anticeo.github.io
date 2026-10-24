@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T00:54:58.009321Z",
+  "generated_at": "2026-10-24T01:18:15.383294Z",
   "headline": {
-    "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-    "url": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners"
+    "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates"
   },
   "sections": [
     {
@@ -171,7 +171,14 @@
           "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Sat, 24 Oct 2026 00:32:29 GMT",
+          "ts": "Sat, 24 Oct 2026 01:09:20 GMT",
+          "section": ""
+        },
+        {
+          "title": "A Very Suspicious Indictment of Two Former FBI Officials",
+          "url": "https://www.theatlantic.com/ideas/2026/10/fbi-indictments/689138/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-23T21:01:25-04:00",
           "section": ""
         },
         {
@@ -266,13 +273,6 @@
           "section": ""
         },
         {
-          "title": "The DEI Language That’s Doing More Harm Than Good",
-          "url": "https://www.theatlantic.com/newsletters/2026/10/democrats-race-dei-hiring-edward-markey/689131/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-23T13:12:00-04:00",
-          "section": ""
-        },
-        {
           "title": "Affirming Human Dignity Across the Board",
           "url": "https://www.christianitytoday.com/2026/10/affirming-human-dignity-across-the-board/",
           "source": "Christianity Today",
@@ -299,24 +299,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 24 Oct 2026 00:50:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo",
+          "url": "https://www.aljazeera.com/news/2026/10/24/who-announces-start-of-ebola-vaccine-clinical-trial-in-dr-congo?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 24 Oct 2026 00:27:21 +0000",
+          "section": ""
+        },
+        {
           "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 24 Oct 2026 00:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 23 Oct 2026 23:25:11 +0000",
-          "section": ""
-        },
-        {
-          "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
-          "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 23 Oct 2026 23:10:54 +0000",
           "section": ""
         },
         {
