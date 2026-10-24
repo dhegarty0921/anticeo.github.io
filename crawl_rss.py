@@ -17,6 +17,9 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleW
 FALLBACKS = {
     "https://electronicintifada.net/rss.xml":
         "https://news.google.com/rss/search?q=site:electronicintifada.net&hl=en-US&gl=US&ceid=US:en",
+    # Personal blog may block GitHub Actions IPs like EI does; mirror ready.
+    "https://mikopeled.com/feed/":
+        "https://news.google.com/rss/search?q=site:mikopeled.com&hl=en-US&gl=US&ceid=US:en",
 }
 # Per-feed section override: every item from a listed feed lands in the given
 # section, regardless of title keywords or domain classification in build_json.py.
@@ -27,6 +30,19 @@ SECTION_HINT = {
     "https://electronicintifada.net/rss.xml": "MILITARY INDUSTRIAL COMPLEX",
     "https://headlineusa.com/author/ksilva/feed/": "PARA POLITICAL INTRIGUE",
     "https://www.globalresearch.ca/feed/": "MILITARY INDUSTRIAL COMPLEX",
+    # New section: author feeds pinned wholesale (their beats span the theme)
+    "https://mikopeled.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://news.google.com/rss/search?q=site:davidsheen.com&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+}
+
+# Clean display labels for feeds whose <title> is a search query (Google News
+# mirrors) rather than a publication name.
+SOURCE_LABEL = {
+    "https://news.google.com/rss/search?q=site:davidsheen.com&hl=en-US&gl=US&ceid=US:en": "David Sheen",
+    "https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en": "Gideon Levy (Haaretz)",
+    "https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en": "Wallace Shawn (NYRB)",
 }
 
 for url in src.get("feeds", []):
@@ -38,7 +54,7 @@ for url in src.get("feeds", []):
         print(f"WARNING: feed failed, skipping: {url} ({type(ex).__name__}: {ex})", file=sys.stderr)
         per_feed.append([])
         continue
-    source = d.feed.get("title","").strip()
+    source = SOURCE_LABEL.get(url) or d.feed.get("title","").strip()
     used_fallback = False
     if not d.entries and url in FALLBACKS:
         try:

@@ -59,11 +59,16 @@ def dedupe_by_url(items):
             out.append(it); seen.add(u)
     return out
 
+# Hosts whose items bypass the per-domain caps: news.google.com is a proxy
+# for several DISTINCT real sources (site: mirrors), and the caps exist to
+# stop one site dominating — counting the proxy would defeat that.
+CAP_EXEMPT_HOSTS = {"news.google.com"}
+
 def cap_per_domain(items, max_per: int):
     counts, out = {}, []
     for it in items:
         host = _host(it.get("url",""))
-        if not host:  # keep unknowns
+        if not host or host in CAP_EXEMPT_HOSTS:  # keep unknowns & proxy hosts
             out.append(it); continue
         if counts.get(host, 0) < max_per:
             out.append(it)
@@ -76,10 +81,11 @@ def cap_per_domain_global(sections, max_per: int):
         kept = []
         for it in sec.get("items", []):
             host = _host(it.get("url",""))
-            if not host or counts.get(host, 0) < max_per:
+            if not host or host in CAP_EXEMPT_HOSTS:
+                kept.append(it); continue
+            if counts.get(host, 0) < max_per:
                 kept.append(it)
-                if host:
-                    counts[host] = counts.get(host, 0) + 1
+                counts[host] = counts.get(host, 0) + 1
         sec["items"] = kept
     return sections
 

@@ -45,6 +45,12 @@ feeds:
   - https://www.dropsitenews.com/feed/ # Drop Site News (investigative)
   - https://headlineusa.com/author/ksilva/feed/ # Ken Silva @ Headline USA (FBI/DOJ/crime investigations)
 
+ # --- SETTLER COLONIAL STATE FALSE FLAG LIES (Israel->Iran threats, ADL/AIPAC, Netanyahu/Ben-Gvir) ---
+  - https://mikopeled.com/feed/ # Miko Peled (blog)
+  - https://news.google.com/rss/search?q=site:davidsheen.com&hl=en-US&gl=US&ceid=US:en # David Sheen (via Google News mirror; no native feed)
+  - https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en # Gideon Levy @ Haaretz (via Google News mirror; Haaretz blocks bots)
+  - https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en # Wallace Shawn @ NYRB (via Google News mirror; no author feed)
+
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.npr.org/rss/rss.php?id=1001
