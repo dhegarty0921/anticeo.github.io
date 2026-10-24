@@ -30,7 +30,6 @@ FALLBACKS = {
 # news.google.com instead of the real domain; now also pins author/aggregated
 # feeds whose domain mapping or keyword mix would misclassify them.)
 SECTION_HINT = {
-    "https://electronicintifada.net/rss.xml": "MILITARY INDUSTRIAL COMPLEX",
     "https://headlineusa.com/author/ksilva/feed/": "PARA POLITICAL INTRIGUE",
     "https://www.globalresearch.ca/feed/": "MILITARY INDUSTRIAL COMPLEX",
     # New section: author feeds pinned wholesale (their beats span the theme)
@@ -43,6 +42,10 @@ SECTION_HINT = {
     "https://mondoweiss.net/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     "https://www.972mag.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     "https://www.middleeastmonitor.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    # Repinned from MILITARY INDUSTRIAL COMPLEX / keyword routing: both beats
+    # are squarely the settler-colonial theme.
+    "https://electronicintifada.net/rss.xml": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://www.mintpressnews.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     # Palestine Chronicle intentionally UNPINNED: Gaza war coverage classifies
     # into MILITARY INDUSTRIAL COMPLEX by keyword.
 }
