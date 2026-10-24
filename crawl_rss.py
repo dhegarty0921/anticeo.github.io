@@ -20,6 +20,9 @@ FALLBACKS = {
     # Personal blog may block GitHub Actions IPs like EI does; mirror ready.
     "https://mikopeled.com/feed/":
         "https://news.google.com/rss/search?q=site:mikopeled.com&hl=en-US&gl=US&ceid=US:en",
+    # Cloudflare-fronted; GitHub Actions IPs usually get a challenge page.
+    "https://www.palestinechronicle.com/feed/":
+        "https://news.google.com/rss/search?q=site:palestinechronicle.com&hl=en-US&gl=US&ceid=US:en",
 }
 # Per-feed section override: every item from a listed feed lands in the given
 # section, regardless of title keywords or domain classification in build_json.py.
@@ -35,6 +38,13 @@ SECTION_HINT = {
     "https://news.google.com/rss/search?q=site:davidsheen.com&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     "https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     "https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    # Theme publications pinned wholesale (from David Sheen's portfolio list)
+    "https://thegrayzone.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://mondoweiss.net/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://www.972mag.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    "https://www.middleeastmonitor.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    # Palestine Chronicle intentionally UNPINNED: Gaza war coverage classifies
+    # into MILITARY INDUSTRIAL COMPLEX by keyword.
 }
 
 # Clean display labels for feeds whose <title> is a search query (Google News

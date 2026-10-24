@@ -50,8 +50,16 @@ feeds:
   - https://news.google.com/rss/search?q=site:davidsheen.com&hl=en-US&gl=US&ceid=US:en # David Sheen (via Google News mirror; no native feed)
   - https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en # Gideon Levy @ Haaretz (via Google News mirror; Haaretz blocks bots)
   - https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en # Wallace Shawn @ NYRB (via Google News mirror; no author feed)
+  - https://thegrayzone.com/feed/ # The Grayzone (Israel lobby/censorship investigations)
+  - https://mondoweiss.net/feed/ # Mondoweiss
+  - https://www.972mag.com/feed/ # +972 Magazine (Israeli far-right / Ben-Gvir beat)
+  - https://www.middleeastmonitor.com/feed/ # Middle East Monitor
+  - https://www.palestinechronicle.com/feed/ # Palestine Chronicle (Cloudflare; falls back to Google News mirror)
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
+  - https://truthdig.com/feed/
+  - https://forward.com/rss/
+  - https://www.merip.org/feed
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.npr.org/rss/rss.php?id=1001
   - https://www.thecanary.co/feed/
