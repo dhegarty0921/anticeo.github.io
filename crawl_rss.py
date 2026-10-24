@@ -53,6 +53,7 @@ SOURCE_LABEL = {
     "https://news.google.com/rss/search?q=site:davidsheen.com&hl=en-US&gl=US&ceid=US:en": "David Sheen",
     "https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en": "Gideon Levy (Haaretz)",
     "https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en": "Wallace Shawn (NYRB)",
+    "https://news.google.com/rss/search?q=%22Ben+Cohen%22+%22Ben+%26+Jerry%27s%22&hl=en-US&gl=US&ceid=US:en": "Ben Cohen (Ben & Jerry's)",
 }
 
 for url in src.get("feeds", []):
