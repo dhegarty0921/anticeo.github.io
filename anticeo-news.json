@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-24T11:47:23.605203Z",
+  "generated_at": "2026-10-24T12:06:25.476069Z",
   "headline": {
-    "title": "The rise of the economic populist: What voters want from both parties this year",
-    "url": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year"
+    "title": "AI Terrorism Is Just Terrorism",
+    "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+          "source": "NPR Topics: News",
+          "ts": "Sat, 24 Oct 2026 07:59:08 -0400",
+          "section": ""
+        },
+        {
+          "title": "Met Police say letter with claims about Meghan's father not shared with other law enforcement",
+          "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sat, 24 Oct 2026 11:58:14 GMT",
+          "section": ""
+        },
         {
           "title": "The rise of the economic populist: What voters want from both parties this year",
           "url": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
@@ -20,13 +34,6 @@
           "url": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
           "source": "NPR Topics: Politics",
           "ts": "Sat, 24 Oct 2026 07:42:06 -0400",
-          "section": ""
-        },
-        {
-          "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sat, 24 Oct 2026 11:23:59 GMT",
           "section": ""
         },
         {
@@ -48,13 +55,6 @@
           "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 24 Oct 2026 10:08:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-          "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-          "source": "NPR Topics: News",
-          "ts": "Sat, 24 Oct 2026 06:00:00 -0400",
           "section": ""
         },
         {
@@ -168,6 +168,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "AI Terrorism Is Just Terrorism",
+          "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-24T08:00:00-04:00",
+          "section": ""
+        },
+        {
           "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
           "url": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
           "source": "US news | The Guardian",
@@ -273,13 +280,6 @@
           "section": ""
         },
         {
-          "title": "Welcome to the Valley of Pain",
-          "url": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-23T14:28:51-04:00",
-          "section": ""
-        },
-        {
           "title": "Affirming Human Dignity Across the Board",
           "url": "https://www.christianitytoday.com/2026/10/affirming-human-dignity-across-the-board/",
           "source": "Christianity Today",
@@ -299,6 +299,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "First U.S. Navy Destroyer Enters Phase Two of DDG MOD 2.0 Modernization",
+          "url": "https://www.navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization/",
+          "source": "Naval News",
+          "ts": "Sat, 24 Oct 2026 11:59:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "Czech Republic advances media funding overhaul despite criticism",
+          "url": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 24 Oct 2026 11:50:32 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democracy by ZIP Code: Two Americas, one election",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 24 Oct 2026 11:44:16 +0000",
+          "section": ""
+        },
+        {
           "title": "Will Guinea-Bissau remain trapped in political chaos?",
           "url": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -310,20 +331,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 24 Oct 2026 11:01:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
-          "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 24 Oct 2026 10:59:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
-          "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 24 Oct 2026 10:47:07 +0000",
           "section": ""
         },
         {
@@ -422,13 +429,6 @@
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/10/kongsberg-demonstrates-containerised-nsm-in-a-box/",
           "source": "Naval News",
           "ts": "Fri, 23 Oct 2026 13:29:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Commanding the Depths: HAVELSAN’s Technological Approach to Underwater Operations",
-          "url": "https://www.navalnews.com/naval-news/2026/10/from-data-to-decisions-how-havelsan-transforms-underwater-command-and-control/",
-          "source": "Naval News",
-          "ts": "Fri, 23 Oct 2026 11:49:00 +0000",
           "section": ""
         },
         {
