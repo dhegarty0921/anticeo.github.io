@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import feedparser, yaml, pathlib, json, datetime
+import feedparser, yaml, pathlib, json, datetime, sys
 
 def nowz(): return datetime.datetime.now(datetime.timezone.utc).isoformat().replace("+00:00", "Z")
 
@@ -30,11 +30,23 @@ SECTION_HINT = {
 }
 
 for url in src.get("feeds", []):
-    d = feedparser.parse(url, request_headers=HEADERS)
+    # A single feed dropping the connection mid-body (chunked IncompleteRead)
+    # used to kill the whole run — log it and keep crawling the rest.
+    try:
+        d = feedparser.parse(url, request_headers=HEADERS)
+    except Exception as ex:
+        print(f"WARNING: feed failed, skipping: {url} ({type(ex).__name__}: {ex})", file=sys.stderr)
+        per_feed.append([])
+        continue
     source = d.feed.get("title","").strip()
     used_fallback = False
     if not d.entries and url in FALLBACKS:
-        d = feedparser.parse(FALLBACKS[url], request_headers=HEADERS)
+        try:
+            d = feedparser.parse(FALLBACKS[url], request_headers=HEADERS)
+        except Exception as ex:
+            print(f"WARNING: fallback failed, skipping: {FALLBACKS[url]} ({type(ex).__name__}: {ex})", file=sys.stderr)
+            per_feed.append([])
+            continue
         source = source + " (via Google News)" if source else "via Google News"
         used_fallback = True
     feed_items = []
