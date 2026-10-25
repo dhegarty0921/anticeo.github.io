@@ -57,6 +57,16 @@ feeds:
   - https://www.middleeastmonitor.com/feed/ # Middle East Monitor
   - https://www.palestinechronicle.com/feed/ # Palestine Chronicle (Cloudflare; falls back to Google News mirror)
 
+  # --- ICE IS A DRESS REHEARSAL FOR STATE REPRESSION (ICE raids/deportations/detention) ---
+  - https://latinorebels.com/feed/ # Latino Rebels (immigration/ICE beat, pinned)
+  - https://documentedny.com/feed/ # Documented NY (immigrant communities NYC, pinned)
+  - https://borderlessmag.org/feed/ # Borderless Magazine (immigration, pinned)
+  - https://immigrationimpact.com/feed/ # Immigration Impact (American Immigration Council)
+  - https://www.motherjones.com/feed/ # Mother Jones (ICE/deportation investigations)
+  - https://www.propublica.org/feed/ # ProPublica (immigration investigations)
+  - https://inthesetimes.com/feed # In These Times (immigration/labor)
+  - https://theappeal.org/feed/ # The Appeal (detention/deportation pipeline)
+
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://truthdig.com/feed/
   - https://forward.com/rss/

@@ -48,6 +48,11 @@ SECTION_HINT = {
     "https://www.mintpressnews.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     # Palestine Chronicle intentionally UNPINNED: Gaza war coverage classifies
     # into MILITARY INDUSTRIAL COMPLEX by keyword.
+    # Immigration-centric outlets pinned wholesale to the ICE section.
+    "https://latinorebels.com/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
+    "https://documentedny.com/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
+    "https://borderlessmag.org/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
+    "https://immigrationimpact.com/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
 }
 
 # Clean display labels for feeds whose <title> is a search query (Google News

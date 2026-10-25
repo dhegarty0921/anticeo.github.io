@@ -98,6 +98,18 @@ def cap_per_domain_global(sections, max_per: int):
 # so its specific keywords beat the generic "israel"/"iran" hits in MILITARY
 # INDUSTRIAL COMPLEX, but it still RENDERS at the bottom of the page.
 RULES = [
+    {"title":"ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
+     "domains":[],
+     "any":["ice","ice agents","abolish ice",
+            "immigration and customs enforcement",
+            "deportation","deportations","deported","deporting",
+            "immigration raid","immigration raids","ice raid","ice raids",
+            "detention","detainee","detained","detaining",
+            "immigrant","immigrants","immigration","migrant","migrants",
+            "asylum","daca","dreamers","sanctuary city","sanctuary cities",
+            "border patrol","customs and border protection","cbp",
+            "kristi noem","tom homan","greg bovino",
+            "masked agents","masked officer","masked officers"]},
     {"title":"SETTLER COLONIAL STATE FALSE FLAG LIES",
      "domains":[],
      "any":["netanyahu","ben-gvir","ben gvir","bengvir","gvir","itamar",
@@ -120,7 +132,8 @@ RULES = [
      "any":["cia","fbi","nsa","surveillance","whistleblower","leak","foia","spy","informant","homeland security","doj","dhs","patriot act","9/11","oklahoma city","okc bombing"]}
 ]
 ORDER = ["CHUDS VS SHITLIBS","CULTURE WAR","MILITARY INDUSTRIAL COMPLEX",
-         "PARA POLITICAL INTRIGUE","SETTLER COLONIAL STATE FALSE FLAG LIES"]
+         "PARA POLITICAL INTRIGUE","SETTLER COLONIAL STATE FALSE FLAG LIES",
+         "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"]
 
 def classify(title: str, url: str) -> str:
     t = (title or "").lower()
