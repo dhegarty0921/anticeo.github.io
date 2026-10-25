@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T21:47:23.603851Z",
+  "generated_at": "2026-10-25T22:04:45.079321Z",
   "headline": {
-    "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-    "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss"
+    "title": "Canada’s Trump Fixation Fades",
+    "url": "https://www.nationalreview.com/2026/10/canadas-trump-fixation-fades/"
   },
   "sections": [
     {
@@ -12,7 +12,7 @@
           "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
           "url": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 25 Oct 2026 21:37:42 +0000",
+          "ts": "Sun, 25 Oct 2026 21:37:43 +0000",
           "section": ""
         },
         {
@@ -23,7 +23,7 @@
           "section": ""
         },
         {
-          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
           "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Sun, 25 Oct 2026 21:25:04 GMT",
@@ -40,7 +40,7 @@
           "title": "Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says",
           "url": "https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 25 Oct 2026 20:33:30 +0000",
+          "ts": "Sun, 25 Oct 2026 20:33:31 +0000",
           "section": ""
         },
         {
@@ -217,6 +217,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Canada’s Trump Fixation Fades",
+          "url": "https://www.nationalreview.com/2026/10/canadas-trump-fixation-fades/",
+          "source": "National Review",
+          "ts": "Sun, 25 Oct 2026 21:58:24 +0000",
+          "section": ""
+        },
+        {
           "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
           "url": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
           "source": "US news | The Guardian",
@@ -287,13 +294,6 @@
           "section": ""
         },
         {
-          "title": "The Earlobe and the Unborn Child",
-          "url": "https://www.nationalreview.com/2026/10/the-ear-lobe-and-the-unborn-child/",
-          "source": "National Review",
-          "ts": "Sun, 25 Oct 2026 10:30:49 +0000",
-          "section": ""
-        },
-        {
           "title": "Can machines be war criminals?",
           "url": "https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility",
           "source": "Vox",
@@ -348,6 +348,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+          "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 21:50:36 +0000",
+          "section": ""
+        },
+        {
           "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
           "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -359,13 +366,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 25 Oct 2026 21:39:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump VS California",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 21:29:23 +0000",
           "section": ""
         },
         {
