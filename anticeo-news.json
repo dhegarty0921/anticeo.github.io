@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T09:48:16.014906Z",
+  "generated_at": "2026-10-25T10:04:55.816504Z",
   "headline": {
-    "title": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
-    "url": "https://www.middleeastmonitor.com/20261025-cryptocurrencies-cannot-circumvent-sanctions-bank-of-israel-responds-to-netanyahu/"
+    "title": "Can machines be war criminals?",
+    "url": "https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility"
   },
   "sections": [
     {
@@ -30,8 +30,8 @@
           "section": ""
         },
         {
-          "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
-          "url": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 25 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -44,8 +44,8 @@
           "section": ""
         },
         {
-          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-          "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+          "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 25 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -245,6 +245,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Can machines be war criminals?",
+          "url": "https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility",
+          "source": "Vox",
+          "ts": "2026-10-25T06:00:00-04:00",
+          "section": ""
+        },
+        {
           "title": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
           "url": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
           "source": "US news | The Guardian",
@@ -336,13 +343,6 @@
           "section": ""
         },
         {
-          "title": "Trump is trying to overturn an election that hasn&#8217;t happened yet",
-          "url": "https://www.vox.com/politics/507591/trump-mary-peltola-dans-sullivan-lawsuit",
-          "source": "Vox",
-          "ts": "2026-10-24T06:00:00-04:00",
-          "section": ""
-        },
-        {
           "title": "El-Sayed’s campaign test: Can he win over Black and Jewish voters?",
           "url": "https://religionnews.com/2026/10/24/the-test-of-abdul-el-sayeds-campaign-for-senate-can-he-win-over-over-black-and-jewish-voters/",
           "source": "RNS",
@@ -375,6 +375,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Funding, force-structure issues could hinder Hegseth’s new autonomous command",
+          "url": "https://www.defenseone.com/threats/2026/10/funding-hegseth-autonomous-command/416800/",
+          "source": "Defense One - All Content",
+          "ts": "Sun, 25 Oct 2026 06:00:00 -0400",
+          "section": ""
+        },
         {
           "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
           "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-rdf",
@@ -537,13 +544,6 @@
           "section": ""
         },
         {
-          "title": "Qatar looks to bolster its military power with new hub, partnerships",
-          "url": "https://www.defenseone.com/policy/2026/10/qatar-looks-bolster-its-military-power-new-hub-partnerships/416775/",
-          "source": "Defense One - All Content",
-          "ts": "Thu, 22 Oct 2026 20:30:31 -0400",
-          "section": ""
-        },
-        {
           "title": "Amid Reports of Coming US-Israeli Strikes, Iran Warns It Will Significantly Expand Retaliatory Attacks",
           "url": "https://news.antiwar.com/2026/10/22/amid-reports-of-coming-us-israeli-strikes-iran-warns-it-will-significantly-expand-retaliatory-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=amid-reports-of-coming-us-israeli-strikes-iran-warns-it-will-significantly-expand-retaliatory-attacks",
           "source": "News From Antiwar.com",
@@ -604,6 +604,13 @@
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "Hegseth Built a New Pentagon Office for Religion. Military Religious Leaders Wish He Hadn’t.",
+          "url": "https://theintercept.com/2026/10/25/hegseth-military-christian-religion/",
+          "source": "The Intercept",
+          "ts": "Sun, 25 Oct 2026 10:00:00 +0000",
+          "section": ""
+        },
         {
           "title": "This Week In Techdirt History: October 18th – 24th",
           "url": "https://www.techdirt.com/2026/10/24/this-week-in-techdirt-history-october-18th-24th/",
@@ -680,13 +687,6 @@
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Fri, 23 Oct 2026 19:53:57 +0000",
           "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "The Intercept Live in Conversation With Robert Reich",
-          "url": "https://theintercept.com/2026/10/23/robert-reich-live-midterm-elections-democracy/",
-          "source": "The Intercept",
-          "ts": "Fri, 23 Oct 2026 18:34:26 +0000",
-          "section": ""
         },
         {
           "title": "Two States Can Now Restrict Social Media Access—Here’s What To Do Next",
@@ -824,13 +824,6 @@
           "url": "https://mondoweiss.net/2026/10/how-the-upcoming-u-s-and-israeli-elections-could-lead-to-the-third-round-of-the-iran-war/",
           "source": "Mondoweiss",
           "ts": "Fri, 23 Oct 2026 16:38:19 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Water crisis in Israel can’t be separated from Gaza genocide - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2NiT1kta2kxVU96OVNvMF9qdjNwYVV0UmREdjl4X3V1VTFOcU1ZcG50dlRRdGFpTDg0ZVhyTEs3RHctZDhVeW1jTHVlMjFhYUxqUkp2MXRuZGMtSU9DbkxfZWR4M1owWWF2XzBkT21YZWRvd2hDOWVpcVBmbjA2aU5RckNob0hBNHNPZk5kRVVnalJFVFQ4cHZDWWQ?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 22 Oct 2026 14:49:59 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
