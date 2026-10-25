@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T12:06:49.287622Z",
+  "generated_at": "2026-10-25T12:31:44.845659Z",
   "headline": {
-    "title": "Senior Iranian lawmaker threatens to target Israel if Iran comes under attack",
-    "url": "https://www.middleeastmonitor.com/20261025-senior-iranian-lawmaker-threatens-to-target-israel-if-iran-comes-under-attack/"
+    "title": "What do you do when your love and your life are in two different places?",
+    "url": "https://www.vox.com/future-perfect/507481/big-life-decision-long-distance-relationship-love-family-home"
   },
   "sections": [
     {
@@ -12,7 +12,21 @@
           "title": "Burnham open to 'honest discussion' on EU free movement",
           "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Sun, 25 Oct 2026 11:49:08 GMT",
+          "ts": "Sun, 25 Oct 2026 12:11:23 GMT",
+          "section": ""
+        },
+        {
+          "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 25 Oct 2026 08:06:29 -0400",
+          "section": ""
+        },
+        {
+          "title": "Democrats see an opportunity to tilt Pennsylvania's state legislature their way",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6003880/democrats-see-an-opportunity-to-tilt-pennsylvanias-state-legislature-their-way",
+          "source": "NPR Topics: Politics",
+          "ts": "Sun, 25 Oct 2026 08:06:25 -0400",
           "section": ""
         },
         {
@@ -20,13 +34,6 @@
           "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
           "source": "NPR Topics: News",
           "ts": "Sun, 25 Oct 2026 07:24:58 -0400",
-          "section": ""
-        },
-        {
-          "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
-          "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
-          "source": "NPR Topics: News",
-          "ts": "Sun, 25 Oct 2026 06:00:00 -0400",
           "section": ""
         },
         {
@@ -51,13 +58,6 @@
           "section": ""
         },
         {
-          "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-          "url": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
-          "source": "NPR Topics: Politics",
-          "ts": "Sun, 25 Oct 2026 05:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "Meghan broke contact with father in letter citing abuse claims",
           "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -69,6 +69,13 @@
           "url": "https://www.unz.com/article/twilight-of-the-gods/",
           "source": "The Unz Review:",
           "ts": "Sun, 25 Oct 2026 04:00:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "OF COURSE Trump Is Gay, by Kevin Barrett",
+          "url": "https://www.unz.com/kbarrett/of-course-trump-is-gay/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 25 Oct 2026 04:00:15 +0000",
           "section": ""
         },
         {
@@ -132,13 +139,6 @@
           "url": "https://www.unz.com/cjohnstone/there-are-polymarket-ads-in-fortune-cookies/",
           "source": "The Unz Review:",
           "ts": "Sat, 24 Oct 2026 04:20:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "The US Midterm Election Is More Important Than Voters Realize, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/the-us-midterm-election-is-more-important-than-voters-realize/",
-          "source": "The Unz Review:",
-          "ts": "Sat, 24 Oct 2026 04:20:32 +0000",
           "section": ""
         },
         {
@@ -245,6 +245,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "What do you do when your love and your life are in two different places?",
+          "url": "https://www.vox.com/future-perfect/507481/big-life-decision-long-distance-relationship-love-family-home",
+          "source": "Vox",
+          "ts": "2026-10-25T08:30:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Bird flu outbreak at Utah mink farm sparks concerns about government response",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/bird-flu-utah-mink-farm-trump-administration",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 25 Oct 2026 12:00:03 GMT",
+          "section": ""
+        },
+        {
           "title": "The Year AI Ate Math",
           "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/?utm_source=feed",
           "source": "The Atlantic",
@@ -308,13 +322,6 @@
           "section": ""
         },
         {
-          "title": "‘Talking to every single person matters’: ‘prairie populists’ canvass the rural US heartland to win in midterms",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 25 Oct 2026 10:00:02 GMT",
-          "section": ""
-        },
-        {
           "title": "Can machines be war criminals?",
           "url": "https://www.vox.com/future-perfect/507570/ai-weapons-war-crime-responsibility",
           "source": "Vox",
@@ -326,13 +333,6 @@
           "url": "https://religionnews.com/2026/10/24/nauseously-optimistic-the-2026-vote-through-a-legal-lens/",
           "source": "RNS",
           "ts": "Sat, 24 Oct 2026 22:08:40 +0000",
-          "section": ""
-        },
-        {
-          "title": "The one thing everyone can do to fight for free and fair elections",
-          "url": "https://www.vox.com/america-actually/507517/2026-midterm-elections-security-integrity-right-to-vote",
-          "source": "Vox",
-          "ts": "2026-10-24T08:06:00-04:00",
           "section": ""
         },
         {
@@ -376,6 +376,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+          "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 12:17:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Oil slick from tanker in Hormuz Strait washes up on UAE beaches",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/oil-slick-from-tanker-in-hormuz-strait-washes-up-on-uae-beaches?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 12:05:16 +0000",
+          "section": ""
+        },
+        {
+          "title": "France: Hundreds arrested after nationwide protests",
+          "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-25T12:05:00Z",
+          "section": ""
+        },
+        {
           "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
           "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -394,27 +415,6 @@
           "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-25T10:52:00Z",
-          "section": ""
-        },
-        {
-          "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
-          "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 10:50:38 +0000",
-          "section": ""
-        },
-        {
-          "title": "Police in Albania filmed beating protester unconscious",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 10:45:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-          "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-25T10:42:00Z",
           "section": ""
         },
         {
@@ -764,24 +764,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
-          "title": "Senior Iranian lawmaker threatens to target Israel if Iran comes under attack",
-          "url": "https://www.middleeastmonitor.com/20261025-senior-iranian-lawmaker-threatens-to-target-israel-if-iran-comes-under-attack/",
+          "title": "UK urged to impose ‘full sanctions and political isolation’ of Israel over situation in West Bank",
+          "url": "https://www.middleeastmonitor.com/20261025-uk-urged-to-impose-full-sanctions-and-political-isolation-of-israel-over-situation-in-west-bank/",
           "source": "Middle East Monitor",
-          "ts": "Sun, 25 Oct 2026 12:00:56 +0000",
+          "ts": "Sun, 25 Oct 2026 12:27:24 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Cryptocurrencies cannot circumvent sanctions: Bank of Israel responds to Netanyahu",
-          "url": "https://www.middleeastmonitor.com/20261025-cryptocurrencies-cannot-circumvent-sanctions-bank-of-israel-responds-to-netanyahu/",
+          "title": "Saudi-led coalition intercepts 10 Houthi ballistic missiles targeting southern Saudi Arabia",
+          "url": "https://www.middleeastmonitor.com/20261025-saudi-led-coalition-intercepts-10-houthi-ballistic-missiles-targeting-southern-saudi-arabia/",
           "source": "Middle East Monitor",
-          "ts": "Sun, 25 Oct 2026 09:36:39 +0000",
+          "ts": "Sun, 25 Oct 2026 12:22:44 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Terrorists in the West Bank: Settler violence and the excusing hand",
-          "url": "https://www.middleeastmonitor.com/20261025-terrorists-in-the-west-bank-settler-violence-and-the-excusing-hand/",
+          "title": "Iran says ‘nothing will be same’ in region after war with US",
+          "url": "https://www.middleeastmonitor.com/20261025-iran-says-nothing-will-be-same-in-region-after-war-with-us/",
           "source": "Middle East Monitor",
-          "ts": "Sun, 25 Oct 2026 09:31:56 +0000",
+          "ts": "Sun, 25 Oct 2026 12:15:25 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
