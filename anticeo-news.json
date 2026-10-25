@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-10-25T20:35:38.986626Z",
+  "generated_at": "2026-10-25T20:47:17.855482Z",
   "headline": {
-    "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
-    "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss"
+    "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+    "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+          "source": "NPR Topics: News",
+          "ts": "Sun, 25 Oct 2026 16:35:35 -0400",
+          "section": ""
+        },
+        {
+          "title": "Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 25 Oct 2026 20:33:30 +0000",
+          "section": ""
+        },
         {
           "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
           "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
@@ -58,13 +72,6 @@
           "section": ""
         },
         {
-          "title": "Peltola Postpones Events After ‘Minor Injuries’ in Automobile Collision, Campaign Says",
-          "url": "https://www.nytimes.com/2026/10/25/us/politics/peltola-automobile-collision-campaign-events-postponed.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 25 Oct 2026 18:35:35 +0000",
-          "section": ""
-        },
-        {
           "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
           "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
           "source": "NPR Topics: Politics",
@@ -83,13 +90,6 @@
           "url": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 25 Oct 2026 16:12:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israelis have changed. Will they change their leadership?",
-          "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-          "source": "NPR Topics: News",
-          "ts": "Sun, 25 Oct 2026 12:00:00 -0400",
           "section": ""
         },
         {
@@ -217,6 +217,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 25 Oct 2026 20:28:27 GMT",
+          "section": ""
+        },
+        {
           "title": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
           "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
           "source": "US news | The Guardian",
@@ -235,13 +242,6 @@
           "url": "https://www.theatlantic.com/books/2026/10/poem-howard-altmann-peeling/689127/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-25T12:00:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Twelve injured, including six juveniles, in shooting near Florida university",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 25 Oct 2026 15:19:47 GMT",
           "section": ""
         },
         {
@@ -583,13 +583,6 @@
           "url": "https://warontherocks.com/cogs-of-war/the-endless-chip-war/",
           "source": "War on the Rocks",
           "ts": "Thu, 22 Oct 2026 08:00:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Explosions Reported in Southern Iran as Axios Reveals Israeli Sortie - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWFRzZGZSRXp0Z2R0NXQtYkROS05NRi1CeHR5MW1Ya21lc2Q3MGlNaUpZY0wxU3diNWxJR3RYWktYZ2NSN2R6SGZBNEZiLXFRZXBZdnloYkVoSWVYVTZXREZrNWtTMXREOVk2NEg3T3VobUdFOWZ2QzVHTHBhRDdGa3BFUFcyZG4zRkhQOWkwNGhJdTlnUzhKUWMwZHR5c0paTUJJbjlidw?oc=5",
-          "source": "via Google News",
-          "ts": "Wed, 21 Oct 2026 20:44:41 GMT",
           "section": ""
         }
       ]
