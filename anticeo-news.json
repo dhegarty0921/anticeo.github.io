@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T08:06:11.455062Z",
+  "generated_at": "2026-10-25T08:29:26.546587Z",
   "headline": {
     "title": "Meghan broke contact with father in letter citing abuse claims",
     "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss"
@@ -20,13 +20,6 @@
           "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
           "source": "NPR Topics: News",
           "ts": "Sun, 25 Oct 2026 03:15:00 -0400",
-          "section": ""
-        },
-        {
-          "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-          "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sun, 25 Oct 2026 06:00:15 GMT",
           "section": ""
         },
         {
@@ -69,6 +62,13 @@
           "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 25 Oct 2026 01:06:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "Burnham open to 'honest discussion' on EU free movement",
+          "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sun, 25 Oct 2026 00:33:19 GMT",
           "section": ""
         },
         {
@@ -135,10 +135,10 @@
           "section": ""
         },
         {
-          "title": "Berger’s Blade on Botticelli, by Tobias Langdon",
-          "url": "https://www.unz.com/article/bergers-blade-on-botticelli-the-war-on-the-white-west-and-a-culture-of-cutting-critique/",
+          "title": "Relax, It’s Only an Exxon Valdez on Steroids, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/relax-its-only-an-exxon-valdez-on-steroids/",
           "source": "The Unz Review:",
-          "ts": "Sat, 24 Oct 2026 04:10:44 +0000",
+          "ts": "Sat, 24 Oct 2026 04:20:12 +0000",
           "section": ""
         },
         {
@@ -376,6 +376,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+          "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 07:59:38 +0000",
+          "section": ""
+        },
+        {
           "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
           "url": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -394,13 +401,6 @@
           "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 25 Oct 2026 07:28:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israel to close occupied West Bank crossings as Hebron lockdown continues",
-          "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 07:20:36 +0000",
           "section": ""
         },
         {
@@ -757,7 +757,7 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
-          "title": "Opinion | Four more years of Netanyahu will bring Israel to its knees - Haaretz",
+          "title": "Opinion | Four more years of Netanyahu will finally bring Israel to its knees - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQlpLMmNwUW5ISnRWT3ZiSmg0dndpM0FfZHl4SU1WSW5FNmFzTk5OR2gzRXRmb3ljNVY3UGVXLUczd0pfWDh2cl82eUJlMlVJUHVwX0pLTy1PLUZuVzE1SVVVMGFDdjRVQWpSX1RvYVRUdDkxMFlxMm9SM3VlNnlSbC13NkwzdVZzLWdJU0FkVUgwSDRjWncxYlVWdmlEUmF0cnJqOVIxM0Vyel9jNUhDblJmZjFYaHF0eDlzV29PT3JodVBPX3NlM2JrZXF5Q1NpVk0zZjVqUC1qdkdBVF9McXl1UEVfZWpnM25STUNHN3ltRWhKZFZOSWIxQQ?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Sun, 25 Oct 2026 02:05:00 GMT",
