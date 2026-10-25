@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T10:47:27.072876Z",
+  "generated_at": "2026-10-25T11:04:34.543245Z",
   "headline": {
-    "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-    "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf"
+    "title": "When AI agents run your life",
+    "url": "https://www.vox.com/explain-it-to-me/507002/ai-agents-muse-dots-personal-assistant"
   },
   "sections": [
     {
@@ -245,6 +245,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "When AI agents run your life",
+          "url": "https://www.vox.com/explain-it-to-me/507002/ai-agents-muse-dots-personal-assistant",
+          "source": "Vox",
+          "ts": "2026-10-25T07:00:00-04:00",
+          "section": ""
+        },
+        {
           "title": "We’re Doomed",
           "url": "https://www.nationalreview.com/2026/10/were-doomed/",
           "source": "National Review",
@@ -329,13 +336,6 @@
           "section": ""
         },
         {
-          "title": "A truck full of cows crashed in Kansas City. It reveals a bigger everyday horror.",
-          "url": "https://www.vox.com/future-perfect/507513/kansas-city-cattle-truck-crash-livestock-transport",
-          "source": "Vox",
-          "ts": "2026-10-24T07:30:00-04:00",
-          "section": ""
-        },
-        {
           "title": "Video Roundtable: When Is It OK to Cancel Church?",
           "url": "https://www.christianitytoday.com/2026/10/canceling-church/",
           "source": "Christianity Today",
@@ -376,6 +376,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+          "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 10:50:38 +0000",
+          "section": ""
+        },
+        {
+          "title": "Police in Albania filmed beating protester unconscious",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 10:45:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+          "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 10:42:51 +0000",
+          "section": ""
+        },
+        {
           "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
           "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -390,31 +411,10 @@
           "section": ""
         },
         {
-          "title": "Pakistan axe Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
-          "url": "https://www.aljazeera.com/sports/2026/10/25/pakistan-axe-shan-masood-from-sri-lanka-test-squad-as-agha-rizwan-return?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 10:27:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 10:14:43 +0000",
-          "section": ""
-        },
-        {
           "title": "Funding, force-structure issues could hinder Hegseth’s new autonomous command",
           "url": "https://www.defenseone.com/threats/2026/10/funding-hegseth-autonomous-command/416800/",
           "source": "Defense One - All Content",
           "ts": "Sun, 25 Oct 2026 06:00:00 -0400",
-          "section": ""
-        },
-        {
-          "title": "Qatar official calls for peace and security to boost trade, investment",
-          "url": "https://www.aljazeera.com/news/2026/10/25/qatar-official-calls-for-peace-and-security-to-boost-trade-investment?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 09:57:40 +0000",
           "section": ""
         },
         {
@@ -824,6 +824,13 @@
           "url": "https://mondoweiss.net/2026/10/how-the-upcoming-u-s-and-israeli-elections-could-lead-to-the-third-round-of-the-iran-war/",
           "source": "Mondoweiss",
           "ts": "Fri, 23 Oct 2026 16:38:19 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Water crisis in Israel can’t be separated from Gaza genocide - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2NiT1kta2kxVU96OVNvMF9qdjNwYVV0UmREdjl4X3V1VTFOcU1ZcG50dlRRdGFpTDg0ZVhyTEs3RHctZDhVeW1jTHVlMjFhYUxqUkp2MXRuZGMtSU9DbkxfZWR4M1owWWF2XzBkT21YZWRvd2hDOWVpcVBmbjA2aU5RckNob0hBNHNPZk5kRVVnalJFVFQ4cHZDWWQ?oc=5",
+          "source": "via Google News",
+          "ts": "Thu, 22 Oct 2026 14:49:59 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
