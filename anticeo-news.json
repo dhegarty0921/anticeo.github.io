@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-25T15:04:34.512657Z",
+  "generated_at": "2026-10-25T15:22:44.982581Z",
   "headline": {
-    "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-    "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending"
+    "title": "Twelve injured, including six juveniles, in shooting near Florida university",
+    "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university"
   },
   "sections": [
     {
@@ -238,6 +238,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Twelve injured, including six juveniles, in shooting near Florida university",
+          "url": "https://www.theguardian.com/us-news/2026/oct/25/eleven-sustain-gunshot-wounds-in-shooting-near-florida-university",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 25 Oct 2026 15:19:47 GMT",
+          "section": ""
+        },
+        {
           "title": "‘Prairie Populists’ fight to win back rural voters long ceded to Republicans",
           "url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
           "source": "US news | The Guardian",
@@ -249,13 +256,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
           "source": "US news | The Guardian",
           "ts": "Sun, 25 Oct 2026 14:16:37 GMT",
-          "section": ""
-        },
-        {
-          "title": "A child of Japanese incarceration’s call to arms: ‘The lessons of Manzanar have never been more urgent’",
-          "url": "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 25 Oct 2026 14:00:04 GMT",
           "section": ""
         },
         {
@@ -376,10 +376,24 @@
           "section": ""
         },
         {
-          "title": "Gaza content creator tells Al Jazeera how much her award win means",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
+          "title": "Murder in Malaysia’s Beverly Hills | True Crime Reports",
+          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/10/25/murder-in-malaysias-beverly-hills-true-crime-reports?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 14:16:06 +0000",
+          "ts": "Sun, 25 Oct 2026 14:54:53 +0000",
+          "section": ""
+        },
+        {
+          "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
+          "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 14:47:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
+          "url": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 25 Oct 2026 14:46:38 +0000",
           "section": ""
         },
         {
@@ -387,20 +401,6 @@
           "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-25T14:13:00Z",
-          "section": ""
-        },
-        {
-          "title": "Bangladesh per capita GDP forecast to outstrip India’s: What does it mean?",
-          "url": "https://www.aljazeera.com/news/2026/10/25/bangladesh-per-capita-gdp-forecast-to-outstrip-indias-what-does-it-mean?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 14:11:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
-          "url": "https://www.aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 25 Oct 2026 14:03:17 +0000",
           "section": ""
         },
         {
@@ -831,13 +831,6 @@
           "url": "https://thegrayzone.com/2026/10/23/israel-demolish-journalist-home/",
           "source": "The Grayzone",
           "ts": "Fri, 23 Oct 2026 19:22:39 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Water crisis in Israel can’t be separated from Gaza genocide - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2NiT1kta2kxVU96OVNvMF9qdjNwYVV0UmREdjl4X3V1VTFOcU1ZcG50dlRRdGFpTDg0ZVhyTEs3RHctZDhVeW1jTHVlMjFhYUxqUkp2MXRuZGMtSU9DbkxfZWR4M1owWWF2XzBkT21YZWRvd2hDOWVpcVBmbjA2aU5RckNob0hBNHNPZk5kRVVnalJFVFQ4cHZDWWQ?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 22 Oct 2026 14:49:59 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
