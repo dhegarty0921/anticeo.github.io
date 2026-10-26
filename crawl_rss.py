@@ -53,6 +53,7 @@ SECTION_HINT = {
     "https://documentedny.com/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
     "https://borderlessmag.org/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
     "https://immigrationimpact.com/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
+    "https://news.google.com/rss/search?q=site:nipnlg.org&hl=en-US&gl=US&ceid=US:en": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
 }
 
 # Clean display labels for feeds whose <title> is a search query (Google News
@@ -62,6 +63,7 @@ SOURCE_LABEL = {
     "https://news.google.com/rss/search?q=site:haaretz.com+%22Gideon+Levy%22&hl=en-US&gl=US&ceid=US:en": "Gideon Levy (Haaretz)",
     "https://news.google.com/rss/search?q=site:nybooks.com+%22Wallace+Shawn%22&hl=en-US&gl=US&ceid=US:en": "Wallace Shawn (NYRB)",
     "https://news.google.com/rss/search?q=%22Ben+Cohen%22+%22Ben+%26+Jerry%27s%22&hl=en-US&gl=US&ceid=US:en": "Ben Cohen (Ben & Jerry's)",
+    "https://news.google.com/rss/search?q=site:nipnlg.org&hl=en-US&gl=US&ceid=US:en": "National Immigration Project",
 }
 
 for url in src.get("feeds", []):
