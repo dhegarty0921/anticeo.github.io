@@ -128,7 +128,10 @@ RULES = [
      "domains":["defenseone.com","twz.com","warontherocks.com","navalnews.com","armytimes.com","aljazeera.com","reuters.com","dw.com","antiwar.com","quincyinst.org","scheerpost.com","venezuelanalysis.com","mintpressnews.com","rss.dw.com","electronicintifada.net"],
      "any":["israel","gaza","palestin","ukraine","nato","pentagon","defense","weapons","missile","airstrike","drone","war","military","army","navy","marines","iran","yemen","hezbollah","taiwan","venezuela"]},
     {"title":"PARA POLITICAL INTRIGUE",
-     "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","aclu.org","theintercept.com","scheerpost.com","unlimitedhangout.com","dropsitenews.com"],
+     # aclu.org intentionally NOT domain-pinned: its heavy ICE/detention coverage
+     # must route to the ICE section by keyword; other ACLU items still match
+     # PARA keywords (foia, surveillance, doj, ...) below.
+     "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","theintercept.com","scheerpost.com","unlimitedhangout.com","dropsitenews.com"],
      "any":["cia","fbi","nsa","surveillance","whistleblower","leak","foia","spy","informant","homeland security","doj","dhs","patriot act","9/11","oklahoma city","okc bombing"]}
 ]
 ORDER = ["CHUDS VS SHITLIBS","CULTURE WAR","MILITARY INDUSTRIAL COMPLEX",

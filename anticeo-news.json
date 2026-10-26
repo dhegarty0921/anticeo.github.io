@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:13:00.389706Z",
+  "generated_at": "2026-10-26T01:19:16.442840Z",
   "headline": {
     "title": "Brazil: Lula Should Focus on Human Rights in New Term",
     "url": "https://www.hrw.org/news/2026/10/25/brazil-lula-should-focus-on-human-rights-in-new-term"
@@ -16,17 +16,17 @@
           "section": ""
         },
         {
+          "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+          "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 26 Oct 2026 01:12:21 +0000",
+          "section": ""
+        },
+        {
           "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
           "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 26 Oct 2026 01:07:05 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
-          "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 26 Oct 2026 00:46:00 +0000",
           "section": ""
         },
         {
@@ -72,10 +72,31 @@
           "section": ""
         },
         {
+          "title": "Immigration court says missing mail no longer an excuse to avoid deportation",
+          "url": "https://www.washingtontimes.com/news/2026/oct/25/immigration-court-says-missing-mail-no-longer-excuse-avoid/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 25 Oct 2026 19:11:39 -0400",
+          "section": ""
+        },
+        {
+          "title": "Trump, Obama throw punches at each other in Senate election brawl",
+          "url": "https://www.washingtontimes.com/news/2026/oct/25/donald-trump-barack-obama-throw-punches-senate-election-brawl/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 25 Oct 2026 17:48:21 -0400",
+          "section": ""
+        },
+        {
           "title": "In Texas Senate Race, Talarico Leans Into Growing Rivalry With Elon Musk",
           "url": "https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 25 Oct 2026 21:37:43 +0000",
+          "section": ""
+        },
+        {
+          "title": "Catholic bishops regret White House prayer photo with Trump, say it was used politically",
+          "url": "https://www.washingtontimes.com/news/2026/oct/25/catholic-bishops-regret-white-house-prayer-photo-trump-say-used/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 25 Oct 2026 17:11:25 -0400",
           "section": ""
         },
         {
@@ -170,6 +191,13 @@
           "section": ""
         },
         {
+          "title": "'Let the Record Show' Tells a Story of the Queer Black Attorney Who Laid the Foundation for Racial and Gender Rights",
+          "url": "https://www.aclu.org/news/lgbtq-rights/let-the-record-show-tells-a-story-of-the-queer-black-attorney-who-laid-the-foundation-for-racial-and-gender-rights",
+          "source": "Posts | American Civil Liberties Union",
+          "ts": "Fri, 23 Oct 2026 20:04:28 +0000",
+          "section": ""
+        },
+        {
           "title": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
           "url": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
           "source": "ProPublica",
@@ -223,6 +251,20 @@
           "url": "https://www.hrw.org/news/2026/10/23/mexico-delay-in-legal-reform-harms-people-with-disabilities",
           "source": "Human Rights Watch News",
           "ts": "Fri, 23 Oct 2026 08:00:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "Your Questions Answered: How Data Centers Erode Civil Rights and Civil Liberties",
+          "url": "https://www.aclu.org/news/privacy-technology/your-questions-answered-how-data-centers-erode-civil-liberties",
+          "source": "Posts | American Civil Liberties Union",
+          "ts": "Thu, 22 Oct 2026 18:05:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "How Technologies Move From Empowering to Imprisoning",
+          "url": "https://www.aclu.org/news/privacy-technology/how-technologies-move-from-empowering-to-imprisoning",
+          "source": "Posts | American Civil Liberties Union",
+          "ts": "Thu, 22 Oct 2026 15:47:36 +0000",
           "section": ""
         },
         {
@@ -439,24 +481,10 @@
           "section": ""
         },
         {
-          "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
-          "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
-          "source": "Naval News",
-          "ts": "Sun, 25 Oct 2026 20:18:05 +0000",
-          "section": ""
-        },
-        {
           "title": "Iranian Army Says It Shot Down US LUCAS Drone That Was Flying Over Southern Iran",
           "url": "https://news.antiwar.com/2026/10/25/iranian-army-says-it-shot-down-us-lucas-drone-that-was-flying-over-southern-iran/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-army-says-it-shot-down-us-lucas-drone-that-was-flying-over-southern-iran",
           "source": "News From Antiwar.com",
           "ts": "Sun, 25 Oct 2026 20:02:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Musk Says Ukraine Violated Starlink Terms of Service by Using It For Offensive Drone Attacks",
-          "url": "https://news.antiwar.com/2026/10/25/musk-says-ukraine-violated-starlink-terms-of-service-by-using-it-for-offensive-drone-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=musk-says-ukraine-violated-starlink-terms-of-service-by-using-it-for-offensive-drone-attacks",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 25 Oct 2026 19:30:24 +0000",
           "section": ""
         },
         {
@@ -481,17 +509,10 @@
           "section": ""
         },
         {
-          "title": "Coast Guard Icebreakers and the Finland Model: A Blueprint for the U.S. Navy?",
-          "url": "https://www.navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model/",
-          "source": "Naval News",
-          "ts": "Sun, 25 Oct 2026 09:28:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "SH Defence strengthens cooperation with Naval Group",
-          "url": "https://www.navalnews.com/naval-news/2026/10/sh-defence-strengthens-cooperation-with-naval-group/",
-          "source": "Naval News",
-          "ts": "Sun, 25 Oct 2026 07:31:25 +0000",
+          "title": "Funding, force-structure issues could hinder Hegseth’s new autonomous command",
+          "url": "https://www.defenseone.com/threats/2026/10/funding-hegseth-autonomous-command/416800/",
+          "source": "Defense One - All Content",
+          "ts": "Sun, 25 Oct 2026 06:00:00 -0400",
           "section": ""
         },
         {
@@ -558,6 +579,20 @@
           "section": ""
         },
         {
+          "title": "Are yearlong deployments the Navy’s new normal?",
+          "url": "https://www.defenseone.com/policy/2026/10/yearlong-deployments-navy-new-normal/416777/",
+          "source": "Defense One - All Content",
+          "ts": "Thu, 22 Oct 2026 21:44:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
+          "url": "https://www.defenseone.com/business/2026/10/defense-business-brief-little-bit-mosa-netherlands-us-industry-days-and-more/416776/",
+          "source": "Defense One - All Content",
+          "ts": "Thu, 22 Oct 2026 20:40:07 -0400",
+          "section": ""
+        },
+        {
           "title": "Iran Claims It Hit Multiple Ships In Persian Gulf, Warns US Military Of Major Escalation",
           "url": "https://dailycaller.com/2026/10/22/iran-claims-seven-vessels-attacked-in-persian-gulf/",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -576,13 +611,6 @@
           "url": "https://warontherocks.com/brothers-in-arms-partners-in-healing-a-story-about-a-breakthrough-in-treating-post-traumatic-stress/",
           "source": "War on the Rocks",
           "ts": "Thu, 22 Oct 2026 19:53:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "How the Iran War Could Force Saudi Arabia to Recalibrate Its Investment Plans",
-          "url": "https://trk.barrons.com/view/68ba10edc56311141bd6aba7sls9n.1me/bac5eaec",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Thu, 22 Oct 2026 19:26:00 +0000",
           "section": ""
         },
         {
@@ -682,13 +710,6 @@
           "section": ""
         },
         {
-          "title": "'Let the Record Show' Tells a Story of the Queer Black Attorney Who Laid the Foundation for Racial and Gender Rights",
-          "url": "https://www.aclu.org/news/lgbtq-rights/let-the-record-show-tells-a-story-of-the-queer-black-attorney-who-laid-the-foundation-for-racial-and-gender-rights",
-          "source": "Posts | American Civil Liberties Union",
-          "ts": "Fri, 23 Oct 2026 20:04:28 +0000",
-          "section": ""
-        },
-        {
           "title": "2 Ex-FBI Agents Charged w/ Lying about Roles in Hunter Biden Laptop Investigation",
           "url": "https://headlineusa.com/2-ex-fbi-agents-charged-w-lying-about-roles-in-hunter-biden-laptop-investigation/",
           "source": "Ken Silva, Author at Headline USA",
@@ -736,20 +757,6 @@
           "source": "Politics News",
           "ts": "Thu, 22 Oct 2026 20:51:18 +0000",
           "section": ""
-        },
-        {
-          "title": "Your Questions Answered: How Data Centers Erode Civil Rights and Civil Liberties",
-          "url": "https://www.aclu.org/news/privacy-technology/your-questions-answered-how-data-centers-erode-civil-liberties",
-          "source": "Posts | American Civil Liberties Union",
-          "ts": "Thu, 22 Oct 2026 18:05:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "How Technologies Move From Empowering to Imprisoning",
-          "url": "https://www.aclu.org/news/privacy-technology/how-technologies-move-from-empowering-to-imprisoning",
-          "source": "Posts | American Civil Liberties Union",
-          "ts": "Thu, 22 Oct 2026 15:47:36 +0000",
-          "section": ""
         }
       ]
     },
@@ -761,6 +768,13 @@
           "url": "https://news.antiwar.com/2026/10/25/trump-issues-second-endorsement-of-netanyahu-says-the-us-and-israel-have-to-finish-the-job-against-iran/?utm_source=rss&utm_medium=rss&utm_campaign=trump-issues-second-endorsement-of-netanyahu-says-the-us-and-israel-have-to-finish-the-job-against-iran",
           "source": "News From Antiwar.com",
           "ts": "Mon, 26 Oct 2026 00:21:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israeli Media: IDF Chief Resisted Netanyahu Order for Military Action Related to Iran",
+          "url": "https://news.antiwar.com/2026/10/25/israeli-media-idf-chief-resisted-netanyahu-order-for-military-action-related-to-iran/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-media-idf-chief-resisted-netanyahu-order-for-military-action-related-to-iran",
+          "source": "News From Antiwar.com",
+          "ts": "Sun, 25 Oct 2026 21:27:01 +0000",
           "section": ""
         },
         {
@@ -834,6 +848,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Netanyahu threatens major West Bank attack as Gaza faces famine",
+          "url": "https://electronicintifada.net/blogs/maureen-clare-murphy/netanyahu-threatens-major-west-bank-attack-gaza-faces-famine",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 23 Oct 2026 21:14:36 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel demolishes home of Lebanese journalist whose viral film exposed pager attack",
           "url": "https://thegrayzone.com/2026/10/23/israel-demolish-journalist-home/",
           "source": "The Grayzone",
@@ -841,10 +862,17 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Water crisis in Israel can’t be separated from Gaza genocide - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY2NiT1kta2kxVU96OVNvMF9qdjNwYVV0UmREdjl4X3V1VTFOcU1ZcG50dlRRdGFpTDg0ZVhyTEs3RHctZDhVeW1jTHVlMjFhYUxqUkp2MXRuZGMtSU9DbkxfZWR4M1owWWF2XzBkT21YZWRvd2hDOWVpcVBmbjA2aU5RckNob0hBNHNPZk5kRVVnalJFVFQ4cHZDWWQ?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 22 Oct 2026 14:49:59 GMT",
+          "title": "Mint tea and fading memories of Jaffa",
+          "url": "https://electronicintifada.net/content/mint-tea-and-fading-memories-jaffa/51715",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 23 Oct 2026 18:06:30 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Gaza fears another famine",
+          "url": "https://electronicintifada.net/content/gaza-fears-another-famine/51716",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 23 Oct 2026 17:36:15 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
