@@ -69,6 +69,7 @@ feeds:
   - https://www.hrw.org/rss # Human Rights Watch (global; US detention/deportation stories route by keyword)
   - https://news.google.com/rss/search?q=site:nipnlg.org&hl=en-US&gl=US&ceid=US:en # National Immigration Project (no native feed; Google News mirror, pinned)
   - https://www.aclu.org/publications/feed # ACLU reports (deportation/detention/asylum reports, pinned)
+  - https://newsroom.ucla.edu/rss.xml # UCLA newsroom (Behind Bars ICE-custody-deaths dataset & research; routes by keyword)
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://truthdig.com/feed/
