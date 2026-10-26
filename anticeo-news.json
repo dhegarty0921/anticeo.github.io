@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T23:22:38.059962Z",
+  "generated_at": "2026-10-26T23:35:25.703278Z",
   "headline": {
-    "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
-    "url": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html"
+    "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
   },
   "sections": [
     {
@@ -93,13 +93,6 @@
           "section": ""
         },
         {
-          "title": "Ben & Jerry's founders seek to regain control of brand: Report | Daily Sabah - Daily Sabah",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVlFbWhHaHF0VUxuQUk1RkpSQVY1SkY2dEw4ZTB3ZnBvQWdzcF9oV29IYjEtUWVrdGtjLXVoclIwOXphQVNoRzhxWmhiSENwQjZpN3ZPd052bkJCMVo1T05VTnpEb1J0MzR2cDZwbU9Rd05XeW1ydlBoWlZXWGRDNU80UnhBQXhQbGZOQWpaUHVQVnB5d1BYNHVReFdZZ3BVMlZNdUx30gGmAUFVX3lxTE5NWUVtaEdocXRVTG5BSTVGSlJBVjVKRjZ0TDhlMHdmcG9BZ3NwX2hXb0hiMS1RZWt0a2MtdWhyUjA5emFBU2hHOHFaaGJIQ3BCNmk3dk93TnZuQkIxWjVPTlVOekRvUnQzNHZwNnBtT1F3Tld5bXJ2UGhaVldYZEM1TzRSeEFBeFBsZk5BalpQdVBWcHl3UFg0dVF4V1lncFUyVk11THc?oc=5",
-          "source": "Ben Cohen (Ben & Jerry's)",
-          "ts": "Mon, 26 Oct 2026 21:04:12 GMT",
-          "section": ""
-        },
-        {
           "title": "El-Sayed campaign disavows PAC ad linking US inflation to Israel",
           "url": "https://forward.com/fast-forward/858428/el-sayed-campaign-disavows-pac-ad-linking-us-inflation-to-israel/",
           "source": "The Forward",
@@ -132,6 +125,13 @@
           "url": "https://news.antiwar.com/2026/10/26/cnn-us-forces-ready-to-launch-major-attacks-against-iran-within-96-hours-of-receiving-an-order-from-trump/?utm_source=rss&utm_medium=rss&utm_campaign=cnn-us-forces-ready-to-launch-major-attacks-against-iran-within-96-hours-of-receiving-an-order-from-trump",
           "source": "News From Antiwar.com",
           "ts": "Mon, 26 Oct 2026 20:00:02 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ben & Jerry's founders seek to regain control of brand: Report | Daily Sabah - Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTltbkVNbmVOTFp2V1phWlU4Q2c3TWFteWVwS2hRVnd5Q3JpSXBmQ1JJNURJUzlULUdHYjBqY3RRS2dtNFd3bEV4UjZnNW1LTFBqaUhLZVNoRmVZRGNoNnE2aS15TG83QzZvNF9oUEEyU3ZaNmthZklaODdqYTBBTVEyYVo0Rnk3YUFEbE5KUFZlc3BSVnJwWU1OQlRyMXU10gGmAUFVX3lxTE5NWUVtaEdocXRVTG5BSTVGSlJBVjVKRjZ0TDhlMHdmcG9BZ3NwX2hXb0hiMS1RZWt0a2MtdWhyUjA5emFBU2hHOHFaaGJIQ3BCNmk3dk93TnZuQkIxWjVPTlVOekRvUnQzNHZwNnBtT1F3Tld5bXJ2UGhaVldYZEM1TzRSeEFBeFBsZk5BalpQdVBWcHl3UFg0dVF4V1lncFUyVk11THc?oc=5",
+          "source": "Ben Cohen (Ben & Jerry's)",
+          "ts": "Mon, 26 Oct 2026 20:00:00 GMT",
           "section": ""
         },
         {
@@ -420,17 +420,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 26 Oct 2026 23:28:34 GMT",
+          "section": ""
+        },
+        {
+          "title": "FTC and 20 states sue Dollar General, accusing bargain chain of overcharging customers",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 26 Oct 2026 23:22:56 GMT",
+          "section": ""
+        },
+        {
+          "title": "Islamophobia Is Trump’s Closing Midterm Gambit",
+          "url": "https://www.theatlantic.com/newsletters/2026/10/islamophobia-trump-midterms-el-sayed/689168/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-26T19:22:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Catholic bishops accuse White House of manipulation over prayer video",
           "url": "https://religionnews.com/2026/10/26/catholic-bishops-accuse-the-white-house-of-manipulation-over-prayer-video/",
           "source": "RNS",
           "ts": "Mon, 26 Oct 2026 22:53:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump lashes out at Obama for joking that White House looks ‘like Saddam Hussein opened a Cheesecake Factory’ – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 26 Oct 2026 22:50:04 GMT",
           "section": ""
         },
         {
@@ -445,13 +459,6 @@
           "url": "https://www.vox.com/the-logoff-newsletter-trump/507903/trump-midterms-islamophobia-michigan-abdul-el-sayed",
           "source": "Vox",
           "ts": "2026-10-26T18:40:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Massachusetts lesbian bar makes frantic effort to find new owners after relaxing masking policy",
-          "url": "https://www.theguardian.com/us-news/2026/oct/26/last-ditch-lesbian-bar-closing",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 26 Oct 2026 22:39:32 GMT",
           "section": ""
         },
         {
@@ -504,13 +511,6 @@
           "section": ""
         },
         {
-          "title": "Red States Are Dumbing Down College Admissions",
-          "url": "https://www.theatlantic.com/ideas/2026/10/classic-learning-test-clt/689144/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-26T11:27:29-04:00",
-          "section": ""
-        },
-        {
           "title": "Why Humanity Needs Death",
           "url": "https://www.nationalreview.com/2026/10/why-humanity-needs-death/",
           "source": "National Review",
@@ -550,6 +550,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Last-Ditch Meeting In Iran Seeks To Stave-Off A Restart Of All-Out Fighting In The Region",
+          "url": "https://www.twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
+          "source": "TWZ",
+          "ts": "Mon, 26 Oct 2026 19:23:37 -0400",
+          "section": ""
+        },
+        {
+          "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 26 Oct 2026 23:18:31 +0000",
+          "section": ""
+        },
         {
           "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
           "url": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf",
@@ -593,7 +607,7 @@
           "section": ""
         },
         {
-          "title": "Death to the swivel chair: How the Army, INDOPACOM bridge comms with allies",
+          "title": "At last, Army seeing progress in Pacific network",
           "url": "https://www.defenseone.com/technology/2026/10/death-swivel-chair-how-army-indopacom-bridge-comms-allies/416826/",
           "source": "Defense One - All Content",
           "ts": "Mon, 26 Oct 2026 17:52:41 -0400",
@@ -628,13 +642,6 @@
           "section": ""
         },
         {
-          "title": "What will Lula’s fourth term mean for Brazil?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 26 Oct 2026 20:55:47 +0000",
-          "section": ""
-        },
-        {
           "title": "Supreme Court to hear case on division of retirement, disability pay in military divorces",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/26/supreme-court-to-hear-case-on-division-of-retirement-disability-pay-in-military-divorces/",
           "source": "News - Army Times",
@@ -653,13 +660,6 @@
           "url": "https://www.navalnews.com/naval-news/2026/10/exail-unveils-marins-m1-compact-ins-for-smaller-naval-platforms-and-uxvs/",
           "source": "Naval News",
           "ts": "Mon, 26 Oct 2026 20:08:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "British Type 31 Frigate Variant Offered To The U.S. Navy",
-          "url": "https://www.twz.com/sea/british-type-31-frigate-variant-offered-to-the-u-s-navy",
-          "source": "TWZ",
-          "ts": "Mon, 26 Oct 2026 15:53:56 -0400",
           "section": ""
         },
         {
@@ -993,8 +993,8 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
-          "title": "Ben & Jerry's explores deal with KKR executive to separate ice cream brand from owner, WSJ reports - Raleigh News & Observer",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95TFVFNTZMYkpBc0Frb2JoUWp3TFg5UDhfclA1bnBZWEg2XzVGOEt1a2xibFZfMnFSdnNNWDgtY01hcGl3bk1KbkFteWhpR3pqMjJ2bjJOdE82VzJkc1lSYThvTGFoQk1hRGdlc3N5ZFBpQQ?oc=5",
+          "title": "Ben & Jerry's explores deal with KKR executive to separate ice cream brand from owner, WSJ reports - Sacramento Bee",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHb0VFM0tJcThfa1kyVjBXVjVhMHN4WWVIbzZaZmFYeVYzdlNHaWI2b0N4eG93Y1FWUFo4VWlTYThFTldGVmZVS1hoZjk3WVBuX0FPVHhMS2N5TGxTWHlsNzZYNTMyYVl5Q1E?oc=5",
           "source": "Ben Cohen (Ben & Jerry's)",
           "ts": "Mon, 26 Oct 2026 20:24:05 GMT",
           "section": ""
