@@ -72,6 +72,7 @@ feeds:
   - https://www.themarshallproject.org/rss/recent # Marshall Project (criminal justice/ICE accountability; routes by keyword)
   - https://thelalocal.org/feed/ # LA Local (replaces L.A. TACO for LA immigration/ICE surge coverage; routes by keyword)
   - https://lapublicpress.org/feed/ # LA Public Press (nonprofit LA journalism; ICE raids/DHS surge coverage, routes by keyword)
+  - https://www.latimes.com/california.rss # LA Times California section (ICE-surge/voter-intimidation coverage; routes by keyword)
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://truthdig.com/feed/
