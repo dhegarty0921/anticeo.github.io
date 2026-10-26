@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T15:55:01.636247Z",
+  "generated_at": "2026-10-26T16:08:46.805563Z",
   "headline": {
-    "title": "Independent review announced into murder of student Henry Nowak",
-    "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
+    "title": "South Asian Immigrant Voters Cite Threat of ICE, Affordability as Key Issues This Election",
+    "url": "https://documentedny.com/2026/10/26/south-asian-immigrant-voters-nyc-midterm-election-url-media/"
   },
   "sections": [
     {
@@ -13,13 +13,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 26 Oct 2026 15:49:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-          "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 26 Oct 2026 15:41:29 +0000",
           "section": ""
         },
         {
@@ -114,6 +107,13 @@
           "section": ""
         },
         {
+          "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
+          "url": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 26 Oct 2026 14:48:33 +0000",
+          "section": ""
+        },
+        {
           "title": "AI giant Anthropic files for an IPO that could break records",
           "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records",
           "source": "NPR Topics: News",
@@ -125,13 +125,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 26 Oct 2026 14:16:09 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Logic Behind Trump's 'Pretend I'm on the Ballot' Appeal",
-          "url": "https://www.realclearpolitics.com/2026/10/26/the_logic_behind_trumps_pretend_im_on_the_ballot_appeal_715413.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Mon, 26 Oct 2026 08:58:55 -0500",
           "section": ""
         },
         {
@@ -174,6 +167,13 @@
           "url": "https://thelalocal.org/sports/east-la-classic-announcer-mike-flores/",
           "source": "LA Local",
           "ts": "Mon, 26 Oct 2026 13:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Former General Who Could End the Netanyahu Era",
+          "url": "https://www.realclearpolitics.com/2026/10/26/the_former_general_who_could_end_the_netanyahu_era_715441.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Mon, 26 Oct 2026 07:49:11 -0500",
           "section": ""
         },
         {
@@ -226,8 +226,8 @@
           "section": ""
         },
         {
-          "title": "Need help deciding on the state ballot measures? Here are my recommendations",
-          "url": "https://www.latimes.com/california/newsletter/2026-10-26/skelton-monday-politics-newsletter-ballot-measures",
+          "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
+          "url": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
           "source": "California",
           "ts": "Mon, 26 Oct 2026 10:00:00 GMT",
           "section": ""
@@ -317,6 +317,13 @@
           "section": ""
         },
         {
+          "title": "Sara Hernandez vs. Sarah Rascón: Who will represent California’s 26th Senate district?",
+          "url": "https://lapublicpress.org/2026/10/la-elections-2026-california-senate-hernandez-rascon/",
+          "source": "LA Public Press",
+          "ts": "Fri, 23 Oct 2026 20:55:02 +0000",
+          "section": ""
+        },
+        {
           "title": "'Let the Record Show' Tells a Story of the Queer Black Attorney Who Laid the Foundation for Racial and Gender Rights",
           "url": "https://www.aclu.org/news/lgbtq-rights/let-the-record-show-tells-a-story-of-the-queer-black-attorney-who-laid-the-foundation-for-racial-and-gender-rights",
           "source": "Posts | American Civil Liberties Union",
@@ -345,6 +352,20 @@
           "section": ""
         },
         {
+          "title": "The feds are suing CA over baseless voter fraud allegations. Experts say LA should stay calm and vote",
+          "url": "https://lapublicpress.org/2026/10/la-elections-2026-voter-fraud-trump-voting/",
+          "source": "LA Public Press",
+          "ts": "Fri, 23 Oct 2026 15:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Proposition 4 explained: California voters could allow public funding for elections",
+          "url": "https://lapublicpress.org/2026/10/la-elections-2026-california-proposition-4-campaign-spending/",
+          "source": "LA Public Press",
+          "ts": "Thu, 22 Oct 2026 19:15:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Your Questions Answered: How Data Centers Erode Civil Rights and Civil Liberties",
           "url": "https://www.aclu.org/news/privacy-technology/your-questions-answered-how-data-centers-erode-civil-liberties",
           "source": "Posts | American Civil Liberties Union",
@@ -360,7 +381,7 @@
           "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 26 Oct 2026 15:40:35 GMT",
+          "ts": "Mon, 26 Oct 2026 15:54:17 GMT",
           "section": ""
         },
         {
@@ -399,6 +420,13 @@
           "section": ""
         },
         {
+          "title": "Movie review: ‘Your Mother, Your Mother, Your Mother’",
+          "url": "https://religionnews.com/2026/10/26/movie-review-your-mother-your-mother-your-mother/",
+          "source": "RNS",
+          "ts": "Mon, 26 Oct 2026 12:05:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Why Humanity Needs Death",
           "url": "https://www.nationalreview.com/2026/10/why-humanity-needs-death/",
           "source": "National Review",
@@ -417,6 +445,13 @@
           "url": "https://www.nationalreview.com/2026/10/noncitizen-voting-is-a-real-problem-and-this-loophole-explains-why/",
           "source": "National Review",
           "ts": "Mon, 26 Oct 2026 10:30:26 +0000",
+          "section": ""
+        },
+        {
+          "title": "A Kentucky man becomes the first humanist granted religious exemption from AI",
+          "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+          "source": "RNS",
+          "ts": "Mon, 26 Oct 2026 10:00:55 +0000",
           "section": ""
         },
         {
@@ -448,6 +483,13 @@
           "section": ""
         },
         {
+          "title": "DHS says Christian blogger Samuel Sey, arrested by ICE, will be deported",
+          "url": "https://religionnews.com/2026/10/25/dhs-says-christian-blogger-samuel-sey-arrested-by-ice-will-be-deported/",
+          "source": "RNS",
+          "ts": "Mon, 26 Oct 2026 02:25:55 +0000",
+          "section": ""
+        },
+        {
           "title": "What do you do when your love and your life are in two different places?",
           "url": "https://www.vox.com/future-perfect/507481/big-life-decision-long-distance-relationship-love-family-home",
           "source": "Vox",
@@ -472,6 +514,13 @@
           "source": "Human Rights Watch News",
           "ts": "Mon, 26 Oct 2026 11:30:00 -0400",
           "section": ""
+        },
+        {
+          "title": "Video: “Insider Trade” Triggers Stock Market Instability. Trump’s Multibillion Dollar “Gambling Casino”",
+          "url": "https://www.globalresearch.ca/video-insider-trade-triggers-stock-market-instability-trumps-multibillion-dollar-gambling-casino/5944473",
+          "source": "Global Research",
+          "ts": "Mon, 26 Oct 2026 15:19:49 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
@@ -514,6 +563,20 @@
           "source": "Deutsche Welle",
           "ts": "2026-10-26T13:52:00Z",
           "section": ""
+        },
+        {
+          "title": "Libya’s Approval of Maritime Agreement with Türkiye Intensifies Eastern Mediterranean Rivalry",
+          "url": "https://www.globalresearch.ca/libya-approval-maritime-agreement-turkiye-intensifies-eastern-mediterranean-rivalry/5944465",
+          "source": "Global Research",
+          "ts": "Mon, 26 Oct 2026 13:50:19 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Black Bloc: Who Are the Masked Protesters Disrupting European Demonstrations?",
+          "url": "https://www.globalresearch.ca/black-bloc-masked-protesters-disrupting-european-demonstrations/5944489",
+          "source": "Global Research",
+          "ts": "Mon, 26 Oct 2026 13:39:54 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "U.S. Navy to Build Hypersonic Weapon Facility at NWS Yorktown for Zumwalt and Virginia Classes",
@@ -916,6 +979,13 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
+          "title": "South Asian Immigrant Voters Cite Threat of ICE, Affordability as Key Issues This Election",
+          "url": "https://documentedny.com/2026/10/26/south-asian-immigrant-voters-nyc-midterm-election-url-media/",
+          "source": "Documented",
+          "ts": "Mon, 26 Oct 2026 16:00:00 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
           "title": "New York County Jails Received Historic Sums to Detain Immigrants for ICE",
           "url": "https://documentedny.com/2026/10/26/new-york-county-jails-received-historic-sums-to-detain-immigrants-for-ice/",
           "source": "Documented",
@@ -925,13 +995,6 @@
         {
           "title": "What to Know About Contacting a Loved One in ICE Detention",
           "url": "https://documentedny.com/2026/10/26/ice-detention-how-to-call/",
-          "source": "Documented",
-          "ts": "Mon, 26 Oct 2026 11:00:00 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "了解你的权利：在公共场所、地铁和街上遇到ICE怎么办？",
-          "url": "https://documentedny.com/2026/10/26/chinese-language-ice-kyr-immigration-public-nyc/",
           "source": "Documented",
           "ts": "Mon, 26 Oct 2026 11:00:00 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
