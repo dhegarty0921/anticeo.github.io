@@ -5,7 +5,6 @@ feeds:
   - https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
   - https://www.washingtontimes.com/rss/headlines/news/politics/
   - https://www.realclearpolitics.com/index.xml
-  - https://lataco.com/category/news/feed/ # L.A. TACO local news (LA politics/immigration)
 
  # --- CULTURE WAR (religion/LGBTQ/DEI/education) ---
   - https://religionnews.com/feed/
