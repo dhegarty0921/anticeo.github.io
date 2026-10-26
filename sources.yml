@@ -71,6 +71,7 @@ feeds:
   - https://newsroom.ucla.edu/rss.xml # UCLA newsroom (Behind Bars ICE-custody-deaths dataset & research; routes by keyword)
   - https://www.themarshallproject.org/rss/recent # Marshall Project (criminal justice/ICE accountability; routes by keyword)
   - https://thelalocal.org/feed/ # LA Local (replaces L.A. TACO for LA immigration/ICE surge coverage; routes by keyword)
+  - https://lapublicpress.org/feed/ # LA Public Press (nonprofit LA journalism; ICE raids/DHS surge coverage, routes by keyword)
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://truthdig.com/feed/
