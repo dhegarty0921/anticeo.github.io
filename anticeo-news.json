@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T15:28:51.984735Z",
+  "generated_at": "2026-10-26T15:55:01.636247Z",
   "headline": {
-    "title": "Podcast by Jasim Al-Azzawi with Col. Lawrence Wilkerson: Will the US and Israel Attack Iran Before the Israeli Election?",
-    "url": "https://www.middleeastmonitor.com/20261026-podcast-by-jasim-al-azzawi-with-col-lawrence-wilkerson-will-the-us-and-israel-attack-iran-before-the-israeli-election/"
+    "title": "Independent review announced into murder of student Henry Nowak",
+    "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss"
   },
   "sections": [
     {
@@ -12,11 +12,32 @@
           "title": "Independent review announced into murder of student Henry Nowak",
           "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Mon, 26 Oct 2026 15:25:29 GMT",
+          "ts": "Mon, 26 Oct 2026 15:49:00 GMT",
           "section": ""
         },
         {
-          "title": "Medicare For All Can Be Simple",
+          "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
+          "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 26 Oct 2026 15:41:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ken Paxton’s State-Funded Jet-Setting Draws Campaign Scrutiny",
+          "url": "https://www.nytimes.com/2026/10/26/us/politics/ken-paxton-texas-trips.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 26 Oct 2026 15:34:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 26 Oct 2026 15:27:54 GMT",
+          "section": ""
+        },
+        {
+          "title": "‘Medicare for All’ Can Be Simple",
           "url": "https://www.truthdig.com/articles/medicare-for-all-can-be-simple/?utm_source=rss&utm_medium=rss&utm_campaign=medicare-for-all-can-be-simple",
           "source": "Truthdig",
           "ts": "Mon, 26 Oct 2026 15:20:18 +0000",
@@ -34,13 +55,6 @@
           "url": "https://www.truthdig.com/articles/doj-sending-election-monitors-to-maine/?utm_source=rss&utm_medium=rss&utm_campaign=doj-sending-election-monitors-to-maine",
           "source": "Truthdig",
           "ts": "Mon, 26 Oct 2026 15:11:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision",
-          "url": "https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 26 Oct 2026 15:10:08 +0000",
           "section": ""
         },
         {
@@ -97,13 +111,6 @@
           "url": "https://forward.com/yiddish/858263/when-a-black-hat-and-a-toothbrush-take-on-deeper-meanings/",
           "source": "The Forward",
           "ts": "Mon, 26 Oct 2026 14:49:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
-          "url": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 26 Oct 2026 14:48:33 +0000",
           "section": ""
         },
         {
@@ -177,13 +184,6 @@
           "section": ""
         },
         {
-          "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-          "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 26 Oct 2026 12:00:20 GMT",
-          "section": ""
-        },
-        {
           "title": "Alaska Senate Candidates Rarely Mention Climate Change, But They Talk a Lot About Fish",
           "url": "https://www.motherjones.com/politics/2026/10/alaska-senate-candidates-mary-peltola-dan-sullivan-climate-change-global-warming-fish-issues/",
           "source": "Mother Jones",
@@ -226,10 +226,17 @@
           "section": ""
         },
         {
-          "title": "SoCal coast expected to be under siege for days from extreme sea levels",
-          "url": "https://www.latimes.com/california/story/2026-10-26/socal-coast-faces-flood-risk-from-days-of-extreme-sea-levels",
+          "title": "Need help deciding on the state ballot measures? Here are my recommendations",
+          "url": "https://www.latimes.com/california/newsletter/2026-10-26/skelton-monday-politics-newsletter-ballot-measures",
           "source": "California",
           "ts": "Mon, 26 Oct 2026 10:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Sudan: One Year on from the Cataclysm of El Fasher",
+          "url": "https://www.hrw.org/news/2026/10/26/sudan-one-year-on-from-the-cataclysm-of-el-fasher",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 26 Oct 2026 05:20:59 -0400",
           "section": ""
         },
         {
@@ -244,6 +251,13 @@
           "url": "https://www.unz.com/runz/american-pravda-the-great-replacement-and-other-controversial-matters/",
           "source": "The Unz Review:",
           "ts": "Mon, 26 Oct 2026 04:10:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "Brazil: Lula Should Focus on Human Rights in New Term",
+          "url": "https://www.hrw.org/news/2026/10/25/brazil-lula-should-focus-on-human-rights-in-new-term",
+          "source": "Human Rights Watch News",
+          "ts": "Sun, 25 Oct 2026 22:00:00 -0400",
           "section": ""
         },
         {
@@ -275,13 +289,6 @@
           "section": ""
         },
         {
-          "title": "X Shuts Down Accounts of Prominent Palestinian Voices Said Ziad and Khaled Safi - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXZjZDBDeGJLSDhRWWwtcHI3TURuV3lMZzc5dEFrTzUzbmVMS0VEUW9OUHFXQVRSallYVzZRTHNnV2lhMmI3eWN5RFRLMWxvblVfeGFCTWQwcXBsdk9KcTViQXZabFVkWjFjSXlBb0pGVEpuaHlMVjQ3Y2J3UVlKZ0ltYWl0dllWa3cyamVISG0wdlJvMVFqQVhCYnZ0VmNYODR5NmlwTmJZWE9RWEhoZC03a21EUQ?oc=5",
-          "source": "via Google News",
-          "ts": "Sat, 24 Oct 2026 17:55:29 GMT",
-          "section": ""
-        },
-        {
           "title": "Why does Zelenskyy feel ‘betrayed’ by the US?",
           "url": "https://www.youtube.com/watch?v=k58Ha6lOXwI",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -307,13 +314,6 @@
           "url": "https://newsroom.ucla.edu/in-the-news/karen-bass-climbed-l-a-s-political-ladder-then-a-fire-changed-everything-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Fri, 23 Oct 2026 21:38:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Sara Hernandez vs. Sarah Rascón: Who will represent California’s 26th Senate district?",
-          "url": "https://lapublicpress.org/2026/10/la-elections-2026-california-senate-hernandez-rascon/",
-          "source": "LA Public Press",
-          "ts": "Fri, 23 Oct 2026 20:55:02 +0000",
           "section": ""
         },
         {
@@ -345,20 +345,6 @@
           "section": ""
         },
         {
-          "title": "The feds are suing CA over baseless voter fraud allegations. Experts say LA should stay calm and vote",
-          "url": "https://lapublicpress.org/2026/10/la-elections-2026-voter-fraud-trump-voting/",
-          "source": "LA Public Press",
-          "ts": "Fri, 23 Oct 2026 15:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Proposition 4 explained: California voters could allow public funding for elections",
-          "url": "https://lapublicpress.org/2026/10/la-elections-2026-california-proposition-4-campaign-spending/",
-          "source": "LA Public Press",
-          "ts": "Thu, 22 Oct 2026 19:15:27 +0000",
-          "section": ""
-        },
-        {
           "title": "Your Questions Answered: How Data Centers Erode Civil Rights and Civil Liberties",
           "url": "https://www.aclu.org/news/privacy-technology/your-questions-answered-how-data-centers-erode-civil-liberties",
           "source": "Posts | American Civil Liberties Union",
@@ -374,7 +360,21 @@
           "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 26 Oct 2026 15:12:04 GMT",
+          "ts": "Mon, 26 Oct 2026 15:40:35 GMT",
+          "section": ""
+        },
+        {
+          "title": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 26 Oct 2026 15:37:51 GMT",
+          "section": ""
+        },
+        {
+          "title": "The Classics Test That Wants to Replace the SAT",
+          "url": "https://www.theatlantic.com/ideas/2026/10/classic-learning-test-clt/689144/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-26T11:27:29-04:00",
           "section": ""
         },
         {
@@ -399,27 +399,6 @@
           "section": ""
         },
         {
-          "title": "First Thing: Brazil re-elects Lula in comeback rebuke for Bolsonaro and far right",
-          "url": "https://www.theguardian.com/us-news/2026/oct/26/first-thing-brazil-re-elects-lula-comeback-bolsonaro",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 26 Oct 2026 14:00:48 GMT",
-          "section": ""
-        },
-        {
-          "title": "A Map for Loving America",
-          "url": "https://www.theatlantic.com/culture/2026/10/stevie-wonder-songs-in-the-key-of-life-50th-anniversary/689128/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-26T09:00:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Movie review: ‘Your Mother, Your Mother, Your Mother’",
-          "url": "https://religionnews.com/2026/10/26/movie-review-your-mother-your-mother-your-mother/",
-          "source": "RNS",
-          "ts": "Mon, 26 Oct 2026 12:05:27 +0000",
-          "section": ""
-        },
-        {
           "title": "Why Humanity Needs Death",
           "url": "https://www.nationalreview.com/2026/10/why-humanity-needs-death/",
           "source": "National Review",
@@ -438,13 +417,6 @@
           "url": "https://www.nationalreview.com/2026/10/noncitizen-voting-is-a-real-problem-and-this-loophole-explains-why/",
           "source": "National Review",
           "ts": "Mon, 26 Oct 2026 10:30:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "A Kentucky man becomes the first humanist granted religious exemption from AI",
-          "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-          "source": "RNS",
-          "ts": "Mon, 26 Oct 2026 10:00:55 +0000",
           "section": ""
         },
         {
@@ -476,13 +448,6 @@
           "section": ""
         },
         {
-          "title": "DHS says Christian blogger Samuel Sey, arrested by ICE, will be deported",
-          "url": "https://religionnews.com/2026/10/25/dhs-says-christian-blogger-samuel-sey-arrested-by-ice-will-be-deported/",
-          "source": "RNS",
-          "ts": "Mon, 26 Oct 2026 02:25:55 +0000",
-          "section": ""
-        },
-        {
           "title": "What do you do when your love and your life are in two different places?",
           "url": "https://www.vox.com/future-perfect/507481/big-life-decision-long-distance-relationship-love-family-home",
           "source": "Vox",
@@ -501,6 +466,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Yemen: Houthi Attack on Taizz Road Threatens Lives, Welfare",
+          "url": "https://www.hrw.org/news/2026/10/26/yemen-houthi-attack-on-taizz-road-threatens-lives-welfare",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 26 Oct 2026 11:30:00 -0400",
+          "section": ""
+        },
         {
           "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
           "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
@@ -537,32 +509,11 @@
           "section": ""
         },
         {
-          "title": "France: Macron vows 'strong measures' to combat protests",
-          "url": "https://www.dw.com/en/france-macron-vows-strong-measures-to-combat-protests/a-79764224?maca=en-rss-en-all-1573-rdf",
+          "title": "Macron vows 'strong measures' to combat protests that rocked France",
+          "url": "https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-26T13:52:00Z",
           "section": ""
-        },
-        {
-          "title": "Libya’s Approval of Maritime Agreement with Türkiye Intensifies Eastern Mediterranean Rivalry",
-          "url": "https://www.globalresearch.ca/libya-approval-maritime-agreement-turkiye-intensifies-eastern-mediterranean-rivalry/5944465",
-          "source": "Global Research",
-          "ts": "Mon, 26 Oct 2026 13:50:19 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Black Bloc: Who Are the Masked Protesters Disrupting European Demonstrations?",
-          "url": "https://www.globalresearch.ca/black-bloc-masked-protesters-disrupting-european-demonstrations/5944489",
-          "source": "Global Research",
-          "ts": "Mon, 26 Oct 2026 13:39:54 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Bulletin from Tel Aviv. Major Protest Movement against Netanyahu",
-          "url": "https://www.globalresearch.ca/bulletin-from-tel-aviv/5944495",
-          "source": "Global Research",
-          "ts": "Mon, 26 Oct 2026 13:34:26 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "U.S. Navy to Build Hypersonic Weapon Facility at NWS Yorktown for Zumwalt and Virginia Classes",
@@ -724,6 +675,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Lula beats Bolsonaro; Israel expels 3,100+ Palestinians in Hebron; Student-led movement defeats Vučić in Serbia",
+          "url": "https://www.dropsitenews.com/p/lula-bolsonaro-brazil-israel-west-bank-hebron-serbia-student-movement",
+          "source": "Drop Site News",
+          "ts": "Mon, 26 Oct 2026 15:26:59 GMT",
+          "section": ""
+        },
+        {
           "title": "FBI Agents Purportedly Saw a UFO Earlier This Year",
           "url": "https://headlineusa.com/fbi-agents-purportedly-saw-a-ufo-earlier-this-year/",
           "source": "Ken Silva, Author at Headline USA",
@@ -843,13 +801,6 @@
           "section": ""
         },
         {
-          "title": "Netanyahu orders full lockdown of West Bank after shooting; Bombshell report on Kushner’s $2B slush fund; Brent crude hits $114",
-          "url": "https://www.dropsitenews.com/p/netanyahu-west-bank-hebron-kushner-slush-fund-brent-crude-iran-trump",
-          "source": "Drop Site News",
-          "ts": "Fri, 23 Oct 2026 15:31:55 GMT",
-          "section": ""
-        },
-        {
           "title": "DOJ Probes Allegations of Corruption Against Corey Lewandowski",
           "url": "https://www.rollingstone.com/politics/politics-news/doj-investigates-corey-lewandowski-contracts-dhs-1235646898/",
           "source": "Politics News",
@@ -930,6 +881,13 @@
           "source": "Mondoweiss",
           "ts": "Sat, 24 Oct 2026 17:49:21 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Turkish Court Upholds Netanyahu Arrest Warrant, Orders Asset Inquiry - Palestine Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTUdTY3ZWbTBIc2IzRTdXaHpBbTU0ZllVV0o5SGZXYUU1YWoyTEJDeVEtTmxZbjh3UF9tNVBrRGo1RV8tRVV6TGRKLUJldGRIX2JMTTZ4bVdvemNfT2VxTVktdmVvSjQya0hHdy1VSGxRdHFKaWJGYXBDTjA4UE5Gc05tazFpQjBXd29BNVBaaF95bFc4TmZLV25famtUTGNfeDZLeVpR?oc=5",
+          "source": "via Google News",
+          "ts": "Sat, 24 Oct 2026 15:35:11 GMT",
+          "section": ""
         },
         {
           "title": "Dominican Republic becomes latest Latin American country to adopt IHRA antisemitism definition amid regional shift to the right",
