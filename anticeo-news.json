@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-26T21:37:58.557862Z",
+  "generated_at": "2026-10-26T21:49:40.128746Z",
   "headline": {
-    "title": "Trump Offers $1,000,000 Voter Fraud Bounty",
-    "url": "https://www.rollingstone.com/politics/politics-news/trump-offers-voter-fraud-bounty-1235648160/"
+    "title": "Ex-South Carolina governors endorse Democrat Annie Andrews in Senate race",
+    "url": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate"
   },
   "sections": [
     {
@@ -296,8 +296,8 @@
           "section": ""
         },
         {
-          "title": "Experts question whether big-money campaigns backing Karen Bass are truly independent",
-          "url": "https://www.latimes.com/california/story/2026-10-26/experts-question-independence-of-pro-bass-outside-campaign-committees",
+          "title": "Need help deciding on the state ballot measures? Here are my recommendations",
+          "url": "https://www.latimes.com/california/newsletter/2026-10-26/skelton-monday-politics-newsletter-ballot-measures",
           "source": "California",
           "ts": "Mon, 26 Oct 2026 10:00:00 GMT",
           "section": ""
@@ -406,6 +406,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Ex-South Carolina governors endorse Democrat Annie Andrews in Senate race",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/south-carolina-governors-annie-andrews-senate",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 26 Oct 2026 21:33:30 GMT",
+          "section": ""
+        },
+        {
           "title": "Republican and Democratic ex-governors issue rare joint endorsement for South Carolina Senate candidate – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
           "source": "US news | The Guardian",
@@ -445,13 +452,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/26/southern-california-flooding-tides",
           "source": "US news | The Guardian",
           "ts": "Mon, 26 Oct 2026 18:39:27 GMT",
-          "section": ""
-        },
-        {
-          "title": "Fifteen-year-old arrested in shooting near Florida university that injured 12",
-          "url": "https://www.theguardian.com/us-news/2026/oct/26/florida-famu-shooting-arrest",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 26 Oct 2026 18:01:23 GMT",
           "section": ""
         },
         {
