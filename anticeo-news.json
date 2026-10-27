@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T05:53:38.151728Z",
+  "generated_at": "2026-10-27T06:08:57.020065Z",
   "headline": {
-    "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
-    "url": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z"
+    "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+    "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -191,13 +191,6 @@
           "section": ""
         },
         {
-          "title": "Ben & Jerry's founders seek to regain control of brand: Report | Daily Sabah - Daily Sabah",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVlFbWhHaHF0VUxuQUk1RkpSQVY1SkY2dEw4ZTB3ZnBvQWdzcF9oV29IYjEtUWVrdGtjLXVoclIwOXphQVNoRzhxWmhiSENwQjZpN3ZPd052bkJCMVo1T05VTnpEb1J0MzR2cDZwbU9Rd05XeW1ydlBoWlZXWGRDNU80UnhBQXhQbGZOQWpaUHVQVnB5d1BYNHVReFdZZ3BVMlZNdUx30gGmAUFVX3lxTE5NWUVtaEdocXRVTG5BSTVGSlJBVjVKRjZ0TDhlMHdmcG9BZ3NwX2hXb0hiMS1RZWt0a2MtdWhyUjA5emFBU2hHOHFaaGJIQ3BCNmk3dk93TnZuQkIxWjVPTlVOekRvUnQzNHZwNnBtT1F3Tld5bXJ2UGhaVldYZEM1TzRSeEFBeFBsZk5BalpQdVBWcHl3UFg0dVF4V1lncFUyVk11THc?oc=5",
-          "source": "Ben Cohen (Ben & Jerry's)",
-          "ts": "Mon, 26 Oct 2026 21:04:12 GMT",
-          "section": ""
-        },
-        {
           "title": "El-Sayed campaign disavows PAC ad linking US inflation to Israel",
           "url": "https://forward.com/fast-forward/858428/el-sayed-campaign-disavows-pac-ad-linking-us-inflation-to-israel/",
           "source": "The Forward",
@@ -216,6 +209,13 @@
           "url": "https://www.motherjones.com/politics/2026/10/guantanamo-bay-somali-immigrants-ice/",
           "source": "Mother Jones",
           "ts": "Mon, 26 Oct 2026 20:03:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ben & Jerry's founders seek to regain control of brand: Report | Daily Sabah - Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTTltbkVNbmVOTFp2V1phWlU4Q2c3TWFteWVwS2hRVnd5Q3JpSXBmQ1JJNURJUzlULUdHYjBqY3RRS2dtNFd3bEV4UjZnNW1LTFBqaUhLZVNoRmVZRGNoNnE2aS15TG83QzZvNF9oUEEyU3ZaNmthZklaODdqYTBBTVEyYVo0Rnk3YUFEbE5KUFZlc3BSVnJwWU1OQlRyMXU10gGmAUFVX3lxTE5NWUVtaEdocXRVTG5BSTVGSlJBVjVKRjZ0TDhlMHdmcG9BZ3NwX2hXb0hiMS1RZWt0a2MtdWhyUjA5emFBU2hHOHFaaGJIQ3BCNmk3dk93TnZuQkIxWjVPTlVOekRvUnQzNHZwNnBtT1F3Tld5bXJ2UGhaVldYZEM1TzRSeEFBeFBsZk5BalpQdVBWcHl3UFg0dVF4V1lncFUyVk11THc?oc=5",
+          "source": "Ben Cohen (Ben & Jerry's)",
+          "ts": "Mon, 26 Oct 2026 20:00:00 GMT",
           "section": ""
         },
         {
@@ -565,6 +565,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+          "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-27T05:59:00Z",
+          "section": ""
+        },
+        {
+          "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
+          "url": "https://www.aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 27 Oct 2026 05:47:36 +0000",
+          "section": ""
+        },
+        {
           "title": "Tracking the money: The biggest donors in the 2026 US midterm elections",
           "url": "https://www.aljazeera.com/news/2026/10/27/tracking-the-money-the-biggest-donors-in-the-2026-us-midterm-elections?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -579,13 +593,6 @@
           "section": ""
         },
         {
-          "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 27 Oct 2026 05:14:13 +0000",
-          "section": ""
-        },
-        {
           "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
           "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -597,13 +604,6 @@
           "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-27T03:52:00Z",
-          "section": ""
-        },
-        {
-          "title": "US seeks new charges against former FBI chief James Comey",
-          "url": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-27T01:39:00Z",
           "section": ""
         },
         {
