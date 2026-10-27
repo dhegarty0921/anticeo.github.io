@@ -76,7 +76,6 @@ feeds:
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://truthdig.com/feed/
-  - https://forward.com/rss/
   - https://www.merip.org/feed
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.npr.org/rss/rss.php?id=1001
