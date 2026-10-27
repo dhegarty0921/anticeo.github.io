@@ -1,25 +1,32 @@
 {
-  "generated_at": "2026-10-27T13:02:29.872391Z",
+  "generated_at": "2026-10-27T13:33:16.017778Z",
   "headline": {
-    "title": "Politicians have a lot to say about LA’s street vendors. Here’s what vendors want you to know.",
-    "url": "https://thelalocal.org/neighborhoods/pico-union/street-vending-politicians-interviews-election-october-2026/"
+    "title": "Confessions of a UC reject",
+    "url": "https://www.latimes.com/california/newsletter/2026-10-27/university-of-california-reject"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "Confessions of a UC reject",
+          "url": "https://www.latimes.com/california/newsletter/2026-10-27/university-of-california-reject",
+          "source": "California",
+          "ts": "Tue, 27 Oct 2026 13:30:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 27 Oct 2026 13:18:37 GMT",
+          "section": ""
+        },
+        {
           "title": "Politicians have a lot to say about LA’s street vendors. Here’s what vendors want you to know.",
           "url": "https://thelalocal.org/neighborhoods/pico-union/street-vending-politicians-interviews-election-october-2026/",
           "source": "LA Local",
           "ts": "Tue, 27 Oct 2026 13:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Minimum wage increase set to slow for 18-20 year-olds",
-          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 27 Oct 2026 12:53:49 GMT",
           "section": ""
         },
         {
@@ -107,15 +114,8 @@
           "section": ""
         },
         {
-          "title": "L.A. homicides are down to near-historic lows — but killings of Black men persist",
-          "url": "https://www.latimes.com/california/story/2026-10-27/los-angeles-2026-homicide-data",
-          "source": "California",
-          "ts": "Tue, 27 Oct 2026 10:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "SoCal sober living homes drugged patients to keep the money flowing, federal prosecutors allege",
-          "url": "https://www.latimes.com/california/story/2026-10-27/socal-sober-living-homes-drugged-patients-to-keep-money-flowing-federal-prosecutors-allege",
+          "title": "Measure A could radically alter L.A. County labor talks. There's been little debate",
+          "url": "https://www.latimes.com/california/story/2026-10-27/measure-could-alter-la-county-labor-talks-theres-little-debate",
           "source": "California",
           "ts": "Tue, 27 Oct 2026 10:00:00 GMT",
           "section": ""
@@ -128,8 +128,8 @@
           "section": ""
         },
         {
-          "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
+          "title": "Polymarket has investigated 'dozens' of election-related cases",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 27 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -226,13 +226,6 @@
           "section": ""
         },
         {
-          "title": "Ben & Jerry’s founders explore deal to separate brand from owner, WSJ reports By Reuters - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeVB4a3p1THh4Uy05TmRwQkw0MW5SRGV0VzhfM2tJbDVkcFh2b2piYTBUX3JWSHFlTDRSOWlmbEdPaHd4WHhfSEMxbWszOV9FV1ZqdTBDblEzVjZub3c4U2Nrcms2VHJyZE9RM0dtMVNJSUFWYnppcDJDUElYVTdEYjR2SjNjRlI4dlVES2M4Y1Q3c0JxaGN5MTZHcngwSFM5WGE5WG9HSW84RWtKcmowQy1YR2JsNzBkRnhsb202cG5SZmpiMkhYSVhzN2s5U2V2ZXI1V2lJYWY5VlJjSkZBN3JiSzEwRVNK?oc=5",
-          "source": "Ben Cohen (Ben & Jerry's)",
-          "ts": "Mon, 26 Oct 2026 22:25:01 GMT",
-          "section": ""
-        },
-        {
           "title": "Dia de Los Muertos celebrations starts early in MacArthur Park",
           "url": "https://thelalocal.org/art-and-culture/dia-de-los-muertos-macarthur-park-community-event-october-2026/",
           "source": "LA Local",
@@ -258,6 +251,13 @@
           "url": "https://www.aclu.org/news/voting-rights/want-to-lower-the-cost-of-living-unrig-our-democracy",
           "source": "Posts | American Civil Liberties Union",
           "ts": "Mon, 26 Oct 2026 21:11:14 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ben & Jerry's founders seek to regain control of brand: Report | Daily Sabah - Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVlFbWhHaHF0VUxuQUk1RkpSQVY1SkY2dEw4ZTB3ZnBvQWdzcF9oV29IYjEtUWVrdGtjLXVoclIwOXphQVNoRzhxWmhiSENwQjZpN3ZPd052bkJCMVo1T05VTnpEb1J0MzR2cDZwbU9Rd05XeW1ydlBoWlZXWGRDNU80UnhBQXhQbGZOQWpaUHVQVnB5d1BYNHVReFdZZ3BVMlZNdUx30gGmAUFVX3lxTE5NWUVtaEdocXRVTG5BSTVGSlJBVjVKRjZ0TDhlMHdmcG9BZ3NwX2hXb0hiMS1RZWt0a2MtdWhyUjA5emFBU2hHOHFaaGJIQ3BCNmk3dk93TnZuQkIxWjVPTlVOekRvUnQzNHZwNnBtT1F3Tld5bXJ2UGhaVldYZEM1TzRSeEFBeFBsZk5BalpQdVBWcHl3UFg0dVF4V1lncFUyVk11THc?oc=5",
+          "source": "Ben Cohen (Ben & Jerry's)",
+          "ts": "Mon, 26 Oct 2026 21:04:12 GMT",
           "section": ""
         },
         {
@@ -366,13 +366,6 @@
           "section": ""
         },
         {
-          "title": "Why does Zelenskyy feel ‘betrayed’ by the US?",
-          "url": "https://www.youtube.com/watch?v=k58Ha6lOXwI",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Sat, 24 Oct 2026 17:05:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Sara Hernandez vs. Sarah Rascón: Who will represent California’s 26th Senate district?",
           "url": "https://lapublicpress.org/2026/10/la-elections-2026-california-senate-hernandez-rascon/",
           "source": "LA Public Press",
@@ -409,7 +402,14 @@
           "title": "‘I’m still innocent,’ says Comey as Trump calls him a ‘dirty cop’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 27 Oct 2026 12:35:46 GMT",
+          "ts": "Tue, 27 Oct 2026 13:13:02 GMT",
+          "section": ""
+        },
+        {
+          "title": "We Can All Make Life Feel Like a Movie. Should We?",
+          "url": "https://www.theatlantic.com/culture/2026/10/sophia-stel-a24-music/689149/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-27T09:00:00-04:00",
           "section": ""
         },
         {
@@ -434,7 +434,7 @@
           "section": ""
         },
         {
-          "title": "A Wolf Dawg’s Tale",
+          "title": "My Husband has Worn the Same Halloween Costume for 18 Years",
           "url": "https://www.theatlantic.com/family/2026/10/wolf-dawg-halloween-costume-husband/689052/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-27T08:00:00-04:00",
@@ -459,13 +459,6 @@
           "url": "https://religionnews.com/2026/10/27/as-support-for-trump-dips-conservatives-fight-to-keep-evangelical-turnout-strong-in-midterms/",
           "source": "RNS",
           "ts": "Tue, 27 Oct 2026 11:05:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Is There Anything BPC-157 Can’t Cure?",
-          "url": "https://www.theatlantic.com/magazine/2026/12/predrag-sikiric-peptide-science/689032/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-27T07:00:00-04:00",
           "section": ""
         },
         {
@@ -579,6 +572,13 @@
           "section": ""
         },
         {
+          "title": "Canada modifies River-class Destroyer combat system design to focus on Aegis and MOTS solutions",
+          "url": "https://www.navalnews.com/features/2026/10/canada-river-class-destroyer-aegis-mots/",
+          "source": "Naval News",
+          "ts": "Tue, 27 Oct 2026 09:41:21 +0000",
+          "section": ""
+        },
+        {
           "title": "The Machine Staff",
           "url": "https://warontherocks.com/cogs-of-war/the-machine-staff/",
           "source": "War on the Rocks",
@@ -621,6 +621,13 @@
           "section": ""
         },
         {
+          "title": "AUKUS: USS Colorado Announced as First Submarine for SRF – West",
+          "url": "https://www.navalnews.com/naval-news/2026/10/aukus-uss-colorado-announced-as-first-submarine-for-srf-west/",
+          "source": "Naval News",
+          "ts": "Mon, 26 Oct 2026 22:11:06 +0000",
+          "section": ""
+        },
+        {
           "title": "At last, Army seeing progress in Pacific network",
           "url": "https://www.defenseone.com/technology/2026/10/death-swivel-chair-how-army-indopacom-bridge-comms-allies/416826/",
           "source": "Defense One - All Content",
@@ -639,6 +646,20 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/26/supreme-court-to-hear-case-on-division-of-retirement-disability-pay-in-military-divorces/",
           "source": "News - Army Times",
           "ts": "Mon, 26 Oct 2026 20:54:25 +0000",
+          "section": ""
+        },
+        {
+          "title": "Op-Ed: The US Navy CAN Fix the Fleet with Distributed Manufacturing",
+          "url": "https://www.navalnews.com/naval-news/2026/10/op-ed-us-navy-distributed-manufacturing/",
+          "source": "Naval News",
+          "ts": "Mon, 26 Oct 2026 20:50:59 +0000",
+          "section": ""
+        },
+        {
+          "title": "Oil Over $100 As US and Iran Trigger Regional War",
+          "url": "https://www.youtube.com/watch?v=Oo_grj1RgKo&t=600s",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Mon, 26 Oct 2026 20:17:00 +0000",
           "section": ""
         },
         {
@@ -738,6 +759,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "When Military Leaders Fear Speaking Up, Everyone Is at Risk",
+          "url": "https://www.justsecurity.org/161930/military-leaders-fear-speaking-up-risk-loyalty/?utm_source=rss&utm_medium=rss&utm_campaign=military-leaders-fear-speaking-up-risk-loyalty",
+          "source": "Just Security",
+          "ts": "Tue, 27 Oct 2026 13:04:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Might The Gambia v. Myanmar Help Establish Genocidal Intent in Russia’s War on Ukraine?",
           "url": "https://www.justsecurity.org/161466/icj-myanmar-genocidal-intent-russias-war-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-genocidal-intent-russias-war-ukraine",
           "source": "Just Security",
@@ -822,13 +850,6 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "Early Edition: October 26, 2026",
-          "url": "https://www.justsecurity.org/162014/early-edition-october-26-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-26-2026",
-          "source": "Just Security",
-          "ts": "Mon, 26 Oct 2026 13:20:19 +0000",
-          "section": ""
-        },
-        {
           "title": "Bankrolling American Empire in the Philippines",
           "url": "https://theintercept.com/2026/10/26/philippines-military-base-cerberus-private-capital/",
           "source": "The Intercept",
@@ -869,31 +890,31 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli police foil stabbing attempt on opposition leader Yair Golan in Tel Aviv during election tour",
+          "url": "https://www.middleeastmonitor.com/20261027-israeli-police-foil-stabbing-attempt-on-opposition-leader-yair-golan-in-tel-aviv-during-election-tour/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 27 Oct 2026 13:26:48 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Scottish politicians say Israeli officials detained them for 8 hours",
+          "url": "https://www.middleeastmonitor.com/20261027-scottish-politicians-say-israeli-officials-detained-them-for-8-hours/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 27 Oct 2026 13:04:15 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Israel reports highest election turnout in 53 years amid strong Arab, opposition participation",
+          "url": "https://www.middleeastmonitor.com/20261027-israel-reports-highest-election-turnout-in-53-years-amid-strong-arab-opposition-participation/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 27 Oct 2026 13:02:35 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Palestinians who fled Gaza for Egypt are being scammed and exploited by fake charities",
           "url": "https://mondoweiss.net/2026/10/palestinians-who-fled-gaza-for-egypt-are-being-scammed-and-exploited-by-fake-charities/",
           "source": "Mondoweiss",
           "ts": "Tue, 27 Oct 2026 13:00:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Hozier, Kneecap join Macklemore at sold-out launch of Free Palestine tour",
-          "url": "https://www.middleeastmonitor.com/20261027-hozier-kneecap-join-macklemore-at-sold-out-launch-of-free-palestine-tour/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 27 Oct 2026 12:53:06 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Nusseibeh’s bid to lead UN sparks backlash over accusations of covering up Sudan genocide",
-          "url": "https://www.middleeastmonitor.com/20261027-nusseibehs-bid-to-lead-un-sparks-backlash-over-accusations-of-covering-up-sudan-genocide/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 27 Oct 2026 12:40:56 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran’s supreme leader calls for meeting Tehran’s conditions to end war",
-          "url": "https://www.middleeastmonitor.com/20261027-irans-supreme-leader-calls-for-meeting-tehrans-conditions-to-end-war/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 27 Oct 2026 12:24:42 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
