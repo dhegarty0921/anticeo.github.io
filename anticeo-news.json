@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T21:33:11.638248Z",
+  "generated_at": "2026-10-27T21:48:04.579311Z",
   "headline": {
-    "title": "Jay-Z brought out Snoop and Dr. Dre at SoFi, two days before naming himself Super Bowl headliner",
-    "url": "https://thelalocal.org/art-and-culture/music/jay-z-sofi-super-bowl-inglewood-show/"
+    "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+    "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -20,6 +20,13 @@
           "url": "https://www.latimes.com/california/story/2026-10-27/el-nino-flooding-grips-newport-beach-mother-nature-comes-to-collect-some-tax",
           "source": "California",
           "ts": "Tue, 27 Oct 2026 21:22:49 GMT",
+          "section": ""
+        },
+        {
+          "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 27 Oct 2026 17:17:57 -0400",
           "section": ""
         },
         {
@@ -198,13 +205,6 @@
           "section": ""
         },
         {
-          "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6019192/east-potomac-golf-course-renovations-blocked-appeal",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 27 Oct 2026 13:01:37 -0400",
-          "section": ""
-        },
-        {
           "title": "The Pitt’s Noah Wyle named ‘Sexiest Man Alive’: ‘I thought it was a prank’",
           "url": "https://www.thepinknews.com/2026/10/27/noah-wyle-sexiest-man-alive-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -247,13 +247,6 @@
           "section": ""
         },
         {
-          "title": "Azerbaijan’s Hijab Restrictions Exclude Girls From School",
-          "url": "https://www.hrw.org/news/2026/10/27/azerbaijans-hijab-restrictions-exclude-girls-from-school",
-          "source": "Human Rights Watch News",
-          "ts": "Tue, 27 Oct 2026 10:36:05 -0400",
-          "section": ""
-        },
-        {
           "title": "This Oil Company Is Linked to 1,000 Pollution Incidents and Other Violations. Oklahoma Never Punished It.",
           "url": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
           "source": "ProPublica",
@@ -279,13 +272,6 @@
           "url": "https://www.unz.com/kbarrett/blockbuster-films-document-israeli-terrorism-genocide/",
           "source": "The Unz Review:",
           "ts": "Tue, 27 Oct 2026 04:00:02 +0000",
-          "section": ""
-        },
-        {
-          "title": "Egypt: Drop Charges Against Prominent Journalist",
-          "url": "https://www.hrw.org/news/2026/10/27/egypt-drop-charges-against-prominent-journalist",
-          "source": "Human Rights Watch News",
-          "ts": "Tue, 27 Oct 2026 00:00:00 -0400",
           "section": ""
         },
         {
@@ -399,6 +385,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Flying Across the World to Vote",
+          "url": "https://www.theatlantic.com/international/2026/10/israeli-expat-vote/689172/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-27T17:21:12-04:00",
+          "section": ""
+        },
+        {
+          "title": "Rare Nanotyrannus skeleton, sells for $47.3m at New York auction",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/nanotyrannus-dinosaur-fossil-sothebys-auction",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 27 Oct 2026 21:16:38 GMT",
+          "section": ""
+        },
+        {
           "title": "Evangelicals at Chicago rally pray asylum seekers will get a ‘fair day in court’",
           "url": "https://religionnews.com/2026/10/27/evangelicals-in-chicago-pray-asylum-seeker-will-get-a-fair-day-in-court/",
           "source": "RNS",
@@ -427,13 +427,6 @@
           "section": ""
         },
         {
-          "title": "San Francisco estate sells for $10m above listing price as AI boom drives up costs",
-          "url": "https://www.theguardian.com/us-news/2026/oct/27/san-francisco-real-estate-listing-price-ai",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 27 Oct 2026 20:23:03 GMT",
-          "section": ""
-        },
-        {
           "title": "Who Said It: Marissa Mayer, or Odysseus?",
           "url": "https://www.theatlantic.com/newsletters/2026/10/quiz-ai-odysseus-tech-industry-nyt/689174/?utm_source=feed",
           "source": "The Atlantic",
@@ -452,13 +445,6 @@
           "url": "https://www.vox.com/today-explained-newsletter/507880/israel-elections-2026",
           "source": "Vox",
           "ts": "2026-10-27T16:00:31-04:00",
-          "section": ""
-        },
-        {
-          "title": "The Illusion of ‘Radical Transparency’",
-          "url": "https://www.theatlantic.com/ideas/2026/10/elizabeth-holmes-nathan-fielder-trump/689173/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-27T15:00:47-04:00",
           "section": ""
         },
         {
@@ -530,24 +516,45 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "US says it killed five people in strike on alleged drug boat",
-          "url": "https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 27 Oct 2026 20:54:38 +0000",
+          "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+          "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-27T21:42:00Z",
           "section": ""
         },
         {
-          "title": "Netanyahu rallies Likud voters with megaphone in shopping mall",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 27 Oct 2026 20:38:17 +0000",
+          "title": "U.S. Intel Confirms This Is China’s Secret Spaceplane",
+          "url": "https://www.twz.com/news-features/u-s-intel-confirms-this-is-chinas-secret-spaceplane",
+          "source": "TWZ",
+          "ts": "Tue, 27 Oct 2026 17:33:06 -0400",
           "section": ""
         },
         {
-          "title": "Egypt orders closure of leading independent news site Mada Masr",
-          "url": "https://www.aljazeera.com/news/2026/10/27/egypt-orders-closure-of-leading-independent-news-site-mada-masr?traffic_source=rss",
+          "title": "Trump showcases Venezuelan oil as he seeks to rally voters in Texas",
+          "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 27 Oct 2026 20:35:18 +0000",
+          "ts": "Tue, 27 Oct 2026 21:28:33 +0000",
+          "section": ""
+        },
+        {
+          "title": "Financial aid for Ukraine is getting harder to find",
+          "url": "https://www.defenseone.com/policy/2026/10/financial-ukraine/416851/",
+          "source": "Defense One - All Content",
+          "ts": "Tue, 27 Oct 2026 17:28:11 -0400",
+          "section": ""
+        },
+        {
+          "title": "Forever Wars: Why can’t America stop?",
+          "url": "https://www.aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 27 Oct 2026 21:21:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Will players in the Gulf establish a new security framework?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/10/27/will-players-in-the-gulf-establish-a-new-security-framework?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 27 Oct 2026 21:14:12 +0000",
           "section": ""
         },
         {
@@ -572,13 +579,6 @@
           "section": ""
         },
         {
-          "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
-          "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-27T19:34:00Z",
-          "section": ""
-        },
-        {
           "title": "US Army queries industry’s ability to build 21,000 Infantry Squad Vehicles",
           "url": "https://www.armytimes.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
           "source": "News - Army Times",
@@ -590,6 +590,13 @@
           "url": "https://news.antiwar.com/2026/10/27/russia-and-ukraine-confirm-humanitarian-ceasefire-has-taken-effect-in-oleshky/?utm_source=rss&utm_medium=rss&utm_campaign=russia-and-ukraine-confirm-humanitarian-ceasefire-has-taken-effect-in-oleshky",
           "source": "News From Antiwar.com",
           "ts": "Tue, 27 Oct 2026 18:30:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Navantia Launches Second F110 Frigate ‘Roger de Lauria’ Four Months Ahead of Schedule",
+          "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/",
+          "source": "Naval News",
+          "ts": "Tue, 27 Oct 2026 18:26:23 +0000",
           "section": ""
         },
         {
@@ -611,6 +618,13 @@
           "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-27T17:44:00Z",
+          "section": ""
+        },
+        {
+          "title": "Lockheed Martin Showcases 1000 km PrSM Inc 4 Prototype",
+          "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/",
+          "source": "Naval News",
+          "ts": "Tue, 27 Oct 2026 17:41:05 +0000",
           "section": ""
         },
         {
@@ -649,6 +663,13 @@
           "section": ""
         },
         {
+          "title": "Hanwha Defense USA to Acquire Hanwha Philly Shipyard",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard/",
+          "source": "Naval News",
+          "ts": "Tue, 27 Oct 2026 15:51:23 +0000",
+          "section": ""
+        },
+        {
           "title": "The Machine Staff",
           "url": "https://warontherocks.com/cogs-of-war/the-machine-staff/",
           "source": "War on the Rocks",
@@ -670,13 +691,6 @@
           "section": ""
         },
         {
-          "title": "Last-Ditch Meeting In Iran Seeks To Stave-Off A Restart Of All-Out Fighting In The Region",
-          "url": "https://www.twz.com/news-features/last-ditch-meeting-in-iran-seeks-to-stave-off-a-restart-of-all-out-fighting-in-the-region",
-          "source": "TWZ",
-          "ts": "Mon, 26 Oct 2026 19:23:37 -0400",
-          "section": ""
-        },
-        {
           "title": "At last, Army seeing progress in Pacific network",
           "url": "https://www.defenseone.com/technology/2026/10/death-swivel-chair-how-army-indopacom-bridge-comms-allies/416826/",
           "source": "Defense One - All Content",
@@ -688,13 +702,6 @@
           "url": "https://warontherocks.com/tensions-rise/",
           "source": "War on the Rocks",
           "ts": "Mon, 26 Oct 2026 19:45:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
-          "url": "https://www.defenseone.com/policy/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416833/",
-          "source": "Defense One - All Content",
-          "ts": "Mon, 26 Oct 2026 11:31:00 -0400",
           "section": ""
         },
         {
@@ -716,6 +723,13 @@
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "AIPAC-Aligned Groups Gift Doris Matsui a $785k Blitz of Last-Minute Attack Ads",
+          "url": "https://www.dropsitenews.com/p/aipac-aligned-groups-gift-doris-matsui",
+          "source": "Drop Site News",
+          "ts": "Tue, 27 Oct 2026 21:31:54 GMT",
+          "section": ""
+        },
         {
           "title": "Social Media When Elections Are Close: Doing the Impossible Better",
           "url": "https://www.eff.org/deeplinks/2026/10/social-media-when-elections-are-close-doing-impossible-better",
@@ -805,13 +819,6 @@
           "url": "https://www.justsecurity.org/162113/early-edition-october-27-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-october-27-2026",
           "source": "Just Security",
           "ts": "Tue, 27 Oct 2026 12:08:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Violent Crackdown in Northwest Pakistan Aims to Neutralize Party of Imran Khan",
-          "url": "https://www.dropsitenews.com/p/pakistan-imran-khan-emergency-rule-khyber-pakhtunkhwa",
-          "source": "Drop Site News",
-          "ts": "Tue, 27 Oct 2026 00:20:22 GMT",
           "section": ""
         },
         {
@@ -934,13 +941,6 @@
           "url": "https://www.latimes.com/california/story/2026-10-27/immigrant-detainee-dies-at-san-diego-ice-detention-center",
           "source": "California",
           "ts": "Tue, 27 Oct 2026 17:13:54 GMT",
-          "section": ""
-        },
-        {
-          "title": "Egypt: Prominent Journalist Lina Attalah Detained",
-          "url": "https://www.hrw.org/news/2026/10/27/egypt-prominent-journalist-lina-attalah-detained",
-          "source": "Human Rights Watch News",
-          "ts": "Tue, 27 Oct 2026 12:15:00 -0400",
           "section": ""
         },
         {
