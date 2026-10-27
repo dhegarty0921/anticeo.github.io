@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:19:07.401596Z",
+  "generated_at": "2026-10-27T20:20:27.383194Z",
   "headline": {
     "title": "DHS Rejects Oversight Recommendation For ICE Body Cam Auto-Activation",
     "url": "https://www.techdirt.com/2026/10/27/dhs-rejects-oversight-recommendation-for-ice-body-cam-auto-activation/"
@@ -13,6 +13,13 @@
           "url": "https://www.nytimes.com/2026/10/27/us/politics/trump-blanche-elections-comey.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 27 Oct 2026 20:03:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+          "url": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 27 Oct 2026 19:56:02 GMT",
           "section": ""
         },
         {
@@ -34,27 +41,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 27 Oct 2026 19:41:05 GMT",
-          "section": ""
-        },
-        {
-          "title": "ICE is investigating 1,900 cases of suspected noncitizen voting",
-          "url": "https://www.washingtontimes.com/news/2026/oct/27/ice-investigating-1900-cases-suspected-noncitizen-voting/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 27 Oct 2026 15:29:35 -0400",
-          "section": ""
-        },
-        {
-          "title": "Vance says Democratic Senate candidate El-Sayed, streamer Piker have 'zero attachment' to America",
-          "url": "https://www.washingtontimes.com/news/2026/oct/27/vance-rips-el-sayed-piker-zero-attachment-america/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 27 Oct 2026 15:28:56 -0400",
-          "section": ""
-        },
-        {
-          "title": "Woman admits to faking ICE 'kidnapping' to make agency look bad",
-          "url": "https://www.washingtontimes.com/news/2026/oct/27/woman-admits-faking-ice-kidnapping-make-agency-look-bad/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 27 Oct 2026 15:21:52 -0400",
           "section": ""
         },
         {
@@ -93,17 +79,17 @@
           "section": ""
         },
         {
+          "title": "Democrats Have Regained Advantage Among Young Voters",
+          "url": "https://www.realclearpolitics.com/2026/10/27/democrats_have_regained_advantage_among_young_voters_715463.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 27 Oct 2026 13:28:12 -0500",
+          "section": ""
+        },
+        {
           "title": "The Midterms Are a Referendum on Elon Musk",
           "url": "https://www.realclearpolitics.com/2026/10/27/the_midterms_are_a_referendum_on_elon_musk_715624.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 27 Oct 2026 13:28:11 -0500",
-          "section": ""
-        },
-        {
-          "title": "Obama's Dishonest Case for El-Sayed",
-          "url": "https://www.realclearpolitics.com/2026/10/27/obamas_dishonest_case_for_el-sayed_715622.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 27 Oct 2026 13:28:08 -0500",
           "section": ""
         },
         {
@@ -153,13 +139,6 @@
           "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 27 Oct 2026 17:30:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Nanotyrannus skeleton goes to auction in New York with $6m price tag",
-          "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 27 Oct 2026 17:10:15 GMT",
           "section": ""
         },
         {
@@ -413,17 +392,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump and Vance step up attacks on Abdul El-Sayed as president tours Texas in final midterms push – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 27 Oct 2026 20:10:06 GMT",
+          "section": ""
+        },
+        {
+          "title": "Which Is It: A Question for AI, or What Odysseus Asked Upon His Return?",
+          "url": "https://www.theatlantic.com/newsletters/2026/10/quiz-ai-odysseus-tech-industry-nyt/689174/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-27T16:07:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Election Trickery May Not Do the Trick",
+          "url": "https://www.theatlantic.com/ideas/2026/10/trump-midterms-election-schemes/689177/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-27T16:04:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Benjamin Netanyahu&#8217;s day of reckoning is here",
           "url": "https://www.vox.com/today-explained-newsletter/507880/israel-elections-2026",
           "source": "Vox",
           "ts": "2026-10-27T16:00:31-04:00",
-          "section": ""
-        },
-        {
-          "title": "Trump and Vance step up attacks on Abdul El-Sayed as president tours Texas in final midterms push – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 27 Oct 2026 19:58:46 GMT",
           "section": ""
         },
         {
@@ -452,20 +445,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/27/first-telerobotic-surgery",
           "source": "US news | The Guardian",
           "ts": "Tue, 27 Oct 2026 16:54:45 GMT",
-          "section": ""
-        },
-        {
-          "title": "Bernie Sanders Is Suddenly Everywhere",
-          "url": "https://www.theatlantic.com/politics/2026/10/bernie-sanders-michigan-party/689129/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-27T12:46:46-04:00",
-          "section": ""
-        },
-        {
-          "title": "Trump’s Cheesecake Factory Dissent",
-          "url": "https://www.theatlantic.com/ideas/2026/10/obama-cheesecake-factory-trump-elitism/689171/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-27T12:43:57-04:00",
           "section": ""
         },
         {
@@ -544,6 +523,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike",
+          "url": "https://www.aljazeera.com/news/2026/10/27/tanzanias-jailed-opposition-leader-tundu-lissu-ends-brief-hunger-strike?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 27 Oct 2026 20:00:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -565,7 +551,7 @@
           "section": ""
         },
         {
-          "title": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+          "title": "Israel election results live: No clear winner – first TV exit polls",
           "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 27 Oct 2026 19:28:12 +0000",
@@ -576,13 +562,6 @@
           "url": "https://www.armytimes.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
           "source": "News - Army Times",
           "ts": "Tue, 27 Oct 2026 19:22:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
-          "url": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 27 Oct 2026 19:12:35 +0000",
           "section": ""
         },
         {
@@ -890,13 +869,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "In Hebron, Netanyahu is turning displacement into an election spectacle",
-          "url": "https://www.972mag.com/hebron-displacement-netanyahu-election/",
-          "source": "+972 Magazine",
-          "ts": "Tue, 27 Oct 2026 17:17:27 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "New poll upends narrative that Democratic voters are split on El-Sayed",
           "url": "https://mondoweiss.net/2026/10/new-poll-upends-narrative-that-democratic-voters-are-split-on-el-sayed/",
           "source": "Mondoweiss",
@@ -908,20 +880,6 @@
           "url": "https://mondoweiss.net/2026/10/palestinians-who-fled-gaza-for-egypt-are-being-scammed-and-exploited-by-fake-charities/",
           "source": "Mondoweiss",
           "ts": "Tue, 27 Oct 2026 13:00:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "The battle for Jewish votes among Israel’s Palestinian parties",
-          "url": "https://www.972mag.com/joint-list-raam-battle-for-jewish-votes-election-2026/",
-          "source": "+972 Magazine",
-          "ts": "Tue, 27 Oct 2026 12:13:16 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "‘There are no dreams here’: How Israel’s outgoing gov’t remade the West Bank",
-          "url": "https://www.972mag.com/israel-government-west-bank-settlements-displacement/",
-          "source": "+972 Magazine",
-          "ts": "Mon, 26 Oct 2026 17:48:37 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -964,13 +922,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQXpacGVQRDNRZjJOSTVYbkcwXzFyVWtHUjl3YU0zZFNsQ180QVJfcGdRczZqTmkzN1drTTg3RnNVS0xaekFOX0RoblJKajctNWdqOUpYN3lXUUNYRzhJVzZLcGtTbnhjRWx2QUFKTW4yekRmMW1kaHNQU2RhMWtrUnE0dUdXLVFkVEJGb2xUWDZvM2FKNWlXT0lOVXlwZ04zRjBLZVQ5bnVMOVp3OTRua0NfTGJrTGd0eHlTaWF4SWM3WEhJVmNnUmhOUXVhQmFkb1JiaTNFcDU2QWdNaWlqOXR3WXpGaTdXUXRwVlpCTFNmU2lxY3ZiQWlkYVMzakJtQVJLdS1zcDdwYWw0?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Sat, 24 Oct 2026 05:50:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Netanyahu threatens major West Bank attack as Gaza faces famine",
-          "url": "https://electronicintifada.net/blogs/maureen-clare-murphy/netanyahu-threatens-major-west-bank-attack-gaza-faces-famine",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 23 Oct 2026 21:14:36 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
