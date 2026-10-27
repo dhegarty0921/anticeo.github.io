@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T09:12:35.987135Z",
+  "generated_at": "2026-10-27T09:31:59.134229Z",
   "headline": {
-    "title": "Two men charged under National Security Act after RAF Fairford incident",
-    "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss"
+    "title": "Israel votes with Netanyahu’s future on the line",
+    "url": "https://www.middleeastmonitor.com/20261027-israel-votes-with-netanyahus-future-on-the-line/"
   },
   "sections": [
     {
@@ -12,12 +12,19 @@
           "title": "Two men charged under National Security Act after RAF Fairford incident",
           "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Tue, 27 Oct 2026 09:09:29 GMT",
+          "ts": "Tue, 27 Oct 2026 09:26:08 GMT",
           "section": ""
         },
         {
-          "title": "Polymarket has investigated 'dozens' of election-related cases",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
+          "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 27 Oct 2026 09:17:39 GMT",
+          "section": ""
+        },
+        {
+          "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 27 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -30,24 +37,17 @@
           "section": ""
         },
         {
+          "title": "Polymarket has investigated 'dozens' of election-related cases",
+          "url": "https://www.npr.org/2026/10/27/nx-s1-6012304/polymarket-election-betting-surveillance",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 27 Oct 2026 05:00:00 -0400",
+          "section": ""
+        },
+        {
           "title": "Democrats still poised to make gains, but poll shows warning signs for just how many",
           "url": "https://www.npr.org/2026/10/27/nx-s1-6017479/2026-midterms-npr-poll-democrats-trump-approval",
-          "source": "NPR Topics: News",
+          "source": "NPR Topics: Politics",
           "ts": "Tue, 27 Oct 2026 05:00:00 -0400",
-          "section": ""
-        },
-        {
-          "title": "Can Black voting power and Trump fatigue break Mississippi's red wall?",
-          "url": "https://www.npr.org/2026/10/27/nx-s1-6018592/mississippi-senate-trump-colom-black-voter-turnout",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 27 Oct 2026 05:00:00 -0400",
-          "section": ""
-        },
-        {
-          "title": "Budget measures to include fuel duty freeze and food tariff cuts",
-          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 27 Oct 2026 08:53:59 GMT",
           "section": ""
         },
         {
@@ -209,13 +209,6 @@
           "url": "https://www.aclu.org/news/voting-rights/want-to-lower-the-cost-of-living-unrig-our-democracy",
           "source": "Posts | American Civil Liberties Union",
           "ts": "Mon, 26 Oct 2026 21:11:14 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ben & Jerry's founders seek to regain control of brand: Report | Daily Sabah - Daily Sabah",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVlFbWhHaHF0VUxuQUk1RkpSQVY1SkY2dEw4ZTB3ZnBvQWdzcF9oV29IYjEtUWVrdGtjLXVoclIwOXphQVNoRzhxWmhiSENwQjZpN3ZPd052bkJCMVo1T05VTnpEb1J0MzR2cDZwbU9Rd05XeW1ydlBoWlZXWGRDNU80UnhBQXhQbGZOQWpaUHVQVnB5d1BYNHVReFdZZ3BVMlZNdUx30gGmAUFVX3lxTE5NWUVtaEdocXRVTG5BSTVGSlJBVjVKRjZ0TDhlMHdmcG9BZ3NwX2hXb0hiMS1RZWt0a2MtdWhyUjA5emFBU2hHOHFaaGJIQ3BCNmk3dk93TnZuQkIxWjVPTlVOekRvUnQzNHZwNnBtT1F3Tld5bXJ2UGhaVldYZEM1TzRSeEFBeFBsZk5BalpQdVBWcHl3UFg0dVF4V1lncFUyVk11THc?oc=5",
-          "source": "Ben Cohen (Ben & Jerry's)",
-          "ts": "Mon, 26 Oct 2026 21:04:12 GMT",
           "section": ""
         },
         {
@@ -565,6 +558,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Cruise ship crashes into two container ships during storm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/cruise-ship-crashes-into-two-container-ships-during-storm?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 27 Oct 2026 08:46:19 +0000",
+          "section": ""
+        },
+        {
           "title": "Israelis begin voting as Netanyahu fights for political survival",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -576,13 +576,6 @@
           "url": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 27 Oct 2026 08:35:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "India evacuates tens of thousands as ‘very severe’ Cyclone Arnab nears",
-          "url": "https://www.aljazeera.com/news/2026/10/27/india-evacuates-tens-of-thousands-as-very-severe-cyclone-arnab-nears?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 27 Oct 2026 08:02:37 +0000",
           "section": ""
         },
         {
@@ -911,6 +904,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israel votes with Netanyahu’s future on the line",
+          "url": "https://www.middleeastmonitor.com/20261027-israel-votes-with-netanyahus-future-on-the-line/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 27 Oct 2026 09:29:14 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Polls show a deadlock, but betting markets strongly favor Eisenkot to replace Netanyahu",
           "url": "https://forward.com/fast-forward/858506/polls-show-a-deadlock-but-betting-markets-strongly-favor-eisenkot-to-replace-netanyahu/",
           "source": "The Forward",
@@ -929,13 +929,6 @@
           "url": "https://www.middleeastmonitor.com/20261027-iran-pakistan-turkey-saudi-arabia-agree-to-continue-regional-security-cooperation/",
           "source": "Middle East Monitor",
           "ts": "Tue, 27 Oct 2026 08:17:28 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Erdogan says EU objections to Turkey-Libya maritime deal have no legal basis",
-          "url": "https://www.middleeastmonitor.com/20261027-erdogan-says-eu-objections-to-turkey-libya-maritime-deal-have-no-legal-basis/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 27 Oct 2026 08:09:23 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1013,6 +1006,13 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "Market Chatter: Ben & Jerry's Founders Mull Deal With KKR Exec to Separate Ice Cream Brand From Magnum - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONVRFZkU3ZDE5Rm9wX0ZQamtUQktxeHhrWV9hWXd1NmlNYzgtdklvNWQwSUxKS09CaDktSTZmQkVPWlVDZ3dlb1JnbVMwWG9FcW90LUJRVEZXZi0xYzRBMWgwQWE5UTE2UkFkb2dSV2xKdjc2NU1WVVJXUXFkc0FzQ2xwN3FZMllNd1N2bDZ5akNtRHNjZldTd0JR?oc=5",
+          "source": "Ben Cohen (Ben & Jerry's)",
+          "ts": "Tue, 27 Oct 2026 08:56:24 GMT",
+          "section": ""
+        },
         {
           "title": "Estafas con IA: cómo identificarlas, evitarlas y denunciarlas",
           "url": "https://documentedny.com/2026/10/26/estafas-ia-inmigrantes-guia/",
