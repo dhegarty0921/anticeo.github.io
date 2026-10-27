@@ -76,6 +76,7 @@ feeds:
 
  # --- General wires / balance (helps fill gaps & dedupe logic handles repeats) ---
   - https://truthdig.com/feed/
+  - https://truthout.org/feed/ # Truthout (progressive wire; replaces The Forward)
   - https://www.merip.org/feed
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.npr.org/rss/rss.php?id=1001
