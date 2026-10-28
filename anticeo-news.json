@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:34:01.249438Z",
+  "generated_at": "2026-10-28T01:47:33.165680Z",
   "headline": {
     "title": "Amid rash of unusually high DWP bills, board suspends shutoffs for nonpayment",
     "url": "https://www.latimes.com/california/story/2026-10-27/amid-unusually-high-dwp-bills-board-suspends-shutoffs-for-nonpayment"
@@ -51,6 +51,13 @@
           "section": ""
         },
         {
+          "title": "Watch: What happens now after close vote in Israeli election?",
+          "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 28 Oct 2026 00:04:29 GMT",
+          "section": ""
+        },
+        {
           "title": "UFCW Members Protect Local Election After Sham Merger Attempt",
           "url": "https://inthesetimes.com/article/ufcw-members-protect-local-election",
           "source": "In These Times",
@@ -90,13 +97,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 27 Oct 2026 22:34:02 GMT",
-          "section": ""
-        },
-        {
-          "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-          "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 27 Oct 2026 22:30:09 GMT",
           "section": ""
         },
         {
@@ -198,6 +198,13 @@
           "section": ""
         },
         {
+          "title": "Democrats Have Regained Advantage Among Young Voters",
+          "url": "https://www.realclearpolitics.com/2026/10/27/democrats_have_regained_advantage_among_young_voters_715463.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 27 Oct 2026 14:08:40 -0500",
+          "section": ""
+        },
+        {
           "title": "Democrats Make Protecting Fraud 'Day One' Agenda",
           "url": "https://www.realclearpolitics.com/2026/10/27/democrats_make_protecting_fraud_day_one_agenda_715596.html",
           "source": "RealClearPolitics - Homepage",
@@ -209,13 +216,6 @@
           "url": "https://www.realclearpolitics.com/2026/10/27/the_midterms_are_a_referendum_on_elon_musk_715624.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 27 Oct 2026 14:06:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Obama's Dishonest Case for El-Sayed",
-          "url": "https://www.realclearpolitics.com/2026/10/27/obamas_dishonest_case_for_el-sayed_715622.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 27 Oct 2026 14:05:35 -0500",
           "section": ""
         },
         {
@@ -420,6 +420,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump says government to ’terminate’ Biden-era methane emissions rules",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 28 Oct 2026 01:18:58 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump tells Texas campaign rally crowd he’s rolling back environmental rules to curb methane pollution – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
           "source": "US news | The Guardian",
@@ -431,13 +438,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/27/ted-bundy-utah-murder",
           "source": "US news | The Guardian",
           "ts": "Tue, 27 Oct 2026 23:52:55 GMT",
-          "section": ""
-        },
-        {
-          "title": "Body of missing California hiker recovered on Mount Whitney",
-          "url": "https://www.theguardian.com/us-news/2026/oct/27/california-missing-hiker-mount-whitney",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 27 Oct 2026 23:39:17 GMT",
           "section": ""
         },
         {
@@ -663,13 +663,6 @@
           "section": ""
         },
         {
-          "title": "Navantia Launches Second F110 Frigate ‘Roger de Lauria’ Four Months Ahead of Schedule",
-          "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/",
-          "source": "Naval News",
-          "ts": "Tue, 27 Oct 2026 18:26:23 +0000",
-          "section": ""
-        },
-        {
           "title": "Congressmen launch bipartisan military range, test facility caucus",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/10/27/congressmen-launch-bipartisan-military-range-test-facility-caucus/",
           "source": "News - Army Times",
@@ -681,13 +674,6 @@
           "url": "https://dailycaller.com/2026/10/27/signs-point-new-more-deadly-iran-war/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Tue, 27 Oct 2026 17:54:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "Lockheed Martin Showcases 1000 km PrSM Inc 4 Prototype",
-          "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/",
-          "source": "Naval News",
-          "ts": "Tue, 27 Oct 2026 17:41:05 +0000",
           "section": ""
         },
         {
@@ -710,13 +696,6 @@
           "source": "Global Research",
           "ts": "Tue, 27 Oct 2026 17:07:52 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Hanwha Defense USA to Acquire Hanwha Philly Shipyard",
-          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-defense-usa-to-acquire-hanwha-philly-shipyard/",
-          "source": "Naval News",
-          "ts": "Tue, 27 Oct 2026 15:51:23 +0000",
-          "section": ""
         },
         {
           "title": "The Machine Staff",
@@ -773,7 +752,7 @@
           "section": ""
         },
         {
-          "title": "FBI Paid Illegal Immigrant Heroin Dealer Over $300,000 to Work as Informant, Records Show",
+          "title": "FBI Paid Illegal Immigrant Heroin Dealer Over $300,000 to Work as Informant",
           "url": "https://headlineusa.com/fbi-paid-illegal-immigrant-heroin-dealer-over-300000-to-work-as-informant-records-show/",
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Tue, 27 Oct 2026 22:13:51 +0000",
