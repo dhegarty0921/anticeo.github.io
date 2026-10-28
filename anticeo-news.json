@@ -1,25 +1,32 @@
 {
-  "generated_at": "2026-10-28T11:48:00.649690Z",
+  "generated_at": "2026-10-28T12:06:01.831527Z",
   "headline": {
-    "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
-    "url": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html"
+    "title": "The Blood Between Us: Syria After the Fall of Assad",
+    "url": "https://www.middleeastmonitor.com/20261028-the-blood-between-us-syria-after-the-fall-of-assad/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
-          "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
-          "url": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
+          "title": "Can You Trust the Midterm Polls? Three Times Journalists Talk It Out.",
+          "url": "https://www.nytimes.com/2026/10/28/insider/polls-midterm-election.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 28 Oct 2026 11:46:34 +0000",
+          "ts": "Wed, 28 Oct 2026 12:01:20 +0000",
           "section": ""
         },
         {
           "title": "What we know about the crash so far",
           "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 28 Oct 2026 11:42:30 GMT",
+          "ts": "Wed, 28 Oct 2026 11:54:21 GMT",
+          "section": ""
+        },
+        {
+          "title": "What Our New Senate Polls Tell Us About the State of the Midterms",
+          "url": "https://www.nytimes.com/2026/10/28/upshot/polls-south-carolina-minnesota-florida.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 28 Oct 2026 11:46:34 +0000",
           "section": ""
         },
         {
@@ -125,13 +132,6 @@
           "url": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
           "source": "California",
           "ts": "Wed, 28 Oct 2026 10:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Byron Donalds Holds Slim Lead in Florida’s Race for Governor",
-          "url": "https://www.nytimes.com/2026/10/28/us/politics/governors-poll-florida-south-carolina-minnesota.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 28 Oct 2026 09:05:52 +0000",
           "section": ""
         },
         {
@@ -289,6 +289,13 @@
           "section": ""
         },
         {
+          "title": "Syria's New Reconstruction Fund a Chance for Reform",
+          "url": "https://www.hrw.org/news/2026/10/27/syrias-new-reconstruction-fund-a-chance-for-reform",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 27 Oct 2026 12:59:43 -0400",
+          "section": ""
+        },
+        {
           "title": "Rising Prices Squeeze More Americans Ahead of Pivotal Midterm Elections",
           "url": "https://www.truthdig.com/articles/rising-prices-squeeze-more-americans-ahead-of-pivotal-midterm-elections/?utm_source=rss&utm_medium=rss&utm_campaign=rising-prices-squeeze-more-americans-ahead-of-pivotal-midterm-elections",
           "source": "Truthdig",
@@ -307,13 +314,6 @@
           "url": "https://www.truthdig.com/articles/how-tehran-washington-and-london-are-shutting-out-ordinary-iranians/?utm_source=rss&utm_medium=rss&utm_campaign=how-tehran-washington-and-london-are-shutting-out-ordinary-iranians",
           "source": "Truthdig",
           "ts": "Tue, 27 Oct 2026 15:27:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Azerbaijan’s Hijab Restrictions Exclude Girls From School",
-          "url": "https://www.hrw.org/news/2026/10/27/azerbaijans-hijab-restrictions-exclude-girls-from-school",
-          "source": "Human Rights Watch News",
-          "ts": "Tue, 27 Oct 2026 10:36:05 -0400",
           "section": ""
         },
         {
@@ -413,6 +413,41 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The best way to experience Vox: Download our new app",
+          "url": "https://www.vox.com/life/507832/vox-app-download-apple-app-store-google-play-android",
+          "source": "Vox",
+          "ts": "2026-10-28T08:01:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Dementia cases in US projected to rise dramatically by 2050, study finds",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 28 Oct 2026 12:00:03 GMT",
+          "section": ""
+        },
+        {
+          "title": "Why I Suddenly Started Seeing the Same Pair of Pants Everywhere",
+          "url": "https://www.theatlantic.com/culture/2026/10/cool-mom-pants/689181/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-28T08:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Vox launches mobile app, bringing together text, audio, and video journalism",
+          "url": "https://www.vox.com/press-room/508082/vox-launches-mobile-app-text-audio-video-journalism",
+          "source": "Vox",
+          "ts": "2026-10-28T08:00:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 28 Oct 2026 11:43:15 GMT",
+          "section": ""
+        },
+        {
           "title": "Netanyahu Lives Another Day",
           "url": "https://www.nationalreview.com/2026/10/netanyahu-lives-another-day/",
           "source": "National Review",
@@ -420,10 +455,10 @@
           "section": ""
         },
         {
-          "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+          "title": "Both blocs claim upper hand in crucial Israeli election | First Thing",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/first-thing-israeli-election-elon-musk-ai-odyssey",
           "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 11:29:47 GMT",
+          "ts": "Wed, 28 Oct 2026 11:33:27 GMT",
           "section": ""
         },
         {
@@ -434,7 +469,7 @@
           "section": ""
         },
         {
-          "title": "The Best Book Adaptations Aren’t On-Screen",
+          "title": "The Best Kind of Book Adaptation",
           "url": "https://www.theatlantic.com/books/2026/10/best-book-adaptation-opera-george-saunders-lincoln-in-the-bardo/689178/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-28T07:00:00-04:00",
@@ -469,27 +504,6 @@
           "section": ""
         },
         {
-          "title": "The global war on citizenship",
-          "url": "https://www.vox.com/politics/508003/citizenship-ilhan-omar-imran-khan-naza-trump-modi-israel",
-          "source": "Vox",
-          "ts": "2026-10-28T06:30:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Loves me, loves me not: Trump and allies target Fox News over coverage",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/trump-fox-news-truth-social",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 10:00:05 GMT",
-          "section": ""
-        },
-        {
-          "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 10:00:05 GMT",
-          "section": ""
-        },
-        {
           "title": "US Adoptive Parents are Stuck Waiting to Bring Children Home",
           "url": "https://www.christianitytoday.com/2026/10/us-adoptive-parents-are-stuck-waiting-to-bring-children-home/",
           "source": "Christianity Today",
@@ -504,13 +518,6 @@
           "section": ""
         },
         {
-          "title": "Andy Beshear wants Washington to act fast on childcare",
-          "url": "https://www.vox.com/policy/508062/andy-beshear-wants-washington-to-act-fast-on-childcare",
-          "source": "Vox",
-          "ts": "2026-10-28T06:00:00-04:00",
-          "section": ""
-        },
-        {
           "title": "The Traveling Minister on a Quest to Fight Demonic Oppression",
           "url": "https://www.christianitytoday.com/2026/10/deliverance-ministry-demons-jake-kail-charismatic-influence/",
           "source": "Christianity Today",
@@ -522,13 +529,6 @@
           "url": "https://www.latimes.com/california/story/2026-10-28/bass-comes-from-behind-now-in-dead-heat-with-raman-in-mayors-race-new-poll-shows",
           "source": "California",
           "ts": "Wed, 28 Oct 2026 10:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "When ICE Comes for a MAGA Supporter",
-          "url": "https://www.theatlantic.com/newsletters/2026/10/ice-maga-supporter-samuel-sey/689180/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-27T19:19:00-04:00",
           "section": ""
         },
         {
@@ -561,14 +561,28 @@
           "title": "Death toll in Spain train crash rises to at least 30, with rescue and recovery operations ongoing",
           "url": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-30-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-10-28T11:27:00Z",
+          "ts": "2026-10-28T12:00:00Z",
           "section": ""
         },
         {
-          "title": "Japan football association official resigns after AFC aligns with Infantino",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/japan-football-association-official-resigns-after-afc-aligns-with-infantino?traffic_source=rss",
+          "title": "Hackers target US campaign finance system days before midterm elections",
+          "url": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 11:11:32 +0000",
+          "ts": "Wed, 28 Oct 2026 11:47:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "Nigerian artist reframes children with albinism as heroes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/nigerian-artist-reframes-children-with-albinism-as-heroes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 28 Oct 2026 11:46:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Cyclone leaves trail of destruction in India as thousands evacuated",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 28 Oct 2026 11:41:04 +0000",
           "section": ""
         },
         {
@@ -577,20 +591,6 @@
           "source": "Global Research",
           "ts": "Wed, 28 Oct 2026 11:07:32 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Deadly high-speed train collision in Spain",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 11:02:31 +0000",
-          "section": ""
-        },
-        {
-          "title": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 11:00:37 +0000",
-          "section": ""
         },
         {
           "title": "Selected Articles: Video: No, War is Not Good For the Economy",
@@ -883,6 +883,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "The Blood Between Us: Syria After the Fall of Assad",
+          "url": "https://www.middleeastmonitor.com/20261028-the-blood-between-us-syria-after-the-fall-of-assad/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 28 Oct 2026 12:03:03 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Netanyahu’s bloc projected to secure 54 seats, Eisenkot-led bloc 49 as Israeli vote count reaches 84%",
           "url": "https://www.middleeastmonitor.com/20261028-netanyahus-bloc-projected-to-secure-54-seats-eisenkot-led-bloc-49-as-israeli-vote-count-reaches-84/",
           "source": "Middle East Monitor",
@@ -894,13 +901,6 @@
           "url": "https://www.middleeastmonitor.com/20261028-diabetes-patients-face-life-threatening-insulin-shortage-in-gaza/",
           "source": "Middle East Monitor",
           "ts": "Wed, 28 Oct 2026 10:26:04 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Netanyahu’s bloc projected to win 54 seats, Eisenkot-led parties 48 as Israeli vote count reaches 72%",
-          "url": "https://www.middleeastmonitor.com/20261028-netanyahus-bloc-projected-to-win-54-seats-eisenkot-led-parties-48-as-israeli-vote-count-reaches-72/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 28 Oct 2026 10:14:45 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
