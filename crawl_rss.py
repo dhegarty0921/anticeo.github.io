@@ -58,6 +58,10 @@ SECTION_HINT = {
     "https://immigrationimpact.com/feed/": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
     "https://news.google.com/rss/search?q=site:nipnlg.org&hl=en-US&gl=US&ceid=US:en": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
     "https://www.aclu.org/publications/feed": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
+    # YOU LIVE IN A SHITHOLE COUNTRY: social-decay/corruption feeds pinned wholesale.
+    "https://endhomelessness.org/feed/": "YOU LIVE IN A SHITHOLE COUNTRY",
+    "https://publictrusttracker.org/feed.xml": "YOU LIVE IN A SHITHOLE COUNTRY",
+    "https://news.google.com/rss/search?q=site:cdc.gov%20overdose%20deaths&hl=en-US&gl=US&ceid=US:en": "YOU LIVE IN A SHITHOLE COUNTRY",
 }
 
 # Clean display labels for feeds whose <title> is a search query (Google News
@@ -70,6 +74,8 @@ SOURCE_LABEL = {
     "https://news.google.com/rss/search?q=site:nipnlg.org&hl=en-US&gl=US&ceid=US:en": "National Immigration Project",
     "https://www.aclu.org/publications/feed": "ACLU Reports",
     "https://news.google.com/rss/search?q=site:codepink.org&hl=en-US&gl=US&ceid=US:en": "CODEPINK",
+    "https://news.google.com/rss/search?q=site:cdc.gov%20overdose%20deaths&hl=en-US&gl=US&ceid=US:en": "CDC Overdose Data",
+    "https://publictrusttracker.org/feed.xml": "Public Trust Tracker",
 }
 
 for url in src.get("feeds", []):

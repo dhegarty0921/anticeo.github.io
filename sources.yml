@@ -86,3 +86,7 @@ feeds:
  # --- YOU LIVE IN A SHITHOLE COUNTRY (corruption: federal/state/local govt, Trump family, Kushner) ---
   - https://news.google.com/rss/search?q=%22Jared%20Kushner%22%20investigation&hl=en-US&gl=US&ceid=US:en # Kushner accountability beat (Google News mirror; keyword-routed)
   - https://news.google.com/rss/search?q=%22Trump%20Organization%22%20fraud&hl=en-US&gl=US&ceid=US:en # Trump Organization legal/fraud beat (Google News mirror; keyword-routed)
+  - https://endhomelessness.org/feed/ # National Alliance to End Homelessness (pinned)
+  - https://www.justsecurity.org/feed/ # Just Security (unpinned: natsec stories keep their sections, corruption pieces route here by keyword)
+  - https://publictrusttracker.org/feed.xml # Public Trust Tracker — corruption/ethics case developments (Atom; pinned)
+  - https://news.google.com/rss/search?q=site:cdc.gov%20overdose%20deaths&hl=en-US&gl=US&ceid=US:en # CDC overdose/fentanyl data reports (Google News mirror; pinned)
