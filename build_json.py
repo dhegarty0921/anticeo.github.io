@@ -126,6 +126,12 @@ RULES = [
             "student loan","student loans","student debt","loan forgiveness",
             "student loan debt","defaulted on student",
             "homeless","homelessness","unhoused","shelter system","tent city",
+            # drug crisis / societal collapse
+            "fentanyl","fentanyl crisis","fentanyl epidemic","fentanyl deaths",
+            "fentanyl overdose","fentanyl trafficking","overdose deaths",
+            "overdose epidemic","opioid","opioids","opioid crisis",
+            "opioid epidemic","drug overdose","narcan","naloxone",
+            "meth epidemic","drug crisis","drug deaths",
             ]},
     {"title":"ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
      "domains":[],
