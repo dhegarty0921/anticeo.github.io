@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:04:45.756057Z",
+  "generated_at": "2026-10-28T22:19:22.547904Z",
   "headline": {
     "title": "Sri Lanka: Organized Crime Bill Violates Rights Standards",
     "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards"
@@ -13,6 +13,20 @@
           "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards",
           "source": "Human Rights Watch News",
           "ts": "Thu, 29 Oct 2026 01:00:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 28 Oct 2026 22:13:35 GMT",
+          "section": ""
+        },
+        {
+          "title": "Southern California's flood risks extended another day, weather service says",
+          "url": "https://www.latimes.com/california/story/2026-10-28/southern-californias-flood-risks-extended",
+          "source": "California",
+          "ts": "Wed, 28 Oct 2026 22:05:44 GMT",
           "section": ""
         },
         {
@@ -72,13 +86,6 @@
           "section": ""
         },
         {
-          "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 28 Oct 2026 21:07:06 GMT",
-          "section": ""
-        },
-        {
           "title": "58-Year-Old Republican Blames Sending Unsolicited Nudes on ‘Youthful Indiscretion’",
           "url": "https://www.rollingstone.com/politics/politics-news/brent-taylor-blames-sending-nudes-youthful-indiscretion-1235649481/",
           "source": "Politics News",
@@ -125,6 +132,13 @@
           "url": "https://thelalocal.org/business-development/lineage-fire-city-business-grants/",
           "source": "LA Local",
           "ts": "Wed, 28 Oct 2026 19:04:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Destination Crenshaw explains the reasons for project delays. Here’s how some community members responded.",
+          "url": "https://thelalocal.org/neighborhoods/south-la/destination-crenshaw-explains-the-reasons-for-project-delays-heres-how-some-community-members-responded/",
+          "source": "LA Local",
+          "ts": "Wed, 28 Oct 2026 19:00:00 +0000",
           "section": ""
         },
         {
@@ -418,10 +432,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Three takeaways from a tight Israeli election with no clear outcome",
+          "url": "https://religionnews.com/2026/10/28/three-takeaways-from-tight-israeli-election/",
+          "source": "RNS",
+          "ts": "Wed, 28 Oct 2026 22:11:20 +0000",
+          "section": ""
+        },
+        {
+          "title": "New book makes fiery claims about Jared Kushner’s finances in Trump’s first term",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 28 Oct 2026 21:56:39 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump rages at Alaska Democrat whose campaign reportedly recruited man with same name as Republican opponent – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
           "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 21:31:16 GMT",
+          "ts": "Wed, 28 Oct 2026 21:53:56 GMT",
           "section": ""
         },
         {
@@ -436,13 +464,6 @@
           "url": "https://religionnews.com/2026/10/28/the-vatican-museums-celebrate-almost-a-century-of-popemobiles-with-new-exhibit/",
           "source": "RNS",
           "ts": "Wed, 28 Oct 2026 20:23:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Education secretary Linda McMahon plans to spend nearly $43,000 on office furniture",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/education-secretary-mcmahon-office-furniture",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 20:15:01 GMT",
           "section": ""
         },
         {
@@ -471,13 +492,6 @@
           "url": "https://www.christianitytoday.com/2026/10/israeli-christians-await-results-in-historic-election/",
           "source": "Christianity Today",
           "ts": "Wed, 28 Oct 2026 19:00:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "How religion collided with race and politics in Brazil’s presidential election",
-          "url": "https://religionnews.com/2026/10/28/how-religion-collided-with-race-and-politics-in-brazils-presidential-election/",
-          "source": "RNS",
-          "ts": "Wed, 28 Oct 2026 18:06:36 +0000",
           "section": ""
         },
         {
@@ -549,6 +563,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Russia and Ukraine Expect To Hold Trilateral Talks With the US in Abu Dhabi, But No Date Set",
+          "url": "https://news.antiwar.com/2026/10/28/russia-and-ukraine-expect-to-hold-trilateral-talks-with-the-us-in-abu-dhabi-but-no-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=russia-and-ukraine-expect-to-hold-trilateral-talks-with-the-us-in-abu-dhabi-but-no-date-set",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 28 Oct 2026 22:13:24 +0000",
+          "section": ""
+        },
+        {
           "title": "Costa Rica’s mega-prison receives first inmates",
           "url": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -616,13 +637,6 @@
           "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation/",
           "source": "War on the Rocks",
           "ts": "Wed, 28 Oct 2026 18:58:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Report: US Sending an Additional Patriot System to Israel To Prepare for Potential Attacks on Iran",
-          "url": "https://news.antiwar.com/2026/10/28/report-us-sending-an-additional-patriot-system-to-israel-to-prepare-for-potential-attacks-on-iran/?utm_source=rss&utm_medium=rss&utm_campaign=report-us-sending-an-additional-patriot-system-to-israel-to-prepare-for-potential-attacks-on-iran",
-          "source": "News From Antiwar.com",
-          "ts": "Wed, 28 Oct 2026 18:33:10 +0000",
           "section": ""
         },
         {
@@ -724,24 +738,10 @@
           "section": ""
         },
         {
-          "title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
-          "url": "https://www.navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design/",
-          "source": "Naval News",
-          "ts": "Wed, 28 Oct 2026 09:29:00 +0000",
-          "section": ""
-        },
-        {
           "title": "The Next Congress Needs to Reclaim Its Oversight of the Department of Defense",
           "url": "https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/",
           "source": "War on the Rocks",
           "ts": "Wed, 28 Oct 2026 07:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "French Parliamentary Report Urges Construction of a Second Aircraft Carrier by 2029",
-          "url": "https://www.navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029/",
-          "source": "Naval News",
-          "ts": "Wed, 28 Oct 2026 06:52:00 +0000",
           "section": ""
         },
         {
@@ -773,13 +773,6 @@
           "section": ""
         },
         {
-          "title": "Navantia Launches Second F110 Frigate ‘Roger de Lauria’ Four Months Ahead of Schedule",
-          "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/",
-          "source": "Naval News",
-          "ts": "Tue, 27 Oct 2026 18:26:23 +0000",
-          "section": ""
-        },
-        {
           "title": "‘Nothing Will Be the Same’: Iran Warns of Unexpected Response to Renewed Attack - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWpnNFg0Y0cwSkp4MmF5MVNieFVYOUhOOWQ3aGJqT3h4T3ZnNUtJQXppeW5FQ0RfY0J2ZlRkUUxPZTZHamsxVVBmQ294QWxlMXgwd2lQdThIS21xbl9RWlN4ekVOOUdhQ3lHZFZpN3Z2N1djU09fdzBIUWZOczV3MU51ZmJkVkR3M3gxMmpob3VGMWxTeER6ZW1mR0hiWklnd3Y0ellXZkhlWlE1SG4zZU5n?oc=5",
           "source": "via Google News",
@@ -791,6 +784,13 @@
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "The Metric Is Not The Mission: The Full Paper",
+          "url": "https://www.techdirt.com/2026/10/28/the-metric-is-not-the-mission-the-full-paper/",
+          "source": "Techdirt",
+          "ts": "Wed, 28 Oct 2026 22:05:55 +0000",
+          "section": ""
+        },
         {
           "title": "Just the Docs: WMO Greenhouse Gas Bulletin Reports Record Atmospheric CO2 Ahead of COP31",
           "url": "https://www.justsecurity.org/162303/wmo-greenhouse-gas-bulletin-record-co2/?utm_source=rss&utm_medium=rss&utm_campaign=wmo-greenhouse-gas-bulletin-record-co2",
@@ -838,13 +838,6 @@
           "url": "https://www.techdirt.com/2026/10/28/never-mind-the-deepfakes-chatbots-have-to-deal-with-election-lies-being-free-while-truth-is-paywalled/",
           "source": "Techdirt",
           "ts": "Wed, 28 Oct 2026 18:06:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Daily Deal: JavaScript Crash Course",
-          "url": "https://www.techdirt.com/2026/10/28/daily-deal-javascript-crash-course/",
-          "source": "Techdirt",
-          "ts": "Wed, 28 Oct 2026 18:01:00 +0000",
           "section": ""
         },
         {
