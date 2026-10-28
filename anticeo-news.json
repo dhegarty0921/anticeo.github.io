@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:18:21.702776Z",
+  "generated_at": "2026-10-28T21:33:43.545268Z",
   "headline": {
     "title": "Sri Lanka: Organized Crime Bill Violates Rights Standards",
     "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards"
@@ -16,10 +16,45 @@
           "section": ""
         },
         {
-          "title": "98 Percent of Trump’s Refugee Admissions Have Been White South Africans",
-          "url": "https://truthout.org/articles/98-percent-of-trumps-refugee-admissions-have-been-white-south-africans/",
+          "title": "Officials Back Trump’s Claim That Triumphal Arch Is Needed for National Security",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-arch-national-security.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 28 Oct 2026 21:28:38 +0000",
+          "section": ""
+        },
+        {
+          "title": "Justice Dept. Turns Civil Rights Group’s Informant Against It",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/justice-dept-splc-informant.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 28 Oct 2026 21:25:20 +0000",
+          "section": ""
+        },
+        {
+          "title": "Remembering Dolores Huerta: A force of power and love",
+          "url": "https://thelalocal.org/beyond-the-story/dolores-huerta-social-justice-los-angeles/",
+          "source": "LA Local",
+          "ts": "Wed, 28 Oct 2026 21:20:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Tom Tiffany, GOP Candidate for WI Governor, Refuses to Sign Pro-Democracy Pledge",
+          "url": "https://truthout.org/articles/tom-tiffany-gop-candidate-for-wi-governor-refuses-to-sign-pro-democracy-pledge/",
           "source": "Truthout",
-          "ts": "Wed, 28 Oct 2026 21:08:40 +0000",
+          "ts": "Wed, 28 Oct 2026 21:20:13 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ahead of Midterms, Tenants Call Trump’s Housing Policy a “Catastrophic Failure”",
+          "url": "https://truthout.org/articles/ahead-of-midterms-tenants-call-trumps-housing-policy-a-catastrophic-failure/",
+          "source": "Truthout",
+          "ts": "Wed, 28 Oct 2026 21:18:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 28 Oct 2026 17:15:09 -0400",
           "section": ""
         },
         {
@@ -30,24 +65,10 @@
           "section": ""
         },
         {
-          "title": "Trump Says Venezuela Gave Him 1M Barrels of Oil as “Gift,” as US Seizes Revenues",
-          "url": "https://truthout.org/articles/trump-says-venezuela-gave-him-1m-barrels-of-oil-as-gift-as-us-seizes-revenues/",
-          "source": "Truthout",
-          "ts": "Wed, 28 Oct 2026 20:26:51 +0000",
-          "section": ""
-        },
-        {
           "title": "58-Year-Old Republican Blames Sending Unsolicited Nudes on ‘Youthful Indiscretion’",
           "url": "https://www.rollingstone.com/politics/politics-news/brent-taylor-blames-sending-nudes-youthful-indiscretion-1235649481/",
           "source": "Politics News",
           "ts": "Wed, 28 Oct 2026 20:16:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gina Hinojosa’s Texas Governor Campaign Tests Limits of New Rules for Digital Political Ads",
-          "url": "https://www.nytimes.com/2026/10/28/business/media/gina-hinojosa-political-ads-texas-midterm-elections.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 28 Oct 2026 19:57:38 +0000",
           "section": ""
         },
         {
@@ -107,13 +128,6 @@
           "section": ""
         },
         {
-          "title": "LA is spending more but getting less. A new mayor won’t fix it.",
-          "url": "https://thelalocal.org/los-angeles-city/la-is-spending-more-but-getting-less-a-new-mayor-wont-fix-it/",
-          "source": "LA Local",
-          "ts": "Wed, 28 Oct 2026 18:57:07 +0000",
-          "section": ""
-        },
-        {
           "title": "How did Flávio Bolsonaro end up in Miami?",
           "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -139,20 +153,6 @@
           "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
           "source": "NPR Topics: News",
           "ts": "Wed, 28 Oct 2026 14:07:33 -0400",
-          "section": ""
-        },
-        {
-          "title": "Fed holds interest rates steady even as inflation remains stubborn",
-          "url": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
-          "source": "NPR Topics: News",
-          "ts": "Wed, 28 Oct 2026 14:04:42 -0400",
-          "section": ""
-        },
-        {
-          "title": "What Does the Cheesecake Factory’s Designer Think of Obama and Trump’s Jabs at His Décor?",
-          "url": "https://www.nytimes.com/2026/10/28/dining/cheesecake-factory-obama-trump-midterm-elections.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 28 Oct 2026 17:55:11 +0000",
           "section": ""
         },
         {
@@ -425,7 +425,14 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump rages at Alaska Democrat who reportedly recruited man with same name as Republican opponent – live",
+          "title": "California election official says federal agents threatened him over ‘voter fraud’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/28/california-elections-federal-agents-voter-fraud",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 28 Oct 2026 21:04:02 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump rages at Alaska Democrat whose campaign reportedly recruited man with same name as Republican opponent – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
           "source": "US news | The Guardian",
           "ts": "Wed, 28 Oct 2026 20:36:19 GMT",
@@ -453,7 +460,7 @@
           "section": ""
         },
         {
-          "title": "Vibe Coders Are Clogging Up the App Store",
+          "title": "There Are Too Many Apps for That",
           "url": "https://www.theatlantic.com/technology/2026/10/vibe-coders-are-clogging-app-store-slop/689150/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-28T16:03:50-04:00",
@@ -464,13 +471,6 @@
           "url": "https://religionnews.com/2026/10/28/as-votes-are-counted-after-israels-election-there-is-a-lot-to-fear/",
           "source": "RNS",
           "ts": "Wed, 28 Oct 2026 19:53:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 19:48:44 GMT",
           "section": ""
         },
         {
@@ -562,6 +562,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "The US space industry will suffer for Ukraine’s Starlink outage, experts say",
+          "url": "https://www.defenseone.com/business/2026/10/us-space-industry-ukraine-starlink/416890/",
+          "source": "Defense One - All Content",
+          "ts": "Wed, 28 Oct 2026 17:09:55 -0400",
+          "section": ""
+        },
         {
           "title": "Araghchi: Iran Ready To Defend Itself But Still Giving Diplomacy a Chance",
           "url": "https://news.antiwar.com/2026/10/28/araghchi-iran-ready-to-defend-itself-but-still-giving-diplomacy-a-chance/?utm_source=rss&utm_medium=rss&utm_campaign=araghchi-iran-ready-to-defend-itself-but-still-giving-diplomacy-a-chance",
@@ -756,13 +763,6 @@
           "url": "https://www.defenseone.com/policy/2026/10/financial-ukraine/416851/",
           "source": "Defense One - All Content",
           "ts": "Tue, 27 Oct 2026 17:28:11 -0400",
-          "section": ""
-        },
-        {
-          "title": "The Army’s only remaining SFAB helped broker a ceasefire in southeast Asia",
-          "url": "https://www.defenseone.com/policy/2026/10/armys-last-sfab-helped-broker-ceasefire-southeast-asia/416846/",
-          "source": "Defense One - All Content",
-          "ts": "Tue, 27 Oct 2026 16:35:16 -0400",
           "section": ""
         },
         {
