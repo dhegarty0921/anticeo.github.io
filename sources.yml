@@ -55,6 +55,7 @@ feeds:
   - https://www.972mag.com/feed/ # +972 Magazine (Israeli far-right / Ben-Gvir beat)
   - https://www.middleeastmonitor.com/feed/ # Middle East Monitor
   - https://www.palestinechronicle.com/feed/ # Palestine Chronicle (Cloudflare; falls back to Google News mirror)
+  - https://news.google.com/rss/search?q=site:codepink.org&hl=en-US&gl=US&ceid=US:en # CODEPINK (no native feed; Google News mirror, pinned to this section)
 
   # --- ICE IS A DRESS REHEARSAL FOR STATE REPRESSION (ICE raids/deportations/detention) ---
   - https://latinorebels.com/feed/ # Latino Rebels (immigration/ICE beat, pinned)

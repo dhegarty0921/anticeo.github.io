@@ -46,6 +46,9 @@ SECTION_HINT = {
     # are squarely the settler-colonial theme.
     "https://electronicintifada.net/rss.xml": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     "https://www.mintpressnews.com/feed/": "SETTLER COLONIAL STATE FALSE FLAG LIES",
+    # CODEPINK: no native RSS; Google News mirror pinned wholesale (antiwar/
+    # anti-Zionist beat spans the settler-colonial theme).
+    "https://news.google.com/rss/search?q=site:codepink.org&hl=en-US&gl=US&ceid=US:en": "SETTLER COLONIAL STATE FALSE FLAG LIES",
     # Palestine Chronicle intentionally UNPINNED: Gaza war coverage classifies
     # into MILITARY INDUSTRIAL COMPLEX by keyword.
     # Immigration-centric outlets pinned wholesale to the ICE section.
@@ -66,6 +69,7 @@ SOURCE_LABEL = {
     "https://news.google.com/rss/search?q=%22Ben+Cohen%22+%22Ben+%26+Jerry%27s%22&hl=en-US&gl=US&ceid=US:en": "Ben Cohen (Ben & Jerry's)",
     "https://news.google.com/rss/search?q=site:nipnlg.org&hl=en-US&gl=US&ceid=US:en": "National Immigration Project",
     "https://www.aclu.org/publications/feed": "ACLU Reports",
+    "https://news.google.com/rss/search?q=site:codepink.org&hl=en-US&gl=US&ceid=US:en": "CODEPINK",
 }
 
 for url in src.get("feeds", []):
