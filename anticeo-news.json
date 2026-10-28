@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T17:19:04.229052Z",
+  "generated_at": "2026-10-28T17:22:50.082372Z",
   "headline": {
-    "title": "US civil rights leader Dolores Huerta dies aged 96",
-    "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss"
+    "title": "Canadian advocates, academics urge reassessment of refused study permits for Palestinian students from Gaza",
+    "url": "https://www.middleeastmonitor.com/20261028-canadian-advocates-academics-urge-reassessment-of-refused-study-permits-for-palestinian-students-from-gaza/"
   },
   "sections": [
     {
@@ -125,13 +125,6 @@
           "url": "https://www.truthdig.com/articles/what-if-dems-didnt-scuttle-henry-wallaces-vp-nomination-in-1944/?utm_source=rss&utm_medium=rss&utm_campaign=what-if-dems-didnt-scuttle-henry-wallaces-vp-nomination-in-1944",
           "source": "Truthdig",
           "ts": "Wed, 28 Oct 2026 15:51:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Expectations Management Hustle",
-          "url": "https://www.truthdig.com/articles/the-expectations-management-hustle/?utm_source=rss&utm_medium=rss&utm_campaign=the-expectations-management-hustle",
-          "source": "Truthdig",
-          "ts": "Wed, 28 Oct 2026 15:50:23 +0000",
           "section": ""
         },
         {
@@ -268,13 +261,6 @@
           "section": ""
         },
         {
-          "title": "Surprising close encounters with marine predators in California bring awe and fear",
-          "url": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
-          "source": "California",
-          "ts": "Wed, 28 Oct 2026 10:00:00 GMT",
-          "section": ""
-        },
-        {
           "title": "How Cleta Mitchell Turned Trump’s “Big Lie” Into a Movement",
           "url": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
           "source": "ProPublica",
@@ -310,13 +296,6 @@
           "section": ""
         },
         {
-          "title": "Start watching your speed—LA speed cameras are now online",
-          "url": "https://thelalocal.org/transportation/start-watching-your-speed-la-speed-cameras-are-now-online/",
-          "source": "LA Local",
-          "ts": "Tue, 27 Oct 2026 23:58:28 +0000",
-          "section": ""
-        },
-        {
           "title": "UCLA receives $470,000 commitment from Cherokee Nation to advance Indigenous filmmaking",
           "url": "https://newsroom.ucla.edu/stories/ucla-secures-cherokee-nation-commitment-advance-indigenous-filmmaking",
           "source": "UCLA",
@@ -349,13 +328,6 @@
           "url": "https://theappeal.org/private-prison-companies-are-pouring-money-into-gop-coffers-ahead-of-midterms/",
           "source": "The Appeal",
           "ts": "Tue, 27 Oct 2026 18:29:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "U.S. Midterm Consequence Preview",
-          "url": "https://www.moonofalabama.org/2026/10/u-s-midterm-consequence-review.html",
-          "source": "Moon of Alabama",
-          "ts": "Tue, 27 Oct 2026 17:39:57 +0000",
           "section": ""
         },
         {
@@ -439,11 +411,33 @@
     },
     {
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
-      "items": []
+      "items": [
+        {
+          "title": "Justice Department suit to stop Alaska certifying its Senate result: 28 Oct 2026",
+          "url": "https://publictrusttracker.org/case/elx-013-justice-department-suit-to-stop-alaska-certifying-its-senate/",
+          "source": "Public Trust Tracker",
+          "ts": "2026-10-28T00:00:00Z",
+          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
+        },
+        {
+          "title": "Prosecution of John Bolton over classified information: 28 Oct 2026",
+          "url": "https://publictrusttracker.org/case/pwr-004-prosecution-of-john-bolton-over-classified-information/",
+          "source": "Public Trust Tracker",
+          "ts": "2026-10-28T00:00:00Z",
+          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
+        }
+      ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "The bottomless depths of Donald Trump’s midterm rally bigotry",
+          "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-obama-rally-midterms-analysis",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 28 Oct 2026 17:11:04 GMT",
+          "section": ""
+        },
         {
           "title": "The Man Who Risked Death Documenting ISIS",
           "url": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-omar-mohammed-eye-of-mosul/689185/?utm_source=feed",
@@ -466,13 +460,6 @@
           "section": ""
         },
         {
-          "title": "Dolores Huerta, California labor leader and civil rights champion, dies aged 96",
-          "url": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-dead-california",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 16:40:16 GMT",
-          "section": ""
-        },
-        {
           "title": "What a Painfully Weird Movie Can Show Us About Lying and Liars",
           "url": "https://www.christianitytoday.com/2026/10/you-can-see-everything-review-russell-moore-liars/",
           "source": "Christianity Today",
@@ -480,7 +467,7 @@
           "section": ""
         },
         {
-          "title": "Three Scenarios for Israel",
+          "title": "Israeli Election Results Hazy, Try Again",
           "url": "https://www.theatlantic.com/ideas/2026/10/israel-election-outcome-possibilities/689184/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-28T12:19:00-04:00",
@@ -575,6 +562,27 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Iran Open Thread 2026-240",
+          "url": "https://www.moonofalabama.org/2026/10/iran-open-thread-2026-240.html",
+          "source": "Moon of Alabama",
+          "ts": "Wed, 28 Oct 2026 17:19:32 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ukraine Open Thread 2026-239",
+          "url": "https://www.moonofalabama.org/2026/10/ukraine-open-thread-2026-239.html",
+          "source": "Moon of Alabama",
+          "ts": "Wed, 28 Oct 2026 17:19:07 +0000",
+          "section": ""
+        },
+        {
+          "title": "Open (Not Ukraine or Iran) Thread 2026-238",
+          "url": "https://www.moonofalabama.org/2026/10/open-not-ukraine-or-iran-thread-2026-238.html",
+          "source": "Moon of Alabama",
+          "ts": "Wed, 28 Oct 2026 17:18:43 +0000",
+          "section": ""
+        },
         {
           "title": "Evacuation from Oleshky: How are preparations going?",
           "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf",
@@ -791,13 +799,6 @@
           "source": "via Google News",
           "ts": "Sun, 25 Oct 2026 18:34:57 GMT",
           "section": ""
-        },
-        {
-          "title": "Iran Open Thread 2026-237",
-          "url": "https://www.moonofalabama.org/2026/10/iran-open-thread-2026-237.html",
-          "source": "Moon of Alabama",
-          "ts": "Sun, 25 Oct 2026 13:20:27 +0000",
-          "section": ""
         }
       ]
     },
@@ -936,6 +937,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Canadian advocates, academics urge reassessment of refused study permits for Palestinian students from Gaza",
+          "url": "https://www.middleeastmonitor.com/20261028-canadian-advocates-academics-urge-reassessment-of-refused-study-permits-for-palestinian-students-from-gaza/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 28 Oct 2026 17:20:03 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "One hour to leave: Hebron families displaced by Israel’s military operation don’t know when they’ll return",
           "url": "https://mondoweiss.net/2026/10/one-hour-to-leave-hebron-families-displaced-by-israels-military-operation-dont-know-when-theyll-return/",
           "source": "Mondoweiss",
@@ -957,13 +965,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Israel’s final election results expected Thursday evening: Election official",
-          "url": "https://www.middleeastmonitor.com/20261028-israels-final-election-results-expected-thursday-evening-election-official/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 28 Oct 2026 15:05:33 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "New poll upends narrative that Democratic voters are split on El-Sayed",
           "url": "https://mondoweiss.net/2026/10/new-poll-upends-narrative-that-democratic-voters-are-split-on-el-sayed/",
           "source": "Mondoweiss",
@@ -976,13 +977,6 @@
           "source": "Mondoweiss",
           "ts": "Tue, 27 Oct 2026 13:00:00 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Three Times Netanyahu Failed To Reignite War – Saudi-Iran Negotiations",
-          "url": "https://www.moonofalabama.org/2026/10/three-times-netanyahu-failed-to-reignite-war-saudi-iran-negotiations.html",
-          "source": "Moon of Alabama",
-          "ts": "Mon, 26 Oct 2026 15:01:07 +0000",
-          "section": ""
         },
         {
           "title": "Netanyahu Faces Treason Allegations as Army Chief Resists Order Risking Iran War - Palestine Chronicle",
