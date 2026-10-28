@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-28T14:04:21.556905Z",
+  "generated_at": "2026-10-28T14:20:59.625872Z",
   "headline": {
-    "title": "Indonesia should stop selling palm oil to Israel",
-    "url": "https://www.middleeastmonitor.com/20261028-indonesia-should-stop-selling-palm-oil-to-israel/"
+    "title": "How big should Democrats go on childcare? We asked a potential 2028 contender.",
+    "url": "https://www.vox.com/policy/508062/andy-beshear-wants-washington-to-act-fast-on-childcare"
   },
   "sections": [
     {
@@ -170,8 +170,8 @@
           "section": ""
         },
         {
-          "title": "Your last-minute guide to California governor candidates’ views on gas prices, EVs and high-speed rail",
-          "url": "https://www.latimes.com/california/story/2026-10-28/california-governor-candidates-views-on-gas-prices-evs-high-speed-rail",
+          "title": "Surprising close encounters with marine predators in California bring awe and fear",
+          "url": "https://www.latimes.com/california/story/2026-10-28/surprising-close-encounters-with-marine-predators-in-california",
           "source": "California",
           "ts": "Wed, 28 Oct 2026 10:00:00 GMT",
           "section": ""
@@ -230,6 +230,13 @@
           "url": "https://newsroom.ucla.edu/in-the-news/urban-birds-may-be-more-afraid-of-women-than-men-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Tue, 27 Oct 2026 22:39:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Israeli election has fractured result, coalition-building comes next",
+          "url": "https://www.washingtontimes.com/news/2026/oct/27/israeli-election-fractured-result-coalition-building-comes-next/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Tue, 27 Oct 2026 21:56:00 +0000",
           "section": ""
         },
         {
@@ -300,13 +307,6 @@
           "url": "https://theappeal.org/private-prison-companies-are-pouring-money-into-gop-coffers-ahead-of-midterms/",
           "source": "The Appeal",
           "ts": "Tue, 27 Oct 2026 18:29:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "What Israel’s election could mean for Palestinians in Gaza, West Bank",
-          "url": "https://www.al-monitor.com/originals/2026/10/what-israels-election-could-mean-palestinians-gaza-west-bank",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 27 Oct 2026 17:44:31 +0000",
           "section": ""
         },
         {
@@ -441,17 +441,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Humans can coexist with AI. Here’s how.",
-          "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
+          "title": "How big should Democrats go on childcare? We asked a potential 2028 contender.",
+          "url": "https://www.vox.com/policy/508062/andy-beshear-wants-washington-to-act-fast-on-childcare",
           "source": "Vox",
-          "ts": "2026-10-28T10:00:00-04:00",
+          "ts": "2026-10-28T10:15:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Harvard graduate speaks at Oxford University on need to encourage marriage, intact families, and the best parental style in order to help students thrive",
+          "url": "https://religionnews.com/2026/10/28/harvard-graduate-speaks-at-oxford-university-on-need-to-encourage-marriage-intact-families-and-the-best-parental-style-in-order-to-help-students-thrive/",
+          "source": "RNS",
+          "ts": "Wed, 28 Oct 2026 14:12:39 +0000",
           "section": ""
         },
         {
           "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
           "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 13:44:09 GMT",
+          "ts": "Wed, 28 Oct 2026 14:09:24 GMT",
+          "section": ""
+        },
+        {
+          "title": "Amid mixed Pew findings, youngest adults outpace parents’ generation in worship attendance",
+          "url": "https://religionnews.com/2026/10/28/amid-mixed-pew-findings-youngest-adults-outpace-parents-generation-in-worship-attendance/",
+          "source": "RNS",
+          "ts": "Wed, 28 Oct 2026 14:08:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "Humans can coexist with AI. Here’s how.",
+          "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
+          "source": "Vox",
+          "ts": "2026-10-28T10:00:00-04:00",
           "section": ""
         },
         {
@@ -486,13 +507,6 @@
           "title": "The Pants That Define the Cool Millennial Mom",
           "url": "https://www.theatlantic.com/culture/2026/10/cool-mom-pants/689181/?utm_source=feed",
           "source": "The Atlantic",
-          "ts": "2026-10-28T08:00:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Vox launches mobile app, bringing together text, audio, and video journalism",
-          "url": "https://www.vox.com/press-room/508082/vox-launches-mobile-app-text-audio-video-journalism",
-          "source": "Vox",
           "ts": "2026-10-28T08:00:00-04:00",
           "section": ""
         },
@@ -551,26 +565,33 @@
           "source": "Christianity Today",
           "ts": "Wed, 28 Oct 2026 10:00:00 +0000",
           "section": ""
-        },
-        {
-          "title": "One of the largest UMC churches in the country just voted to leave the denomination",
-          "url": "https://religionnews.com/2026/10/27/one-of-the-largest-umc-churches-in-the-country-just-voted-to-leave-the-denomination/",
-          "source": "RNS",
-          "ts": "Tue, 27 Oct 2026 22:03:14 +0000",
-          "section": ""
-        },
-        {
-          "title": "Evangelicals at Chicago rally pray asylum seekers will get a ‘fair day in court’",
-          "url": "https://religionnews.com/2026/10/27/evangelicals-in-chicago-pray-asylum-seeker-will-get-a-fair-day-in-court/",
-          "source": "RNS",
-          "ts": "Tue, 27 Oct 2026 21:15:02 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
+          "url": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 28 Oct 2026 13:56:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "Spanish football postpones 24 Copa del Rey games after train crash",
+          "url": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 28 Oct 2026 13:48:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+          "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 28 Oct 2026 13:47:39 +0000",
+          "section": ""
+        },
         {
           "title": "Gen Z protests in Germany: Is France-style violence looming?",
           "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-rdf",
@@ -614,31 +635,10 @@
           "section": ""
         },
         {
-          "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 12:56:24 +0000",
-          "section": ""
-        },
-        {
           "title": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
           "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-28T12:55:00Z",
-          "section": ""
-        },
-        {
-          "title": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
-          "url": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 12:53:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 12:51:39 +0000",
           "section": ""
         },
         {
