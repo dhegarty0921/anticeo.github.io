@@ -81,3 +81,7 @@ feeds:
   - https://feeds.bbci.co.uk/news/rss.xml
   - https://www.npr.org/rss/rss.php?id=1001
   - https://www.thecanary.co/feed/
+
+ # --- YOU LIVE IN A SHITHOLE COUNTRY (corruption: federal/state/local govt, Trump family, Kushner) ---
+  - https://news.google.com/rss/search?q=%22Jared%20Kushner%22%20investigation&hl=en-US&gl=US&ceid=US:en # Kushner accountability beat (Google News mirror; keyword-routed)
+  - https://news.google.com/rss/search?q=%22Trump%20Organization%22%20fraud&hl=en-US&gl=US&ceid=US:en # Trump Organization legal/fraud beat (Google News mirror; keyword-routed)

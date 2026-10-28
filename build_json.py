@@ -98,6 +98,22 @@ def cap_per_domain_global(sections, max_per: int):
 # so its specific keywords beat the generic "israel"/"iran" hits in MILITARY
 # INDUSTRIAL COMPLEX, but it still RENDERS at the bottom of the page.
 RULES = [
+    {"title":"YOU LIVE IN A SHITHOLE COUNTRY",
+     "domains":[],
+     "any":[
+            # trump family / kushner — specific people and entities
+            "jared kushner","kushner","ivanka","donald trump jr","don jr",
+            "eric trump","trump organization","trump org","trump family",
+            # corruption vocabulary
+            "corrupt","corruption","bribery","bribe","graft","grift","grifter",
+            "emoluments","kickback","pay to play","pay-to-play",
+            "conflict of interest","self-dealing","kleptocracy","cronyism",
+            "dark money","revolving door","quid pro quo",
+            # legal milestones
+            "indictment","indicted","convicted","guilty plea","pleaded guilty",
+            "wire fraud","tax fraud","bank fraud","securities fraud",
+            "insurance fraud","racketeering",
+            ]},
     {"title":"ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
      "domains":[],
      "any":["ice","ice agents","abolish ice",
@@ -134,7 +150,7 @@ RULES = [
      "domains":["lawfaremedia.org","eff.org","techdirt.com","justsecurity.org","theintercept.com","scheerpost.com","unlimitedhangout.com","dropsitenews.com"],
      "any":["cia","fbi","nsa","surveillance","whistleblower","leak","foia","spy","informant","homeland security","doj","dhs","patriot act","9/11","oklahoma city","okc bombing"]}
 ]
-ORDER = ["CHUDS VS SHITLIBS","CULTURE WAR","MILITARY INDUSTRIAL COMPLEX",
+ORDER = ["CHUDS VS SHITLIBS","YOU LIVE IN A SHITHOLE COUNTRY","CULTURE WAR","MILITARY INDUSTRIAL COMPLEX",
          "PARA POLITICAL INTRIGUE","SETTLER COLONIAL STATE FALSE FLAG LIES",
          "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"]
 
