@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:44:44.735722Z",
+  "generated_at": "2026-10-29T00:59:58.765676Z",
   "headline": {
     "title": "Sri Lanka: Organized Crime Bill Violates Rights Standards",
     "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards"
@@ -16,10 +16,24 @@
           "section": ""
         },
         {
+          "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+          "url": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 28 Oct 2026 20:52:50 -0400",
+          "section": ""
+        },
+        {
           "title": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
           "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 29 Oct 2026 00:32:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 29 Oct 2026 00:00:25 GMT",
           "section": ""
         },
         {
@@ -104,13 +118,6 @@
           "url": "https://www.npr.org/2026/10/28/nx-s1-6019538/a-breakthrough-for-the-group-on-the-trail-of-chinese-hackers",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 28 Oct 2026 17:53:22 -0400",
-          "section": ""
-        },
-        {
-          "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-          "url": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
-          "source": "NPR Topics: News",
-          "ts": "Wed, 28 Oct 2026 17:46:27 -0400",
           "section": ""
         },
         {
@@ -202,13 +209,6 @@
           "url": "https://www.bbc.co.uk/news/videos/ck4g1xe5xny4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 28 Oct 2026 18:51:05 GMT",
-          "section": ""
-        },
-        {
-          "title": "US civil rights leader Dolores Huerta dies aged 96",
-          "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 28 Oct 2026 18:48:15 GMT",
           "section": ""
         },
         {
@@ -307,6 +307,13 @@
           "url": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
           "source": "ProPublica",
           "ts": "Wed, 28 Oct 2026 09:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump Speaks His Mind On the Campaign Trail, by Philip Giraldi",
+          "url": "https://www.unz.com/pgiraldi/trump-speaks-his-mind-on-the-campaign-trail/",
+          "source": "The Unz Review:",
+          "ts": "Wed, 28 Oct 2026 04:10:53 +0000",
           "section": ""
         },
         {
@@ -432,6 +439,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Hegseth Fires a Top General",
+          "url": "https://www.theatlantic.com/national-security/2026/10/brett-sylvia-hegseth-general-pentagon/689199/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-28T20:54:24-04:00",
+          "section": ""
+        },
+        {
+          "title": "Why Wouldn’t Google Tell Me Who Won the 2020 Election?",
+          "url": "https://www.theatlantic.com/technology/2026/10/google-search-ai-2020-election-trump/689197/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-28T20:44:00-04:00",
+          "section": ""
+        },
+        {
           "title": "Obama campaigns in Georgia as Trump stumps in Ohio in dueling midterms rallies – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
           "source": "US news | The Guardian",
@@ -446,24 +467,10 @@
           "section": ""
         },
         {
-          "title": "A Stress Test for Prediction Markets",
-          "url": "https://www.theatlantic.com/newsletters/2026/10/kalshi-polymarket-midterms-brazil/689196/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-28T19:19:00-04:00",
-          "section": ""
-        },
-        {
           "title": "Tributes pour in for labor leader Dolores Huerta: ‘Fought for farm workers to the very end’",
           "url": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
           "source": "US news | The Guardian",
           "ts": "Wed, 28 Oct 2026 22:48:56 GMT",
-          "section": ""
-        },
-        {
-          "title": "How Elon Musk Turned on Ukraine",
-          "url": "https://www.theatlantic.com/national-security/2026/10/elon-musk-ukraine-starlink-alternative/689192/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-28T18:28:52-04:00",
           "section": ""
         },
         {
@@ -563,17 +570,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "EU countries block Canada's 'associate membership' plan",
+          "url": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-29T00:49:00Z",
+          "section": ""
+        },
+        {
+          "title": "Israeli Attacks Across Gaza Kill Five Palestinians, Wound 32",
+          "url": "https://news.antiwar.com/2026/10/28/israeli-attacks-across-gaza-kill-five-palestinians-wound-32/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-attacks-across-gaza-kill-five-palestinians-wound-32",
+          "source": "News From Antiwar.com",
+          "ts": "Thu, 29 Oct 2026 00:46:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 29 Oct 2026 00:36:33 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israelis rally for Jewish-Arab government after election gains",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 29 Oct 2026 00:34:24 +0000",
+          "section": ""
+        },
+        {
           "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
           "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 29 Oct 2026 00:01:07 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 29 Oct 2026 00:00:00 +0000",
           "section": ""
         },
         {
@@ -596,13 +624,6 @@
           "source": "Global Research",
           "ts": "Wed, 28 Oct 2026 23:52:21 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
-          "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 23:43:06 +0000",
-          "section": ""
         },
         {
           "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
@@ -710,13 +731,6 @@
           "section": ""
         },
         {
-          "title": "Evacuation from Oleshky: How are preparations going?",
-          "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-28T17:04:00Z",
-          "section": ""
-        },
-        {
           "title": "UN Report: Israel Expanding Genocidal War to the West Bank",
           "url": "https://www.truthdig.com/articles/un-report-israel-expanding-genocidal-war-to-the-west-bank/?utm_source=rss&utm_medium=rss&utm_campaign=un-report-israel-expanding-genocidal-war-to-the-west-bank",
           "source": "Truthdig",
@@ -742,13 +756,6 @@
           "url": "https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/",
           "source": "War on the Rocks",
           "ts": "Wed, 28 Oct 2026 07:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran Respects International Law, US & Israel Are Rogue States, by Kevin Barrett",
-          "url": "https://www.unz.com/kbarrett/iran-respects-international-law-us-israel-are-rogue-states/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 28 Oct 2026 04:00:07 +0000",
           "section": ""
         },
         {
@@ -921,13 +928,6 @@
           "source": "CODEPINK",
           "ts": "Thu, 29 Oct 2026 00:21:36 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Trump Takes Credit for Netanyahu’s Election Lead",
-          "url": "https://news.antiwar.com/2026/10/28/trump-takes-credit-for-netanyahus-election-lead/?utm_source=rss&utm_medium=rss&utm_campaign=trump-takes-credit-for-netanyahus-election-lead",
-          "source": "News From Antiwar.com",
-          "ts": "Wed, 28 Oct 2026 20:22:29 +0000",
-          "section": ""
         },
         {
           "title": "Putin says trade turnover with Egypt ‘growing steadily’ despite regional tensions",
