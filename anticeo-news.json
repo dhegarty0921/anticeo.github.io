@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T00:10:37.505035Z",
+  "generated_at": "2026-10-29T00:44:44.735722Z",
   "headline": {
     "title": "Sri Lanka: Organized Crime Bill Violates Rights Standards",
     "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards",
           "source": "Human Rights Watch News",
           "ts": "Thu, 29 Oct 2026 01:00:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "Trump Calls for Mary Peltola, Alaska Senate Candidate, to Be Prosecuted",
+          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 29 Oct 2026 00:32:47 +0000",
           "section": ""
         },
         {
@@ -62,13 +69,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 28 Oct 2026 23:21:48 GMT",
-          "section": ""
-        },
-        {
-          "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House",
-          "url": "https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 28 Oct 2026 23:17:30 +0000",
           "section": ""
         },
         {
@@ -177,10 +177,24 @@
           "section": ""
         },
         {
+          "title": "The Dolores Huerta I'll remember",
+          "url": "https://www.latimes.com/california/story/2026-10-28/dolores-huerta-legacy-appreciation",
+          "source": "California",
+          "ts": "Wed, 28 Oct 2026 19:11:43 GMT",
+          "section": ""
+        },
+        {
           "title": "LA businesses affected by the Lineage fire can apply for grants of up to $30,000",
           "url": "https://thelalocal.org/business-development/lineage-fire-city-business-grants/",
           "source": "LA Local",
           "ts": "Wed, 28 Oct 2026 19:04:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Destination Crenshaw explains the reasons for project delays. Here’s how some community members responded.",
+          "url": "https://thelalocal.org/neighborhoods/south-la/destination-crenshaw-explains-the-reasons-for-project-delays-heres-how-some-community-members-responded/",
+          "source": "LA Local",
+          "ts": "Wed, 28 Oct 2026 19:00:00 +0000",
           "section": ""
         },
         {
@@ -338,6 +352,13 @@
           "section": ""
         },
         {
+          "title": "Meet the billionaires spending millions to defeat California’s Proposition 40, aka the billionaire tax",
+          "url": "https://lapublicpress.org/2026/10/la-california-elections-2026-propositions-40-41-42-brin-schmidt/",
+          "source": "LA Public Press",
+          "ts": "Mon, 26 Oct 2026 21:54:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump Offers $1,000,000 Voter Fraud Bounty",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-offers-voter-fraud-bounty-1235648160/",
           "source": "Politics News",
@@ -414,11 +435,11 @@
           "title": "Obama campaigns in Georgia as Trump stumps in Ohio in dueling midterms rallies – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
           "source": "US news | The Guardian",
-          "ts": "Wed, 28 Oct 2026 23:54:19 GMT",
+          "ts": "Thu, 29 Oct 2026 00:30:12 GMT",
           "section": ""
         },
         {
-          "title": "Trump’s Bizarre Closing Message to Voters",
+          "title": "Trump Is Closing From Behind",
           "url": "https://www.theatlantic.com/politics/2026/10/trump-midterms-closing-message/689191/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-28T19:50:00-04:00",
@@ -542,10 +563,45 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "UN experts sound alarm at excessive use of force in French student protests",
-          "url": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+          "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+          "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 22:34:51 +0000",
+          "ts": "Thu, 29 Oct 2026 00:01:07 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 29 Oct 2026 00:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "US Could Be Preparing for New Open War Against Iran",
+          "url": "https://www.globalresearch.ca/us-could-preparing-new-open-war-against-iran/5944665",
+          "source": "Global Research",
+          "ts": "Wed, 28 Oct 2026 23:56:21 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "The US is Turning the Philippines into the “Ukraine” of Southeast Asia",
+          "url": "https://www.globalresearch.ca/us-turning-philippines-ukraine-southeast-asia/5944674",
+          "source": "Global Research",
+          "ts": "Wed, 28 Oct 2026 23:53:27 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Ukraine Forced Into Concessions Ahead of Putin, Trump and Xi Summit",
+          "url": "https://www.globalresearch.ca/ukraine-forced-concessions-ahead-putin-trump-xi-summit/5944670",
+          "source": "Global Research",
+          "ts": "Wed, 28 Oct 2026 23:52:21 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+          "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 28 Oct 2026 23:43:06 +0000",
           "section": ""
         },
         {
@@ -560,20 +616,6 @@
           "url": "https://news.antiwar.com/2026/10/28/russia-and-ukraine-expect-to-hold-trilateral-talks-with-the-us-in-abu-dhabi-but-no-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=russia-and-ukraine-expect-to-hold-trilateral-talks-with-the-us-in-abu-dhabi-but-no-date-set",
           "source": "News From Antiwar.com",
           "ts": "Wed, 28 Oct 2026 22:13:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Costa Rica’s mega-prison receives first inmates",
-          "url": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 21:36:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "Indonesian students demand action on wildfires and rising costs",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 28 Oct 2026 21:23:17 +0000",
           "section": ""
         },
         {
@@ -647,13 +689,6 @@
           "section": ""
         },
         {
-          "title": "Google está “boicotando” a língua ucraniana – diz ombudsman",
-          "url": "https://www.globalresearch.ca/google-esta-boicotando-a-lingua-ucraniana-diz-ombudsman/5944702",
-          "source": "Global Research",
-          "ts": "Wed, 28 Oct 2026 17:41:17 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "Iran Open Thread 2026-240",
           "url": "https://www.moonofalabama.org/2026/10/iran-open-thread-2026-240.html",
           "source": "Moon of Alabama",
@@ -696,20 +731,6 @@
           "section": ""
         },
         {
-          "title": "Pre-Electoral Fraud?  Serbian Democracy: “Todlers have the Right to Vote”?",
-          "url": "https://www.globalresearch.ca/serbia-crossroads/5944098",
-          "source": "Global Research",
-          "ts": "Wed, 28 Oct 2026 13:56:14 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Colombia Threatens Its Caribbean Neighbor: Nicaragua",
-          "url": "https://www.globalresearch.ca/colombia-threatens-caribbean-neighbor-nicaragua/5944622",
-          "source": "Global Research",
-          "ts": "Wed, 28 Oct 2026 13:52:02 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "US Military Prepares For ‘Doomsday’ War On US Soil",
           "url": "https://scheerpost.com/2026/10/28/us-military-prepares-for-doomsday-war-on-us-soil/",
           "source": "Military",
@@ -717,24 +738,10 @@
           "section": ""
         },
         {
-          "title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
-          "url": "https://www.navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design/",
-          "source": "Naval News",
-          "ts": "Wed, 28 Oct 2026 09:29:00 +0000",
-          "section": ""
-        },
-        {
           "title": "The Next Congress Needs to Reclaim Its Oversight of the Department of Defense",
           "url": "https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/",
           "source": "War on the Rocks",
           "ts": "Wed, 28 Oct 2026 07:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "French Parliamentary Report Urges Construction of a Second Aircraft Carrier by 2029",
-          "url": "https://www.navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029/",
-          "source": "Naval News",
-          "ts": "Wed, 28 Oct 2026 06:52:00 +0000",
           "section": ""
         },
         {
@@ -763,13 +770,6 @@
           "url": "https://www.armytimes.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
           "source": "News - Army Times",
           "ts": "Tue, 27 Oct 2026 19:22:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Navantia Launches Second F110 Frigate ‘Roger de Lauria’ Four Months Ahead of Schedule",
-          "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-second-f110-frigate-roger-de-lauria-four-months-ahead-of-schedule/",
-          "source": "Naval News",
-          "ts": "Tue, 27 Oct 2026 18:26:23 +0000",
           "section": ""
         },
         {
@@ -916,10 +916,10 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
-          "title": "Feminists, stand with Palestine: Feminist Majority Foundation! - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IclhWbl9jemdhMlJEUUwxNm9nLTBDNUJpUEtfNmZJaEd5UG5sZkZVUy1PUzhTeHZlR1lvYlh3LUR4aS1YRmhfYkRiblUwTlpGWHJF?oc=5",
+          "title": "Coachella Valley Silent Vigil for Palestine - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9MQXVha0RyMW52SGdGSDdORXJqZG9Na3I2OE1BTDFZRHI2UzllN25jd2NaWGlSYjVuWHQ0LTlaWlhlZm05S0NV?oc=5",
           "source": "CODEPINK",
-          "ts": "Wed, 28 Oct 2026 20:52:16 GMT",
+          "ts": "Thu, 29 Oct 2026 00:21:36 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
