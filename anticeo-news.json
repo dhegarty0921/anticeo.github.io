@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T08:06:13.422573Z",
+  "generated_at": "2026-10-29T08:25:33.668444Z",
   "headline": {
-    "title": "Trump Administration Moves to Close East Potomac Park to Begin Golf Project",
-    "url": "https://www.nytimes.com/2026/10/28/us/politics/deadline-golf-course-closure.html"
+    "title": "PT PAL and Naval Group Explore Submarine MRO Cooperation",
+    "url": "https://www.navalnews.com/naval-news/2026/10/pt-pal-and-naval-group-explore-submarine-mro-cooperation/"
   },
   "sections": [
     {
@@ -13,6 +13,13 @@
           "url": "https://www.nytimes.com/2026/10/28/us/politics/deadline-golf-course-closure.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 29 Oct 2026 08:00:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "US: New Hurdles to Having Votes Counted",
+          "url": "https://www.hrw.org/news/2026/10/29/us-new-hurdles-to-having-votes-counted",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 29 Oct 2026 03:00:00 -0400",
           "section": ""
         },
         {
@@ -44,6 +51,13 @@
           "section": ""
         },
         {
+          "title": "Sri Lanka: Organized Crime Bill Violates Rights Standards",
+          "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 29 Oct 2026 01:00:00 -0400",
+          "section": ""
+        },
+        {
           "title": "Brewers beat the Rays to win the first World Series title in franchise history",
           "url": "https://www.npr.org/2026/10/29/nx-s1-6021953/brewers-win-first-world-series-title",
           "source": "NPR Topics: News",
@@ -55,6 +69,13 @@
           "url": "https://www.themarshallproject.org/2026/10/29/live-concert-prison-music-redemption-songs",
           "source": "The Marshall Project",
           "ts": "Thu, 29 Oct 2026 00:15:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "Obsessing Over Racial Voting Patterns Misses the Point, by Jose Alberto Nino",
+          "url": "https://www.unz.com/jnino/obsessing-over-racial-voting-patterns-misses-the-point/",
+          "source": "The Unz Review:",
+          "ts": "Thu, 29 Oct 2026 04:00:05 +0000",
           "section": ""
         },
         {
@@ -135,13 +156,6 @@
           "section": ""
         },
         {
-          "title": "Why are Southern California ocean levels so high? What to know before winter",
-          "url": "https://lapublicpress.org/2026/10/la-ocean-levels-high-record-surf-flooding-heat/",
-          "source": "LA Public Press",
-          "ts": "Wed, 28 Oct 2026 23:35:59 +0000",
-          "section": ""
-        },
-        {
           "title": "Libs of TikTok Is Reviving an Old Conspiracy Theory About California’s Ballots",
           "url": "https://www.motherjones.com/politics/2026/10/libs-of-tiktok-raichik-california-ballot-envelope-holes-voter-fraud/",
           "source": "Mother Jones",
@@ -167,13 +181,6 @@
           "url": "https://truthout.org/articles/ahead-of-midterms-tenants-call-trumps-housing-policy-a-catastrophic-failure/",
           "source": "Truthout",
           "ts": "Wed, 28 Oct 2026 21:18:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "98 Percent of Trump’s Refugee Admissions Have Been White South Africans",
-          "url": "https://truthout.org/articles/98-percent-of-trumps-refugee-admissions-have-been-white-south-africans/",
-          "source": "Truthout",
-          "ts": "Wed, 28 Oct 2026 21:08:40 +0000",
           "section": ""
         },
         {
@@ -254,13 +261,6 @@
           "section": ""
         },
         {
-          "title": "What if Dems Hadn’t Scuttled Henry Wallace’s VP Nomination in 1944?",
-          "url": "https://www.truthdig.com/articles/what-if-dems-didnt-scuttle-henry-wallaces-vp-nomination-in-1944/?utm_source=rss&utm_medium=rss&utm_campaign=what-if-dems-didnt-scuttle-henry-wallaces-vp-nomination-in-1944",
-          "source": "Truthdig",
-          "ts": "Wed, 28 Oct 2026 15:51:43 +0000",
-          "section": ""
-        },
-        {
           "title": "Meet ProPublica’s 2026 Class of Emerging Reporters",
           "url": "https://www.propublica.org/article/propublica-emerging-reporters-2026",
           "source": "ProPublica",
@@ -303,13 +303,6 @@
           "section": ""
         },
         {
-          "title": "The Gulf Holds a Security Meeting and Washington Wasn’t Invited, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/the-gulf-holds-a-security-meeting-and-washington-wasnt-invited/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 28 Oct 2026 04:00:56 +0000",
-          "section": ""
-        },
-        {
           "title": "UFCW Members Protect Local Election After Sham Merger Attempt",
           "url": "https://inthesetimes.com/article/ufcw-members-protect-local-election",
           "source": "In These Times",
@@ -342,13 +335,6 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVZZN0ZZUndxcTI0ZkZZU2NwS0JrckJMWnZqM1dTSEpFVnhTbzJmVHRaaUNEdE1jaXlqN2FQdS1OTGR4NFNMcV9IR3RrNkg5NFBQODRQU1RsVnVzMkFmcVBHMlRPYXRkcFlid3pVWVVUalEtelhnei1NYkFpQ2FyWENPal82dkhRVUNrUnFsejVmd1JkMjdEbzdfOExlQjJPSGx6c3pMMC11YU9r?oc=5",
           "source": "Ben Cohen (Ben & Jerry's)",
           "ts": "Mon, 26 Oct 2026 23:33:21 GMT",
-          "section": ""
-        },
-        {
-          "title": "Meet the billionaires spending millions to defeat California’s Proposition 40, aka the billionaire tax",
-          "url": "https://lapublicpress.org/2026/10/la-california-elections-2026-propositions-40-41-42-brin-schmidt/",
-          "source": "LA Public Press",
-          "ts": "Mon, 26 Oct 2026 21:54:30 +0000",
           "section": ""
         },
         {
@@ -556,10 +542,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "PT PAL and Naval Group Explore Submarine MRO Cooperation",
+          "url": "https://www.navalnews.com/naval-news/2026/10/pt-pal-and-naval-group-explore-submarine-mro-cooperation/",
+          "source": "Naval News",
+          "ts": "Thu, 29 Oct 2026 08:23:01 +0000",
+          "section": ""
+        },
+        {
+          "title": "Neymar handed two-game Santos suspension for covering mouth in argument",
+          "url": "https://www.aljazeera.com/sports/2026/10/29/neymar-handed-two-game-santos-suspension-for-covering-mouth-in-argument?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 29 Oct 2026 08:00:55 +0000",
+          "section": ""
+        },
+        {
           "title": "A Tale of Two Markets: A Dickensian Take on the Coming Years in Defense Tech",
           "url": "https://warontherocks.com/cogs-of-war/a-tale-of-two-markets-a-dickensian-take-on-the-coming-years-in-defense-tech/",
           "source": "War on the Rocks",
           "ts": "Thu, 29 Oct 2026 08:00:33 +0000",
+          "section": ""
+        },
+        {
+          "title": "How to stop the US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 29 Oct 2026 07:54:51 +0000",
           "section": ""
         },
         {
@@ -577,24 +584,10 @@
           "section": ""
         },
         {
-          "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
-          "url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 29 Oct 2026 07:36:38 +0000",
-          "section": ""
-        },
-        {
           "title": "Sitting Ducks or Strategic Shields: What Does the Small Reactor Promise Mean for Future Conflicts?",
           "url": "https://warontherocks.com/sitting-ducks-or-strategic-shields-what-does-the-small-reactor-promise-mean-for-future-conflicts/",
           "source": "War on the Rocks",
           "ts": "Thu, 29 Oct 2026 07:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Stephen Curry, Warriors hold nerve to beat Timberwolves in tight NBA battle",
-          "url": "https://www.aljazeera.com/sports/2026/10/29/stephen-curry-warriors-hold-nerve-to-beat-timberwolves-in-tight-nba-battle?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 29 Oct 2026 07:25:05 +0000",
           "section": ""
         },
         {
@@ -616,6 +609,13 @@
           "url": "https://www.unz.com/article/collateral-damage-at-sea-how-the-iran-war-is-sinking-the-cruise-industry/",
           "source": "The Unz Review:",
           "ts": "Thu, 29 Oct 2026 04:00:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Yemen: Houthis Depriving Taizz Civilians of Food, Medicine",
+          "url": "https://www.hrw.org/news/2026/10/29/yemen-houthis-depriving-taizz-civilians-of-food-medicine",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 29 Oct 2026 00:00:00 -0400",
           "section": ""
         },
         {
@@ -749,6 +749,20 @@
           "url": "https://scheerpost.com/2026/10/28/us-military-prepares-for-doomsday-war-on-us-soil/",
           "source": "Military",
           "ts": "Wed, 28 Oct 2026 13:27:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "China’s New Trimaran Submarine: 16 Missiles And An Unconventional Design",
+          "url": "https://www.navalnews.com/naval-news/2026/10/chinas-new-trimaran-submarine-16-missiles-and-an-unconventional-design/",
+          "source": "Naval News",
+          "ts": "Wed, 28 Oct 2026 09:29:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "French Parliamentary Report Urges Construction of a Second Aircraft Carrier by 2029",
+          "url": "https://www.navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029/",
+          "source": "Naval News",
+          "ts": "Wed, 28 Oct 2026 06:52:00 +0000",
           "section": ""
         },
         {
@@ -965,13 +979,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Palestinian Prisoners Sent to Solitary over Cake Celebrating Ben-Gvir’s Exit - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTdoWDNLMGhRdkpVOUx2RkF1WFptQUpxZVZUa2tUVnBxRklnR21PdTJvX1JCa0hPeWRfLV82cEM0c0Qtc2VOSEY2R1dJSWRtT3NWUUZRWkY4eWxtUkROQmt4dWxEUnZmQTg2ck52SkRIQ0dyODJLaFM4VzNqRzZVOVZTWjU2Z0F6REJ0LV9CSVJvenBwa1hRXzBuakZVZXVxUFY2d1dVck9MSDJsSWJzZA?oc=5",
-          "source": "via Google News",
-          "ts": "Mon, 26 Oct 2026 15:23:08 GMT",
-          "section": ""
-        },
-        {
           "title": "Netanyahu Faces Treason Allegations as Army Chief Resists Order Risking Iran War - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUFDRFcwM1hDZk1DLWd6WV8yR3VCZkxZMXFhNVI3MEdpejZScTBZT1JzTDBxY014R2ttU2RCQzNZeEI1VzlpTzZzUlpsRlowblYxU3ZKRldOSGgxMUhRS042WlJnaFR6T3Q1NnBFczZweEt4VV9fVWdQMW02WTlKd25sdy12NFMwa0w4eVVTVGVUd2w1UDhqUlVrMmNHS1ItZk9ubDM1T2NHWGlpdzYwQW1RcUV2eUU?oc=5",
           "source": "via Google News",
@@ -1038,13 +1045,6 @@
           "source": "Documented",
           "ts": "Wed, 28 Oct 2026 10:00:00 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Bass vs. Raman: LA mayoral candidates on ICE, LADWP, rent and LAPD",
-          "url": "https://lapublicpress.org/2026/10/la-elections-2026-mayor-bass-raman-lapd-ladwp-rent-eviction/",
-          "source": "LA Public Press",
-          "ts": "Tue, 27 Oct 2026 23:44:46 +0000",
-          "section": ""
         },
         {
           "title": "Chicago School Board Election 2026: The race in District 1b, Northwest Side",
