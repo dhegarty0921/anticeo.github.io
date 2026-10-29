@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:47:53.203490Z",
+  "generated_at": "2026-10-29T03:05:54.595721Z",
   "headline": {
     "title": "Sri Lanka: Organized Crime Bill Violates Rights Standards",
     "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/10/29/sri-lanka-organized-crime-bill-violates-rights-standards",
           "source": "Human Rights Watch News",
           "ts": "Thu, 29 Oct 2026 01:00:00 -0400",
+          "section": ""
+        },
+        {
+          "title": "A man with a knife and another one with a grin. Wendy's encounter goes viral",
+          "url": "https://www.latimes.com/california/story/2026-10-28/wendys-encounter-northridge-viral-video-man-holds-knife",
+          "source": "California",
+          "ts": "Thu, 29 Oct 2026 02:54:45 GMT",
           "section": ""
         },
         {
@@ -83,13 +90,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 29 Oct 2026 01:14:01 GMT",
-          "section": ""
-        },
-        {
-          "title": "Castaic's Chiquita Canyon landfill blamed for headaches, dizziness and wheezing, says state lawsuit",
-          "url": "https://www.latimes.com/california/story/2026-10-28/state-accuses-chiquita-canyon-landfill-of-mismanaging-hazardous-waste",
-          "source": "California",
-          "ts": "Thu, 29 Oct 2026 01:10:47 GMT",
           "section": ""
         },
         {
@@ -577,17 +577,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+          "title": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+          "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 29 Oct 2026 02:02:02 +0000",
+          "ts": "Thu, 29 Oct 2026 02:48:38 +0000",
           "section": ""
         },
         {
-          "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+          "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 29 Oct 2026 02:01:09 +0000",
+          "ts": "Thu, 29 Oct 2026 02:43:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Al Jazeera speaks to El-Sayed as religion becomes flashpoint in Senate race",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/al-jazeera-speaks-to-el-sayed-as-religion-becomes-flashpoint-in-senate-race?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 29 Oct 2026 02:42:22 +0000",
           "section": ""
         },
         {
@@ -602,13 +609,6 @@
           "url": "https://news.antiwar.com/2026/10/28/israeli-attacks-across-gaza-kill-five-palestinians-wound-32/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-attacks-across-gaza-kill-five-palestinians-wound-32",
           "source": "News From Antiwar.com",
           "ts": "Thu, 29 Oct 2026 00:46:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 29 Oct 2026 00:36:33 +0000",
           "section": ""
         },
         {
@@ -799,6 +799,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Tim Sweeney Would Be Well Served To Stop Talking About AI Right About Now",
+          "url": "https://www.techdirt.com/2026/10/28/tim-sweeney-would-be-well-served-to-stop-talking-about-ai-right-about-now/",
+          "source": "Techdirt",
+          "ts": "Thu, 29 Oct 2026 02:55:33 +0000",
+          "section": ""
+        },
+        {
           "title": "“Mediacide”: Francesca Albanese on Israel’s War on Journalism",
           "url": "https://www.dropsitenews.com/p/mediacide-francesca-albanese-on-israels",
           "source": "Drop Site News",
@@ -852,13 +859,6 @@
           "url": "https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/",
           "source": "The Intercept",
           "ts": "Wed, 28 Oct 2026 18:36:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Never Mind The Deepfakes, Chatbots Have To Deal With Election Lies Being Free, While Truth Is Paywalled",
-          "url": "https://www.techdirt.com/2026/10/28/never-mind-the-deepfakes-chatbots-have-to-deal-with-election-lies-being-free-while-truth-is-paywalled/",
-          "source": "Techdirt",
-          "ts": "Wed, 28 Oct 2026 18:06:00 +0000",
           "section": ""
         },
         {
