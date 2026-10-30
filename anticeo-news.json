@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T14:21:16.960038Z",
+  "generated_at": "2026-10-30T14:33:18.289131Z",
   "headline": {
-    "title": "Israel’s next government must end Gaza’s catastrophe",
-    "url": "https://www.middleeastmonitor.com/20261030-israels-next-government-must-end-gazas-catastrophe/"
+    "title": "‘Witches’ epithet hurled at abortion proponents has roots in Appalachian history",
+    "url": "https://religionnews.com/2026/10/30/witches-epithet-hurled-at-abortion-proponents-has-roots-in-appalachian-history/"
   },
   "sections": [
     {
@@ -102,13 +102,6 @@
         {
           "title": "California's super-rich conquered the world, but not always the voters",
           "url": "https://www.latimes.com/california/story/2026-10-30/californias-super-rich-conquered-world-but-not-always-voters",
-          "source": "California",
-          "ts": "Fri, 30 Oct 2026 12:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Your last-minute guide to the L.A. Community College District elections",
-          "url": "https://www.latimes.com/california/story/2026-10-30/2026-california-election-los-angeles-community-college-last-minute-voter-guide",
           "source": "California",
           "ts": "Fri, 30 Oct 2026 12:00:00 GMT",
           "section": ""
@@ -275,13 +268,6 @@
           "section": ""
         },
         {
-          "title": "Meet the MAGA Lawyer Behind the Article III Project",
-          "url": "https://www.truthdig.com/articles/meet-the-maga-lawyer-behind-the-article-iii-project/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-maga-lawyer-behind-the-article-iii-project",
-          "source": "Truthdig",
-          "ts": "Thu, 29 Oct 2026 16:03:56 +0000",
-          "section": ""
-        },
-        {
           "title": "A Gift From the President to the Cornell Seven",
           "url": "https://inthesetimes.com/article/comics-satire-trump-the-cornell-seven-artificial-intelligence",
           "source": "In These Times",
@@ -394,13 +380,6 @@
           "section": ""
         },
         {
-          "title": "Police Are Increasingly Pulling People Over Because AI Deems Their Driving Patterns “Suspicious”",
-          "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
-          "source": "Posts | American Civil Liberties Union",
-          "ts": "Mon, 26 Oct 2026 15:14:10 +0000",
-          "section": ""
-        },
-        {
           "title": "Trump Delivers Surefire Closing Message for Midterms: Check Out Nicki Minaj’s ‘Beautiful Ass’",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-nicki-minaj-body-michigan-rally-midterms-1235647878/",
           "source": "Politics News",
@@ -439,10 +418,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Serial killers, set designers, and hordes of skeletons: welcome to the Halloween capital of America",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/burbank-california-los-angeles-halloween-capital",
+          "title": "‘Witches’ epithet hurled at abortion proponents has roots in Appalachian history",
+          "url": "https://religionnews.com/2026/10/30/witches-epithet-hurled-at-abortion-proponents-has-roots-in-appalachian-history/",
+          "source": "RNS",
+          "ts": "Fri, 30 Oct 2026 14:27:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "Christa Pike makes first public comments since failed execution: ‘There is pain in my mind and in my soul’",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/christa-pike-statement-tennessee-execution",
           "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 14:00:15 GMT",
+          "ts": "Fri, 30 Oct 2026 14:15:48 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump cancels rallies in Iowa and Kansas in shift of Republican strategy – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 30 Oct 2026 14:14:28 GMT",
+          "section": ""
+        },
+        {
+          "title": "Congressional Democrats demand answers over ICE treatment of hunger strikers",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 30 Oct 2026 14:13:13 GMT",
+          "section": ""
+        },
+        {
+          "title": "How to Fight a Gerrymander",
+          "url": "https://www.theatlantic.com/politics/2026/10/gerrymander-north-carolina-voting/689189/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-30T10:04:15-04:00",
           "section": ""
         },
         {
@@ -453,20 +460,6 @@
           "section": ""
         },
         {
-          "title": "Trump cancels rallies in Iowa and Kansas in shift of Republican strategy – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 13:52:56 GMT",
-          "section": ""
-        },
-        {
-          "title": "British student pilot among three dead after two helicopters collide in Oregon",
-          "url": "https://www.theguardian.com/us-news/2026/oct/30/oregon-two-helicopters-collide",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 13:41:00 GMT",
-          "section": ""
-        },
-        {
           "title": "Photos of the Week: Surfing Devil, Sheltered Owl, Fresh Snowfall",
           "url": "https://www.theatlantic.com/photography/2026/10/photos-of-the-week-surfing-devil-sheltered-owl-fresh-snowfall/689203/?utm_source=feed",
           "source": "The Atlantic",
@@ -474,7 +467,7 @@
           "section": ""
         },
         {
-          "title": "Self-Help Needs Help",
+          "title": "Forget Grit",
           "url": "https://www.theatlantic.com/magazine/2026/12/self-help-genre-duckworth-situated-grant-vibe/689023/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-30T09:00:00-04:00",
@@ -492,13 +485,6 @@
           "url": "https://www.thepinknews.com/2026/10/30/russia-lgbt-fines-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 30 Oct 2026 12:14:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "What Horror Films Have to Say About God",
-          "url": "https://www.theatlantic.com/culture/2026/10/horror-exorcist-religion-god/689210/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-30T08:00:00-04:00",
           "section": ""
         },
         {
@@ -570,19 +556,40 @@
           "source": "RNS",
           "ts": "Thu, 29 Oct 2026 21:18:22 +0000",
           "section": ""
-        },
-        {
-          "title": "Ohio will elect its first Hindu or Jewish governor. Here’s how religion is shaping the nasty race.",
-          "url": "https://religionnews.com/2026/10/29/ohio-governor-vivek-ramaswamy-amy-acton-hindu-jewish-religion/",
-          "source": "RNS",
-          "ts": "Thu, 29 Oct 2026 21:05:40 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Police Drone Use is Not “Limited” or “Narrow” and Agencies Should Be Confronted With That",
+          "url": "https://www.aclu.org/news/privacy-technology/police-drone-use-is-not-narrow",
+          "source": "Posts | American Civil Liberties Union",
+          "ts": "Fri, 30 Oct 2026 14:21:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Russian, Ukrainian humanitarian officials enter Oleshky",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-ukrainian-humanitarian-officials-enter-oleshky?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 30 Oct 2026 14:19:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
+          "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 30 Oct 2026 14:18:07 +0000",
+          "section": ""
+        },
+        {
+          "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/",
+          "source": "Naval News",
+          "ts": "Fri, 30 Oct 2026 14:16:41 +0000",
+          "section": ""
+        },
         {
           "title": "Bruce Blakeman Is Running for Governor. He Has Deep Ties to Israel’s Far Right.",
           "url": "https://www.motherjones.com/politics/2026/10/bruce-blakeman-new-york-governor-israel-settlers/",
@@ -591,8 +598,8 @@
           "section": ""
         },
         {
-          "title": "Seoul fears being left out as US reaches out to North Korea",
-          "url": "https://www.dw.com/en/seoul-fears-being-left-out-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+          "title": "Seoul fears being slighted as US reaches out to North Korea",
+          "url": "https://www.dw.com/en/seoul-fears-being-slighted-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-30T14:08:00Z",
           "section": ""
@@ -612,17 +619,10 @@
           "section": ""
         },
         {
-          "title": "MLB World Series: Why did baseball’s biggest stage struggle for viewership?",
-          "url": "https://www.aljazeera.com/sports/2026/10/30/major-league-baseball-world-series-brewers-rays-nba-nfl-united-states?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 30 Oct 2026 13:58:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "Chase sparks Bangladesh collapse as West Indies on top in Mirpur Test",
-          "url": "https://www.aljazeera.com/sports/2026/10/30/chase-sparks-bangladesh-collapse-as-west-indies-on-top-in-mirpur-test?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 30 Oct 2026 13:56:22 +0000",
+          "title": "KONGSBERG secures US government contract for underwater capabilities",
+          "url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
+          "source": "Naval News",
+          "ts": "Fri, 30 Oct 2026 13:53:45 +0000",
           "section": ""
         },
         {
@@ -652,6 +652,13 @@
           "source": "Global Research",
           "ts": "Fri, 30 Oct 2026 11:05:19 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Four Decades of Naval Expertise, A New Global Chapter for Hanwha Ocean",
+          "url": "https://www.navalnews.com/features/2026/10/four-decades-of-naval-expertise-a-new-global-chapter-for-hanwha-ocean/",
+          "source": "Naval News",
+          "ts": "Fri, 30 Oct 2026 09:33:04 +0000",
+          "section": ""
         },
         {
           "title": "Video: The Global Energy Crisis",
@@ -993,13 +1000,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "No War, No Empire Weekly Rally: San Pedro - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rbGNMNHVJZFdQWTc1ekk3TXZSQmtLYnR5MUl0UVpzMnVOQU4xcmQtbDdUVXNSZnBreFM1b1lwZmMyNVhNUjF1c2Zn?oc=5",
-          "source": "CODEPINK",
-          "ts": "Thu, 29 Oct 2026 13:56:30 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Bulldozers, glyphosate, white phosphorus: Israel’s destruction of South Lebanon’s olive groves",
           "url": "https://mondoweiss.net/2026/10/bulldozers-glyphosate-white-phosphorus-israels-destruction-of-south-lebanons-olive-groves/",
           "source": "Mondoweiss",
@@ -1101,13 +1101,6 @@
           "source": "Borderless Magazine NFP",
           "ts": "Wed, 28 Oct 2026 15:00:10 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Bass vs. Raman: LA mayoral candidates on ICE, LADWP, rent and LAPD",
-          "url": "https://lapublicpress.org/2026/10/la-elections-2026-mayor-bass-raman-lapd-ladwp-rent-eviction/",
-          "source": "LA Public Press",
-          "ts": "Tue, 27 Oct 2026 23:44:46 +0000",
-          "section": ""
         },
         {
           "title": "Chicago School Board Election 2026: The race in District 1b, Northwest Side",
