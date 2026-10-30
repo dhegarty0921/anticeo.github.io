@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T11:33:22.807625Z",
+  "generated_at": "2026-10-30T11:47:46.360792Z",
   "headline": {
-    "title": "Wild Animals Can’t Vote. Here’s Where They’re on the Ballot Anyway.",
-    "url": "https://www.motherjones.com/politics/2026/10/wild-animals-habitat-protections-state-local-midterms-ballot-measures/"
+    "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
+    "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability"
   },
   "sections": [
     {
@@ -142,8 +142,8 @@
           "section": ""
         },
         {
-          "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
+          "title": "Here are the Senate races to watch ahead of Election Day",
+          "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 30 Oct 2026 05:00:00 -0400",
           "section": ""
@@ -460,31 +460,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Five reasons why the US midterms matter for the climate – and your energy bill",
+          "url": "https://www.theguardian.com/us-news/2026/oct/30/climate-crisis-midterms-affordability",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 30 Oct 2026 11:30:52 GMT",
+          "section": ""
+        },
+        {
+          "title": "Just Noting That Your Candy Corn Is Made of Bug Secretions",
+          "url": "https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-10-30T07:30:00-04:00",
+          "section": ""
+        },
+        {
+          "title": "Trump cancels rallies in Iowa and Kansas in shift of Republican strategy – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 30 Oct 2026 11:27:37 GMT",
+          "section": ""
+        },
+        {
           "title": "Families in the US are opting for earlier measles vaccinations amid outbreak",
           "url": "https://www.theguardian.com/us-news/2026/oct/30/measles-outbreak-vaccination",
           "source": "US news | The Guardian",
           "ts": "Fri, 30 Oct 2026 11:00:52 GMT",
-          "section": ""
-        },
-        {
-          "title": "Congressional Democrats send scathing letter to ICE and DHS decrying treatment of hunger strikers",
-          "url": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 11:00:52 GMT",
-          "section": ""
-        },
-        {
-          "title": "‘The status quo sucks’: affordability and Trump loom over final stretch of Maine’s tight Senate race",
-          "url": "https://www.theguardian.com/us-news/2026/oct/30/maine-senate-race-affordability-trump",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 11:00:52 GMT",
-          "section": ""
-        },
-        {
-          "title": "Babies Are Catching Measles in Utero for the First Time in Decades",
-          "url": "https://www.theatlantic.com/health/2026/10/congenital-measles-birth-pennsylvania/689214/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-10-30T07:00:00-04:00",
           "section": ""
         },
         {
@@ -495,15 +495,15 @@
           "section": ""
         },
         {
-          "title": "A Cynical Ploy to Block California’s Wealth Tax",
-          "url": "https://www.theatlantic.com/politics/2026/10/california-wealth-tax-proposition-40/689206/?utm_source=feed",
+          "title": "Babies Are Catching Measles in Utero for the First Time in Decades",
+          "url": "https://www.theatlantic.com/health/2026/10/congenital-measles-birth-pennsylvania/689214/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-30T07:00:00-04:00",
           "section": ""
         },
         {
-          "title": "The Reality of Election Interference",
-          "url": "https://www.theatlantic.com/national-security/2026/10/election-interference-influence-midterms/689200/?utm_source=feed",
+          "title": "A Cynical Ploy to Block California’s Wealth Tax",
+          "url": "https://www.theatlantic.com/politics/2026/10/california-wealth-tax-proposition-40/689206/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-30T07:00:00-04:00",
           "section": ""
@@ -633,6 +633,13 @@
           "section": ""
         },
         {
+          "title": "This Month’s Most Popular Articles",
+          "url": "https://www.globalresearch.ca/this-months-most-popular-articles-9/5944844",
+          "source": "Global Research",
+          "ts": "Fri, 30 Oct 2026 11:05:19 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Brazil's new anti-gang law: Can it curb organized crime?",
           "url": "https://www.dw.com/en/brazil-s-new-anti-gang-law-can-it-curb-organized-crime/a-79799450?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -665,13 +672,6 @@
           "url": "https://www.globalresearch.ca/israeli-trump-war-iran-producing-muslim-unity/5944775",
           "source": "Global Research",
           "ts": "Thu, 29 Oct 2026 22:48:28 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "The Wind Defeated the Caravan. But 500 Years Later, History Is Reversing Course",
-          "url": "https://www.globalresearch.ca/wind-defeated-caravan-500-years-later-history-reversing-course/5944796",
-          "source": "Global Research",
-          "ts": "Thu, 29 Oct 2026 22:44:05 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
@@ -1011,6 +1011,13 @@
           "url": "https://mondoweiss.net/2026/10/bulldozers-glyphosate-white-phosphorus-israels-destruction-of-south-lebanons-olive-groves/",
           "source": "Mondoweiss",
           "ts": "Thu, 29 Oct 2026 13:00:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Zionism is racism, even if The Irish Times claims otherwise - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXU5bThpNlRacWZrdkYzUlIwNWxCR0U0Yk9LbU81WG5aS19Kbk9WWW9HUl9QOENRdGxKUzk3NjdxOFVzZFV6RWUzbExSUG80cXlnckYya0E5eUtoc29QWUx5OVNXbzVJc3JZdHVlUTE2OWlhSWpwdzFCcUphY21lX2tHX3lObXlMdEZOV3VQMXhuaDI1eDFhd0ZnVHRQZFp4bWVj?oc=5",
+          "source": "via Google News",
+          "ts": "Thu, 29 Oct 2026 09:05:27 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
