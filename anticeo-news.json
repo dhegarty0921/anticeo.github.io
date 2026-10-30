@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T00:45:21.830312Z",
+  "generated_at": "2026-10-30T01:01:12.918585Z",
   "headline": {
-    "title": "Hegseth Fires High-Level General Over Alleged Leaks",
-    "url": "https://news.antiwar.com/2026/10/29/hegseth-fires-high-level-general-over-alleged-leaks/?utm_source=rss&utm_medium=rss&utm_campaign=hegseth-fires-high-level-general-over-alleged-leaks"
+    "title": "Binance crypto platform suspends trades amid suspected hack",
+    "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -62,6 +62,13 @@
           "url": "https://www.npr.org/2026/10/29/nx-s1-6020915/trump-returns-to-south-carolina-as-senate-race-tightens",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 29 Oct 2026 18:47:53 -0400",
+          "section": ""
+        },
+        {
+          "title": "California decriminalized street vending. LAPD is still citing vendors in MacArthur Park",
+          "url": "https://lapublicpress.org/2026/10/la-california-lapd-macarthur-park-street-vendor-4118-decriminalization/",
+          "source": "LA Public Press",
+          "ts": "Thu, 29 Oct 2026 22:45:41 +0000",
           "section": ""
         },
         {
@@ -128,6 +135,13 @@
           "section": ""
         },
         {
+          "title": "'Continue your journey': Key moments of leaked Spain train crash audio",
+          "url": "https://www.bbc.co.uk/news/videos/c6vgjeg0myzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 29 Oct 2026 20:50:25 GMT",
+          "section": ""
+        },
+        {
           "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
           "url": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
           "source": "NPR Topics: News",
@@ -163,20 +177,6 @@
           "section": ""
         },
         {
-          "title": "Senator Briefed on Trump’s Iran War Plans Warns of “Devastating Escalation”",
-          "url": "https://truthout.org/articles/senator-briefed-on-trumps-iran-war-plans-warns-of-devastating-escalation/",
-          "source": "Truthout",
-          "ts": "Thu, 29 Oct 2026 20:17:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "More than 43 million ballots cast so far in midterms early voting surge",
-          "url": "https://www.bbc.co.uk/news/articles/c30rlxkjv2yko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 29 Oct 2026 19:50:07 GMT",
-          "section": ""
-        },
-        {
           "title": "Healthcare Professionals, Advocates, and Impacted People Share Why They Support Reproductive Freedom on the Ballot in Virginia",
           "url": "https://www.aclu.org/news/reproductive-freedom/healthcare-professionals-advocates-and-impacted-people-share-why-they-support-reproductive-freedom-on-the-ballot-in-virginia",
           "source": "Posts | American Civil Liberties Union",
@@ -205,13 +205,6 @@
           "section": ""
         },
         {
-          "title": "California man who allegedly beat elderly woman with bat captured in Oklahoma",
-          "url": "https://www.latimes.com/california/story/2026-10-29/california-man-who-beat-elderly-woman-with-bat-found-in-oklahoma",
-          "source": "California",
-          "ts": "Thu, 29 Oct 2026 17:47:47 GMT",
-          "section": ""
-        },
-        {
           "title": "UN Finds Age-Based Persecution of Palestinian Children",
           "url": "https://www.hrw.org/news/2026/10/29/un-finds-age-based-persecution-of-palestinian-children",
           "source": "Human Rights Watch News",
@@ -230,13 +223,6 @@
           "url": "https://www.truthdig.com/articles/the-president-and-the-showgirl/?utm_source=rss&utm_medium=rss&utm_campaign=the-president-and-the-showgirl",
           "source": "Truthdig",
           "ts": "Thu, 29 Oct 2026 17:08:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "Meet the MAGA Lawyer Behind the Article III Project",
-          "url": "https://www.truthdig.com/articles/meet-the-maga-lawyer-behind-the-article-iii-project/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-maga-lawyer-behind-the-article-iii-project",
-          "source": "Truthdig",
-          "ts": "Thu, 29 Oct 2026 16:03:56 +0000",
           "section": ""
         },
         {
@@ -289,10 +275,24 @@
           "section": ""
         },
         {
+          "title": "What Trump Hath Wrought, by Jared Taylor",
+          "url": "https://www.unz.com/jtaylor/what-trump-hath-wrought/",
+          "source": "The Unz Review:",
+          "ts": "Thu, 29 Oct 2026 04:00:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Israeli Elections: Genocide Wins in a Landslide, by Kevin Barrett",
           "url": "https://www.unz.com/kbarrett/israeli-elections-genocide-wins-in-a-landslide/",
           "source": "The Unz Review:",
           "ts": "Thu, 29 Oct 2026 04:00:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Why are Southern California ocean levels so high? What to know before winter",
+          "url": "https://lapublicpress.org/2026/10/la-ocean-levels-high-record-surf-flooding-heat/",
+          "source": "LA Public Press",
+          "ts": "Wed, 28 Oct 2026 23:35:59 +0000",
           "section": ""
         },
         {
@@ -442,7 +442,7 @@
           "title": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 00:36:30 GMT",
+          "ts": "Fri, 30 Oct 2026 00:47:47 GMT",
           "section": ""
         },
         {
@@ -584,17 +584,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Armenian parliament turns into a boxing ring, third time in a month",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/armenian-parliament-turns-into-a-boxing-ring-third-time-in-a-month?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 30 Oct 2026 00:36:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "Binance says $2.54bn in crypto funds frozen amid ‘potential security issue’",
-          "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 30 Oct 2026 00:29:24 +0000",
+          "title": "Binance crypto platform suspends trades amid suspected hack",
+          "url": "https://www.dw.com/en/binance-crypto-platform-suspends-trades-amid-suspected-hack/a-79803280?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-10-30T00:55:00Z",
           "section": ""
         },
         {
@@ -602,6 +595,20 @@
           "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 30 Oct 2026 00:11:20 +0000",
+          "section": ""
+        },
+        {
+          "title": "What does bourbon have to do with the US midterms?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 30 Oct 2026 00:08:50 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 30 Oct 2026 00:00:00 +0000",
           "section": ""
         },
         {
@@ -644,13 +651,6 @@
           "url": "https://news.antiwar.com/2026/10/29/russian-strike-kills-14-at-ukrainian-train-station-as-ukraine-launches-over-1200-drones-into-russia/?utm_source=rss&utm_medium=rss&utm_campaign=russian-strike-kills-14-at-ukrainian-train-station-as-ukraine-launches-over-1200-drones-into-russia",
           "source": "News From Antiwar.com",
           "ts": "Thu, 29 Oct 2026 22:15:31 +0000",
-          "section": ""
-        },
-        {
-          "title": "'Star Trek' star Patrick Stewart dies age 86",
-          "url": "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-10-29T22:11:00Z",
           "section": ""
         },
         {
@@ -763,13 +763,6 @@
           "url": "https://warontherocks.com/cogs-of-war/a-tale-of-two-markets-a-dickensian-take-on-the-coming-years-in-defense-tech/",
           "source": "War on the Rocks",
           "ts": "Thu, 29 Oct 2026 08:00:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Collateral Damage at Sea: How the Iran War Is Sinking the Cruise Industry, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/collateral-damage-at-sea-how-the-iran-war-is-sinking-the-cruise-industry/",
-          "source": "The Unz Review:",
-          "ts": "Thu, 29 Oct 2026 04:00:08 +0000",
           "section": ""
         },
         {
@@ -1021,13 +1014,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Palestinian Prisoners Sent to Solitary over Cake Celebrating Ben-Gvir’s Exit - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTdoWDNLMGhRdkpVOUx2RkF1WFptQUpxZVZUa2tUVnBxRklnR21PdTJvX1JCa0hPeWRfLV82cEM0c0Qtc2VOSEY2R1dJSWRtT3NWUUZRWkY4eWxtUkROQmt4dWxEUnZmQTg2ck52SkRIQ0dyODJLaFM4VzNqRzZVOVZTWjU2Z0F6REJ0LV9CSVJvenBwa1hRXzBuakZVZXVxUFY2d1dVck9MSDJsSWJzZA?oc=5",
-          "source": "via Google News",
-          "ts": "Mon, 26 Oct 2026 15:23:08 GMT",
-          "section": ""
-        },
-        {
           "title": "Netanyahu Faces Treason Allegations as Army Chief Resists Order Risking Iran War - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUFDRFcwM1hDZk1DLWd6WV8yR3VCZkxZMXFhNVI3MEdpejZScTBZT1JzTDBxY014R2ttU2RCQzNZeEI1VzlpTzZzUlpsRlowblYxU3ZKRldOSGgxMUhRS042WlJnaFR6T3Q1NnBFczZweEt4VV9fVWdQMW02WTlKd25sdy12NFMwa0w4eVVTVGVUd2w1UDhqUlVrMmNHS1ItZk9ubDM1T2NHWGlpdzYwQW1RcUV2eUU?oc=5",
           "source": "via Google News",
@@ -1103,11 +1089,11 @@
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
-          "title": "Greater Boston Legal Services et al. v. Mullin et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNoMEJOQUFxN1dVdVVlTGJRMkdNQ2tjRkoxcURGOE40d0R5ZElXd2V6OGhNaUk0QUNoS05URk9BSnFXTXBlcm0xNnVRdjhsVThteHpqb1FTaFlzYW9FYm9WV3JKRE5ydkVYdGt5YzRiNEJybS1fUm1sTmJsODN6Q0VQQjNpUTBYTGZwUDRn?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Wed, 28 Oct 2026 12:00:00 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+          "title": "Bass vs. Raman: LA mayoral candidates on ICE, LADWP, rent and LAPD",
+          "url": "https://lapublicpress.org/2026/10/la-elections-2026-mayor-bass-raman-lapd-ladwp-rent-eviction/",
+          "source": "LA Public Press",
+          "ts": "Tue, 27 Oct 2026 23:44:46 +0000",
+          "section": ""
         },
         {
           "title": "Chicago School Board Election 2026: The race in District 1b, Northwest Side",
