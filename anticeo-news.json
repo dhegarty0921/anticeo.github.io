@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-30T23:32:48.685988Z",
+  "generated_at": "2026-10-30T23:47:58.955764Z",
   "headline": {
-    "title": "Trump’s Plane Flyover Is a Halloween Trick for Startled D.C. Residents",
-    "url": "https://www.nytimes.com/2026/10/30/us/politics/air-force-flyover.html"
+    "title": "Alaska’s top federal prosecutor confirms civil and criminal investigations over dual Dan Sullivans - live",
+    "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live"
   },
   "sections": [
     {
@@ -114,13 +114,6 @@
           "section": ""
         },
         {
-          "title": "Pakistan: Rights Lawyers Receive 10-Year Sentences",
-          "url": "https://www.hrw.org/news/2026/10/30/pakistan-rights-lawyers-receive-10-year-sentences",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 16:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "Trump Revives Rallies Less Than 24 Hours After Canceling Them",
           "url": "https://www.realclearpolitics.com/2026/10/30/trump_revives_rallies_less_than_24_hours_after_canceling_them_716015.html",
           "source": "RealClearPolitics - Homepage",
@@ -223,20 +216,6 @@
           "url": "https://www.thepinknews.com/2026/10/30/shocked-reactions-to-nicki-minajs-maga-makeover-giving-i-no-longer-have-access-to-the-gays-or-the-theys/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 30 Oct 2026 13:54:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "New US Sanctions Target Rwanda’s Abusive Role in Eastern Congo",
-          "url": "https://www.hrw.org/news/2026/10/30/new-us-sanctions-target-rwandas-abusive-role-in-eastern-congo",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:50:42 -0400",
-          "section": ""
-        },
-        {
-          "title": "“They Killed Us”",
-          "url": "https://www.hrw.org/news/2026/10/30/they-killed-us",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:41:52 -0400",
           "section": ""
         },
         {
@@ -385,13 +364,6 @@
           "source": "The Appeal",
           "ts": "Tue, 27 Oct 2026 18:29:22 +0000",
           "section": ""
-        },
-        {
-          "title": "Ben & Jerry’s founders explore deal to separate brand from owner after previous clashes: report - New York Post",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVZZN0ZZUndxcTI0ZkZZU2NwS0JrckJMWnZqM1dTSEpFVnhTbzJmVHRaaUNEdE1jaXlqN2FQdS1OTGR4NFNMcV9IR3RrNkg5NFBQODRQU1RsVnVzMkFmcVBHMlRPYXRkcFlid3pVWVVUalEtelhnei1NYkFpQ2FyWENPal82dkhRVUNrUnFsejVmd1JkMjdEbzdfOExlQjJPSGx6c3pMMC11YU9r?oc=5",
-          "source": "Ben Cohen (Ben & Jerry's)",
-          "ts": "Mon, 26 Oct 2026 23:33:21 GMT",
-          "section": ""
         }
       ]
     },
@@ -425,17 +397,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Alaska’s top federal prosecutor confirms civil and criminal investigations over dual Dan Sullivans - live",
+          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 30 Oct 2026 23:33:55 GMT",
+          "section": ""
+        },
+        {
           "title": "Retired Michigan teacher released from Russian prison believed he would never be freed",
           "url": "https://www.theguardian.com/us-news/2026/oct/30/retired-michigan-teacher-released-russian-prison",
           "source": "US news | The Guardian",
           "ts": "Fri, 30 Oct 2026 23:19:41 GMT",
-          "section": ""
-        },
-        {
-          "title": "Alaska’s top federal prosecutor confirms civil and criminal investigations over dual Dan Sullivans - live",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 23:18:54 GMT",
           "section": ""
         },
         {
@@ -577,6 +549,20 @@
           "section": ""
         },
         {
+          "title": "Polish police deployed to top court after head judge suspended",
+          "url": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 30 Oct 2026 23:19:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "Why AI could threaten much of the world’s digital infrastructure",
+          "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 30 Oct 2026 23:13:51 +0000",
+          "section": ""
+        },
+        {
           "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
           "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -598,24 +584,10 @@
           "section": ""
         },
         {
-          "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
-          "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 30 Oct 2026 21:00:51 +0000",
-          "section": ""
-        },
-        {
           "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
           "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-30T20:55:00Z",
-          "section": ""
-        },
-        {
-          "title": "US appeals court again rejects Trump bid to set aside California ballots",
-          "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 30 Oct 2026 20:39:50 +0000",
           "section": ""
         },
         {
@@ -647,6 +619,13 @@
           "section": ""
         },
         {
+          "title": "Hellenic Navy Receives Its Second FDI Frigate Built by Naval Group",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hellenic-navy-receives-its-second-fdi-frigate-built-by-naval-group/",
+          "source": "Naval News",
+          "ts": "Fri, 30 Oct 2026 17:40:22 +0000",
+          "section": ""
+        },
+        {
           "title": "The Dead Among Us Know. “They Never Disappear from our Lives”",
           "url": "https://www.globalresearch.ca/dead-among-us-know/5944759",
           "source": "Global Research",
@@ -672,6 +651,20 @@
           "url": "https://www.aclu.org/news/privacy-technology/police-drone-use-is-not-narrow",
           "source": "Posts | American Civil Liberties Union",
           "ts": "Fri, 30 Oct 2026 14:21:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Hanwha Philly Shipyard Selected to Build US Navy Medium Landing Ship (LSM)",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/",
+          "source": "Naval News",
+          "ts": "Fri, 30 Oct 2026 14:16:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "KONGSBERG secures US government contract for underwater capabilities",
+          "url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/",
+          "source": "Naval News",
+          "ts": "Fri, 30 Oct 2026 13:53:45 +0000",
           "section": ""
         },
         {
@@ -993,20 +986,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Filton case exposes collapse of Britain’s “rule of law” - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWljT2N4UzcxNldKLXRuVm12empGRnZ4NFZpcmJmTmxVbVJHMkdmd2wyVVJ5M2F3V01GOWU4WkNQQVNtVVV3c2FUYi16U0RENXRQalZNZHZxQW5zVHZSM2FPeDFzelB0MENwcUhQOXdVS19SYlZ1UnRvdldlc0FTTV9hLWFLUlZMd0Z5ZGY4VDJRR2NVbXc?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 29 Oct 2026 12:18:01 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Zionism is racism, even if The Irish Times claims otherwise - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXU5bThpNlRacWZrdkYzUlIwNWxCR0U0Yk9LbU81WG5aS19Kbk9WWW9HUl9QOENRdGxKUzk3NjdxOFVzZFV6RWUzbExSUG80cXlnckYya0E5eUtoc29QWUx5OVNXbzVJc3JZdHVlUTE2OWlhSWpwdzFCcUphY21lX2tHX3lObXlMdEZOV3VQMXhuaDI1eDFhd0ZnVHRQZFp4bWVj?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 29 Oct 2026 09:05:27 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Opinion | It's Bibi or Tibi: Israel's future depends on its Arab citizens - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZkU2UFB4UWZnX200X2pjU29FWndibGNEQndRaFZSZjdIRzdrc3VhbWZDcEZlZG5KUVdXdzZWc0VSblp2NHNrS01mMF82TnEwRDNxZkozbkhkcFQxVFo1R0FieXEyOFVJdkM3RnJrUW1hZWhLX2ZmTjFUZ0x2LWVrdW1MeFBvNUU0SXo4eldHd1lIRmozR25icS1JMnloNUVxTEV3Z0gzczVvUHJXVTRjWFlvVjY4bE9EVktnYXRFTjNsT2VZeGd3OUZpOXU1dnlhWHBiYnBlbGZrd2xhejIyblhyYlBTeW9wUW1WYVpxdjJLaS1FODFvV3JuZkY?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -1018,13 +997,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IclhWbl9jemdhMlJEUUwxNm9nLTBDNUJpUEtfNmZJaEd5UG5sZkZVUy1PUzhTeHZlR1lvYlh3LUR4aS1YRmhfYkRiblUwTlpGWHJF?oc=5",
           "source": "CODEPINK",
           "ts": "Wed, 28 Oct 2026 20:49:42 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Travis Air Force Base: No Weapons for Genocide! - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBya3duN1R6QWZrbWViYW51WUlER0xIcURSb0lETHdJWW5yckVKSEpaRGd3b2dQN3o2RzBSdlNGdjk3bTRvOFE?oc=5",
-          "source": "CODEPINK",
-          "ts": "Wed, 28 Oct 2026 19:46:23 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
@@ -1093,13 +1065,6 @@
           "url": "https://borderlessmag.org/2026/10/28/chicago-school-board-election-2026-the-race-in-district-3a-logan-square-albany-park/",
           "source": "Borderless Magazine NFP",
           "ts": "Wed, 28 Oct 2026 15:00:10 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Greater Boston Legal Services et al. v. Mullin et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNoMEJOQUFxN1dVdVVlTGJRMkdNQ2tjRkoxcURGOE40d0R5ZElXd2V6OGhNaUk0QUNoS05URk9BSnFXTXBlcm0xNnVRdjhsVThteHpqb1FTaFlzYW9FYm9WV3JKRE5ydkVYdGt5YzRiNEJybS1fUm1sTmJsODN6Q0VQQjNpUTBYTGZwUDRn?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Wed, 28 Oct 2026 12:00:00 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
