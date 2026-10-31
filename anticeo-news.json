@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T10:17:47.003909Z",
+  "generated_at": "2026-10-31T10:33:01.252792Z",
   "headline": {
-    "title": "2 Palestinians killed in Israel’s ongoing violations of Gaza ceasefire",
-    "url": "https://www.middleeastmonitor.com/20261031-2-palestinians-killed-in-israels-ongoing-violations-of-gaza-ceasefire/"
+    "title": "The Trump DOJ’s Futile Attempt to Indict Cassidy Hutchinson",
+    "url": "https://www.nationalreview.com/2026/10/the-trump-dojs-futile-attempt-to-indict-cassidy-hutchinson/"
   },
   "sections": [
     {
@@ -11,6 +11,13 @@
         {
           "title": "Grudge rematch: Luna and Villanueva duel to lead nation's largest sheriff's department",
           "url": "https://www.latimes.com/california/story/2026-10-31/la-county-sheriffs-race-is-grudge-rematch-luna-vs-villanueva",
+          "source": "California",
+          "ts": "Sat, 31 Oct 2026 10:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Proposed billionaire tax could impact California sports teams",
+          "url": "https://www.latimes.com/california/story/2026-10-31/proposed-billionaire-tax-disproportionate-impact-california-sports-teams",
           "source": "California",
           "ts": "Sat, 31 Oct 2026 10:00:00 GMT",
           "section": ""
@@ -142,13 +149,6 @@
           "section": ""
         },
         {
-          "title": "Pakistan: Rights Lawyers Receive 10-Year Sentences",
-          "url": "https://www.hrw.org/news/2026/10/30/pakistan-rights-lawyers-receive-10-year-sentences",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 16:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "Trump Revives Rallies Less Than 24 Hours After Canceling Them",
           "url": "https://www.realclearpolitics.com/2026/10/30/trump_revives_rallies_less_than_24_hours_after_canceling_them_716015.html",
           "source": "RealClearPolitics - Homepage",
@@ -191,6 +191,13 @@
           "section": ""
         },
         {
+          "title": "‘You Can See Everything’: Critic Bait of the Year",
+          "url": "https://www.truthdig.com/articles/you-can-see-everything-critic-bait-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-critic-bait-of-the-year",
+          "source": "Truthdig",
+          "ts": "Fri, 30 Oct 2026 15:16:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
           "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
           "source": "ProPublica",
@@ -209,20 +216,6 @@
           "url": "https://www.thepinknews.com/2026/10/30/shocked-reactions-to-nicki-minajs-maga-makeover-giving-i-no-longer-have-access-to-the-gays-or-the-theys/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 30 Oct 2026 13:54:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "New US Sanctions Target Rwanda’s Abusive Role in Eastern Congo",
-          "url": "https://www.hrw.org/news/2026/10/30/new-us-sanctions-target-rwandas-abusive-role-in-eastern-congo",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:50:42 -0400",
-          "section": ""
-        },
-        {
-          "title": "“They Killed Us”",
-          "url": "https://www.hrw.org/news/2026/10/30/they-killed-us",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:41:52 -0400",
           "section": ""
         },
         {
@@ -397,6 +390,41 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Trump DOJ’s Futile Attempt to Indict Cassidy Hutchinson",
+          "url": "https://www.nationalreview.com/2026/10/the-trump-dojs-futile-attempt-to-indict-cassidy-hutchinson/",
+          "source": "National Review",
+          "ts": "Sat, 31 Oct 2026 10:30:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "How an Idaho Court Contrived a New Right to Abortion",
+          "url": "https://www.nationalreview.com/2026/10/how-an-idaho-court-contrived-a-new-right-to-abortion/",
+          "source": "National Review",
+          "ts": "Sat, 31 Oct 2026 10:30:11 +0000",
+          "section": ""
+        },
+        {
+          "title": "Mission San Juan Capistrano at 250",
+          "url": "https://www.nationalreview.com/2026/10/mission-san-juan-capistrano-at-250/",
+          "source": "National Review",
+          "ts": "Sat, 31 Oct 2026 10:30:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump beware: US voters are concerned about government corruption",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-government-corruption-midterms-voters",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 31 Oct 2026 10:00:41 GMT",
+          "section": ""
+        },
+        {
+          "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 31 Oct 2026 10:00:40 GMT",
+          "section": ""
+        },
+        {
           "title": "Patrick Stewart taught us what good men do with power",
           "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
           "source": "Vox",
@@ -408,20 +436,6 @@
           "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
           "source": "US news | The Guardian",
           "ts": "Sat, 31 Oct 2026 06:00:38 GMT",
-          "section": ""
-        },
-        {
-          "title": "Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law",
-          "url": "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 31 Oct 2026 04:09:50 GMT",
-          "section": ""
-        },
-        {
-          "title": "Abdul el Sayed resists efforts from Haley Stevens to corner him on Israel - as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 31 Oct 2026 02:00:47 GMT",
           "section": ""
         },
         {
@@ -474,13 +488,6 @@
           "section": ""
         },
         {
-          "title": "Mbappé Meets His Match",
-          "url": "https://www.nationalreview.com/2026/10/mbappe-meets-his-match/",
-          "source": "National Review",
-          "ts": "Fri, 30 Oct 2026 14:38:02 +0000",
-          "section": ""
-        },
-        {
           "title": "Forget tainted candy: The scariest thing on Halloween is parked in your driveway",
           "url": "https://www.vox.com/future-perfect/2022/10/31/23427256/halloween-children-car-deaths-pedestrian-safety",
           "source": "Vox",
@@ -488,24 +495,10 @@
           "section": ""
         },
         {
-          "title": "The False Dichotomy of Abolishing Business Schools",
-          "url": "https://www.nationalreview.com/2026/10/the-false-dichotomy-of-abolishing-business-schools/",
-          "source": "National Review",
-          "ts": "Fri, 30 Oct 2026 12:54:26 +0000",
-          "section": ""
-        },
-        {
           "title": "Retiree who backed Russia’s LGBT ban fined 1,500 rubles over old rainbow-flag reposts",
           "url": "https://www.thepinknews.com/2026/10/30/russia-lgbt-fines-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 30 Oct 2026 12:14:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "California’s Act of Fiscal Self-Sabotage",
-          "url": "https://www.nationalreview.com/2026/10/californias-act-of-fiscal-self-sabotage/",
-          "source": "National Review",
-          "ts": "Fri, 30 Oct 2026 10:30:53 +0000",
           "section": ""
         },
         {
@@ -909,6 +902,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli army tightens restrictions in occupied West Bank’s Hebron as offensive enters 9th day",
+          "url": "https://www.middleeastmonitor.com/20261031-israeli-army-tightens-restrictions-in-occupied-west-banks-hebron-as-offensive-enters-9th-day/",
+          "source": "Middle East Monitor",
+          "ts": "Sat, 31 Oct 2026 10:24:04 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "2 Palestinians killed in Israel’s ongoing violations of Gaza ceasefire",
           "url": "https://www.middleeastmonitor.com/20261031-2-palestinians-killed-in-israels-ongoing-violations-of-gaza-ceasefire/",
           "source": "Middle East Monitor",
@@ -920,13 +920,6 @@
           "url": "https://www.middleeastmonitor.com/20261031-iran-warns-war-could-spread-much-wider-if-us-launches-another-military-adventure/",
           "source": "Middle East Monitor",
           "ts": "Sat, 31 Oct 2026 09:51:53 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Trump administration plans to deport Afghan refugees to Pakistan: Report",
-          "url": "https://www.middleeastmonitor.com/20261031-trump-administration-plans-to-deport-afghan-refugees-to-pakistan-report/",
-          "source": "Middle East Monitor",
-          "ts": "Sat, 31 Oct 2026 09:44:26 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1087,6 +1080,13 @@
           "source": "Borderless Magazine NFP",
           "ts": "Wed, 28 Oct 2026 15:00:10 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Bass vs. Raman: LA mayoral candidates on ICE, LADWP, rent and LAPD",
+          "url": "https://lapublicpress.org/2026/10/la-elections-2026-mayor-bass-raman-lapd-ladwp-rent-eviction/",
+          "source": "LA Public Press",
+          "ts": "Tue, 27 Oct 2026 23:44:46 +0000",
+          "section": ""
         }
       ]
     }
