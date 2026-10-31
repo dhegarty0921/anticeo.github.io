@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T17:17:37.379708Z",
+  "generated_at": "2026-10-31T17:32:49.423772Z",
   "headline": {
-    "title": "Police detain Palestine Action supporters outside US Embassy in London",
-    "url": "https://www.middleeastmonitor.com/20261031-police-detain-palestine-action-supporters-outside-us-embassy-in-london/"
+    "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+    "url": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss"
   },
   "sections": [
     {
@@ -76,6 +76,13 @@
           "url": "https://www.latimes.com/california/story/2026-10-31/ex-garden-grove-police-sergeant-kidnapped-assaulted-coworker-prosecutor-says",
           "source": "California",
           "ts": "Sat, 31 Oct 2026 15:02:35 GMT",
+          "section": ""
+        },
+        {
+          "title": "With only days left in the campaign, Bass and Raman make their final push",
+          "url": "https://www.latimes.com/california/newsletter/2026-10-31/karen-bass-and-nithya-raman-make-a-final-campaign-push",
+          "source": "California",
+          "ts": "Sat, 31 Oct 2026 15:00:00 GMT",
           "section": ""
         },
         {
@@ -216,6 +223,13 @@
           "url": "https://www.truthdig.com/articles/michigans-metro-times-no-longer-asking-rogers-campaign-for-comment/?utm_source=rss&utm_medium=rss&utm_campaign=michigans-metro-times-no-longer-asking-rogers-campaign-for-comment",
           "source": "Truthdig",
           "ts": "Fri, 30 Oct 2026 15:24:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘You Can See Everything’: Critic Bait of the Year",
+          "url": "https://www.truthdig.com/articles/you-can-see-everything-critic-bait-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-critic-bait-of-the-year",
+          "source": "Truthdig",
+          "ts": "Fri, 30 Oct 2026 15:16:46 +0000",
           "section": ""
         },
         {
@@ -418,10 +432,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Early midterm voting surges with more than 50m ballots cast so far – live",
+          "title": "Abdul El-Sayed disinvites former Democratic rival Haley Stevens from Michigan Senate rally, report says – live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/31/doj-threats-election-workers-trump-tele-rallies",
           "source": "US news | The Guardian",
-          "ts": "Sat, 31 Oct 2026 17:02:33 GMT",
+          "ts": "Sat, 31 Oct 2026 17:18:10 GMT",
           "section": ""
         },
         {
@@ -563,6 +577,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+          "url": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 31 Oct 2026 17:21:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
+          "url": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 31 Oct 2026 17:19:44 +0000",
+          "section": ""
+        },
+        {
+          "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+          "url": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 31 Oct 2026 17:17:21 +0000",
+          "section": ""
+        },
+        {
           "title": "David Flippo Misrepresented His Gulf War Military Record",
           "url": "https://www.motherjones.com/politics/2026/10/david-flippo-nevada-misrepresented-military-record-desert-storm-gulf-war/",
           "source": "Mother Jones",
@@ -570,15 +605,8 @@
           "section": ""
         },
         {
-          "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
-          "url": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 31 Oct 2026 16:28:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "Massive Gen Z protests sweep cities across Germany",
-          "url": "https://www.dw.com/en/massive-gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
+          "title": "Gen Z protests sweep cities across Germany",
+          "url": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-31T16:00:00Z",
           "section": ""
@@ -588,20 +616,6 @@
           "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-31T15:47:00Z",
-          "section": ""
-        },
-        {
-          "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
-          "url": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 31 Oct 2026 15:43:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-          "url": "https://www.aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 31 Oct 2026 15:09:59 +0000",
           "section": ""
         },
         {
@@ -792,13 +806,6 @@
           "section": ""
         },
         {
-          "title": "RFK Jr. Steps In To Personally Approve Peptide Use In America Over FDA’s Objections",
-          "url": "https://www.techdirt.com/2026/10/30/rfk-jr-steps-in-to-personally-approve-peptide-use-in-america-over-fdas-objections/",
-          "source": "Techdirt",
-          "ts": "Sat, 31 Oct 2026 02:39:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
           "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
           "source": "Deeplinks",
@@ -806,24 +813,10 @@
           "section": ""
         },
         {
-          "title": "Wherein The Copia Institute Tells SDNY That AI May Have Problems But So Is Using Copyright Law To Try To Fix Them",
-          "url": "https://www.techdirt.com/2026/10/30/wherein-the-copia-institute-tells-sdny-that-ai-may-have-problems-but-so-is-using-copyright-law-to-try-to-fix-them/",
-          "source": "Techdirt",
-          "ts": "Fri, 30 Oct 2026 22:09:13 +0000",
-          "section": ""
-        },
-        {
           "title": "Why VPNs Are Worth Defending",
           "url": "https://www.eff.org/deeplinks/2026/10/why-vpns-are-worth-defending",
           "source": "Deeplinks",
           "ts": "Fri, 30 Oct 2026 20:55:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ctrl-Alt-Speech: A Midterm Night’s Dream",
-          "url": "https://www.techdirt.com/2026/10/30/ctrl-alt-speech-a-midterm-nights-dream/",
-          "source": "Techdirt",
-          "ts": "Fri, 30 Oct 2026 20:03:19 +0000",
           "section": ""
         },
         {
@@ -1007,20 +1000,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "No War, No Empire Weekly Rally: San Pedro - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5rbGNMNHVJZFdQWTc1ekk3TXZSQmtLYnR5MUl0UVpzMnVOQU4xcmQtbDdUVXNSZnBreFM1b1lwZmMyNVhNUjF1c2Zn?oc=5",
-          "source": "CODEPINK",
-          "ts": "Thu, 29 Oct 2026 13:56:30 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Filton case exposes collapse of Britain’s “rule of law” - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWljT2N4UzcxNldKLXRuVm12empGRnZ4NFZpcmJmTmxVbVJHMkdmd2wyVVJ5M2F3V01GOWU4WkNQQVNtVVV3c2FUYi16U0RENXRQalZNZHZxQW5zVHZSM2FPeDFzelB0MENwcUhQOXdVS19SYlZ1UnRvdldlc0FTTV9hLWFLUlZMd0Z5ZGY4VDJRR2NVbXc?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 29 Oct 2026 12:18:01 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Opinion | It's Bibi or Tibi: Israel's future depends on its Arab citizens - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZkU2UFB4UWZnX200X2pjU29FWndibGNEQndRaFZSZjdIRzdrc3VhbWZDcEZlZG5KUVdXdzZWc0VSblp2NHNrS01mMF82TnEwRDNxZkozbkhkcFQxVFo1R0FieXEyOFVJdkM3RnJrUW1hZWhLX2ZmTjFUZ0x2LWVrdW1MeFBvNUU0SXo4eldHd1lIRmozR25icS1JMnloNUVxTEV3Z0gzczVvUHJXVTRjWFlvVjY4bE9EVktnYXRFTjNsT2VZeGd3OUZpOXU1dnlhWHBiYnBlbGZrd2xhejIyblhyYlBTeW9wUW1WYVpxdjJLaS1FODFvV3JuZkY?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -1096,11 +1075,11 @@
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
-          "title": "Greater Boston Legal Services et al. v. Mullin et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNoMEJOQUFxN1dVdVVlTGJRMkdNQ2tjRkoxcURGOE40d0R5ZElXd2V6OGhNaUk0QUNoS05URk9BSnFXTXBlcm0xNnVRdjhsVThteHpqb1FTaFlzYW9FYm9WV3JKRE5ydkVYdGt5YzRiNEJybS1fUm1sTmJsODN6Q0VQQjNpUTBYTGZwUDRn?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Wed, 28 Oct 2026 12:00:00 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+          "title": "Bass vs. Raman: LA mayoral candidates on ICE, LADWP, rent and LAPD",
+          "url": "https://lapublicpress.org/2026/10/la-elections-2026-mayor-bass-raman-lapd-ladwp-rent-eviction/",
+          "source": "LA Public Press",
+          "ts": "Tue, 27 Oct 2026 23:44:46 +0000",
+          "section": ""
         }
       ]
     }
