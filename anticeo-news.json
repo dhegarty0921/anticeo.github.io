@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T00:37:00.221474Z",
+  "generated_at": "2026-10-31T00:51:02.254874Z",
   "headline": {
-    "title": "Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate",
-    "url": "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate"
+    "title": "Ex-South Lake Tahoe mayor pleads guilty to wire fraud in church embezzlement case",
+    "url": "https://www.latimes.com/california/story/2026-10-30/ex-south-lake-tahoe-mayor-pleads-guilty-to-wire-fraud-in-church-embezzlement-case"
   },
   "sections": [
     {
@@ -34,13 +34,6 @@
           "url": "https://www.nytimes.com/2026/10/30/us/politics/us-senate-races-millionaires-wealth.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 30 Oct 2026 22:58:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Exorbitant egg order at Monterey school cracks open 'disgusting' embezzlement scheme, police say",
-          "url": "https://www.latimes.com/california/story/2026-10-30/costco-egg-order-uncovers-300k-monterey-school-theft",
-          "source": "California",
-          "ts": "Fri, 30 Oct 2026 22:53:04 GMT",
           "section": ""
         },
         {
@@ -156,13 +149,6 @@
           "section": ""
         },
         {
-          "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
-          "url": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 30 Oct 2026 13:45:27 -0400",
-          "section": ""
-        },
-        {
           "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
           "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -209,6 +195,13 @@
           "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
           "source": "ProPublica",
           "ts": "Fri, 30 Oct 2026 15:10:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+          "url": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 30 Oct 2026 11:00:00 -0400",
           "section": ""
         },
         {
@@ -303,6 +296,13 @@
           "section": ""
         },
         {
+          "title": "Inside’s Iran Secret Strategic Plan After Israel’s Election",
+          "url": "https://www.youtube.com/watch?v=zwUzvBw_XKQ&t=103s",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 29 Oct 2026 19:38:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Healthcare Professionals, Advocates, and Impacted People Share Why They Support Reproductive Freedom on the Ballot in Virginia",
           "url": "https://www.aclu.org/news/reproductive-freedom/healthcare-professionals-advocates-and-impacted-people-share-why-they-support-reproductive-freedom-on-the-ballot-in-virginia",
           "source": "Posts | American Civil Liberties Union",
@@ -321,6 +321,13 @@
           "url": "https://www.moonofalabama.org/2026/10/saudi-propaganda-satellites-converge-over-aps-office.html",
           "source": "Moon of Alabama",
           "ts": "Thu, 29 Oct 2026 13:57:34 +0000",
+          "section": ""
+        },
+        {
+          "title": "For China, Lula’s win in Brazil removes uncertainty",
+          "url": "https://www.scmp.com/opinion/comment/article/3372458/china-lulas-win-brazil-removes-uncertainty",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Thu, 29 Oct 2026 13:48:00 +0000",
           "section": ""
         },
         {
@@ -378,6 +385,13 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
+          "title": "Ex-South Lake Tahoe mayor pleads guilty to wire fraud in church embezzlement case",
+          "url": "https://www.latimes.com/california/story/2026-10-30/ex-south-lake-tahoe-mayor-pleads-guilty-to-wire-fraud-in-church-embezzlement-case",
+          "source": "California",
+          "ts": "Sat, 31 Oct 2026 00:39:18 GMT",
+          "section": ""
+        },
+        {
           "title": "Missouri Passed a Law to Compensate the Wrongfully Convicted. Now It Doesn’t Want to Pay.",
           "url": "https://www.themarshallproject.org/2026/10/29/missouri-wrongful-conviction-compensation",
           "source": "The Marshall Project",
@@ -407,7 +421,7 @@
           "title": "Abdul el Sayed resists efforts from Haley Stevens to corner him on Israel - live",
           "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
           "source": "US news | The Guardian",
-          "ts": "Sat, 31 Oct 2026 00:01:33 GMT",
+          "ts": "Sat, 31 Oct 2026 00:33:20 GMT",
           "section": ""
         },
         {
@@ -436,13 +450,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/10/crypto-biggest-heist-ever-binance-polymarket/689241/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-10-30T18:33:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Is this our last time setting our clocks back?",
-          "url": "https://www.vox.com/today-explained-newsletter/508553/daylight-saving-time-standard-time-sunlight-debate",
-          "source": "Vox",
-          "ts": "2026-10-30T18:00:00-04:00",
           "section": ""
         },
         {
@@ -481,13 +488,6 @@
           "section": ""
         },
         {
-          "title": "Forget tainted candy: The scariest thing on Halloween is parked in your driveway",
-          "url": "https://www.vox.com/future-perfect/2022/10/31/23427256/halloween-children-car-deaths-pedestrian-safety",
-          "source": "Vox",
-          "ts": "2026-10-30T10:00:00-04:00",
-          "section": ""
-        },
-        {
           "title": "The False Dichotomy of Abolishing Business Schools",
           "url": "https://www.nationalreview.com/2026/10/the-false-dichotomy-of-abolishing-business-schools/",
           "source": "National Review",
@@ -509,6 +509,13 @@
           "section": ""
         },
         {
+          "title": "Why healthcare has become such a big problem for Republicans",
+          "url": "https://www.vox.com/policy/508136/healthcare-republicans-medicaid-gop-midterms-aca-healthinsurance-premiums",
+          "source": "Vox",
+          "ts": "2026-10-30T06:45:00-04:00",
+          "section": ""
+        },
+        {
           "title": "California’s Act of Fiscal Self-Sabotage",
           "url": "https://www.nationalreview.com/2026/10/californias-act-of-fiscal-self-sabotage/",
           "source": "National Review",
@@ -527,6 +534,13 @@
           "url": "https://www.christianitytoday.com/2026/10/race-justice-and-the-way-forward/",
           "source": "Christianity Today",
           "ts": "Fri, 30 Oct 2026 10:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democrats can pass a major climate bill — without winning the midterms",
+          "url": "https://www.vox.com/politics/508196/permitting-reform-baaja-democrats-climate",
+          "source": "Vox",
+          "ts": "2026-10-30T06:00:00-04:00",
           "section": ""
         },
         {
@@ -728,6 +742,13 @@
           "url": "https://warontherocks.com/cogs-of-war/a-tale-of-two-markets-a-dickensian-take-on-the-coming-years-in-defense-tech/",
           "source": "War on the Rocks",
           "ts": "Thu, 29 Oct 2026 08:00:33 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israel’s Next Leader Remains Unclear, Neither Candidate Offers An America First Shift",
+          "url": "https://dailycaller.com/2026/10/28/israel-election-netanyahu-coalition-iran-us-relations/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Wed, 28 Oct 2026 20:55:00 +0000",
           "section": ""
         },
         {
@@ -983,6 +1004,13 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IclhWbl9jemdhMlJEUUwxNm9nLTBDNUJpUEtfNmZJaEd5UG5sZkZVUy1PUzhTeHZlR1lvYlh3LUR4aS1YRmhfYkRiblUwTlpGWHJF?oc=5",
           "source": "CODEPINK",
           "ts": "Wed, 28 Oct 2026 20:49:42 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Travis Air Force Base: No Weapons for Genocide! - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBya3duN1R6QWZrbWViYW51WUlER0xIcURSb0lETHdJWW5yckVKSEpaRGd3b2dQN3o2RzBSdlNGdjk3bTRvOFE?oc=5",
+          "source": "CODEPINK",
+          "ts": "Wed, 28 Oct 2026 19:46:23 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
