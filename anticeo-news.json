@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T06:05:37.917084Z",
+  "generated_at": "2026-10-31T06:23:04.898454Z",
   "headline": {
-    "title": "Embarrassing name? How we live with names we don't like",
-    "url": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf"
+    "title": "The selective solidarity at the heart of India’s voter protests",
+    "url": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss"
   },
   "sections": [
     {
@@ -371,31 +371,38 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
+          "title": "Pulte's mortgage-fraud referrals and the sidelined watchdogs: 30 Oct 2026",
+          "url": "https://publictrusttracker.org/case/inv-039-pultes-mortgage-fraud-referrals-and-the-sidelined-watchdogs/",
+          "source": "Public Trust Tracker",
+          "ts": "2026-10-30T00:00:00Z",
+          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
+        },
+        {
+          "title": "East Potomac golf course: park-fee money and a court inquiry into government candor: 30 Oct 2026",
+          "url": "https://publictrusttracker.org/case/inv-070-east-potomac-golf-course-park-fee-money-and-a-court-inquiry/",
+          "source": "Public Trust Tracker",
+          "ts": "2026-10-30T00:00:00Z",
+          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
+        },
+        {
           "title": "Missouri Passed a Law to Compensate the Wrongfully Convicted. Now It Doesn’t Want to Pay.",
           "url": "https://www.themarshallproject.org/2026/10/29/missouri-wrongful-conviction-compensation",
           "source": "The Marshall Project",
           "ts": "Thu, 29 Oct 2026 06:00:51 -0400",
           "section": ""
-        },
-        {
-          "title": "Elon Musk's DOGE role and the agencies probing his companies: 29 Oct 2026",
-          "url": "https://publictrusttracker.org/case/inv-041-elon-musks-doge-role-and-the-agencies-probing-his-companies/",
-          "source": "Public Trust Tracker",
-          "ts": "2026-10-29T00:00:00Z",
-          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
-        },
-        {
-          "title": "Federal pressure on California over alleged noncitizen voters: 29 Oct 2026",
-          "url": "https://publictrusttracker.org/case/elx-005-federal-pressure-on-california-over-alleged-noncitizen/",
-          "source": "Public Trust Tracker",
-          "ts": "2026-10-29T00:00:00Z",
-          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         }
       ]
     },
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/as-trump-fans-the-flames-of-a-world-on-fire-can-diplomacy-take-back-control",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 31 Oct 2026 06:00:38 GMT",
+          "section": ""
+        },
         {
           "title": "Luigi Mangione’s lawyers file to dismiss state charges, citing double jeopardy law",
           "url": "https://www.theguardian.com/us-news/2026/oct/31/luigi-mangione-new-york-case",
@@ -408,13 +415,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/oct/30/trump-rally-iowa-kansas-republican-strategy-midterms-live",
           "source": "US news | The Guardian",
           "ts": "Sat, 31 Oct 2026 02:00:47 GMT",
-          "section": ""
-        },
-        {
-          "title": "Retired Michigan teacher released from Russian prison believed he would never be freed",
-          "url": "https://www.theguardian.com/us-news/2026/oct/30/retired-michigan-teacher-released-russian-prison",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 30 Oct 2026 23:19:41 GMT",
           "section": ""
         },
         {
@@ -542,6 +542,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "The selective solidarity at the heart of India’s voter protests",
+          "url": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 31 Oct 2026 06:08:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "What has it cost to keep Al Jazeera on air for 30 years?",
+          "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/31/what-has-it-cost-to-keep-al-jazeera-on-air-for-30-years?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 31 Oct 2026 06:03:54 +0000",
+          "section": ""
+        },
+        {
+          "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
+          "url": "https://www.aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 31 Oct 2026 05:48:25 +0000",
+          "section": ""
+        },
+        {
           "title": "Embarrassing name? How we live with names we don't like",
           "url": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -549,31 +570,10 @@
           "section": ""
         },
         {
-          "title": "Mohammed Deif, rare footage and October 7 documents",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 31 Oct 2026 05:07:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump tells voters to send El-Sayed ‘back to where he came from’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/trump-tells-voters-to-send-el-sayed-back-to-where-he-came?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 31 Oct 2026 05:07:25 +0000",
-          "section": ""
-        },
-        {
           "title": "India news: Oil tanker carrying 27 Indians attacked with limpet mines in Strait of Hormuz",
           "url": "https://www.dw.com/en/india-news-oil-tanker-carrying-27-indians-attacked-with-limpet-mines-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-10-31T05:06:00Z",
-          "section": ""
-        },
-        {
-          "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-          "url": "https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 31 Oct 2026 04:51:25 +0000",
           "section": ""
         },
         {
@@ -997,6 +997,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03N05vSS1pa09tSUVuaVdWVnNETS1waDllNmtLNHZiRExJZTZaOE92OUtwbUZXbVpxZzBtU1QwclFjUWo4cjJjWXlpV3J6UnY3ajFabVBDYW5DM0lVaVdjemY1WDZ2anl6Z3BFQkltNk96dG1KOTk4YUhpUTQ?oc=5",
           "source": "via Google News",
           "ts": "Thu, 29 Oct 2026 17:04:19 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Filton case exposes collapse of Britain’s “rule of law” - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWljT2N4UzcxNldKLXRuVm12empGRnZ4NFZpcmJmTmxVbVJHMkdmd2wyVVJ5M2F3V01GOWU4WkNQQVNtVVV3c2FUYi16U0RENXRQalZNZHZxQW5zVHZSM2FPeDFzelB0MENwcUhQOXdVS19SYlZ1UnRvdldlc0FTTV9hLWFLUlZMd0Z5ZGY4VDJRR2NVbXc?oc=5",
+          "source": "via Google News",
+          "ts": "Thu, 29 Oct 2026 12:18:01 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
