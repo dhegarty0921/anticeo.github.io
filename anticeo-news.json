@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T17:04:05.217104Z",
+  "generated_at": "2026-11-01T17:17:59.024194Z",
   "headline": {
-    "title": "Bangladesh workers clash with police in protests over low pay",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss"
+    "title": "The DOJ Heads to the Polls",
+    "url": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/?utm_source=feed"
   },
   "sections": [
     {
@@ -383,10 +383,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The DOJ Heads to the Polls",
+          "url": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-01T12:15:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Nov 2026 17:00:21 GMT",
+          "section": ""
+        },
+        {
           "title": "Haley Stevens appears with Abdul El-Sayed’s Republican rival at Michigan Senate campaign event – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
           "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 16:48:11 GMT",
+          "ts": "Sun, 01 Nov 2026 16:56:34 GMT",
           "section": ""
         },
         {
@@ -404,24 +418,10 @@
           "section": ""
         },
         {
-          "title": "What are the races to watch in the US midterm elections and why do they matter?",
-          "url": "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 15:55:59 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Price of Freedom",
+          "title": "I Thought I’d Left Authoritarianism Behind",
           "url": "https://www.theatlantic.com/ideas/2026/11/escaping-communist-czechoslovakia-america/689232/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-01T10:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Is Radicalism the Answer?",
-          "url": "https://www.theatlantic.com/podcasts/2026/11/is-radicalism-the-answer/689201/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-01T09:00:00-05:00",
           "section": ""
         },
         {
@@ -535,6 +535,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+          "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 16:59:41 +0000",
+          "section": ""
+        },
+        {
           "title": "Bangladesh workers clash with police in protests over low pay",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -546,13 +553,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 01 Nov 2026 16:42:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
-          "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 16:24:16 +0000",
           "section": ""
         },
         {
