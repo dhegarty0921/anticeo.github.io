@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T11:32:17.575415Z",
+  "generated_at": "2026-11-01T11:47:51.564765Z",
   "headline": {
-    "title": "Portugal police storm housing protest camps in Lisbon, Porto",
-    "url": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf"
+    "title": "Israeli Democrats leader warns Netanyahu could use new attack on Iran to stay in power",
+    "url": "https://www.middleeastmonitor.com/20261101-israeli-democrats-leader-warns-netanyahu-could-use-new-attack-on-iran-to-stay-in-power/"
   },
   "sections": [
     {
@@ -67,7 +67,7 @@
         {
           "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
           "url": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
-          "source": "NPR Topics: News",
+          "source": "NPR Topics: Politics",
           "ts": "Sun, 01 Nov 2026 05:00:00 -0400",
           "section": ""
         },
@@ -404,6 +404,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Election Trutherism Is Not a One-Sided Problem",
+          "url": "https://www.nationalreview.com/2026/11/election-trutherism-is-not-a-one-sided-problem/",
+          "source": "National Review",
+          "ts": "Sun, 01 Nov 2026 11:30:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two Legacies of Dolores Huerta",
+          "url": "https://www.nationalreview.com/2026/11/two-legacies-of-dolores-huerta/",
+          "source": "National Review",
+          "ts": "Sun, 01 Nov 2026 11:30:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "Now Is the Time for the U.S. to Pursue Venezuelan Elections",
+          "url": "https://www.nationalreview.com/2026/11/now-is-the-time-for-the-u-s-to-pursue-venezuelan-elections/",
+          "source": "National Review",
+          "ts": "Sun, 01 Nov 2026 11:30:26 +0000",
+          "section": ""
+        },
+        {
           "title": "‘He’s a force’: Obama answers call to boost Democrats – and rattle Trump",
           "url": "https://www.theguardian.com/us-news/2026/nov/01/barack-obama-midterms-democrats-trump",
           "source": "US news | The Guardian",
@@ -439,13 +460,6 @@
           "section": ""
         },
         {
-          "title": "Haley Stevens’s Political Suicide Mission",
-          "url": "https://www.nationalreview.com/2026/10/haley-stevenss-political-suicide-mission/",
-          "source": "National Review",
-          "ts": "Sat, 31 Oct 2026 19:23:52 +0000",
-          "section": ""
-        },
-        {
           "title": "A Pro-Russia Strongman at Mar-a-Lago",
           "url": "https://www.theatlantic.com/politics/2026/10/serbia-dodik-russia-maga/689246/?utm_source=feed",
           "source": "The Atlantic",
@@ -478,20 +492,6 @@
           "url": "https://www.vox.com/podcasts/508456/ukraine-russia-oleshky-ceasfire-melania-trump",
           "source": "Vox",
           "ts": "2026-10-31T07:00:00-04:00",
-          "section": ""
-        },
-        {
-          "title": "Trump and Netanyahu Need to Choose Victory on Iran",
-          "url": "https://www.nationalreview.com/2026/10/trump-and-netanyahu-need-to-choose-victory-on-iran/",
-          "source": "National Review",
-          "ts": "Sat, 31 Oct 2026 10:30:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "How the SAT Lowered Expectations",
-          "url": "https://www.nationalreview.com/2026/10/how-the-sat-lowered-expectations/",
-          "source": "National Review",
-          "ts": "Sat, 31 Oct 2026 10:30:41 +0000",
           "section": ""
         },
         {
@@ -556,10 +556,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+          "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-01T11:38:00Z",
+          "section": ""
+        },
+        {
+          "title": "Thousands rally in New Delhi to demand India’s election chief resign",
+          "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 11:26:08 +0000",
+          "section": ""
+        },
+        {
           "title": "Portugal police storm housing protest camps in Lisbon, Porto",
           "url": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-01T11:20:00Z",
+          "section": ""
+        },
+        {
+          "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+          "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 11:14:27 +0000",
           "section": ""
         },
         {
@@ -574,27 +595,6 @@
           "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-01T10:46:00Z",
-          "section": ""
-        },
-        {
-          "title": "Photos: Youth-led rallies sweep Germany",
-          "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-youth-led-rallies-sweep-germany?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 10:41:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Is China’s ‘dark tourism’ turning disaster education into entertainment?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/is-chinas-dark-tourism-turning-disaster-education-into-entertainment?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 10:34:50 +0000",
-          "section": ""
-        },
-        {
-          "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
-          "url": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T10:26:00Z",
           "section": ""
         },
         {
@@ -902,6 +902,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli Democrats leader warns Netanyahu could use new attack on Iran to stay in power",
+          "url": "https://www.middleeastmonitor.com/20261101-israeli-democrats-leader-warns-netanyahu-could-use-new-attack-on-iran-to-stay-in-power/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 01 Nov 2026 11:47:05 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel issues over 9,500 demolition, stop-work notices in West Bank",
           "url": "https://www.middleeastmonitor.com/20261101-israel-issues-over-9500-demolition-stop-work-notices-in-west-bank/",
           "source": "Middle East Monitor",
@@ -913,13 +920,6 @@
           "url": "https://www.middleeastmonitor.com/20261101-iran-designates-british-navy-air-force-as-terrorist-organizations/",
           "source": "Middle East Monitor",
           "ts": "Sun, 01 Nov 2026 10:00:29 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Trump says US could strike Iran’s remaining nuclear sites in ’10 minutes’",
-          "url": "https://www.middleeastmonitor.com/20261101-trump-says-us-could-strike-irans-remaining-nuclear-sites-in-10-minutes/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 01 Nov 2026 09:56:57 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -997,6 +997,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03N05vSS1pa09tSUVuaVdWVnNETS1waDllNmtLNHZiRExJZTZaOE92OUtwbUZXbVpxZzBtU1QwclFjUWo4cjJjWXlpV3J6UnY3ajFabVBDYW5DM0lVaVdjemY1WDZ2anl6Z3BFQkltNk96dG1KOTk4YUhpUTQ?oc=5",
           "source": "via Google News",
           "ts": "Thu, 29 Oct 2026 17:04:19 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Feminists, stand with Palestine: Feminist Majority Foundation! - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IclhWbl9jemdhMlJEUUwxNm9nLTBDNUJpUEtfNmZJaEd5UG5sZkZVUy1PUzhTeHZlR1lvYlh3LUR4aS1YRmhfYkRiblUwTlpGWHJF?oc=5",
+          "source": "CODEPINK",
+          "ts": "Wed, 28 Oct 2026 20:49:42 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
