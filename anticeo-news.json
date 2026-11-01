@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T07:04:23.419508Z",
+  "generated_at": "2026-11-01T07:17:29.159320Z",
   "headline": {
-    "title": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
-    "url": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-rdf"
+    "title": "Shops looted as German cost of living protests turn violent",
+    "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
   },
   "sections": [
     {
@@ -12,7 +12,7 @@
           "title": "Shops looted as German cost of living protests turn violent",
           "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Sun, 01 Nov 2026 06:30:59 GMT",
+          "ts": "Sun, 01 Nov 2026 07:05:50 GMT",
           "section": ""
         },
         {
@@ -72,6 +72,13 @@
           "section": ""
         },
         {
+          "title": "Dana Point landmark Ritz-Carlton, Laguna Niguel resort sells for $600 million",
+          "url": "https://www.latimes.com/california/story/2026-10-31/dana-point-ritz-carlton-laguna-niguel-resort-sells-for-600-million",
+          "source": "California",
+          "ts": "Sat, 31 Oct 2026 21:53:09 GMT",
+          "section": ""
+        },
+        {
           "title": "Deb Haaland Is Racing Against Her Own Record",
           "url": "https://www.motherjones.com/politics/2026/10/deb-haaland-new-mexico-governors-race/",
           "source": "Mother Jones",
@@ -111,6 +118,13 @@
           "url": "https://truthout.org/articles/as-trump-claims-to-bring-drug-prices-down-medicare-drug-plans-hike-premiums/",
           "source": "Truthout",
           "ts": "Sat, 31 Oct 2026 18:27:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Federal Judge Shuts Down Trump’s Threats to Prosecute Election Officials",
+          "url": "https://truthout.org/articles/federal-judge-shuts-down-trumps-threats-to-prosecute-election-officials/",
+          "source": "Truthout",
+          "ts": "Sat, 31 Oct 2026 18:26:49 +0000",
           "section": ""
         },
         {
@@ -230,6 +244,13 @@
           "url": "https://www.truthdig.com/articles/michigans-metro-times-no-longer-asking-rogers-campaign-for-comment/?utm_source=rss&utm_medium=rss&utm_campaign=michigans-metro-times-no-longer-asking-rogers-campaign-for-comment",
           "source": "Truthdig",
           "ts": "Fri, 30 Oct 2026 15:24:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘You Can See Everything’: Critic Bait of the Year",
+          "url": "https://www.truthdig.com/articles/you-can-see-everything-critic-bait-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-critic-bait-of-the-year",
+          "source": "Truthdig",
+          "ts": "Fri, 30 Oct 2026 15:16:46 +0000",
           "section": ""
         },
         {
@@ -385,17 +406,10 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
-          "title": "Pulte's mortgage-fraud referrals and the sidelined watchdogs: 30 Oct 2026",
-          "url": "https://publictrusttracker.org/case/inv-039-pultes-mortgage-fraud-referrals-and-the-sidelined-watchdogs/",
+          "title": "Federal pressure on California over alleged noncitizen voters: 31 Oct 2026",
+          "url": "https://publictrusttracker.org/case/elx-005-federal-pressure-on-california-over-alleged-noncitizen/",
           "source": "Public Trust Tracker",
-          "ts": "2026-10-30T00:00:00Z",
-          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
-        },
-        {
-          "title": "East Potomac golf course: park-fee money and a court inquiry into government candor: 30 Oct 2026",
-          "url": "https://publictrusttracker.org/case/inv-070-east-potomac-golf-course-park-fee-money-and-a-court-inquiry/",
-          "source": "Public Trust Tracker",
-          "ts": "2026-10-30T00:00:00Z",
+          "ts": "2026-10-31T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         }
       ]
@@ -771,13 +785,6 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
-          "title": "This Week In Techdirt History: October 25th – 31st",
-          "url": "https://www.techdirt.com/2026/10/31/this-week-in-techdirt-history-october-25th-31st/",
-          "source": "Techdirt",
-          "ts": "Sat, 31 Oct 2026 19:00:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
           "url": "https://theintercept.com/2026/10/31/centrist-democrats-el-sayed-senate-israel/",
           "source": "The Intercept",
@@ -792,24 +799,10 @@
           "section": ""
         },
         {
-          "title": "RFK Jr. Steps In To Personally Approve Peptide Use In America Over FDA’s Objections",
-          "url": "https://www.techdirt.com/2026/10/30/rfk-jr-steps-in-to-personally-approve-peptide-use-in-america-over-fdas-objections/",
-          "source": "Techdirt",
-          "ts": "Sat, 31 Oct 2026 02:39:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
           "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
           "source": "Deeplinks",
           "ts": "Fri, 30 Oct 2026 23:42:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Wherein The Copia Institute Tells SDNY That AI May Have Problems But So Is Using Copyright Law To Try To Fix Them",
-          "url": "https://www.techdirt.com/2026/10/30/wherein-the-copia-institute-tells-sdny-that-ai-may-have-problems-but-so-is-using-copyright-law-to-try-to-fix-them/",
-          "source": "Techdirt",
-          "ts": "Fri, 30 Oct 2026 22:09:13 +0000",
           "section": ""
         },
         {
