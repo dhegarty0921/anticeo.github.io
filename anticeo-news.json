@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T09:32:41.199158Z",
+  "generated_at": "2026-11-01T09:47:38.017497Z",
   "headline": {
-    "title": "Malawi cattle farmers travel farther as El Nino worsens drought",
-    "url": "https://www.aljazeera.com/news/2026/11/1/malawi-cattle-farmers-travel-farther-as-el-nino-worsens-drought?traffic_source=rss"
+    "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+    "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -556,10 +556,10 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Malawi cattle farmers travel farther as El Nino worsens drought",
-          "url": "https://www.aljazeera.com/news/2026/11/1/malawi-cattle-farmers-travel-farther-as-el-nino-worsens-drought?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 09:16:24 +0000",
+          "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+          "url": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-01T09:43:00Z",
           "section": ""
         },
         {
@@ -577,6 +577,13 @@
           "section": ""
         },
         {
+          "title": "F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico",
+          "url": "https://www.aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 08:53:11 +0000",
+          "section": ""
+        },
+        {
           "title": "Germany news: Merkel calls for first female president",
           "url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -588,13 +595,6 @@
           "url": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-01T08:11:00Z",
-          "section": ""
-        },
-        {
-          "title": "Germany's search for a nuclear waste site",
-          "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T08:06:00Z",
           "section": ""
         },
         {
@@ -1065,6 +1065,13 @@
           "url": "https://borderlessmag.org/2026/10/28/chicago-school-board-election-2026-the-race-in-district-3a-logan-square-albany-park/",
           "source": "Borderless Magazine NFP",
           "ts": "Wed, 28 Oct 2026 15:00:10 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Greater Boston Legal Services et al. v. Mullin et al. - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNoMEJOQUFxN1dVdVVlTGJRMkdNQ2tjRkoxcURGOE40d0R5ZElXd2V6OGhNaUk0QUNoS05URk9BSnFXTXBlcm0xNnVRdjhsVThteHpqb1FTaFlzYW9FYm9WV3JKRE5ydkVYdGt5YzRiNEJybS1fUm1sTmJsODN6Q0VQQjNpUTBYTGZwUDRn?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Wed, 28 Oct 2026 12:00:00 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
