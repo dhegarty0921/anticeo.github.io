@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T04:47:53.548321Z",
+  "generated_at": "2026-11-01T05:04:50.120735Z",
   "headline": {
-    "title": "Bolivia declares state of emergency over El Nino weather pattern",
-    "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss"
+    "title": "France protests enter third week as police fire tear gas",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss"
   },
   "sections": [
     {
@@ -69,6 +69,13 @@
           "url": "https://www.latimes.com/california/story/2026-10-31/sewage-main-break-prompts-closure-of-all-coastal-waters-off-long-beach",
           "source": "California",
           "ts": "Sat, 31 Oct 2026 21:55:09 GMT",
+          "section": ""
+        },
+        {
+          "title": "Dana Point landmark Ritz-Carlton, Laguna Niguel resort sells for $600 million",
+          "url": "https://www.latimes.com/california/story/2026-10-31/dana-point-ritz-carlton-laguna-niguel-resort-sells-for-600-million",
+          "source": "California",
+          "ts": "Sat, 31 Oct 2026 21:53:09 GMT",
           "section": ""
         },
         {
@@ -205,13 +212,6 @@
           "section": ""
         },
         {
-          "title": "Pakistan: Rights Lawyers Receive 10-Year Sentences",
-          "url": "https://www.hrw.org/news/2026/10/30/pakistan-rights-lawyers-receive-10-year-sentences",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 16:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "It’s Time for Labor to Join the Fight Against Data Centers and Tech Oligarchy",
           "url": "https://inthesetimes.com/article/labor-unions-data-centers-tech-oligarchy",
           "source": "In These Times",
@@ -233,6 +233,13 @@
           "section": ""
         },
         {
+          "title": "‘You Can See Everything’: Critic Bait of the Year",
+          "url": "https://www.truthdig.com/articles/you-can-see-everything-critic-bait-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-critic-bait-of-the-year",
+          "source": "Truthdig",
+          "ts": "Fri, 30 Oct 2026 15:16:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
           "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
           "source": "ProPublica",
@@ -251,20 +258,6 @@
           "url": "https://www.thepinknews.com/2026/10/30/shocked-reactions-to-nicki-minajs-maga-makeover-giving-i-no-longer-have-access-to-the-gays-or-the-theys/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 30 Oct 2026 13:54:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "New US Sanctions Target Rwanda’s Abusive Role in Eastern Congo",
-          "url": "https://www.hrw.org/news/2026/10/30/new-us-sanctions-target-rwandas-abusive-role-in-eastern-congo",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:50:42 -0400",
-          "section": ""
-        },
-        {
-          "title": "“They Killed Us”",
-          "url": "https://www.hrw.org/news/2026/10/30/they-killed-us",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:41:52 -0400",
           "section": ""
         },
         {
@@ -556,6 +549,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "France protests enter third week as police fire tear gas",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/france-protests-teargas-police-clashes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 04:31:24 +0000",
+          "section": ""
+        },
+        {
           "title": "Bolivia declares state of emergency over El Nino weather pattern",
           "url": "https://www.aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -567,13 +567,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 01 Nov 2026 03:37:23 +0000",
-          "section": ""
-        },
-        {
-          "title": "What we know about latest efforts to end US war on Iran",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-wrap-iran-latest-developments-011126?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 03:24:02 +0000",
           "section": ""
         },
         {
