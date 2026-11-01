@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T16:47:28.139161Z",
+  "generated_at": "2026-11-01T17:04:05.217104Z",
   "headline": {
-    "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night",
-    "url": "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham"
+    "title": "Bangladesh workers clash with police in protests over low pay",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss"
   },
   "sections": [
     {
@@ -364,13 +364,6 @@
           "source": "Ben Cohen (Ben & Jerry's)",
           "ts": "Wed, 28 Oct 2026 17:24:56 GMT",
           "section": ""
-        },
-        {
-          "title": "MERIP Joins Second Statement Condemning Mada Masr’s Shutdown, Standing with Editor-in-Chief Lina Attalah",
-          "url": "https://www.merip.org/2026/10/merip-joins-second-statement-condemning-mada-masrs-shutdown-standing-with-editor-in-chief-lina-attalah/",
-          "source": "Middle East Research and Information Project",
-          "ts": "Wed, 28 Oct 2026 17:00:00 GMT",
-          "section": ""
         }
       ]
     },
@@ -390,17 +383,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Haley Stevens appears with Abdul El-Sayed’s Republican rival at Michigan Senate campaign event – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Nov 2026 16:48:11 GMT",
+          "section": ""
+        },
+        {
           "title": "Multiple shootings in Dallas leave four dead and 15 injured on Halloween night",
           "url": "https://www.theguardian.com/us-news/2026/nov/01/shootings-halloween-night-dallas-birmingham",
           "source": "US news | The Guardian",
           "ts": "Sun, 01 Nov 2026 16:24:18 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump to appear at rallies in battlegrounds Iowa and Kansas two days before midterms – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 16:17:44 GMT",
           "section": ""
         },
         {
@@ -542,24 +535,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
-          "url": "https://www.aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate?traffic_source=rss",
+          "title": "Bangladesh workers clash with police in protests over low pay",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/bangladesh-workers-clash-with-police-in-protests-over-low-pay?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 16:19:57 +0000",
+          "ts": "Sun, 01 Nov 2026 16:52:42 +0000",
           "section": ""
         },
         {
-          "title": "Al Jazeera Balkans relaunches in new digital-first format",
-          "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-balkans-relaunches-in-new-digital-first-format?traffic_source=rss",
+          "title": "India protesters march with 1km banner of deleted voters’ names",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/india-protesters-march-with-1km-banner-of-deleted-voters-names?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 16:17:37 +0000",
+          "ts": "Sun, 01 Nov 2026 16:42:18 +0000",
           "section": ""
         },
         {
-          "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
-          "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
+          "title": "Russia detains minor over alleged Moscow attack plot after US warning",
+          "url": "https://www.aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 15:50:19 +0000",
+          "ts": "Sun, 01 Nov 2026 16:24:16 +0000",
           "section": ""
         },
         {
