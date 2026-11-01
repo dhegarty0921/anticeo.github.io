@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T15:33:01.747015Z",
+  "generated_at": "2026-11-01T15:48:03.040287Z",
   "headline": {
-    "title": "Trump to appear at rallies in battlegrounds Iowa and Kansas two days before midterms – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas"
+    "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+    "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
   },
   "sections": [
     {
@@ -390,10 +390,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Nov 2026 15:39:02 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump to appear at rallies in battlegrounds Iowa and Kansas two days before midterms – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
           "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 15:03:52 GMT",
+          "ts": "Sun, 01 Nov 2026 15:29:46 GMT",
           "section": ""
         },
         {
@@ -408,13 +415,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/escaping-communist-czechoslovakia-america/689232/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-01T10:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "‘There’s a lot of hate’: rightwing racism stirs south Asian mobilization in Texas",
-          "url": "https://www.theguardian.com/us-news/2026/nov/01/texas-south-asian-racism",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 14:00:19 GMT",
           "section": ""
         },
         {
