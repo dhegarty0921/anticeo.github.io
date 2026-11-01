@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T20:32:30.043278Z",
+  "generated_at": "2026-11-01T20:47:59.452249Z",
   "headline": {
-    "title": "Abdul El-Sayed downplays endorsement feud at campaign event: ‘I actually don’t think about Haley Stevens’ – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas"
+    "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+    "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -369,10 +369,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Nov 2026 20:31:30 GMT",
+          "section": ""
+        },
+        {
           "title": "Abdul El-Sayed downplays endorsement feud at campaign event: ‘I actually don’t think about Haley Stevens’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
           "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 20:23:12 GMT",
+          "ts": "Sun, 01 Nov 2026 20:30:04 GMT",
           "section": ""
         },
         {
@@ -394,13 +401,6 @@
           "url": "https://religionnews.com/2026/11/01/mainliners-are-having-a-moment-can-they-move-from-protest-to-political-power/",
           "source": "RNS",
           "ts": "Sun, 01 Nov 2026 19:58:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Connecticut senator Chris Murphy hospitalized after stroke",
-          "url": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 19:27:44 GMT",
           "section": ""
         },
         {
@@ -521,6 +521,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+          "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-01T20:34:00Z",
+          "section": ""
+        },
+        {
+          "title": "Police clash with housing crisis protesters in Portugal",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 20:31:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "Al Jazeera celebrates 30th anniversary",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 20:21:05 +0000",
+          "section": ""
+        },
+        {
           "title": "Israeli Politician Who Said It’s ‘Morally’ Right To Kill Babies in Gaza Wins Knesset Seat",
           "url": "https://news.antiwar.com/2026/11/01/israeli-politician-who-said-its-morally-right-to-kill-babies-in-gaza-wins-knesset-seat/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-politician-who-said-its-morally-right-to-kill-babies-in-gaza-wins-knesset-seat",
           "source": "News From Antiwar.com",
@@ -547,20 +568,6 @@
           "source": "Global Research",
           "ts": "Sun, 01 Nov 2026 19:14:12 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Arsenal go top after narrow win at Liverpool",
-          "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 19:09:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "How will the Iran war shape the outcome of the US midterm vote?",
-          "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 19:00:32 +0000",
-          "section": ""
         },
         {
           "title": "Israel Builds New Southern Lebanon Roads Linking Occupation Outposts",
@@ -595,13 +602,6 @@
           "url": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-242.html",
           "source": "Moon of Alabama",
           "ts": "Sun, 01 Nov 2026 14:21:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ukraine: Russian attacks leave tens of thousands without power",
-          "url": "https://www.dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T14:13:00Z",
           "section": ""
         },
         {
