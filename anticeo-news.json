@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T16:04:12.421544Z",
+  "generated_at": "2026-11-01T16:17:15.331604Z",
   "headline": {
-    "title": "The MAGA Reckoning Arrives",
-    "url": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/?utm_source=feed"
+    "title": "2026 Midterms: Election Integrity Litigation Tracker",
+    "url": "https://www.justsecurity.org/162830/2026-midterms-election-integrity-litigation-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=2026-midterms-election-integrity-litigation-tracker"
   },
   "sections": [
     {
@@ -390,10 +390,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The MAGA Reckoning Arrives",
-          "url": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-01T11:00:18-05:00",
+          "title": "What are the races to watch in the US midterm elections and why do they matter?",
+          "url": "https://www.theguardian.com/us-news/2026/oct/26/what-are-midterm-elections",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Nov 2026 15:55:59 GMT",
           "section": ""
         },
         {
@@ -408,13 +408,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
           "source": "US news | The Guardian",
           "ts": "Sun, 01 Nov 2026 15:39:02 GMT",
-          "section": ""
-        },
-        {
-          "title": "Mike Lawler flipped a New York district red in 2022. But his ties to Trump might bite him in the midterms",
-          "url": "https://www.theguardian.com/us-news/2026/nov/01/mike-lawler-new-york-midterm-elections",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 15:00:15 GMT",
           "section": ""
         },
         {
@@ -435,6 +428,13 @@
           "title": "Can’t commit to vegetarianism but want animals to suffer less? You’ve got options.",
           "url": "https://www.vox.com/future-perfect/422275/vegan-vegetarian-diet-health-animal-suffering",
           "source": "Vox",
+          "ts": "2026-11-01T08:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "I Was Lucky to Be Alive. But I Missed Being Pretty.",
+          "url": "https://www.theatlantic.com/ideas/2026/11/stroke-25-recovery-mortality/689126/?utm_source=feed",
+          "source": "The Atlantic",
           "ts": "2026-11-01T08:00:00-05:00",
           "section": ""
         },
@@ -542,6 +542,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
+          "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 15:50:19 +0000",
+          "section": ""
+        },
+        {
           "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -553,13 +560,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 01 Nov 2026 15:38:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "Serbia arrests police chief over abuse of office allegations",
-          "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 15:36:13 +0000",
           "section": ""
         },
         {
@@ -771,6 +771,20 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "2026 Midterms: Election Integrity Litigation Tracker",
+          "url": "https://www.justsecurity.org/162830/2026-midterms-election-integrity-litigation-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=2026-midterms-election-integrity-litigation-tracker",
+          "source": "Just Security",
+          "ts": "Sun, 01 Nov 2026 16:09:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Cancer, Water, and Big Ag: What Rural America Is Voting On",
+          "url": "https://www.dropsitenews.com/p/cancer-water-and-big-ag-what-rural",
+          "source": "Drop Site News",
+          "ts": "Sun, 01 Nov 2026 16:09:02 GMT",
+          "section": ""
+        },
+        {
           "title": "A Guide to the Races That Matter to Rural America",
           "url": "https://www.dropsitenews.com/p/midterms-guide-rural-america",
           "source": "Drop Site News",
@@ -866,20 +880,6 @@
           "url": "https://www.dropsitenews.com/p/maine-heating-oil-prices-senate-susan-collins-troy-jackson",
           "source": "Drop Site News",
           "ts": "Fri, 30 Oct 2026 17:11:04 GMT",
-          "section": ""
-        },
-        {
-          "title": "Republican Senators Took Campaign Cash from Trump Nominees They Backed",
-          "url": "https://www.dropsitenews.com/p/blackburn-hagery-tuberville-campaign-cash-trump-nominees-tennesee-valley-authority",
-          "source": "Drop Site News",
-          "ts": "Fri, 30 Oct 2026 16:49:58 GMT",
-          "section": ""
-        },
-        {
-          "title": "Just the Docs: Federal Judge Rejects DOJ Bid to Sequester 20,000 California Mail Ballots",
-          "url": "https://www.justsecurity.org/162670/judge-carter-denies-doj-california-ballots-tro/?utm_source=rss&utm_medium=rss&utm_campaign=judge-carter-denies-doj-california-ballots-tro",
-          "source": "Just Security",
-          "ts": "Fri, 30 Oct 2026 14:04:03 +0000",
           "section": ""
         },
         {
