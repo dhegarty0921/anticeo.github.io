@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T15:48:03.040287Z",
+  "generated_at": "2026-11-01T16:04:12.421544Z",
   "headline": {
-    "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
-    "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan"
+    "title": "The MAGA Reckoning Arrives",
+    "url": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/?utm_source=feed"
   },
   "sections": [
     {
@@ -390,17 +390,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
-          "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 15:39:02 GMT",
+          "title": "The MAGA Reckoning Arrives",
+          "url": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-01T11:00:18-05:00",
           "section": ""
         },
         {
           "title": "Trump to appear at rallies in battlegrounds Iowa and Kansas two days before midterms – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
           "source": "US news | The Guardian",
-          "ts": "Sun, 01 Nov 2026 15:29:46 GMT",
+          "ts": "Sun, 01 Nov 2026 15:46:15 GMT",
+          "section": ""
+        },
+        {
+          "title": "Republican senator Dan Sullivan says he will accept Alaska election results",
+          "url": "https://www.theguardian.com/us-news/2026/nov/01/alaska-senate-race-republican-dan-sullivan",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 01 Nov 2026 15:39:02 GMT",
           "section": ""
         },
         {
@@ -428,13 +435,6 @@
           "title": "Can’t commit to vegetarianism but want animals to suffer less? You’ve got options.",
           "url": "https://www.vox.com/future-perfect/422275/vegan-vegetarian-diet-health-animal-suffering",
           "source": "Vox",
-          "ts": "2026-11-01T08:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "I Was Lucky to Be Alive. But I Missed Being Pretty.",
-          "url": "https://www.theatlantic.com/ideas/2026/11/stroke-25-recovery-mortality/689126/?utm_source=feed",
-          "source": "The Atlantic",
           "ts": "2026-11-01T08:00:00-05:00",
           "section": ""
         },
@@ -542,24 +542,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 15:40:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 15:38:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "Serbia arrests police chief over abuse of office allegations",
+          "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 15:36:13 +0000",
+          "section": ""
+        },
+        {
           "title": "France opens attempted murder probe after protest attack",
           "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-01T14:50:00Z",
-          "section": ""
-        },
-        {
-          "title": "Photos: Thousands join India’s opposition rally against election chief",
-          "url": "https://www.aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 14:46:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-          "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 14:26:43 +0000",
           "section": ""
         },
         {
@@ -574,13 +581,6 @@
           "url": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-242.html",
           "source": "Moon of Alabama",
           "ts": "Sun, 01 Nov 2026 14:21:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israel election: When will government be formed, who will lead it?",
-          "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 14:16:14 +0000",
           "section": ""
         },
         {
@@ -771,6 +771,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "A Guide to the Races That Matter to Rural America",
+          "url": "https://www.dropsitenews.com/p/midterms-guide-rural-america",
+          "source": "Drop Site News",
+          "ts": "Sun, 01 Nov 2026 15:53:44 GMT",
+          "section": ""
+        },
+        {
           "title": "Collection: Just Security 2026 Midterm Election Analysis and Commentary",
           "url": "https://www.justsecurity.org/159524/collection-just-security-2026-midterm-election/?utm_source=rss&utm_medium=rss&utm_campaign=collection-just-security-2026-midterm-election",
           "source": "Just Security",
@@ -866,13 +873,6 @@
           "url": "https://www.dropsitenews.com/p/blackburn-hagery-tuberville-campaign-cash-trump-nominees-tennesee-valley-authority",
           "source": "Drop Site News",
           "ts": "Fri, 30 Oct 2026 16:49:58 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump’s “insane” Iran war plan; Ukraine strikes Russian refinery in defiance of Trump; Dockworkers stage global antiwar strike",
-          "url": "https://www.dropsitenews.com/p/trump-iran-war-ukraine-russia-refinery-dockworkers-ports-strike-antiwar",
-          "source": "Drop Site News",
-          "ts": "Fri, 30 Oct 2026 14:53:51 GMT",
           "section": ""
         },
         {
