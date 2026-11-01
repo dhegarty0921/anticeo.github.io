@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-01T10:18:01.575956Z",
+  "generated_at": "2026-11-01T10:33:00.571216Z",
   "headline": {
-    "title": "Israel issues over 9,500 demolition, stop-work notices in West Bank",
-    "url": "https://www.middleeastmonitor.com/20261101-israel-issues-over-9500-demolition-stop-work-notices-in-west-bank/"
+    "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+    "url": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -37,16 +37,16 @@
           "section": ""
         },
         {
-          "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
-          "url": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
-          "source": "NPR Topics: News",
+          "title": "Here's how to watch election night as the polls close, hour-by-hour",
+          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+          "source": "NPR Topics: Politics",
           "ts": "Sun, 01 Nov 2026 05:00:00 -0400",
           "section": ""
         },
         {
           "title": "Trump thanks supporters for the memories in final campaign stops for 2026 midterms",
           "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans",
-          "source": "NPR Topics: News",
+          "source": "NPR Topics: Politics",
           "ts": "Sun, 01 Nov 2026 05:00:00 -0400",
           "section": ""
         },
@@ -556,10 +556,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Did a secret book fuel a witch-hunting frenzy in Europe?",
-          "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/1/did-a-secret-book-fuel-a-witch-hunting-frenzy-in-europe?traffic_source=rss",
+          "title": "India news: Opposition holds major rally in Delhi over voter roll revisions",
+          "url": "https://www.dw.com/en/india-news-opposition-holds-major-rally-in-delhi-over-voter-roll-revisions/live-79820226?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-01T10:26:00Z",
+          "section": ""
+        },
+        {
+          "title": "Jamaal Bowman: ‘If I had kept my mouth shut, I’d be in Congress’",
+          "url": "https://www.aljazeera.com/video/upfront/2026/11/1/jamaal-bowman-if-i-had-kept-my-mouth-shut-id-be-in-congress?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 09:44:24 +0000",
+          "ts": "Sun, 01 Nov 2026 10:10:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Yemeni government forces seize strategic positions in al-Jawf",
+          "url": "https://www.aljazeera.com/news/2026/11/1/yemeni-government-forces-seize-strategic-positions-in-al-jawf?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 10:08:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "From railway tragedy to gov’t change: Serbia’s two-year fight for justice",
+          "url": "https://www.aljazeera.com/news/2026/11/1/from-railway-tragedy-to-govt-change-serbias-two-year-fight-for-justice?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 01 Nov 2026 10:04:22 +0000",
           "section": ""
         },
         {
@@ -570,31 +591,10 @@
           "section": ""
         },
         {
-          "title": "Marquez wins Malaysian Grand Prix to close in on retaining championship",
-          "url": "https://www.aljazeera.com/sports/2026/11/1/marquez-wins-malaysian-grand-prix-to-close-in-on-retaining-championship?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 09:36:17 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israeli protesters urge Jewish-Arab coalition government",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-protesters-urge-jewish-arab-coalition-government?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 01 Nov 2026 09:24:52 +0000",
-          "section": ""
-        },
-        {
           "title": "Germany news: Merkel calls for first female president",
           "url": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-01T08:53:00Z",
-          "section": ""
-        },
-        {
-          "title": "Donald Trump loses allies after elections in Serbia and Brazil",
-          "url": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T08:11:00Z",
           "section": ""
         },
         {
@@ -997,6 +997,13 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03N05vSS1pa09tSUVuaVdWVnNETS1waDllNmtLNHZiRExJZTZaOE92OUtwbUZXbVpxZzBtU1QwclFjUWo4cjJjWXlpV3J6UnY3ajFabVBDYW5DM0lVaVdjemY1WDZ2anl6Z3BFQkltNk96dG1KOTk4YUhpUTQ?oc=5",
           "source": "via Google News",
           "ts": "Thu, 29 Oct 2026 17:04:19 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Feminists, stand with Palestine: Feminist Majority Foundation! - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IclhWbl9jemdhMlJEUUwxNm9nLTBDNUJpUEtfNmZJaEd5UG5sZkZVUy1PUzhTeHZlR1lvYlh3LUR4aS1YRmhfYkRiblUwTlpGWHJF?oc=5",
+          "source": "CODEPINK",
+          "ts": "Wed, 28 Oct 2026 20:49:42 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
