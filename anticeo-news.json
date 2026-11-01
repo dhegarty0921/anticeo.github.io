@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-01T12:21:23.804522Z",
+  "generated_at": "2026-11-01T12:33:18.031652Z",
   "headline": {
-    "title": "The Menacing MAGA Way to Remake European Politics",
-    "url": "https://www.theatlantic.com/ideas/2026/11/trump-europe-guilfoyle-afd-meddling/689226/?utm_source=feed"
+    "title": "Using AI to Plan Backcountry Trips Is Getting People Into Big Trouble",
+    "url": "https://www.motherjones.com/environment/2026/11/ai-hikers-wilderness-outdoors-bad-information-preparedness-search-rescue/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Using AI to Plan Backcountry Trips Is Getting People Into Big Trouble",
+          "url": "https://www.motherjones.com/environment/2026/11/ai-hikers-wilderness-outdoors-bad-information-preparedness-search-rescue/",
+          "source": "Mother Jones",
+          "ts": "Sun, 01 Nov 2026 12:30:00 +0000",
+          "section": ""
+        },
         {
           "title": "It's ACA open enrollment time. Here are the changes for health insurance shoppers",
           "url": "https://www.npr.org/2026/11/01/nx-s1-6023423/aca-open-enrollment-health-insurance",
@@ -65,8 +72,8 @@
           "section": ""
         },
         {
-          "title": "Here's how to watch election night as the polls close, hour-by-hour",
-          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+          "title": "What's it like to run for Congress when the odds are stacked heavily against you?",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-5995461/midterm-elections-noncompetitive-districts",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 01 Nov 2026 05:00:00 -0400",
           "section": ""
@@ -139,13 +146,6 @@
           "url": "https://www.motherjones.com/politics/2026/10/haley-stevens-jason-turkish-abdul-el-sayed-michigan-senate/",
           "source": "Mother Jones",
           "ts": "Sat, 31 Oct 2026 18:18:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "Politicians Attack Data Centers While Profiting from their Construction",
-          "url": "https://www.motherjones.com/politics/2026/10/politicians-investments-ai-data-centers/",
-          "source": "Mother Jones",
-          "ts": "Sat, 31 Oct 2026 17:59:12 +0000",
           "section": ""
         },
         {
@@ -556,6 +556,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Germany news: Gen Z group calls for new protests",
+          "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-01T12:26:00Z",
+          "section": ""
+        },
+        {
+          "title": "Biological weapons: The weaponization of disease",
+          "url": "https://www.dw.com/en/biological-weapons-the-weaponization-of-disease/a-79819662?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-01T12:25:00Z",
+          "section": ""
+        },
+        {
           "title": "Fire engulfs hotel in Nepal along Everest Base Camp route",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/fire-engulfs-hotel-in-nepal-along-everest-base-camp-route?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -577,24 +591,10 @@
           "section": ""
         },
         {
-          "title": "Portugal police storm housing protest camps in Lisbon, Porto",
-          "url": "https://www.dw.com/en/portugal-police-storm-housing-protest-camps-in-lisbon-porto/a-79821643?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T11:20:00Z",
-          "section": ""
-        },
-        {
           "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
           "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 01 Nov 2026 11:14:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "Germany news: Gen Z group calls for new protests",
-          "url": "https://www.dw.com/en/germany-news-gen-z-group-calls-for-new-protests/live-79814961?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T10:46:00Z",
           "section": ""
         },
         {
