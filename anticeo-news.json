@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-02T02:47:27.576596Z",
+  "generated_at": "2026-11-02T03:04:58.650067Z",
   "headline": {
-    "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
-    "url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html"
+    "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+    "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+          "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 02 Nov 2026 02:49:50 +0000",
+          "section": ""
+        },
         {
           "title": "Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan",
           "url": "https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html",
@@ -34,13 +41,6 @@
           "url": "https://news.antiwar.com/2026/11/01/iranian-army-says-trump-wont-be-able-to-dictate-the-length-of-renewed-war/?utm_source=rss&utm_medium=rss&utm_campaign=iranian-army-says-trump-wont-be-able-to-dictate-the-length-of-renewed-war",
           "source": "News From Antiwar.com",
           "ts": "Mon, 02 Nov 2026 01:35:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
-          "url": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 02 Nov 2026 00:53:08 +0000",
           "section": ""
         },
         {
@@ -149,13 +149,6 @@
           "section": ""
         },
         {
-          "title": "Australia: Solitary Confinement Harming Prisoners with Disabilities",
-          "url": "https://www.hrw.org/news/2026/11/02/australia-solitary-confinement-harming-prisoners-with-disabilities",
-          "source": "Human Rights Watch News",
-          "ts": "Sun, 01 Nov 2026 08:00:01 -0500",
-          "section": ""
-        },
-        {
           "title": "Beloved local shops close down, the cost of living goes up and life goes on in LA’s ‘first suburb’",
           "url": "https://thelalocal.org/art-and-culture/food/community/who-can-afford-highland-park/",
           "source": "LA Local",
@@ -188,6 +181,13 @@
           "url": "https://truthout.org/articles/as-trump-claims-to-bring-drug-prices-down-medicare-drug-plans-hike-premiums/",
           "source": "Truthout",
           "ts": "Sat, 31 Oct 2026 18:27:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Federal Judge Shuts Down Trump’s Threats to Prosecute Election Officials",
+          "url": "https://truthout.org/articles/federal-judge-shuts-down-trumps-threats-to-prosecute-election-officials/",
+          "source": "Truthout",
+          "ts": "Sat, 31 Oct 2026 18:26:49 +0000",
           "section": ""
         },
         {
@@ -226,13 +226,6 @@
           "section": ""
         },
         {
-          "title": "Pakistan: Rights Lawyers Receive 10-Year Sentences",
-          "url": "https://www.hrw.org/news/2026/10/30/pakistan-rights-lawyers-receive-10-year-sentences",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 16:00:00 -0400",
-          "section": ""
-        },
-        {
           "title": "It’s Time for Labor to Join the Fight Against Data Centers and Tech Oligarchy",
           "url": "https://inthesetimes.com/article/labor-unions-data-centers-tech-oligarchy",
           "source": "In These Times",
@@ -254,6 +247,13 @@
           "section": ""
         },
         {
+          "title": "‘You Can See Everything’: Critic Bait of the Year",
+          "url": "https://www.truthdig.com/articles/you-can-see-everything-critic-bait-of-the-year/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-see-everything-critic-bait-of-the-year",
+          "source": "Truthdig",
+          "ts": "Fri, 30 Oct 2026 15:16:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump Has Tried to Exert More Control Over Elections. Here Are the Key Findings From Our Reporting.",
           "url": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
           "source": "ProPublica",
@@ -272,13 +272,6 @@
           "url": "https://www.thepinknews.com/2026/10/30/shocked-reactions-to-nicki-minajs-maga-makeover-giving-i-no-longer-have-access-to-the-gays-or-the-theys/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Fri, 30 Oct 2026 13:54:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "New US Sanctions Target Rwanda’s Abusive Role in Eastern Congo",
-          "url": "https://www.hrw.org/news/2026/10/30/new-us-sanctions-target-rwandas-abusive-role-in-eastern-congo",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 09:50:42 -0400",
           "section": ""
         },
         {
@@ -372,7 +365,7 @@
           "title": "Trump praises Haley Stevens while rallying in Iowa in final push before election day – follow live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/01/trump-midterm-rallies-iowa-kansas",
           "source": "US news | The Guardian",
-          "ts": "Mon, 02 Nov 2026 02:30:58 GMT",
+          "ts": "Mon, 02 Nov 2026 02:46:24 GMT",
           "section": ""
         },
         {
@@ -521,6 +514,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+          "url": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-02T02:48:00Z",
+          "section": ""
+        },
+        {
           "title": "Ukraine blames Russia after air alert app sends out false warnings",
           "url": "https://www.aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -575,13 +575,6 @@
           "source": "Global Research",
           "ts": "Sun, 01 Nov 2026 19:14:12 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Serbia: Police chief arrested after election for abuse of office",
-          "url": "https://www.dw.com/en/serbia-police-chief-arrested-after-election-for-abuse-of-office/a-79823382?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-01T17:16:00Z",
-          "section": ""
         },
         {
           "title": "Iran Open Thread 2026-243",
@@ -941,13 +934,6 @@
           "url": "https://www.mintpressnews.com/pedophile-president-trump-epstein-argued-over-who-would-take-13-year-olds-virginity-new-house-report-states/291281/",
           "source": "MintPress News",
           "ts": "Fri, 30 Oct 2026 18:14:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israel kills 8-year-old who survived bombing that wiped out her family - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVElCUlpJUWMxYzFWSHJZUHVjdi1Rd0dnYm1TTElJcjZ3V3Q0ZnBLaVlIZ1dSLXNEZERvSENaWU1OUHU4YW9JNmY2QXkwazZJUEpUTGRreUdJUHJnSWZabHlTZEktUGE0Q2lweXFSWkpSSWtFYmM5RWRzc1lWRXdOVFZDWDVDNGVLR09fay0xX09qS0tuSGlTRktVQ3V2ZVNmQlVIQkpBcHh5cHNWNmhfSjUtbjFyLTlKUXh5OUlUbk9GQQ?oc=5",
-          "source": "via Google News",
-          "ts": "Fri, 30 Oct 2026 15:49:33 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
