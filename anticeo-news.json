@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-02T13:05:28.753294Z",
+  "generated_at": "2026-11-02T13:19:49.923976Z",
   "headline": {
-    "title": "Immigration News Today: Mamdani Warns ICE to Stop Using City Property",
-    "url": "https://documentedny.com/2026/11/02/mamdani-ice-city-property/"
+    "title": "The Gulf goes to Tehran",
+    "url": "https://www.middleeastmonitor.com/20261102-the-gulf-goes-to-tehran/"
   },
   "sections": [
     {
@@ -45,7 +45,7 @@
         },
         {
           "title": "Arizona Dems Aim to Win a Voice in Energy Policy on Tuesday",
-          "url": "https://www.motherjones.com/politics/2026/11/arizona-corporations-commission-republican-control-democrats-midterms-energy-policy-renewables-efficiency-standards/",
+          "url": "https://www.motherjones.com/politics/2026/11/arizona-corporations-commission-republican-control-democrats-midterms-energy-policy-renewables-efficiency-standards-climate/",
           "source": "Mother Jones",
           "ts": "Mon, 02 Nov 2026 12:30:00 +0000",
           "section": ""
@@ -390,17 +390,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Colorado town braces for historic flood as heavy rains batter south-west",
-          "url": "https://www.theguardian.com/us-news/2026/nov/02/colorado-flash-flooding-arizona-new-mexico",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Nov 2026 12:44:47 GMT",
-          "section": ""
-        },
-        {
           "title": "Democrats condemn Haley Stevens’ ‘betrayal’ following endorsement of Republican Mike Rogers – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 02 Nov 2026 12:41:08 GMT",
+          "ts": "Mon, 02 Nov 2026 13:07:39 GMT",
+          "section": ""
+        },
+        {
+          "title": "‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/pennsylvania-measles-outbreak-amish",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Nov 2026 13:00:43 GMT",
+          "section": ""
+        },
+        {
+          "title": "‘Smart, articulate and guided by his heart’: James Talarico’s journey from teacher to potential Texas senator",
+          "url": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 02 Nov 2026 13:00:42 GMT",
+          "section": ""
+        },
+        {
+          "title": "The Protect College Sports Act Isn’t Enough",
+          "url": "https://www.theatlantic.com/culture/2026/11/protect-college-sports-act/689235/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-02T08:00:00-05:00",
           "section": ""
         },
         {
@@ -411,22 +425,8 @@
           "section": ""
         },
         {
-          "title": "Stevens defects to back El-Sayed’s Michigan opponent as Trump delivers anti-Muslim tirade | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/nov/02/first-thing-stevens-defects-to-back-el-sayeds-michigan-opponent-as-trump-delivers-anti-muslim-tirade",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 02 Nov 2026 12:31:58 GMT",
-          "section": ""
-        },
-        {
           "title": "We Can’t Afford an AI Recession",
           "url": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-02T07:30:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "A Master of Irony, a Copycat, or Even an Artist at All?",
-          "url": "https://www.theatlantic.com/culture/2026/11/roy-lichtenstein-like-new-whitney-exhibition-review/689215/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-02T07:30:00-05:00",
           "section": ""
@@ -750,6 +750,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "‘Epstein Files’ Include Information Pertaining to National Security",
+          "url": "https://headlineusa.com/epstein-files-include-information-pertaining-to-national-security/",
+          "source": "Ken Silva, Author at Headline USA",
+          "ts": "Mon, 02 Nov 2026 13:05:23 +0000",
+          "section": "PARA POLITICAL INTRIGUE"
+        },
+        {
           "title": "Warnings About ICE at the Polls Risk Their Own Kind of Voter Suppression",
           "url": "https://theintercept.com/2026/11/02/texas-election-day-ice-voter-suppression/",
           "source": "The Intercept",
@@ -761,6 +768,13 @@
           "url": "https://www.dropsitenews.com/p/mike-rogers-campaign-spokesperson",
           "source": "Drop Site News",
           "ts": "Sun, 01 Nov 2026 21:30:13 GMT",
+          "section": ""
+        },
+        {
+          "title": "Funniest/Most Insightful Comments Of The Week At Techdirt",
+          "url": "https://www.techdirt.com/2026/11/01/funniest-most-insightful-comments-of-the-week-at-techdirt-232/",
+          "source": "Techdirt",
+          "ts": "Sun, 01 Nov 2026 20:10:00 +0000",
           "section": ""
         },
         {
@@ -799,10 +813,24 @@
           "section": ""
         },
         {
+          "title": "This Week In Techdirt History: October 25th – 31st",
+          "url": "https://www.techdirt.com/2026/10/31/this-week-in-techdirt-history-october-25th-31st/",
+          "source": "Techdirt",
+          "ts": "Sat, 31 Oct 2026 19:00:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed",
           "url": "https://theintercept.com/2026/10/31/centrist-democrats-el-sayed-senate-israel/",
           "source": "The Intercept",
           "ts": "Sat, 31 Oct 2026 18:49:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "RFK Jr. Steps In To Personally Approve Peptide Use In America Over FDA’s Objections",
+          "url": "https://www.techdirt.com/2026/10/30/rfk-jr-steps-in-to-personally-approve-peptide-use-in-america-over-fdas-objections/",
+          "source": "Techdirt",
+          "ts": "Sat, 31 Oct 2026 02:39:00 +0000",
           "section": ""
         },
         {
@@ -841,13 +869,6 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "DOJ Leak Compromised Cooperator’s Family, Lawyers Say",
-          "url": "https://headlineusa.com/doj-leak-compromised-cooperators-family-lawyers-say/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Thu, 29 Oct 2026 19:49:25 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "Tech Tips for Parents this Digital Parenting Week",
           "url": "https://www.eff.org/deeplinks/2026/10/tech-tips-parents-digital-parenting-week",
           "source": "Deeplinks",
@@ -860,6 +881,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "The Gulf goes to Tehran",
+          "url": "https://www.middleeastmonitor.com/20261102-the-gulf-goes-to-tehran/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 02 Nov 2026 13:09:13 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli forces fire tear gas at Palestinian students, teachers in West Bank as occupiers block roads",
           "url": "https://www.middleeastmonitor.com/20261102-israeli-forces-fire-tear-gas-at-palestinian-students-teachers-in-west-bank-as-occupiers-block-roads/",
           "source": "Middle East Monitor",
@@ -871,13 +899,6 @@
           "url": "https://www.middleeastmonitor.com/20261102-israel-maintains-highest-state-of-alert-on-eve-of-us-midterm-elections/",
           "source": "Middle East Monitor",
           "ts": "Mon, 02 Nov 2026 12:47:54 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "2 working on US Senate candidate’s campaign registered as foreign agents for Israel: Report",
-          "url": "https://www.middleeastmonitor.com/20261102-2-working-on-us-senate-candidates-campaign-registered-as-foreign-agents-for-israel-report/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 02 Nov 2026 12:37:48 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
