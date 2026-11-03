@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T02:05:35.822312Z",
+  "generated_at": "2026-11-03T02:22:44.179193Z",
   "headline": {
-    "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
-    "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html"
+    "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss"
   },
   "sections": [
     {
@@ -219,6 +219,13 @@
           "section": ""
         },
         {
+          "title": "Michigan Democrats Rally Behind El-Sayed",
+          "url": "https://www.truthdig.com/articles/michigan-democrats-rally-behind-el-sayed/?utm_source=rss&utm_medium=rss&utm_campaign=michigan-democrats-rally-behind-el-sayed",
+          "source": "Truthdig",
+          "ts": "Mon, 02 Nov 2026 16:40:17 +0000",
+          "section": ""
+        },
+        {
           "title": "What the Hell Is Going on With the Michigan Senate Race?",
           "url": "https://www.rollingstone.com/politics/politics-news/michigan-senate-race-chaos-stevens-rogers-1235651288/",
           "source": "Politics News",
@@ -310,13 +317,6 @@
           "section": ""
         },
         {
-          "title": "Qatari negotiators return to Tehran in last-ditch mediation effort",
-          "url": "https://www.ft.com/content/293a8f46-dd7d-4d63-a974-150ecafe7e4c?syn-25a6b1a6=1&ct=t",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Fri, 30 Oct 2026 22:08:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Pakistan: Rights Lawyers Receive 10-Year Sentences",
           "url": "https://www.hrw.org/news/2026/10/30/pakistan-rights-lawyers-receive-10-year-sentences",
           "source": "Human Rights Watch News",
@@ -379,7 +379,7 @@
           "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 03 Nov 2026 01:48:26 GMT",
+          "ts": "Tue, 03 Nov 2026 02:07:39 GMT",
           "section": ""
         },
         {
@@ -474,6 +474,13 @@
           "section": ""
         },
         {
+          "title": "DSA narrowly votes against rescinding Nithya Raman endorsement in L.A. mayor's race",
+          "url": "https://www.latimes.com/california/story/2026-11-02/dsa-narrowly-votes-against-rescinding-nithya-raman-endorsement-in-la-mayors-race",
+          "source": "California",
+          "ts": "Mon, 02 Nov 2026 19:17:56 GMT",
+          "section": ""
+        },
+        {
           "title": "Haley Stevens Is Not Alone",
           "url": "https://www.nationalreview.com/2026/11/haley-stevens-is-not-alone/",
           "source": "National Review",
@@ -507,6 +514,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 02:15:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+          "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 02:12:33 +0000",
+          "section": ""
+        },
+        {
           "title": "US Strikes Iran’s Qeshm Island: Wall Street Journal",
           "url": "https://news.antiwar.com/2026/11/02/us-strikes-irans-qeshm-island-wall-street-journal/?utm_source=rss&utm_medium=rss&utm_campaign=us-strikes-irans-qeshm-island-wall-street-journal",
           "source": "News From Antiwar.com",
@@ -521,25 +542,11 @@
           "section": ""
         },
         {
-          "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 01:01:16 +0000",
-          "section": ""
-        },
-        {
           "title": "Russia Shows Europe That Prolonging the Ukraine War Is Pointless",
           "url": "https://www.globalresearch.ca/russia-shows-europe-prolonging-ukraine-war-pointless/5944987",
           "source": "Global Research",
           "ts": "Tue, 03 Nov 2026 01:00:55 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
-          "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 00:50:38 +0000",
-          "section": ""
         },
         {
           "title": "A Nuclear Strike On Iran? It Sounds Absurd Because It Is. Let’s Talk About It",
@@ -703,20 +710,6 @@
           "section": ""
         },
         {
-          "title": "The Iran War Might Soon Get Catastrophically Worse",
-          "url": "https://jacobin.com/2026/10/trump-netanyahu-iran-post-midterms-escalation",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Sat, 31 Oct 2026 14:25:49 +0000",
-          "section": ""
-        },
-        {
-          "title": "A controversial ad and Democratic infighting: What El-Sayed has said about Israel and US services",
-          "url": "https://politifact.com/article/2026/oct/30/el-sayed-stevens-michigan-israel-midterms/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Fri, 30 Oct 2026 19:07:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Police Promise That Drone Use Will be Narrow; Be Skeptical",
           "url": "https://www.aclu.org/news/privacy-technology/police-drone-use-is-not-narrow",
           "source": "Posts | American Civil Liberties Union",
@@ -866,6 +859,13 @@
     {
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
+        {
+          "title": "Tuesday Palestine Demonstration: Los Angeles - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GN2lYWXhELS1Xc2JmRS11TVo3S1Uwc0xuWTZYQjFXR3VYaHllb3dRVlV5cjV2cFNEVF9ydHBITmpVNWc5QlhCcnQtQldwNlps?oc=5",
+          "source": "CODEPINK",
+          "ts": "Tue, 03 Nov 2026 00:59:05 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
         {
           "title": "Ahead of Midterms, Trump Touts Drop in Oil Prices, Says People ‘Feel Like There Will Not Be a War With Iran’",
           "url": "https://news.antiwar.com/2026/11/02/ahead-of-midterms-trump-touts-drop-in-oil-prices-says-people-feel-like-there-will-not-be-a-war-with-iran/?utm_source=rss&utm_medium=rss&utm_campaign=ahead-of-midterms-trump-touts-drop-in-oil-prices-says-people-feel-like-there-will-not-be-a-war-with-iran",
