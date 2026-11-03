@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T15:04:49.515584Z",
+  "generated_at": "2026-11-03T15:17:13.876827Z",
   "headline": {
-    "title": "Justice department funds research into gender dysphoria and violent crime in latest anti-trans effort",
-    "url": "https://www.theguardian.com/us-news/2026/nov/03/doj-research-gender-dysphoria-violent-crime"
+    "title": "Why South Africa's local elections matter",
+    "url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -27,6 +27,13 @@
           "url": "https://www.motherjones.com/politics/2026/11/dj-byrnes-the-rooster-ohio-vivek-ramaswamy-amy-acton-ad/",
           "source": "Mother Jones",
           "ts": "Tue, 03 Nov 2026 14:36:21 +0000",
+          "section": ""
+        },
+        {
+          "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 03 Nov 2026 14:33:14 GMT",
           "section": ""
         },
         {
@@ -149,6 +156,13 @@
           "section": ""
         },
         {
+          "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+          "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 03 Nov 2026 06:01:14 -0500",
+          "section": ""
+        },
+        {
           "title": "Ben Cohen Goes Guerrilla In His Next Push to Free Ben & Jerry's - ADWEEK",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc21md1dpOVNnWW84SmdYbkRuODBRTGpLUDhaUHExWU5ORlU4UlkxVVFoUGdxWTR5T0c2bm1VNWc3TGRueHdWQy1xcHVjZVZaMy02VnZVYmYtMl9Na1hTem1pSFBuazlwdnZoZFYtOXVveHByUEx5ZDJuRXhDSnFOR014SGlTdjZDanBrQ0R1dFNmZ21JcTU0WmRBQlJHaEFiT2c?oc=5",
           "source": "Ben Cohen (Ben & Jerry's)",
@@ -166,13 +180,6 @@
           "title": "‘Lost in the System’: What It’s Like to Be Stuck for Months in a Mississippi Jail",
           "url": "https://www.themarshallproject.org/2026/11/03/jail-mississippi-trapped-inside-hinds-county",
           "source": "The Marshall Project",
-          "ts": "Tue, 03 Nov 2026 06:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Four types of House races to watch on election night to know how it might go",
-          "url": "https://www.npr.org/2026/11/03/g-s1-151305/2026-midterms-house-races-to-watch",
-          "source": "NPR Topics: Politics",
           "ts": "Tue, 03 Nov 2026 06:00:00 -0500",
           "section": ""
         },
@@ -195,13 +202,6 @@
           "url": "https://www.propublica.org/article/ruidoso-new-mexico-floods-fire",
           "source": "ProPublica",
           "ts": "Tue, 03 Nov 2026 10:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Americans head to the polls for elections that could define Trump's closing chapter",
-          "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 03 Nov 2026 09:29:32 GMT",
           "section": ""
         },
         {
@@ -303,20 +303,6 @@
           "section": ""
         },
         {
-          "title": "Zambia: Widespread Repression in Post-Election Crackdown",
-          "url": "https://www.hrw.org/news/2026/11/01/zambia-widespread-repression-in-post-election-crackdown",
-          "source": "Human Rights Watch News",
-          "ts": "Sun, 01 Nov 2026 23:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Australia: Solitary Confinement Harming Prisoners with Disabilities",
-          "url": "https://www.hrw.org/news/2026/11/02/australia-solitary-confinement-harming-prisoners-with-disabilities",
-          "source": "Human Rights Watch News",
-          "ts": "Sun, 01 Nov 2026 08:00:01 -0500",
-          "section": ""
-        },
-        {
           "title": "‘The Arab Vote’: How Israeli Racism Has Ruined Their Elections - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXdrQ3ZDaDdfNTlKR0VHdmM0cXVEbXYtTENweW5oRmJpTXBSZTNmRWlSQmNET3Rlb0pEUVMtcEdxSDdYTUg4U3Y5Z0ZJRmM5VjgtNEpkdWcxODl6bVdVNFk0eGZFNDFWVjdMTXpDbXN1RmJYNEhZc2p2cEl2cC1LR3ZLeGU4QjRyUGtkUFRqV2o5U3FSVXhyZ29tbw?oc=5",
           "source": "via Google News",
@@ -342,13 +328,6 @@
           "url": "https://www.ft.com/content/293a8f46-dd7d-4d63-a974-150ecafe7e4c?syn-25a6b1a6=1&ct=t",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Fri, 30 Oct 2026 22:08:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pakistan: Rights Lawyers Receive 10-Year Sentences",
-          "url": "https://www.hrw.org/news/2026/10/30/pakistan-rights-lawyers-receive-10-year-sentences",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 30 Oct 2026 16:00:00 -0400",
           "section": ""
         },
         {
@@ -514,7 +493,35 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "HII and Thales Successfully Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous Mine Countermeasure Mission",
+          "title": "Why South Africa's local elections matter",
+          "url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-03T15:06:00Z",
+          "section": ""
+        },
+        {
+          "title": "Merz sees no sign Russia is serious about a ceasefire as he and Zelenskyy call for Europe to help shape a peace deal",
+          "url": "https://www.dw.com/en/merz-sees-no-sign-russia-is-serious-about-a-ceasefire-as-he-and-zelenskyy-call-for-europe-to-help-shape-a-peace-deal/a-79836026?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-03T15:04:00Z",
+          "section": ""
+        },
+        {
+          "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 15:00:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "Global food security is under threat",
+          "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 14:58:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "HII and Thales Demonstrate Expeditionary PathMaster’s Ability to Deliver an End-to-End Autonomous MCM",
           "url": "https://www.navalnews.com/naval-news/2026/11/hii-and-thales-successfully-demonstrate-expeditionary-pathmasters-ability-to-deliver-an-end-to-end-autonomous-mine-countermeasure-mission/",
           "source": "Naval News",
           "ts": "Tue, 03 Nov 2026 14:56:18 +0000",
@@ -532,34 +539,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 03 Nov 2026 14:42:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "How Berlin's Arab queers are building their community",
-          "url": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-03T14:37:00Z",
-          "section": ""
-        },
-        {
-          "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
-          "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 14:30:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "From non-aligned to pro-Western: How Cyprus has loosened ties with Moscow, built partner-ship with the US",
-          "url": "https://www.dw.com/en/from-non-aligned-to-pro-western-how-cyprus-has-loosened-ties-with-moscow-built-partner-ship-with-the-us/a-79841251?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-03T14:28:00Z",
-          "section": ""
-        },
-        {
-          "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-          "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 14:17:29 +0000",
           "section": ""
         },
         {
@@ -846,6 +825,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Trump says ‘not looking to kill lots of people’ in Iran after midterms",
+          "url": "https://www.middleeastmonitor.com/20261103-trump-says-not-looking-to-kill-lots-of-people-in-iran-after-midterms/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 03 Nov 2026 15:05:42 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel’s ultra-Orthodox Shas party to recommend Netanyahu to form next government",
           "url": "https://www.middleeastmonitor.com/20261103-israels-ultra-orthodox-shas-party-to-recommend-netanyahu-to-form-next-government/",
           "source": "Middle East Monitor",
@@ -857,20 +843,6 @@
           "url": "https://www.middleeastmonitor.com/20261103-islamic-world-must-stand-firmly-against-israeli-atrocities-in-palestine-turkish-vice-president/",
           "source": "Middle East Monitor",
           "ts": "Tue, 03 Nov 2026 14:34:13 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Trump pledges end to US aid for Israel by year’s end",
-          "url": "https://www.middleeastmonitor.com/20261103-trump-pledges-end-to-us-aid-for-israel-by-years-end/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 03 Nov 2026 14:26:35 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Tuesday Palestine Demonstration: Los Angeles - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GN2lYWXhELS1Xc2JmRS11TVo3S1Uwc0xuWTZYQjFXR3VYaHllb3dRVlV5cjV2cFNEVF9ydHBITmpVNWc5QlhCcnQtQldwNlps?oc=5",
-          "source": "CODEPINK",
-          "ts": "Tue, 03 Nov 2026 06:59:06 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
