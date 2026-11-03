@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T12:05:28.560868Z",
+  "generated_at": "2026-11-03T12:23:50.841968Z",
   "headline": {
-    "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races"
+    "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting"
   },
   "sections": [
     {
@@ -121,15 +121,15 @@
           "section": ""
         },
         {
-          "title": "Koreatown karaoke out of control? L.A. considers ban on new bars amid complaints",
-          "url": "https://www.latimes.com/california/story/2026-11-03/koreatown-karaoke-out-of-control-la-considers-ban-on-new-bars-amid-complaints",
+          "title": "Your last-minute cheat sheet for voting in key Los Angeles elections",
+          "url": "https://www.latimes.com/california/story/2026-11-03/2026-california-general-election-key-los-angeles-elections-last-minute-voter-guide",
           "source": "California",
           "ts": "Tue, 03 Nov 2026 11:00:00 GMT",
           "section": ""
         },
         {
-          "title": "L.A.'s next mayor faces high expectations, little room for error",
-          "url": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
+          "title": "Koreatown karaoke out of control? L.A. considers ban on new bars amid complaints",
+          "url": "https://www.latimes.com/california/story/2026-11-03/koreatown-karaoke-out-of-control-la-considers-ban-on-new-bars-amid-complaints",
           "source": "California",
           "ts": "Tue, 03 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -376,6 +376,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Nov 2026 12:13:50 GMT",
+          "section": ""
+        },
+        {
+          "title": "First Thing: US goes to polls in vote that will define the last years of Trump’s presidency",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/first-thing-us-polls-vote-define-last-years-donald-trump-presidency",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Nov 2026 12:10:06 GMT",
+          "section": ""
+        },
+        {
           "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
           "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
           "source": "US news | The Guardian",
@@ -383,17 +397,17 @@
           "section": ""
         },
         {
+          "title": "Latinos Are Still Swing Voters",
+          "url": "https://www.theatlantic.com/ideas/2026/11/latinos-swing-voters-midterms/689256/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-03T07:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Who will govern Israel? It may come down to Arab voters.",
           "url": "https://www.vox.com/politics/508662/israel-election-netanyahu-palestinian-arab-democracy-gaza",
           "source": "Vox",
           "ts": "2026-11-03T06:45:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Nov 2026 11:42:15 GMT",
           "section": ""
         },
         {
@@ -418,20 +432,6 @@
           "section": ""
         },
         {
-          "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Nov 2026 11:00:57 GMT",
-          "section": ""
-        },
-        {
-          "title": "Israel’s Common Ground",
-          "url": "https://www.theatlantic.com/ideas/2026/11/israeli-election-politics-culture/689257/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-03T06:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Some Language Changes Come from Sin. Others Are Natural.",
           "url": "https://www.christianitytoday.com/2026/11/kjv-bible-language-changes-come-from-sin-others-are-natural/",
           "source": "Christianity Today",
@@ -439,8 +439,8 @@
           "section": ""
         },
         {
-          "title": "The Voters Sitting This One Out",
-          "url": "https://www.theatlantic.com/politics/2026/11/midterm-voters-sitting-out/689255/?utm_source=feed",
+          "title": "Israel’s Common Ground",
+          "url": "https://www.theatlantic.com/ideas/2026/11/israeli-election-politics-culture/689257/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-03T06:00:00-05:00",
           "section": ""
@@ -460,10 +460,10 @@
           "section": ""
         },
         {
-          "title": "The Election-Denier Backpedal",
-          "url": "https://www.theatlantic.com/politics/2026/11/election-deniers-midterms-trump/689240/?utm_source=feed",
+          "title": "The Voters Sitting This One Out",
+          "url": "https://www.theatlantic.com/politics/2026/11/midterm-voters-sitting-out/689255/?utm_source=feed",
           "source": "The Atlantic",
-          "ts": "2026-11-03T05:00:00-05:00",
+          "ts": "2026-11-03T06:00:00-05:00",
           "section": ""
         },
         {
@@ -514,6 +514,13 @@
           "section": ""
         },
         {
+          "title": "Zelenskyy arrives in Berlin for talks with Merz on air defense and energy support ahead of US-led negotiations with Russia",
+          "url": "https://www.dw.com/en/zelenskyy-arrives-in-berlin-for-talks-with-merz-on-air-defense-and-energy-support-ahead-of-us-led-negotiations-with-russia/a-79836026?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-03T11:44:00Z",
+          "section": ""
+        },
+        {
           "title": "Asian Cup postponed due to Middle East conflict",
           "url": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -542,20 +549,6 @@
           "section": ""
         },
         {
-          "title": "How AI giants could raise the cost of borrowing in Europe",
-          "url": "https://www.dw.com/en/how-ai-giants-could-raise-the-cost-of-borrowing-in-europe/a-79511985?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-03T10:27:00Z",
-          "section": ""
-        },
-        {
-          "title": "DGA, Thales, and Lacroix Unveil DAUPHIN Off-Board Active Decoy for French Navy",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/dauphin-off-board-active-decoy/",
-          "source": "Naval News",
-          "ts": "Tue, 03 Nov 2026 09:30:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Quantum’s Quietest Branch: A Case for Magnetometry",
           "url": "https://warontherocks.com/cogs-of-war/quantums-quietest-branch-a-case-for-magnetometry/",
           "source": "War on the Rocks",
@@ -567,20 +560,6 @@
           "url": "https://warontherocks.com/humanitys-promethean-gap-with-ai/",
           "source": "War on the Rocks",
           "ts": "Tue, 03 Nov 2026 08:30:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "From Naval to Underwater Capabilities",
-          "url": "https://www.navalnews.com/naval-news/2026/11/from-naval-to-underwater-capabilities/",
-          "source": "Naval News",
-          "ts": "Tue, 03 Nov 2026 08:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Leonardo’s AWHero and Proteus rotorcraft show strong focus on RUAS and Autonomy capabilities for naval applications",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/leonardos-awhero-and-proteus-rotorcraft-show-strong-focus-on-ruas-and-autonomy-capabilities-for-naval-applications/",
-          "source": "Naval News",
-          "ts": "Tue, 03 Nov 2026 06:30:00 +0000",
           "section": ""
         },
         {
@@ -871,6 +850,13 @@
           "url": "https://www.middleeastmonitor.com/20261103-saudi-aramcos-adjusted-net-income-rises-9-in-q3/",
           "source": "Middle East Monitor",
           "ts": "Tue, 03 Nov 2026 11:08:42 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Tuesday Palestine Demonstration: Los Angeles - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GN2lYWXhELS1Xc2JmRS11TVo3S1Uwc0xuWTZYQjFXR3VYaHllb3dRVlV5cjV2cFNEVF9ydHBITmpVNWc5QlhCcnQtQldwNlps?oc=5",
+          "source": "CODEPINK",
+          "ts": "Tue, 03 Nov 2026 06:59:06 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
