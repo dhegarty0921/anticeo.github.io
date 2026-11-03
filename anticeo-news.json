@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T07:04:55.414155Z",
+  "generated_at": "2026-11-03T07:19:00.711800Z",
   "headline": {
-    "title": "Germany news: Ukraine in focus at Berlin Security Conference",
-    "url": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-rdf"
+    "title": "Americans head to polls in midterm elections seen as referendum on Trump",
+    "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote"
   },
   "sections": [
     {
@@ -65,20 +65,6 @@
           "section": ""
         },
         {
-          "title": "Rogers makes final appeal to Michigan voters: 'We are going to surprise some people'",
-          "url": "https://www.washingtontimes.com/news/2026/nov/2/mike-rogers-makes-final-appeal-michigan-voters-going-surprise-people/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Mon, 02 Nov 2026 21:30:59 -0500",
-          "section": ""
-        },
-        {
-          "title": "U.S. conducts defensive strikes on Iranian targets in the Strait of Hormuz, official says",
-          "url": "https://www.washingtontimes.com/news/2026/nov/2/us-conducts-defensive-strikes-iranian-targets-strait-hormuz-official/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Mon, 02 Nov 2026 21:08:25 -0500",
-          "section": ""
-        },
-        {
           "title": "Democratic Divisions on Israel Come Thundering Back, in Preview of Fights to Come",
           "url": "https://www.nytimes.com/2026/11/02/us/politics/democrats-split-israel-michigan.html",
           "source": "NYT > U.S. > Politics",
@@ -132,13 +118,6 @@
           "url": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 02 Nov 2026 18:35:51 -0500",
-          "section": ""
-        },
-        {
-          "title": "Supreme Court shuts down Trump's bid to block 20,000 California ballots",
-          "url": "https://www.washingtontimes.com/news/2026/nov/2/supreme-court-shuts-trumps-bid-block-20000-california-ballots/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Mon, 02 Nov 2026 18:17:19 -0500",
           "section": ""
         },
         {
@@ -289,6 +268,20 @@
           "section": ""
         },
         {
+          "title": "Selecting Leaders in China – Part 2, by Hua Bin",
+          "url": "https://www.unz.com/bhua/selecting-leaders-in-china-part-2/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 02 Nov 2026 05:09:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Tucker Says Trump Will Nuke Iran, by Mike Whitney",
+          "url": "https://www.unz.com/mwhitney/tucker-says-trump-will-nuke-iran/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 02 Nov 2026 05:02:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Zambia: Widespread Repression in Post-Election Crackdown",
           "url": "https://www.hrw.org/news/2026/11/01/zambia-widespread-repression-in-post-election-crackdown",
           "source": "Human Rights Watch News",
@@ -383,6 +376,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Americans head to polls in midterm elections seen as referendum on Trump",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/midterm-elections-americans-vote",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Nov 2026 07:00:43 GMT",
+          "section": ""
+        },
+        {
           "title": "How to watch the US midterms in Australia, and what you need to know",
           "url": "https://www.theguardian.com/us-news/2026/nov/03/us-midterm-elections-2026-everything-australians-need-to-know",
           "source": "US news | The Guardian",
@@ -394,13 +394,6 @@
           "url": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Tue, 03 Nov 2026 03:24:51 GMT",
-          "section": ""
-        },
-        {
-          "title": "Tennessee national guard trained guns on dying man after guard member shot him, video shows",
-          "url": "https://www.theguardian.com/us-news/2026/nov/02/tennessee-shooting-tyrin-johnson-video",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Nov 2026 03:13:06 GMT",
           "section": ""
         },
         {
@@ -521,6 +514,13 @@
           "section": ""
         },
         {
+          "title": "Palestine weekly: Election deadlock meets West Bank sieges, Gaza killings",
+          "url": "https://www.aljazeera.com/news/2026/11/3/palestine-weekly-election-deadlock-meets-west-bank-sieges-gaza-killings?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 06:46:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Leonardo’s AWHero and Proteus rotorcraft show strong focus on RUAS and Autonomy capabilities for naval applications",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/leonardos-awhero-and-proteus-rotorcraft-show-strong-focus-on-ruas-and-autonomy-capabilities-for-naval-applications/",
           "source": "Naval News",
@@ -560,13 +560,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 03 Nov 2026 05:27:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "California’s Bay Area debates data centres ahead of US midterm elections",
-          "url": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 05:13:42 +0000",
           "section": ""
         },
         {
@@ -679,6 +672,13 @@
           "url": "https://warontherocks.com/cogs-of-war/the-pentagon-silicon-complex-and-the-rise-of-the-neo-primes/",
           "source": "War on the Rocks",
           "ts": "Mon, 02 Nov 2026 09:00:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "A Delusional President with \"Insane\" Military Plans?, by Ron Unz",
+          "url": "https://www.unz.com/runz/a-delusional-president-with-insane-military-plans/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 02 Nov 2026 05:10:21 +0000",
           "section": ""
         },
         {
@@ -846,13 +846,6 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
-          "title": "Great Western hope for Israel is just another anti-Palestinian bigot",
-          "url": "https://electronicintifada.net/blogs/michael-f-brown/great-western-hope-israel-just-another-anti-palestinian-bigot",
-          "source": "The Electronic Intifada",
-          "ts": "Mon, 02 Nov 2026 23:20:05 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Ahead of Midterms, Trump Touts Drop in Oil Prices, Says People ‘Feel Like There Will Not Be a War With Iran’",
           "url": "https://news.antiwar.com/2026/11/02/ahead-of-midterms-trump-touts-drop-in-oil-prices-says-people-feel-like-there-will-not-be-a-war-with-iran/?utm_source=rss&utm_medium=rss&utm_campaign=ahead-of-midterms-trump-touts-drop-in-oil-prices-says-people-feel-like-there-will-not-be-a-war-with-iran",
           "source": "News From Antiwar.com",
@@ -902,13 +895,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "The 100-year-old Zionist plan to steal southern Lebanon",
-          "url": "https://electronicintifada.net/content/100-year-old-zionist-plan-steal-southern-lebanon/51735",
-          "source": "The Electronic Intifada",
-          "ts": "Mon, 02 Nov 2026 08:16:26 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Book Review: A guide to how the media sanitized Israel’s genocide in Gaza",
           "url": "https://mondoweiss.net/2026/11/book-review-a-guide-to-how-the-media-sanitized-israels-genocide-in-gaza/",
           "source": "Mondoweiss",
@@ -934,13 +920,6 @@
           "url": "https://www.mintpressnews.com/iran-downs-us-aircraft-as-israel-prepares-unprecedented-strikes-amidst-election-turmoil/291286/",
           "source": "MintPress News",
           "ts": "Fri, 30 Oct 2026 19:18:43 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "The America I wish Palestinians could see",
-          "url": "https://electronicintifada.net/content/america-i-wish-palestinians-could-see/51731",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 30 Oct 2026 18:35:10 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
