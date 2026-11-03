@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T12:34:28.185857Z",
+  "generated_at": "2026-11-03T12:47:46.988483Z",
   "headline": {
-    "title": "China urges against military escalation as Iran says ‘ball in America’s court to prevent war’",
-    "url": "https://www.middleeastmonitor.com/20261103-china-urges-against-military-escalation-as-iran-says-ball-in-americas-court-to-prevent-war/"
+    "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting"
   },
   "sections": [
     {
@@ -135,8 +135,8 @@
           "section": ""
         },
         {
-          "title": "Koreatown karaoke out of control? L.A. considers ban on new bars amid complaints",
-          "url": "https://www.latimes.com/california/story/2026-11-03/koreatown-karaoke-out-of-control-la-considers-ban-on-new-bars-amid-complaints",
+          "title": "L.A.'s next mayor faces high expectations, little room for error",
+          "url": "https://www.latimes.com/california/story/2026-11-03/l-a-s-next-mayor-faces-big-challenges",
           "source": "California",
           "ts": "Tue, 03 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -379,7 +379,14 @@
           "title": "US midterm elections 2026 live: Americans go to the polls in referendum on Trump’s agenda",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
           "source": "US news | The Guardian",
-          "ts": "Tue, 03 Nov 2026 12:13:50 GMT",
+          "ts": "Tue, 03 Nov 2026 12:42:33 GMT",
+          "section": ""
+        },
+        {
+          "title": "Citizen-led ballot initiatives seek to limit electricity firms’ political donations in Michigan",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/michigan-ballot-political-donation-datacenters",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 03 Nov 2026 12:30:06 GMT",
           "section": ""
         },
         {
@@ -390,24 +397,10 @@
           "section": ""
         },
         {
-          "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 03 Nov 2026 12:00:06 GMT",
-          "section": ""
-        },
-        {
           "title": "Latinos Are Still Swing Voters",
           "url": "https://www.theatlantic.com/ideas/2026/11/latinos-swing-voters-midterms/689256/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-03T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Who will govern Israel? It may come down to Arab voters.",
-          "url": "https://www.vox.com/politics/508662/israel-election-netanyahu-palestinian-arab-democracy-gaza",
-          "source": "Vox",
-          "ts": "2026-11-03T06:45:00-05:00",
           "section": ""
         },
         {
@@ -442,13 +435,6 @@
           "title": "Israel’s Common Ground",
           "url": "https://www.theatlantic.com/ideas/2026/11/israeli-election-politics-culture/689257/?utm_source=feed",
           "source": "The Atlantic",
-          "ts": "2026-11-03T06:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "What Democrats could actually do if they win Congress",
-          "url": "https://www.vox.com/politics/508533/democrats-midterms-2026-agenda-plans-congress",
-          "source": "Vox",
           "ts": "2026-11-03T06:00:00-05:00",
           "section": ""
         },
@@ -495,6 +481,20 @@
           "section": ""
         },
         {
+          "title": "What the polls can’t tell us about the midterms",
+          "url": "https://www.vox.com/today-explained-newsletter/508327/2026-midterms-polls",
+          "source": "Vox",
+          "ts": "2026-11-02T17:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Trump makes one last attempt to get the Supreme Court to interfere with the midterms",
+          "url": "https://www.vox.com/politics/508667/trump-supreme-court-california-ballots",
+          "source": "Vox",
+          "ts": "2026-11-02T16:30:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Episcopal Bishops Curry and Rowe hold funeral service for enslaved Africans’ reinterment",
           "url": "https://religionnews.com/2026/11/02/4284208/",
           "source": "RNS",
@@ -506,6 +506,27 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Two police officers protecting polio workers in Pakistan shot dead",
+          "url": "https://www.aljazeera.com/news/2026/11/3/two-police-officers-protecting-polio-workers-in-pakistan-shot-dead?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 12:33:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "Al Jazeera journalist recounts arrest during Israeli raid on his home",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/al-jazeera-journalist-recounts-arrest-during-israeli-raid-on-his-home?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 12:14:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+          "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 03 Nov 2026 12:10:47 +0000",
+          "section": ""
+        },
         {
           "title": "Football: Spanish player dies on after cardiac arrest on the pitch",
           "url": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-rdf",
@@ -525,27 +546,6 @@
           "url": "https://www.dw.com/en/asian-cup-postponed-due-to-middle-east-conflict/a-79837334?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-03T11:32:00Z",
-          "section": ""
-        },
-        {
-          "title": "How India pulled 500 million people out of poverty, as inequality deepens",
-          "url": "https://www.aljazeera.com/news/2026/11/3/how-india-pulled-500-million-people-out-of-poverty-as-inequality-deepens?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 11:30:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "Polls open in closely contested US midterm elections 2026",
-          "url": "https://www.aljazeera.com/news/2026/11/3/polls-open-in-closely-contested-us-midterm-elections-2026?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 11:27:14 +0000",
-          "section": ""
-        },
-        {
-          "title": "Alaska Senate candidates trade accusations ahead of election",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 03 Nov 2026 11:01:27 +0000",
           "section": ""
         },
         {
@@ -853,6 +853,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli opposition leaders meet for 1st time since elections, agree to back Eisenkot for prime minister",
+          "url": "https://www.middleeastmonitor.com/20261103-israeli-opposition-leaders-meet-for-1st-time-since-elections-agree-to-back-eisenkot-for-prime-minister/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 03 Nov 2026 12:42:03 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "China urges against military escalation as Iran says ‘ball in America’s court to prevent war’",
           "url": "https://www.middleeastmonitor.com/20261103-china-urges-against-military-escalation-as-iran-says-ball-in-americas-court-to-prevent-war/",
           "source": "Middle East Monitor",
@@ -867,10 +874,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Iran vows military response without ‘geographical limits,’ outlines 5 conditions for regional security",
-          "url": "https://www.middleeastmonitor.com/20261103-iran-vows-military-response-without-geographical-limits-outlines-5-conditions-for-regional-security/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 03 Nov 2026 11:15:29 +0000",
+          "title": "Tuesday Palestine Demonstration: Los Angeles - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GN2lYWXhELS1Xc2JmRS11TVo3S1Uwc0xuWTZYQjFXR3VYaHllb3dRVlV5cjV2cFNEVF9ydHBITmpVNWc5QlhCcnQtQldwNlps?oc=5",
+          "source": "CODEPINK",
+          "ts": "Tue, 03 Nov 2026 06:59:06 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -899,6 +906,13 @@
           "url": "https://mondoweiss.net/2026/11/i-have-not-eaten-rice-since-i-left-gaza-the-taste-is-a-painful-reminder-of-the-genocide/",
           "source": "Mondoweiss",
           "ts": "Mon, 02 Nov 2026 14:00:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "The 100-year-old Zionist plan to steal southern Lebanon - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWN0eFBOS2E2dF9HNXZfVlVZMUZLalZMVlhuaXJXZW5iT00tNDloOTB1czhoM0N1RjdfUWl4NG1vOUh3RTE2Z2cyNTZxNU9BYzBoLVZmMEFGZUp5eTJoQldmRGJRUThsOUVPdHFST3duczN6b2JQWjlzeC03X0tFUWdHWFZhUWVzUldfaktWSjRSWUxFMGwycQ?oc=5",
+          "source": "via Google News",
+          "ts": "Mon, 02 Nov 2026 08:33:01 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
