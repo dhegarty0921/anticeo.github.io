@@ -1,25 +1,32 @@
 {
-  "generated_at": "2026-11-04T08:48:27.510211Z",
+  "generated_at": "2026-11-04T09:04:59.495207Z",
   "headline": {
-    "title": "Gaza doctor wins New Jersey seat in US Congress",
-    "url": "https://www.middleeastmonitor.com/20261104-gaza-doctor-wins-new-jersey-seat-in-us-congress/"
+    "title": "Key moments from a night of midterm election firsts",
+    "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "Key moments from a night of midterm election firsts",
+          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 04 Nov 2026 09:01:40 GMT",
+          "section": ""
+        },
+        {
+          "title": "How a Blue Wave Became a Red Wipeout",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/democratic-midterms-wipeout.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Nov 2026 08:48:51 +0000",
+          "section": ""
+        },
+        {
           "title": "8 Midterm Election Takeaways: A Democratic Landslide Punishes Trump’s Party",
           "url": "https://www.nytimes.com/2026/11/04/us/politics/election-takeaways-democrats-win.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Nov 2026 08:32:14 +0000",
-          "section": ""
-        },
-        {
-          "title": "These Wins Could Mint a New Generation of Democratic Stars",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/democratic-newcomers-congress.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Nov 2026 08:32:06 +0000",
           "section": ""
         },
         {
@@ -34,13 +41,6 @@
           "url": "https://www.nytimes.com/2026/11/04/us/politics/midterm-election-photos.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Nov 2026 08:21:01 +0000",
-          "section": ""
-        },
-        {
-          "title": "Key moments from a night of midterm election firsts",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 04 Nov 2026 07:40:12 GMT",
           "section": ""
         },
         {
@@ -331,13 +331,6 @@
           "section": ""
         },
         {
-          "title": "The Final Society, by Kevin DeAnna",
-          "url": "https://www.unz.com/ghood/the-final-society/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 03 Nov 2026 05:00:29 +0000",
-          "section": ""
-        },
-        {
           "title": "UCLA community reflects on Dolores Huerta’s enduring lessons and legacy",
           "url": "https://newsroom.ucla.edu/stories/ucla-community-reflects-dolores-huerta-lessons-and-legacy",
           "source": "UCLA",
@@ -425,7 +418,14 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "US midterm elections 2026 live updates: Democrats win control of Congress; El-Sayed wins Senate race in Michigan",
+          "title": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/abdul-el-sayed-mike-rogers-michigan-senate",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Nov 2026 08:42:22 GMT",
+          "section": ""
+        },
+        {
+          "title": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Nov 2026 08:26:25 GMT",
@@ -436,13 +436,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/04/us-midterm-results-democrats-trump-analysis",
           "source": "US news | The Guardian",
           "ts": "Wed, 04 Nov 2026 08:12:38 GMT",
-          "section": ""
-        },
-        {
-          "title": "Democrats aim to sweep most US governor elections after wins in key states",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/democrats-governor-races-wins",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 08:02:46 GMT",
           "section": ""
         },
         {
@@ -556,6 +549,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "US midterms: Democrats gain control of House and Senate from Republicans",
+          "url": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-04T08:57:00Z",
+          "section": ""
+        },
+        {
+          "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+          "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-04T08:52:00Z",
+          "section": ""
+        },
+        {
           "title": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -584,20 +591,6 @@
           "section": ""
         },
         {
-          "title": "US midterms: Democrats gain control of House and Senate from Republicans",
-          "url": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-04T08:02:00Z",
-          "section": ""
-        },
-        {
-          "title": "Euronaval 2026: French Navy Underpins Enduring Missions with New Capabilities to Counter Emerging Threats",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-french-navy-underpins-enduring-missions-with-new-capabilities-to-counter-emerging-threats/",
-          "source": "Naval News",
-          "ts": "Wed, 04 Nov 2026 06:55:01 +0000",
-          "section": ""
-        },
-        {
           "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tells us",
           "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -610,13 +603,6 @@
           "source": "Global Research",
           "ts": "Wed, 04 Nov 2026 06:03:49 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "India news: Election body opens door for voter reinclusion",
-          "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-04T05:58:00Z",
-          "section": ""
         },
         {
           "title": "U.S. Elections Results",
@@ -654,10 +640,10 @@
           "section": ""
         },
         {
-          "title": "South Korea Launches Second KSS-III Batch-II Submarine, ROKS Seo Hui",
-          "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-second-kss-iii-batch-ii-submarine-roks-seo-hui/",
-          "source": "Naval News",
-          "ts": "Tue, 03 Nov 2026 21:39:19 +0000",
+          "title": "Pentagon is beginning to follow Ukraine into wider use of ground robots",
+          "url": "https://www.defenseone.com/defense-systems/2026/11/pentagon-ukraine-ground-robots/417011/",
+          "source": "Defense One - All Content",
+          "ts": "Tue, 03 Nov 2026 16:21:23 -0500",
           "section": ""
         },
         {
@@ -689,13 +675,6 @@
           "section": ""
         },
         {
-          "title": "Naval Air Defence Without Platform Boundaries: ASELSAN Takes GÖKDENİZ and GÖKSUR VLS to New Platforms",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-air-defence-without-platform-boundaries-aselsan-takes-gokdeniz-and-goksur-vls-to-new-platforms/",
-          "source": "Naval News",
-          "ts": "Tue, 03 Nov 2026 17:48:39 +0000",
-          "section": ""
-        },
-        {
           "title": "Quantum’s Quietest Branch: A Case for Magnetometry",
           "url": "https://warontherocks.com/cogs-of-war/quantums-quietest-branch-a-case-for-magnetometry/",
           "source": "War on the Rocks",
@@ -707,6 +686,20 @@
           "url": "https://www.unz.com/cjohnstone/israel-supporters-always-pretend-to-believe-things-they-dont-actually-believe/",
           "source": "The Unz Review:",
           "ts": "Tue, 03 Nov 2026 05:20:31 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran-U.S.: Diplomacy at the Top, Shooting Underneath, by Pepe Escobar",
+          "url": "https://www.unz.com/pescobar/iran-u-s-diplomacy-at-the-top-shooting-underneath/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 03 Nov 2026 05:05:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Industry groups want cyber threat-sharing law renewed through defense authorization bill",
+          "url": "https://www.defenseone.com/policy/2026/11/industry-groups-cyber-sharing-law/416993/",
+          "source": "Defense One - All Content",
+          "ts": "Mon, 02 Nov 2026 18:00:00 -0500",
           "section": ""
         },
         {
@@ -728,6 +721,13 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/",
           "source": "News - Army Times",
           "ts": "Mon, 02 Nov 2026 16:46:27 +0000",
+          "section": ""
+        },
+        {
+          "title": "Officials suspect Iran of cyberattacks on military base freezers",
+          "url": "https://www.defenseone.com/threats/2026/11/officials-suspect-iran-series-cyberattacks-military-base-freezers/416992/",
+          "source": "Defense One - All Content",
+          "ts": "Mon, 02 Nov 2026 09:00:00 -0500",
           "section": ""
         },
         {
