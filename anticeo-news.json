@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-04T15:19:02.973980Z",
+  "generated_at": "2026-11-04T15:33:00.063734Z",
   "headline": {
-    "title": "Harry Potter films turns 25 ahead of new TV series' release",
-    "url": "https://www.dw.com/en/harry-potter-films-turns-25-ahead-of-new-tv-series-release/a-79856130?maca=en-rss-en-all-1573-rdf"
+    "title": "Trump reacts to midterm election results",
+    "url": "https://www.npr.org/2026/11/04/nx-s1-6028729/trump-reacts-to-midterm-election-results"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Trump reacts to midterm election results",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028729/trump-reacts-to-midterm-election-results",
+          "source": "NPR Topics: Politics",
+          "ts": "Wed, 04 Nov 2026 10:28:46 -0500",
+          "section": ""
+        },
         {
           "title": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
           "url": "https://www.propublica.org/article/vermont-clean-water-act-champlain-audit",
@@ -93,10 +100,10 @@
           "section": ""
         },
         {
-          "title": "Everything you need to know from the US midterm elections",
-          "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 04 Nov 2026 14:05:42 GMT",
+          "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+          "url": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 04 Nov 2026 08:38:09 -0500",
           "section": ""
         },
         {
@@ -130,22 +137,8 @@
         {
           "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
           "url": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-          "source": "NPR Topics: Politics",
+          "source": "NPR Topics: News",
           "ts": "Wed, 04 Nov 2026 07:34:35 -0500",
-          "section": ""
-        },
-        {
-          "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-          "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 04 Nov 2026 07:18:39 -0500",
-          "section": ""
-        },
-        {
-          "title": "6 takeaways from Democrats' big wave on election night",
-          "url": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 04 Nov 2026 07:02:38 -0500",
           "section": ""
         },
         {
@@ -202,6 +195,13 @@
           "url": "https://thelalocal.org/government/election/california-voter-id-prop-39-results/",
           "source": "LA Local",
           "ts": "Wed, 04 Nov 2026 06:57:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 04 Nov 2026 06:53:56 GMT",
           "section": ""
         },
         {
@@ -432,6 +432,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Nov 2026 15:22:40 GMT",
+          "section": ""
+        },
+        {
+          "title": "CVS Health to split pharmacy chain from health insurance",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Nov 2026 15:20:24 GMT",
+          "section": ""
+        },
+        {
           "title": "Why I Am Still a Christian",
           "url": "https://www.christianitytoday.com/2026/11/why-i-am-still-a-christian/",
           "source": "Christianity Today",
@@ -453,13 +467,6 @@
           "section": ""
         },
         {
-          "title": "US midterm elections 2026 live updates: Democrats take control of Congress in major setback for Trump",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 14:59:14 GMT",
-          "section": ""
-        },
-        {
           "title": "Deep Blexas",
           "url": "https://www.theatlantic.com/ideas/2026/11/texas-blue-democrats-win/689278/?utm_source=feed",
           "source": "The Atlantic",
@@ -471,13 +478,6 @@
           "url": "https://religionnews.com/2026/11/04/voters-deliver-abortion-rights-victories-in-missouri-nevada-and-virginia/",
           "source": "RNS",
           "ts": "Wed, 04 Nov 2026 14:51:35 +0000",
-          "section": ""
-        },
-        {
-          "title": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 14:34:12 GMT",
           "section": ""
         },
         {
@@ -570,10 +570,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "EDGE Europe and Novamarine to Explore Joint Development of USVs",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/edge-europe-and-novamarine-to-explore-joint-development-of-usvs/",
+          "source": "Naval News",
+          "ts": "Wed, 04 Nov 2026 15:24:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Africa's shifting role in the global drug trade",
+          "url": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-04T15:18:00Z",
+          "section": ""
+        },
+        {
           "title": "Harry Potter films turns 25 ahead of new TV series' release",
           "url": "https://www.dw.com/en/harry-potter-films-turns-25-ahead-of-new-tv-series-release/a-79856130?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-04T15:14:00Z",
+          "section": ""
+        },
+        {
+          "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+          "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 04 Nov 2026 15:13:00 +0000",
           "section": ""
         },
         {
@@ -595,20 +616,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Wed, 04 Nov 2026 15:04:08 +0000",
-          "section": ""
-        },
-        {
-          "title": "EU says Montenegro on track to become bloc's next member state by 2028",
-          "url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-04T14:49:00Z",
-          "section": ""
-        },
-        {
-          "title": "Trump loses control of Congress",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-loses-control-of-congress?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 04 Nov 2026 14:42:23 +0000",
           "section": ""
         },
         {
@@ -665,13 +672,6 @@
           "url": "https://warontherocks.com/the-g-i-and-the-paperback-a-world-war-ii-love-story/",
           "source": "War on the Rocks",
           "ts": "Wed, 04 Nov 2026 08:30:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Euronaval 2026: French Navy Underpins Enduring Missions with New Capabilities to Counter Emerging Threats",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-french-navy-underpins-enduring-missions-with-new-capabilities-to-counter-emerging-threats/",
-          "source": "Naval News",
-          "ts": "Wed, 04 Nov 2026 06:55:01 +0000",
           "section": ""
         },
         {
@@ -785,6 +785,13 @@
           "section": ""
         },
         {
+          "title": "Musk’s Starlink Eyes Buying Boost Mobile In Doomed Bid To Dominate Smartphones",
+          "url": "https://www.techdirt.com/2026/11/04/musks-starlink-eyes-buying-boost-mobile-in-doomed-bid-to-dominate-smartphones/",
+          "source": "Techdirt",
+          "ts": "Wed, 04 Nov 2026 13:28:12 +0000",
+          "section": ""
+        },
+        {
           "title": "Early Edition: November 4, 2026",
           "url": "https://www.justsecurity.org/163369/early-edition-november-4-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-4-2026",
           "source": "Just Security",
@@ -810,6 +817,20 @@
           "url": "https://theintercept.com/2026/11/03/james-talarico-ken-paxton-texas-results-trans/",
           "source": "The Intercept",
           "ts": "Wed, 04 Nov 2026 04:15:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "7th Measles Death Of The Year Recorded In New York State",
+          "url": "https://www.techdirt.com/2026/11/03/7th-measles-death-of-the-year-recorded-in-new-york-state/",
+          "source": "Techdirt",
+          "ts": "Wed, 04 Nov 2026 03:56:33 +0000",
+          "section": ""
+        },
+        {
+          "title": "Rewriting Copyright Law For Generative AI Would Hurt Everyone",
+          "url": "https://www.techdirt.com/2026/11/03/rewriting-copyright-law-for-generative-ai-would-hurt-everyone/",
+          "source": "Techdirt",
+          "ts": "Tue, 03 Nov 2026 23:30:53 +0000",
           "section": ""
         },
         {
@@ -888,6 +909,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Palestine is a testing ground for a new type of fascism, artists told at London event",
+          "url": "https://www.middleeastmonitor.com/20261104-palestine-is-a-testing-ground-for-a-new-type-of-fascism-artists-told-at-london-event/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 04 Nov 2026 15:21:33 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Elections in Israel: The names change, but colonisation continues",
           "url": "https://www.middleeastmonitor.com/20261104-elections-in-israel-the-names-change-but-colonisation-continues/",
           "source": "Middle East Monitor",
@@ -899,13 +927,6 @@
           "url": "https://www.middleeastmonitor.com/20261104-slightest-inclination-to-surrender-will-embolden-us-says-irans-supreme-leader/",
           "source": "Middle East Monitor",
           "ts": "Wed, 04 Nov 2026 13:57:46 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli army arrests 30 Palestinians in new raids across occupied West Bank",
-          "url": "https://www.middleeastmonitor.com/20261104-israeli-army-arrests-30-palestinians-in-new-raids-across-occupied-west-bank/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 04 Nov 2026 13:57:11 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -921,13 +942,6 @@
           "source": "CODEPINK",
           "ts": "Wed, 04 Nov 2026 10:09:58 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "US Continues Strikes on Iran Despite Trump Claims That War Is Over",
-          "url": "https://truthout.org/articles/us-continues-strikes-on-iran-despite-trump-claims-that-war-is-over/",
-          "source": "Truthout",
-          "ts": "Tue, 03 Nov 2026 22:24:20 +0000",
-          "section": ""
         },
         {
           "title": "Israel’s election exposes the limits of liberal Zionism",
