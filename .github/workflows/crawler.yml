@@ -80,10 +80,24 @@ jobs:
         id: deployment
         # Pages deployments occasionally stall in "updating_pages" and burn the
         # full timeout (runs #594/#595). Don't fail the run on the first stall;
-        # the retry step below redeploys the same artifact.
+        # the retry steps below redeploy via a fresh artifact.
         continue-on-error: true
         uses: actions/deploy-pages@v5
+
+      # A stalled first deployment gets cancelled at the timeout, and re-running
+      # deploy-pages against the SAME artifact resurrects that cancelled
+      # deployment ("Deployment cancelled." after a few seconds — see run
+      # 41868211034). Re-upload under a new artifact name so the retry creates a
+      # genuinely new deployment.
+      - name: Re-upload artifact for retry
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/upload-pages-artifact@v5
+        with:
+          name: github-pages-retry
+          path: .
 
       - name: Deploy to GitHub Pages (retry)
         if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5
+        with:
+          artifact_name: github-pages-retry
