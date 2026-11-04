@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T00:37:01.691740Z",
+  "generated_at": "2026-11-04T00:51:34.227053Z",
   "headline": {
-    "title": "How The New York Times Tracks Election News and Tips",
-    "url": "https://www.nytimes.com/2026/11/03/insider/how-we-confirm-tips-about-voting-issues.html"
+    "title": "US midterm elections 2026 live updates: polls close in some key states as Americans deliver referendum on Trump’s second term",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
   },
   "sections": [
     {
@@ -13,6 +13,13 @@
           "url": "https://www.nytimes.com/2026/11/03/insider/how-we-confirm-tips-about-voting-issues.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Nov 2026 00:30:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "BBC asks voters across US what brought them to the polls today",
+          "url": "https://www.bbc.co.uk/news/videos/cq8rz6xlz6ejo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 04 Nov 2026 00:26:48 GMT",
           "section": ""
         },
         {
@@ -97,27 +104,6 @@
           "url": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 03 Nov 2026 17:53:23 -0500",
-          "section": ""
-        },
-        {
-          "title": "Susan Collins' district office in Maine vandalized on eve of election",
-          "url": "https://www.washingtontimes.com/news/2026/nov/3/susan-collins-district-office-maine-vandalized-eve-election/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 03 Nov 2026 17:26:30 -0500",
-          "section": ""
-        },
-        {
-          "title": "Trump blasts Rep. Ted Lieu over 'Trump Reflecting Pool' renaming remark",
-          "url": "https://www.washingtontimes.com/news/2026/nov/3/trump-blasts-rep-ted-lieu-trump-reflecting-pool-renaming-remark/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 03 Nov 2026 17:08:05 -0500",
-          "section": ""
-        },
-        {
-          "title": "Adam Brody, star of 'Nobody Wants This,' supports El-Sayed in Michigan",
-          "url": "https://www.washingtontimes.com/news/2026/nov/3/adam-brody-star-nobody-wants-supports-el-sayed-michigan/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 03 Nov 2026 16:53:12 -0500",
           "section": ""
         },
         {
@@ -296,7 +282,7 @@
           "section": ""
         },
         {
-          "title": "Three scenarios for how the US midterm results could unfold",
+          "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
           "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Tue, 03 Nov 2026 10:32:56 GMT",
@@ -317,10 +303,17 @@
           "section": ""
         },
         {
-          "title": "When will we know the results?",
-          "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 03 Nov 2026 07:56:09 GMT",
+          "title": "The Ground on Which Europe Stands Is Shaking, by Alastair Crooke",
+          "url": "https://www.unz.com/acrooke/the-ground-on-which-europe-stands-is-shaking/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 03 Nov 2026 05:00:56 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Final Society, by Kevin DeAnna",
+          "url": "https://www.unz.com/ghood/the-final-society/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 03 Nov 2026 05:00:29 +0000",
           "section": ""
         },
         {
@@ -435,7 +428,7 @@
           "title": "US midterm elections 2026 live updates: polls close in some key states as Americans deliver referendum on Trump’s second term",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 00:30:20 GMT",
+          "ts": "Wed, 04 Nov 2026 00:44:07 GMT",
           "section": ""
         },
         {
@@ -916,18 +909,11 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Livestream: Germany's repression echoes its Nazi past",
-          "url": "https://electronicintifada.net/blogs/eli-gerzon/livestream-germanys-repression-echoes-its-nazi-past",
-          "source": "The Electronic Intifada",
-          "ts": "Tue, 03 Nov 2026 17:01:33 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Great Western hope for Israel is just another anti-Palestinian bigot",
-          "url": "https://electronicintifada.net/blogs/michael-f-brown/great-western-hope-israel-just-another-anti-palestinian-bigot",
-          "source": "The Electronic Intifada",
-          "ts": "Mon, 02 Nov 2026 23:20:05 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+          "title": "Western News Media Propagandists Describe US Bombing Iran As \"Defensive\", by Caitlin Johnstone",
+          "url": "https://www.unz.com/cjohnstone/western-news-media-propagandists-describe-us-bombing-iran-as-defensive/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 03 Nov 2026 05:00:27 +0000",
+          "section": ""
         },
         {
           "title": "Nuclear Strike on Iran After Trump Humiliation in the Midterms?",
@@ -956,13 +942,6 @@
           "source": "via Google News",
           "ts": "Mon, 02 Nov 2026 09:17:19 GMT",
           "section": ""
-        },
-        {
-          "title": "The 100-year-old Zionist plan to steal southern Lebanon",
-          "url": "https://electronicintifada.net/content/100-year-old-zionist-plan-steal-southern-lebanon/51735",
-          "source": "The Electronic Intifada",
-          "ts": "Mon, 02 Nov 2026 08:16:26 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
           "title": "Opinion | Israel's left can live with genocide. Governing with Arabs is another matter - Haaretz",
