@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-11-04T04:04:47.324687Z",
+  "generated_at": "2026-11-04T04:19:45.829651Z",
   "headline": {
-    "title": "Texas Goes Blue: James Talarico Triumphs Over Ken Paxton",
-    "url": "https://www.rollingstone.com/politics/politics-news/james-talarico-defeats-ken-paxton-texas-senate-race-1235652352/"
+    "title": "US midterm election results: How Americans voted and what the data tells us",
+    "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Democrat Rob Sand wins Iowa governor's race, ending GOP control of the office",
+          "url": "https://www.npr.org/2026/11/03/g-s1-151136/democrat-rob-sand-wins-iowa-governors-race-ending-gop-control-of-the-office",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 03 Nov 2026 23:16:59 -0500",
+          "section": ""
+        },
+        {
+          "title": "Democrat Xavier Becerra wins California governor’s race, defeating Republican Steve Hilton",
+          "url": "https://thelalocal.org/government/election/xavier-becerra-governor-california-win/",
+          "source": "LA Local",
+          "ts": "Wed, 04 Nov 2026 04:16:23 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump Is Already Crying That He’s Not to Blame for Republican Wipeout",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-republican-wipeout-1235652386/",
+          "source": "Politics News",
+          "ts": "Wed, 04 Nov 2026 04:16:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democrats Flip South Carolina Senate Seat",
+          "url": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 04 Nov 2026 04:12:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "What Becerra's historic win says about Latino political power in California",
+          "url": "https://www.latimes.com/california/story/2026-11-03/xavier-becerra-governor-california-win-meaning",
+          "source": "California",
+          "ts": "Wed, 04 Nov 2026 04:12:53 GMT",
+          "section": ""
+        },
+        {
+          "title": "Missouri voters turn down a Republican-backed congressional map",
+          "url": "https://www.npr.org/2026/11/03/nx-s1-6028028/missouri-redistricting-ballot-measure",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 03 Nov 2026 23:11:48 -0500",
+          "section": ""
+        },
+        {
+          "title": "Democrat Sherrod Brown wins Ohio Senate race",
+          "url": "https://www.npr.org/2026/11/03/g-s1-148948/ohio-senate-race-sherrod-brown-jon-husted",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 03 Nov 2026 23:10:28 -0500",
+          "section": ""
+        },
+        {
+          "title": "Xavier Becerra makes history as California's first elected Latino governor",
+          "url": "https://www.latimes.com/california/story/2026-11-03/xavier-becerra-makes-history-as-californias-first-elected-latino-governor",
+          "source": "California",
+          "ts": "Wed, 04 Nov 2026 04:08:32 GMT",
+          "section": ""
+        },
         {
           "title": "Texas Goes Blue: James Talarico Triumphs Over Ken Paxton",
           "url": "https://www.rollingstone.com/politics/politics-news/james-talarico-defeats-ken-paxton-texas-senate-race-1235652352/",
@@ -23,31 +79,10 @@
           "section": ""
         },
         {
-          "title": "Ohio elects Amy Acton first woman governor",
-          "url": "https://www.npr.org/2026/11/03/g-s1-151038/ohio-elects-amy-acton-first-woman-governor",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 03 Nov 2026 22:50:00 -0500",
-          "section": ""
-        },
-        {
           "title": "Trump Says in Interview That He Will Accept Election Results",
           "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 04 Nov 2026 03:49:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "5 DSA candidates are elected to the House in a historic night for their movement",
-          "url": "https://www.npr.org/2026/11/03/g-s1-150034/2026-midterm-election-dsa-candidates",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 03 Nov 2026 22:44:22 -0500",
-          "section": ""
-        },
-        {
-          "title": "Rahm Emanuel says Trump's policies have upended the president's coalition",
-          "url": "https://www.npr.org/2026/11/03/nx-s1-6028082/rahm-emanuel-says-trumps-policies-have-upended-the-presidents-coalition",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 03 Nov 2026 22:41:40 -0500",
           "section": ""
         },
         {
@@ -58,14 +93,7 @@
           "section": ""
         },
         {
-          "title": "Democrats Flip South Carolina Senate Seat",
-          "url": "https://www.nytimes.com/video/us/politics/100000011260059/democrats-flip-south-carolina-senate-seat.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Nov 2026 03:36:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "Anthony Zurcher: Democrats surge deep into Republican territory with historic wins",
+          "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
           "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 04 Nov 2026 03:34:58 GMT",
@@ -97,13 +125,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/annie-andrews-darline-graham-south-carolina-senate-seat-1235652370/",
           "source": "Politics News",
           "ts": "Wed, 04 Nov 2026 03:14:49 +0000",
-          "section": ""
-        },
-        {
-          "title": "“A Monumental Upset”: Annie Andrews Flips South Carolina Senate Seat",
-          "url": "https://www.motherjones.com/politics/2026/11/annie-andrews-south-carolina-senate-democrat-darline-graham-lindsey-graham/",
-          "source": "Mother Jones",
-          "ts": "Wed, 04 Nov 2026 03:10:00 +0000",
           "section": ""
         },
         {
@@ -142,20 +163,6 @@
           "section": ""
         },
         {
-          "title": "Final hours of 2026 midterm voting: A procrastinator's guide",
-          "url": "https://www.latimes.com/california/story/2026-11-03/final-hours-of-voting-procrastinators-guide-to-last-minute-voting-guide",
-          "source": "California",
-          "ts": "Wed, 04 Nov 2026 00:26:47 GMT",
-          "section": ""
-        },
-        {
-          "title": "West Hollywood approves domestic partnership registry for polyamorous people",
-          "url": "https://www.latimes.com/california/story/2026-11-03/in-triad-foursome-west-hollywood-will-register-your-relationship",
-          "source": "California",
-          "ts": "Wed, 04 Nov 2026 00:10:36 GMT",
-          "section": ""
-        },
-        {
           "title": "Japan: Raise Rights With Vietnam’s Leader",
           "url": "https://www.hrw.org/news/2026/11/03/japan-raise-rights-with-vietnams-leader",
           "source": "Human Rights Watch News",
@@ -167,13 +174,6 @@
           "url": "https://lapublicpress.org/2026/11/la-elections-2026-ballot-processing-votes-california-results/",
           "source": "LA Public Press",
           "ts": "Tue, 03 Nov 2026 22:57:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Federal Agencies Use Internal List to Send Pro-Trump Email Blast Before Election",
-          "url": "https://truthout.org/articles/federal-agencies-use-internal-list-to-send-pro-trump-email-blast-before-election/",
-          "source": "Truthout",
-          "ts": "Tue, 03 Nov 2026 21:44:20 +0000",
           "section": ""
         },
         {
@@ -226,13 +226,6 @@
           "section": ""
         },
         {
-          "title": "Trump Deploys Election Monitors to Battleground Polling Places",
-          "url": "https://www.rollingstone.com/politics/politics-news/trump-deploys-federal-election-monitors-battlgrounds-1235651817/",
-          "source": "Politics News",
-          "ts": "Tue, 03 Nov 2026 16:33:54 +0000",
-          "section": ""
-        },
-        {
           "title": "Bolsonaro Joins His Fellow Exiles in the Bosom of Neoconservative Miami",
           "url": "https://www.truthdig.com/articles/bolsonaro-joins-his-fellow-exiles-in-the-bosom-of-neoconservative-miami/?utm_source=rss&utm_medium=rss&utm_campaign=bolsonaro-joins-his-fellow-exiles-in-the-bosom-of-neoconservative-miami",
           "source": "Truthdig",
@@ -244,13 +237,6 @@
           "url": "https://www.truthdig.com/articles/data-center-group-spending-millions-to-influence-ohio-election/?utm_source=rss&utm_medium=rss&utm_campaign=data-center-group-spending-millions-to-influence-ohio-election",
           "source": "Truthdig",
           "ts": "Tue, 03 Nov 2026 16:00:55 +0000",
-          "section": ""
-        },
-        {
-          "title": "It’s Time for a Corporate Power Reset",
-          "url": "https://www.truthdig.com/articles/its-time-for-a-corporate-power-reset/?utm_source=rss&utm_medium=rss&utm_campaign=its-time-for-a-corporate-power-reset",
-          "source": "Truthdig",
-          "ts": "Tue, 03 Nov 2026 15:51:54 +0000",
           "section": ""
         },
         {
@@ -272,13 +258,6 @@
           "url": "https://www.thepinknews.com/2026/11/03/london-lgbtq-venue-clapham-two-brewers-refurb/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 03 Nov 2026 14:00:54 +0000",
-          "section": ""
-        },
-        {
-          "title": "Eastside youth work to make community concerns heard this election",
-          "url": "https://thelalocal.org/youth-news-team/eastside-youth-election-efforts/",
-          "source": "LA Local",
-          "ts": "Tue, 03 Nov 2026 14:00:00 +0000",
           "section": ""
         },
         {
@@ -425,24 +404,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Amy Acton wins Ohio race for governor, ending 16 years of Republican control of office",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/ohio-governor-amy-acton-vivek-ramaswamy",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 03:55:32 GMT",
+          "title": "Gina Hinojosa Wins Texas Governor’s Race in Political Earthquake",
+          "url": "https://www.motherjones.com/politics/2026/11/gina-hinojosa-wins-stunning-victory-in-texas-governors-race-greg-abbott/",
+          "source": "Mother Jones",
+          "ts": "Wed, 04 Nov 2026 04:16:00 +0000",
           "section": ""
         },
         {
-          "title": "US midterm elections 2026 live updates: Democrats win key races as Trump attempts to distance himself from Republicans’ bad night",
+          "title": "US midterm elections 2026 live updates: Democrat James Talarico wins Texas Senate race in historic upset",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 03:55:31 GMT",
+          "ts": "Wed, 04 Nov 2026 04:15:09 GMT",
           "section": ""
         },
         {
-          "title": "Deb Haaland wins in New Mexico and will become first female Native American governor",
-          "url": "https://www.theguardian.com/us-news/2026/nov/03/deb-haaland-new-mexico-governor",
+          "title": "Democrat Sherrod Brown wins Ohio Senate race in major blow to Republicans",
+          "url": "https://www.theguardian.com/us-news/2026/nov/03/sherrod-brown-jon-husted-ohio-senate",
           "source": "US news | The Guardian",
-          "ts": "Wed, 04 Nov 2026 03:51:36 GMT",
+          "ts": "Wed, 04 Nov 2026 04:13:24 GMT",
+          "section": ""
+        },
+        {
+          "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 04 Nov 2026 04:11:38 GMT",
           "section": ""
         },
         {
@@ -556,17 +542,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Nervous Republicans await results at Paxton’s Texas election party",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/nervous-republicans-await-results-at-paxtons-texas-election-party-2?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 04 Nov 2026 03:56:21 +0000",
-          "section": ""
-        },
-        {
           "title": "US midterm election results: How Americans voted and what the data tells us",
           "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-11-04T03:51:00Z",
+          "ts": "2026-11-04T04:17:00Z",
+          "section": ""
+        },
+        {
+          "title": "US midterms: Democrat Talarico wins Texas Senate seat",
+          "url": "https://www.dw.com/en/us-midterms-democrat-talarico-wins-texas-senate-seat/live-79829440?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-04T04:12:00Z",
           "section": ""
         },
         {
@@ -584,10 +570,10 @@
           "section": ""
         },
         {
-          "title": "US midterms: Democrat wins North Carolina as first polls close",
-          "url": "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-04T01:54:00Z",
+          "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 04 Nov 2026 03:21:05 +0000",
           "section": ""
         },
         {
@@ -757,6 +743,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Even Anti-Trans Panic Couldn’t Save Republicans in Deep-Red Texas",
+          "url": "https://theintercept.com/2026/11/03/james-talarico-ken-paxton-texas-results-trans/",
+          "source": "The Intercept",
+          "ts": "Wed, 04 Nov 2026 04:15:35 +0000",
+          "section": ""
+        },
+        {
           "title": "7th Measles Death Of The Year Recorded In New York State",
           "url": "https://www.techdirt.com/2026/11/03/7th-measles-death-of-the-year-recorded-in-new-york-state/",
           "source": "Techdirt",
@@ -804,13 +797,6 @@
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Tue, 03 Nov 2026 21:15:29 +0000",
           "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Trump Scrambles to Halt Military Aid to Israel to Deprive El-Sayed of a Talking Point",
-          "url": "https://theintercept.com/2026/11/03/trump-us-military-aid-israel-el-sayed/",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Tue, 03 Nov 2026 18:44:00 +0000",
-          "section": ""
         },
         {
           "title": "U.S. bombs Iranian island; Israel blocks aid through Rafah; Turkey strikes Al-Shabaab in Somalia",
@@ -951,6 +937,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Friday Palestine Demonstration: Los Angeles - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JVi1pRF9zaGR4N2NxaVVIQlJ5RnVpTk16MWtLMWgtRkdkd3g1VnlVaTVFaEprRnJHTEQ2QktTMHc1b3lfRmtGR3JmaWNZNE0?oc=5",
+          "source": "CODEPINK",
+          "ts": "Mon, 02 Nov 2026 18:47:26 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "War On Iran: – Iran Hints At New Target Bank",
           "url": "https://www.moonofalabama.org/2026/11/war-on-iran-iran-hints-at-new-target-bank.html",
           "source": "Moon of Alabama",
@@ -963,6 +956,13 @@
           "source": "via Google News",
           "ts": "Mon, 02 Nov 2026 09:17:19 GMT",
           "section": ""
+        },
+        {
+          "title": "The 100-year-old Zionist plan to steal southern Lebanon - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWN0eFBOS2E2dF9HNXZfVlVZMUZLalZMVlhuaXJXZW5iT00tNDloOTB1czhoM0N1RjdfUWl4NG1vOUh3RTE2Z2cyNTZxNU9BYzBoLVZmMEFGZUp5eTJoQldmRGJRUThsOUVPdHFST3duczN6b2JQWjlzeC03X0tFUWdHWFZhUWVzUldfaktWSjRSWUxFMGwycQ?oc=5",
+          "source": "via Google News",
+          "ts": "Mon, 02 Nov 2026 08:33:01 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
           "title": "Opinion | Israel's left can live with genocide. Governing with Arabs is another matter - Haaretz",
