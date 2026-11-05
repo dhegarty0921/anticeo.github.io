@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:47:49.858737Z",
+  "generated_at": "2026-11-05T16:04:58.972632Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,27 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "America Finally Has the Votes to End the Electoral College",
+          "url": "https://www.motherjones.com/politics/2026/11/midterms-electoral-college-popular-vote-compact/",
+          "source": "Mother Jones",
+          "ts": "Thu, 05 Nov 2026 15:58:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "They Made History as ‘Firsts.’ That’s Not What They Ran On.",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-identity-politics.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 15:57:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "Emmerdale’s Bradley Riches says ‘that’s a wrap’ as he lands next role",
+          "url": "https://www.thepinknews.com/2026/11/05/itv-bradley-riches-emmerdale-exit-2026/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Nov 2026 15:54:12 +0000",
           "section": ""
         },
         {
@@ -34,13 +55,6 @@
           "url": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Nov 2026 15:34:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "They Made History as ‘Firsts.’ That’s Not What They Ran On.",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-identity-politics.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 15:30:54 +0000",
           "section": ""
         },
         {
@@ -135,13 +149,6 @@
           "section": ""
         },
         {
-          "title": "Vermont votes to add LGBTQ+ equal protections to the state constitution",
-          "url": "https://www.thepinknews.com/2026/11/05/vermont-proposal-4-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 05 Nov 2026 11:39:38 +0000",
-          "section": ""
-        },
-        {
           "title": "Trump’s State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
           "url": "https://www.propublica.org/article/afriforum-grant-trump-white-south-africans",
           "source": "ProPublica",
@@ -181,13 +188,6 @@
           "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 05 Nov 2026 03:47:56 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Last Days of MAGA and the Scramble to Dump Trump",
-          "url": "https://www.motherjones.com/politics/2026/11/stress-test-video-podcast-maga-meltdown-trump-revolution/",
-          "source": "Mother Jones",
-          "ts": "Thu, 05 Nov 2026 02:26:15 +0000",
           "section": ""
         },
         {
@@ -453,17 +453,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "What Democrats could actually do to lower your healthcare costs",
-          "url": "https://www.vox.com/health/509042/2026-us-election-results-congress-healthcare-costs",
-          "source": "Vox",
-          "ts": "2026-11-05T10:35:00-05:00",
+          "title": "We Told You So",
+          "url": "https://www.theatlantic.com/politics/2026/11/midterms-conservative-republicans-identity/689300/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-05T10:46:39-05:00",
           "section": ""
         },
         {
           "title": "US elections 2026 live: Republicans blast their party’s midterms collapse, blaming Iran war and affordability crisis",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 15:23:47 GMT",
+          "ts": "Thu, 05 Nov 2026 15:41:18 GMT",
+          "section": ""
+        },
+        {
+          "title": "What Democrats could actually do to lower your healthcare costs",
+          "url": "https://www.vox.com/health/509042/2026-us-election-results-congress-healthcare-costs",
+          "source": "Vox",
+          "ts": "2026-11-05T10:35:00-05:00",
           "section": ""
         },
         {
@@ -513,13 +520,6 @@
           "url": "https://www.theatlantic.com/family/2026/11/shock-therapy-memory-loss/689267/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-05T08:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "An Underrated Reason Boys Aren’t Reading",
-          "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-05T07:30:00-05:00",
           "section": ""
         },
         {
@@ -591,6 +591,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 15:52:15 +0000",
+          "section": ""
+        },
+        {
+          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
+          "source": "Naval News",
+          "ts": "Thu, 05 Nov 2026 15:49:45 +0000",
+          "section": ""
+        },
+        {
           "title": "British comedian and actor Russell Brand found guilty of rape",
           "url": "https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -609,13 +623,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 05 Nov 2026 15:10:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ronaldo in records: International milestones from the football icon",
-          "url": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 15:09:31 +0000",
           "section": ""
         },
         {
@@ -665,13 +672,6 @@
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/mbda-and-terma-join-forces-to-develop-innovative-flexible-air-and-surface-defence-solutions-against-a-wide-spectrum-of-threats/",
           "source": "Naval News",
           "ts": "Thu, 05 Nov 2026 14:13:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
-          "source": "Naval News",
-          "ts": "Thu, 05 Nov 2026 13:20:37 +0000",
           "section": ""
         },
         {
@@ -937,6 +937,20 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Gaza’s vanishing date harvest",
+          "url": "https://mondoweiss.net/2026/11/gazas-vanishing-date-harvest/",
+          "source": "Mondoweiss",
+          "ts": "Thu, 05 Nov 2026 15:51:49 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Israeli army demolishes 5 Palestinian homes near Jerusalem, displacing over 20",
+          "url": "https://www.middleeastmonitor.com/20261105-israeli-army-demolishes-5-palestinian-homes-near-jerusalem-displacing-over-20/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 15:48:35 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "AIPAC-Funded House Dem Loses to DSA-Backed Challenger in California",
           "url": "https://truthout.org/articles/aipac-funded-house-dem-loses-to-dsa-backed-challenger-in-california/",
           "source": "Truthout",
@@ -955,13 +969,6 @@
           "url": "https://www.middleeastmonitor.com/20261105-the-israeli-and-us-elections-and-the-future-of-the-war-on-iran/",
           "source": "Middle East Monitor",
           "ts": "Thu, 05 Nov 2026 14:48:12 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "A Nuclear Strike on Iran Would Poison the Region It Claims to Protect",
-          "url": "https://www.middleeastmonitor.com/20261105-a-nuclear-strike-on-iran-would-poison-the-region-it-claims-to-protect/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 14:40:40 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1011,13 +1018,6 @@
           "url": "https://mondoweiss.net/2026/11/israels-election-exposes-the-limits-of-liberal-zionism/",
           "source": "Mondoweiss",
           "ts": "Tue, 03 Nov 2026 19:25:21 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Amid deepening financial crisis, UNRWA conducts mass layoffs in Gaza",
-          "url": "https://mondoweiss.net/2026/11/amid-deepening-financial-crisis-unrwa-conducts-mass-layoffs-in-gaza/",
-          "source": "Mondoweiss",
-          "ts": "Tue, 03 Nov 2026 17:58:18 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
