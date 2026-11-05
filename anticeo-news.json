@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:04:52.740149Z",
+  "generated_at": "2026-11-05T04:19:43.484307Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 04:11:05 +0000",
           "section": ""
         },
         {
@@ -62,13 +69,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 05 Nov 2026 02:17:18 GMT",
-          "section": ""
-        },
-        {
-          "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 02:02:47 +0000",
           "section": ""
         },
         {
@@ -456,7 +456,7 @@
           "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 03:37:35 GMT",
+          "ts": "Thu, 05 Nov 2026 04:14:32 GMT",
           "section": ""
         },
         {
@@ -591,24 +591,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "What’s delaying US midterm election calls in Mississippi and Alaska?",
-          "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+          "title": "Brazilian airport torn apart by violent storm",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 03:13:08 +0000",
+          "ts": "Thu, 05 Nov 2026 04:12:11 +0000",
           "section": ""
         },
         {
-          "title": "Former Israeli generals help Palestinian olive farmers",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+          "title": "Paraguay bank collapses with half of population’s savings",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 02:52:30 +0000",
+          "ts": "Thu, 05 Nov 2026 04:11:45 +0000",
           "section": ""
         },
         {
-          "title": "Vote counting underway in critical South Africa elections",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
+          "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 02:43:04 +0000",
+          "ts": "Thu, 05 Nov 2026 04:04:57 +0000",
           "section": ""
         },
         {
@@ -806,6 +806,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Post Midterms, Pete Hegseth & RFK Jr. Stare Down Likely Impeachment Efforts",
+          "url": "https://www.techdirt.com/2026/11/04/post-midterms-pete-hegseth-rfk-jr-stare-down-likely-impeachment-efforts/",
+          "source": "Techdirt",
+          "ts": "Thu, 05 Nov 2026 04:05:48 +0000",
+          "section": ""
+        },
+        {
           "title": "How Democrats Changed Everything",
           "url": "https://theintercept.com/2026/11/04/midterm-election-results-voters-democrats/",
           "source": "The Intercept",
@@ -866,13 +873,6 @@
           "url": "https://www.eff.org/deeplinks/2026/11/google-summaries-arent-about-ai-theyre-about-lock",
           "source": "Deeplinks",
           "ts": "Wed, 04 Nov 2026 20:05:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "ICE Is Now Arresting People Who’ve Been Released From ICE Detention By Court Orders",
-          "url": "https://www.techdirt.com/2026/11/04/ice-is-now-arresting-people-whove-been-released-from-ice-detention-by-court-orders/",
-          "source": "Techdirt",
-          "ts": "Wed, 04 Nov 2026 19:05:12 +0000",
           "section": ""
         },
         {
