@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T09:32:55.821220Z",
+  "generated_at": "2026-11-05T09:48:04.129336Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -139,6 +139,13 @@
           "url": "https://newsroom.ucla.edu/stories/what-does-los-angeles-look-like-from-a-wheelchair",
           "source": "UCLA",
           "ts": "Wed, 04 Nov 2026 23:18:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Reuse, refill, repeat: Bruins help build a greener UCLA",
+          "url": "https://newsroom.ucla.edu/stories/reuse-refill-repeat-bruins-greener-ucla-reusables-asucla",
+          "source": "UCLA",
+          "ts": "Wed, 04 Nov 2026 23:10:00 GMT",
           "section": ""
         },
         {
@@ -324,13 +331,6 @@
           "section": ""
         },
         {
-          "title": "Iran Defeats Trump, by Kevin Barrett",
-          "url": "https://www.unz.com/kbarrett/iran-defeats-trump/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 04 Nov 2026 05:02:37 +0000",
-          "section": ""
-        },
-        {
           "title": "Tehran gloats as Republicans take a beating",
           "url": "https://www.politico.com/news/2026/11/04/tehran-iran-reaction-republicans-midterm-election-01148329",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -456,7 +456,7 @@
           "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 09:08:39 GMT",
+          "ts": "Thu, 05 Nov 2026 09:32:54 GMT",
           "section": ""
         },
         {
@@ -584,6 +584,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "South Korea tests Arctic shipping route amid Russia-West row",
+          "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T09:45:00Z",
+          "section": ""
+        },
+        {
           "title": "Germany news: Deportations on the decline",
           "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -609,13 +616,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 05 Nov 2026 09:13:35 +0000",
-          "section": ""
-        },
-        {
-          "title": "Dublin-Rome flight lands in France amid bomb threat",
-          "url": "https://www.dw.com/en/dublin-rome-flight-lands-in-france-amid-bomb-threat/a-79861216?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T09:10:00Z",
           "section": ""
         },
         {
@@ -778,20 +778,6 @@
           "source": "Defense One - All Content",
           "ts": "Wed, 04 Nov 2026 05:28:14 -0500",
           "section": ""
-        },
-        {
-          "title": "If You Lie to Voters About Not Starting a New War, the Voters Make You Pay, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/if-you-lie-to-voters-about-not-starting-a-new-war-the-voters-make-you-pay/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 04 Nov 2026 05:10:38 +0000",
-          "section": ""
-        },
-        {
-          "title": "Shadow Allies: Inside Saudi Arabia and Israel’s Decades-Long Covert Pact, by Jose Alberto Nino",
-          "url": "https://www.unz.com/jnino/shadow-allies-inside-saudi-arabia-and-israels-decades-long-covert-pact/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 04 Nov 2026 05:02:44 +0000",
-          "section": ""
         }
       ]
     },
@@ -937,24 +923,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Trump went to Iran for regime change. Iran delivered it in Washington",
+          "url": "https://www.middleeastmonitor.com/20261105-trump-went-to-iran-for-regime-change-iran-delivered-it-in-washington/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 09:41:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Iran says 4 oil tankers destroyed by sea mines in Strait of Hormuz",
+          "url": "https://www.middleeastmonitor.com/20261105-iran-says-4-oil-tankers-destroyed-by-sea-mines-in-strait-of-hormuz/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 09:36:01 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Vance’s remarks raise Israeli concerns over possible decline in US support",
           "url": "https://www.middleeastmonitor.com/20261105-vances-remarks-raise-israeli-concerns-over-possible-decline-in-us-support/",
           "source": "Middle East Monitor",
           "ts": "Thu, 05 Nov 2026 09:30:27 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Ethiopia expels six Sudanese diplomats amid accusations of RSF support",
-          "url": "https://www.middleeastmonitor.com/20261105-ethiopia-expels-six-sudanese-diplomats-amid-accusations-of-rsf-support/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 09:26:15 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Netanyahu alleges foreign interference in Israeli elections, calls for broad right-wing government",
-          "url": "https://www.middleeastmonitor.com/20261105-netanyahu-alleges-foreign-interference-in-israeli-elections-calls-for-broad-right-wing-government/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 08:38:37 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -990,13 +976,6 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTkzRXdIWXR0Z25WWVpzelFWZjA1ZVQxalk1Z05lSDhHZGI4UFFiNjhrYUswUFdSYk1DY2F1ZEh1UFpjc0ozU2llNU5YUEFJM3lIVW9zZFFYaGZYMl8yRDhiaWJoMWVTTGlWeFh3LU92NmVhLXFYeHphdmc0SFBkSEVTdlItTzNoWWVqX1FTb2tsdkw5LUwwa3Nnd1hNclVLc01LZnhNdkl2Ny1JdG9PMWt3OA?oc=5",
           "source": "Wallace Shawn (NYRB)",
           "ts": "Wed, 04 Nov 2026 17:52:11 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Friday Palestine Demonstration: Los Angeles - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JVi1pRF9zaGR4N2NxaVVIQlJ5RnVpTk16MWtLMWgtRkdkd3g1VnlVaTVFaEprRnJHTEQ2QktTMHc1b3lfRmtGR3JmaWNZNE0?oc=5",
-          "source": "CODEPINK",
-          "ts": "Wed, 04 Nov 2026 16:09:59 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
