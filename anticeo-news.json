@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-05T02:32:57.389774Z",
+  "generated_at": "2026-11-05T02:47:34.901510Z",
   "headline": {
-    "title": "The Last Days of MAGA and the Scramble to Dump Trump",
-    "url": "https://www.motherjones.com/politics/2026/11/stress-test-video-podcast-maga-meltdown-trump-revolution/"
+    "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+    "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "State Sen. Scott Wiener to succeed Pelosi in San Francisco House seat, as Chan concedes",
+          "url": "https://www.latimes.com/california/story/2026-11-04/state-sen-scott-wiener-to-succeed-pelosi-in-san-francisco-house-seat-as-chan-concedes",
+          "source": "California",
+          "ts": "Thu, 05 Nov 2026 02:33:51 GMT",
+          "section": ""
+        },
+        {
+          "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+          "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 05 Nov 2026 02:33:40 GMT",
+          "section": ""
+        },
         {
           "title": "The Last Days of MAGA and the Scramble to Dump Trump",
           "url": "https://www.motherjones.com/politics/2026/11/stress-test-video-podcast-maga-meltdown-trump-revolution/",
@@ -62,13 +76,6 @@
           "url": "https://newsroom.ucla.edu/in-the-news/2026-midterm-elections-unfold-with-relatively-few-disruptions-despite-earlier-concerns-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Wed, 04 Nov 2026 23:55:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "California Democrats crush GOP opponents in first test of new district maps",
-          "url": "https://www.latimes.com/california/story/2026-11-04/california-democrats-crush-gop-rivals-in-test-of-new-district-maps",
-          "source": "California",
-          "ts": "Wed, 04 Nov 2026 23:53:52 GMT",
           "section": ""
         },
         {
@@ -160,13 +167,6 @@
           "url": "https://news.antiwar.com/2026/11/04/trump-denies-that-hes-considering-firing-hegseth-but-says-hed-be-very-popular-in-tennessee-senate-seat/?utm_source=rss&utm_medium=rss&utm_campaign=trump-denies-that-hes-considering-firing-hegseth-but-says-hed-be-very-popular-in-tennessee-senate-seat",
           "source": "News From Antiwar.com",
           "ts": "Wed, 04 Nov 2026 21:41:20 +0000",
-          "section": ""
-        },
-        {
-          "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
-          "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 04 Nov 2026 21:02:58 GMT",
           "section": ""
         },
         {
@@ -317,13 +317,6 @@
           "section": ""
         },
         {
-          "title": "Israel’s Election Shows Its Democracy Is A Sham, But the West Can’t Stop Buying the Lie, by Jonathan Cook",
-          "url": "https://www.unz.com/jcook/israels-election-shows-its-democracy-is-a-sham-but-the-west-cant-stop-buying-the-lie/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 04 Nov 2026 05:00:52 +0000",
-          "section": ""
-        },
-        {
           "title": "Burkina Faso: Islamist Armed Group Targets Civilians",
           "url": "https://www.hrw.org/news/2026/11/04/burkina-faso-islamist-armed-group-targets-civilians",
           "source": "Human Rights Watch News",
@@ -463,7 +456,7 @@
           "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 02:06:38 GMT",
+          "ts": "Thu, 05 Nov 2026 02:24:45 GMT",
           "section": ""
         },
         {
@@ -598,6 +591,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+          "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+          "source": "TWZ",
+          "ts": "Wed, 04 Nov 2026 21:37:32 -0500",
+          "section": ""
+        },
+        {
+          "title": "El Salvador’s Bukele touts military intervention in Haiti",
+          "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 02:10:07 +0000",
+          "section": ""
+        },
+        {
+          "title": "Election deniers lose races for governor in key US swing states",
+          "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 02:06:07 +0000",
+          "section": ""
+        },
+        {
           "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
           "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -609,20 +623,6 @@
           "url": "https://news.antiwar.com/2026/11/04/european-troops-hold-drills-for-post-war-ukraine-mission-that-will-likely-never-happen/?utm_source=rss&utm_medium=rss&utm_campaign=european-troops-hold-drills-for-post-war-ukraine-mission-that-will-likely-never-happen",
           "source": "News From Antiwar.com",
           "ts": "Thu, 05 Nov 2026 00:58:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Africa’s richest man launches mega oil tank farm in Namibia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 00:39:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ohio’s voters tell Republicans: don’t take us for granted",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 00:36:25 +0000",
           "section": ""
         },
         {
@@ -717,13 +717,6 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Ukrainian Soldiers Tell Us Which Guns And Optics Work Best In Combat",
-          "url": "https://www.twz.com/land/which-guns-and-optics-are-best-according-to-battle-tested-ukrainian-soldiers",
-          "source": "TWZ",
-          "ts": "Wed, 04 Nov 2026 14:17:22 -0500",
-          "section": ""
-        },
-        {
           "title": "‘The reason we lost is the war’: Vance blames midterm GOP losses on Iran conflict",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/04/the-reason-we-lost-is-the-war-vance-blames-midterm-gop-losses-iran-conflict/",
           "source": "News - Army Times",
@@ -791,6 +784,13 @@
           "url": "https://warontherocks.com/the-g-i-and-the-paperback-a-world-war-ii-love-story/",
           "source": "War on the Rocks",
           "ts": "Wed, 04 Nov 2026 08:30:26 +0000",
+          "section": ""
+        },
+        {
+          "title": "If You Lie to Voters About Not Starting a New War, the Voters Make You Pay, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/if-you-lie-to-voters-about-not-starting-a-new-war-the-voters-make-you-pay/",
+          "source": "The Unz Review:",
+          "ts": "Wed, 04 Nov 2026 05:10:38 +0000",
           "section": ""
         },
         {
