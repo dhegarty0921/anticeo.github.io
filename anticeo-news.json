@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T14:47:46.850218Z",
+  "generated_at": "2026-11-05T15:04:43.867006Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+          "source": "NPR Topics: News",
+          "ts": "Thu, 05 Nov 2026 10:00:00 -0500",
           "section": ""
         },
         {
@@ -121,13 +128,6 @@
           "section": ""
         },
         {
-          "title": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 05 Nov 2026 06:45:30 -0500",
-          "section": ""
-        },
-        {
           "title": "Vermont votes to add LGBTQ+ equal protections to the state constitution",
           "url": "https://www.thepinknews.com/2026/11/05/vermont-proposal-4-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -216,13 +216,6 @@
           "url": "https://newsroom.ucla.edu/stories/what-does-los-angeles-look-like-from-a-wheelchair",
           "source": "UCLA",
           "ts": "Wed, 04 Nov 2026 23:18:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "US: New Congress Should Assert Oversight",
-          "url": "https://www.hrw.org/news/2026/11/04/us-new-congress-should-assert-oversight",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 04 Nov 2026 17:30:00 -0500",
           "section": ""
         },
         {
@@ -467,6 +460,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "‘A beautifully American story’: El-Sayed’s historic Senate victory resonates with Muslim Americans",
+          "url": "https://religionnews.com/2026/11/05/a-beautifully-american-story-el-sayeds-historic-senate-victory-resonates-with-muslim-americans/",
+          "source": "RNS",
+          "ts": "Thu, 05 Nov 2026 14:59:14 +0000",
+          "section": ""
+        },
+        {
+          "title": "Federal judge orders Iowa to allow Satanic Temple to hold one-day holiday event in the state Capitol",
+          "url": "https://religionnews.com/2026/11/05/federal-judge-orders-iowa-to-allow-satanic-temple-to-hold-one-day-holiday-event-in-the-state-capitol/",
+          "source": "RNS",
+          "ts": "Thu, 05 Nov 2026 14:52:09 +0000",
+          "section": ""
+        },
+        {
           "title": "How Chuck Schumer Got the Lousiest Job in Washington",
           "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?utm_source=feed",
           "source": "The Atlantic",
@@ -565,24 +572,10 @@
           "section": ""
         },
         {
-          "title": "A majority of Michigan Jews voted for El-Sayed, polling suggests, but divisions remain",
-          "url": "https://religionnews.com/2026/11/04/michigan-jews-voted-for-el-sayed-but-the-community-divisions-remain/",
-          "source": "RNS",
-          "ts": "Thu, 05 Nov 2026 01:05:19 +0000",
-          "section": ""
-        },
-        {
           "title": "Donald Trump would like to change the subject",
           "url": "https://www.vox.com/the-logoff-newsletter-trump/509311/donald-trump-midterms-defeat-ballroom-iran",
           "source": "Vox",
           "ts": "2026-11-04T18:25:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Catholics and ‘nones’ played key role in Democrats’ historic victory, exit polls show",
-          "url": "https://religionnews.com/2026/11/04/catholics-and-nones-played-key-role-in-democrats-historic-victory-exit-polls-show/",
-          "source": "RNS",
-          "ts": "Wed, 04 Nov 2026 22:35:33 +0000",
           "section": ""
         },
         {
@@ -605,6 +598,34 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26",
+          "url": "https://www.navalnews.com/naval-news/2026/11/submarine-isaac-peral-sinks-the-old-patrol-vessel-infanta-elena-during-the-live-fire-exercise-sinkex-26/",
+          "source": "Naval News",
+          "ts": "Thu, 05 Nov 2026 14:51:46 +0000",
+          "section": ""
+        },
+        {
+          "title": "EU court says CBD foods need approval for sale before they can be certified organic",
+          "url": "https://www.dw.com/en/eu-court-says-cbd-foods-need-approval-for-sale-before-they-can-be-certified-organic/a-79865773?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T14:51:00Z",
+          "section": ""
+        },
+        {
+          "title": "Who is drug testing Russia's athletes, now that they have returned to international competition?",
+          "url": "https://www.dw.com/en/who-is-drug-testing-russia-s-athletes-now-that-they-have-returned-to-international-competition/a-79862467?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T14:51:00Z",
+          "section": ""
+        },
+        {
+          "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+          "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 14:45:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Russell Brand found guilty of rape and sexual assault by UK court",
           "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -616,13 +637,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 05 Nov 2026 14:30:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "Could the US midterms further isolate Israel in Washington?",
-          "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 14:19:25 +0000",
           "section": ""
         },
         {
@@ -654,31 +668,10 @@
           "section": ""
         },
         {
-          "title": "Fairbanks Morse Defense Unveils AutoHook for Fully Autonomous Vessel Recovery at EURONAVAL 2026",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fairbanks-morse-defense-unveils-autohook-for-fully-autonomous-vessel-recovery-at-euronaval-2026/",
-          "source": "Naval News",
-          "ts": "Thu, 05 Nov 2026 12:35:59 +0000",
-          "section": ""
-        },
-        {
           "title": "No Electricity But Lots Of Scandals – Ukraine Is Coming Apart",
           "url": "https://www.moonofalabama.org/2026/11/no-electricity-but-lots-of-scandals-ukraine-is-coming-apart.html",
           "source": "Moon of Alabama",
           "ts": "Thu, 05 Nov 2026 12:18:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pioneering Jewish academy opens in Germany",
-          "url": "https://www.dw.com/en/pioneering-jewish-academy-opens-in-germany/a-79863293?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T11:57:00Z",
-          "section": ""
-        },
-        {
-          "title": "Cristiano Ronaldo announces retirement from international football",
-          "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T11:52:00Z",
           "section": ""
         },
         {
@@ -951,6 +944,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "The Israeli and US elections and the future of the war on Iran",
+          "url": "https://www.middleeastmonitor.com/20261105-the-israeli-and-us-elections-and-the-future-of-the-war-on-iran/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 14:48:12 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "A Nuclear Strike on Iran Would Poison the Region It Claims to Protect",
           "url": "https://www.middleeastmonitor.com/20261105-a-nuclear-strike-on-iran-would-poison-the-region-it-claims-to-protect/",
           "source": "Middle East Monitor",
@@ -969,13 +969,6 @@
           "url": "https://www.middleeastmonitor.com/20261105-texass-political-earthquake-what-it-means-for-global-energy/",
           "source": "Middle East Monitor",
           "ts": "Thu, 05 Nov 2026 14:34:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli expert reportedly training Sudan’s Rapid Support Forces in drone and air defence operations",
-          "url": "https://www.middleeastmonitor.com/20261105-israeli-expert-reportedly-training-sudans-rapid-support-forces-in-drone-and-air-defence-operations/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 14:26:26 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1047,6 +1040,13 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
+          "title": "南布鲁克林”翻蓝” 物价民生决定华人选票",
+          "url": "https://documentedny.com/2026/11/05/brooklyn-assembly-state-senate-election-bensonhurst-he-xie/",
+          "source": "Documented",
+          "ts": "Thu, 05 Nov 2026 15:02:36 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
           "title": "纽约外卖员应该了解的权利",
           "url": "https://documentedny.com/2026/11/05/chinese-language-nyc-deliverista-delivery-driver-rights/",
           "source": "Documented",
@@ -1055,16 +1055,9 @@
         },
         {
           "title": "In Bensonhurst, Economic Pressures Reshaped Political Conversations",
-          "url": "https://documentedny.com/2026/11/04/brooklyn-assembly-state-senate-election-bensonhurst-he-xie/",
+          "url": "https://documentedny.com/2026/11/04/brooklyn-assembly-state-senate-election-bensonhurst-he-xie-2/",
           "source": "Documented",
           "ts": "Wed, 04 Nov 2026 22:51:23 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "¿Buscas trabajo en Nueva York? Conoce el nuevo centro de empleo Jobs NYC",
-          "url": "https://documentedny.com/2026/11/04/nueva-york-centro-de-empleo/",
-          "source": "Documented",
-          "ts": "Wed, 04 Nov 2026 22:30:00 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
