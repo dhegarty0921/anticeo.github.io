@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T08:47:24.608310Z",
+  "generated_at": "2026-11-05T09:04:42.925366Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -446,24 +446,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Polling experts hail ‘great night’ after correctly calling most key US midterm election races",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/polls-midterms-results-accurate",
+          "title": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 08:00:57 GMT",
+          "ts": "Thu, 05 Nov 2026 08:34:01 GMT",
+          "section": ""
+        },
+        {
+          "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-elections-full-results-senate-house-governor-races",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 08:33:19 GMT",
           "section": ""
         },
         {
           "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 07:50:01 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump-backed Republicans lose dozens of US midterm races, raising questions over his influence",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 07:00:57 GMT",
+          "ts": "Thu, 05 Nov 2026 08:32:21 GMT",
           "section": ""
         },
         {
@@ -584,6 +584,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "The Golden Dome Proposal is Destabilizing and Dangerous",
+          "url": "https://warontherocks.com/cogs-of-war/the-golden-dome-proposal-is-destabilizing-and-dangerous/",
+          "source": "War on the Rocks",
+          "ts": "Thu, 05 Nov 2026 09:00:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 08:39:40 +0000",
+          "section": ""
+        },
+        {
           "title": "Who Repairs the Internet in Wartime?",
           "url": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
           "source": "War on the Rocks",
@@ -609,13 +623,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 05 Nov 2026 07:44:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-          "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 07:41:25 +0000",
           "section": ""
         },
         {
@@ -728,13 +735,6 @@
           "url": "https://warontherocks.com/why-are-wars-increasingly-difficult-to-end/",
           "source": "War on the Rocks",
           "ts": "Wed, 04 Nov 2026 18:30:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Army’s Command-and-Control Reboot",
-          "url": "https://warontherocks.com/the-armys-command-and-control-reboot/",
-          "source": "War on the Rocks",
-          "ts": "Wed, 04 Nov 2026 18:23:10 +0000",
           "section": ""
         },
         {
