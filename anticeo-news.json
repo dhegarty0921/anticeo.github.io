@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:18:09.214702Z",
+  "generated_at": "2026-11-05T10:33:11.110467Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,27 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+          "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 05 Nov 2026 10:30:03 GMT",
+          "section": ""
+        },
+        {
+          "title": "Channel 4 confirms MAFS UK future as external review results released",
+          "url": "https://www.thepinknews.com/2026/11/05/channel-4-married-at-first-sight-uk-review/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Nov 2026 10:30:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "LGBTQ+ charities warn they are at ‘breaking point’ as funding falls and demand rises",
+          "url": "https://www.thepinknews.com/2026/11/05/lgbt-charity-funding-uk/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Nov 2026 10:19:30 +0000",
           "section": ""
         },
         {
@@ -58,8 +79,8 @@
           "section": ""
         },
         {
-          "title": "As budgets tighten, people are breaking out their library cards",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
+          "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
           "source": "NPR Topics: News",
           "ts": "Thu, 05 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -233,13 +254,6 @@
           "section": ""
         },
         {
-          "title": "What Democrats can and can't do with their new power after taking Congress",
-          "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 04 Nov 2026 18:01:27 GMT",
-          "section": ""
-        },
-        {
           "title": "We Just Witnessed a Populist Blowout",
           "url": "https://inthesetimes.com/article/populism-midterms-elections-democrats-blowout-trump-left",
           "source": "In These Times",
@@ -265,20 +279,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/chucky-nicki-minaj-ai-vote-red-post-1235652508/",
           "source": "Politics News",
           "ts": "Wed, 04 Nov 2026 16:08:17 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tip Toe star returns to day job as he says fan asked for photo in surgery",
-          "url": "https://www.thepinknews.com/2026/11/04/channel-4-tip-toe-jackson-connor-dental-job/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Nov 2026 15:53:35 +0000",
-          "section": ""
-        },
-        {
-          "title": "Red, White And Royal Blue author Casey McQuiston pokes fun at doubters as Texas turns blue",
-          "url": "https://www.thepinknews.com/2026/11/04/red-white-royal-blue-casey-mcquiston-texas-blue/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 04 Nov 2026 15:31:08 +0000",
           "section": ""
         },
         {
@@ -584,8 +584,8 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Bomb threats force several European commercial flights to divert for alternate landings",
-          "url": "https://www.dw.com/en/bomb-threats-force-several-european-commercial-flights-to-divert-for-alternate-landings/a-79861216?maca=en-rss-en-all-1573-rdf",
+          "title": "Several European flights receive bomb threats, some divert",
+          "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T10:10:00Z",
           "section": ""
