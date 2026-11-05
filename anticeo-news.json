@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:04:43.822331Z",
+  "generated_at": "2026-11-05T10:18:09.214702Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -16,10 +16,45 @@
           "section": ""
         },
         {
+          "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 10:04:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "Triumphal Arch Set to Win Final Approval Despite Court Challenges",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 10:04:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 10:04:43 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump's arch is on the verge of federal approval. But a judge could block construction",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6027301/trump-arch-federal-approval-judge-construction",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 05 Nov 2026 05:02:00 -0500",
+          "section": ""
+        },
+        {
           "title": "SafeSport Will Now Alert Schools, Clubs if Coaches Sanctioned for Abuse Continue to Work With Kids",
           "url": "https://www.propublica.org/article/safesport-child-abuse-notification-system-impact",
           "source": "ProPublica",
           "ts": "Thu, 05 Nov 2026 10:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "The South flexes political power in midterms, sets regional influence in 2028 election",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas",
+          "source": "NPR Topics: Politics",
+          "ts": "Thu, 05 Nov 2026 05:00:00 -0500",
           "section": ""
         },
         {
@@ -30,20 +65,6 @@
           "section": ""
         },
         {
-          "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
-          "source": "NPR Topics: News",
-          "ts": "Thu, 05 Nov 2026 05:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Democrats will control Congress. Will it change Trump's approach to foreign policy?",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-will-control-congress-will-it-change-trumps-approach-to-foreign-policy",
-          "source": "NPR Topics: Politics",
-          "ts": "Thu, 05 Nov 2026 04:50:34 -0500",
-          "section": ""
-        },
-        {
           "title": "Big Brother’s Frankie says he ‘didn’t know if he was gay or bi’ amid backdoor exit",
           "url": "https://www.thepinknews.com/2026/11/05/itv-big-brother-frankie-taber-bisexual-gay/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -51,10 +72,10 @@
           "section": ""
         },
         {
-          "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 04:11:05 +0000",
+          "title": "Four investigations Democrats could launch after winning control of Congress - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16TXJSVDUwNkhEVXc2RDRtVXRUU09ZVmdmUGdGcXgtNnRJRFBjV1FqQTlkX1BCQ2p6TUIxbzBzQ0JYTDVHMEMwMm52bk1DMEdZeXo0ZERZVFFjckE?oc=5",
+          "source": "\"\"Jared Kushner\" investigation\" - Google News",
+          "ts": "Thu, 05 Nov 2026 08:45:07 GMT",
           "section": ""
         },
         {
@@ -100,13 +121,6 @@
           "section": ""
         },
         {
-          "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 01:32:45 +0000",
-          "section": ""
-        },
-        {
           "title": "Ukraine’s Azov Brigade Admits Holding AWOL Soldiers At Residential House Amid Torture Allegations",
           "url": "https://news.antiwar.com/2026/11/04/ukraines-azov-brigade-admits-holding-awol-soldiers-at-residential-house-amid-torture-allegations/?utm_source=rss&utm_medium=rss&utm_campaign=ukraines-azov-brigade-admits-holding-awol-soldiers-at-residential-house-amid-torture-allegations",
           "source": "News From Antiwar.com",
@@ -132,13 +146,6 @@
           "url": "https://newsroom.ucla.edu/in-the-news/2026-midterm-elections-unfold-with-relatively-few-disruptions-despite-earlier-concerns-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Wed, 04 Nov 2026 23:55:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Justice Alito Will Not Retire From Supreme Court Immediately, Despite Election Outcome",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/alito-trump-supreme-court-not-retiring.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 04 Nov 2026 23:44:50 +0000",
           "section": ""
         },
         {
@@ -446,10 +453,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Rev. Frederick Haynes on election, economy and excitement about congressional win",
+          "url": "https://religionnews.com/2026/11/05/frederick-haynes-congress-texas-election-2026/",
+          "source": "RNS",
+          "ts": "Thu, 05 Nov 2026 10:05:14 +0000",
+          "section": ""
+        },
+        {
           "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 09:32:54 GMT",
+          "ts": "Thu, 05 Nov 2026 10:01:08 GMT",
+          "section": ""
+        },
+        {
+          "title": "Not just Congress: Democrats’ blue wave washes over state legislatures across US",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 10:00:05 GMT",
           "section": ""
         },
         {
@@ -457,13 +478,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-election-interference-midterm-results",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Nov 2026 09:00:01 GMT",
-          "section": ""
-        },
-        {
-          "title": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
-          "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 08:34:01 GMT",
           "section": ""
         },
         {
@@ -530,13 +544,6 @@
           "section": ""
         },
         {
-          "title": "Midterms were a victory for Golden Rule Christianity",
-          "url": "https://religionnews.com/2026/11/04/midterms-were-a-victory-for-golden-rule-christianity/",
-          "source": "RNS",
-          "ts": "Wed, 04 Nov 2026 22:23:31 +0000",
-          "section": ""
-        },
-        {
           "title": "After the Midterms",
           "url": "https://www.christianitytoday.com/2026/11/after-the-midterms/",
           "source": "Christianity Today",
@@ -577,6 +584,34 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Bomb threats force several European commercial flights to divert for alternate landings",
+          "url": "https://www.dw.com/en/bomb-threats-force-several-european-commercial-flights-to-divert-for-alternate-landings/a-79861216?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T10:10:00Z",
+          "section": ""
+        },
+        {
+          "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 10:04:26 +0000",
+          "section": ""
+        },
+        {
+          "title": "A month after Yemen government offensive began, war of attrition takes hold",
+          "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 09:58:18 +0000",
+          "section": ""
+        },
+        {
+          "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+          "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 09:57:04 +0000",
+          "section": ""
+        },
+        {
           "title": "South Korea tests Arctic shipping route amid Russia-West row",
           "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -598,31 +633,10 @@
           "section": ""
         },
         {
-          "title": "France braces for fresh protests as unions strike over higher wages",
-          "url": "https://www.dw.com/en/france-braces-for-fresh-protests-as-unions-strike-over-higher-wages/a-79860616?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T09:19:00Z",
-          "section": ""
-        },
-        {
-          "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
-          "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 09:13:35 +0000",
-          "section": ""
-        },
-        {
           "title": "The Golden Dome Proposal is Destabilizing and Dangerous",
           "url": "https://warontherocks.com/cogs-of-war/the-golden-dome-proposal-is-destabilizing-and-dangerous/",
           "source": "War on the Rocks",
           "ts": "Thu, 05 Nov 2026 09:00:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
-          "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 08:39:40 +0000",
           "section": ""
         },
         {
@@ -637,13 +651,6 @@
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-concept-eyes-vektrex-in-air-launched-missile/",
           "source": "Naval News",
           "ts": "Thu, 05 Nov 2026 08:14:07 +0000",
-          "section": ""
-        },
-        {
-          "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-          "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 07:50:44 +0000",
           "section": ""
         },
         {
