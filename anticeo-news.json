@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T15:18:21.306429Z",
+  "generated_at": "2026-11-05T15:33:11.891816Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -460,6 +460,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "US elections 2026 live: Republicans blast their party’s midterms collapse, blaming Iran war and affordability crisis",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 15:15:17 GMT",
+          "section": ""
+        },
+        {
           "title": "‘A beautifully American story’: El-Sayed’s historic Senate victory resonates with Muslim Americans",
           "url": "https://religionnews.com/2026/11/05/a-beautifully-american-story-el-sayeds-historic-senate-victory-resonates-with-muslim-americans/",
           "source": "RNS",
@@ -478,13 +485,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-05T09:45:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 14:29:06 GMT",
           "section": ""
         },
         {
@@ -598,6 +598,34 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "British comedian and actor Russell Brand found guilty of rape",
+          "url": "https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T15:17:00Z",
+          "section": ""
+        },
+        {
+          "title": "Why has Cristiano Ronaldo retired from international football?",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 15:14:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "Jerusalem Daily: Settler pogroms in Hebron",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 15:10:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ronaldo in records: International milestones from the football icon",
+          "url": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 15:09:31 +0000",
+          "section": ""
+        },
+        {
           "title": "Iran signals satisfaction, skepticism after US midterm vote",
           "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -637,34 +665,6 @@
           "url": "https://www.dw.com/en/eu-court-says-cbd-foods-need-approval-for-sale-before-they-can-be-certified-organic/a-79865773?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T14:51:00Z",
-          "section": ""
-        },
-        {
-          "title": "Who is drug testing Russia's athletes, now that they have returned to international competition?",
-          "url": "https://www.dw.com/en/who-is-drug-testing-russia-s-athletes-now-that-they-have-returned-to-international-competition/a-79862467?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T14:51:00Z",
-          "section": ""
-        },
-        {
-          "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
-          "url": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 14:45:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Russell Brand found guilty of rape and sexual assault by UK court",
-          "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 14:43:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-          "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 14:30:37 +0000",
           "section": ""
         },
         {
