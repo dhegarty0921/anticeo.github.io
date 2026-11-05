@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-05T01:34:00.085354Z",
+  "generated_at": "2026-11-05T01:47:53.422004Z",
   "headline": {
-    "title": "Ukraine’s Azov Brigade Admits Holding AWOL Soldiers At Residential House Amid Torture Allegations",
-    "url": "https://news.antiwar.com/2026/11/04/ukraines-azov-brigade-admits-holding-awol-soldiers-at-residential-house-amid-torture-allegations/?utm_source=rss&utm_medium=rss&utm_campaign=ukraines-azov-brigade-admits-holding-awol-soldiers-at-residential-house-amid-torture-allegations"
+    "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
+    "url": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Moderate Democrats Increase Their Numbers, and Their Clout",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/moderate-democrats-midterms.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 01:32:45 +0000",
+          "section": ""
+        },
         {
           "title": "Ukraine’s Azov Brigade Admits Holding AWOL Soldiers At Residential House Amid Torture Allegations",
           "url": "https://news.antiwar.com/2026/11/04/ukraines-azov-brigade-admits-holding-awol-soldiers-at-residential-house-amid-torture-allegations/?utm_source=rss&utm_medium=rss&utm_campaign=ukraines-azov-brigade-admits-holding-awol-soldiers-at-residential-house-amid-torture-allegations",
@@ -16,24 +23,17 @@
           "section": ""
         },
         {
+          "title": "‘I Have Seen the Enemy, and It Is Us’: Inside Team Trump’s Historic Collapse",
+          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-midterms-losses-republicans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 01:28:19 +0000",
+          "section": ""
+        },
+        {
           "title": "Here’s what brought voters out to the polls in Koreatown, Pico Union, Westlake",
           "url": "https://thelalocal.org/government/election/voters-polls-koreatown-pico-union-westlake-november-2026/",
           "source": "LA Local",
           "ts": "Thu, 05 Nov 2026 01:18:15 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump Wrestles With New Reality: A Lame Duck With Two Years Left to Fight",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/trump-new-role-lame-duck.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 01:08:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "‘It Was Never Enough’: Susan Collins Couldn’t Outrun Trump",
-          "url": "https://www.nytimes.com/2026/11/04/us/politics/susan-collins-defeat-donald-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 00:51:06 +0000",
           "section": ""
         },
         {
@@ -100,13 +100,6 @@
           "section": ""
         },
         {
-          "title": "Reuse, refill, repeat: Bruins help build a greener UCLA",
-          "url": "https://newsroom.ucla.edu/stories/reuse-refill-repeat-bruins-greener-ucla-reusables-asucla",
-          "source": "UCLA",
-          "ts": "Wed, 04 Nov 2026 23:10:00 GMT",
-          "section": ""
-        },
-        {
           "title": "US: New Congress Should Assert Oversight",
           "url": "https://www.hrw.org/news/2026/11/04/us-new-congress-should-assert-oversight",
           "source": "Human Rights Watch News",
@@ -170,7 +163,7 @@
           "section": ""
         },
         {
-          "title": "Chris Mason: The US elections will change Trump – how will Burnham react?",
+          "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
           "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Wed, 04 Nov 2026 21:02:58 GMT",
@@ -345,10 +338,24 @@
           "section": ""
         },
         {
+          "title": "Tehran gloats as Republicans take a beating",
+          "url": "https://www.politico.com/news/2026/11/04/tehran-iran-reaction-republicans-midterm-election-01148329",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Wed, 04 Nov 2026 03:04:00 +0000",
+          "section": ""
+        },
+        {
           "title": "You voted, now what? How to track your ballot and when to expect election results in LA",
           "url": "https://lapublicpress.org/2026/11/la-elections-2026-ballot-processing-votes-california-results/",
           "source": "LA Public Press",
           "ts": "Tue, 03 Nov 2026 22:57:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "How Trump’s ‘Donroe Doctrine’ is taking back the Western Hemisphere",
+          "url": "https://nypost.com/2026/11/03/us-news/how-trumps-donroe-doctrine-is-taking-back-the-western-hemisphere/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Tue, 03 Nov 2026 20:04:00 +0000",
           "section": ""
         },
         {
@@ -441,13 +448,6 @@
           "section": ""
         },
         {
-          "title": "Jury finds Trump Organization guilty of tax fraud on all counts - ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGR4YmVGUDhTWHUyV1ppY2NhMjZkSHE0VkZURldteUZfWGxac203bjRwSFlKV0d6cjU0YzZ0WFNNLTZtYU8tZjJTSm41dEJaUjBUYk9oNmhGaVZfd0tSRG5aNHNNNlpzR2ZxblFhc3lnU2drVi1pazV3U2dpUFlKV2dNYzFMSzVobHREN3BtT2lLOE9jdkd1THBLSkhOOVlYNjRn0gGoAUFVX3lxTE5RME9xWlVTRXJqMEN5VE9QV3AzY2s2UkE2eE9hdzd0X1FoSkNpbUp0aHF4cEJsYS1CT0V4Nm9KeWEtdW1EOFE4aHMtcFE4RnllUDB5aVRHMFY1YllZNDlPekd0MF8xTjgzaTlWUW92ODM3OTRQZUVpVFFrVFd0c3Z6SDlkY0txYnYyVnlWQVBQZlQzNHZHMk13NEFUUXJFYkNMVjVmejRjOQ?oc=5",
-          "source": "\"\"Trump Organization\" fraud\" - Google News",
-          "ts": "Tue, 03 Nov 2026 21:09:14 GMT",
-          "section": ""
-        },
-        {
           "title": "Federal pressure on California over alleged noncitizen voters: 3 Nov 2026",
           "url": "https://publictrusttracker.org/case/elx-005-federal-pressure-on-california-over-alleged-noncitizen/",
           "source": "Public Trust Tracker",
@@ -467,10 +467,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Datacenters were on the ballot. US voters rejected them",
+          "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 01:30:14 GMT",
+          "section": ""
+        },
+        {
           "title": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 01:16:43 GMT",
+          "ts": "Thu, 05 Nov 2026 01:25:53 GMT",
           "section": ""
         },
         {
@@ -485,13 +492,6 @@
           "url": "https://religionnews.com/2026/11/04/michigan-jews-voted-for-el-sayed-but-the-community-divisions-remain/",
           "source": "RNS",
           "ts": "Thu, 05 Nov 2026 01:05:19 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pete Hegseth may take fall for Republicans’ midterm losses, despite Trump support",
-          "url": "https://www.theguardian.com/us-news/2026/nov/04/pete-hegseth-republicans-midterm-losses",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 00:41:00 GMT",
           "section": ""
         },
         {
