@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:04:43.982926Z",
+  "generated_at": "2026-11-05T07:19:17.827550Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+          "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+          "source": "NPR Topics: News",
+          "ts": "Thu, 05 Nov 2026 02:02:12 -0500",
           "section": ""
         },
         {
@@ -156,13 +163,6 @@
           "section": ""
         },
         {
-          "title": "South Carolina winner Annie Andrews talks about her win and the path ahead",
-          "url": "https://www.npr.org/2026/11/04/nx-s1-6029646/south-carolina-winner-annie-andrews-talks-about-her-win-and-the-path-ahead",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 04 Nov 2026 17:04:23 -0500",
-          "section": ""
-        },
-        {
           "title": "The Myth of “Red States” Has Collapsed",
           "url": "https://www.currentaffairs.org/news/the-myth-of-red-states-has-collapsed",
           "source": "blog",
@@ -195,13 +195,6 @@
           "url": "https://www.truthdig.com/articles/keep-cleaning-house/?utm_source=rss&utm_medium=rss&utm_campaign=keep-cleaning-house",
           "source": "Truthdig",
           "ts": "Wed, 04 Nov 2026 20:53:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "COP31: Human Rights Critical for Climate Action",
-          "url": "https://www.hrw.org/news/2026/11/05/cop31-human-rights-critical-for-climate-action",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 04 Nov 2026 14:43:00 -0500",
           "section": ""
         },
         {
@@ -453,24 +446,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump-backed Republicans lose dozens of US midterm races, raising questions over his influence",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-endorsed-republicans-lose-midterm-election-races",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 07:00:57 GMT",
+          "section": ""
+        },
+        {
+          "title": "A Democratic-controlled Congress will likely try to constrain Trump’s foreign adventures",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-trump-foreign-policy-analysis",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 07:00:57 GMT",
+          "section": ""
+        },
+        {
           "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 06:44:29 GMT",
-          "section": ""
-        },
-        {
-          "title": "Republican blame game begins as Democrat’s Mississippi lead grows – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/04/midterm-elections-results-senate-house-michigan-maine-mississippi-latest-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 05:28:47 GMT",
-          "section": ""
-        },
-        {
-          "title": "Datacenters were on the ballot. US voters rejected them",
-          "url": "https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 01:30:14 GMT",
+          "ts": "Thu, 05 Nov 2026 07:00:28 GMT",
           "section": ""
         },
         {
@@ -591,6 +584,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "What the Democrats' midterms win means for the US economy and Trump",
+          "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T07:03:00Z",
+          "section": ""
+        },
+        {
           "title": "New Zealand braces for knife-edge election: What you need to know",
           "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -623,13 +623,6 @@
           "url": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T05:32:00Z",
-          "section": ""
-        },
-        {
-          "title": "NASA's Swift space telescope plunges back to Earth in fiery demise",
-          "url": "https://www.dw.com/en/nasa-s-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T04:40:00Z",
           "section": ""
         },
         {
