@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T18:32:53.529067Z",
+  "generated_at": "2026-11-05T18:47:21.522762Z",
   "headline": {
-    "title": "Turkish, Iranian foreign ministers discuss Tehran-Washington negotiations in phone call",
-    "url": "https://www.middleeastmonitor.com/20261105-turkish-iranian-foreign-ministers-discuss-tehran-washington-negotiations-in-phone-call/"
+    "title": "Boebert, billionaires' tax and other midterms races still to watch",
+    "url": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o?at_medium=RSS&at_campaign=rss"
   },
   "sections": [
     {
@@ -12,14 +12,35 @@
           "title": "Boebert, billionaires' tax and other midterms races still to watch",
           "url": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 05 Nov 2026 18:27:50 GMT",
+          "ts": "Thu, 05 Nov 2026 18:42:40 GMT",
+          "section": ""
+        },
+        {
+          "title": "Justice Dept. Steps Up Criminal Investigation of Supreme Court Abortion Leak",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 18:41:04 +0000",
+          "section": ""
+        },
+        {
+          "title": "Dummymander: The GOP’s Bid to Rig the Midterm Map Failed Spectacularly",
+          "url": "https://www.rollingstone.com/politics/politics-news/gerrymander-dummymander-republicans-midterms-1235653320/",
+          "source": "Politics News",
+          "ts": "Thu, 05 Nov 2026 18:36:01 +0000",
+          "section": ""
+        },
+        {
+          "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+          "source": "NPR Topics: News",
+          "ts": "Thu, 05 Nov 2026 13:30:16 -0500",
           "section": ""
         },
         {
           "title": "How Democrats Won Across the South",
-          "url": "https://www.nytimes.com/live/2026/11/05/us/midterm-elections-democrats-trump/midterms-southern-democrats",
+          "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-southern-democrats.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 18:18:11 +0000",
+          "ts": "Thu, 05 Nov 2026 18:18:12 +0000",
           "section": ""
         },
         {
@@ -58,13 +79,6 @@
           "section": ""
         },
         {
-          "title": "Tech Billionaires Face Tricky Political Waters After Democratic Midterm Sweep",
-          "url": "https://www.nytimes.com/2026/11/05/technology/tech-billionaires-democrats-midterms.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 17:02:32 +0000",
-          "section": ""
-        },
-        {
           "title": "Katherine Clark Could Be the House Majority Leader. Who Is She?",
           "url": "https://www.nytimes.com/2026/11/05/us/politics/katherine-clark-house-majority-leader.html",
           "source": "NYT > U.S. > Politics",
@@ -75,13 +89,6 @@
           "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
-          "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
-          "source": "NPR Topics: News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
           "section": ""
         },
@@ -282,13 +289,6 @@
           "section": ""
         },
         {
-          "title": "‘Chucky’ Creator Calls Out Nicki Minaj’s AI ‘Vote Red’ Post",
-          "url": "https://www.rollingstone.com/politics/politics-news/chucky-nicki-minaj-ai-vote-red-post-1235652508/",
-          "source": "Politics News",
-          "ts": "Wed, 04 Nov 2026 16:08:17 +0000",
-          "section": ""
-        },
-        {
           "title": "Vermont Was Supposed to Get an Audit of Its Lake Champlain Cleanup. It Never Happened.",
           "url": "https://www.propublica.org/article/vermont-clean-water-act-champlain-audit",
           "source": "ProPublica",
@@ -456,7 +456,14 @@
           "title": "US elections 2026 live: Democrats flip four more House seats as Republicans trade blame for brutal midterms losses",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 18:25:17 GMT",
+          "ts": "Thu, 05 Nov 2026 18:28:47 GMT",
+          "section": ""
+        },
+        {
+          "title": "Indiana puts man to death as three US executions to be carried out on same day",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 18:27:22 GMT",
           "section": ""
         },
         {
@@ -464,13 +471,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/05/harmeet-dhillon-doj-resignation",
           "source": "US news | The Guardian",
           "ts": "Thu, 05 Nov 2026 17:44:41 GMT",
-          "section": ""
-        },
-        {
-          "title": "Heavy rains bring flash flooding to Georgia-Tennessee border area",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/heavy-rains-flash-flooding-georgia-tennessee",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 17:44:11 GMT",
           "section": ""
         },
         {
@@ -584,6 +584,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Navy, Marines: it’s easier to buy new amphibious ships than fix old ones faster",
+          "url": "https://www.defenseone.com/policy/2026/11/navy-marines-amphibious-ships-fix/417070/",
+          "source": "Defense One - All Content",
+          "ts": "Thu, 05 Nov 2026 13:35:58 -0500",
+          "section": ""
+        },
+        {
+          "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 18:30:09 +0000",
+          "section": ""
+        },
+        {
           "title": "Could Football Change After Jesus de Miguel’s Death?",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/could-football-change-after-jesus-de-miguels-death?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -623,13 +637,6 @@
           "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T17:51:00Z",
-          "section": ""
-        },
-        {
-          "title": "Jordanian officer killed in stabbing attack in Amman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 17:08:45 +0000",
           "section": ""
         },
         {
@@ -799,13 +806,6 @@
           "source": "Moon of Alabama",
           "ts": "Wed, 04 Nov 2026 17:43:53 +0000",
           "section": ""
-        },
-        {
-          "title": "Unraveling the Pentagon’s quantum problem",
-          "url": "https://www.defenseone.com/technology/2026/11/unraveling-pentagons-quantum-problem/417029/",
-          "source": "Defense One - All Content",
-          "ts": "Wed, 04 Nov 2026 05:28:14 -0500",
-          "section": ""
         }
       ]
     },
@@ -944,6 +944,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israel’s Eisenkot set to secure 67 recommendations after Arab Joint List announces support",
+          "url": "https://www.middleeastmonitor.com/20261105-israels-eisenkot-set-to-secure-67-recommendations-after-arab-joint-list-announces-support/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 18:38:49 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Turkish, Iranian foreign ministers discuss Tehran-Washington negotiations in phone call",
           "url": "https://www.middleeastmonitor.com/20261105-turkish-iranian-foreign-ministers-discuss-tehran-washington-negotiations-in-phone-call/",
           "source": "Middle East Monitor",
@@ -955,13 +962,6 @@
           "url": "https://www.middleeastmonitor.com/20261105-israeli-knesset-speaker-rejects-opposition-request-for-vote-to-replace-him-at-opening-session/",
           "source": "Middle East Monitor",
           "ts": "Thu, 05 Nov 2026 18:14:56 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Lebanon issues arrest warrants for 2 Hezbollah members in explosives truck case",
-          "url": "https://www.middleeastmonitor.com/20261105-lebanon-issues-arrest-warrants-for-2-hezbollah-members-in-explosives-truck-case/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 17:58:21 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
