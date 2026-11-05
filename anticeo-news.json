@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:18:01.328775Z",
+  "generated_at": "2026-11-05T13:33:21.692645Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "How Trump Is Reacting to the Midterm Results",
+          "url": "https://www.nytimes.com/video/us/politics/100000011262332/how-trump-is-reacting-to-the-midterm-results.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 05 Nov 2026 13:20:22 +0000",
           "section": ""
         },
         {
@@ -139,13 +146,6 @@
           "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 05 Nov 2026 10:04:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
-          "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 10:04:44 +0000",
           "section": ""
         },
         {
@@ -460,6 +460,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/midterms-science-doctors-maha",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 13:00:24 GMT",
+          "section": ""
+        },
+        {
           "title": "What I Lost to Shock Therapy—And What I Got Back",
           "url": "https://www.theatlantic.com/family/2026/11/shock-therapy-memory-loss/689267/?utm_source=feed",
           "source": "The Atlantic",
@@ -485,13 +492,6 @@
           "url": "https://www.theatlantic.com/culture/2026/11/middle-grade-reading-male-protagonists/689285/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-05T07:30:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "How did Republicans lose a Senate seat in fireball-red South Carolina?",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/south-carolina-republicans-darline-graham-annie-andrews",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 12:00:23 GMT",
           "section": ""
         },
         {
@@ -591,10 +591,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
+          "source": "Naval News",
+          "ts": "Thu, 05 Nov 2026 13:20:37 +0000",
+          "section": ""
+        },
+        {
           "title": "Fort Hood shooting victims not memorialized among Global War on Terror casualties",
           "url": "https://www.armytimes.com/news/your-army/2026/11/05/fort-hood-shooting-victims-not-memorialized-among-global-war-on-terror-casualties/",
           "source": "News - Army Times",
           "ts": "Thu, 05 Nov 2026 13:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 12:56:10 +0000",
           "section": ""
         },
         {
@@ -616,13 +630,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Thu, 05 Nov 2026 12:25:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Workers strike across France, hundreds of thousands expected to protest",
-          "url": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 12:21:13 +0000",
           "section": ""
         },
         {
@@ -658,13 +665,6 @@
           "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T11:14:00Z",
-          "section": ""
-        },
-        {
-          "title": "Fincantieri and Leonardo sign an agreement to further strengthen the role of Orizzonte Sistemi Navali",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fincantieri-and-leonardo-sign-an-agreement-to-further-strengthen-the-role-of-orizzonte-sistemi-navali/",
-          "source": "Naval News",
-          "ts": "Thu, 05 Nov 2026 11:06:41 +0000",
           "section": ""
         },
         {
@@ -806,6 +806,20 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Israeli Spy Company Busted Using Malware Ads To Infect, Locate, And Spy On Starlink Users",
+          "url": "https://www.techdirt.com/2026/11/05/israeli-spy-company-busted-using-malware-ads-to-infect-locate-and-spy-on-starlink-users/",
+          "source": "Techdirt",
+          "ts": "Thu, 05 Nov 2026 13:29:36 +0000",
+          "section": ""
+        },
+        {
+          "title": "Early Edition: November 5, 2026",
+          "url": "https://www.justsecurity.org/163503/early-edition-november-5-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-5-2026",
+          "source": "Just Security",
+          "ts": "Thu, 05 Nov 2026 13:20:11 +0000",
+          "section": ""
+        },
+        {
           "title": "Post Midterms, Pete Hegseth & RFK Jr. Stare Down Likely Impeachment Efforts",
           "url": "https://www.techdirt.com/2026/11/04/post-midterms-pete-hegseth-rfk-jr-stare-down-likely-impeachment-efforts/",
           "source": "Techdirt",
@@ -838,13 +852,6 @@
           "url": "https://theintercept.com/2026/11/04/midterms-democrats-agenda-congress-iran-ai/",
           "source": "The Intercept",
           "ts": "Wed, 04 Nov 2026 21:40:14 +0000",
-          "section": ""
-        },
-        {
-          "title": "Congress Has Abdicated Its Role Of Holding The President In Check",
-          "url": "https://www.techdirt.com/2026/11/04/congress-has-abdicated-its-role-of-holding-the-president-in-check/",
-          "source": "Techdirt",
-          "ts": "Wed, 04 Nov 2026 21:08:12 +0000",
           "section": ""
         },
         {
@@ -890,13 +897,6 @@
           "section": ""
         },
         {
-          "title": "Litigation Tracker: Legal Challenges to Trump Administration Actions",
-          "url": "https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-trump-administration/?utm_source=rss&utm_medium=rss&utm_campaign=tracker-litigation-legal-challenges-trump-administration",
-          "source": "Just Security",
-          "ts": "Wed, 04 Nov 2026 13:00:19 +0000",
-          "section": ""
-        },
-        {
           "title": "Postal Service Surveilled Protest Activities Online With Little Rules, Oversight",
           "url": "https://www.eff.org/deeplinks/2026/11/postal-service-surveilled-protest-activities-online-little-rules-oversight",
           "source": "Deeplinks",
@@ -937,6 +937,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli commentator links Republican election setback to declining support for Israel in US",
+          "url": "https://www.middleeastmonitor.com/20261105-israeli-commentator-links-republican-election-setback-to-declining-support-for-israel-in-us/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 13:19:57 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Thousands rally in Tehran against US and Israel, mock Republican election setback",
           "url": "https://www.middleeastmonitor.com/20261105-thousands-rally-in-tehran-against-us-and-israel-mock-republican-election-setback/",
           "source": "Middle East Monitor",
@@ -948,13 +955,6 @@
           "url": "https://www.middleeastmonitor.com/20261105-ruwa-romman-becomes-first-palestinian-american-elected-to-georgia-state-senate/",
           "source": "Middle East Monitor",
           "ts": "Thu, 05 Nov 2026 12:22:18 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Two Palestinian-American women make electoral history in New York and Georgia",
-          "url": "https://www.middleeastmonitor.com/20261105-two-palestinian-american-women-make-electoral-history-in-new-york-and-georgia/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 12:19:03 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
