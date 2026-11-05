@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:33:21.692645Z",
+  "generated_at": "2026-11-05T13:48:23.412499Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -34,6 +34,13 @@
           "url": "https://www.latimes.com/california/story/2026-11-05/socal-restaurant-owner-was-killed-in-botched-kidnapping-family-has-justice-28-years-later",
           "source": "California",
           "ts": "Thu, 05 Nov 2026 13:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "UK Expands Human Rights Sanctions Regime",
+          "url": "https://www.hrw.org/news/2026/11/05/uk-expands-human-rights-sanctions-regime",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 05 Nov 2026 08:00:00 -0500",
           "section": ""
         },
         {
@@ -121,13 +128,6 @@
           "section": ""
         },
         {
-          "title": "Denise Richards confirms RHOBH return after incredible $200,000 facelift",
-          "url": "https://www.thepinknews.com/2026/11/05/denise-richards-rhobh-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 05 Nov 2026 11:28:44 +0000",
-          "section": ""
-        },
-        {
           "title": "Trump’s State Department Is Giving $1 Million to Controversial Group to Study Crimes Against White South Africans",
           "url": "https://www.propublica.org/article/afriforum-grant-trump-white-south-africans",
           "source": "ProPublica",
@@ -212,6 +212,20 @@
           "section": ""
         },
         {
+          "title": "Reuse, refill, repeat: Bruins help build a greener UCLA",
+          "url": "https://newsroom.ucla.edu/stories/reuse-refill-repeat-bruins-greener-ucla-reusables-asucla",
+          "source": "UCLA",
+          "ts": "Wed, 04 Nov 2026 23:10:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Widespread voter intimidation didn’t materialize on Election Day. These volunteers kept watch, just in case.",
+          "url": "https://thelalocal.org/government/election/vote-protectors-election-day/",
+          "source": "LA Local",
+          "ts": "Wed, 04 Nov 2026 22:59:12 +0000",
+          "section": ""
+        },
+        {
           "title": "US: New Congress Should Assert Oversight",
           "url": "https://www.hrw.org/news/2026/11/04/us-new-congress-should-assert-oversight",
           "source": "Human Rights Watch News",
@@ -251,13 +265,6 @@
           "url": "https://www.truthdig.com/articles/keep-cleaning-house/?utm_source=rss&utm_medium=rss&utm_campaign=keep-cleaning-house",
           "source": "Truthdig",
           "ts": "Wed, 04 Nov 2026 20:53:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "COP31: Human Rights Critical for Climate Action",
-          "url": "https://www.hrw.org/news/2026/11/05/cop31-human-rights-critical-for-climate-action",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 04 Nov 2026 14:43:00 -0500",
           "section": ""
         },
         {
@@ -349,13 +356,6 @@
           "url": "https://www.politico.com/news/2026/11/04/tehran-iran-reaction-republicans-midterm-election-01148329",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Wed, 04 Nov 2026 03:04:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "You voted, now what? How to track your ballot and when to expect election results in LA",
-          "url": "https://lapublicpress.org/2026/11/la-elections-2026-ballot-processing-votes-california-results/",
-          "source": "LA Public Press",
-          "ts": "Tue, 03 Nov 2026 22:57:05 +0000",
           "section": ""
         },
         {
@@ -460,6 +460,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "St Louis police investigate trans woman’s death after autopsy raised doubts",
+          "url": "https://www.thepinknews.com/2026/11/05/jhene-audrict-homicide-2026/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Nov 2026 13:30:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 13:28:29 GMT",
+          "section": ""
+        },
+        {
+          "title": "Six people dead and seven injured after fire at Brooklyn home",
+          "url": "https://www.theguardian.com/us-news/2026/nov/05/six-people-dead-brooklyn-fire",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 05 Nov 2026 13:18:45 GMT",
+          "section": ""
+        },
+        {
           "title": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
           "url": "https://www.theguardian.com/us-news/2026/nov/05/midterms-science-doctors-maha",
           "source": "US news | The Guardian",
@@ -471,20 +492,6 @@
           "url": "https://www.theatlantic.com/family/2026/11/shock-therapy-memory-loss/689267/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-05T08:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Trump accepts election results as Republicans face midterm reckoning | First Thing",
-          "url": "https://www.theguardian.com/us-news/2026/nov/05/first-thing-trump-accepts-midterm-election-results",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 12:35:11 GMT",
-          "section": ""
-        },
-        {
-          "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 05 Nov 2026 12:30:06 GMT",
           "section": ""
         },
         {
@@ -591,10 +598,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
+          "url": "https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T13:34:00Z",
+          "section": ""
+        },
+        {
+          "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 13:28:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "Padel’s Olympic ambition",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/padels-olympic-ambition?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 13:25:01 +0000",
+          "section": ""
+        },
+        {
           "title": "HGH receives the French Navy’s Perséus label for its SPYNEL-F Maritime Surveillance System",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/hgh-receives-the-french-navys-perseus-label-for-its-spynel-f-maritime-surveillance-system/",
           "source": "Naval News",
           "ts": "Thu, 05 Nov 2026 13:20:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "Four people, including a child, killed in Israeli attacks on Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 13:04:52 +0000",
           "section": ""
         },
         {
@@ -605,31 +640,10 @@
           "section": ""
         },
         {
-          "title": "3,000 tarantulas hidden inside luggage seized at Peruvian airport",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/3000-tarantulas-hidden-inside-luggage-seized-at-peruvian-airport?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 12:56:10 +0000",
-          "section": ""
-        },
-        {
           "title": "Fairbanks Morse Defense Unveils AutoHook for Fully Autonomous Vessel Recovery at EURONAVAL 2026",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/fairbanks-morse-defense-unveils-autohook-for-fully-autonomous-vessel-recovery-at-euronaval-2026/",
           "source": "Naval News",
           "ts": "Thu, 05 Nov 2026 12:35:59 +0000",
-          "section": ""
-        },
-        {
-          "title": "Cristiano Ronaldo announces international retirement",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/cristiano-ronaldo-announces-international-retirement?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 12:32:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 12:25:28 +0000",
           "section": ""
         },
         {
@@ -658,13 +672,6 @@
           "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T11:52:00Z",
-          "section": ""
-        },
-        {
-          "title": "North Korea tells EU to 'mind its own business' on human rights",
-          "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T11:14:00Z",
           "section": ""
         },
         {
@@ -937,6 +944,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Gadi Eisenkot’s Coalition Challenge",
+          "url": "https://www.middleeastmonitor.com/20261105-gadi-eisenkots-coalition-challenge/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 05 Nov 2026 13:47:26 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli commentator links Republican election setback to declining support for Israel in US",
           "url": "https://www.middleeastmonitor.com/20261105-israeli-commentator-links-republican-election-setback-to-declining-support-for-israel-in-us/",
           "source": "Middle East Monitor",
@@ -948,13 +962,6 @@
           "url": "https://www.middleeastmonitor.com/20261105-thousands-rally-in-tehran-against-us-and-israel-mock-republican-election-setback/",
           "source": "Middle East Monitor",
           "ts": "Thu, 05 Nov 2026 12:30:19 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Ruwa Romman becomes first Palestinian-American elected to Georgia State Senate",
-          "url": "https://www.middleeastmonitor.com/20261105-ruwa-romman-becomes-first-palestinian-american-elected-to-georgia-state-senate/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 05 Nov 2026 12:22:18 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1047,20 +1054,6 @@
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
-          "title": "Despite ICE fears, voters in South, Southeast LA show up to cast ballots",
-          "url": "https://lapublicpress.org/2026/11/la-elections-2026-ice-voters-latino-ballot-compton-huntington-park-maywood/",
-          "source": "LA Public Press",
-          "ts": "Wed, 04 Nov 2026 02:32:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Here’s What Brought Some Immigrant Voters to the Polls — and the Challenges They Faced on Election Day",
-          "url": "https://borderlessmag.org/2026/11/03/heres-what-brought-some-immigrant-voters-to-the-polls-and-the-challenges-they-faced-on-election-day/",
-          "source": "Borderless Magazine NFP",
-          "ts": "Tue, 03 Nov 2026 23:24:18 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
           "title": "Federal Government Is Targeting Officials Who Are Trying to Hold ICE Accountable",
           "url": "https://theappeal.org/federal-government-is-targeting-officials-who-are-trying-to-hold-ice-accountable/",
           "source": "The Appeal",
@@ -1072,13 +1065,6 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/report-northeast-indiana-immigrants-paid-453-million-taxes-2024/",
           "source": "American Immigration Council",
           "ts": "Mon, 02 Nov 2026 19:37:50 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Chicago School Board Election 2026: The race in District 7b, Southwest Side",
-          "url": "https://borderlessmag.org/2026/11/02/chicago-school-board-election-2026-the-race-in-district-7b-southwest-side/",
-          "source": "Borderless Magazine NFP",
-          "ts": "Mon, 02 Nov 2026 16:00:52 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
