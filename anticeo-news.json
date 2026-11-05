@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:33:11.110467Z",
+  "generated_at": "2026-11-05T10:47:14.588624Z",
   "headline": {
     "title": "Hong Kong: Joshua Wong Gets Nearly 10 More Years in Prison",
     "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-nearly-10-more-years-in-prison",
           "source": "Human Rights Watch News",
           "ts": "Thu, 05 Nov 2026 11:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Scott Wiener set to become San Francisco’s first out gay member of Congress",
+          "url": "https://www.thepinknews.com/2026/11/05/scott-wiener-congress-2026/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 05 Nov 2026 10:32:04 +0000",
           "section": ""
         },
         {
@@ -40,7 +47,7 @@
           "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
           "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 10:04:55 +0000",
+          "ts": "Thu, 05 Nov 2026 10:04:56 +0000",
           "section": ""
         },
         {
@@ -54,7 +61,7 @@
           "title": "Midterm Election Losses Complicate Trump’s Options on Iran War",
           "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 05 Nov 2026 10:04:43 +0000",
+          "ts": "Thu, 05 Nov 2026 10:04:44 +0000",
           "section": ""
         },
         {
@@ -79,17 +86,10 @@
           "section": ""
         },
         {
-          "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don't hold your breath",
-          "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
+          "title": "As budgets tighten, people are breaking out their library cards",
+          "url": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
           "source": "NPR Topics: News",
           "ts": "Thu, 05 Nov 2026 05:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Big Brother’s Frankie says he ‘didn’t know if he was gay or bi’ amid backdoor exit",
-          "url": "https://www.thepinknews.com/2026/11/05/itv-big-brother-frankie-taber-bisexual-gay/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 05 Nov 2026 09:14:22 +0000",
           "section": ""
         },
         {
@@ -584,45 +584,45 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Poland arrests four over alleged spying for Russia",
+          "url": "https://www.dw.com/en/poland-arrests-four-over-alleged-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T10:39:00Z",
+          "section": ""
+        },
+        {
+          "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
+          "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 10:34:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "Finland court jails captain and crew member over Baltic cable sabotage",
+          "url": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-05T10:31:00Z",
+          "section": ""
+        },
+        {
+          "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+          "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 10:25:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
+          "url": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 05 Nov 2026 10:24:14 +0000",
+          "section": ""
+        },
+        {
           "title": "Several European flights receive bomb threats, some divert",
           "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-05T10:10:00Z",
-          "section": ""
-        },
-        {
-          "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
-          "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 10:04:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "A month after Yemen government offensive began, war of attrition takes hold",
-          "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 09:58:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-          "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 05 Nov 2026 09:57:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "South Korea tests Arctic shipping route amid Russia-West row",
-          "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T09:45:00Z",
-          "section": ""
-        },
-        {
-          "title": "Germany news: Deportations on the decline",
-          "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T09:31:00Z",
           "section": ""
         },
         {
