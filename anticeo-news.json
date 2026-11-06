@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-06T22:04:12.027762Z",
+  "generated_at": "2026-11-06T22:17:34.610620Z",
   "headline": {
-    "title": "La nueva cara de las estafas legales: abogados creados con IA",
-    "url": "https://documentedny.com/2026/11/06/abogados-creados-ia-estafas-legales/"
+    "title": "Anthony Constantino’s Post-Election Crashout",
+    "url": "https://www.motherjones.com/politics/2026/11/anthony-constantino-congress-new-york-trump-post-election-crashout/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Anthony Constantino’s Post-Election Crashout",
+          "url": "https://www.motherjones.com/politics/2026/11/anthony-constantino-congress-new-york-trump-post-election-crashout/",
+          "source": "Mother Jones",
+          "ts": "Fri, 06 Nov 2026 22:09:13 +0000",
+          "section": ""
+        },
+        {
+          "title": "Join Boyle Heights Beat at the Lineage Fire Community Organizing Conference",
+          "url": "https://thelalocal.org/resources/lineage-fire-community-organizing-conference/",
+          "source": "LA Local",
+          "ts": "Fri, 06 Nov 2026 22:04:23 +0000",
+          "section": ""
+        },
         {
           "title": "The economy propelled Democrats to victory. What can they actually do about it?",
           "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
@@ -16,17 +30,10 @@
           "section": ""
         },
         {
-          "title": "Black voter turnout helped contribute to major Democratic wins",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6030788/black-voter-turnout-helped-contribute-to-major-democratic-wins",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Nov 2026 16:53:07 -0500",
-          "section": ""
-        },
-        {
           "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
           "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Nov 2026 21:30:49 +0000",
+          "ts": "Fri, 06 Nov 2026 21:30:50 +0000",
           "section": ""
         },
         {
@@ -114,6 +121,13 @@
           "section": ""
         },
         {
+          "title": "The incoming class of U.S. senators is full of historic firsts",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 06 Nov 2026 15:21:13 -0500",
+          "section": ""
+        },
+        {
           "title": "Trump names Stephen Miller as new White House chief of staff",
           "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -139,13 +153,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/stephen-miller-named-white-house-chief-of-staff-1235654134/",
           "source": "Politics News",
           "ts": "Fri, 06 Nov 2026 19:07:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Cybertruck Is Dead",
-          "url": "https://www.motherjones.com/politics/2026/11/the-cybertruck-is-dead-tesla-elon-musk/",
-          "source": "Mother Jones",
-          "ts": "Fri, 06 Nov 2026 19:03:09 +0000",
           "section": ""
         },
         {
@@ -432,6 +439,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Nov 2026 21:56:43 GMT",
+          "section": ""
+        },
+        {
           "title": "Dems won the midterms. How should they work with Trump?",
           "url": "https://www.vox.com/america-actually/509818/dems-won-the-midterms-how-should-they-work-with-trump",
           "source": "Vox",
@@ -443,13 +457,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
           "source": "US news | The Guardian",
           "ts": "Fri, 06 Nov 2026 21:46:37 GMT",
-          "section": ""
-        },
-        {
-          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 21:45:59 GMT",
           "section": ""
         },
         {
@@ -792,6 +799,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Judge Tosses Trump’s Epstein Letter SLAPP Suit Against Murdoch, For Real This Time",
+          "url": "https://www.techdirt.com/2026/11/06/judge-tosses-trumps-epstein-letter-slapp-suit-against-murdoch-for-real-this-time/",
+          "source": "Techdirt",
+          "ts": "Fri, 06 Nov 2026 22:05:12 +0000",
+          "section": ""
+        },
+        {
           "title": "Republicans Are Desperate to Pretend They Never Supported the War With Iran",
           "url": "https://theintercept.com/2026/11/06/jd-vance-midterms-republicans-iran-war/",
           "source": "The Intercept",
@@ -838,13 +852,6 @@
           "url": "https://www.dropsitenews.com/p/iran-qeshm-island-hormuz-us-strikes-trump-midterms",
           "source": "Drop Site News",
           "ts": "Fri, 06 Nov 2026 18:01:24 GMT",
-          "section": ""
-        },
-        {
-          "title": "MAGA Fell For Its Own Hunter Biden Laptop Conspiracy Theory And Brought A Case Too Dumb To Survive A Probable Cause Hearing",
-          "url": "https://www.techdirt.com/2026/11/06/maga-fell-for-its-own-hunter-biden-laptop-conspiracy-theory-and-brought-a-case-too-dumb-to-survive-a-probable-cause-hearing/",
-          "source": "Techdirt",
-          "ts": "Fri, 06 Nov 2026 17:23:34 +0000",
           "section": ""
         },
         {
@@ -1030,13 +1037,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/houston-mayor-rolls-back-cooperation-ice-midterms-1235654184/",
           "source": "Politics News",
           "ts": "Fri, 06 Nov 2026 19:52:32 +0000",
-          "section": ""
-        },
-        {
-          "title": "Former clients of immigration lawyer Alexandra Lozano Kennedy can get free legal help in LA",
-          "url": "https://thelalocal.org/immigration/immigration-lawyer-alexandra-lozano-free-legal-help/",
-          "source": "LA Local",
-          "ts": "Fri, 06 Nov 2026 17:42:05 +0000",
           "section": ""
         },
         {
