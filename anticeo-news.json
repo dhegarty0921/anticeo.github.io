@@ -1,18 +1,39 @@
 {
-  "generated_at": "2026-11-06T21:47:22.662914Z",
+  "generated_at": "2026-11-06T22:04:12.027762Z",
   "headline": {
-    "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
-    "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html"
+    "title": "La nueva cara de las estafas legales: abogados creados con IA",
+    "url": "https://documentedny.com/2026/11/06/abogados-creados-ia-estafas-legales/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 06 Nov 2026 16:53:10 -0500",
+          "section": ""
+        },
+        {
+          "title": "Black voter turnout helped contribute to major Democratic wins",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6030788/black-voter-turnout-helped-contribute-to-major-democratic-wins",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 06 Nov 2026 16:53:07 -0500",
+          "section": ""
+        },
+        {
           "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang",
           "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 06 Nov 2026 21:30:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Fri, 06 Nov 2026 21:26:56 GMT",
           "section": ""
         },
         {
@@ -93,13 +114,6 @@
           "section": ""
         },
         {
-          "title": "The incoming class of U.S. senators is full of historic firsts",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Nov 2026 15:21:13 -0500",
-          "section": ""
-        },
-        {
           "title": "Trump names Stephen Miller as new White House chief of staff",
           "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -111,13 +125,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/hell-on-earth-stephen-miller-is-trumps-new-chief-of-staff/",
           "source": "Mother Jones",
           "ts": "Fri, 06 Nov 2026 19:52:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Nov 2026 14:50:14 -0500",
           "section": ""
         },
         {
@@ -160,13 +167,6 @@
           "url": "https://www.hrw.org/news/2026/11/06/tanzanian-court-convicts-opposition-leader-of-incitement",
           "source": "Human Rights Watch News",
           "ts": "Fri, 06 Nov 2026 13:25:07 -0500",
-          "section": ""
-        },
-        {
-          "title": "These are the federal charges Thomas Markle faces",
-          "url": "https://www.bbc.co.uk/news/videos/crje5515kv0xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Fri, 06 Nov 2026 18:13:52 GMT",
           "section": ""
         },
         {
@@ -432,6 +432,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Dems won the midterms. How should they work with Trump?",
+          "url": "https://www.vox.com/america-actually/509818/dems-won-the-midterms-how-should-they-work-with-trump",
+          "source": "Vox",
+          "ts": "2026-11-06T16:55:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Nov 2026 21:46:37 GMT",
+          "section": ""
+        },
+        {
+          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Nov 2026 21:45:59 GMT",
+          "section": ""
+        },
+        {
           "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
           "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
           "source": "US news | The Guardian",
@@ -439,24 +460,10 @@
           "section": ""
         },
         {
-          "title": "When Sexual Assault Is Schtick",
+          "title": "A Monster of His Time",
           "url": "https://www.theatlantic.com/culture/2026/11/russell-brand-sexual-assault-guilty/689330/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-06T16:18:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Several Democrats renew calls for datacenter pauses after blue wave",
-          "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 21:14:46 GMT",
-          "section": ""
-        },
-        {
-          "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
-          "url": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 21:11:37 GMT",
           "section": ""
         },
         {
@@ -516,13 +523,6 @@
           "section": ""
         },
         {
-          "title": "Convenience is a hot commodity. Here’s how to decide when it’s actually worth it.",
-          "url": "https://www.vox.com/advice/508283/gabe-bullard-questions-to-ask-convenience",
-          "source": "Vox",
-          "ts": "2026-11-06T07:30:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Tuesdays Gone",
           "url": "https://www.nationalreview.com/2026/11/tuesdays-gone/",
           "source": "National Review",
@@ -563,6 +563,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 06 Nov 2026 21:37:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Operational F-15EXs Have Started Flying With Conformal Fuel Tanks",
           "url": "https://www.twz.com/air/operational-f-15exs-have-started-flying-with-conformal-fuel-tanks",
           "source": "TWZ",
@@ -598,17 +605,17 @@
           "section": ""
         },
         {
+          "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
+          "url": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
+          "source": "Defense One - All Content",
+          "ts": "Fri, 06 Nov 2026 16:00:00 -0500",
+          "section": ""
+        },
+        {
           "title": "Tankers carrying Russian diesel to the US change course",
           "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-06T20:55:00Z",
-          "section": ""
-        },
-        {
-          "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 06 Nov 2026 20:48:25 +0000",
           "section": ""
         },
         {
@@ -721,13 +728,6 @@
           "url": "https://warontherocks.com/can-washington-and-china-build-confidence-around-ai-and-stability/",
           "source": "War on the Rocks",
           "ts": "Fri, 06 Nov 2026 08:30:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Defense Business Brief: The DIB vs. 2027’s Democrat-led Congress",
-          "url": "https://www.defenseone.com/business/2026/11/defense-business-brief-dib-vs-2027s-democrat-led-congress/417089/",
-          "source": "Defense One - All Content",
-          "ts": "Fri, 06 Nov 2026 02:41:44 -0500",
           "section": ""
         },
         {
@@ -1019,6 +1019,13 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
+          "title": "La nueva cara de las estafas legales: abogados creados con IA",
+          "url": "https://documentedny.com/2026/11/06/abogados-creados-ia-estafas-legales/",
+          "source": "Documented",
+          "ts": "Fri, 06 Nov 2026 21:59:22 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
           "title": "Houston Mayor Limits Cooperation With ICE: ‘Elections Matter’",
           "url": "https://www.rollingstone.com/politics/politics-news/houston-mayor-rolls-back-cooperation-ice-midterms-1235654184/",
           "source": "Politics News",
@@ -1044,13 +1051,6 @@
           "url": "https://documentedny.com/2026/11/06/carga-publica-donde-encontrar-ayuda-sin-poner-en-riesgo-tu-green-card/",
           "source": "Documented",
           "ts": "Fri, 06 Nov 2026 12:00:00 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Immigration News Today: ICE Told to Cancel All Election Day Immigration Operations",
-          "url": "https://documentedny.com/2026/11/06/ice-election-day-operations/",
-          "source": "Documented",
-          "ts": "Fri, 06 Nov 2026 11:00:00 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
