@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-06T23:17:42.239259Z",
+  "generated_at": "2026-11-06T23:32:47.059885Z",
   "headline": {
-    "title": "A Preposterous, Overpriced, Beautiful Disaster of a Car",
-    "url": "https://www.theatlantic.com/technology/2026/11/rip-cybertruck/689340/?utm_source=feed"
+    "title": "Democrats Took Over Texas. What Now?",
+    "url": "https://www.nytimes.com/2026/11/06/us/politics/texas-democrats-takeover-what-now.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Democrats Took Over Texas. What Now?",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/texas-democrats-takeover-what-now.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 06 Nov 2026 23:27:20 +0000",
+          "section": ""
+        },
         {
           "title": "California says 6,500 homes near shuttered Exide plant are 'clean.' But soil samples raise questions",
           "url": "https://www.latimes.com/california/story/2026-11-06/california-exide-clean-up",
@@ -69,13 +76,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Fri, 06 Nov 2026 21:26:56 GMT",
-          "section": ""
-        },
-        {
-          "title": "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
-          "url": "https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 06 Nov 2026 21:05:42 +0000",
           "section": ""
         },
         {
@@ -432,10 +432,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump doubles down on everything that lost him the midterms",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/509894/trump-stephen-miller-chief-of-staff",
+          "source": "Vox",
+          "ts": "2026-11-06T18:20:00-05:00",
+          "section": ""
+        },
+        {
           "title": "A Preposterous, Overpriced, Beautiful Disaster of a Car",
           "url": "https://www.theatlantic.com/technology/2026/11/rip-cybertruck/689340/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-06T18:16:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Nov 2026 23:14:52 GMT",
           "section": ""
         },
         {
@@ -457,13 +471,6 @@
           "url": "https://religionnews.com/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
           "source": "RNS",
           "ts": "Fri, 06 Nov 2026 22:56:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 22:52:02 GMT",
           "section": ""
         },
         {
@@ -523,13 +530,6 @@
           "section": ""
         },
         {
-          "title": "Los Angeles is about to test a new kind of housing politics",
-          "url": "https://www.vox.com/future-perfect/509736/los-angeles-nithya-raman-karen-bass-housing",
-          "source": "Vox",
-          "ts": "2026-11-06T13:15:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Tuesdays Gone",
           "url": "https://www.nationalreview.com/2026/11/tuesdays-gone/",
           "source": "National Review",
@@ -569,6 +569,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Paraguay Senate dismisses President Santiago Pena over bank crisis",
+          "url": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-06T23:23:00Z",
+          "section": ""
+        },
         {
           "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
@@ -644,13 +651,6 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
           "source": "News - Army Times",
           "ts": "Fri, 06 Nov 2026 20:43:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "Stephen Miller named by Trump as new White House chief of staff",
-          "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-06T20:41:00Z",
           "section": ""
         },
         {
