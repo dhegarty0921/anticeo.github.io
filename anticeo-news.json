@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T04:47:59.249310Z",
+  "generated_at": "2026-11-06T05:04:41.051793Z",
   "headline": {
-    "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+    "title": "Ex-lawmaker jailed in Macau's first national security trial",
+    "url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -125,6 +125,13 @@
           "url": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 05 Nov 2026 18:52:48 -0500",
+          "section": ""
+        },
+        {
+          "title": "What’s behind Melania Trump’s diplomatic role in the Russia-Ukraine war? — and more UCLA media",
+          "url": "https://newsroom.ucla.edu/in-the-news/whats-behind-melania-trumps-diplomatic-role-in-the-russia-ukraine-war",
+          "source": "UCLA",
+          "ts": "Thu, 05 Nov 2026 23:43:00 GMT",
           "section": ""
         },
         {
@@ -296,13 +303,6 @@
           "section": ""
         },
         {
-          "title": "Four investigations Democrats could launch after winning control of Congress - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16TXJSVDUwNkhEVXc2RDRtVXRUU09ZVmdmUGdGcXgtNnRJRFBjV1FqQTlkX1BCQ2p6TUIxbzBzQ0JYTDVHMEMwMm52bk1DMEdZeXo0ZERZVFFjckE?oc=5",
-          "source": "\"\"Jared Kushner\" investigation\" - Google News",
-          "ts": "Thu, 05 Nov 2026 08:45:07 GMT",
-          "section": ""
-        },
-        {
           "title": "Iranian Strength Is What Killed the Republicans, by Caitlin Johnstone",
           "url": "https://www.unz.com/cjohnstone/iranian-strength-is-what-killed-the-republicans/",
           "source": "The Unz Review:",
@@ -408,6 +408,13 @@
           "section": ""
         },
         {
+          "title": "‘Lost in the System’: What It’s Like to Be Stuck for Months in a Mississippi Jail",
+          "url": "https://www.themarshallproject.org/2026/11/03/jail-mississippi-trapped-inside-hinds-county",
+          "source": "The Marshall Project",
+          "ts": "Tue, 03 Nov 2026 06:00:00 -0500",
+          "section": ""
+        },
+        {
           "title": "A Conversation with an Election Expert: Breaking Down This Year’s Election Process",
           "url": "https://www.aclu.org/news/voting-rights/a-conversation-with-an-election-expert-breaking-down-this-years-election-process",
           "source": "Posts | American Civil Liberties Union",
@@ -427,17 +434,17 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
-          "title": "Justice Department suit to stop Alaska certifying its Senate result: 5 Nov 2026",
-          "url": "https://publictrusttracker.org/case/elx-013-justice-department-suit-to-stop-alaska-certifying-its-senate/",
+          "title": "GEO Group: ICE contracts, donations and a former executive at the top: 5 Nov 2026",
+          "url": "https://publictrusttracker.org/case/inv-044-geo-group-ice-contracts-donations-and-a-former-executive-at/",
           "source": "Public Trust Tracker",
           "ts": "2026-11-05T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         },
         {
-          "title": "Attempted removal of Fed Governor Lisa Cook: 4 Nov 2026",
-          "url": "https://publictrusttracker.org/case/pwr-009-attempted-removal-of-fed-governor-lisa-cook/",
+          "title": "East Potomac golf course: park-fee money and a court inquiry into government candor: 5 Nov 2026",
+          "url": "https://publictrusttracker.org/case/inv-070-east-potomac-golf-course-park-fee-money-and-a-court-inquiry/",
           "source": "Public Trust Tracker",
-          "ts": "2026-11-04T00:00:00Z",
+          "ts": "2026-11-05T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         }
       ]
@@ -449,7 +456,7 @@
           "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
           "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 04:35:07 GMT",
+          "ts": "Fri, 06 Nov 2026 04:44:15 GMT",
           "section": ""
         },
         {
@@ -591,6 +598,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ex-lawmaker jailed in Macau's first national security trial",
+          "url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-06T04:54:00Z",
+          "section": ""
+        },
+        {
+          "title": "Trump issues proclamation declaring Oval Office national monument",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 06 Nov 2026 04:48:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
           "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -602,13 +623,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 06 Nov 2026 04:29:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "Building wind turbines out of parts found in Gaza’s rubble",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 06 Nov 2026 04:20:22 +0000",
           "section": ""
         },
         {
@@ -682,24 +696,10 @@
           "section": ""
         },
         {
-          "title": "Naval Group Unveils a Larger, More Powerful FDI Frigate",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-unveils-a-larger-more-powerful-fdi-frigate/",
-          "source": "Naval News",
-          "ts": "Thu, 05 Nov 2026 22:20:21 +0000",
-          "section": ""
-        },
-        {
           "title": "The war on Iran is stripping the western Pacific of US naval forces",
           "url": "https://www.defenseone.com/threats/2026/11/war-iran-stripping-western-pacific-us-naval-forces/417079/",
           "source": "Defense One - All Content",
           "ts": "Thu, 05 Nov 2026 16:45:20 -0500",
-          "section": ""
-        },
-        {
-          "title": "Austrian tycoon Rene Benko sentenced to 2 years in prison for fraud",
-          "url": "https://www.dw.com/en/austrian-tycoon-rene-benko-sentenced-to-2-years-in-prison-for-fraud/a-79870056?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-05T20:38:00Z",
           "section": ""
         },
         {
@@ -721,20 +721,6 @@
           "url": "https://www.defenseone.com/policy/2026/11/navy-marines-amphibious-ships-fix/417070/",
           "source": "Defense One - All Content",
           "ts": "Thu, 05 Nov 2026 13:35:58 -0500",
-          "section": ""
-        },
-        {
-          "title": "RTsys Group Strengthens Its Presence in Canada with the Sale of Several SEMA Training Targets",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rtsys-group-strengthens-its-presence-in-canada-with-the-sale-of-several-sema-training-targets/",
-          "source": "Naval News",
-          "ts": "Thu, 05 Nov 2026 15:49:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Submarine ‘Isaac Peral’ sinks the old patrol vessel ‘Infanta Elena’ during the live-fire exercise SINKEX-26",
-          "url": "https://www.navalnews.com/naval-news/2026/11/submarine-isaac-peral-sinks-the-old-patrol-vessel-infanta-elena-during-the-live-fire-exercise-sinkex-26/",
-          "source": "Naval News",
-          "ts": "Thu, 05 Nov 2026 14:51:46 +0000",
           "section": ""
         },
         {
