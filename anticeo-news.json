@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T22:47:23.954485Z",
+  "generated_at": "2026-11-06T23:04:03.114614Z",
   "headline": {
-    "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-    "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation"
+    "title": "Inglewood’s mayoral race is heading to a runoff. Here’s what that means.",
+    "url": "https://thelalocal.org/government/election/inglewood-election-runoff-gray-butts/"
   },
   "sections": [
     {
@@ -146,13 +146,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/stephen-miller-named-white-house-chief-of-staff-1235654134/",
           "source": "Politics News",
           "ts": "Fri, 06 Nov 2026 19:07:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "‘Fresher, healthier’: State invests in over a hundred new trees for Koreatown residents",
-          "url": "https://thelalocal.org/neighborhoods/koreatown/koreatown-state-invests-trees-climate-resiliency-november-2026/",
-          "source": "LA Local",
-          "ts": "Fri, 06 Nov 2026 19:00:40 +0000",
           "section": ""
         },
         {
@@ -439,17 +432,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-          "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 22:35:09 GMT",
+          "title": "Inglewood’s mayoral race is heading to a runoff. Here’s what that means.",
+          "url": "https://thelalocal.org/government/election/inglewood-election-runoff-gray-butts/",
+          "source": "LA Local",
+          "ts": "Fri, 06 Nov 2026 23:00:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
+          "url": "https://religionnews.com/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
+          "source": "RNS",
+          "ts": "Fri, 06 Nov 2026 22:56:53 +0000",
           "section": ""
         },
         {
           "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 06 Nov 2026 22:30:07 GMT",
+          "ts": "Fri, 06 Nov 2026 22:52:02 GMT",
+          "section": ""
+        },
+        {
+          "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
+          "url": "https://religionnews.com/2026/11/06/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
+          "source": "RNS",
+          "ts": "Fri, 06 Nov 2026 22:51:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 06 Nov 2026 22:35:09 GMT",
           "section": ""
         },
         {
@@ -460,17 +474,17 @@
           "section": ""
         },
         {
-          "title": "Pope Leo XIV calls for universal access to health care in Uruguay",
-          "url": "https://religionnews.com/2026/11/06/pope-leo-xiv-calls-for-universal-access-to-health-care-in-uruguay/",
-          "source": "RNS",
-          "ts": "Fri, 06 Nov 2026 22:17:59 +0000",
-          "section": ""
-        },
-        {
-          "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+          "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
           "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
           "source": "US news | The Guardian",
           "ts": "Fri, 06 Nov 2026 22:09:01 GMT",
+          "section": ""
+        },
+        {
+          "title": "Dems won the midterms. How should they work with Trump?",
+          "url": "https://www.vox.com/america-actually/509818/dems-won-the-midterms-how-should-they-work-with-trump",
+          "source": "Vox",
+          "ts": "2026-11-06T16:55:00-05:00",
           "section": ""
         },
         {
@@ -502,13 +516,6 @@
           "section": ""
         },
         {
-          "title": "Secular voters are increasing. Can ‘the nones’ become a political force?",
-          "url": "https://religionnews.com/2026/11/06/secular-voters-are-increasing-can-the-nones-become-a-political-force/",
-          "source": "RNS",
-          "ts": "Fri, 06 Nov 2026 20:38:07 +0000",
-          "section": ""
-        },
-        {
           "title": "Los Angeles is about to test a new kind of housing politics",
           "url": "https://www.vox.com/future-perfect/509736/los-angeles-nithya-raman-karen-bass-housing",
           "source": "Vox",
@@ -520,13 +527,6 @@
           "url": "https://www.vox.com/politics/509733/cruelty-decency-midterms-maga-trump-vivek-trans-bullying-talarico-hamilton",
           "source": "Vox",
           "ts": "2026-11-06T12:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Convenience is a hot commodity. Here’s how to decide when it’s actually worth it.",
-          "url": "https://www.vox.com/advice/508283/gabe-bullard-questions-to-ask-convenience",
-          "source": "Vox",
-          "ts": "2026-11-06T07:30:00-05:00",
           "section": ""
         },
         {
@@ -569,6 +569,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Pope Leo arrives in Uruguay at start of South America tour",
+          "url": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-06T22:54:00Z",
+          "section": ""
+        },
         {
           "title": "Palestinian couples tie the knot in mass wedding in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
@@ -637,13 +644,6 @@
           "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-06T20:41:00Z",
-          "section": ""
-        },
-        {
-          "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-          "url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-06T20:23:00Z",
           "section": ""
         },
         {
