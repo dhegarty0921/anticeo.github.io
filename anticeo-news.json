@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T15:04:03.955393Z",
+  "generated_at": "2026-11-07T15:17:46.290611Z",
   "headline": {
-    "title": "A promising new medicine against heart disease fails unexpectedly",
-    "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack"
+    "title": "Journalism and AI: Who owns the news?",
+    "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -69,6 +69,13 @@
           "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Sat, 07 Nov 2026 13:02:21 GMT",
+          "section": ""
+        },
+        {
+          "title": "Great America, the Bay Area's premier theme park, is closing for good. Here's when",
+          "url": "https://www.latimes.com/california/story/2026-11-07/californias-great-america-theme-park-is-closing-for-good",
+          "source": "California",
+          "ts": "Sat, 07 Nov 2026 13:00:00 GMT",
           "section": ""
         },
         {
@@ -371,13 +378,6 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
-          "title": "L.A. mayors have long promised to end homelessness. Can Raman break the cycle of failure?",
-          "url": "https://www.latimes.com/california/story/2026-11-07/can-raman-break-la-mayors-cycle-of-failure-on-homelessness",
-          "source": "California",
-          "ts": "Sat, 07 Nov 2026 13:00:00 GMT",
-          "section": ""
-        },
-        {
           "title": "Federal pressure on California over alleged noncitizen voters: 6 Nov 2026",
           "url": "https://publictrusttracker.org/case/elx-005-federal-pressure-on-california-over-alleged-noncitizen/",
           "source": "Public Trust Tracker",
@@ -397,6 +397,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Nov 2026 15:00:14 GMT",
+          "section": ""
+        },
+        {
           "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
           "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
           "source": "US news | The Guardian",
@@ -413,13 +420,6 @@
         {
           "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
           "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 07 Nov 2026 13:00:12 GMT",
-          "section": ""
-        },
-        {
-          "title": "Not a pretty sight: Trump’s ‘beautiful’ Republican men flop at midterms",
-          "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-republican-candidates-struggled-midterm-election-results",
           "source": "US news | The Guardian",
           "ts": "Sat, 07 Nov 2026 13:00:12 GMT",
           "section": ""
@@ -528,6 +528,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Journalism and AI: Who owns the news?",
+          "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-07T15:14:00Z",
+          "section": ""
+        },
+        {
           "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
           "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -553,13 +560,6 @@
           "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-07T14:15:00Z",
-          "section": ""
-        },
-        {
-          "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
-          "url": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-07T14:07:00Z",
           "section": ""
         },
         {
@@ -958,13 +958,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Indefensible Delights | Adam Thirlwell - The New York Review of Books",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTkzRXdIWXR0Z25WWVpzelFWZjA1ZVQxalk1Z05lSDhHZGI4UFFiNjhrYUswUFdSYk1DY2F1ZEh1UFpjc0ozU2llNU5YUEFJM3lIVW9zZFFYaGZYMl8yRDhiaWJoMWVTTGlWeFh3LU92NmVhLXFYeHphdmc0SFBkSEVTdlItTzNoWWVqX1FTb2tsdkw5LUwwa3Nnd1hNclVLc01LZnhNdkl2Ny1JdG9PMWt3OA?oc=5",
-          "source": "Wallace Shawn (NYRB)",
-          "ts": "Fri, 06 Nov 2026 10:33:13 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Episode 376: From Jordan to Gaza: The Human Cost of War - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxMkNraG5HbldRMkx6VXVpdWdhS2czbDlZclNQVnJWcXZUYjRRUjJQdEI1ejFvaVdaX3NGTmwtb0tQQzl4aWRnTkNFcVY?oc=5",
           "source": "CODEPINK",
@@ -983,6 +976,13 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTFMeVZ1bHBMVlZmcFFYdEU1YWxDaXozQjlJTTNxV0FXTm5zdERpSi1oNF9VYUVfOXJGY0ppT0FZQTB3V0g4ZEJxWHVFa0prb1VoaEMtaEhWaXZnTGFadk5ydWtMdzgtOUl0TE5yeGJZZkY1RWNoQi0tblpMbmpNSHJNMTFmSjRLajFGUUozUFBQZ0pzVm5uU3E4ajBKeWpka1JwMHFEWU5Ua0J6eXp1cUdXNy1MaWVsaXNnVklGM1dRSnQ5WS1KaERWcWc1RVdfV2dscmRUdFdydHFGaS1sSktNZkJIdFR3SGtmUVhuOFVxbEtqWkRQTHY0R0hadw?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Thu, 05 Nov 2026 01:39:00 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Indefensible Delights | Adam Thirlwell - The New York Review of Books",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTkzRXdIWXR0Z25WWVpzelFWZjA1ZVQxalk1Z05lSDhHZGI4UFFiNjhrYUswUFdSYk1DY2F1ZEh1UFpjc0ozU2llNU5YUEFJM3lIVW9zZFFYaGZYMl8yRDhiaWJoMWVTTGlWeFh3LU92NmVhLXFYeHphdmc0SFBkSEVTdlItTzNoWWVqX1FTb2tsdkw5LUwwa3Nnd1hNclVLc01LZnhNdkl2Ny1JdG9PMWt3OA?oc=5",
+          "source": "Wallace Shawn (NYRB)",
+          "ts": "Wed, 04 Nov 2026 17:52:11 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
