@@ -1,32 +1,25 @@
 {
-  "generated_at": "2026-11-07T19:47:54.151303Z",
+  "generated_at": "2026-11-07T20:03:59.884999Z",
   "headline": {
-    "title": "Trump Just Offered the Press Secretary Gig to UFC’s Dana White",
-    "url": "https://www.motherjones.com/politics/2026/11/trump-press-secretary-dana-white-ufc/"
+    "title": "This Week In Techdirt History: November 1st – 7th",
+    "url": "https://www.techdirt.com/2026/11/07/this-week-in-techdirt-history-november-1st-7th/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sat, 07 Nov 2026 19:52:23 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump Just Offered the Press Secretary Gig to UFC’s Dana White",
           "url": "https://www.motherjones.com/politics/2026/11/trump-press-secretary-dana-white-ufc/",
           "source": "Mother Jones",
           "ts": "Sat, 07 Nov 2026 19:45:17 +0000",
-          "section": ""
-        },
-        {
-          "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-          "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sat, 07 Nov 2026 19:42:46 GMT",
-          "section": ""
-        },
-        {
-          "title": "What we know about Krakow mass shooting so far",
-          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sat, 07 Nov 2026 19:40:10 GMT",
           "section": ""
         },
         {
@@ -153,6 +146,13 @@
           "url": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
           "source": "ProPublica",
           "ts": "Sat, 07 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sat, 07 Nov 2026 07:27:44 GMT",
           "section": ""
         },
         {
@@ -542,31 +542,45 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Malaysian king warns against defying house arrest order for ex-PM Najib",
-          "url": "https://www.aljazeera.com/news/2026/11/7/malaysian-king-warns-against-defying-house-arrest-order-for-ex-pm-najib?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 19:24:21 +0000",
-          "section": ""
-        },
-        {
-          "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 19:10:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
-          "url": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 19:06:31 +0000",
-          "section": ""
-        },
-        {
-          "title": "Armenia's selective prosecution: A threat to EU relations?",
-          "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-rdf",
+          "title": "Israeli president picks Gadi Eisenkot to form government: Statement",
+          "url": "https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government-statement/a-79888288?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
-          "ts": "2026-11-07T18:36:00Z",
+          "ts": "2026-11-07T19:56:00Z",
+          "section": ""
+        },
+        {
+          "title": "Masked protesters set off firecrackers and block roads in Albania",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 19:49:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump offers White House press secretary role to Dana White",
+          "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-07T19:46:00Z",
+          "section": ""
+        },
+        {
+          "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 19:42:46 +0000",
+          "section": ""
+        },
+        {
+          "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+          "url": "https://www.aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 19:29:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "France sees new round of Yellow Vest, student protests",
+          "url": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-07T19:28:00Z",
           "section": ""
         },
         {
@@ -577,25 +591,11 @@
           "section": ""
         },
         {
-          "title": "South Africa's ANC facing worst-ever performance in local elections",
-          "url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-07T18:07:00Z",
-          "section": ""
-        },
-        {
           "title": "Could Venezuela Become the Pillar of the New Petrodollar?",
           "url": "https://www.globalresearch.ca/could-venezuela-become-the-pillar-of-the-new-petrodollar/5945373",
           "source": "Global Research",
           "ts": "Sat, 07 Nov 2026 17:40:52 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-          "url": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-07T16:26:00Z",
-          "section": ""
         },
         {
           "title": "“The Great Reset”. The World Is Falling Apart But the Show Must Go On… Peter Koenig",
@@ -785,6 +785,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "This Week In Techdirt History: November 1st – 7th",
+          "url": "https://www.techdirt.com/2026/11/07/this-week-in-techdirt-history-november-1st-7th/",
+          "source": "Techdirt",
+          "ts": "Sat, 07 Nov 2026 20:00:00 +0000",
+          "section": ""
+        },
+        {
           "title": "In Jericho, Israeli Settlers Violently Seize and Occupy Palestinian Homes",
           "url": "https://www.dropsitenews.com/p/jericho-israeli-settlers-palestinians-takeover-soldiers",
           "source": "Drop Site News",
@@ -810,13 +817,6 @@
           "url": "https://www.techdirt.com/2026/11/06/resisting-the-menace-of-federal-data-consolidation/",
           "source": "Techdirt",
           "ts": "Fri, 06 Nov 2026 23:35:07 +0000",
-          "section": ""
-        },
-        {
-          "title": "Judge Tosses Trump’s Epstein Letter SLAPP Suit Against Murdoch, For Real This Time",
-          "url": "https://www.techdirt.com/2026/11/06/judge-tosses-trumps-epstein-letter-slapp-suit-against-murdoch-for-real-this-time/",
-          "source": "Techdirt",
-          "ts": "Fri, 06 Nov 2026 22:05:12 +0000",
           "section": ""
         },
         {
