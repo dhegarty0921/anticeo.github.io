@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T20:32:59.934547Z",
+  "generated_at": "2026-11-07T20:47:44.834745Z",
   "headline": {
-    "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
-    "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html"
+    "title": "Captain Picard Was Wrong About AI Personhood",
+    "url": "https://religionnews.com/2026/11/07/captain-picard-was-wrong-about-ai-personhood/"
   },
   "sections": [
     {
@@ -12,7 +12,7 @@
           "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
           "url": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 07 Nov 2026 20:26:05 +0000",
+          "ts": "Sat, 07 Nov 2026 20:35:29 +0000",
           "section": ""
         },
         {
@@ -404,6 +404,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Captain Picard Was Wrong About AI Personhood",
+          "url": "https://religionnews.com/2026/11/07/captain-picard-was-wrong-about-ai-personhood/",
+          "source": "RNS",
+          "ts": "Sat, 07 Nov 2026 20:39:16 +0000",
+          "section": ""
+        },
+        {
           "title": "In Uruguay, Pope Leo XIV greets Latin America’s most secular country",
           "url": "https://religionnews.com/2026/11/07/in-uruguay-pope-leo-xiv-greets-latin-americas-most-secular-country/",
           "source": "RNS",
@@ -502,13 +509,6 @@
           "section": ""
         },
         {
-          "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
-          "url": "https://religionnews.com/2026/11/06/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
-          "source": "RNS",
-          "ts": "Fri, 06 Nov 2026 22:51:58 +0000",
-          "section": ""
-        },
-        {
           "title": "Three Reasons Billy Graham Captured the World’s Attention",
           "url": "https://www.christianitytoday.com/2026/11/three-reasons-billy-graham-captured-worlds-attention/",
           "source": "Christianity Today",
@@ -535,6 +535,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 20:26:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "More than 140,000 rally as new protests against rising costs sweep France",
+          "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 20:12:22 +0000",
+          "section": ""
+        },
+        {
           "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -542,24 +556,10 @@
           "section": ""
         },
         {
-          "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 20:08:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israeli president picks Gadi Eisenkot to form government: Statement",
-          "url": "https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government-statement/a-79888288?maca=en-rss-en-all-1573-rdf",
+          "title": "Israeli president picks Gadi Eisenkot to form government",
+          "url": "https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government/a-79888288?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-07T19:56:00Z",
-          "section": ""
-        },
-        {
-          "title": "Masked protesters set off firecrackers and block roads in Albania",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 19:49:19 +0000",
           "section": ""
         },
         {
