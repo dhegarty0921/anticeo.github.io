@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T01:17:46.026479Z",
+  "generated_at": "2026-11-07T01:33:48.350368Z",
   "headline": {
-    "title": "18-year-old arrested in deadly Moss Landing shooting",
-    "url": "https://www.latimes.com/california/story/2026-11-06/18-year-old-arrested-in-deadly-moss-landing-shooting"
+    "title": "After days of possible ICE sightings, masked agents detain person in Koreatown",
+    "url": "https://thelalocal.org/neighborhoods/koreatown/after-days-of-possible-ice-sightings-masked-agents-detain-person-in-koreatown/"
   },
   "sections": [
     {
@@ -439,17 +439,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Nov 2026 01:08:08 GMT",
+          "section": ""
+        },
+        {
           "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
           "url": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
           "source": "US news | The Guardian",
           "ts": "Sat, 07 Nov 2026 01:04:52 GMT",
-          "section": ""
-        },
-        {
-          "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 07 Nov 2026 00:59:10 GMT",
           "section": ""
         },
         {
@@ -485,13 +485,6 @@
           "url": "https://www.vox.com/today-explained-newsletter/509815/jd-vance-2028-maga-midterms-stephen-miller",
           "source": "Vox",
           "ts": "2026-11-06T18:10:23-05:00",
-          "section": ""
-        },
-        {
-          "title": "Inglewood’s mayoral race is heading to a runoff. Here’s what that means.",
-          "url": "https://thelalocal.org/government/election/inglewood-election-runoff-gray-butts/",
-          "source": "LA Local",
-          "ts": "Fri, 06 Nov 2026 23:00:35 +0000",
           "section": ""
         },
         {
@@ -577,6 +570,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 00:55:51 +0000",
+          "section": ""
+        },
+        {
           "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
           "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -603,13 +603,6 @@
           "source": "Global Research",
           "ts": "Sat, 07 Nov 2026 00:17:29 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 00:00:00 +0000",
-          "section": ""
         },
         {
           "title": "Paraguay Senate dismisses President Santiago Pena over bank crisis",
@@ -1032,6 +1025,13 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "After days of possible ICE sightings, masked agents detain person in Koreatown",
+          "url": "https://thelalocal.org/neighborhoods/koreatown/after-days-of-possible-ice-sightings-masked-agents-detain-person-in-koreatown/",
+          "source": "LA Local",
+          "ts": "Sat, 07 Nov 2026 01:22:48 +0000",
+          "section": ""
+        },
         {
           "title": "La nueva cara de las estafas legales: abogados creados con IA",
           "url": "https://documentedny.com/2026/11/06/abogados-creados-ia-estafas-legales/",
