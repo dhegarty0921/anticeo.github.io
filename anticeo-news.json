@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-07T11:47:40.997938Z",
+  "generated_at": "2026-11-07T12:05:13.159662Z",
   "headline": {
-    "title": "US offers up to $20M reward for information on Iran’s nuclear program: CENTCOM",
-    "url": "https://www.middleeastmonitor.com/20261107-us-offers-up-to-20m-reward-for-information-on-irans-nuclear-program-centcom/"
+    "title": "You’re going to hate shopping in an AI economy",
+    "url": "https://www.vox.com/podcasts/508767/ai-agents-rage-economy-meta-muse"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+          "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+          "source": "NPR Topics: News",
+          "ts": "Sat, 07 Nov 2026 06:50:21 -0500",
+          "section": ""
+        },
         {
           "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
           "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
@@ -118,13 +125,6 @@
           "url": "https://newsroom.ucla.edu/in-the-news/how-will-mayor-elect-nithya-raman-tackle-los-angeles-climate-challenges",
           "source": "UCLA",
           "ts": "Fri, 06 Nov 2026 22:33:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "What to know about Gina Hinojosa, Texas' first Latina governor-elect",
-          "url": "https://www.npr.org/2026/11/06/nx-s1-6030822/what-to-know-about-gina-hinojosa-texas-first-latina-governor-elect",
-          "source": "NPR Topics: Politics",
-          "ts": "Fri, 06 Nov 2026 17:26:00 -0500",
           "section": ""
         },
         {
@@ -411,24 +411,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "You’re going to hate shopping in an AI economy",
+          "url": "https://www.vox.com/podcasts/508767/ai-agents-rage-economy-meta-muse",
+          "source": "Vox",
+          "ts": "2026-11-07T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "This election’s biggest AI story isn’t about data centers",
+          "url": "https://www.vox.com/future-perfect/509829/data-centers-ai-midterm-election-congress",
+          "source": "Vox",
+          "ts": "2026-11-07T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "The Pentagon’s Best Space Weapon Isn’t a Program — It’s a Prize",
+          "url": "https://www.nationalreview.com/2026/11/the-pentagons-best-space-weapon-isnt-a-program-its-a-prize/",
+          "source": "National Review",
+          "ts": "Sat, 07 Nov 2026 11:30:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Lest We Forget the Great War",
+          "url": "https://www.nationalreview.com/2026/11/lest-we-forget-the-great-war/",
+          "source": "National Review",
+          "ts": "Sat, 07 Nov 2026 11:30:38 +0000",
+          "section": ""
+        },
+        {
           "title": "The GOP’s Midterm Annihilation Comes Down to One Factor",
           "url": "https://www.nationalreview.com/2026/11/the-gops-midterm-annihilation-comes-down-to-one-factor/",
           "source": "National Review",
           "ts": "Sat, 07 Nov 2026 11:30:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Equity Epidemic Is Hurting America’s Students",
-          "url": "https://www.nationalreview.com/2026/11/the-equity-epidemic-is-hurting-americas-students/",
-          "source": "National Review",
-          "ts": "Sat, 07 Nov 2026 11:30:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Man in the Empty Gray Suit",
-          "url": "https://www.nationalreview.com/2026/11/the-man-in-the-empty-gray-suit/",
-          "source": "National Review",
-          "ts": "Sat, 07 Nov 2026 11:30:09 +0000",
           "section": ""
         },
         {
@@ -474,13 +488,6 @@
           "section": ""
         },
         {
-          "title": "JD Vance’s bad week gets worse",
-          "url": "https://www.vox.com/today-explained-newsletter/509815/jd-vance-2028-maga-midterms-stephen-miller",
-          "source": "Vox",
-          "ts": "2026-11-06T18:10:23-05:00",
-          "section": ""
-        },
-        {
           "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
           "url": "https://religionnews.com/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
           "source": "RNS",
@@ -499,13 +506,6 @@
           "url": "https://religionnews.com/2026/11/06/russell-brand-convicted-of-rape-told-us-who-he-was-why-didnt-christian-leaders-listen/",
           "source": "RNS",
           "ts": "Fri, 06 Nov 2026 22:24:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "Dems won the midterms. How should they work with Trump?",
-          "url": "https://www.vox.com/america-actually/509818/dems-won-the-midterms-how-should-they-work-with-trump",
-          "source": "Vox",
-          "ts": "2026-11-06T16:55:00-05:00",
           "section": ""
         },
         {
@@ -542,6 +542,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "New Zealand election too close to call with over 95% of votes counted",
+          "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-07T11:54:00Z",
+          "section": ""
+        },
+        {
           "title": "Nepal’s fight to rebuild after flood disaster",
           "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -574,13 +581,6 @@
           "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-07T10:39:00Z",
-          "section": ""
-        },
-        {
-          "title": "New Zealand election too close to call with half the votes counted",
-          "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-07T09:35:00Z",
           "section": ""
         },
         {
