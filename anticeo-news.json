@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-11-07T13:47:29.479358Z",
+  "generated_at": "2026-11-07T14:04:13.583182Z",
   "headline": {
-    "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-    "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss"
+    "title": "Memories of the Train",
+    "url": "https://www.theatlantic.com/magazine/2026/12/siqi-liu-memories-of-the-train/689026/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Iran Didn't Decide the Midterms But Made the Wave Higher",
+          "url": "https://www.realclearpolitics.com/2026/11/07/iran_didnt_decide_the_midterms_but_made_the_wave_higher_716893.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Sat, 07 Nov 2026 07:45:36 -0600",
+          "section": ""
+        },
+        {
+          "title": "Dem Congress Is an Opportunity and a Challenge for Trump",
+          "url": "https://www.realclearpolitics.com/2026/11/07/dem_congress_is_an_opportunity_and_a_challenge_for_trump_716898.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Sat, 07 Nov 2026 07:45:33 -0600",
+          "section": ""
+        },
+        {
+          "title": "Welcome to Trump's Lame-Duck Era",
+          "url": "https://www.realclearpolitics.com/2026/11/07/welcome_to_trumps_lame-duck_era_716891.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Sat, 07 Nov 2026 07:45:28 -0600",
+          "section": ""
+        },
         {
           "title": "Democrats plan to widen their probes of fatal ICE shootings",
           "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
@@ -132,27 +153,6 @@
           "url": "https://www.hrw.org/news/2026/11/06/rights-on-the-ballot-alongside-us-congressional-elections",
           "source": "Human Rights Watch News",
           "ts": "Fri, 06 Nov 2026 15:31:44 -0500",
-          "section": ""
-        },
-        {
-          "title": "Stephen Miller Replaces Susie Wiles as WH Chief of Staff",
-          "url": "https://www.realclearpolitics.com/2026/11/06/stephen_miller_replaces_susie_wiles_as_wh_chief_of_staff_716853.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Fri, 06 Nov 2026 14:30:58 -0600",
-          "section": ""
-        },
-        {
-          "title": "Surveying the Wreckage for Trump and the GOP",
-          "url": "https://www.realclearpolitics.com/2026/11/06/surveying_the_wreckage_for_trump_and_the_gop_716843.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Fri, 06 Nov 2026 14:27:13 -0600",
-          "section": ""
-        },
-        {
-          "title": "The Surreal Has Become Real in Texas",
-          "url": "https://www.realclearpolitics.com/2026/11/06/the_surreal_has_become_real_in_texas_716783.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Fri, 06 Nov 2026 14:26:44 -0600",
           "section": ""
         },
         {
@@ -397,6 +397,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Memories of the Train",
+          "url": "https://www.theatlantic.com/magazine/2026/12/siqi-liu-memories-of-the-train/689026/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-07T09:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
           "url": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
           "source": "US news | The Guardian",
@@ -411,16 +418,16 @@
           "section": ""
         },
         {
-          "title": "Mike Johnson Will Tend To Your Lawn Now",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-not-running-minority-leader/689341/?utm_source=feed",
-          "source": "The Atlantic",
+          "title": "How Democrats can make good on their new mandate",
+          "url": "https://www.vox.com/america-actually/509825/wes-moore-democratic-next-steps",
+          "source": "Vox",
           "ts": "2026-11-07T08:00:00-05:00",
           "section": ""
         },
         {
-          "title": "How Democrats can make good on their new mandate",
-          "url": "https://www.vox.com/america-actually/509825/wes-moore-democratic-next-steps",
-          "source": "Vox",
+          "title": "Mike Johnson Will Tend To Your Lawn Now",
+          "url": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-not-running-minority-leader/689341/?utm_source=feed",
+          "source": "The Atlantic",
           "ts": "2026-11-07T08:00:00-05:00",
           "section": ""
         },
@@ -442,13 +449,6 @@
           "title": "You’re going to hate shopping in an AI economy",
           "url": "https://www.vox.com/podcasts/508767/ai-agents-rage-economy-meta-muse",
           "source": "Vox",
-          "ts": "2026-11-07T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "What Happened to JetBlue?",
-          "url": "https://www.theatlantic.com/ideas/2026/11/airlines-bankruptcy-profit-jetblue/689332/?utm_source=feed",
-          "source": "The Atlantic",
           "ts": "2026-11-07T07:00:00-05:00",
           "section": ""
         },
@@ -528,6 +528,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
+          "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-07T13:50:00Z",
+          "section": ""
+        },
+        {
           "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
           "url": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -560,13 +567,6 @@
           "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-07T11:06:00Z",
-          "section": ""
-        },
-        {
-          "title": "France braces for new round of Yellow Vest, student protests",
-          "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-07T10:39:00Z",
           "section": ""
         },
         {
@@ -923,6 +923,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "The IDF forced 3,300 Palestinians from their homes – only to find four guns - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNS05Kblo1UjZwSFdnMXJaaHhMY0ROX1dXX0RSbWZ3aWJmRk9TNzZvSG9lY1V5YkJfWjFKS0V0NnhHOEZjVEpMNjFUUm0teDgzU2w3Y1JsRG56UkE3SkZlY0FKTERPY2dqcUpISHNFYWNxMENNQ2kyVlVUdkpMYzVFNk1lc1Voa2t0ajFXMlB6cnB3S00wRmNrZmNMOExqVGhJN2ZXVm9CTnAxNjFlV1RtajNqVWRtbTN4VTJMMFVIckpaVTRINEcwX1lhLWJMZ0RSRkdoYnFCcTBMRVlSZmdUc0RIbDVjUmZramsyRjMwUUtCc0cwT3RwMm8xRkZuMzNleXE1aEF2LW5oOVVvX2EtTEJHZENjTmlDZzU2WFlMNldlNVVyNGxqMUhR?oc=5",
+          "source": "Gideon Levy (Haaretz)",
+          "ts": "Sat, 07 Nov 2026 09:45:00 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Van Hollen, Khanna Launch Effort to Cut Trump Off From Funding His War on Iran",
           "url": "https://truthout.org/articles/van-hollen-khanna-launch-effort-to-cut-trump-off-from-funding-his-war-on-iran/",
           "source": "Truthout",
@@ -976,13 +983,6 @@
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaTFMeVZ1bHBMVlZmcFFYdEU1YWxDaXozQjlJTTNxV0FXTm5zdERpSi1oNF9VYUVfOXJGY0ppT0FZQTB3V0g4ZEJxWHVFa0prb1VoaEMtaEhWaXZnTGFadk5ydWtMdzgtOUl0TE5yeGJZZkY1RWNoQi0tblpMbmpNSHJNMTFmSjRLajFGUUozUFBQZ0pzVm5uU3E4ajBKeWpka1JwMHFEWU5Ua0J6eXp1cUdXNy1MaWVsaXNnVklGM1dRSnQ5WS1KaERWcWc1RVdfV2dscmRUdFdydHFGaS1sSktNZkJIdFR3SGtmUVhuOFVxbEtqWkRQTHY0R0hadw?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Thu, 05 Nov 2026 01:39:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Opinion | Israeli Arabs deserve a vote, even when they're not 'your doctors' - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPLUtPcUp6MU5wdUFTMldLdGZqWDI5NHVFMjk4MUhSNFRIajBWZktoUldCR2F0TjFNRzVYUjdRTFFac2VlUEdMRkt0ZEVlWk8zTHAxS1hnbTViX2RrblU2RHE1Q0N0SjBJalJYUzZLOVhPWGdZUFdBd3JsdlotbEFYU3BoY1JyNWVjcGxFd2dQdkNhMmR6RXUxcURNU1JkQnhua2luOVg2TkY4Z29WejMxMm4yY2hOS3BLNWFWTldUcnZSRVlwVWl2MFJrV3poeUFjWktqa3dZekRPUFZCWk5vbUdGdU9UYlFFNVRFQnB3dDR1dzRlT3ZzVVFJdWdhcjRtaW5fR1Vvcw?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Wed, 04 Nov 2026 11:28:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
