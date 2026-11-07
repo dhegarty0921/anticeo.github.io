@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T07:47:37.089940Z",
+  "generated_at": "2026-11-07T08:06:02.169502Z",
   "headline": {
-    "title": "US: Giant pandas from China make public debut at Atlanta zoo",
-    "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-rdf"
+    "title": "How a Soldier’s Beating Helped Desegregate the Military",
+    "url": "https://www.motherjones.com/politics/2026/11/military-desegregation-world-war-ii-isaac-woodard-radio-diaries/"
   },
   "sections": [
     {
@@ -104,13 +104,6 @@
           "url": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
           "source": "NPR Topics: Politics",
           "ts": "Fri, 06 Nov 2026 17:21:35 -0500",
-          "section": ""
-        },
-        {
-          "title": "Anthony Constantino’s Post-Election Crashout",
-          "url": "https://www.motherjones.com/politics/2026/11/anthony-constantino-congress-new-york-trump-post-election-crashout/",
-          "source": "Mother Jones",
-          "ts": "Fri, 06 Nov 2026 22:09:13 +0000",
           "section": ""
         },
         {
@@ -268,31 +261,17 @@
           "section": ""
         },
         {
-          "title": "President Donald Trump and the 94-Year American Political Flood, by Ron Unz",
-          "url": "https://www.unz.com/runz/president-donald-trump-and-the-ninety-four-year-american-political-flood/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 06 Nov 2026 05:20:50 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Christian Antigenealogical Experiment, by Laurent Guyénot",
-          "url": "https://www.unz.com/article/the-christian-antigenealogical-experiment/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 06 Nov 2026 05:00:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "40 Years Since Ronald Reagan’s Amnesty Betrayal, by Jose Alberto Nino",
-          "url": "https://www.unz.com/jnino/40-years-since-ronald-reagans-amnesty-betrayal/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 06 Nov 2026 05:00:50 +0000",
-          "section": ""
-        },
-        {
           "title": "A place to belong, a place to thrive: Building a new home for Native students at UCLA",
           "url": "https://newsroom.ucla.edu/stories/joshua-little-new-home-for-native-indigenous-students-ucla",
           "source": "UCLA",
           "ts": "Fri, 06 Nov 2026 00:28:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "UCLA experts: Disasters mount ahead of UN climate talks",
+          "url": "https://newsroom.ucla.edu/releases/ucla-experts-disasters-mount-ahead-cop31-un-climate-talks",
+          "source": "UCLA",
+          "ts": "Thu, 05 Nov 2026 23:56:00 GMT",
           "section": ""
         },
         {
@@ -377,6 +356,13 @@
           "url": "https://www.merip.org/event/merip-mesa-2026-reception-live-podcast-with-mohsen-mahdawi-and-panel-on-counterrevolution/",
           "source": "Middle East Research and Information Project",
           "ts": "Wed, 04 Nov 2026 11:50:04 GMT",
+          "section": ""
+        },
+        {
+          "title": "‘We Can Do Hard Things’: How a Grassroots Campaign Shut Down a Notorious St. Louis Jail",
+          "url": "https://www.themarshallproject.org/2026/11/04/st-louis-jail-demolished-documentary",
+          "source": "The Marshall Project",
+          "ts": "Wed, 04 Nov 2026 06:00:00 -0500",
           "section": ""
         },
         {
@@ -562,6 +548,13 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "How a Soldier’s Beating Helped Desegregate the Military",
+          "url": "https://www.motherjones.com/politics/2026/11/military-desegregation-world-war-ii-isaac-woodard-radio-diaries/",
+          "source": "Mother Jones",
+          "ts": "Sat, 07 Nov 2026 08:00:00 +0000",
+          "section": ""
+        },
         {
           "title": "US: Giant pandas from China make public debut at Atlanta zoo",
           "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-rdf",
