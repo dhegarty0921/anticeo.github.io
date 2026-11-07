@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T11:17:36.275408Z",
+  "generated_at": "2026-11-07T11:32:50.427201Z",
   "headline": {
-    "title": "Australian Prime Minister urges US to de-escalate Iran war after Republican midterm losses",
-    "url": "https://www.middleeastmonitor.com/20261107-australian-prime-minister-urges-us-to-de-escalate-iran-war-after-republican-midterm-losses/"
+    "title": "The GOP’s Midterm Annihilation Comes Down to One Factor",
+    "url": "https://www.nationalreview.com/2026/11/the-gops-midterm-annihilation-comes-down-to-one-factor/"
   },
   "sections": [
     {
@@ -34,6 +34,13 @@
           "url": "https://www.latimes.com/california/story/2026-11-07/latino-vote-2026-us-politics",
           "source": "California",
           "ts": "Sat, 07 Nov 2026 11:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Two men arrested after boy injured in sword attack",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sat, 07 Nov 2026 10:38:21 GMT",
           "section": ""
         },
         {
@@ -97,13 +104,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/midterms-trump-young-men-demographics-video-podcast-stress-test/",
           "source": "Mother Jones",
           "ts": "Fri, 06 Nov 2026 23:39:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "With Stephen Miller pick, Trump readies for a battle",
-          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Fri, 06 Nov 2026 23:24:15 GMT",
           "section": ""
         },
         {
@@ -411,6 +411,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The GOP’s Midterm Annihilation Comes Down to One Factor",
+          "url": "https://www.nationalreview.com/2026/11/the-gops-midterm-annihilation-comes-down-to-one-factor/",
+          "source": "National Review",
+          "ts": "Sat, 07 Nov 2026 11:30:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Equity Epidemic Is Hurting America’s Students",
+          "url": "https://www.nationalreview.com/2026/11/the-equity-epidemic-is-hurting-americas-students/",
+          "source": "National Review",
+          "ts": "Sat, 07 Nov 2026 11:30:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Man in the Empty Gray Suit",
+          "url": "https://www.nationalreview.com/2026/11/the-man-in-the-empty-gray-suit/",
+          "source": "National Review",
+          "ts": "Sat, 07 Nov 2026 11:30:09 +0000",
+          "section": ""
+        },
+        {
           "title": "Black voter turnout surges in US south despite Republican redistricting drive: ‘They could not stop the momentum’",
           "url": "https://www.theguardian.com/us-news/2026/nov/07/black-voter-turnout-gerrymandering",
           "source": "US news | The Guardian",
@@ -436,13 +457,6 @@
           "url": "https://www.theatlantic.com/politics/2026/11/stephen-miller-susie-wiles-white-house/689331/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-06T22:10:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "How Brussels Helped Create Poland’s Judicial Chaos",
-          "url": "https://www.nationalreview.com/2026/11/how-brussels-helped-create-polands-judicial-chaos/",
-          "source": "National Review",
-          "ts": "Sat, 07 Nov 2026 00:39:16 +0000",
           "section": ""
         },
         {
@@ -502,20 +516,6 @@
           "section": ""
         },
         {
-          "title": "Fear Jon Ossoff",
-          "url": "https://www.nationalreview.com/2026/11/fear-jon-ossoff/",
-          "source": "National Review",
-          "ts": "Fri, 06 Nov 2026 21:04:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tuesdays Gone",
-          "url": "https://www.nationalreview.com/2026/11/tuesdays-gone/",
-          "source": "National Review",
-          "ts": "Fri, 06 Nov 2026 11:30:58 +0000",
-          "section": ""
-        },
-        {
           "title": "Three Reasons Billy Graham Captured the World’s Attention",
           "url": "https://www.christianitytoday.com/2026/11/three-reasons-billy-graham-captured-worlds-attention/",
           "source": "Christianity Today",
@@ -542,6 +542,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Rains flood thousands of displaced families’ tents in Gaza",
+          "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 07 Nov 2026 11:10:02 +0000",
+          "section": ""
+        },
+        {
           "title": "Germany hopes to host world ice hockey championship — without Russia",
           "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -567,13 +574,6 @@
           "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 07 Nov 2026 10:36:32 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pakistani astronaut to join China’s next space station mission",
-          "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 07 Nov 2026 10:17:53 +0000",
           "section": ""
         },
         {
@@ -916,24 +916,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "2 Palestinians wounded as rain causes collapse of wall in Israeli-damaged building in Gaza",
+          "url": "https://www.middleeastmonitor.com/20261107-2-palestinians-wounded-as-rain-causes-collapse-of-wall-in-israeli-damaged-building-in-gaza/",
+          "source": "Middle East Monitor",
+          "ts": "Sat, 07 Nov 2026 11:28:59 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Israeli army arrests 6 Palestinians in renewed raids across occupied West Bank",
+          "url": "https://www.middleeastmonitor.com/20261107-israeli-army-arrests-6-palestinians-in-renewed-raids-across-occupied-west-bank/",
+          "source": "Middle East Monitor",
+          "ts": "Sat, 07 Nov 2026 11:18:43 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Australian Prime Minister urges US to de-escalate Iran war after Republican midterm losses",
           "url": "https://www.middleeastmonitor.com/20261107-australian-prime-minister-urges-us-to-de-escalate-iran-war-after-republican-midterm-losses/",
           "source": "Middle East Monitor",
           "ts": "Sat, 07 Nov 2026 11:14:54 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli army continues strikes in southern Lebanon despite framework deal",
-          "url": "https://www.middleeastmonitor.com/20261107-israeli-army-continues-strikes-in-southern-lebanon-despite-framework-deal/",
-          "source": "Middle East Monitor",
-          "ts": "Sat, 07 Nov 2026 11:09:33 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Storm damages thousands of tents in Gaza, raising fears of humanitarian disaster",
-          "url": "https://www.middleeastmonitor.com/20261107-storm-damages-thousands-of-tents-in-gaza-raising-fears-of-humanitarian-disaster-2/",
-          "source": "Middle East Monitor",
-          "ts": "Sat, 07 Nov 2026 10:17:52 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
