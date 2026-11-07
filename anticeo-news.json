@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T23:03:55.529715Z",
+  "generated_at": "2026-11-07T23:17:31.969446Z",
   "headline": {
-    "title": "What we know so far after Krakow gun attack",
-    "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+    "title": "Wisconsin state patrol trooper detained by ICE released from custody",
+    "url": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released"
   },
   "sections": [
     {
@@ -13,6 +13,13 @@
           "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Sat, 07 Nov 2026 22:58:49 GMT",
+          "section": ""
+        },
+        {
+          "title": "Six killed in Krakow 'far-right' shooting, as three more bodies found in attacker's home",
+          "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sat, 07 Nov 2026 22:57:12 GMT",
           "section": ""
         },
         {
@@ -139,13 +146,6 @@
           "url": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
           "source": "ProPublica",
           "ts": "Sat, 07 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sat, 07 Nov 2026 07:27:44 GMT",
           "section": ""
         },
         {
@@ -390,6 +390,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Wisconsin state patrol trooper detained by ICE released from custody",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 07 Nov 2026 23:05:06 GMT",
+          "section": ""
+        },
+        {
           "title": "Captain Picard Was Wrong About AI Personhood",
           "url": "https://religionnews.com/2026/11/07/captain-picard-was-wrong-about-ai-personhood/",
           "source": "RNS",
@@ -415,13 +422,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
           "source": "US news | The Guardian",
           "ts": "Sat, 07 Nov 2026 19:51:32 GMT",
-          "section": ""
-        },
-        {
-          "title": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
-          "url": "https://www.theguardian.com/us-news/2026/nov/07/youth-vote-turnout-midterm-elections",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 07 Nov 2026 17:00:16 GMT",
           "section": ""
         },
         {
