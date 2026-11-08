@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-08T16:17:36.102883Z",
+  "generated_at": "2026-11-08T16:32:52.068683Z",
   "headline": {
-    "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
-    "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
+    "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 08 Nov 2026 16:25:45 +0000",
+          "section": ""
+        },
         {
           "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
           "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
@@ -16,10 +23,10 @@
           "section": ""
         },
         {
-          "title": "For Trump and America, a Clear Election Verdict but a Murky Future",
-          "url": "https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 08 Nov 2026 15:54:15 +0000",
+          "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sun, 08 Nov 2026 16:05:57 GMT",
           "section": ""
         },
         {
@@ -107,15 +114,8 @@
           "section": ""
         },
         {
-          "title": "Watch: Royals and veterans reflect at Remembrance ceremony",
-          "url": "https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sun, 08 Nov 2026 12:16:10 GMT",
-          "section": ""
-        },
-        {
-          "title": "Inside Nithya Raman's improbable campaign for L.A. mayor",
-          "url": "https://www.latimes.com/california/story/2026-11-08/inside-nithya-ramans-improbable-campaign-for-la-mayor",
+          "title": "California's losing quest for clean weed",
+          "url": "https://www.latimes.com/california/story/2026-11-08/california-losing-quest-for-clean-weed",
           "source": "California",
           "ts": "Sun, 08 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -383,6 +383,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Democrats’ Fight Over Israel Is Just Beginning",
+          "url": "https://www.theatlantic.com/politics/2026/11/michigan-democrats-jewish-muslim-israel/689321/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-08T10:59:46-05:00",
+          "section": ""
+        },
+        {
           "title": "Abdul El-Sayed’s Oxford years: PhD, political influences and sporting distinction",
           "url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
           "source": "US news | The Guardian",
@@ -406,13 +413,6 @@
         {
           "title": "Can Beauty Make Us Good?",
           "url": "https://www.theatlantic.com/podcasts/2026/11/can-beauty-make-us-good/689302/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-08T09:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "The Secret Ingredient to Mac and Cheese",
-          "url": "https://www.theatlantic.com/magazine/2026/12/mac-and-cheese-ingredient/689019/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-08T09:00:00-05:00",
           "section": ""
@@ -514,6 +514,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+          "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Nov 2026 16:18:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "Central Banking Racket",
+          "url": "https://montanarcc.substack.com/p/dr-lewis-coleman-on-the-central-banking?utm_source=post-email-title&publication_id=1395434&post_id=223834377&utm_campaign=email-post-title&isFreemail=false&r=emrlc&triedRedirect=true&utm_medium=email",
+          "source": "Global Research",
+          "ts": "Sun, 08 Nov 2026 16:01:47 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Nov 2026 15:47:11 +0000",
+          "section": ""
+        },
+        {
           "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
           "url": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -528,25 +549,11 @@
           "section": ""
         },
         {
-          "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Nov 2026 14:53:29 +0000",
-          "section": ""
-        },
-        {
           "title": "A Question of Toppings: Purity, Pineapple and Pizza",
           "url": "https://www.globalresearch.ca/purity-pineapple-pizza/5945340",
           "source": "Global Research",
           "ts": "Sun, 08 Nov 2026 14:34:42 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Nov 2026 14:19:17 +0000",
-          "section": ""
         },
         {
           "title": "At least 21 killed after migrant boat sinks off Senegal",
@@ -589,13 +596,6 @@
           "source": "Moon of Alabama",
           "ts": "Sun, 08 Nov 2026 12:17:33 +0000",
           "section": ""
-        },
-        {
-          "title": "Bô Yin Râ: “The Book of Love.” Seventh Article: “The Redeeming Light”",
-          "url": "https://montanarcc.substack.com/p/the-book-of-love-7th-article-the?utm_source=post-email-title&publication_id=1395434&post_id=223839877&utm_campaign=email-post-title&isFreemail=false&r=emrlc&triedRedirect=true&utm_medium=email",
-          "source": "Global Research",
-          "ts": "Sun, 08 Nov 2026 11:13:15 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Naval Group to Build UCUV Underwater Combat Drone Demonstrator for French Navy",
@@ -881,6 +881,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Large crowds in Amsterdam join Red Line demonstration for Gaza",
+          "url": "https://www.middleeastmonitor.com/20261108-large-crowds-in-amsterdam-join-red-line-demonstration-for-gaza/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 08 Nov 2026 16:19:22 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "EU commissioner urges more aid access to Gaza as floods sweep through displacement camps",
           "url": "https://www.middleeastmonitor.com/20261108-eu-commissioner-urges-more-aid-access-to-gaza-as-floods-sweep-through-displacement-camps/",
           "source": "Middle East Monitor",
@@ -892,13 +899,6 @@
           "url": "https://www.middleeastmonitor.com/20261108-former-israeli-premier-urges-eisenkot-to-swiftly-replace-netanyahu-government/",
           "source": "Middle East Monitor",
           "ts": "Sun, 08 Nov 2026 14:56:05 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Activists raise Palestinian flag outside German parliament",
-          "url": "https://www.middleeastmonitor.com/20261108-activists-raise-palestinian-flag-outside-german-parliament/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 08 Nov 2026 14:41:40 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
