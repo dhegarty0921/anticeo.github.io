@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-08T11:47:45.876606Z",
+  "generated_at": "2026-11-08T12:05:10.982441Z",
   "headline": {
-    "title": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
-    "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss"
+    "title": "When Writers Lose Faith in Free Speech",
+    "url": "https://www.theatlantic.com/ideas/2026/11/philip-roth-political-novelists/689337/?utm_source=feed"
   },
   "sections": [
     {
@@ -23,8 +23,8 @@
           "section": ""
         },
         {
-          "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
-          "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+          "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
           "source": "NPR Topics: News",
           "ts": "Sun, 08 Nov 2026 06:00:00 -0500",
           "section": ""
@@ -37,8 +37,8 @@
           "section": ""
         },
         {
-          "title": "In Maine, a new approach to practicing medicine in the sky",
-          "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+          "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
           "source": "NPR Topics: News",
           "ts": "Sun, 08 Nov 2026 06:00:00 -0500",
           "section": ""
@@ -357,13 +357,6 @@
           "source": "Sludge",
           "ts": "Wed, 04 Nov 2026 14:29:21 GMT",
           "section": ""
-        },
-        {
-          "title": "MERIP @ MESA 2026 –Reception, Live Podcast with Mohsen Mahdawi and Panel on Counterrevolution",
-          "url": "https://www.merip.org/event/merip-mesa-2026-reception-live-podcast-with-mohsen-mahdawi-and-panel-on-counterrevolution/",
-          "source": "Middle East Research and Information Project",
-          "ts": "Wed, 04 Nov 2026 11:50:04 GMT",
-          "section": ""
         }
       ]
     },
@@ -389,6 +382,13 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "When Writers Lose Faith in Free Speech",
+          "url": "https://www.theatlantic.com/ideas/2026/11/philip-roth-political-novelists/689337/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-08T07:00:00-05:00",
+          "section": ""
+        },
         {
           "title": "Newsrooms Made a Dumb Bet on Gambling Partnerships",
           "url": "https://www.nationalreview.com/2026/11/newsrooms-made-a-dumb-bet-on-gambling-partnerships/",
@@ -467,13 +467,6 @@
           "section": ""
         },
         {
-          "title": "Mike Johnson Will Tend To Your Lawn Now",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/mike-johnson-not-running-minority-leader/689341/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-07T08:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "You’re going to hate shopping in an AI economy",
           "url": "https://www.vox.com/podcasts/508767/ai-agents-rage-economy-meta-muse",
           "source": "Vox",
@@ -521,6 +514,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?",
+          "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Nov 2026 11:34:58 +0000",
+          "section": ""
+        },
+        {
           "title": "Bô Yin Râ: “The Book of Love.” Seventh Article: “The Redeeming Light”",
           "url": "https://montanarcc.substack.com/p/the-book-of-love-7th-article-the?utm_source=post-email-title&publication_id=1395434&post_id=223839877&utm_campaign=email-post-title&isFreemail=false&r=emrlc&triedRedirect=true&utm_medium=email",
           "source": "Global Research",
@@ -546,13 +546,6 @@
           "url": "https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 08 Nov 2026 10:28:08 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tennis world number one Rybakina withdraws from WTA Finals due to virus",
-          "url": "https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Nov 2026 10:03:21 +0000",
           "section": ""
         },
         {
@@ -888,6 +881,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli troops storm school, raid homes in southern Syria",
+          "url": "https://www.middleeastmonitor.com/20261108-israeli-troops-storm-school-raid-homes-in-southern-syria/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 08 Nov 2026 11:49:13 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Palestinian church committee urges aid for flood-hit Gaza",
           "url": "https://www.middleeastmonitor.com/20261108-palestinian-church-committee-urges-aid-for-flood-hit-gaza/",
           "source": "Middle East Monitor",
@@ -899,13 +899,6 @@
           "url": "https://www.middleeastmonitor.com/20261108-yemeni-army-says-it-carried-out-over-800-operations-against-houthis/",
           "source": "Middle East Monitor",
           "ts": "Sun, 08 Nov 2026 11:16:59 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran’s Revolutionary Guards say 2 oil tankers hit mines, caught fire near Strait of Hormuz",
-          "url": "https://www.middleeastmonitor.com/20261108-irans-revolutionary-guards-say-2-oil-tankers-hit-mines-caught-fire-near-strait-of-hormuz/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 08 Nov 2026 10:55:10 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
