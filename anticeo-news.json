@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-08T14:32:57.910872Z",
+  "generated_at": "2026-11-08T14:47:57.084506Z",
   "headline": {
-    "title": "History, art, culture and community flourish in L.A.'s Little Tokyo",
-    "url": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo"
+    "title": "Activists raise Palestinian flag outside German parliament",
+    "url": "https://www.middleeastmonitor.com/20261108-activists-raise-palestinian-flag-outside-german-parliament/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Need more financial aid for college? This new law will make it easier to ask for it",
+          "url": "https://thelalocal.org/education/need-more-financial-aid-for-college-this-new-law-will-make-it-easier-to-ask-for-it/",
+          "source": "LA Local",
+          "ts": "Sun, 08 Nov 2026 14:39:00 +0000",
+          "section": ""
+        },
         {
           "title": "History, art, culture and community flourish in L.A.'s Little Tokyo",
           "url": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
@@ -20,13 +27,6 @@
           "url": "https://www.nytimes.com/2026/11/08/us/dc-foie-gras-ban.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sun, 08 Nov 2026 14:05:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Voters have chosen to increase LA’s sales tax — here’s how it compares to other cities",
-          "url": "https://thelalocal.org/government/election/measure-fd-sales-tax-los-angeles/",
-          "source": "LA Local",
-          "ts": "Sun, 08 Nov 2026 14:00:00 +0000",
           "section": ""
         },
         {
@@ -198,13 +198,6 @@
           "section": ""
         },
         {
-          "title": "Rights on the Ballot Alongside US Congressional Elections",
-          "url": "https://www.hrw.org/news/2026/11/06/rights-on-the-ballot-alongside-us-congressional-elections",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 06 Nov 2026 15:31:44 -0500",
-          "section": ""
-        },
-        {
           "title": "Trump’s First Big Post-Midterms Move Is Promoting Stephen Miller",
           "url": "https://www.rollingstone.com/politics/politics-news/stephen-miller-named-white-house-chief-of-staff-1235654134/",
           "source": "Politics News",
@@ -216,13 +209,6 @@
           "url": "https://www.propublica.org/article/trump-movement-rally-voters-appeal",
           "source": "ProPublica",
           "ts": "Fri, 06 Nov 2026 18:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tanzanian Court Convicts Opposition Leader of Incitement",
-          "url": "https://www.hrw.org/news/2026/11/06/tanzanian-court-convicts-opposition-leader-of-incitement",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 06 Nov 2026 13:25:07 -0500",
           "section": ""
         },
         {
@@ -514,6 +500,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
+          "url": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 08 Nov 2026 14:19:17 +0000",
+          "section": ""
+        },
+        {
           "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
           "url": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -532,13 +525,6 @@
           "url": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-08T13:48:00Z",
-          "section": ""
-        },
-        {
-          "title": "At least 21 dead as small boat sinks off Senegal",
-          "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 08 Nov 2026 13:32:17 +0000",
           "section": ""
         },
         {
@@ -881,6 +867,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Activists raise Palestinian flag outside German parliament",
+          "url": "https://www.middleeastmonitor.com/20261108-activists-raise-palestinian-flag-outside-german-parliament/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 08 Nov 2026 14:41:40 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Podcast by Jasim Al-Azzawi with Caroline Rose: Can Trump Escape His Current Quagmire?",
           "url": "https://www.middleeastmonitor.com/20261108-podcast-by-jasim-al-azzawi-with-caroline-rose-can-trump-escape-his-current-quagmire/",
           "source": "Middle East Monitor",
@@ -892,13 +885,6 @@
           "url": "https://www.middleeastmonitor.com/20261108-united-arab-list-to-back-possible-eisenkot-led-govt-in-israel-without-coalition-deal-report/",
           "source": "Middle East Monitor",
           "ts": "Sun, 08 Nov 2026 13:26:50 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Saudi Arabia says Aramco building suffers ‘minor damage’ after attempted attack in Riyadh",
-          "url": "https://www.middleeastmonitor.com/20261108-saudi-arabia-says-aramco-building-suffers-minor-damage-after-attempted-attack-in-riyadh/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 08 Nov 2026 13:20:36 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
