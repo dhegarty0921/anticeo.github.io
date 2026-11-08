@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-08T15:04:04.830669Z",
+  "generated_at": "2026-11-08T15:17:36.438648Z",
   "headline": {
-    "title": "Look Closer: Ethel Dougan’s <em>Mittens</em>",
-    "url": "https://www.theatlantic.com/magazine/2026/12/ethel-dougan-mittens/689027/?utm_source=feed"
+    "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
+    "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Justice Dept. Mulled Naming The Times as Conspirator in Comey Leak Case",
+          "url": "https://www.nytimes.com/2026/11/08/us/politics/justice-dept-new-york-times-comey-leak.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Sun, 08 Nov 2026 15:09:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+          "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+          "source": "NPR Topics: News",
+          "ts": "Sun, 08 Nov 2026 10:07:15 -0500",
+          "section": ""
+        },
         {
           "title": "Need more financial aid for college? This new law will make it easier to ask for it",
           "url": "https://thelalocal.org/education/need-more-financial-aid-for-college-this-new-law-will-make-it-easier-to-ask-for-it/",
@@ -72,13 +86,6 @@
           "section": ""
         },
         {
-          "title": "Historically red state legislatures have flipped. Here's what's on their agenda",
-          "url": "https://www.npr.org/2026/11/08/nx-s1-6032600/historically-red-state-legislatures-have-flipped-heres-whats-on-their-agenda",
-          "source": "NPR Topics: Politics",
-          "ts": "Sun, 08 Nov 2026 08:16:08 -0500",
-          "section": ""
-        },
-        {
           "title": "The American Dream Is No Match for Climate Change",
           "url": "https://www.motherjones.com/politics/2026/11/climate-change-american-dream-home-ownership-insurance-costs-helene-natural-disasters-hurricanes-wildfires/",
           "source": "Mother Jones",
@@ -114,17 +121,17 @@
           "section": ""
         },
         {
-          "title": "Republicans Point Fingers, but Trump Does Not Appear to Be Listening",
-          "url": "https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 08 Nov 2026 10:01:51 +0000",
-          "section": ""
-        },
-        {
           "title": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.",
           "url": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
           "source": "ProPublica",
           "ts": "Sun, 08 Nov 2026 10:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "The de-Trumpification of America, by Dan Dinello",
+          "url": "https://www.unz.com/article/the-de-trumpification-of-america/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 08 Nov 2026 05:00:43 +0000",
           "section": ""
         },
         {
@@ -167,13 +174,6 @@
           "url": "https://www.propublica.org/article/texas-school-vouchers-gina-hinojosa",
           "source": "ProPublica",
           "ts": "Sat, 07 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrats Will Squander Their Victory Unless Voters Fight Their Corporate Masters, by Chris Hedges",
-          "url": "https://www.unz.com/article/democrats-will-squander-their-victory-unless-voters-fight-their-corporate-masters/",
-          "source": "The Unz Review:",
-          "ts": "Sat, 07 Nov 2026 05:10:07 +0000",
           "section": ""
         },
         {
@@ -383,10 +383,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Look Closer: Ethel Dougan’s <em>Mittens</em>",
-          "url": "https://www.theatlantic.com/magazine/2026/12/ethel-dougan-mittens/689027/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-08T10:00:00-05:00",
+          "title": "The political playbook that unraveled US transgender rights in the past decade",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/transgender-rights-unraveled",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 08 Nov 2026 15:00:42 GMT",
           "section": ""
         },
         {
@@ -418,16 +418,16 @@
           "section": ""
         },
         {
-          "title": "How CrossFit helped shape the macho fitness culture of Trump’s America",
-          "url": "https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 08 Nov 2026 13:00:40 GMT",
-          "section": ""
-        },
-        {
           "title": "Why animals are smarter than we think",
           "url": "https://www.vox.com/explain-it-to-me/508781/animal-intelligence-consciousness-sentience",
           "source": "Vox",
+          "ts": "2026-11-08T08:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "An ‘America First’ Approach to Famine",
+          "url": "https://www.theatlantic.com/health/2026/11/famine-somalia-trump-aid/689295/?utm_source=feed",
+          "source": "The Atlantic",
           "ts": "2026-11-08T08:00:00-05:00",
           "section": ""
         },
