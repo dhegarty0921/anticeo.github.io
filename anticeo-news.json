@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-09T15:48:17.192789Z",
+  "generated_at": "2026-11-09T16:04:48.314859Z",
   "headline": {
-    "title": "Neros to expand domestic drone production with $450M Pentagon loan",
-    "url": "https://www.armytimes.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/"
+    "title": "Two cities just voted to get Flock cameras out. It’s only the beginning.",
+    "url": "https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out.",
+          "url": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
+          "source": "ProPublica",
+          "ts": "Mon, 09 Nov 2026 15:55:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+          "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 09 Nov 2026 15:43:36 +0000",
+          "section": ""
+        },
         {
           "title": "Civil servant who juggled five jobs found guilty of fraud",
           "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
@@ -41,6 +55,13 @@
           "url": "https://thelalocal.org/art-and-culture/food/community/finding-adult-friends-in-la/",
           "source": "LA Local",
           "ts": "Mon, 09 Nov 2026 15:12:36 +0000",
+          "section": ""
+        },
+        {
+          "title": "Voters Rejected Trump, They Didn't Reject Conservatism",
+          "url": "https://www.realclearpolitics.com/2026/11/09/voters_rejected_trump_they_didnt_reject_conservatism_717059.html",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Mon, 09 Nov 2026 09:10:00 -0600",
           "section": ""
         },
         {
@@ -100,13 +121,6 @@
           "section": ""
         },
         {
-          "title": "Voters Rejected Trump, They Didn't Reject Conservatism",
-          "url": "https://www.realclearpolitics.com/2026/11/09/voters_rejected_trump_they_didnt_reject_conservatism_717059.html",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Mon, 09 Nov 2026 07:10:50 -0600",
-          "section": ""
-        },
-        {
           "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
           "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
           "source": "NPR Topics: Politics",
@@ -146,13 +160,6 @@
           "url": "https://www.propublica.org/article/trump-sons-xwell-xprestest-government-contracts",
           "source": "ProPublica",
           "ts": "Mon, 09 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Congress Returns to a Reordered Washington With a Hazy Agenda",
-          "url": "https://www.nytimes.com/2026/11/09/us/politics/congress-republicans-agenda-lame-duck-session.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Nov 2026 10:03:55 +0000",
           "section": ""
         },
         {
@@ -237,13 +244,6 @@
           "url": "https://www.moonofalabama.org/2026/11/the-moa-week-in-review-ot-2026-247.html",
           "source": "Moon of Alabama",
           "ts": "Sun, 08 Nov 2026 12:16:48 +0000",
-          "section": ""
-        },
-        {
-          "title": "An 11-Day-Old Baby Couldn’t Stop Bleeding. For Hours, the ER Didn’t Provide a Critical Vitamin Shot.",
-          "url": "https://www.propublica.org/article/vitamin-k-shot-texas-lonestar-emergency-room-nicole-malouf",
-          "source": "ProPublica",
-          "ts": "Sun, 08 Nov 2026 10:00:00 +0000",
           "section": ""
         },
         {
@@ -404,17 +404,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Midterm Mayhem for the Free and Virtuous Society",
-          "url": "https://www.nationalreview.com/2026/11/midterm-mayhem-for-the-free-and-virtuous-society/",
-          "source": "National Review",
-          "ts": "Mon, 09 Nov 2026 15:29:24 +0000",
+          "title": "Two cities just voted to get Flock cameras out. It’s only the beginning.",
+          "url": "https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance",
+          "source": "Vox",
+          "ts": "2026-11-09T11:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Nov 2026 15:53:44 GMT",
           "section": ""
         },
         {
           "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 09 Nov 2026 15:25:10 GMT",
+          "ts": "Mon, 09 Nov 2026 15:38:44 GMT",
+          "section": ""
+        },
+        {
+          "title": "Midterm Mayhem for the Free and Virtuous Society",
+          "url": "https://www.nationalreview.com/2026/11/midterm-mayhem-for-the-free-and-virtuous-society/",
+          "source": "National Review",
+          "ts": "Mon, 09 Nov 2026 15:29:24 +0000",
           "section": ""
         },
         {
@@ -436,13 +450,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Nov 2026 14:18:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Nov 2026 14:00:11 GMT",
           "section": ""
         },
         {
@@ -488,13 +495,6 @@
           "section": ""
         },
         {
-          "title": "Are you abandoning the fight if you move from a red state to a blue one?",
-          "url": "https://www.vox.com/advice/509867/ethics-moving-red-state-blue-state",
-          "source": "Vox",
-          "ts": "2026-11-09T06:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Q&A: ‘Jimmy’ Director on James Stewart’s Wartime Faith",
           "url": "https://www.christianitytoday.com/2026/11/qa-director-aaron-burns-jimmy-stewart-faith/",
           "source": "Christianity Today",
@@ -502,17 +502,17 @@
           "section": ""
         },
         {
+          "title": "Are you abandoning the fight if you move from a red state to a blue one?",
+          "url": "https://www.vox.com/advice/509867/ethics-moving-red-state-blue-state",
+          "source": "Vox",
+          "ts": "2026-11-09T06:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Argentina’s Milei embraces Pope Leo XIV, who pushes him on austerity",
           "url": "https://religionnews.com/2026/11/08/in-argentina-milei-embraces-pope-leo-xiv-who-pushes-him-on-austerity/",
           "source": "RNS",
           "ts": "Mon, 09 Nov 2026 01:16:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Why animals are smarter than we think",
-          "url": "https://www.vox.com/explain-it-to-me/508781/animal-intelligence-consciousness-sentience",
-          "source": "Vox",
-          "ts": "2026-11-08T08:00:00-05:00",
           "section": ""
         },
         {
@@ -534,6 +534,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
+          "url": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-09T15:56:00Z",
+          "section": ""
+        },
+        {
+          "title": "Turkey: Workers killed in Izmir steel plant blast",
+          "url": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-09T15:52:00Z",
+          "section": ""
+        },
         {
           "title": "Neros to expand domestic drone production with $450M Pentagon loan",
           "url": "https://www.armytimes.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
@@ -598,24 +612,10 @@
           "section": ""
         },
         {
-          "title": "Russell Brand sentenced to over 10 years in prison for rape and sexual assault convictions",
-          "url": "https://www.dw.com/en/russell-brand-sentenced-to-over-10-years-in-prison-for-rape-and-sexual-assault-convictions/a-79896124?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-09T14:30:00Z",
-          "section": ""
-        },
-        {
           "title": "Babcock and Saab Denmark sign strategic agreement for Arrowhead frigate opportunities",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-and-saab-denmark-sign-strategic-agreement-for-arrowhead-frigate-opportunities/",
           "source": "Naval News",
           "ts": "Mon, 09 Nov 2026 14:20:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "37 years after fall of Berlin Wall: How divided are Germans?",
-          "url": "https://www.dw.com/en/37-years-after-fall-of-berlin-wall-how-divided-are-germans/a-79877461?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-09T13:59:00Z",
           "section": ""
         },
         {
@@ -771,6 +771,13 @@
           "section": ""
         },
         {
+          "title": "Creative Destruction: 9/11, Enron, and American Bitcoin",
+          "url": "https://unlimitedhangout.com/creative-destruction-9-11-enron-and-american-bitcoin/",
+          "source": "Unlimited Hangout",
+          "ts": "Mon, 09 Nov 2026 14:00:00 GMT",
+          "section": ""
+        },
+        {
           "title": "What Experts Will Be Watching as COP31 Gets Underway",
           "url": "https://www.justsecurity.org/163609/climate-experts-watching-cop31/?utm_source=rss&utm_medium=rss&utm_campaign=climate-experts-watching-cop31",
           "source": "Just Security",
@@ -796,13 +803,6 @@
           "url": "https://theintercept.com/2026/11/09/israel-weapons-bombs-jfk-airport/",
           "source": "The Intercept",
           "ts": "Mon, 09 Nov 2026 11:05:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Creative Destruction: 9/11, Enron, and American Bitcoin",
-          "url": "https://unlimitedhangout.com/creative-destruction-9-11-enron-and-american-bitcoin/",
-          "source": "Unlimited Hangout",
-          "ts": "Mon, 09 Nov 2026 04:00:00 GMT",
           "section": ""
         },
         {
@@ -934,6 +934,13 @@
           "url": "https://mondoweiss.net/2026/11/what-will-the-democrats-blue-wave-mean-for-trumps-foreign-policy/",
           "source": "Mondoweiss",
           "ts": "Sat, 07 Nov 2026 14:30:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "The IDF forced 3,300 Palestinians from their homes – only to find four guns - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNS05Kblo1UjZwSFdnMXJaaHhMY0ROX1dXX0RSbWZ3aWJmRk9TNzZvSG9lY1V5YkJfWjFKS0V0NnhHOEZjVEpMNjFUUm0teDgzU2w3Y1JsRG56UkE3SkZlY0FKTERPY2dqcUpISHNFYWNxMENNQ2kyVlVUdkpMYzVFNk1lc1Voa2t0ajFXMlB6cnB3S00wRmNrZmNMOExqVGhJN2ZXVm9CTnAxNjFlV1RtajNqVWRtbTN4VTJMMFVIckpaVTRINEcwX1lhLWJMZ0RSRkdoYnFCcTBMRVlSZmdUc0RIbDVjUmZramsyRjMwUUtCc0cwT3RwMm8xRkZuMzNleXE1aEF2LW5oOVVvX2EtTEJHZENjTmlDZzU2WFlMNldlNVVyNGxqMUhR?oc=5",
+          "source": "Gideon Levy (Haaretz)",
+          "ts": "Sat, 07 Nov 2026 09:45:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
