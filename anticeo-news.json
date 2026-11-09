@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T10:18:18.722293Z",
+  "generated_at": "2026-11-09T10:32:54.910545Z",
   "headline": {
-    "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html"
+    "title": "PLO rejects UNRWA staff lay off and services reductions",
+    "url": "https://www.middleeastmonitor.com/20261109-plo-rejects-unrwa-staff-lay-off-and-services-reductions/"
   },
   "sections": [
     {
@@ -30,8 +30,8 @@
           "section": ""
         },
         {
-          "title": "Congress is coming back to Washington. Here's what to expect",
-          "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+          "title": "Supreme Court weighs effort to shield federal law enforcement as ICE complaints rise",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6013575/supreme-court-federal-law-enforcement-prison-rights",
           "source": "NPR Topics: Politics",
           "ts": "Mon, 09 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -44,8 +44,8 @@
           "section": ""
         },
         {
-          "title": "Palantir hires a former Democratic senator as it faces scrutiny in new Congress",
-          "url": "https://www.npr.org/2026/11/09/nx-s1-6029641/palantir-congress-jon-tester-investigations",
+          "title": "Democrats won big on issues like immigration. But ICE still has the money",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
           "source": "NPR Topics: News",
           "ts": "Mon, 09 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -521,6 +521,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Kongsberg Maritime launches Arctic Hunter USV for the Hybrid Navy",
+          "url": "https://www.navalnews.com/naval-news/2026/11/kongsberg-maritime-launches-arctic-hunter-usv-for-the-hybrid-navy/",
+          "source": "Naval News",
+          "ts": "Mon, 09 Nov 2026 10:28:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "At least one person killed as Russia and Ukraine trade strikes overnight",
+          "url": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Nov 2026 10:08:45 +0000",
+          "section": ""
+        },
+        {
           "title": "Iran’s authorities harden domestic security controls amid US strike threats",
           "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -549,25 +563,11 @@
           "section": ""
         },
         {
-          "title": "Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?",
-          "url": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 09:27:35 +0000",
-          "section": ""
-        },
-        {
           "title": "Poverty Falls, Inequality Persists, the Reality Beyond Development Figures in India",
           "url": "https://www.asia-pacificresearch.com/poverty-falls-inequality-persists-reality-beyond-development-figures-india/5633750",
           "source": "Global Research",
           "ts": "Mon, 09 Nov 2026 09:12:45 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "VIKING to build seven high-speed patrol vessels for the Hellenic Coast Guard",
-          "url": "https://www.navalnews.com/naval-news/2026/11/viking-to-build-seven-high-speed-patrol-vessels-for-the-hellenic-coast-guard/",
-          "source": "Naval News",
-          "ts": "Mon, 09 Nov 2026 09:07:40 +0000",
-          "section": ""
         },
         {
           "title": "The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp",
@@ -881,24 +881,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "PLO rejects UNRWA staff lay off and services reductions",
+          "url": "https://www.middleeastmonitor.com/20261109-plo-rejects-unrwa-staff-lay-off-and-services-reductions/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 09 Nov 2026 10:29:51 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Saudi-led coalition says it destroys Houthi missile launcher in Sanaa targeting eastern Saudi Arabia",
+          "url": "https://www.middleeastmonitor.com/20261109-saudi-led-coalition-says-it-destroys-houthi-missile-launcher-in-sanaa-targeting-eastern-saudi-arabia/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 09 Nov 2026 10:26:23 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Palestinian journalist released from Israeli detention condemns arrest as ‘political pressure’",
           "url": "https://www.middleeastmonitor.com/20261108-palestinian-journalist-released-from-israeli-detention-condemns-arrest-as-political-pressure/",
           "source": "Middle East Monitor",
           "ts": "Sun, 08 Nov 2026 19:36:26 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran says 2-day proposal stands, warns US against renewed attacks",
-          "url": "https://www.middleeastmonitor.com/20261108-iran-says-2-day-proposal-stands-warns-us-against-renewed-attacks/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 08 Nov 2026 19:15:12 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "2 Gazans killed, 12 others wounded in continued Israeli attacks",
-          "url": "https://www.middleeastmonitor.com/20261108-2-gazans-killed-12-others-wounded-in-continued-israeli-attacks/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 08 Nov 2026 19:00:26 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
