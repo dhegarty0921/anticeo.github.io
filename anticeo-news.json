@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T07:33:03.683066Z",
+  "generated_at": "2026-11-09T07:47:43.170940Z",
   "headline": {
-    "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
-    "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss"
+    "title": "Germany news: Germany marks fateful date of November 9",
+    "url": "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -390,7 +390,7 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
+          "title": "Trump admits deportation policy was ‘too tough’ despite promotion of Stephen Miller",
           "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Nov 2026 03:59:31 GMT",
@@ -521,6 +521,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Germany news: Germany marks fateful date of November 9",
+          "url": "https://www.dw.com/en/germany-news-germany-marks-fateful-date-of-november-9/live-79895613?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-09T07:43:00Z",
+          "section": ""
+        },
+        {
+          "title": "Which countries and industries emit the most greenhouse gases?",
+          "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Nov 2026 07:21:37 +0000",
+          "section": ""
+        },
+        {
           "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
           "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -542,24 +556,10 @@
           "section": ""
         },
         {
-          "title": "Poland mass shooting assailant dies in hospital, police say",
-          "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 07:03:24 +0000",
-          "section": ""
-        },
-        {
           "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
           "url": "https://www.dw.com/en/krakow-mass-shooting-suspect-has-died-in-hospital-police-in-poland-say/a-79895626?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-09T06:53:00Z",
-          "section": ""
-        },
-        {
-          "title": "US President Donald Trump says deportation policy was 'too tough' for voters",
-          "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-09T06:14:00Z",
           "section": ""
         },
         {
