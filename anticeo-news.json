@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-11-09T16:04:48.314859Z",
+  "generated_at": "2026-11-09T16:19:59.947726Z",
   "headline": {
-    "title": "Two cities just voted to get Flock cameras out. It’s only the beginning.",
-    "url": "https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance"
+    "title": "The US election showed growing frustration with Israel on both sides of the aisle",
+    "url": "https://religionnews.com/2026/11/09/the-us-election-showed-growing-frustration-with-israel-on-both-sides-of-the-aisle/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Civil servant who secretly held five jobs found guilty of fraud",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 09 Nov 2026 16:10:08 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump Finally Gets Around to Claiming the Midterms Were Rigged",
+          "url": "https://www.rollingstone.com/politics/politics-news/trump-claims-midterm-elections-rigged-1235654597/",
+          "source": "Politics News",
+          "ts": "Mon, 09 Nov 2026 16:08:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
+          "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 09 Nov 2026 16:02:52 +0000",
+          "section": ""
+        },
+        {
+          "title": "First known 'disappearing planet' has a neighbor that makes it wobble like a top",
+          "url": "https://newsroom.ucla.edu/releases/first-known-disappearing-planet-neighbor-wobble-like-top",
+          "source": "UCLA",
+          "ts": "Mon, 09 Nov 2026 16:00:00 GMT",
+          "section": ""
+        },
         {
           "title": "Watch: Where Do Our Generic Drugs Come From? We Dug to Find Out.",
           "url": "https://www.propublica.org/article/generic-prescription-drug-supply-fda-explained",
@@ -20,20 +48,6 @@
           "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 09 Nov 2026 15:43:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "Civil servant who juggled five jobs found guilty of fraud",
-          "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 09 Nov 2026 15:33:35 GMT",
-          "section": ""
-        },
-        {
-          "title": "Progressives Launch ‘Ready for AOC’ Ahead of 2028 Presidential Election",
-          "url": "https://www.nytimes.com/2026/11/09/us/politics/alexandria-ocasio-cortez-aoc-2028-president-group.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 09 Nov 2026 15:33:03 +0000",
           "section": ""
         },
         {
@@ -303,13 +317,6 @@
           "section": ""
         },
         {
-          "title": "Trump’s First Big Post-Midterms Move Is Promoting Stephen Miller",
-          "url": "https://www.rollingstone.com/politics/politics-news/stephen-miller-named-white-house-chief-of-staff-1235654134/",
-          "source": "Politics News",
-          "ts": "Fri, 06 Nov 2026 19:07:30 +0000",
-          "section": ""
-        },
-        {
           "title": "Tanzanian Court Convicts Opposition Leader of Incitement",
           "url": "https://www.hrw.org/news/2026/11/06/tanzanian-court-convicts-opposition-leader-of-incitement",
           "source": "Human Rights Watch News",
@@ -349,13 +356,6 @@
           "url": "https://www.themarshallproject.org/2026/11/06/jack-reitano-painter-prison-obituary",
           "source": "The Marshall Project",
           "ts": "Fri, 06 Nov 2026 06:00:30 -0500",
-          "section": ""
-        },
-        {
-          "title": "A place to belong, a place to thrive: Building a new home for Native students at UCLA",
-          "url": "https://newsroom.ucla.edu/stories/joshua-little-new-home-for-native-indigenous-students-ucla",
-          "source": "UCLA",
-          "ts": "Fri, 06 Nov 2026 00:28:00 GMT",
           "section": ""
         },
         {
@@ -404,6 +404,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The US election showed growing frustration with Israel on both sides of the aisle",
+          "url": "https://religionnews.com/2026/11/09/the-us-election-showed-growing-frustration-with-israel-on-both-sides-of-the-aisle/",
+          "source": "RNS",
+          "ts": "Mon, 09 Nov 2026 16:16:26 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Nov 2026 16:07:18 GMT",
+          "section": ""
+        },
+        {
+          "title": "Dolores Huerta obituary",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/dolores-huerta-obituary",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Nov 2026 16:06:02 GMT",
+          "section": ""
+        },
+        {
           "title": "Two cities just voted to get Flock cameras out. It’s only the beginning.",
           "url": "https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance",
           "source": "Vox",
@@ -415,13 +436,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
           "source": "US news | The Guardian",
           "ts": "Mon, 09 Nov 2026 15:53:44 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Nov 2026 15:38:44 GMT",
           "section": ""
         },
         {
@@ -443,13 +457,6 @@
           "url": "https://www.theatlantic.com/science/2026/11/electric-vehicle-battery-reuse/689326/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-09T09:30:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Joe Biden to limit White House memoir promotion due to advancing cancer",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/biden-presidency-memoir-promise-me-america-cancer",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Nov 2026 14:18:00 GMT",
           "section": ""
         },
         {
@@ -516,13 +523,6 @@
           "section": ""
         },
         {
-          "title": "‘Indian Christmas:’ Hindus celebrate and mourn the commercialization of Diwali",
-          "url": "https://religionnews.com/2026/11/08/indian-christmas-hindus-celebrate-and-mourn-the-commercialization-of-diwali/",
-          "source": "RNS",
-          "ts": "Sun, 08 Nov 2026 12:00:45 +0000",
-          "section": ""
-        },
-        {
           "title": "Three Reasons Billy Graham Captured the World’s Attention",
           "url": "https://www.christianitytoday.com/2026/11/three-reasons-billy-graham-captured-worlds-attention/",
           "source": "Christianity Today",
@@ -535,10 +535,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "General Atomics Ranger UUV to Support Large Payloads, UAVs",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-ranger-uuv-to-support-large-payloads-uavs/",
+          "source": "Naval News",
+          "ts": "Mon, 09 Nov 2026 16:12:32 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ice hockey: Norway says it's been kicked out of World Juniors in favor of Russia",
+          "url": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-09T16:02:00Z",
+          "section": ""
+        },
+        {
+          "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+          "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Nov 2026 16:00:10 +0000",
+          "section": ""
+        },
+        {
           "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
           "url": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-09T15:56:00Z",
+          "section": ""
+        },
+        {
+          "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
+          "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Nov 2026 15:55:27 +0000",
           "section": ""
         },
         {
@@ -563,13 +591,6 @@
           "section": ""
         },
         {
-          "title": "Senegal human rights group demands government action after deadly sinking",
-          "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 15:30:09 +0000",
-          "section": ""
-        },
-        {
           "title": "Remember the 200+ Canadian Doctors Who Died Suddenly After Taking Covid-19 Vaccines?",
           "url": "https://makisw.substack.com/p/news-remember-the-200-canadian-doctors?utm_source=post-email-title&publication_id=1385328&post_id=224019178&utm_campaign=email-post-title&isFreemail=true&r=6fupxd&triedRedirect=true&utm_medium=email",
           "source": "Global Research",
@@ -584,13 +605,6 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 15:10:20 +0000",
-          "section": ""
-        },
-        {
           "title": "MBDA on contract to study Aster 30 missile integration in MK 41 VLS",
           "url": "https://www.navalnews.com/naval-news/2026/11/mbda-on-contract-to-study-aster-30-missile-integration-in-mk-41-vls/",
           "source": "Naval News",
@@ -598,24 +612,10 @@
           "section": ""
         },
         {
-          "title": "Strait of Hormuz still a source of leverage for Iran",
-          "url": "https://www.dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-09T14:49:00Z",
-          "section": ""
-        },
-        {
           "title": "Navantia unveils its vision for next-generation naval capabilities at Euronaval 2026",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/navantia-unveils-its-vision-for-next-generation-naval-capabilities-at-euronaval-2026/",
           "source": "Naval News",
           "ts": "Mon, 09 Nov 2026 14:33:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Babcock and Saab Denmark sign strategic agreement for Arrowhead frigate opportunities",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/babcock-and-saab-denmark-sign-strategic-agreement-for-arrowhead-frigate-opportunities/",
-          "source": "Naval News",
-          "ts": "Mon, 09 Nov 2026 14:20:47 +0000",
           "section": ""
         },
         {
@@ -757,6 +757,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Gaza floods destroy 70,000 tents; Trump open to immigration deal after midterms wipeout; Saudi strikes kill 21 children in Yemeni village",
+          "url": "https://www.dropsitenews.com/p/gaza-floods-trump-immigration-saudi-strikes",
+          "source": "Drop Site News",
+          "ts": "Mon, 09 Nov 2026 16:09:17 GMT",
+          "section": ""
+        },
+        {
           "title": "Deference, the Insurrection Act, and the Statutory History",
           "url": "https://www.justsecurity.org/163273/deference-insurrection-act-statutory-history/?utm_source=rss&utm_medium=rss&utm_campaign=deference-insurrection-act-statutory-history",
           "source": "Just Security",
@@ -852,13 +859,6 @@
           "url": "https://www.eff.org/deeplinks/2026/11/presenting-desire-lines-encoding-queer-digital-futures",
           "source": "Deeplinks",
           "ts": "Fri, 06 Nov 2026 18:21:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "Latest U.S. Strikes on Qeshm Island Hit Fishermen Who Clung to Wreckage for Hours",
-          "url": "https://www.dropsitenews.com/p/iran-qeshm-island-hormuz-us-strikes-trump-midterms",
-          "source": "Drop Site News",
-          "ts": "Fri, 06 Nov 2026 18:01:24 GMT",
           "section": ""
         },
         {
