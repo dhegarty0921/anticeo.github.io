@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T23:03:58.986578Z",
+  "generated_at": "2026-11-09T23:17:12.927408Z",
   "headline": {
-    "title": "Chicago voted for its first fully elected school board. What’s next?",
-    "url": "https://borderlessmag.org/2026/11/09/chicago-voted-for-its-first-fully-elected-school-board-whats-next/"
+    "title": "Trump’s mixed messages on immigration",
+    "url": "https://www.vox.com/the-logoff-newsletter-trump/510018/trump-60-minutes-immigration-stephen-miller"
   },
   "sections": [
     {
@@ -34,13 +34,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/kentucky-democrats-republicans-midterms-floyd-county/",
           "source": "Mother Jones",
           "ts": "Mon, 09 Nov 2026 22:26:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "How Medicaid affected one California House race",
-          "url": "https://www.npr.org/2026/11/09/nx-s1-6030983/how-medicaid-affected-one-california-house-race",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Nov 2026 17:25:19 -0500",
           "section": ""
         },
         {
@@ -111,6 +104,13 @@
           "url": "https://www.nytimes.com/2026/11/09/us/politics/supreme-court-border-wall-trump.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 09 Nov 2026 21:36:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Stephen Miller is now chief of staff. What does that mean for Trump?",
+          "url": "https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 09 Nov 2026 16:08:40 -0500",
           "section": ""
         },
         {
@@ -404,6 +404,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump’s mixed messages on immigration",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/510018/trump-60-minutes-immigration-stephen-miller",
+          "source": "Vox",
+          "ts": "2026-11-09T18:10:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 09 Nov 2026 23:02:28 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
           "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
           "source": "US news | The Guardian",
@@ -415,13 +429,6 @@
           "url": "https://religionnews.com/2026/11/09/bystanders-defend-seattle-diwali-celebration-targeted-by-the-far-right-agitators/",
           "source": "RNS",
           "ts": "Mon, 09 Nov 2026 22:54:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Nov 2026 22:44:38 GMT",
           "section": ""
         },
         {
@@ -509,13 +516,6 @@
           "section": ""
         },
         {
-          "title": "Trump wants an immigration deal. He could start with caregivers.",
-          "url": "https://www.vox.com/life/507156/caregiving-caregivers-visa-immigration-elderly-seniors-care-congress",
-          "source": "Vox",
-          "ts": "2026-11-09T12:55:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Hegseth Impeachment Vote Imminent",
           "url": "https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/",
           "source": "National Review",
@@ -563,6 +563,13 @@
           "section": ""
         },
         {
+          "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 09 Nov 2026 22:31:19 +0000",
+          "section": ""
+        },
+        {
           "title": "B-1B Lancer Pilots Are Now Training On HondaJets",
           "url": "https://www.twz.com/air/b-1b-lancer-pilots-are-now-training-on-hondajets",
           "source": "TWZ",
@@ -581,13 +588,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/9/hungarian-police-reportedly-detain-brother-of-ex-pm-viktor-orban?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 09 Nov 2026 22:13:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "Saudi Arabia reports new attack on key East-West pipeline",
-          "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 22:10:52 +0000",
           "section": ""
         },
         {
@@ -626,8 +626,8 @@
           "section": ""
         },
         {
-          "title": "Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war",
-          "url": "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
+          "title": "US Pentagon chief Hegseth faces impeachment push from over Iran war",
+          "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-from-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-09T20:15:00Z",
           "section": ""
