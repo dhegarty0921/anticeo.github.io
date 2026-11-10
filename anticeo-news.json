@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-10T23:17:04.302201Z",
+  "generated_at": "2026-11-10T23:32:34.494801Z",
   "headline": {
-    "title": "Republicans Turn Back Effort to Impeach Hegseth",
-    "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+    "title": "House Republicans sidestep effort to impeach Hegseth",
+    "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "Representative María Elvira Salazar Wins Re-Election in Florida",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/florida-house-27-salazar-rodriguez.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Nov 2026 23:24:36 +0000",
+          "section": ""
+        },
+        {
+          "title": "Newsom travels to Turkey for climate conference, blasts Trump as a 'no-show'",
+          "url": "https://www.latimes.com/california/story/2026-11-10/newsom-travels-to-turkey-for-climate-conference-blasts-trump-as-no-show",
+          "source": "California",
+          "ts": "Tue, 10 Nov 2026 23:22:48 GMT",
+          "section": ""
+        },
+        {
           "title": "Republicans Turn Back Effort to Impeach Hegseth",
           "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 23:09:26 +0000",
+          "ts": "Tue, 10 Nov 2026 23:17:48 +0000",
           "section": ""
         },
         {
@@ -23,24 +37,10 @@
           "section": ""
         },
         {
-          "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
-          "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 22:48:42 +0000",
-          "section": ""
-        },
-        {
           "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
           "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 10 Nov 2026 22:46:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "Fighting City Hall will get a lot more expensive under plan backed by L.A. Council",
-          "url": "https://www.latimes.com/california/story/2026-11-10/fighting-city-hall-will-get-lot-more-expensive-under-plan-backed-by-la-council",
-          "source": "California",
-          "ts": "Tue, 10 Nov 2026 22:40:01 GMT",
           "section": ""
         },
         {
@@ -69,6 +69,13 @@
           "url": "https://www.npr.org/2026/11/10/nx-s1-6035791/house-republicans-elect-jim-jordan-as-their-next-leader",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Nov 2026 16:57:23 -0500",
+          "section": ""
+        },
+        {
+          "title": "Should you trust new AI agents with your money and data?",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6018588/should-you-trust-new-ai-agents-with-your-money-and-data",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 10 Nov 2026 16:44:32 -0500",
           "section": ""
         },
         {
@@ -146,13 +153,6 @@
           "url": "https://www.propublica.org/article/alaska-prudhoe-lng-polar-novatek",
           "source": "ProPublica",
           "ts": "Tue, 10 Nov 2026 19:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
-          "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 10 Nov 2026 14:00:00 -0500",
           "section": ""
         },
         {
@@ -383,10 +383,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats’ Next Big AI Challenge",
+          "url": "https://www.theatlantic.com/newsletters/2026/11/democrats-next-big-ai-challenge/689376/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-10T18:23:00-05:00",
+          "section": ""
+        },
+        {
           "title": "House blocks effort from Republican lawmaker to impeach Pete Hegseth – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 23:09:07 GMT",
+          "ts": "Tue, 10 Nov 2026 23:12:42 GMT",
+          "section": ""
+        },
+        {
+          "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Nov 2026 23:12:12 GMT",
           "section": ""
         },
         {
@@ -394,13 +408,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Nov 2026 23:08:57 GMT",
-          "section": ""
-        },
-        {
-          "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 22:42:43 GMT",
           "section": ""
         },
         {
@@ -474,13 +481,6 @@
           "section": ""
         },
         {
-          "title": "Jensen Huang’s Apology May Be the Only Correct Use of AI",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/jensen-huang-ai-apology-nvidia/689366/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-10T13:08:00-05:00",
-          "section": ""
-        },
-        {
           "title": "California City Approves Protections for Polyamorous Arrangements",
           "url": "https://www.nationalreview.com/2026/11/california-city-approves-protections-for-polyamorous-arrangements/",
           "source": "National Review",
@@ -527,6 +527,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "House Republicans sidestep effort to impeach Hegseth",
+          "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+          "source": "News - Army Times",
+          "ts": "Tue, 10 Nov 2026 23:31:53 +0000",
+          "section": ""
+        },
+        {
+          "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+          "url": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-10T23:18:00Z",
+          "section": ""
+        },
         {
           "title": "Russia expels Moldovan diplomat in tit-for-tat move",
           "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
@@ -598,13 +612,6 @@
           "section": ""
         },
         {
-          "title": "Most Americans want new Democratic Congress to end Trump’s Iran war, poll finds",
-          "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
-          "source": "News - Army Times",
-          "ts": "Tue, 10 Nov 2026 19:29:39 +0000",
-          "section": ""
-        },
-        {
           "title": "BREAKING: Trump Suggests Territorial Changes in Ukraine",
           "url": "https://www.globalresearch.ca/trump-suggests-territorial-changes-ukraine/5945585",
           "source": "Global Research",
@@ -616,13 +623,6 @@
           "url": "https://www.twz.com/air/china-lifts-the-veil-on-the-gj-11-mysterious-dragon-stealth-ucav",
           "source": "TWZ",
           "ts": "Tue, 10 Nov 2026 14:27:30 -0500",
-          "section": ""
-        },
-        {
-          "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
-          "url": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-10T19:21:00Z",
           "section": ""
         },
         {
