@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-10T16:18:43.137690Z",
+  "generated_at": "2026-11-10T16:33:09.828640Z",
   "headline": {
-    "title": "Thoughts On Those Murky NVIDIA Spy Allegations",
-    "url": "https://www.moonofalabama.org/2026/11/thoughts-on-those-murky-nvidia-spy-allegations.html"
+    "title": "The Unbearable Mediocrity of Microdramas",
+    "url": "https://www.theatlantic.com/culture/2026/11/microdramas-festival-vertical-entertainment/689361/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
+          "url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Nov 2026 16:23:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "Thomas Massie Triggers Hegseth Impeachment Vote in House",
+          "url": "https://www.truthdig.com/articles/thomas-massie-triggers-hegseth-impeachment-vote-in-house/?utm_source=rss&utm_medium=rss&utm_campaign=thomas-massie-triggers-hegseth-impeachment-vote-in-house",
+          "source": "Truthdig",
+          "ts": "Tue, 10 Nov 2026 16:20:04 +0000",
+          "section": ""
+        },
         {
           "title": "Fired by Hegseth, New Member of Congress Supports His Ouster",
           "url": "https://www.nytimes.com/2026/11/10/us/politics/nancy-lacore-hegseth-impeachment.html",
@@ -142,13 +156,6 @@
           "section": ""
         },
         {
-          "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-          "url": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 13:43:10 +0000",
-          "section": ""
-        },
-        {
           "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
           "url": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -258,13 +265,6 @@
           "url": "https://www.aclu.org/news/religious-liberty/what-let-the-record-show-teaches-about-how-we-can-take-action-to-protect-public-school-students-and-families-religious-freedom",
           "source": "Posts | American Civil Liberties Union",
           "ts": "Mon, 09 Nov 2026 17:46:23 +0000",
-          "section": ""
-        },
-        {
-          "title": "EPA Pulls the Plug on Regulating Air Pollution From Livestock Operations",
-          "url": "https://www.truthdig.com/articles/epa-pulls-the-plug-on-regulating-air-pollution-from-giant-livestock-and-poultry-operations/?utm_source=rss&utm_medium=rss&utm_campaign=epa-pulls-the-plug-on-regulating-air-pollution-from-giant-livestock-and-poultry-operations",
-          "source": "Truthdig",
-          "ts": "Mon, 09 Nov 2026 16:49:42 +0000",
           "section": ""
         },
         {
@@ -390,10 +390,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Unbearable Mediocrity of Microdramas",
+          "url": "https://www.theatlantic.com/culture/2026/11/microdramas-festival-vertical-entertainment/689361/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-10T11:29:28-05:00",
+          "section": ""
+        },
+        {
+          "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Nov 2026 16:25:17 GMT",
+          "section": ""
+        },
+        {
+          "title": "Michigan sports parent allegedly defecates in rival high school’s corridor: ‘definitely a first’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/michigan-sports-parent-defecates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Nov 2026 16:23:12 GMT",
+          "section": ""
+        },
+        {
           "title": "Darializa Chevalier will be Congress’ 1st Latina Muslim. Her conversion is a New York story.",
           "url": "https://religionnews.com/2026/11/10/darializa-avila-chevalier-conversion-to-islam/",
           "source": "RNS",
           "ts": "Tue, 10 Nov 2026 16:16:44 +0000",
+          "section": ""
+        },
+        {
+          "title": "California City Approves Protections for Polyamorous Arrangements",
+          "url": "https://www.nationalreview.com/2026/11/california-city-approves-protections-for-polyamorous-arrangements/",
+          "source": "National Review",
+          "ts": "Tue, 10 Nov 2026 16:12:09 +0000",
           "section": ""
         },
         {
@@ -425,24 +453,10 @@
           "section": ""
         },
         {
-          "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 15:43:41 GMT",
-          "section": ""
-        },
-        {
           "title": "The Scapegoat",
           "url": "https://www.nationalreview.com/2026/11/the-scapegoat/",
           "source": "National Review",
           "ts": "Tue, 10 Nov 2026 15:14:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gilded statue in DC mocks Trump for ‘dodging’ Vietnam war draft over bone spurs",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-toe-statue-dc-vietnam-war-draft",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 15:12:28 GMT",
           "section": ""
         },
         {
@@ -460,24 +474,10 @@
           "section": ""
         },
         {
-          "title": "Getting Too Close to Trump Was a Mistake",
-          "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-10T09:30:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Trump’s Amnesty Talk",
           "url": "https://www.nationalreview.com/2026/11/trumps-amnesty-talk/",
           "source": "National Review",
           "ts": "Tue, 10 Nov 2026 13:31:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "Why Russia Is Targeting European Freezers",
-          "url": "https://www.nationalreview.com/2026/11/why-russia-is-targeting-european-freezers/",
-          "source": "National Review",
-          "ts": "Tue, 10 Nov 2026 11:30:12 +0000",
           "section": ""
         },
         {
@@ -533,6 +533,13 @@
           "source": "Deutsche Welle",
           "ts": "2026-11-10T15:57:00Z",
           "section": ""
+        },
+        {
+          "title": "EU-Wide Data Center Protests Take Aim at Brussels",
+          "url": "https://rt-english.com/news/648572-eu-wide-ai-data-center-protests/",
+          "source": "Global Research",
+          "ts": "Tue, 10 Nov 2026 15:53:48 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
@@ -617,13 +624,6 @@
           "source": "Naval News",
           "ts": "Tue, 10 Nov 2026 14:02:21 +0000",
           "section": ""
-        },
-        {
-          "title": "Shipping Crisis From Yemen to Africa: Geopolitical Domino Effect?",
-          "url": "https://www.globalresearch.ca/shipping-crisis-yemen-africa-geopolitical-domino-effect/5945527",
-          "source": "Global Research",
-          "ts": "Tue, 10 Nov 2026 13:55:43 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "To Implement Acquisition Transformation, Empower Military Mavericks",
@@ -715,7 +715,7 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
-          "title": "Thoughts On Those Murky NVIDIA Spy Allegations",
+          "title": "NVIDIA – Thoughts On Those Murky Spy Allegations",
           "url": "https://www.moonofalabama.org/2026/11/thoughts-on-those-murky-nvidia-spy-allegations.html",
           "source": "Moon of Alabama",
           "ts": "Tue, 10 Nov 2026 16:17:24 +0000",
