@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T01:47:03.938545Z",
+  "generated_at": "2026-11-10T02:04:55.404008Z",
   "headline": {
-    "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-    "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
   },
   "sections": [
     {
@@ -142,13 +142,6 @@
           "section": ""
         },
         {
-          "title": "‘You are not forgotten’: Using archaeology to find and bring home the remains of missing American service members",
-          "url": "https://newsroom.ucla.edu/stories/using-archaeology-find-bring-home-remains-missing-american-service-members",
-          "source": "UCLA",
-          "ts": "Mon, 09 Nov 2026 20:11:00 GMT",
-          "section": ""
-        },
-        {
           "title": "Why Every Revolutionary Needs “The Gadfly”",
           "url": "https://www.currentaffairs.org/news/why-every-revolutionary-needs-the-gadfly",
           "source": "blog",
@@ -174,6 +167,13 @@
           "url": "https://www.realclearpolitics.com/2026/11/09/it_was_the_economy_not_the_war_717038.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Mon, 09 Nov 2026 12:58:15 -0600",
+          "section": ""
+        },
+        {
+          "title": "UN Report Highlights North Korea’s Deepening Repression",
+          "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 09 Nov 2026 13:01:26 -0500",
           "section": ""
         },
         {
@@ -331,6 +331,20 @@
           "section": ""
         },
         {
+          "title": "Rights on the Ballot Alongside US Congressional Elections",
+          "url": "https://www.hrw.org/news/2026/11/06/rights-on-the-ballot-alongside-us-congressional-elections",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 06 Nov 2026 15:31:44 -0500",
+          "section": ""
+        },
+        {
+          "title": "Tanzanian Court Convicts Opposition Leader of Incitement",
+          "url": "https://www.hrw.org/news/2026/11/06/tanzanian-court-convicts-opposition-leader-of-incitement",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 06 Nov 2026 13:25:07 -0500",
+          "section": ""
+        },
+        {
           "title": "The Private Equity Lobbyist Network Surrounding Chuck Schumer",
           "url": "https://readsludge.com/2026/11/06/the-private-equity-lobbyist-network-surrounding-chuck-schumer/",
           "source": "Sludge",
@@ -386,7 +400,7 @@
           "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 01:18:06 GMT",
+          "ts": "Tue, 10 Nov 2026 01:53:32 GMT",
           "section": ""
         },
         {
