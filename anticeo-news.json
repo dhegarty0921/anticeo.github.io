@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T13:18:01.915563Z",
+  "generated_at": "2026-11-10T13:33:02.302448Z",
   "headline": {
-    "title": "Early Edition: November 10, 2026",
-    "url": "https://www.justsecurity.org/163937/early-edition-november-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-10-2026"
+    "title": "Trump’s Amnesty Talk",
+    "url": "https://www.nationalreview.com/2026/11/trumps-amnesty-talk/"
   },
   "sections": [
     {
@@ -12,14 +12,21 @@
           "title": "Here’s the latest.",
           "url": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-congress/heres-the-latest",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 13:04:20 +0000",
+          "ts": "Tue, 10 Nov 2026 13:27:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘I was so nervous’: Kerr Smith on Dawson’s Creek gay kiss backlash and homophobic abuse",
+          "url": "https://www.thepinknews.com/2026/11/10/kerr-smith-homophobic-vandalism/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Tue, 10 Nov 2026 13:26:44 +0000",
           "section": ""
         },
         {
           "title": "Anthropic to raise $64bn in major stock market listing",
           "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Tue, 10 Nov 2026 13:01:03 GMT",
+          "ts": "Tue, 10 Nov 2026 13:19:37 GMT",
           "section": ""
         },
         {
@@ -118,13 +125,6 @@
           "url": "https://www.npr.org/2026/11/10/g-s1-152777/up-first-newsletter-pete-hegseth-impeachment-trump-iran-nvidia-border-wall-texas",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Nov 2026 07:01:04 -0500",
-          "section": ""
-        },
-        {
-          "title": "French President and wife sue Candace Owens again over Brigitte Macron transgender claim",
-          "url": "https://www.thepinknews.com/2026/11/10/macron-owens-lawsuit-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Tue, 10 Nov 2026 12:00:12 +0000",
           "section": ""
         },
         {
@@ -383,24 +383,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Pete Hegseth calls impeachment effort against him ‘a political spectacle’ – US politics live",
+          "title": "Trump’s Amnesty Talk",
+          "url": "https://www.nationalreview.com/2026/11/trumps-amnesty-talk/",
+          "source": "National Review",
+          "ts": "Tue, 10 Nov 2026 13:31:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 13:06:28 GMT",
+          "ts": "Tue, 10 Nov 2026 13:21:24 GMT",
           "section": ""
         },
         {
-          "title": "White supremacist Nick Fuentes linked to college Republican group, records show",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/nick-fuentes-crpc-college-republicans",
+          "title": "Tech’s biggest names sunk a tax on billionaires’ wealth with $425m and a familiar playbook",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 13:00:54 GMT",
+          "ts": "Tue, 10 Nov 2026 13:19:35 GMT",
           "section": ""
         },
         {
-          "title": "A Trump proposal would punish single parents. Other wealthy countries have a different approach",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-vance-parents-payment-analysis",
+          "title": "Investigators recover voice recorder from Florida jet crash that killed nine people",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/voice-recorder-florida-plane-crash",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 13:00:53 GMT",
+          "ts": "Tue, 10 Nov 2026 13:15:43 GMT",
           "section": ""
         },
         {
@@ -411,7 +418,7 @@
           "section": ""
         },
         {
-          "title": "How I Became the Star* of a Hallmark Christmas Movie",
+          "title": "What I Learned About Christmas—And Life—By Starring* in a Hallmark Movie",
           "url": "https://www.theatlantic.com/magazine/2026/12/hallmark-christmas-movie-actor/689028/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-10T07:00:00-05:00",
@@ -507,19 +514,33 @@
           "source": "LA Public Press",
           "ts": "Mon, 09 Nov 2026 22:29:39 +0000",
           "section": ""
-        },
-        {
-          "title": "The Jewish Vote Moves Toward the GOP",
-          "url": "https://www.nationalreview.com/2026/11/the-jewish-vote-moves-toward-the-gop/",
-          "source": "National Review",
-          "ts": "Mon, 09 Nov 2026 20:40:45 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "“Narco Drone Wars”: Mapping Armed Drone Proliferation Across Latin American Criminal Organizations",
+          "url": "https://www.globalresearch.ca/armed-drone-proliferation-latin-american-criminal-organizations/5945447",
+          "source": "Global Research",
+          "ts": "Tue, 10 Nov 2026 13:16:37 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Universal Healthcare in America: Its Time Has Come",
+          "url": "https://www.globalresearch.ca/universal-healthcare-time-come/5945457",
+          "source": "Global Research",
+          "ts": "Tue, 10 Nov 2026 13:10:56 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Trump Renews Designation of Nicaragua as an “Extraordinary Threat”",
+          "url": "https://www.globalresearch.ca/trump-renews-designation-nicaragua-extraordinary-threat/5945430",
+          "source": "Global Research",
+          "ts": "Tue, 10 Nov 2026 13:08:29 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
         {
           "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
           "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
@@ -582,13 +603,6 @@
           "source": "War on the Rocks",
           "ts": "Tue, 10 Nov 2026 08:30:35 +0000",
           "section": ""
-        },
-        {
-          "title": "Steven Roy Martin Wanted to Deny Hospital Care to the Unvaccinated, Now His Leukemia Is Progressing",
-          "url": "https://makisw.substack.com/p/news-steven-roy-martin-wanted-to?utm_source=post-email-title&publication_id=1385328&post_id=224166278&utm_campaign=email-post-title&isFreemail=true&r=6fupxd&triedRedirect=true&utm_medium=email",
-          "source": "Global Research",
-          "ts": "Tue, 10 Nov 2026 08:21:31 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Saab launches next generation 9LV naval combat system",
@@ -675,20 +689,6 @@
           "section": ""
         },
         {
-          "title": "Selected Articles: Could Venezuela Become the Pillar of the New Petrodollar?",
-          "url": "https://www.globalresearch.ca/selected-articles-could-venezuela-become-pillar-new-petrodollar/5945495",
-          "source": "Global Research",
-          "ts": "Mon, 09 Nov 2026 16:01:37 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Maybe We Need to Rethink About Humanity",
-          "url": "https://www.globalresearch.ca/maybe-need-rethink-about-humanity/5945428",
-          "source": "Global Research",
-          "ts": "Mon, 09 Nov 2026 15:54:21 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "Tough choices, uncertainty, and scrutiny may lie ahead for defense contractors",
           "url": "https://www.defenseone.com/business/2026/11/tough-choices-uncertainty-and-scrutiny-may-lay-ahead-defense-contractors/417116/",
           "source": "Defense One - All Content",
@@ -728,6 +728,13 @@
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "Trump Lied: Taxpayers Paid For Those Dodgy DOGE Bro Starlink Terminals Duct-Taped To The White House Roof",
+          "url": "https://www.techdirt.com/2026/11/10/trump-lied-taxpayers-paid-for-those-dodgy-doge-bro-starlink-terminals-duct-taped-to-the-white-house-roof/",
+          "source": "Techdirt",
+          "ts": "Tue, 10 Nov 2026 13:22:27 +0000",
+          "section": ""
+        },
         {
           "title": "Early Edition: November 10, 2026",
           "url": "https://www.justsecurity.org/163937/early-edition-november-10-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-10-2026",
@@ -776,13 +783,6 @@
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Mon, 09 Nov 2026 21:18:59 +0000",
           "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Theater Chains Pout About Shorter Streaming Release Windows, Refuse To Show David Fincher’s Latest Film",
-          "url": "https://www.techdirt.com/2026/11/09/theater-chains-pout-about-shorter-streaming-release-windows-refuse-to-show-david-finchers-latest-film/",
-          "source": "Techdirt",
-          "ts": "Mon, 09 Nov 2026 21:16:04 +0000",
-          "section": ""
         },
         {
           "title": "U.S. Supreme Court Deals Final Blow to Corporate Human Rights Accountability",
@@ -853,6 +853,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Vigil marks 25 years of Irish complicity in US war crimes",
+          "url": "https://www.middleeastmonitor.com/20261110-vigil-marks-25-years-of-irish-complicity-in-us-war-crimes/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 10 Nov 2026 13:20:38 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Iraq reopens Shib border crossing with Iran after 3-week closure",
           "url": "https://www.middleeastmonitor.com/20261110-iraq-reopens-shib-border-crossing-with-iran-after-3-week-closure/",
           "source": "Middle East Monitor",
@@ -864,13 +871,6 @@
           "url": "https://www.middleeastmonitor.com/20261110-the-sum-of-the-humanitarian-paradigm-is-deadly/",
           "source": "Middle East Monitor",
           "ts": "Tue, 10 Nov 2026 12:16:50 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Syria foreign minister denies agreement to send troops to Yemen",
-          "url": "https://www.middleeastmonitor.com/20261110-syria-foreign-minister-denies-agreement-to-send-troops-to-yemen/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 10 Nov 2026 11:58:42 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
