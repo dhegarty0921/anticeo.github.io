@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-10T23:03:58.538919Z",
+  "generated_at": "2026-11-10T23:17:04.302201Z",
   "headline": {
-    "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates"
+    "title": "Republicans Turn Back Effort to Impeach Hegseth",
+    "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Republicans Turn Back Effort to Impeach Hegseth",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Nov 2026 23:09:26 +0000",
+          "section": ""
+        },
+        {
+          "title": "Search suspended for California woman swept out to sea in high tides",
+          "url": "https://www.latimes.com/california/story/2026-11-10/santa-cruz-beach-woman-search-suspended",
+          "source": "California",
+          "ts": "Tue, 10 Nov 2026 23:00:49 GMT",
+          "section": ""
+        },
         {
           "title": "Trump Officials Drop Threat to Colorado School District Over Transgender Issues",
           "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-colorado-transgender.html",
@@ -19,7 +33,7 @@
           "title": "Kennedys Move to Block Trump’s Arch, Saying It Would Disturb J.F.K. Gravesite",
           "url": "https://www.nytimes.com/2026/11/10/us/politics/kennedy-trump-arch-lawsuit.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 22:46:11 +0000",
+          "ts": "Tue, 10 Nov 2026 22:46:12 +0000",
           "section": ""
         },
         {
@@ -27,13 +41,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-10/fighting-city-hall-will-get-lot-more-expensive-under-plan-backed-by-la-council",
           "source": "California",
           "ts": "Tue, 10 Nov 2026 22:40:01 GMT",
-          "section": ""
-        },
-        {
-          "title": "'Thank you': Ojai Raptor Center inundated with expressions of gratitude over treatment of sick bald eagle",
-          "url": "https://www.latimes.com/california/story/2026-11-10/thank-you-ojai-raptor-center-inundated-with-expressions-of-gratitude-over-treatment-of-sick-bald-eagle",
-          "source": "California",
-          "ts": "Tue, 10 Nov 2026 22:33:32 GMT",
           "section": ""
         },
         {
@@ -62,13 +69,6 @@
           "url": "https://www.npr.org/2026/11/10/nx-s1-6035791/house-republicans-elect-jim-jordan-as-their-next-leader",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 10 Nov 2026 16:57:23 -0500",
-          "section": ""
-        },
-        {
-          "title": "Firing of Voice of America Chief Was Illegal, Appeals Court Rules",
-          "url": "https://www.nytimes.com/2026/11/10/us/politics/voice-of-america-appeals-court.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 21:47:25 +0000",
           "section": ""
         },
         {
@@ -383,10 +383,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump ally Jim Jordan to lead House Republicans next year, with John Thune to return as Senate minority leader - live",
+          "title": "House blocks effort from Republican lawmaker to impeach Pete Hegseth – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 22:49:17 GMT",
+          "ts": "Tue, 10 Nov 2026 23:09:07 GMT",
+          "section": ""
+        },
+        {
+          "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Nov 2026 23:08:57 GMT",
           "section": ""
         },
         {
@@ -401,13 +408,6 @@
           "url": "https://religionnews.com/2026/11/10/in-argentina-francis-legacy-hovers-over-leo/",
           "source": "RNS",
           "ts": "Tue, 10 Nov 2026 22:37:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
-          "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 22:37:13 GMT",
           "section": ""
         },
         {
@@ -708,6 +708,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Why VPNs Are Worth Defending",
+          "url": "https://www.techdirt.com/2026/11/10/why-vpns-are-worth-defending/",
+          "source": "Techdirt",
+          "ts": "Tue, 10 Nov 2026 23:05:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Tone-Deaf Attorney General Todd Blanche Says ALPRs Aren’t A Privacy Concern",
           "url": "https://www.techdirt.com/2026/11/10/tone-deaf-attorney-general-todd-blanche-says-alprs-arent-a-privacy-concern/",
           "source": "Techdirt",
@@ -740,13 +747,6 @@
           "url": "https://www.techdirt.com/2026/11/10/from-pirates-to-protesters-france-keeps-reaching-for-the-internets-choke-points/",
           "source": "Techdirt",
           "ts": "Tue, 10 Nov 2026 19:03:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "Daily Deal: Rosetta Stone Sapphire 1-Year Subscription",
-          "url": "https://www.techdirt.com/2026/11/10/daily-deal-rosetta-stone-sapphire-1-year-subscription-2/",
-          "source": "Techdirt",
-          "ts": "Tue, 10 Nov 2026 18:58:00 +0000",
           "section": ""
         },
         {
