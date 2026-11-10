@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T02:21:59.182555Z",
+  "generated_at": "2026-11-10T02:33:00.345124Z",
   "headline": {
-    "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-    "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html"
+    "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police"
   },
   "sections": [
     {
@@ -142,6 +142,20 @@
           "section": ""
         },
         {
+          "title": "The LA Sentinel’s Student Athlete of the Week: Bryce “Squiddy” Johnson",
+          "url": "https://thelalocal.org/sports/the-la-sentinels-student-athlete-of-the-week-bryce-squiddy-johnson/",
+          "source": "LA Local",
+          "ts": "Mon, 09 Nov 2026 20:44:14 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘You are not forgotten’: Using archaeology to find and bring home the remains of missing American service members",
+          "url": "https://newsroom.ucla.edu/stories/using-archaeology-find-bring-home-remains-missing-american-service-members",
+          "source": "UCLA",
+          "ts": "Mon, 09 Nov 2026 20:11:00 GMT",
+          "section": ""
+        },
+        {
           "title": "Why Every Revolutionary Needs “The Gadfly”",
           "url": "https://www.currentaffairs.org/news/why-every-revolutionary-needs-the-gadfly",
           "source": "blog",
@@ -167,13 +181,6 @@
           "url": "https://www.realclearpolitics.com/2026/11/09/it_was_the_economy_not_the_war_717038.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Mon, 09 Nov 2026 12:58:15 -0600",
-          "section": ""
-        },
-        {
-          "title": "UN Report Highlights North Korea’s Deepening Repression",
-          "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
-          "source": "Human Rights Watch News",
-          "ts": "Mon, 09 Nov 2026 13:01:26 -0500",
           "section": ""
         },
         {
@@ -296,13 +303,6 @@
           "section": ""
         },
         {
-          "title": "Did the Iran War Cost Trump the Midterms?",
-          "url": "https://www.youtube.com/watch?v=2uJXPVGA-LM",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Sun, 08 Nov 2026 21:27:00 +0000",
-          "section": ""
-        },
-        {
           "title": "‘Unbearable Hell’: Araghchi Warns US as Guards Dismiss US ‘Iron Gate’ Plan - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLURMVml5YXBoVUxDMEVDUF83aHZHVXhCTDlDdWxkdUhmVXpiWGtQNmROUno3dlNDMUJMSWxBVXpXNnhadDc3TGJVbVUwRllCeHM1ZVJGMHdzYU9IdjhLNTI3YmJtWWtEV1JwT2FYSEQ5amt0eEhEbm5MWWtSUWJKanJaY19xNkNCbnkwX0VkeFprbXlHc0c5Sm9NdVA5bzk4RlRLNE5raGM?oc=5",
           "source": "via Google News",
@@ -328,20 +328,6 @@
           "url": "https://www.currentaffairs.org/news/recovering-the-history-of-anti-zionist-judaism",
           "source": "blog",
           "ts": "Sat, 07 Nov 2026 02:06:20 GMT",
-          "section": ""
-        },
-        {
-          "title": "Rights on the Ballot Alongside US Congressional Elections",
-          "url": "https://www.hrw.org/news/2026/11/06/rights-on-the-ballot-alongside-us-congressional-elections",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 06 Nov 2026 15:31:44 -0500",
-          "section": ""
-        },
-        {
-          "title": "Tanzanian Court Convicts Opposition Leader of Incitement",
-          "url": "https://www.hrw.org/news/2026/11/06/tanzanian-court-convicts-opposition-leader-of-incitement",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 06 Nov 2026 13:25:07 -0500",
           "section": ""
         },
         {
@@ -397,10 +383,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Police investigate as nearly 30 Santa Barbara half-marathon runners fall ill with ‘unusual symptoms’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/santa-barbara-half-marathon-illness-police",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Nov 2026 02:19:47 GMT",
+          "section": ""
+        },
+        {
           "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 02:06:49 GMT",
+          "ts": "Tue, 10 Nov 2026 02:12:29 GMT",
           "section": ""
         },
         {
@@ -408,13 +401,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
           "source": "US news | The Guardian",
           "ts": "Tue, 10 Nov 2026 01:03:14 GMT",
-          "section": ""
-        },
-        {
-          "title": "Senate advances bill to speed up projects from gas pipelines to clean energy",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-energy-infrastructure-bill-vote",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 00:41:13 GMT",
           "section": ""
         },
         {
@@ -439,6 +425,20 @@
           "section": ""
         },
         {
+          "title": "Christians are now getting freaked out by Trump",
+          "url": "https://www.vox.com/politics/510041/trump-douthat-heaven-hell-forgiveness-jesus-christ-post-christian-right-evangelical-catholic",
+          "source": "Vox",
+          "ts": "2026-11-09T18:25:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Trump’s mixed messages on immigration",
+          "url": "https://www.vox.com/the-logoff-newsletter-trump/510018/trump-60-minutes-immigration-stephen-miller",
+          "source": "Vox",
+          "ts": "2026-11-09T18:10:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Bystanders defend Seattle Diwali celebration targeted by far-right agitators",
           "url": "https://religionnews.com/2026/11/09/bystanders-defend-seattle-diwali-celebration-targeted-by-the-far-right-agitators/",
           "source": "RNS",
@@ -450,6 +450,13 @@
           "url": "https://lapublicpress.org/2026/11/how-la-voted-in-the-2026-mayors-race-precinct-by-precinct/",
           "source": "LA Public Press",
           "ts": "Mon, 09 Nov 2026 22:29:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Sex, spies, and microchips",
+          "url": "https://www.vox.com/today-explained-newsletter/509593/nvidia-jensen-huang-chinese-spy-affair",
+          "source": "Vox",
+          "ts": "2026-11-09T17:25:00-05:00",
           "section": ""
         },
         {
@@ -488,24 +495,10 @@
           "section": ""
         },
         {
-          "title": "Trump wants an immigration deal. He could start with caregivers.",
-          "url": "https://www.vox.com/life/507156/caregiving-caregivers-visa-immigration-elderly-seniors-care-congress",
-          "source": "Vox",
-          "ts": "2026-11-09T12:55:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Hegseth Impeachment Vote Imminent",
           "url": "https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/",
           "source": "National Review",
           "ts": "Mon, 09 Nov 2026 16:24:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "Two cities just voted to get Flock cameras out. It’s only the beginning.",
-          "url": "https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance",
-          "source": "Vox",
-          "ts": "2026-11-09T11:00:00-05:00",
           "section": ""
         },
         {
@@ -520,13 +513,6 @@
           "url": "https://www.christianitytoday.com/2026/11/qa-director-aaron-burns-jimmy-stewart-faith/",
           "source": "Christianity Today",
           "ts": "Mon, 09 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Are you abandoning the fight if you move from a red state to a blue one?",
-          "url": "https://www.vox.com/advice/509867/ethics-moving-red-state-blue-state",
-          "source": "Vox",
-          "ts": "2026-11-09T06:00:00-05:00",
           "section": ""
         },
         {
@@ -721,13 +707,6 @@
           "url": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-248.html",
           "source": "Moon of Alabama",
           "ts": "Sun, 08 Nov 2026 12:17:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Pernicious Attempt to Merge US and Israeli Military Industrial Sectors",
-          "url": "https://www.youtube.com/watch?v=QiubKyL2fOA&t=2474s",
-          "source": "Quincy Institute for Responsible Statecraft",
-          "ts": "Sat, 07 Nov 2026 16:42:13 +0000",
           "section": ""
         },
         {
@@ -981,13 +960,6 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
           "source": "American Immigration Council",
           "ts": "Mon, 09 Nov 2026 18:20:47 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Pricing - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESF9UcXp2OGlCX2JIYkJidFc4cVRDRHhkZThEN3QyWGk2Z095VDlaOFhjNEd2MllFN0Vkc0gxczJiRVlya2dVczNYT2w?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 09 Nov 2026 17:17:51 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
