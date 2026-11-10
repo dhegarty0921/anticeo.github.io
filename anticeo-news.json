@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-10T02:04:55.404008Z",
+  "generated_at": "2026-11-10T02:21:59.182555Z",
   "headline": {
-    "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+    "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+    "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+          "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 10 Nov 2026 02:13:11 +0000",
+          "section": ""
+        },
         {
           "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
           "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
@@ -48,13 +55,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-09/police-launch-probe-after-santa-barbara-half-marathon-runners-with-unusual-symptoms-seek-medical-care",
           "source": "California",
           "ts": "Tue, 10 Nov 2026 00:19:38 GMT",
-          "section": ""
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-          "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 10 Nov 2026 00:08:43 +0000",
           "section": ""
         },
         {
@@ -400,7 +400,7 @@
           "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 10 Nov 2026 01:53:32 GMT",
+          "ts": "Tue, 10 Nov 2026 02:06:49 GMT",
           "section": ""
         },
         {
@@ -439,20 +439,6 @@
           "section": ""
         },
         {
-          "title": "Christians are now getting freaked out by Trump",
-          "url": "https://www.vox.com/politics/510041/trump-douthat-heaven-hell-forgiveness-jesus-christ-post-christian-right-evangelical-catholic",
-          "source": "Vox",
-          "ts": "2026-11-09T18:25:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Trump’s mixed messages on immigration",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/510018/trump-60-minutes-immigration-stephen-miller",
-          "source": "Vox",
-          "ts": "2026-11-09T18:10:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Bystanders defend Seattle Diwali celebration targeted by far-right agitators",
           "url": "https://religionnews.com/2026/11/09/bystanders-defend-seattle-diwali-celebration-targeted-by-the-far-right-agitators/",
           "source": "RNS",
@@ -464,13 +450,6 @@
           "url": "https://lapublicpress.org/2026/11/how-la-voted-in-the-2026-mayors-race-precinct-by-precinct/",
           "source": "LA Public Press",
           "ts": "Mon, 09 Nov 2026 22:29:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "Sex, spies, and microchips",
-          "url": "https://www.vox.com/today-explained-newsletter/509593/nvidia-jensen-huang-chinese-spy-affair",
-          "source": "Vox",
-          "ts": "2026-11-09T17:25:00-05:00",
           "section": ""
         },
         {
@@ -509,10 +488,24 @@
           "section": ""
         },
         {
+          "title": "Trump wants an immigration deal. He could start with caregivers.",
+          "url": "https://www.vox.com/life/507156/caregiving-caregivers-visa-immigration-elderly-seniors-care-congress",
+          "source": "Vox",
+          "ts": "2026-11-09T12:55:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Hegseth Impeachment Vote Imminent",
           "url": "https://www.nationalreview.com/2026/11/hegseth-impeachment-vote-imminent/",
           "source": "National Review",
           "ts": "Mon, 09 Nov 2026 16:24:57 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two cities just voted to get Flock cameras out. It’s only the beginning.",
+          "url": "https://www.vox.com/future-perfect/509941/midterms-vote-flock-privacy-surveillance",
+          "source": "Vox",
+          "ts": "2026-11-09T11:00:00-05:00",
           "section": ""
         },
         {
@@ -530,6 +523,13 @@
           "section": ""
         },
         {
+          "title": "Are you abandoning the fight if you move from a red state to a blue one?",
+          "url": "https://www.vox.com/advice/509867/ethics-moving-red-state-blue-state",
+          "source": "Vox",
+          "ts": "2026-11-09T06:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Three Reasons Billy Graham Captured the World’s Attention",
           "url": "https://www.christianitytoday.com/2026/11/three-reasons-billy-graham-captured-worlds-attention/",
           "source": "Christianity Today",
@@ -542,24 +542,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "France blames Iran for October supermarket cyberattack",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+          "title": "Cameroon sets date for twice-delayed legislative and local elections",
+          "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Nov 2026 01:01:47 +0000",
+          "ts": "Tue, 10 Nov 2026 02:03:59 +0000",
           "section": ""
         },
         {
-          "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+          "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Nov 2026 01:00:00 +0000",
+          "ts": "Tue, 10 Nov 2026 01:59:59 +0000",
           "section": ""
         },
         {
-          "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
-          "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+          "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+          "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Nov 2026 00:57:58 +0000",
+          "ts": "Tue, 10 Nov 2026 01:56:47 +0000",
           "section": ""
         },
         {
@@ -981,6 +981,13 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
           "source": "American Immigration Council",
           "ts": "Mon, 09 Nov 2026 18:20:47 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Pricing - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESF9UcXp2OGlCX2JIYkJidFc4cVRDRHhkZThEN3QyWGk2Z095VDlaOFhjNEd2MllFN0Vkc0gxczJiRVlya2dVczNYT2w?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 09 Nov 2026 17:17:51 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
