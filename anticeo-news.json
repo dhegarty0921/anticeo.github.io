@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T01:04:20.382188Z",
+  "generated_at": "2026-11-10T01:17:45.730160Z",
   "headline": {
-    "title": "What’s in the letter LA leaders delivered to White Memorial after ICE activity?",
-    "url": "https://thelalocal.org/immigration/la-leaders-white-memorial-letter-ice-activity/"
+    "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
+    "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects"
   },
   "sections": [
     {
@@ -390,6 +390,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Senate advances bill to speed up permit reviews for infrastructure projects",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/senate-advances-bill-energy-projects",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 10 Nov 2026 01:03:14 GMT",
+          "section": ""
+        },
+        {
           "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
           "source": "US news | The Guardian",
@@ -404,7 +411,7 @@
           "section": ""
         },
         {
-          "title": "Jensen Huang Is Too Big to Fail",
+          "title": "A Scandal at the Center of the Economy",
           "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-09T19:28:50-05:00",
@@ -422,13 +429,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/immigration-trump-border-asylum/689318/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-09T18:52:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
-          "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 09 Nov 2026 23:48:36 GMT",
           "section": ""
         },
         {
@@ -535,6 +535,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "France blames Iran for October supermarket cyberattack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Nov 2026 01:01:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Nov 2026 01:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+          "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Nov 2026 00:57:58 +0000",
+          "section": ""
+        },
+        {
           "title": "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
           "url": "https://www.twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
           "source": "TWZ",
@@ -549,31 +570,10 @@
           "section": ""
         },
         {
-          "title": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 23:55:23 +0000",
-          "section": ""
-        },
-        {
           "title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
           "url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-09T23:55:00Z",
-          "section": ""
-        },
-        {
-          "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-          "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 23:53:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 09 Nov 2026 23:47:11 +0000",
           "section": ""
         },
         {
@@ -981,6 +981,13 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
           "source": "American Immigration Council",
           "ts": "Mon, 09 Nov 2026 18:20:47 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Pricing - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESF9UcXp2OGlCX2JIYkJidFc4cVRDRHhkZThEN3QyWGk2Z095VDlaOFhjNEd2MllFN0Vkc0gxczJiRVlya2dVczNYT2w?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 09 Nov 2026 17:17:51 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
