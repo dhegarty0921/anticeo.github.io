@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-11-10T14:47:12.918330Z",
+  "generated_at": "2026-11-10T15:04:09.961854Z",
   "headline": {
-    "title": "Here’s the latest.",
-    "url": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-congress/heres-the-latest"
+    "title": "The Trolls’ Comeuppance",
+    "url": "https://www.theatlantic.com/ideas/2026/11/attention-economy-republicans-failure/689347/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Hegseth Lashes Out at Impeachment Push, Accuses Critics of “Sabotage”",
+          "url": "https://www.motherjones.com/politics/2026/11/hegseth-impeachment-sabotage-massie-iran-boat-strikes-legal/",
+          "source": "Mother Jones",
+          "ts": "Tue, 10 Nov 2026 14:56:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 10 Nov 2026 14:46:50 GMT",
+          "section": ""
+        },
         {
           "title": "Here’s the latest.",
           "url": "https://www.nytimes.com/live/2026/11/10/us/hegseth-impeachment-congress/heres-the-latest",
@@ -79,13 +93,6 @@
           "section": ""
         },
         {
-          "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 10 Nov 2026 14:04:22 GMT",
-          "section": ""
-        },
-        {
           "title": "Malik Books founder and 1984 Olympian Malik Muhammad champions Black literacy and community empowerment",
           "url": "https://thelalocal.org/neighborhoods/south-la/malik-books-founder-and-1984-olympian-malik-muhammad-champions-black-literacy-and-community-empowerment/",
           "source": "LA Local",
@@ -137,13 +144,6 @@
         {
           "title": "Meet the “Thielbillies” Reshaping the Republican Party",
           "url": "https://www.motherjones.com/politics/2026/11/thielbillies-tennessee-right-wing-tech-utopia-nativist-movement-peter-thiel-nashville-republican-midterms/",
-          "source": "Mother Jones",
-          "ts": "Tue, 10 Nov 2026 12:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Oligarchs Got Crushed on Election Day, But Still Managed to Kill California’s Wealth Tax Dreams",
-          "url": "https://www.motherjones.com/politics/2026/11/california-billionaire-tax-prop-40-defeated-prop-42-passes-results-oligarchs-wealth-retirement-savings/",
           "source": "Mother Jones",
           "ts": "Tue, 10 Nov 2026 12:30:00 +0000",
           "section": ""
@@ -390,6 +390,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Trolls’ Comeuppance",
+          "url": "https://www.theatlantic.com/ideas/2026/11/attention-economy-republicans-failure/689347/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-10T10:02:03-05:00",
+          "section": ""
+        },
+        {
           "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
           "source": "US news | The Guardian",
@@ -427,13 +434,6 @@
         {
           "title": "The Lost World of Aquaterra",
           "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-10T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "What I Learned About Christmas—And Life—By Starring* in a Hallmark Movie",
-          "url": "https://www.theatlantic.com/magazine/2026/12/hallmark-christmas-movie-actor/689028/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-10T07:00:00-05:00",
           "section": ""
@@ -535,6 +535,20 @@
           "section": ""
         },
         {
+          "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
+          "url": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Nov 2026 14:40:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Did humanity learn the right lessons from WWII?",
+          "url": "https://www.aljazeera.com/video/doha-debates/2026/11/10/did-humanity-learn-the-right-lessons-from-wwii?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 10 Nov 2026 14:36:03 +0000",
+          "section": ""
+        },
+        {
           "title": "Megaspeed and the battle to go high-end Nvidia chips into China",
           "url": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -542,17 +556,10 @@
           "section": ""
         },
         {
-          "title": "How a Nigerian vendor survives on selling local street delicacy",
+          "title": "How a Nigerian street food vendor built a life for herself and her family",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/how-a-nigerian-vendor-survives-on-selling-local-street-delicacy?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 10 Nov 2026 14:28:17 +0000",
-          "section": ""
-        },
-        {
-          "title": "What is Shahid Kaveh, ⁠⁠the Iran cyberunit tied to France’s fridge hacking?",
-          "url": "https://www.aljazeera.com/news/2026/11/10/what-is-shahid-kaveh-%e2%81%a0the-iran-cyber-unit-tied-to-frances-fridge-hacking?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Nov 2026 14:27:45 +0000",
           "section": ""
         },
         {
@@ -568,13 +575,6 @@
           "source": "Global Research",
           "ts": "Tue, 10 Nov 2026 14:06:14 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-          "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 10 Nov 2026 14:03:31 +0000",
-          "section": ""
         },
         {
           "title": "UK Launches £90M ‘Atlantic Net’ Project to Protect Undersea Cables and Hunt Submarines",
@@ -619,8 +619,8 @@
           "section": ""
         },
         {
-          "title": "To Implement Acquisition Reform, Empower Military Mavericks",
-          "url": "https://warontherocks.com/cogs-of-war/to-implement-acquisition-reform-empower-military-mavericks/",
+          "title": "To Implement Acquisition Transformation, Empower Military Mavericks",
+          "url": "https://warontherocks.com/cogs-of-war/to-implement-acquisition-transformation-empower-military-mavericks/",
           "source": "War on the Rocks",
           "ts": "Tue, 10 Nov 2026 09:00:47 +0000",
           "section": ""
@@ -967,6 +967,13 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
           "source": "American Immigration Council",
           "ts": "Mon, 09 Nov 2026 18:20:47 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Pricing - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESF9UcXp2OGlCX2JIYkJidFc4cVRDRHhkZThEN3QyWGk2Z095VDlaOFhjNEd2MllFN0Vkc0gxczJiRVlya2dVczNYT2w?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 09 Nov 2026 17:17:51 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
