@@ -1,13 +1,34 @@
 {
-  "generated_at": "2026-11-10T09:32:52.865632Z",
+  "generated_at": "2026-11-10T09:47:38.952465Z",
   "headline": {
-    "title": "Alseamar’s Sonusia Builds Layers in CUI and Wider Underwater Surveillance",
-    "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/alseamars-sonusia-builds-layers-in-cui-and-wider-underwater-surveillance/"
+    "title": "DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels",
+    "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Morning news brief",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6032705/morning-news-brief",
+          "source": "NPR Topics: News",
+          "ts": "Tue, 10 Nov 2026 04:38:48 -0500",
+          "section": ""
+        },
+        {
+          "title": "House Republicans to elect a new leader as they look to rebuild from midterm defeat",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-6030988/house-republicans-to-elect-a-new-leader-as-they-look-to-rebuild-from-midterm-defeat",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 10 Nov 2026 04:38:39 -0500",
+          "section": ""
+        },
+        {
+          "title": "Trump's crypto profits raise alarms for transparency advocates",
+          "url": "https://www.npr.org/2026/11/10/nx-s1-5983730/trumps-crypto-profits-raise-alarms-for-transparency-advocates",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 10 Nov 2026 04:38:28 -0500",
+          "section": ""
+        },
         {
           "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
           "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
@@ -41,13 +62,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-09/voters-approve-prop-38-medical-research-bond-measure",
           "source": "California",
           "ts": "Tue, 10 Nov 2026 04:01:30 GMT",
-          "section": ""
-        },
-        {
-          "title": "California voters defeat billionaire tax proposal that divided Democrats",
-          "url": "https://www.npr.org/2026/11/09/g-s1-151625/california-billionaire-tax-referendum",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Nov 2026 22:05:39 -0500",
           "section": ""
         },
         {
@@ -121,13 +135,6 @@
           "section": ""
         },
         {
-          "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-          "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Nov 2026 17:30:49 -0500",
-          "section": ""
-        },
-        {
           "title": "Democrats Finally Lost Their Last State House Seat in Rural Kentucky",
           "url": "https://www.motherjones.com/politics/2026/11/kentucky-democrats-republicans-midterms-floyd-county/",
           "source": "Mother Jones",
@@ -156,13 +163,6 @@
           "section": ""
         },
         {
-          "title": "Stephen Miller is now chief of staff. What does that mean for Trump?",
-          "url": "https://www.npr.org/2026/11/09/nx-s1-6034461/stephen-miller-is-now-chief-of-staff-what-does-that-mean-for-trump",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 09 Nov 2026 16:08:40 -0500",
-          "section": ""
-        },
-        {
           "title": "Past 4 Years Have Been Hottest on Record, UN Meteorological Organization Finds",
           "url": "https://truthout.org/articles/past-4-years-have-been-hottest-on-record-un-meteorological-organization-finds/",
           "source": "Truthout",
@@ -174,13 +174,6 @@
           "url": "https://www.currentaffairs.org/news/why-every-revolutionary-needs-the-gadfly",
           "source": "blog",
           "ts": "Mon, 09 Nov 2026 19:58:58 GMT",
-          "section": ""
-        },
-        {
-          "title": "UN Report Highlights North Korea’s Deepening Repression",
-          "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
-          "source": "Human Rights Watch News",
-          "ts": "Mon, 09 Nov 2026 13:01:26 -0500",
           "section": ""
         },
         {
@@ -535,6 +528,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels",
+          "url": "https://www.dw.com/en/dr-congo-66-soldiers-sentenced-to-death-for-cowardice-in-conflict-with-frn-rebels/a-79906794?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-10T09:43:00Z",
+          "section": ""
+        },
+        {
           "title": "Alseamar’s Sonusia Builds Layers in CUI and Wider Underwater Surveillance",
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/alseamars-sonusia-builds-layers-in-cui-and-wider-underwater-surveillance/",
           "source": "Naval News",
@@ -595,13 +595,6 @@
           "url": "https://www.dw.com/en/why-electrification-is-the-climate-game-changer-we-need/a-79615979?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-10T08:00:00Z",
-          "section": ""
-        },
-        {
-          "title": "Will Australia push for fossil fuel exit at UN talks?",
-          "url": "https://www.dw.com/en/will-australia-push-for-fossil-fuel-exit-at-un-talks/a-79782066?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-10T07:43:00Z",
           "section": ""
         },
         {
@@ -874,6 +867,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Saied accuses ‘remnants of colonialism’ of fuelling chaos, crises in Tunisia",
+          "url": "https://www.middleeastmonitor.com/20261110-saied-accuses-remnants-of-colonialism-of-fuelling-chaos-crises-in-tunisia/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 10 Nov 2026 09:37:11 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Moroccan armed forces: Military cooperation with Israel sees ‘positive momentum’",
           "url": "https://www.middleeastmonitor.com/20261110-moroccan-armed-forces-military-cooperation-with-israel-sees-positive-momentum/",
           "source": "Middle East Monitor",
@@ -885,13 +885,6 @@
           "url": "https://www.middleeastmonitor.com/20261110-podcast-by-jasim-al-azzawi-with-phyllis-bennis-netanyahu-out-eisenkot-in-will-israel-change-or-remain-genocidal/",
           "source": "Middle East Monitor",
           "ts": "Tue, 10 Nov 2026 08:53:01 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran’s Ghalibaf warns of Israeli plan to drag US into ‘endless war’ with Iran",
-          "url": "https://www.middleeastmonitor.com/20261110-irans-ghalibaf-warns-of-israeli-plan-to-drag-us-into-endless-war-with-iran/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 10 Nov 2026 08:22:54 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -974,6 +967,13 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
           "source": "American Immigration Council",
           "ts": "Mon, 09 Nov 2026 18:20:47 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Pricing - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESF9UcXp2OGlCX2JIYkJidFc4cVRDRHhkZThEN3QyWGk2Z095VDlaOFhjNEd2MllFN0Vkc0gxczJiRVlya2dVczNYT2w?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 09 Nov 2026 17:17:51 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
