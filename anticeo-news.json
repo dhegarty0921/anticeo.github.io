@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-11T22:03:54.493520Z",
+  "generated_at": "2026-11-11T22:17:42.822807Z",
   "headline": {
-    "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
-    "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html"
+    "title": "Illegal gambling operation in residential neighborhood raided in Westminster, at least 10 arrested",
+    "url": "https://www.latimes.com/california/story/2026-11-11/illegal-gambling-operation-in-residential-neighborhood-raided-in-westminster-at-least-10-arrested"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Illegal gambling operation in residential neighborhood raided in Westminster, at least 10 arrested",
+          "url": "https://www.latimes.com/california/story/2026-11-11/illegal-gambling-operation-in-residential-neighborhood-raided-in-westminster-at-least-10-arrested",
+          "source": "California",
+          "ts": "Wed, 11 Nov 2026 22:08:53 GMT",
+          "section": ""
+        },
         {
           "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
           "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
@@ -128,13 +135,6 @@
           "section": ""
         },
         {
-          "title": "SoCal man abandoned teen on L.A. freeway after abducting him for forced labor",
-          "url": "https://www.latimes.com/california/story/2026-11-11/socal-man-abandoned-teen-on-la-freeway-after-abducting-him-for-forced-labor",
-          "source": "California",
-          "ts": "Wed, 11 Nov 2026 17:55:15 GMT",
-          "section": ""
-        },
-        {
           "title": "Justice Department Official Who Led Attacks on Gender-Affirming Care Resigns",
           "url": "https://truthout.org/articles/justice-department-official-who-led-attacks-on-gender-affirming-care-resigns/",
           "source": "Truthout",
@@ -195,6 +195,20 @@
           "url": "https://thelalocal.org/neighborhoods/little-bangladesh-raman-votes-la-november-2026/",
           "source": "LA Local",
           "ts": "Wed, 11 Nov 2026 15:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Türkiye: COP31 Host Continues Support for Coal Expansion",
+          "url": "https://www.hrw.org/news/2026/11/11/turkiye-cop31-host-continues-support-for-coal-expansion",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 11 Nov 2026 09:36:48 -0500",
+          "section": ""
+        },
+        {
+          "title": "Hope for World’s Forests and Their Defenders at COP31",
+          "url": "https://www.hrw.org/news/2026/11/11/hope-for-worlds-forests-and-their-defenders-at-cop31",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 11 Nov 2026 09:03:00 -0500",
           "section": ""
         },
         {
@@ -383,17 +397,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Nov 2026 21:56:58 GMT",
+          "section": ""
+        },
+        {
+          "title": "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Nov 2026 21:54:30 GMT",
+          "section": ""
+        },
+        {
           "title": "History has a warning for the new Democratic majority",
           "url": "https://www.vox.com/today-explained-newsletter/510254/midterm-wave-history",
           "source": "Vox",
           "ts": "2026-11-11T16:45:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Nov 2026 21:27:34 GMT",
           "section": ""
         },
         {
@@ -415,13 +436,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Nov 2026 20:30:56 GMT",
-          "section": ""
-        },
-        {
-          "title": "17-year-old charged in fatal Bronx shooting of 15-year-old boy",
-          "url": "https://www.theguardian.com/us-news/2026/nov/11/bronx-fatal-shooting-teen-boy-arrest",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Nov 2026 20:21:14 GMT",
           "section": ""
         },
         {
@@ -591,13 +605,6 @@
           "section": ""
         },
         {
-          "title": "Philippine Marines Receives MARTAC T38 USV via U.S. Aid",
-          "url": "https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/",
-          "source": "Naval News",
-          "ts": "Wed, 11 Nov 2026 20:41:44 +0000",
-          "section": ""
-        },
-        {
           "title": "Fears of rising antisemitism in Europe",
           "url": "https://www.dw.com/en/fears-of-rising-antisemitism-in-europe/a-79921783?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -679,20 +686,6 @@
           "url": "https://scheerpost.com/2026/11/11/we-need-to-stop-trumps-massive-military-spending-bill-w-jodie-evans-tchr/",
           "source": "Military",
           "ts": "Wed, 11 Nov 2026 13:45:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "MQ-9B Fills Critical Gaps for Europe’s Militaries in Trying Times",
-          "url": "https://www.navalnews.com/naval-news/2026/11/mq-9b-fills-critical-gaps-for-europes-militaries-in-trying-times/",
-          "source": "Naval News",
-          "ts": "Wed, 11 Nov 2026 11:43:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "Rafael Unveils Super Ice Cruise Missile with 1,000-lb Warhead",
-          "url": "https://www.navalnews.com/naval-news/2026/11/rafael-unveils-super-ice-cruise-missile-with-1000-lb-warhead/",
-          "source": "Naval News",
-          "ts": "Wed, 11 Nov 2026 09:03:14 +0000",
           "section": ""
         },
         {
@@ -990,6 +983,13 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "Reported Death of Uyghur Woman Detained Since Age 14",
+          "url": "https://www.hrw.org/news/2026/11/11/reported-death-of-uyghur-woman-detained-since-age-14",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 11 Nov 2026 09:15:00 -0500",
+          "section": ""
+        },
         {
           "title": "How NYC Delivery Workers Can Stay Safe During Rain and Snow",
           "url": "https://documentedny.com/2026/11/11/biking-rain-snow-nyc-delivery/",
