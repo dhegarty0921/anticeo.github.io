@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:18:19.345126Z",
+  "generated_at": "2026-11-11T13:33:03.143298Z",
   "headline": {
     "title": "Reported Death of Uyghur Woman Detained Since Age 14",
     "url": "https://www.hrw.org/news/2026/11/11/reported-death-of-uyghur-woman-detained-since-age-14"
@@ -93,17 +93,17 @@
           "section": ""
         },
         {
-          "title": "Ohio Lawmaker Says Closing Troubled Treatment Facilities Isn’t Enough to Protect Children",
-          "url": "https://www.themarshallproject.org/2026/11/11/residential-treatment-juvenile-mental-health-ohio",
-          "source": "The Marshall Project",
-          "ts": "Wed, 11 Nov 2026 06:00:00 -0500",
-          "section": ""
-        },
-        {
           "title": "What Nithya Raman's election means for the future of the LAPD",
           "url": "https://www.latimes.com/california/story/2026-11-11/nithya-ramans-election-lapd-future",
           "source": "California",
           "ts": "Wed, 11 Nov 2026 11:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Ohio Lawmaker Says Closing Troubled Treatment Facilities Isn’t Enough to Protect Children",
+          "url": "https://www.themarshallproject.org/2026/11/11/residential-treatment-juvenile-mental-health-ohio",
+          "source": "The Marshall Project",
+          "ts": "Wed, 11 Nov 2026 06:00:00 -0500",
           "section": ""
         },
         {
@@ -383,6 +383,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "A little-known law could upend the dairy industry",
+          "url": "https://www.vox.com/future-perfect/510168/dairy-calves-extreme-confinement-hettinga-lawsuit",
+          "source": "Vox",
+          "ts": "2026-11-11T08:30:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 11 Nov 2026 13:17:58 GMT",
+          "section": ""
+        },
+        {
           "title": "A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin.",
           "url": "https://www.propublica.org/article/followers-of-christ-oregon-city-evelyn-marshall-phillips",
           "source": "ProPublica",
@@ -397,8 +411,15 @@
           "section": ""
         },
         {
-          "title": "An Oddly Old-Fashioned Literary AI Scandal",
+          "title": "The Worst Thing about AI Writing",
           "url": "https://www.theatlantic.com/books/2026/11/french-ai-literary-scandal-and-black-writers/689375/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-11T08:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "The Case Against a ‘Religious Left’",
+          "url": "https://www.theatlantic.com/ideas/2026/11/religious-left-christian-democrats/689374/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-11T08:00:00-05:00",
           "section": ""
@@ -411,13 +432,6 @@
           "section": ""
         },
         {
-          "title": "The Case Against a ‘Religious Left’",
-          "url": "https://www.theatlantic.com/ideas/2026/11/religious-left-christian-democrats/689374/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-11T08:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Prophecy, Scorn and a Rejection of This World: The Forbidding Vision of a Faith-Healing Preacher",
           "url": "https://www.propublica.org/article/walter-white-faith-healing-oregon",
           "source": "ProPublica",
@@ -425,23 +439,16 @@
           "section": ""
         },
         {
-          "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 11 Nov 2026 12:47:40 GMT",
+          "title": "How to Touch History",
+          "url": "https://www.theatlantic.com/books/2026/11/what-remains-brais-lamela-book-review/689378/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-11T07:30:00-05:00",
           "section": ""
         },
         {
           "title": "Could this bacteria save coral reefs from the heat?",
           "url": "https://www.vox.com/climate/510270/coral-reefs-bacteria-heat-steroids",
           "source": "Vox",
-          "ts": "2026-11-11T07:30:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "How to Touch History",
-          "url": "https://www.theatlantic.com/books/2026/11/what-remains-brais-lamela-book-review/689378/?utm_source=feed",
-          "source": "The Atlantic",
           "ts": "2026-11-11T07:30:00-05:00",
           "section": ""
         },
@@ -457,13 +464,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/11/first-thing-pete-hegseth-survives-effort-to-impeach-him",
           "source": "US news | The Guardian",
           "ts": "Wed, 11 Nov 2026 12:04:36 GMT",
-          "section": ""
-        },
-        {
-          "title": "Democrats made three big economic promises. They’ll need to break one.",
-          "url": "https://www.vox.com/politics/510291/democrats-agenda-taxes-midterms",
-          "source": "Vox",
-          "ts": "2026-11-11T06:30:00-05:00",
           "section": ""
         },
         {
@@ -542,6 +542,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+          "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Nov 2026 13:16:30 +0000",
+          "section": ""
+        },
+        {
           "title": "US man convicted after admitting he dismembered wife but denies killing her",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/us-man-convicted-after-admitting-he-dismembered-wife-but-denies-killing-her?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -553,13 +560,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Wed, 11 Nov 2026 12:48:21 +0000",
-          "section": ""
-        },
-        {
-          "title": "Mbappe misses France training before Nations League clash with Italy",
-          "url": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Nov 2026 12:38:46 +0000",
           "section": ""
         },
         {
