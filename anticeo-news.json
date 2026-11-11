@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T07:47:39.506719Z",
+  "generated_at": "2026-11-11T08:05:03.114927Z",
   "headline": {
-    "title": "Austal Cuts First Steel on Landing Craft Heavy for Australian Army",
-    "url": "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/"
+    "title": "Reported Death of Uyghur Woman Detained Since Age 14",
+    "url": "https://www.hrw.org/news/2026/11/11/reported-death-of-uyghur-woman-detained-since-age-14"
   },
   "sections": [
     {
@@ -13,6 +13,13 @@
           "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 11 Nov 2026 06:20:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "The EuSSR: The World’s Biggest Prison, by Hans Vogel",
+          "url": "https://www.unz.com/article/the-eussr-the-worlds-biggest-prison/",
+          "source": "The Unz Review:",
+          "ts": "Wed, 11 Nov 2026 05:00:37 +0000",
           "section": ""
         },
         {
@@ -170,13 +177,6 @@
           "section": ""
         },
         {
-          "title": "Bruins lead the way in veterans’ health research",
-          "url": "https://newsroom.ucla.edu/stories/ucla-fielding-alums-lead-the-way-in-veterans-health-research",
-          "source": "UCLA",
-          "ts": "Tue, 10 Nov 2026 19:26:00 GMT",
-          "section": ""
-        },
-        {
           "title": "Pete Hegseth Digs in for Battle Against Impeachment Blitz",
           "url": "https://www.rollingstone.com/politics/politics-news/pete-hegseth-digs-in-battle-impeachment-1235655241/",
           "source": "Politics News",
@@ -233,6 +233,13 @@
           "section": ""
         },
         {
+          "title": "US Failure to Undergo UN Rights Review Should Not be Tolerated",
+          "url": "https://www.hrw.org/news/2026/11/10/us-failure-to-undergo-un-rights-review-should-not-be-tolerated",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 10 Nov 2026 11:05:56 -0500",
+          "section": ""
+        },
+        {
           "title": "Big Brother’s Charlotte shares real reason she quit show: ‘I was in severe pain’",
           "url": "https://www.thepinknews.com/2026/11/10/itv-big-brother-charlotte-nott-quit/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -254,6 +261,13 @@
           "section": ""
         },
         {
+          "title": "Tajikistan: UN Members Urge Stronger Rights Protection",
+          "url": "https://www.hrw.org/news/2026/11/10/tajikistan-un-members-urge-stronger-rights-protection",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 10 Nov 2026 04:29:35 -0500",
+          "section": ""
+        },
+        {
           "title": "The Stephen Miller Illusion, by Jose Alberto Nino",
           "url": "https://www.unz.com/jnino/the-stephen-miller-illusion/",
           "source": "The Unz Review:",
@@ -265,13 +279,6 @@
           "url": "https://www.unz.com/mwhitney/bibi-talks-regime-change-in-iran-while-trump-says-new-attacks-highly-unlikely/",
           "source": "The Unz Review:",
           "ts": "Tue, 10 Nov 2026 05:05:20 +0000",
-          "section": ""
-        },
-        {
-          "title": "Jensen’s Spygate, by Hua Bin",
-          "url": "https://www.unz.com/bhua/jensens-spygate/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 10 Nov 2026 05:03:24 +0000",
           "section": ""
         },
         {
@@ -535,6 +542,27 @@
           "section": ""
         },
         {
+          "title": "Chinese university buys Nvidia AI H200 chips despite US ban, records show",
+          "url": "https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Nov 2026 07:26:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Is Washington rethinking its relationship with Israel?",
+          "url": "https://www.aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Nov 2026 07:26:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "If hackers can take over a supermarket fridge, what else is at risk?",
+          "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 11 Nov 2026 07:20:08 +0000",
+          "section": ""
+        },
+        {
           "title": "DW Science explainer on the default mode network: what your brain does when you aren't focusing on anything, and why it's important.",
           "url": "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -553,27 +581,6 @@
           "url": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-11T06:41:00Z",
-          "section": ""
-        },
-        {
-          "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-          "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Nov 2026 06:23:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
-          "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Nov 2026 05:52:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
-          "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 11 Nov 2026 05:39:26 +0000",
           "section": ""
         },
         {
@@ -860,6 +867,20 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Taxpayer Uprising! A Night with Medea Benjamin, Jodie Evans, Norman Finkelstein, & Ben Cohen - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRakt4RldLZ3ZpcnJFRG5MdWhQRDE2cHlRYXptYnpzaFhiMm93TzltLU02ckpnSVhORXUxeHBxZUpKTFFGREFoVnFn?oc=5",
+          "source": "CODEPINK",
+          "ts": "Wed, 11 Nov 2026 08:03:27 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Rezaei: Strait of Hormuz will remain closed until Iran’s seven conditions are met",
+          "url": "https://www.middleeastmonitor.com/20261111-rezaei-strait-of-hormuz-will-remain-closed-until-irans-seven-conditions-are-met/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 11 Nov 2026 07:57:32 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Yedioth Ahronoth: Mansour Abbas offers to recognise Hamas as terrorist organisation in return for government partnership",
           "url": "https://www.middleeastmonitor.com/20261111-yedioth-ahronoth-mansour-abbas-offers-to-recognise-hamas-as-terrorist-organisation-in-return-for-government-partnership/",
           "source": "Middle East Monitor",
@@ -871,20 +892,6 @@
           "url": "https://www.middleeastmonitor.com/20261111-gaza-is-protected-by-international-law-why-are-its-people-still-unprotected/",
           "source": "Middle East Monitor",
           "ts": "Wed, 11 Nov 2026 07:18:16 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Taxpayer Uprising! A Night with Medea Benjamin, Jodie Evans, Norman Finkelstein, & Ben Cohen - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBRakt4RldLZ3ZpcnJFRG5MdWhQRDE2cHlRYXptYnpzaFhiMm93TzltLU02ckpnSVhORXUxeHBxZUpKTFFGREFoVnFn?oc=5",
-          "source": "CODEPINK",
-          "ts": "Wed, 11 Nov 2026 02:03:27 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "US senator urges Israel to allow urgent humanitarian aid into Gaza",
-          "url": "https://www.middleeastmonitor.com/20261110-us-senator-urges-israel-to-allow-urgent-humanitarian-aid-into-gaza/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 10 Nov 2026 20:25:01 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -948,6 +955,13 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "Reported Death of Uyghur Woman Detained Since Age 14",
+          "url": "https://www.hrw.org/news/2026/11/11/reported-death-of-uyghur-woman-detained-since-age-14",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 11 Nov 2026 09:15:00 -0500",
+          "section": ""
+        },
         {
           "title": "Can LA hospital workers use their union contract to keep ICE in check?",
           "url": "https://lapublicpress.org/2026/11/la-white-memorial-hospital-ice-union-contract/",
