@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T08:47:19.669683Z",
+  "generated_at": "2026-11-12T09:04:42.823494Z",
   "headline": {
-    "title": "Israeli army decides to allow settlers to remain in 8 Jericho homes without providing protection",
-    "url": "https://www.middleeastmonitor.com/20261112-israeli-army-decides-to-allow-settlers-to-remain-in-8-jericho-homes-without-providing-protection/"
+    "title": "The Promise of Biomanufacturing at the Edge",
+    "url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "Some under-25s should get fewer benefits, Milburn review to say",
           "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 12 Nov 2026 08:14:54 GMT",
+          "ts": "Thu, 12 Nov 2026 08:59:08 GMT",
+          "section": ""
+        },
+        {
+          "title": "New York building collapse kills at least two, officials say",
+          "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 12 Nov 2026 05:12:56 GMT",
           "section": ""
         },
         {
@@ -55,13 +62,6 @@
           "url": "https://www.realclearpolitics.com/2026/11/11/republicans_will_adapt_or_die_717365.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Wed, 11 Nov 2026 20:46:15 -0600",
-          "section": ""
-        },
-        {
-          "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
-          "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 12 Nov 2026 02:02:37 GMT",
           "section": ""
         },
         {
@@ -268,17 +268,17 @@
           "section": ""
         },
         {
+          "title": "Vance Confirms Our Power, by David M. Zsutty",
+          "url": "https://www.unz.com/article/vance-confirms-our-power/",
+          "source": "The Unz Review:",
+          "ts": "Wed, 11 Nov 2026 05:20:09 +0000",
+          "section": ""
+        },
+        {
           "title": "General Rezaei’s Postcard to Lakenheath, by Larry C. Johnson",
           "url": "https://www.unz.com/article/general-rezaeis-postcard-to-lakenheath/",
           "source": "The Unz Review:",
           "ts": "Wed, 11 Nov 2026 05:10:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "The EuSSR: The World’s Biggest Prison, by Hans Vogel",
-          "url": "https://www.unz.com/article/the-eussr-the-worlds-biggest-prison/",
-          "source": "The Unz Review:",
-          "ts": "Wed, 11 Nov 2026 05:00:37 +0000",
           "section": ""
         },
         {
@@ -300,6 +300,13 @@
           "url": "https://www.currentaffairs.org/news/the-1940s-comedy-that-knew-law-and-justice-arent-the-same",
           "source": "blog",
           "ts": "Tue, 10 Nov 2026 22:02:48 GMT",
+          "section": ""
+        },
+        {
+          "title": "Bruins lead the way in veterans’ health research",
+          "url": "https://newsroom.ucla.edu/stories/ucla-fielding-alums-lead-the-way-in-veterans-health-research",
+          "source": "UCLA",
+          "ts": "Tue, 10 Nov 2026 19:26:00 GMT",
           "section": ""
         },
         {
@@ -549,10 +556,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales",
-          "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-jef-allies-sign-landmark-northern-navies-initiative-aboard-hms-prince-of-wales/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 08:20:58 +0000",
+          "title": "The Promise of Biomanufacturing at the Edge",
+          "url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
+          "source": "War on the Rocks",
+          "ts": "Thu, 12 Nov 2026 09:00:53 +0000",
+          "section": ""
+        },
+        {
+          "title": "Bundeswehr study exposes widespread sexual harassment in German military",
+          "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-12T08:45:00Z",
+          "section": ""
+        },
+        {
+          "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+          "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 12 Nov 2026 08:40:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+          "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 12 Nov 2026 08:35:20 +0000",
+          "section": ""
+        },
+        {
+          "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 12 Nov 2026 08:34:45 +0000",
           "section": ""
         },
         {
@@ -561,34 +596,6 @@
           "source": "Global Research",
           "ts": "Thu, 12 Nov 2026 08:13:20 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Mississippi elects first Black Senator since 1874",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 08:12:40 +0000",
-          "section": ""
-        },
-        {
-          "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
-          "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 08:01:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 07:38:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
-          "url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 07:26:26 +0000",
-          "section": ""
         },
         {
           "title": "Intelligent women get less help at work, study finds",
@@ -602,13 +609,6 @@
           "url": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-12T06:43:00Z",
-          "section": ""
-        },
-        {
-          "title": "Ukraine peace talks: US envoys arrive in Russia to meet with Putin",
-          "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-arrive-in-russia-to-meet-with-putin/live-79925580?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-12T06:35:00Z",
           "section": ""
         },
         {
@@ -665,13 +665,6 @@
           "url": "https://news.antiwar.com/2026/11/11/ukraine-wants-western-funding-for-800000-strong-military-for-10-years-after-war/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-wants-western-funding-for-800000-strong-military-for-10-years-after-war",
           "source": "News From Antiwar.com",
           "ts": "Wed, 11 Nov 2026 20:54:06 +0000",
-          "section": ""
-        },
-        {
-          "title": "Philippine Marines Receives MARTAC T38 USV via U.S. Aid",
-          "url": "https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/",
-          "source": "Naval News",
-          "ts": "Wed, 11 Nov 2026 20:41:44 +0000",
           "section": ""
         },
         {
@@ -756,13 +749,6 @@
           "url": "https://www.defenseone.com/threats/2026/11/hegseth-returns-pentagon-briefing-room-defend-himself-against-impeachment-charges/417148/",
           "source": "Defense One - All Content",
           "ts": "Tue, 10 Nov 2026 10:41:08 -0500",
-          "section": ""
-        },
-        {
-          "title": "To Implement Acquisition Transformation, Empower Military Mavericks",
-          "url": "https://warontherocks.com/cogs-of-war/to-implement-acquisition-transformation-empower-military-mavericks/",
-          "source": "War on the Rocks",
-          "ts": "Tue, 10 Nov 2026 09:00:47 +0000",
           "section": ""
         },
         {
@@ -923,6 +909,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "UN condemns restrictions on aid supplies entering Gaza as winter approaches",
+          "url": "https://www.middleeastmonitor.com/20261112-un-condemns-restrictions-on-aid-supplies-entering-gaza-as-winter-approaches/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 12 Nov 2026 08:52:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli army decides to allow settlers to remain in 8 Jericho homes without providing protection",
           "url": "https://www.middleeastmonitor.com/20261112-israeli-army-decides-to-allow-settlers-to-remain-in-8-jericho-homes-without-providing-protection/",
           "source": "Middle East Monitor",
@@ -937,14 +930,7 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Red Mecca: The Life and Afterlives of the Arab-Soviet Romance",
-          "url": "https://www.middleeastmonitor.com/20261112-red-mecca-the-life-and-afterlives-of-the-arab-soviet-romance/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 12 Nov 2026 08:06:38 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Opinion | Israel's latest assault on Arab citizens: Severing their ties to Palestinians - Haaretz",
+          "title": "Opinion | Israel wants its Arabs to be Israeli, not Palestinian - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObWZqbWp4X0U3M1V0SE90Vl9ITGJ0NG1xMWlrNnA3WFoyZTJNaHFxU2JfWFlQN1ZHRTF2Zk1JbzAtNXFtemZ2NzVGR2xhRGZGaHp2TWZxa2EwamN2eFBUN3NXRUJvX1pfMjRBcF9LUEJVSlFtR3RVQmxkSlBnYlU2U3lLMXROaW83OUhfWm83bDgzNW1RQnlzZDRNWnowYnZRTzlybXBpN0xXejNheEZER3BIRnU5dUxTbGpVeEJxdGhXNV9LaVRuTFNqczFhUURKaEZBSjVhdHZQVWFlMTVoejZHWmtLMlo5aU05d2N1cG02Q3VyVlg3cXFGcDh3MmZ6ekR0UEhRemN4cHFWYm9leg?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Wed, 11 Nov 2026 22:48:00 GMT",
