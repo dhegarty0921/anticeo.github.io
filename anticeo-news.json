@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-12T15:18:12.904542Z",
+  "generated_at": "2026-11-12T15:32:06.781924Z",
   "headline": {
-    "title": "Impeachment: How it works and why Trump should be worried",
-    "url": "https://www.dw.com/en/impeachment-how-it-works-and-why-trump-should-be-worried/a-79931040?maca=en-rss-en-all-1573-rdf"
+    "title": "Washington DC shooting latest updates: multiple people shot in Logan Circle",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 12 Nov 2026 15:23:05 +0000",
+          "section": ""
+        },
         {
           "title": "Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned?",
           "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
@@ -34,13 +41,6 @@
           "url": "https://www.thepinknews.com/2026/11/12/channel-4-first-dates-william-jamie-coming-out-gay/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 12 Nov 2026 14:52:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
-          "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 12 Nov 2026 14:36:29 +0000",
           "section": ""
         },
         {
@@ -254,6 +254,13 @@
           "section": ""
         },
         {
+          "title": "The ‘perfect political storm’ that brought down Jimmy Gomez",
+          "url": "https://thelalocal.org/government/election/political-storm-jimmy-gomez/",
+          "source": "LA Local",
+          "ts": "Wed, 11 Nov 2026 14:00:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump Gloats as Republicans Kill Bid to Impeach Pete Hegseth",
           "url": "https://www.rollingstone.com/politics/politics-news/hegseth-impeachment-effort-blocked-democrats-absent-1235655731/",
           "source": "Politics News",
@@ -265,6 +272,13 @@
           "url": "https://www.themarshallproject.org/2026/11/11/illinois-prison-fires-legislature-hearing",
           "source": "The Marshall Project",
           "ts": "Wed, 11 Nov 2026 06:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Ohio Lawmaker Says Closing Troubled Treatment Facilities Isn’t Enough to Protect Children",
+          "url": "https://www.themarshallproject.org/2026/11/11/residential-treatment-juvenile-mental-health-ohio",
+          "source": "The Marshall Project",
+          "ts": "Wed, 11 Nov 2026 06:00:00 -0500",
           "section": ""
         },
         {
@@ -286,6 +300,13 @@
           "url": "https://www.currentaffairs.org/news/the-1940s-comedy-that-knew-law-and-justice-arent-the-same",
           "source": "blog",
           "ts": "Tue, 10 Nov 2026 22:02:48 GMT",
+          "section": ""
+        },
+        {
+          "title": "Bruins lead the way in veterans’ health research",
+          "url": "https://newsroom.ucla.edu/stories/ucla-fielding-alums-lead-the-way-in-veterans-health-research",
+          "source": "UCLA",
+          "ts": "Tue, 10 Nov 2026 19:26:00 GMT",
           "section": ""
         },
         {
@@ -386,21 +407,28 @@
           "title": "Washington DC shooting latest updates: multiple people shot in Logan Circle",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 12 Nov 2026 15:06:46 GMT",
+          "ts": "Thu, 12 Nov 2026 15:23:13 GMT",
           "section": ""
         },
         {
-          "title": "Exclusive: Senator opens investigation into evidence RFK Jr ‘unlawfully lied’ to Congress",
-          "url": "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Nov 2026 15:05:38 GMT",
+          "title": "Anti-Muslim attacks didn’t help Republican candidates. In Texas, they may have hurt.",
+          "url": "https://religionnews.com/2026/11/12/anti-muslim-attacks-didnt-help-republican-candidates-in-texas-they-may-have-hurt/",
+          "source": "RNS",
+          "ts": "Thu, 12 Nov 2026 15:20:32 +0000",
           "section": ""
         },
         {
-          "title": "Brooklyn building collapse kills at least eight and injures 17 as search continues",
-          "url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+          "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
           "source": "US news | The Guardian",
-          "ts": "Thu, 12 Nov 2026 14:48:55 GMT",
+          "ts": "Thu, 12 Nov 2026 15:14:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Multiple people shot in Washington DC as police warn people to stay inside",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Nov 2026 15:13:58 GMT",
           "section": ""
         },
         {
@@ -502,13 +530,6 @@
           "section": ""
         },
         {
-          "title": "During Leo’s visit, protest messages on the streets reveal Argentine church tension",
-          "url": "https://religionnews.com/2026/11/11/during-leos-visit-protest-messages-on-the-streets-reveal-argentine-church-tension/",
-          "source": "RNS",
-          "ts": "Thu, 12 Nov 2026 02:05:05 +0000",
-          "section": ""
-        },
-        {
           "title": "A Newborn Died in a Faith-Healing Sect. The State — and One Ex-Believer — Stepped in to Save Her Twin.",
           "url": "https://www.propublica.org/article/followers-of-christ-oregon-city-evelyn-marshall-phillips",
           "source": "ProPublica",
@@ -528,11 +549,39 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "UK court convicts 2 Iranian men of spying on journalists",
+          "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-12T15:23:00Z",
+          "section": ""
+        },
+        {
+          "title": "Selected Articles: Who Owns the World? The Concentration of Corporate and Financial Power",
+          "url": "https://www.globalresearch.ca/selected-articles-who-owns-world-concentration-corporate-financial-power/5945746",
+          "source": "Global Research",
+          "ts": "Thu, 12 Nov 2026 15:22:01 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Gaza Misery Exacerbated by Icy Flooding Rainstorms",
+          "url": "https://michelchossudovsky.substack.com/p/gaza-misery-exacerbated-icy-flooding-rainstorms",
+          "source": "Global Research",
+          "ts": "Thu, 12 Nov 2026 15:19:45 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Impeachment: How it works and why Trump should be worried",
           "url": "https://www.dw.com/en/impeachment-how-it-works-and-why-trump-should-be-worried/a-79931040?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-12T15:16:00Z",
           "section": ""
+        },
+        {
+          "title": "Trump’s “Blue Tsunami”: Israel Alliance in Crisis After Midterms, but Latin America Still Under Target",
+          "url": "https://www.globalresearch.ca/blue-tsunami-israel-alliance-crisis-midterms-latin-america-under-target/5945708",
+          "source": "Global Research",
+          "ts": "Thu, 12 Nov 2026 15:09:29 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
@@ -563,53 +612,11 @@
           "section": ""
         },
         {
-          "title": "Iran: Exiled journalists still repressed by regime",
-          "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-12T14:25:00Z",
-          "section": ""
-        },
-        {
-          "title": "Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-cmn-unveils-107-meter-multi-mission-corvette/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 14:23:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-          "url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 12:50:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/video-fincantieri-unveils-mmmv-details-fremm-evo-and-ddx-destroyer/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 11:22:50 +0000",
-          "section": ""
-        },
-        {
-          "title": "Covid “Vaccine”: Netherlands Civil Law Suit against Bill Gates, Pfizer’s Albert Bourla and Former Dutch Prime Minister Mark Rutte",
-          "url": "https://michelchossudovsky.substack.com/p/trial-bill-gates",
-          "source": "Global Research",
-          "ts": "Thu, 12 Nov 2026 11:20:27 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "The Promise of Biomanufacturing at the Edge",
           "url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
           "source": "War on the Rocks",
           "ts": "Thu, 12 Nov 2026 09:00:53 +0000",
           "section": ""
-        },
-        {
-          "title": "BREAKING: Reports of Serious Injuries and Disabilities with Moderna’s mRNA Flu Shot Have Begun to Flood VAERS",
-          "url": "https://www.thefocalpoints.com/p/breaking-reports-of-serious-injuries?utm_source=post-email-title&publication_id=1119676&post_id=224473878&utm_campaign=email-post-title&isFreemail=true&r=6fupxd&triedRedirect=true&utm_medium=email",
-          "source": "Global Research",
-          "ts": "Thu, 12 Nov 2026 08:13:20 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Global Treaty Needed to Combat Autonomous Weapons Threat",
@@ -673,13 +680,6 @@
           "source": "TWZ",
           "ts": "Wed, 11 Nov 2026 15:30:40 -0500",
           "section": ""
-        },
-        {
-          "title": "Perseguição política aumenta na Armênia",
-          "url": "https://www.globalresearch.ca/perseguicao-politica-aumenta-na-armenia/5945720",
-          "source": "Global Research",
-          "ts": "Wed, 11 Nov 2026 19:25:02 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "F-35s Train In India For “Red Flag Of The East”",
@@ -984,6 +984,13 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
+          "title": "平台点餐外卖员垫付 饭团（Fantuan）政策惹争议",
+          "url": "https://documentedny.com/2026/11/12/fantuan-delivery-worker-cash-payments-restaurants-2/",
+          "source": "Documented",
+          "ts": "Thu, 12 Nov 2026 15:22:26 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
           "title": "葛超峰之死：ICE拘押期间屡次求助遭忽视",
           "url": "https://documentedny.com/2026/11/12/ice-death-chaofeng-ge-chinese-language/",
           "source": "Documented",
@@ -1009,13 +1016,6 @@
           "url": "https://documentedny.com/2026/11/11/biking-rain-snow-nyc-delivery/",
           "source": "Documented",
           "ts": "Wed, 11 Nov 2026 12:00:00 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Immigration News Today: Democrats Plan Immigration Enforcement Funding Rollback",
-          "url": "https://documentedny.com/2026/11/11/democrats-immigration-enforcement-funding/",
-          "source": "Documented",
-          "ts": "Wed, 11 Nov 2026 11:00:00 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
