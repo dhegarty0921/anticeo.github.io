@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T13:04:32.725777Z",
+  "generated_at": "2026-11-12T13:18:02.855286Z",
   "headline": {
-    "title": "Israel’s Lieberman warns Netanyahu against war-related decisions without parliamentary oversight",
-    "url": "https://www.middleeastmonitor.com/20261112-israels-lieberman-warns-netanyahu-against-war-related-decisions-without-parliamentary-oversight/"
+    "title": "Israel occupation attack car in Gaza near Al-Shifa Hospital",
+    "url": "https://www.middleeastmonitor.com/20261112-israel-occupation-attack-car-in-gaza-near-al-shifa-hospital/"
   },
   "sections": [
     {
@@ -72,13 +72,6 @@
           "section": ""
         },
         {
-          "title": "Some under-25s should get fewer benefits, Milburn review to say",
-          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 12 Nov 2026 11:53:01 GMT",
-          "section": ""
-        },
-        {
           "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
           "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -88,6 +81,20 @@
         {
           "title": "L.A. sales taxes will go up, but the time it takes firefighters to respond may go down",
           "url": "https://www.latimes.com/california/story/2026-11-12/la-sales-taxes-will-go-up-will-firefighting-response-times-go-down",
+          "source": "California",
+          "ts": "Thu, 12 Nov 2026 11:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Who will fill Raman's council seat? Community groups brace for a fight",
+          "url": "https://www.latimes.com/california/story/2026-11-12/who-will-fill-ramans-council-seat-community-groups-brace-for-fight",
+          "source": "California",
+          "ts": "Thu, 12 Nov 2026 11:00:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "One week: How long it took Democrats to let us down",
+          "url": "https://www.latimes.com/california/newsletter/2026-11-12/chabria-column-democrats-hegseth-impeachment",
           "source": "California",
           "ts": "Thu, 12 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -118,6 +125,13 @@
           "url": "https://www.npr.org/2026/11/12/nx-s1-5718547/ice-schools-state-laws-federal-immigration",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 12 Nov 2026 05:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Why Democrat Scott Colom’s win in Mississippi Senate race is so significant",
+          "url": "https://www.bbc.co.uk/news/videos/cjy5x42p3qzko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 12 Nov 2026 02:02:37 GMT",
           "section": ""
         },
         {
@@ -235,6 +249,13 @@
         {
           "title": "The ‘perfect political storm’ that brought down Jimmy Gomez",
           "url": "https://thelalocal.org/government/election/political-storm-jimmy-gomez/",
+          "source": "LA Local",
+          "ts": "Wed, 11 Nov 2026 14:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "LA County launches text service to report hate",
+          "url": "https://thelalocal.org/uncategorized/la-county-launches-text-service-to-report-hate/",
           "source": "LA Local",
           "ts": "Wed, 11 Nov 2026 14:00:00 +0000",
           "section": ""
@@ -383,10 +404,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Brooklyn building collapse kills at least 8 and injures 17 as search continues",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 12 Nov 2026 13:08:15 GMT",
+          "section": ""
+        },
+        {
           "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
           "source": "US news | The Guardian",
-          "ts": "Thu, 12 Nov 2026 12:51:12 GMT",
+          "ts": "Thu, 12 Nov 2026 13:04:44 GMT",
+          "section": ""
+        },
+        {
+          "title": "AI Is Destroying the Trust Between Writers and Readers",
+          "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-12T08:00:00-05:00",
           "section": ""
         },
         {
@@ -404,22 +439,8 @@
           "section": ""
         },
         {
-          "title": "A record number of US democratic socialists will become mayors. They’re out to prove their vision for affordability",
-          "url": "https://www.theguardian.com/us-news/2026/nov/12/democratic-socialists-historic-election-wins",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 12 Nov 2026 12:00:47 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Real Lesson of the Jensen Huang Scandal",
+          "title": "The Scandal Is Bigger Than Jensen Huang",
           "url": "https://www.theatlantic.com/international/2026/11/nvidia-china-ai-regulation/689387/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-12T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Netanyahu’s January 6 Moment",
-          "url": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-12T07:00:00-05:00",
           "section": ""
@@ -432,8 +453,8 @@
           "section": ""
         },
         {
-          "title": "The Fight to Define Trumpism",
-          "url": "https://www.theatlantic.com/ideas/2026/11/stephen-miller-trump-chief-of-staff/689385/?utm_source=feed",
+          "title": "Netanyahu’s January 6 Moment",
+          "url": "https://www.theatlantic.com/international/2026/11/netanyahu-election-denial-israel/689386/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-12T07:00:00-05:00",
           "section": ""
@@ -528,31 +549,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Royal Navy Orders Saab Sea Giraffe 1X Radars for K3 Scout Counter-Drone USVs",
-          "url": "https://www.navalnews.com/naval-news/2026/11/royal-navy-orders-saab-sea-giraffe-1x-radars-for-k3-scout-counter-drone-usvs/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 12:50:24 +0000",
+          "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+          "url": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 12 Nov 2026 12:57:12 +0000",
           "section": ""
         },
         {
-          "title": "Missing teenager found in bushland during aerial search in Australia",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/missing-teenager-found-in-bushland-during-aerial-search-in-australia?traffic_source=rss",
+          "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+          "url": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 12:26:09 +0000",
+          "ts": "Thu, 12 Nov 2026 12:56:27 +0000",
           "section": ""
         },
         {
-          "title": "England vs Croatia: UEFA Nations League – preview, team news, predictions",
-          "url": "https://www.aljazeera.com/sports/2026/11/12/england-vs-croatia-uefa-nations-league-preview-team-news?traffic_source=rss",
+          "title": "Greta Thunberg: The planet is being killed",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 12:12:50 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pakistan releases two sisters of ex-PM Imran Khan from jail",
-          "url": "https://www.aljazeera.com/news/2026/11/12/pakistan-releases-two-sisters-of-ex-pm-imran-khan-from-jail?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 12:12:17 +0000",
+          "ts": "Thu, 12 Nov 2026 12:53:00 +0000",
           "section": ""
         },
         {
@@ -570,13 +584,6 @@
           "section": ""
         },
         {
-          "title": "Video: Fincantieri Unveils MMMV, Details FREMM Evo and DDX Destroyer",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/video-fincantieri-unveils-mmmv-details-fremm-evo-and-ddx-destroyer/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 11:22:50 +0000",
-          "section": ""
-        },
-        {
           "title": "Covid “Vaccine”: Netherlands Civil Law Suit against Bill Gates, Pfizer’s Albert Bourla and Former Dutch Prime Minister Mark Rutte",
           "url": "https://michelchossudovsky.substack.com/p/trial-bill-gates",
           "source": "Global Research",
@@ -588,13 +595,6 @@
           "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-12T09:54:00Z",
-          "section": ""
-        },
-        {
-          "title": "Euronaval 2026: SeaOwl and KNDS Unveil Tracus Kamikaze USV",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-seaowl-and-knds-unveil-tracus-kamikaze-usv/",
-          "source": "Naval News",
-          "ts": "Thu, 12 Nov 2026 09:29:49 +0000",
           "section": ""
         },
         {
@@ -757,17 +757,17 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Early Edition: November 12, 2026",
+          "url": "https://www.justsecurity.org/164226/early-edition-november-12-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-12-2026",
+          "source": "Just Security",
+          "ts": "Thu, 12 Nov 2026 13:07:32 +0000",
+          "section": ""
+        },
+        {
           "title": "Humanitarian Orgs Demand Answers on Yemen War After Hegseth Impeachment Fails",
           "url": "https://theintercept.com/2026/11/12/pete-hegseth-yemen-war-civilian-harm/",
           "source": "The Intercept",
           "ts": "Thu, 12 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "How China created a spy network in California. 'They will try anything'",
-          "url": "https://www.latimes.com/california/story/2026-11-12/how-china-created-spy-network-in-california-they-will-try-anything",
-          "source": "California",
-          "ts": "Thu, 12 Nov 2026 11:00:00 GMT",
           "section": ""
         },
         {
@@ -817,13 +817,6 @@
           "url": "https://www.justsecurity.org/163904/veterans-day-restore-trust-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-day-restore-trust-institutions",
           "source": "Just Security",
           "ts": "Wed, 11 Nov 2026 14:29:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "What a Democratic Congress is Likely to Do on Foreign Policy",
-          "url": "https://www.justsecurity.org/163835/democratic-congress-likely-do-foreign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=democratic-congress-likely-do-foreign-policy",
-          "source": "Just Security",
-          "ts": "Wed, 11 Nov 2026 14:15:25 +0000",
           "section": ""
         },
         {
@@ -909,24 +902,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israel occupation attack car in Gaza near Al-Shifa Hospital",
+          "url": "https://www.middleeastmonitor.com/20261112-israel-occupation-attack-car-in-gaza-near-al-shifa-hospital/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 12 Nov 2026 13:17:04 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Overzealous UK Charity Commission accused of policing prayers for Palestinians",
+          "url": "https://www.middleeastmonitor.com/20261112-overzealous-uk-charity-commission-accused-of-policing-prayers-for-palestinians/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 12 Nov 2026 13:06:17 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel’s Lieberman warns Netanyahu against war-related decisions without parliamentary oversight",
           "url": "https://www.middleeastmonitor.com/20261112-israels-lieberman-warns-netanyahu-against-war-related-decisions-without-parliamentary-oversight/",
           "source": "Middle East Monitor",
           "ts": "Thu, 12 Nov 2026 13:03:58 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli occupation must not deprive people of right to tackle climate change: Palestinian PM",
-          "url": "https://www.middleeastmonitor.com/20261112-israeli-occupation-must-not-deprive-people-of-right-to-tackle-climate-change-palestinian-pm/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 12 Nov 2026 12:40:55 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Beyond Makkah: Defence pacts must become economic networks",
-          "url": "https://www.middleeastmonitor.com/20261112-beyond-makkah-defence-pacts-must-become-economic-networks/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 12 Nov 2026 12:17:25 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
