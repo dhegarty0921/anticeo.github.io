@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T05:48:01.278464Z",
+  "generated_at": "2026-11-12T06:06:47.331964Z",
   "headline": {
-    "title": "French guard collapses as Macron rushes to help",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss"
+    "title": "Where the US's war with Iran stands after the midterms",
+    "url": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -13,13 +13,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-11/california-gop-chair-will-not-seek-reelection-after-election-losses",
           "source": "California",
           "ts": "Thu, 12 Nov 2026 05:03:28 GMT",
-          "section": ""
-        },
-        {
-          "title": "Government could force media industry to improve safeguards after Walliams allegations",
-          "url": "https://www.bbc.co.uk/news/articles/cm3egj20v5x4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 12 Nov 2026 04:01:50 GMT",
           "section": ""
         },
         {
@@ -125,6 +118,13 @@
           "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
           "source": "NPR Topics: Politics",
           "ts": "Wed, 11 Nov 2026 18:33:59 -0500",
+          "section": ""
+        },
+        {
+          "title": "Some under-25s should get fewer benefits, Milburn review to say",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 11 Nov 2026 23:22:04 GMT",
           "section": ""
         },
         {
@@ -556,6 +556,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Where the US's war with Iran stands after the midterms",
+          "url": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-12T05:50:00Z",
+          "section": ""
+        },
+        {
           "title": "French guard collapses as Macron rushes to help",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -616,13 +623,6 @@
           "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-12T00:01:00Z",
-          "section": ""
-        },
-        {
-          "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
-          "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-11T23:33:00Z",
           "section": ""
         },
         {
@@ -922,13 +922,6 @@
     {
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
-        {
-          "title": "Local Peace Economy Writing Workshop - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04VjJvRE9EVXg5S0tfdDhHekJtMnVUTmFoVnZnNHY1dm9pZ1dTMVhGbE83Z1hHaFotTHVJMDVPSUdOZFRKSHF0UHpR?oc=5",
-          "source": "CODEPINK",
-          "ts": "Thu, 12 Nov 2026 03:33:18 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
         {
           "title": "Opinion | Israel's latest assault on Arab citizens: Severing their ties to Palestinians - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObWZqbWp4X0U3M1V0SE90Vl9ITGJ0NG1xMWlrNnA3WFoyZTJNaHFxU2JfWFlQN1ZHRTF2Zk1JbzAtNXFtemZ2NzVGR2xhRGZGaHp2TWZxa2EwamN2eFBUN3NXRUJvX1pfMjRBcF9LUEJVSlFtR3RVQmxkSlBnYlU2U3lLMXROaW83OUhfWm83bDgzNW1RQnlzZDRNWnowYnZRTzlybXBpN0xXejNheEZER3BIRnU5dUxTbGpVeEJxdGhXNV9LaVRuTFNqczFhUURKaEZBSjVhdHZQVWFlMTVoejZHWmtLMlo5aU05d2N1cG02Q3VyVlg3cXFGcDh3MmZ6ekR0UEhRemN4cHFWYm9leg?oc=5",
