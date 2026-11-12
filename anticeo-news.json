@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-12T09:04:42.823494Z",
+  "generated_at": "2026-11-12T09:19:11.511753Z",
   "headline": {
-    "title": "The Promise of Biomanufacturing at the Edge",
-    "url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/"
+    "title": "Australian teen found alive after six days in the bush",
+    "url": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -13,6 +13,13 @@
           "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 12 Nov 2026 08:59:08 GMT",
+          "section": ""
+        },
+        {
+          "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+          "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 12 Nov 2026 07:59:33 GMT",
           "section": ""
         },
         {
@@ -27,13 +34,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-11/california-gop-chair-will-not-seek-reelection-after-election-losses",
           "source": "California",
           "ts": "Thu, 12 Nov 2026 05:03:28 GMT",
-          "section": ""
-        },
-        {
-          "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 12 Nov 2026 04:00:30 GMT",
           "section": ""
         },
         {
@@ -303,13 +303,6 @@
           "section": ""
         },
         {
-          "title": "Bruins lead the way in veterans’ health research",
-          "url": "https://newsroom.ucla.edu/stories/ucla-fielding-alums-lead-the-way-in-veterans-health-research",
-          "source": "UCLA",
-          "ts": "Tue, 10 Nov 2026 19:26:00 GMT",
-          "section": ""
-        },
-        {
           "title": "California Governor Announces Historic Blow to Death Penalty by Commuting Hundreds of Death Sentences",
           "url": "https://www.aclu.org/news/capital-punishment/california-governor-announces-historic-blow-to-death-penalty-by-commuting-hundreds-of-death-sentences",
           "source": "Posts | American Civil Liberties Union",
@@ -383,13 +376,6 @@
           "source": "Public Trust Tracker",
           "ts": "2026-11-11T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
-        },
-        {
-          "title": "Top Democrat on House Oversight says Jared Kushner, Donald Trump Jr. could be investigated - National News Desk",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTlZ2LXZfMk5vN1hQSzMwR19HM3lYVlJnMXFHbFJXcU1GYlZiMzhpR0VINlJ0bzJudHY0OWdkNHh5VmxDOUVpSW5heTJvc0N1YWpWSUNrTnZ1RzNUX2dZOGxGTGhZeVNCMFJ1Z2lTRHZxZ3R0Y0UxY2h2WkZvX0FobHF4N3VocnJaZm9lYzJSUl81dEZBbjZITFNXNVo1cXlGZlc0cG9xb1QySFRnMWtZOWY2d0NsS1haZUJtU1pMbjBKamRsM2lEajFCTWlFdGxaRVZGRVJPUGw1U0ZYNjUwcW14LTBlRUp0ekxsWjNZMnBNa1RKV1I2d3NhcTZzZmFWT2x4YzhpdTZvUF9RampfU2RjRWhBLUZF?oc=5",
-          "source": "\"\"Jared Kushner\" investigation\" - Google News",
-          "ts": "Tue, 10 Nov 2026 19:58:29 GMT",
-          "section": ""
         },
         {
           "title": "East Potomac golf course: park-fee money and a court inquiry into government candor: 10 Nov 2026",
@@ -556,6 +542,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Australian teen found alive after six days in the bush",
+          "url": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-12T09:14:00Z",
+          "section": ""
+        },
+        {
+          "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+          "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 12 Nov 2026 09:01:24 +0000",
+          "section": ""
+        },
+        {
           "title": "The Promise of Biomanufacturing at the Edge",
           "url": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge/",
           "source": "War on the Rocks",
@@ -584,10 +584,10 @@
           "section": ""
         },
         {
-          "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 12 Nov 2026 08:34:45 +0000",
+          "title": "UK and JEF Allies Sign Landmark Northern Navies Initiative Aboard HMS Prince of Wales",
+          "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-jef-allies-sign-landmark-northern-navies-initiative-aboard-hms-prince-of-wales/",
+          "source": "Naval News",
+          "ts": "Thu, 12 Nov 2026 08:20:58 +0000",
           "section": ""
         },
         {
@@ -598,17 +598,17 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "Australian naval propulsion specialist VEEM wins work on US Navy submarines",
+          "url": "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
+          "source": "Naval News",
+          "ts": "Thu, 12 Nov 2026 07:26:26 +0000",
+          "section": ""
+        },
+        {
           "title": "Intelligent women get less help at work, study finds",
           "url": "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-12T07:21:00Z",
-          "section": ""
-        },
-        {
-          "title": "India news : Modi government approves $340 million museum in Delhi",
-          "url": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-12T06:43:00Z",
           "section": ""
         },
         {
@@ -665,6 +665,13 @@
           "url": "https://news.antiwar.com/2026/11/11/ukraine-wants-western-funding-for-800000-strong-military-for-10-years-after-war/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-wants-western-funding-for-800000-strong-military-for-10-years-after-war",
           "source": "News From Antiwar.com",
           "ts": "Wed, 11 Nov 2026 20:54:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Philippine Marines Receives MARTAC T38 USV via U.S. Aid",
+          "url": "https://www.navalnews.com/naval-news/2026/11/philippine-marines-receives-martac-t38-usv-via-u-s-aid/",
+          "source": "Naval News",
+          "ts": "Wed, 11 Nov 2026 20:41:44 +0000",
           "section": ""
         },
         {
