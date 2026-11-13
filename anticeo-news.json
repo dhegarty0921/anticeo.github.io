@@ -1,15 +1,22 @@
 {
-  "generated_at": "2026-11-13T04:04:43.914826Z",
+  "generated_at": "2026-11-13T04:20:02.969285Z",
   "headline": {
-    "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
-    "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+    "title": "US envoys shuttle between Putin and Zelenskyy",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
-          "title": "Ousted Nvidia CEO Jensen Huang summoned to testify before Congress",
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Fri, 13 Nov 2026 04:11:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
           "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Fri, 13 Nov 2026 03:57:01 GMT",
@@ -27,13 +34,6 @@
           "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 13 Nov 2026 03:27:02 +0000",
-          "section": ""
-        },
-        {
-          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
-          "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 13 Nov 2026 03:24:57 +0000",
           "section": ""
         },
         {
@@ -167,13 +167,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
           "source": "Mother Jones",
           "ts": "Thu, 12 Nov 2026 20:48:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "Believe it, Bruins! UCLA football's dream season rolls on",
-          "url": "https://newsroom.ucla.edu/stories/believe-it-bruins-ucla-football-s-dream-season-rolls-on",
-          "source": "UCLA",
-          "ts": "Thu, 12 Nov 2026 20:43:00 GMT",
           "section": ""
         },
         {
@@ -383,6 +376,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "In a blockbuster retelling of the Ramayana, some Hindus worry the core meaning is lost",
+          "url": "https://religionnews.com/2026/11/12/in-a-blockbuster-retelling-of-the-ramayana-some-hindus-worry-the-core-meaning-is-lost/",
+          "source": "RNS",
+          "ts": "Fri, 13 Nov 2026 04:09:52 +0000",
+          "section": ""
+        },
+        {
           "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
           "source": "US news | The Guardian",
@@ -481,13 +481,6 @@
           "section": ""
         },
         {
-          "title": "Anti-Muslim attacks didn’t help Republican candidates. In Texas, they may have hurt.",
-          "url": "https://religionnews.com/2026/11/12/anti-muslim-attacks-didnt-help-republican-candidates-in-texas-they-may-have-hurt/",
-          "source": "RNS",
-          "ts": "Thu, 12 Nov 2026 15:20:32 +0000",
-          "section": ""
-        },
-        {
           "title": "Three Cheers for Gridlock",
           "url": "https://www.nationalreview.com/article/three-cheers-for-gridlock",
           "source": "National Review",
@@ -542,6 +535,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "US envoys shuttle between Putin and Zelenskyy",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 13 Nov 2026 04:12:01 +0000",
+          "section": ""
+        },
+        {
           "title": "Microsoft works to restore Outlook and Teams after global outage",
           "url": "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -560,13 +560,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 13 Nov 2026 03:17:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gaza surgeon films aftermath of Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 13 Nov 2026 03:11:43 +0000",
           "section": ""
         },
         {
@@ -668,10 +661,24 @@
           "section": ""
         },
         {
+          "title": "UK Selects Norwegian P1118 Design for New Mine-Hunting Motherships",
+          "url": "https://www.navalnews.com/naval-news/2026/11/uk-royal-navy-mine-hunting-motherships-norway/",
+          "source": "Naval News",
+          "ts": "Thu, 12 Nov 2026 17:18:57 +0000",
+          "section": ""
+        },
+        {
           "title": "'Robot Wars': Defense One Futures, Ep. 1",
           "url": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars-ep-1/417183/",
           "source": "Defense One - All Content",
           "ts": "Thu, 12 Nov 2026 12:14:55 -0500",
+          "section": ""
+        },
+        {
+          "title": "U.S. Navy Expands Tomahawk Warhead Production Capacity at China Lake",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-expands-tomahawk-warhead-production-capacity-at-china-lake/",
+          "source": "Naval News",
+          "ts": "Thu, 12 Nov 2026 15:41:39 +0000",
           "section": ""
         },
         {
@@ -694,6 +701,13 @@
           "source": "Global Research",
           "ts": "Thu, 12 Nov 2026 15:09:29 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Euronaval 2026: CMN Unveils 107-Meter Multi-Mission Corvette",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-cmn-unveils-107-meter-multi-mission-corvette/",
+          "source": "Naval News",
+          "ts": "Thu, 12 Nov 2026 14:23:05 +0000",
+          "section": ""
         },
         {
           "title": "The Promise of Biomanufacturing at the Edge",
@@ -976,6 +990,13 @@
           "url": "https://www.mintpressnews.com/iran-strikes-back-as-the-us-launches-new-attacks-in-dramatic-escalation/291292/",
           "source": "MintPress News",
           "ts": "Tue, 10 Nov 2026 16:01:44 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Otherwise Occupied • Some Israeli doctors refuse to stay silent about the scabies epidemic - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGpMTUs4aDU4cHZhc3Jodi1pOE9aVEE3QkJXY05rN0JHT2RKa3FoUGF1UzhYMzVsU1cyMlgxdmlKVnBTNVp1S1VJeW5fRHUwQlVsOUhOT05LUHo2VlozUkplUnVhUTZhUU93Y0tSc0dGT2NmSHFBbVBIWDVIdkdRYURsc0xwUTdZdVV6UG1OZUN3blp0bjBRLXYyc0FzN1M5ejlyb1NadDJGQk4xYjF0OEtvSklIWEZoZWRHTUNtSnEtVnp2WWJHdXptYkxYTjgtYnZZRFQyYTFlZEs5UXhENUtrTTBYX2x6YjZGNDFJOFdfNk9LVDdVTDVTWlJuTWhVQjlDQmFOQU44TUU?oc=5",
+          "source": "Gideon Levy (Haaretz)",
+          "ts": "Tue, 10 Nov 2026 11:52:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
