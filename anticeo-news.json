@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T16:04:52.664393Z",
+  "generated_at": "2026-11-13T16:18:54.521597Z",
   "headline": {
-    "title": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
-    "url": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf"
+    "title": "Biden: I Was Right to Seek Reelection",
+    "url": "https://www.theatlantic.com/politics/2026/11/joe-biden-memoir-trump/689346/?utm_source=feed"
   },
   "sections": [
     {
@@ -30,13 +30,6 @@
           "section": ""
         },
         {
-          "title": "House panel calls for ban on public officials using prediction markets",
-          "url": "https://www.washingtontimes.com/news/2026/nov/13/house-panel-calls-ban-public-officials-using-prediction-markets/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 13 Nov 2026 10:30:31 -0500",
-          "section": ""
-        },
-        {
           "title": "John Violinist faces backlash after allegedly snubbing a gay couple on-stage",
           "url": "https://www.thepinknews.com/2026/11/13/john-violinist-anniversary-snub-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -55,13 +48,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-13/storm-series-brings-rain-dangerous-surf-snow-to-southern-california-heres-where-when",
           "source": "California",
           "ts": "Fri, 13 Nov 2026 15:19:32 GMT",
-          "section": ""
-        },
-        {
-          "title": "Bessent to Commerce Dept.: Enforce export controls on Nvidia chips",
-          "url": "https://www.washingtontimes.com/news/2026/nov/13/scott-bessent-commerce-dept-enforce-export-controls-nvidia-chips/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 13 Nov 2026 10:12:21 -0500",
           "section": ""
         },
         {
@@ -121,13 +107,6 @@
           "section": ""
         },
         {
-          "title": "Wholesale prices rose slightly less than expected in October",
-          "url": "https://www.washingtontimes.com/news/2026/nov/13/wholesale-prices-rose-slightly-less-expected-october/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Fri, 13 Nov 2026 08:44:19 -0500",
-          "section": ""
-        },
-        {
           "title": "Remembering singer and actor Peggy King",
           "url": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
           "source": "NPR Topics: News",
@@ -174,6 +153,13 @@
           "url": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
           "source": "ProPublica",
           "ts": "Fri, 13 Nov 2026 10:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Video Book Launch with Caitlin and Tim! Presenting Babyhead, Our New Graphic Novel, by Caitlin Johnstone",
+          "url": "https://www.unz.com/cjohnstone/video-book-launch-with-caitlin-and-tim-presenting-babyhead-our-new-graphic-novel/",
+          "source": "The Unz Review:",
+          "ts": "Fri, 13 Nov 2026 05:00:45 +0000",
           "section": ""
         },
         {
@@ -364,17 +350,17 @@
           "section": ""
         },
         {
-          "title": "Broadview Six: judge orders U.S. Attorney Boutros to testify about the protesters' prosecution: 11 Nov 2026",
+          "title": "Broadview Six: judge orders U.S. Attorney Boutros to testify about the protesters' prosecution: 12 Nov 2026",
           "url": "https://publictrusttracker.org/case/pwr-020-broadview-six-judge-orders-u-s-attorney-boutros-to-testify/",
           "source": "Public Trust Tracker",
-          "ts": "2026-11-11T00:00:00Z",
+          "ts": "2026-11-12T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         },
         {
-          "title": "East Potomac golf course: park-fee money and a court inquiry into government candor: 10 Nov 2026",
-          "url": "https://publictrusttracker.org/case/inv-070-east-potomac-golf-course-park-fee-money-and-a-court-inquiry/",
+          "title": "Commerce Department's Megaspeed export-control inquiry and its transfer to the Justice Department (allegation): 12 Nov 2026",
+          "url": "https://publictrusttracker.org/case/cor-009-commerce-departments-megaspeed-export-control-inquiry-and/",
           "source": "Public Trust Tracker",
-          "ts": "2026-11-10T00:00:00Z",
+          "ts": "2026-11-12T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         }
       ]
@@ -383,17 +369,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Censors Come for Michel Houellebecq",
-          "url": "https://www.nationalreview.com/article/the-censors-come-for-michel-houellebecq",
-          "source": "National Review",
-          "ts": "Fri, 13 Nov 2026 15:47:18 +0000",
+          "title": "Biden: I Was Right to Seek Reelection",
+          "url": "https://www.theatlantic.com/politics/2026/11/joe-biden-memoir-trump/689346/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-13T11:12:43-05:00",
           "section": ""
         },
         {
           "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
           "source": "US news | The Guardian",
-          "ts": "Fri, 13 Nov 2026 15:34:45 GMT",
+          "ts": "Fri, 13 Nov 2026 16:07:40 GMT",
+          "section": ""
+        },
+        {
+          "title": "The Censors Come for Michel Houellebecq",
+          "url": "https://www.nationalreview.com/article/the-censors-come-for-michel-houellebecq",
+          "source": "National Review",
+          "ts": "Fri, 13 Nov 2026 15:47:18 +0000",
           "section": ""
         },
         {
@@ -432,7 +425,7 @@
           "section": ""
         },
         {
-          "title": "Surprise! You’re in Congress Now",
+          "title": "The Democrats Who Are Stunned to Find Themselves in Congress",
           "url": "https://www.theatlantic.com/politics/2026/11/unlikely-congress-midterm-winners/689388/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-13T08:40:49-05:00",
@@ -448,13 +441,6 @@
         {
           "title": "<em>Zelda</em>’s Midlife Crisis",
           "url": "https://www.theatlantic.com/ideas/2026/11/new-zelda-review-nostalgia/689420/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-13T08:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "The Writer Who Made Food Fun",
-          "url": "https://www.theatlantic.com/books/2026/11/m-f-k-fisher-made-food-writing-pleasurable-book-review/689398/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-13T08:00:00-05:00",
           "section": ""
@@ -521,6 +507,13 @@
           "source": "UCLA",
           "ts": "Thu, 12 Nov 2026 22:39:00 GMT",
           "section": ""
+        },
+        {
+          "title": "Attack on Trans Sex Workers in Argentina Demands Justice",
+          "url": "https://www.hrw.org/news/2026/11/12/attack-on-trans-sex-workers-in-argentina-demands-justice",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 12 Nov 2026 12:49:13 -0500",
+          "section": ""
         }
       ]
     },
@@ -577,6 +570,13 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "When Problems Become Weapons Solutions Are Not Sought, by Paul Craig Roberts",
+          "url": "https://www.unz.com/proberts/when-problems-become-weapons-solutions-are-not-sought/",
+          "source": "The Unz Review:",
+          "ts": "Fri, 13 Nov 2026 14:29:55 +0000",
+          "section": ""
+        },
+        {
           "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
           "url": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -591,24 +591,10 @@
           "section": ""
         },
         {
-          "title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
-          "url": "https://www.navalnews.com/naval-news/2026/11/subpac-commander-warns-of-rapid-expansion-in-chinese-and-russian-submarine-fleets/",
-          "source": "Naval News",
-          "ts": "Fri, 13 Nov 2026 12:59:29 +0000",
-          "section": ""
-        },
-        {
           "title": "Defense Business Brief: This Ukraine-founded drone maker is now worth $6 billion. What now?",
           "url": "https://www.defenseone.com/business/2026/11/defense-business-brief-ukraine-founded-drone-maker-now-worth-6-billion-what-now/417207/",
           "source": "Defense One - All Content",
           "ts": "Fri, 13 Nov 2026 06:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet",
-          "url": "https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/",
-          "source": "Naval News",
-          "ts": "Fri, 13 Nov 2026 09:25:44 +0000",
           "section": ""
         },
         {
@@ -633,10 +619,10 @@
           "section": ""
         },
         {
-          "title": "Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50%",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
-          "source": "Naval News",
-          "ts": "Fri, 13 Nov 2026 08:45:16 +0000",
+          "title": "The Fight Over Democratic Party Leadership Mirrors the Wider Battle Over Israel, by Michael Arria",
+          "url": "https://www.unz.com/article/the-fight-over-democratic-party-leadership-mirrors-the-wider-battle-over-israel/",
+          "source": "The Unz Review:",
+          "ts": "Fri, 13 Nov 2026 05:00:16 +0000",
           "section": ""
         },
         {
@@ -778,6 +764,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Alleged White House Correspondents’ Dinner Attacker Hit w/ New Terrorism Charge",
+          "url": "https://headlineusa.com/alleged-white-house-correspondents-dinner-attacker-hit-w-new-terrorism-charge/",
+          "source": "Ken Silva, Author at Headline USA",
+          "ts": "Fri, 13 Nov 2026 16:05:30 +0000",
+          "section": "PARA POLITICAL INTRIGUE"
+        },
+        {
           "title": "Iran hits U.S. radar in Bahrain; Van Hollen challenges Schumer; Trump considers military operation against Cuba",
           "url": "https://www.dropsitenews.com/p/iran-hits-us-radar-in-bahrain-van",
           "source": "Drop Site News",
@@ -883,13 +876,6 @@
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
-          "title": "Report: Cartel-Linked CIA Asset is a Fugitive in Mexico",
-          "url": "https://headlineusa.com/report-cartel-linked-cia-asset-is-a-fugitive-in-mexico/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Tue, 10 Nov 2026 14:13:01 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "We’re Asking an Appeals Court to Require a Warrant for ALPR Searches",
           "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
           "source": "Deeplinks",
@@ -908,6 +894,13 @@
     {
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
+        {
+          "title": "UN warns Israeli attacks have pushed Gaza’s health system to brink of collapse",
+          "url": "https://www.middleeastmonitor.com/20261113-un-warns-israeli-attacks-have-pushed-gazas-health-system-to-brink-of-collapse/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 13 Nov 2026 16:05:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
         {
           "title": "“I have no regrets”: A Brazilian socialist leader sentenced over pro-Palestine speech",
           "url": "https://www.middleeastmonitor.com/20261113-i-have-no-regrets-a-brazilian-socialist-leader-sentenced-over-pro-palestine-speech/",
@@ -930,13 +923,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "CENTCOM denies Iranian claim of attack on US radar in Bahrain, says 2 drones shot down",
-          "url": "https://www.middleeastmonitor.com/20261113-centcom-denies-iranian-claim-of-attack-on-us-radar-in-bahrain-says-2-drones-shot-down/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 13 Nov 2026 14:57:42 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Israeli strike on Nasser Hospital in Gaza kills six, disables key medical departments",
           "url": "https://mondoweiss.net/2026/11/israeli-strike-on-nasser-hospital-in-gaza-kills-six-disables-key-medical-departments/",
           "source": "Mondoweiss",
@@ -944,24 +930,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Gazan medics detained on shift, tortured – and return to work",
-          "url": "https://electronicintifada.net/content/gazan-medics-detained-shift-tortured-and-return-work/51762",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 13 Nov 2026 10:42:44 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "DC Cafe Catch Up! - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IdFFmOUhFNlJ3bmNtQ3VMUFFURExfQjVDeVQ2ajhWby1hRlZrYjVzcVVPdXZNNEpwLUhRaXZWVmV1ZmphdXc?oc=5",
           "source": "CODEPINK",
           "ts": "Fri, 13 Nov 2026 10:28:32 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "EU buddies up with Israel's weapons industry",
-          "url": "https://electronicintifada.net/blogs/david-cronin/eu-buddies-israels-weapons-industry",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 13 Nov 2026 08:01:14 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -979,13 +951,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Most violent olive harvest on record in the West Bank",
-          "url": "https://electronicintifada.net/blogs/tamara-nassar/most-violent-olive-harvest-record-west-bank",
-          "source": "The Electronic Intifada",
-          "ts": "Thu, 12 Nov 2026 16:43:39 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Opinion | Israel wants its Arabs to be Israeli, not Palestinian - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObWZqbWp4X0U3M1V0SE90Vl9ITGJ0NG1xMWlrNnA3WFoyZTJNaHFxU2JfWFlQN1ZHRTF2Zk1JbzAtNXFtemZ2NzVGR2xhRGZGaHp2TWZxa2EwamN2eFBUN3NXRUJvX1pfMjRBcF9LUEJVSlFtR3RVQmxkSlBnYlU2U3lLMXROaW83OUhfWm83bDgzNW1RQnlzZDRNWnowYnZRTzlybXBpN0xXejNheEZER3BIRnU5dUxTbGpVeEJxdGhXNV9LaVRuTFNqczFhUURKaEZBSjVhdHZQVWFlMTVoejZHWmtLMlo5aU05d2N1cG02Q3VyVlg3cXFGcDh3MmZ6ekR0UEhRemN4cHFWYm9leg?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -1000,6 +965,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Israel laughs at catastrophic Gaza floods - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUNOVERocXlHbk00WEVIa0tQOXEtT1Z0b3RSdUJVejl1eWVyUVNtUFYwbTVhajRxM1ZlTHhWazFwZVNoeHVrdmNGbzZoOTZnS3Y0blpwbU5jbWV5YjhhdGZaRDJ0TnNNazRlaXRSVnJXZlFkWS1rcjlvTUh2bXhqUTJ1VFZHeWh4UGdV?oc=5",
+          "source": "via Google News",
+          "ts": "Tue, 10 Nov 2026 17:50:08 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Iran Strikes Back As The US Launches New Attacks In ‘Dramatic Escalation’",
           "url": "https://www.mintpressnews.com/iran-strikes-back-as-the-us-launches-new-attacks-in-dramatic-escalation/291292/",
           "source": "MintPress News",
@@ -1011,6 +983,13 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "Cómo ayudar a los afectados por el derrumbe del edificio en Flatbush",
+          "url": "https://documentedny.com/2026/11/13/ayudar-derrumbe-edificio-flatbush-brooklyn/",
+          "source": "Documented",
+          "ts": "Fri, 13 Nov 2026 16:11:20 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
         {
           "title": "Cómo llamar y enviar dinero a una persona detenida por ICE",
           "url": "https://documentedny.com/2026/11/13/ice-persona-detenida-llamar-enviar-dinero/",
@@ -1038,13 +1017,6 @@
           "source": "LA Public Press",
           "ts": "Fri, 13 Nov 2026 00:42:11 +0000",
           "section": ""
-        },
-        {
-          "title": "How to Help Residents Affected by the Flatbush Building Collapse",
-          "url": "https://documentedny.com/2026/11/12/flatbush-brooklyn-building-collapse-relief/",
-          "source": "Documented",
-          "ts": "Thu, 12 Nov 2026 22:47:42 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
           "title": "How The Marshall Project Talks About ICE Detention Facilities",
