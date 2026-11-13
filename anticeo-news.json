@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T11:32:37.957860Z",
+  "generated_at": "2026-11-13T11:47:29.893516Z",
   "headline": {
-    "title": "The Week: Jensen Huang, Honeytrapped",
-    "url": "https://www.nationalreview.com/article/the-week-jensen-huang-honeytrapped"
+    "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
   },
   "sections": [
     {
@@ -198,13 +198,6 @@
           "section": ""
         },
         {
-          "title": "Believe it, Bruins! UCLA football's dream season rolls on",
-          "url": "https://newsroom.ucla.edu/stories/believe-it-bruins-ucla-football-s-dream-season-rolls-on",
-          "source": "UCLA",
-          "ts": "Thu, 12 Nov 2026 20:43:00 GMT",
-          "section": ""
-        },
-        {
           "title": "LA County is finally ordering the Sheriff’s Department to name its deputy gangs",
           "url": "https://lapublicpress.org/2026/11/la-sheriffs-department-lasd-gangs-vote-cliques-luna/",
           "source": "LA Public Press",
@@ -383,10 +376,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Nov 2026 11:44:50 GMT",
+          "section": ""
+        },
+        {
           "title": "The Week: Jensen Huang, Honeytrapped",
           "url": "https://www.nationalreview.com/article/the-week-jensen-huang-honeytrapped",
           "source": "National Review",
           "ts": "Fri, 13 Nov 2026 11:30:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democrats made shocking gains with religious voters — but not everywhere",
+          "url": "https://www.vox.com/politics/510486/democrats-religious-voter-midterm-elections-evangelical-catholic-jewish-muslim-christian-protestant-latino",
+          "source": "Vox",
+          "ts": "2026-11-13T06:30:00-05:00",
           "section": ""
         },
         {
@@ -411,13 +418,6 @@
           "section": ""
         },
         {
-          "title": "Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Nov 2026 11:09:22 GMT",
-          "section": ""
-        },
-        {
           "title": "RuPaul’s Drag Race Live! to end Las Vegas residency after 1,500 shows",
           "url": "https://www.thepinknews.com/2026/11/13/rupauls-drag-race-live-ending-las-vegas-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -425,17 +425,17 @@
           "section": ""
         },
         {
-          "title": "Why online gamblers are obsessed with table tennis",
-          "url": "https://www.vox.com/technology/510152/online-gambling-table-tennis-sports-parlays",
-          "source": "Vox",
-          "ts": "2026-11-13T06:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "The Questions Conservative Evangelicals Should Be Asking",
           "url": "https://www.christianitytoday.com/2026/11/conservative-evangelicals-post-midterms/",
           "source": "Christianity Today",
           "ts": "Fri, 13 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Why online gamblers are obsessed with table tennis",
+          "url": "https://www.vox.com/technology/510152/online-gambling-table-tennis-sports-parlays",
+          "source": "Vox",
+          "ts": "2026-11-13T06:00:00-05:00",
           "section": ""
         },
         {
@@ -499,13 +499,6 @@
           "url": "https://newsroom.ucla.edu/stories/ucla-wins-8-regional-case-awards-campus-communications-2026",
           "source": "UCLA",
           "ts": "Thu, 12 Nov 2026 22:39:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Is this the end of the Electoral College?",
-          "url": "https://www.vox.com/today-explained-newsletter/510466/national-popular-vote-compact-2026",
-          "source": "Vox",
-          "ts": "2026-11-12T17:25:00-05:00",
           "section": ""
         },
         {
@@ -619,6 +612,13 @@
           "section": ""
         },
         {
+          "title": "Beyond the Hype: French Navy Chief Advocates for a ‘Reasoned’ Hybrid Fleet",
+          "url": "https://www.navalnews.com/interviews/2026/11/french-navy-chief-reasoned-hybrid-fleet/",
+          "source": "Naval News",
+          "ts": "Fri, 13 Nov 2026 09:25:44 +0000",
+          "section": ""
+        },
+        {
           "title": "Iran Open Thread 2026-252",
           "url": "https://www.moonofalabama.org/2026/11/iran-open-thread-2026-252.html",
           "source": "Moon of Alabama",
@@ -637,6 +637,20 @@
           "url": "https://www.moonofalabama.org/2026/11/open-not-ukraine-or-iran-thread-2026-250.html",
           "source": "Moon of Alabama",
           "ts": "Fri, 13 Nov 2026 08:48:58 +0000",
+          "section": ""
+        },
+        {
+          "title": "Saab’s New Sea Giraffe AMB D Radar Boosts Detection Range by 50%",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
+          "source": "Naval News",
+          "ts": "Fri, 13 Nov 2026 08:45:16 +0000",
+          "section": ""
+        },
+        {
+          "title": "Naval Unmanned Systems Showcased at Taiwan’s Marine Tech Show",
+          "url": "https://www.navalnews.com/naval-news/2026/11/naval-unmanned-systems-showcased-at-taiwans-marine-tech-show/",
+          "source": "Naval News",
+          "ts": "Fri, 13 Nov 2026 06:29:00 +0000",
           "section": ""
         },
         {
@@ -916,6 +930,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Gulf states welcome UN resolution calling on Houthis to halt attacks",
+          "url": "https://www.middleeastmonitor.com/20261113-gulf-states-welcome-un-resolution-calling-on-houthis-to-halt-attacks/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 13 Nov 2026 11:36:43 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "X suspends Palestinian American Ahmed Moor’s campaign account after Senate bid",
           "url": "https://www.middleeastmonitor.com/20261113-x-suspends-palestinian-american-ahmed-moors-campaign-account-after-senate-bid/",
           "source": "Middle East Monitor",
@@ -927,13 +948,6 @@
           "url": "https://www.middleeastmonitor.com/20261113-iran-claims-it-destroyed-us-early-warning-radar-in-bahrain/",
           "source": "Middle East Monitor",
           "ts": "Fri, 13 Nov 2026 10:59:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Podcast by Jasim Al-Azzawi with Kelley Beaucar Vlahos: War, Congress, Chaos: Has Trump Finally Run Out of Escape Routes?",
-          "url": "https://www.middleeastmonitor.com/20261113-podcast-by-jasim-al-azzawi-with-kelley-beaucar-vlahos-war-congress-chaos-has-trump-finally-run-out-of-escape-routes/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 13 Nov 2026 10:53:26 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
