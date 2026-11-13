@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-13T17:17:14.782087Z",
+  "generated_at": "2026-11-13T17:33:00.524451Z",
   "headline": {
-    "title": "Over 200,000 Debtors and Their Allies Demand Student Loan Repayment Pause",
-    "url": "https://truthout.org/articles/over-200000-debtors-and-their-allies-demand-student-loan-repayment-pause/"
+    "title": "After Sunset Park Fire Kills 6 Chinese Immigrants, a Community Mourns and Rallies to Help",
+    "url": "https://documentedny.com/2026/11/13/sunset-park-fire-brooklyn-chinese-immigrant-victims/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Overdose in Aisle Three",
+          "url": "https://www.truthdig.com/articles/overdose-in-aisle-three/?utm_source=rss&utm_medium=rss&utm_campaign=overdose-in-aisle-three",
+          "source": "Truthdig",
+          "ts": "Fri, 13 Nov 2026 17:28:51 +0000",
+          "section": ""
+        },
         {
           "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
           "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
@@ -20,6 +27,13 @@
           "url": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 13 Nov 2026 17:05:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "Hungary Pledges to Ratify European Treaty to Protect Women from Violence",
+          "url": "https://www.hrw.org/news/2026/11/13/hungary-pledges-to-ratify-european-treaty-to-protect-women-from-violence",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 13 Nov 2026 12:01:55 -0500",
           "section": ""
         },
         {
@@ -37,13 +51,6 @@
           "section": ""
         },
         {
-          "title": "What California Owes for Native Land",
-          "url": "https://www.truthdig.com/articles/what-california-owes-for-native-land/?utm_source=rss&utm_medium=rss&utm_campaign=what-california-owes-for-native-land",
-          "source": "Truthdig",
-          "ts": "Fri, 13 Nov 2026 16:34:15 +0000",
-          "section": ""
-        },
-        {
           "title": "Does Europe regret its bet on U.S. defense?",
           "url": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
           "source": "NPR Topics: News",
@@ -51,7 +58,7 @@
           "section": ""
         },
         {
-          "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+          "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
           "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Fri, 13 Nov 2026 15:40:08 GMT",
@@ -362,6 +369,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Nov 2026 17:17:45 GMT",
+          "section": ""
+        },
+        {
+          "title": "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 13 Nov 2026 17:15:05 GMT",
+          "section": ""
+        },
+        {
           "title": "Emanuel Nine Memorial opens to welcome strangers, shun hatred after 2015 tragedy",
           "url": "https://religionnews.com/2026/11/13/emanuel-nine-memorial-opens-to-welcome-strangers-shun-hatred-after-2015-tragedy/",
           "source": "RNS",
@@ -369,24 +390,10 @@
           "section": ""
         },
         {
-          "title": "Scott Bessent blames commerce department over delay blacklisting China-linked data company – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Nov 2026 17:03:20 GMT",
-          "section": ""
-        },
-        {
           "title": "How Trans Rights Fared in the 2026 Midterm Elections",
           "url": "https://www.truthdig.com/articles/how-trans-rights-fared-in-the-2026-midterm-elections/?utm_source=rss&utm_medium=rss&utm_campaign=how-trans-rights-fared-in-the-2026-midterm-elections",
           "source": "Truthdig",
           "ts": "Fri, 13 Nov 2026 16:41:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Chuck Schumer’s challenger for party control underscores Democrats’ ideological rift",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Nov 2026 16:36:45 GMT",
           "section": ""
         },
         {
@@ -507,19 +514,19 @@
           "source": "UCLA",
           "ts": "Thu, 12 Nov 2026 22:39:00 GMT",
           "section": ""
-        },
-        {
-          "title": "Attack on Trans Sex Workers in Argentina Demands Justice",
-          "url": "https://www.hrw.org/news/2026/11/12/attack-on-trans-sex-workers-in-argentina-demands-justice",
-          "source": "Human Rights Watch News",
-          "ts": "Thu, 12 Nov 2026 12:49:13 -0500",
-          "section": ""
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "The dangers of revising Europe's security architecture",
+          "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-13T17:30:00Z",
+          "section": ""
+        },
         {
           "title": "B-21 Raider Has Released Its First Weapon",
           "url": "https://www.twz.com/air/b-21-raider-has-released-its-first-weapon",
@@ -540,6 +547,13 @@
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 13 Nov 2026 16:44:56 +0000",
           "section": ""
+        },
+        {
+          "title": "Selected Articles: NATO to Prioritize War with Russia over Usual Neo-colonial Racketeering",
+          "url": "https://www.globalresearch.ca/selected-articles-nato-prioritize-war-russia-usual-neo-colonial-racketeering/5945810",
+          "source": "Global Research",
+          "ts": "Fri, 13 Nov 2026 16:40:59 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Jerusalem Daily: Baby dies from cold in Gaza",
@@ -563,13 +577,6 @@
           "section": ""
         },
         {
-          "title": "Ice hockey: Russia threatens against Canada and Germany over exclusion from tournaments",
-          "url": "https://www.dw.com/en/ice-hockey-russia-threatens-against-canada-and-germany-over-exclusion-from-tournaments/a-79942676?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-13T16:02:00Z",
-          "section": ""
-        },
-        {
           "title": "The Southern African Bi-Oceanic Railway Could Be a Game-Changer in the Sino-US New Cold War",
           "url": "https://korybko.substack.com/p/the-southern-african-bi-oceanic-railway",
           "source": "Global Research",
@@ -581,13 +588,6 @@
           "url": "https://www.globalresearch.ca/netanyahu-pushes-strikes-trump-weakened-qatar-mediates-global-standoff/5945763",
           "source": "Global Research",
           "ts": "Fri, 13 Nov 2026 14:38:50 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Zelensky Rejects Trump’s Peace Formula: Ukraine Refusing Its Last Good Peace Deal",
-          "url": "https://www.globalresearch.ca/zelensky-rejects-trump-peace-formula-ukraine-refusing-last-good-peace-deal/5945762",
-          "source": "Global Research",
-          "ts": "Fri, 13 Nov 2026 14:36:51 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
@@ -771,6 +771,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Pick Another Senator: How The Open Internet Helped Scott Colom Win Mississippi",
+          "url": "https://www.techdirt.com/2026/11/13/pick-another-senator-how-the-open-internet-helped-scott-colom-win-mississippi/",
+          "source": "Techdirt",
+          "ts": "Fri, 13 Nov 2026 17:30:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Would-Be Trump Assassin Files Appeal",
           "url": "https://headlineusa.com/would-be-trump-assassin-files-appeal/",
           "source": "Ken Silva, Author at Headline USA",
@@ -869,13 +876,6 @@
           "section": ""
         },
         {
-          "title": "Unjustly Fired Black Washington Post Columnist Sued, Got Her Job Back, And Politely Just Told The Paper To Go Fuck Itself",
-          "url": "https://www.techdirt.com/2026/11/12/unjustly-fired-black-washington-post-columnist-sued-got-her-job-back-and-politely-just-told-the-paper-to-go-fuck-itself/",
-          "source": "Techdirt",
-          "ts": "Thu, 12 Nov 2026 23:50:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Democrats Missed Hegseth Impeachment Vote While at a Fundraiser with Defense Lobbyists",
           "url": "https://www.dropsitenews.com/p/democrats-miss-hegseth-impeachment-vote-elect-democratic-women-party",
           "source": "Drop Site News",
@@ -909,6 +909,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Sudanese army, allied forces say they recaptured areas in North Kordofan from RSF",
+          "url": "https://www.middleeastmonitor.com/20261113-sudanese-army-allied-forces-say-they-recaptured-areas-in-north-kordofan-from-rsf/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 13 Nov 2026 17:19:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel’s Eisenkot denounces ‘racist, hostile’ campaign against Arab citizens, cites progress in coalition talks",
           "url": "https://www.middleeastmonitor.com/20261113-israels-eisenkot-denounces-racist-hostile-campaign-against-arab-citizens-cites-progress-in-coalition-talks/",
           "source": "Middle East Monitor",
@@ -920,13 +927,6 @@
           "url": "https://www.middleeastmonitor.com/20261113-yemeni-army-accuses-houthis-of-targeting-aden-with-ballistic-missiles/",
           "source": "Middle East Monitor",
           "ts": "Fri, 13 Nov 2026 17:01:55 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Turkiye, Qatar sign 5 agreements following Erdogan-emir talks in Istanbul",
-          "url": "https://www.middleeastmonitor.com/20261113-turkiye-qatar-sign-5-agreements-following-erdogan-emir-talks-in-istanbul/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 13 Nov 2026 16:52:24 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -998,6 +998,13 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
+          "title": "After Sunset Park Fire Kills 6 Chinese Immigrants, a Community Mourns and Rallies to Help",
+          "url": "https://documentedny.com/2026/11/13/sunset-park-fire-brooklyn-chinese-immigrant-victims/",
+          "source": "Documented",
+          "ts": "Fri, 13 Nov 2026 17:30:47 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
           "title": "DHS Brags That They’ve Deported Over 483,000 People Over the Past Year",
           "url": "https://truthout.org/articles/dhs-brags-that-theyve-deported-over-483000-people-over-the-past-year/",
           "source": "Truthout",
@@ -1016,13 +1023,6 @@
           "url": "https://documentedny.com/2026/11/13/ice-persona-detenida-llamar-enviar-dinero/",
           "source": "Documented",
           "ts": "Fri, 13 Nov 2026 12:00:00 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Immigration News Today: DOJ Using Dilley Detention Center for Immigration Hearings",
-          "url": "https://documentedny.com/2026/11/13/dilley-texas-detention-immigration-hearings/",
-          "source": "Documented",
-          "ts": "Fri, 13 Nov 2026 11:00:00 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
@@ -1072,13 +1072,6 @@
           "url": "https://www.americanimmigrationcouncil.org/press-release/states-index-analysis-midterms/",
           "source": "American Immigration Council",
           "ts": "Mon, 09 Nov 2026 18:20:47 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Pricing - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ESF9UcXp2OGlCX2JIYkJidFc4cVRDRHhkZThEN3QyWGk2Z095VDlaOFhjNEd2MllFN0Vkc0gxczJiRVlya2dVczNYT2w?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 09 Nov 2026 17:17:51 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
