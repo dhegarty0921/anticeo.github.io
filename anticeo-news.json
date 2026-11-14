@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T01:33:54.766517Z",
+  "generated_at": "2026-11-14T01:47:33.358256Z",
   "headline": {
-    "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-    "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-scandal-what-it-means-to-be-a-spy.html"
+    "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
   },
   "sections": [
     {
@@ -10,7 +10,7 @@
       "items": [
         {
           "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-          "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-scandal-what-it-means-to-be-a-spy.html",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 14 Nov 2026 01:22:56 +0000",
           "section": ""
@@ -376,6 +376,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Nov 2026 01:29:11 GMT",
+          "section": ""
+        },
+        {
           "title": "Chaos at US airports as flight stoppage grinds travel plans to a halt",
           "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
           "source": "US news | The Guardian",
@@ -401,13 +408,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
           "source": "US news | The Guardian",
           "ts": "Fri, 13 Nov 2026 23:53:43 GMT",
-          "section": ""
-        },
-        {
-          "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 13 Nov 2026 23:36:21 GMT",
           "section": ""
         },
         {
@@ -521,6 +521,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Former FAA official says ‘nobody really knows what is going on’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 01:28:46 +0000",
+          "section": ""
+        },
+        {
           "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
           "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215",
           "source": "TWZ",
@@ -542,15 +549,8 @@
           "section": ""
         },
         {
-          "title": "Afghanistan’s new road to China ends at a closed border",
-          "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 00:06:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "FAA issues US national ground stop on all flights",
-          "url": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-rdf",
+          "title": "US lifts nationwide ground stop for airports hours after halting all departures",
+          "url": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-13T22:57:00Z",
           "section": ""
