@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T03:04:31.578230Z",
+  "generated_at": "2026-11-14T03:18:59.206223Z",
   "headline": {
-    "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-    "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage"
+    "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+    "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
   },
   "sections": [
     {
@@ -55,13 +55,6 @@
           "url": "https://thelalocal.org/news/el-nino-prep-what-to-know-in-koreatown-pico-union-and-westlake/",
           "source": "LA Local",
           "ts": "Sat, 14 Nov 2026 00:05:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Setback for SpaceX Starship rocket's double-catch test",
-          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sat, 14 Nov 2026 00:01:01 GMT",
           "section": ""
         },
         {
@@ -125,6 +118,13 @@
           "url": "https://www.realclearpolitics.com/2026/11/13/five_things_trump_administration_has_gotten_right_717530.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Fri, 13 Nov 2026 15:46:30 -0600",
+          "section": ""
+        },
+        {
+          "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Fri, 13 Nov 2026 21:15:24 GMT",
           "section": ""
         },
         {
@@ -369,6 +369,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+          "source": "US news | The Guardian",
+          "ts": "Sat, 14 Nov 2026 03:11:28 GMT",
+          "section": ""
+        },
+        {
           "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
           "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
           "source": "US news | The Guardian",
@@ -394,13 +401,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-13T20:47:15-05:00",
-          "section": ""
-        },
-        {
-          "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Nov 2026 01:29:11 GMT",
           "section": ""
         },
         {
@@ -514,6 +514,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+          "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 02:34:50 +0000",
+          "section": ""
+        },
+        {
           "title": "SpaceX launches Starship rocket, fails to recover booster",
           "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -553,13 +560,6 @@
           "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215",
           "source": "TWZ",
           "ts": "Fri, 13 Nov 2026 19:31:04 -0500",
-          "section": ""
-        },
-        {
-          "title": "UK police open sex offence probe into comedian and author David Walliams",
-          "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 00:22:07 +0000",
           "section": ""
         },
         {
