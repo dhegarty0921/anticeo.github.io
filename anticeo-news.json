@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T20:32:39.618941Z",
+  "generated_at": "2026-11-14T20:47:18.662884Z",
   "headline": {
-    "title": "Fact check: 'Iranian' content farms reach millions",
-    "url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-rdf"
+    "title": "Looming Medicaid Cuts Could End in Disaster. The Trump Administration Just Paused Them for Six Months.",
+    "url": "https://www.motherjones.com/politics/2026/11/medicaid-work-requirements-cuts-pause-hold-harmless-period/"
   },
   "sections": [
     {
@@ -132,13 +132,6 @@
           "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
           "source": "NPR Topics: Politics",
           "ts": "Sat, 14 Nov 2026 08:08:05 -0500",
-          "section": ""
-        },
-        {
-          "title": "The Death of the Cybertruck Is Actually Great News for the Electric Vehicle Market",
-          "url": "https://www.motherjones.com/environment/2026/11/death-end-elon-musk-tesla-cybertruck-good-news-electric-vehicle-market-battery-supply-chain/",
-          "source": "Mother Jones",
-          "ts": "Sat, 14 Nov 2026 12:30:00 +0000",
           "section": ""
         },
         {
@@ -350,6 +343,13 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
+          "title": "Looming Medicaid Cuts Could End in Disaster. The Trump Administration Just Paused Them for Six Months.",
+          "url": "https://www.motherjones.com/politics/2026/11/medicaid-work-requirements-cuts-pause-hold-harmless-period/",
+          "source": "Mother Jones",
+          "ts": "Sat, 14 Nov 2026 20:42:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Ethics Watchdog Urges Investigation Into Top Health Official, Alleging Conflict of Interest Over Hormone Therapy Policy",
           "url": "https://www.propublica.org/article/hhs-alicia-jackson-ethics-complaint",
           "source": "ProPublica",
@@ -521,10 +521,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "US Transport chief says unclear if 'incompetence' or bad tech to blame for groundings",
+          "url": "https://www.dw.com/en/us-transport-chief-says-unclear-if-incompetence-or-bad-tech-to-blame-for-groundings/a-79949977?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-14T20:33:00Z",
+          "section": ""
+        },
+        {
           "title": "Fact check: 'Iranian' content farms reach millions",
           "url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-14T20:26:00Z",
+          "section": ""
+        },
+        {
+          "title": "India’s Assam state demolishes homes of 132 Muslim families",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 20:14:10 +0000",
           "section": ""
         },
         {
@@ -542,24 +556,10 @@
           "section": ""
         },
         {
-          "title": "More than 100,000 rally across France in new Yellow Vest protests",
-          "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 19:46:24 +0000",
-          "section": ""
-        },
-        {
           "title": "Italy slaps Meta with €805mn fine over access to Android photos",
           "url": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-14T18:41:00Z",
-          "section": ""
-        },
-        {
-          "title": "COP31: Protesters, UN urge swift climate deal",
-          "url": "https://www.dw.com/en/cop31-protesters-un-urge-swift-climate-deal/a-79948501?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-14T17:19:00Z",
           "section": ""
         },
         {
