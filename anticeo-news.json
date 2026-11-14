@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T04:47:22.010252Z",
+  "generated_at": "2026-11-14T05:04:12.848857Z",
   "headline": {
-    "title": "Senegal Youth Olympics in Dakar end on high note",
-    "url": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf"
+    "title": "Lagos Art Week confronts history, identity and belonging",
+    "url": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss"
   },
   "sections": [
     {
@@ -51,6 +51,13 @@
           "section": ""
         },
         {
+          "title": "Trump to attend trilateral meeting with Xi, Putin in China, White House confirms",
+          "url": "https://www.washingtontimes.com/news/2026/nov/13/trump-attend-trilateral-meeting-xi-putin-china-white-house-confirms/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Fri, 13 Nov 2026 19:11:15 -0500",
+          "section": ""
+        },
+        {
           "title": "El Niño prep: What to know in Koreatown, Pico Union and Westlake",
           "url": "https://thelalocal.org/news/el-nino-prep-what-to-know-in-koreatown-pico-union-and-westlake/",
           "source": "LA Local",
@@ -58,10 +65,24 @@
           "section": ""
         },
         {
+          "title": "Rubio blasts international law as instrument of control as State Department attacks ICC",
+          "url": "https://www.washingtontimes.com/news/2026/nov/13/marco-rubio-blasts-international-law-instrument-control-state/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Fri, 13 Nov 2026 18:53:12 -0500",
+          "section": ""
+        },
+        {
           "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
           "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Fri, 13 Nov 2026 23:40:45 GMT",
+          "section": ""
+        },
+        {
+          "title": "'TrumpCare' and commemorative plaques -- how Democrats are pitching dealmaking with the president",
+          "url": "https://www.washingtontimes.com/news/2026/nov/13/trumpcare-commemorative-plaques-dems-pitching-dealmaking-president/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Fri, 13 Nov 2026 18:06:44 -0500",
           "section": ""
         },
         {
@@ -177,6 +198,13 @@
           "section": ""
         },
         {
+          "title": "Hungary Pledges to Ratify European Treaty to Protect Women from Violence",
+          "url": "https://www.hrw.org/news/2026/11/13/hungary-pledges-to-ratify-european-treaty-to-protect-women-from-violence",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 13 Nov 2026 12:01:55 -0500",
+          "section": ""
+        },
+        {
           "title": "John Violinist faces backlash after allegedly snubbing a gay couple on-stage",
           "url": "https://www.thepinknews.com/2026/11/13/john-violinist-anniversary-snub-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -202,6 +230,13 @@
           "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
           "source": "ProPublica",
           "ts": "Fri, 13 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "France: Sweeping Bill Threatens Peaceful Protest,  Rights",
+          "url": "https://www.hrw.org/news/2026/11/13/france-sweeping-bill-threatens-peaceful-protest-rights",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 13 Nov 2026 00:00:00 -0500",
           "section": ""
         },
         {
@@ -500,6 +535,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Lagos Art Week confronts history, identity and belonging",
+          "url": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 04:46:01 +0000",
+          "section": ""
+        },
+        {
+          "title": "German spies granted sweeping new powers",
+          "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 04:41:11 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iranian shopkeeper goes viral for Netanyahu resemblance",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/iranian-shopkeeper-goes-viral-for-netanyahu-resemblance?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 04:29:08 +0000",
+          "section": ""
+        },
+        {
           "title": "Senegal Youth Olympics in Dakar end on high note",
           "url": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -507,31 +563,10 @@
           "section": ""
         },
         {
-          "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 04:12:15 +0000",
-          "section": ""
-        },
-        {
           "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
           "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-14T04:11:00Z",
-          "section": ""
-        },
-        {
-          "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
-          "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 04:03:49 +0000",
-          "section": ""
-        },
-        {
-          "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-          "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 03:32:07 +0000",
           "section": ""
         },
         {
@@ -577,6 +612,13 @@
           "section": ""
         },
         {
+          "title": "Israel Bans Travel for Prominent Palestinian Rights Defender",
+          "url": "https://www.hrw.org/news/2026/11/13/israel-bans-travel-for-prominent-palestinian-rights-defender",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 13 Nov 2026 15:30:13 -0500",
+          "section": ""
+        },
+        {
           "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
           "url": "https://www.armytimes.com/news/your-army/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
           "source": "News - Army Times",
@@ -603,13 +645,6 @@
           "source": "Global Research",
           "ts": "Fri, 13 Nov 2026 14:38:50 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "When Problems Become Weapons Solutions Are Not Sought, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/when-problems-become-weapons-solutions-are-not-sought/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 13 Nov 2026 14:29:55 +0000",
-          "section": ""
         },
         {
           "title": "SUBPAC Commander Warns of Rapid Expansion in Chinese and Russian Submarine Fleets",
@@ -658,13 +693,6 @@
           "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/saab-sea-giraffe-amb-d-radar/",
           "source": "Naval News",
           "ts": "Fri, 13 Nov 2026 08:45:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Treasury Secretary Cries About Alleged Iran Threat After Targeting Iran, by Caitlin Johnstone",
-          "url": "https://www.unz.com/cjohnstone/us-treasury-secretary-cries-about-alleged-iran-threat-after-targeting-iran/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 13 Nov 2026 05:10:27 +0000",
           "section": ""
         },
         {
@@ -841,38 +869,10 @@
           "section": ""
         },
         {
-          "title": "Would-Be Trump Assassin Files Appeal",
-          "url": "https://headlineusa.com/would-be-trump-assassin-files-appeal/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Fri, 13 Nov 2026 16:27:56 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Alleged White House Correspondents’ Dinner Attacker Hit w/ New Terrorism Charge",
-          "url": "https://headlineusa.com/alleged-white-house-correspondents-dinner-attacker-hit-w-new-terrorism-charge/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Fri, 13 Nov 2026 16:05:30 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "Iran hits U.S. radar in Bahrain; Van Hollen challenges Schumer; Trump considers military operation against Cuba",
           "url": "https://www.dropsitenews.com/p/iran-hits-us-radar-in-bahrain-van",
           "source": "Drop Site News",
           "ts": "Fri, 13 Nov 2026 15:56:52 GMT",
-          "section": ""
-        },
-        {
-          "title": "FBI Scientist Photographed ‘Young Girls’ from Inside His FBI Vehicle, Court Hears",
-          "url": "https://headlineusa.com/fbi-scientist-photographed-young-girls-from-inside-his-fbi-vehicle-court-hears/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Fri, 13 Nov 2026 14:59:19 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Did Nvidia CEO Truly Have Affair with 'Chinese Spy'?, by Ben Norton",
-          "url": "https://www.unz.com/article/did-nvidia-ceo-truly-have-affair-with-chinese-spy/",
-          "source": "The Unz Review:",
-          "ts": "Fri, 13 Nov 2026 05:02:53 +0000",
           "section": ""
         },
         {
@@ -930,10 +930,24 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Gazan medics detained on shift, tortured – and return to work",
+          "url": "https://electronicintifada.net/content/gazan-medics-detained-shift-tortured-and-return-work/51762",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 13 Nov 2026 10:42:44 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "DC Cafe Catch Up! - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5IdFFmOUhFNlJ3bmNtQ3VMUFFURExfQjVDeVQ2ajhWby1hRlZrYjVzcVVPdXZNNEpwLUhRaXZWVmV1ZmphdXc?oc=5",
           "source": "CODEPINK",
           "ts": "Fri, 13 Nov 2026 10:28:32 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "EU buddies up with Israel's weapons industry",
+          "url": "https://electronicintifada.net/blogs/david-cronin/eu-buddies-israels-weapons-industry",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 13 Nov 2026 08:01:14 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -951,6 +965,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Most violent olive harvest on record in the West Bank",
+          "url": "https://electronicintifada.net/blogs/tamara-nassar/most-violent-olive-harvest-record-west-bank",
+          "source": "The Electronic Intifada",
+          "ts": "Thu, 12 Nov 2026 16:43:39 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Opinion | Israel wants its Arabs to be Israeli, not Palestinian - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObWZqbWp4X0U3M1V0SE90Vl9ITGJ0NG1xMWlrNnA3WFoyZTJNaHFxU2JfWFlQN1ZHRTF2Zk1JbzAtNXFtemZ2NzVGR2xhRGZGaHp2TWZxa2EwamN2eFBUN3NXRUJvX1pfMjRBcF9LUEJVSlFtR3RVQmxkSlBnYlU2U3lLMXROaW83OUhfWm83bDgzNW1RQnlzZDRNWnowYnZRTzlybXBpN0xXejNheEZER3BIRnU5dUxTbGpVeEJxdGhXNV9LaVRuTFNqczFhUURKaEZBSjVhdHZQVWFlMTVoejZHWmtLMlo5aU05d2N1cG02Q3VyVlg3cXFGcDh3MmZ6ekR0UEhRemN4cHFWYm9leg?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -962,13 +983,6 @@
           "url": "https://thegrayzone.com/2026/11/10/nypd-antisemitic-hate-crime-investigation-foia/",
           "source": "The Grayzone",
           "ts": "Tue, 10 Nov 2026 18:07:29 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israel laughs at catastrophic Gaza floods - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMUNOVERocXlHbk00WEVIa0tQOXEtT1Z0b3RSdUJVejl1eWVyUVNtUFYwbTVhajRxM1ZlTHhWazFwZVNoeHVrdmNGbzZoOTZnS3Y0blpwbU5jbWV5YjhhdGZaRDJ0TnNNazRlaXRSVnJXZlFkWS1rcjlvTUh2bXhqUTJ1VFZHeWh4UGdV?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 10 Nov 2026 17:50:08 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
