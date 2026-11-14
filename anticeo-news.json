@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-14T21:32:52.719883Z",
+  "generated_at": "2026-11-14T21:47:48.763955Z",
   "headline": {
-    "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
-    "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+    "title": "SpaceX successfully catches Starship and makes history",
+    "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "SpaceX successfully catches Starship and makes history",
+          "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+          "source": "NPR Topics: News",
+          "ts": "Sat, 14 Nov 2026 16:42:41 -0500",
+          "section": ""
+        },
         {
           "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
           "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
@@ -128,13 +135,6 @@
           "section": ""
         },
         {
-          "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 14 Nov 2026 08:08:05 -0500",
-          "section": ""
-        },
-        {
           "title": "I Investigated the Online Sports Betting Industry. DraftKings Shut Down My Account.",
           "url": "https://www.propublica.org/article/draftkings-investigation-closed-account",
           "source": "ProPublica",
@@ -244,13 +244,6 @@
           "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
           "source": "ProPublica",
           "ts": "Fri, 13 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "France: Sweeping Bill Threatens Peaceful Protest,  Rights",
-          "url": "https://www.hrw.org/news/2026/11/13/france-sweeping-bill-threatens-peaceful-protest-rights",
-          "source": "Human Rights Watch News",
-          "ts": "Fri, 13 Nov 2026 00:00:00 -0500",
           "section": ""
         },
         {
@@ -383,6 +376,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "During the Coronation of The Immaculate Virgin, Chiclayo remembers ‘their’ Pope",
+          "url": "https://religionnews.com/2026/11/14/during-the-coronation-of-the-immaculate-virgin-chiclayo-remembers-their-pope/",
+          "source": "RNS",
+          "ts": "Sat, 14 Nov 2026 21:40:37 +0000",
+          "section": ""
+        },
+        {
           "title": "What Now? Democracy Going Forward with Maria Stephan",
           "url": "https://religionnews.com/2026/11/14/what-now-democracy-going-forward-with-maria-stephan/",
           "source": "RNS",
@@ -481,13 +481,6 @@
           "section": ""
         },
         {
-          "title": "In Peru, some Sodalitium abuse survivors want more from Leo",
-          "url": "https://religionnews.com/2026/11/13/as-he-heads-to-peru-sodalitium-abuse-survivors-want-more-from-leo/",
-          "source": "RNS",
-          "ts": "Fri, 13 Nov 2026 23:54:55 +0000",
-          "section": ""
-        },
-        {
           "title": "How Trans Rights Fared in the 2026 Midterm Elections",
           "url": "https://www.truthdig.com/articles/how-trans-rights-fared-in-the-2026-midterm-elections/?utm_source=rss&utm_medium=rss&utm_campaign=how-trans-rights-fared-in-the-2026-midterm-elections",
           "source": "Truthdig",
@@ -521,6 +514,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "US flights resume after ageing technology blamed for outage",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 21:36:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "SpaceX carries out first-ever spaceship capture",
+          "url": "https://www.dw.com/en/spacex-carries-out-first-ever-spaceship-capture/a-79950275?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-14T21:35:00Z",
+          "section": ""
+        },
+        {
+          "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 14 Nov 2026 21:10:26 +0000",
+          "section": ""
+        },
+        {
           "title": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
           "url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -535,31 +549,10 @@
           "section": ""
         },
         {
-          "title": "South Sudan pushes back elections amid violent flare-ups",
-          "url": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-14T20:53:00Z",
-          "section": ""
-        },
-        {
           "title": "India’s Assam state demolishes homes of 132 Muslim families",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 14 Nov 2026 20:14:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 19:52:49 +0000",
-          "section": ""
-        },
-        {
-          "title": "Deadly car bomb blast kills two near Syria’s capital",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 19:46:36 +0000",
           "section": ""
         },
         {
