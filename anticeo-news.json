@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T12:04:46.756094Z",
+  "generated_at": "2026-11-15T12:21:47.049981Z",
   "headline": {
-    "title": "Minister backs legal right to job support for young people",
-    "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss"
+    "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+    "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
   },
   "sections": [
     {
@@ -38,9 +38,9 @@
         },
         {
           "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-          "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+          "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 15 Nov 2026 10:02:04 +0000",
+          "ts": "Sun, 15 Nov 2026 10:02:05 +0000",
           "section": ""
         },
         {
@@ -58,8 +58,8 @@
           "section": ""
         },
         {
-          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -72,9 +72,16 @@
           "section": ""
         },
         {
-          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
           "source": "NPR Topics: Politics",
+          "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+          "source": "NPR Topics: News",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
         },
@@ -97,13 +104,6 @@
           "url": "https://www.unz.com/article/brent-is-down-relax-nothing-else-is/",
           "source": "The Unz Review:",
           "ts": "Sun, 15 Nov 2026 05:00:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 14 Nov 2026 23:28:45 -0500",
           "section": ""
         },
         {
@@ -376,8 +376,64 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "‘Were we too Maga or not Maga enough?’: Republicans reckon with Arizona wipeout",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/arizona-republicans-maga-trump-wipeout",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Nov 2026 12:00:16 GMT",
+          "section": ""
+        },
+        {
+          "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Nov 2026 12:00:15 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Nov 2026 12:00:15 GMT",
+          "section": ""
+        },
+        {
+          "title": "Five Books That Would Make Great Movies",
+          "url": "https://www.theatlantic.com/newsletters/2026/11/five-books-that-would-make-great-movies/689442/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-15T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Men weren’t always “bad at friendship”",
+          "url": "https://www.vox.com/explain-it-to-me/510725/men-friendship-loneliness-debate-history-artistotle",
+          "source": "Vox",
+          "ts": "2026-11-15T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Investigate Trump Like a Mob Boss",
+          "url": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-15T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "30 Years for Moving a Box",
+          "url": "https://www.theatlantic.com/politics/2026/11/daniel-sanchez-prairieland-ice-protest/689372/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-15T07:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Barry Goldwater Saw a Way Out of the Wilderness",
           "url": "https://www.nationalreview.com/article/barry-goldwater-saw-a-way-out-of-the-wilderness",
+          "source": "National Review",
+          "ts": "Sun, 15 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Where Have All the Boys’ Books Gone?",
+          "url": "https://www.nationalreview.com/article/where-have-all-the-boys-books-gone",
           "source": "National Review",
           "ts": "Sun, 15 Nov 2026 11:00:00 +0000",
           "section": ""
@@ -390,24 +446,10 @@
           "section": ""
         },
         {
-          "title": "Where Have All the Boys’ Books Gone?",
-          "url": "https://www.nationalreview.com/article/where-have-all-the-boys-books-gone",
-          "source": "National Review",
-          "ts": "Sun, 15 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
           "title": "All Hail the Non-TV Newsmen",
           "url": "https://www.nationalreview.com/article/all-hail-the-non-tv-newsmen",
           "source": "National Review",
           "ts": "Sun, 15 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
-          "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Nov 2026 04:52:34 GMT",
           "section": ""
         },
         {
@@ -425,41 +467,6 @@
           "section": ""
         },
         {
-          "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-          "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Nov 2026 20:14:27 GMT",
-          "section": ""
-        },
-        {
-          "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Nov 2026 19:38:19 GMT",
-          "section": ""
-        },
-        {
-          "title": "China’s Intelligence Coup in the AI War",
-          "url": "https://www.theatlantic.com/national-security/2026/11/jensen-huang-chinese-intelligence-nvidia/689430/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-14T12:15:32-05:00",
-          "section": ""
-        },
-        {
-          "title": "The Joy of True Mental Effort",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/mental-effort-math-puzzles/689451/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-14T11:27:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "RFK Jr. Failed America on Measles",
-          "url": "https://www.theatlantic.com/health/2026/11/measles-elimination-status-endemic-kennedy/689450/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-14T11:00:56-05:00",
-          "section": ""
-        },
-        {
           "title": "Waiting on the Pope in the desert for 14 hours: The Mass in Chiclayo required endurance",
           "url": "https://religionnews.com/2026/11/14/waiting-on-the-pope-in-the-desert-for-14-hours-the-mass-in-chiclayo-required-endurance/",
           "source": "RNS",
@@ -471,13 +478,6 @@
           "url": "https://www.vox.com/policy/510381/cornell-campus-assault-better-sex-education",
           "source": "Vox",
           "ts": "2026-11-14T07:30:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "“A rich message, but a poor campaign”: How Scott Colom beat the odds in Mississippi",
-          "url": "https://www.vox.com/podcasts/510811/scott-colom-mississippi-senate-bennie-thompson",
-          "source": "Vox",
-          "ts": "2026-11-14T07:00:00-05:00",
           "section": ""
         },
         {
@@ -514,24 +514,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss",
+          "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
+          "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 11:33:49 +0000",
+          "ts": "Sun, 15 Nov 2026 12:02:45 +0000",
           "section": ""
         },
         {
-          "title": "Police confront protesters in clashes across France and Germany",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+          "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
+          "url": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 11:04:10 +0000",
+          "ts": "Sun, 15 Nov 2026 11:56:26 +0000",
           "section": ""
         },
         {
-          "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
-          "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
+          "title": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 10:58:36 +0000",
+          "ts": "Sun, 15 Nov 2026 11:53:39 +0000",
           "section": ""
         },
         {
