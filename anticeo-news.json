@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T13:04:02.843801Z",
+  "generated_at": "2026-11-15T13:18:47.262479Z",
   "headline": {
-    "title": "Iran accuses UN nuclear watchdog of being influenced by US, European countries",
-    "url": "https://www.middleeastmonitor.com/20261115-iran-accuses-un-nuclear-watchdog-of-being-influenced-by-us-european-countries/"
+    "title": "Bahrain says its air defenses intercepted several Iranian attacks",
+    "url": "https://www.middleeastmonitor.com/20261115-bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/"
   },
   "sections": [
     {
@@ -13,6 +13,13 @@
           "url": "https://www.motherjones.com/environment/2026/11/trump-iran-war-environment-effects-oil-spills-persian-gulf-wildlife-birds-fish-wildlife-threat/",
           "source": "Mother Jones",
           "ts": "Sun, 15 Nov 2026 13:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+          "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sun, 15 Nov 2026 12:38:28 GMT",
           "section": ""
         },
         {
@@ -81,13 +88,6 @@
         {
           "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
           "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-          "source": "NPR Topics: Politics",
-          "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
           "source": "NPR Topics: News",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -97,13 +97,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Sun, 15 Nov 2026 07:10:31 GMT",
-          "section": ""
-        },
-        {
-          "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-          "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sun, 15 Nov 2026 06:01:46 GMT",
           "section": ""
         },
         {
@@ -118,6 +111,13 @@
           "url": "https://www.unz.com/article/brent-is-down-relax-nothing-else-is/",
           "source": "The Unz Review:",
           "ts": "Sun, 15 Nov 2026 05:00:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+          "source": "NPR Topics: Politics",
+          "ts": "Sat, 14 Nov 2026 23:28:45 -0500",
           "section": ""
         },
         {
@@ -376,10 +376,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "ChatGPT, Friendship Analyst",
-          "url": "https://www.theatlantic.com/family/2026/11/ai-text-message-analysis-friendship/689436/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-15T08:00:00-05:00",
+          "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Nov 2026 13:00:15 GMT",
           "section": ""
         },
         {
@@ -390,24 +390,10 @@
           "section": ""
         },
         {
-          "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
-          "url": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Nov 2026 12:00:15 GMT",
-          "section": ""
-        },
-        {
           "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
           "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
           "source": "US news | The Guardian",
           "ts": "Sun, 15 Nov 2026 12:00:15 GMT",
-          "section": ""
-        },
-        {
-          "title": "Men weren’t always “bad at friendship”",
-          "url": "https://www.vox.com/explain-it-to-me/510725/men-friendship-loneliness-debate-history-artistotle",
-          "source": "Vox",
-          "ts": "2026-11-15T07:00:00-05:00",
           "section": ""
         },
         {
@@ -418,8 +404,22 @@
           "section": ""
         },
         {
+          "title": "Men weren’t always “bad at friendship”",
+          "url": "https://www.vox.com/explain-it-to-me/510725/men-friendship-loneliness-debate-history-artistotle",
+          "source": "Vox",
+          "ts": "2026-11-15T07:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Investigate Trump Like a Mob Boss",
           "url": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-15T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "30 Years for Moving a Box",
+          "url": "https://www.theatlantic.com/politics/2026/11/daniel-sanchez-prairieland-ice-protest/689372/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-15T07:00:00-05:00",
           "section": ""
@@ -514,6 +514,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "The civilian office overseeing special operations forces could get $45 million budget, 100 staffers",
+          "url": "https://www.defenseone.com/policy/2026/11/civilian-office-overseeing-special-operations-forces-could-get-45-million-budget-100-staffers/417234/",
+          "source": "Defense One - All Content",
+          "ts": "Sun, 15 Nov 2026 08:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+          "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 12:36:19 +0000",
+          "section": ""
+        },
+        {
           "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
           "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -532,13 +546,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 15 Nov 2026 12:15:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-          "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 12:02:45 +0000",
           "section": ""
         },
         {
@@ -686,13 +693,6 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
           "source": "News - Army Times",
           "ts": "Thu, 12 Nov 2026 22:21:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "A natural-gas project off Alaska may be a Russian ploy",
-          "url": "https://www.defenseone.com/threats/2026/11/natural-gas-project-alaskas-coast-may-be-russian-ploy-intel-arctic/417193/",
-          "source": "Defense One - All Content",
-          "ts": "Thu, 12 Nov 2026 16:02:57 -0500",
           "section": ""
         },
         {
@@ -867,6 +867,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Bahrain says its air defenses intercepted several Iranian attacks",
+          "url": "https://www.middleeastmonitor.com/20261115-bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 15 Nov 2026 13:13:46 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Iran accuses UN nuclear watchdog of being influenced by US, European countries",
           "url": "https://www.middleeastmonitor.com/20261115-iran-accuses-un-nuclear-watchdog-of-being-influenced-by-us-european-countries/",
           "source": "Middle East Monitor",
@@ -878,13 +885,6 @@
           "url": "https://www.middleeastmonitor.com/20261115-ex-us-president-biden-says-he-has-limited-trust-in-israels-netanyahu/",
           "source": "Middle East Monitor",
           "ts": "Sun, 15 Nov 2026 12:56:55 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran says it targeted US radar site in Bahrain with 6 drones",
-          "url": "https://www.middleeastmonitor.com/20261115-iran-says-it-targeted-us-radar-site-in-bahrain-with-6-drones/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 15 Nov 2026 11:45:04 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
