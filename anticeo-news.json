@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T11:32:44.410519Z",
+  "generated_at": "2026-11-15T11:47:39.915857Z",
   "headline": {
-    "title": "Up to $800 million in Olympic contracts could be set aside for L.A. businesses",
-    "url": "https://www.latimes.com/california/story/2026-11-15/los-angeles-council-pushing-for-olympic-contracts"
+    "title": "Iran says it targeted US radar site in Bahrain with 6 drones",
+    "url": "https://www.middleeastmonitor.com/20261115-iran-says-it-targeted-us-radar-site-in-bahrain-with-6-drones/"
   },
   "sections": [
     {
@@ -58,8 +58,8 @@
           "section": ""
         },
         {
-          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -72,8 +72,15 @@
           "section": ""
         },
         {
-          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "source": "NPR Topics: News",
+          "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
           "source": "NPR Topics: News",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -97,13 +104,6 @@
           "url": "https://www.unz.com/article/brent-is-down-relax-nothing-else-is/",
           "source": "The Unz Review:",
           "ts": "Sun, 15 Nov 2026 05:00:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-          "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 14 Nov 2026 23:28:45 -0500",
           "section": ""
         },
         {
@@ -514,24 +514,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 11:33:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Police confront protesters in clashes across France and Germany",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 11:04:10 +0000",
+          "section": ""
+        },
+        {
           "title": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
           "url": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 15 Nov 2026 10:58:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "India’s Under-19 Asia Cup win over Pakistan marred by post-match aggression",
-          "url": "https://www.aljazeera.com/sports/2026/11/15/indias-under-19-asia-cup-win-over-pakistan-marred-by-post-match-aggression?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 10:52:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "Spain football coach denies racism ahead of England match",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/spain-football-coach-denies-racism-ahead-of-england-match?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 10:28:28 +0000",
           "section": ""
         },
         {
@@ -867,7 +867,14 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
-          "title": "Opinion | Israel's army bombed another hospital in Gaza. Not much of a story there - Haaretz",
+          "title": "Iran says it targeted US radar site in Bahrain with 6 drones",
+          "url": "https://www.middleeastmonitor.com/20261115-iran-says-it-targeted-us-radar-site-in-bahrain-with-6-drones/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 15 Nov 2026 11:45:04 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Opinion | Israel bombed another hospital in Gaza. Not much of a story there - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ19RYjZmUWNqMGlaQ3VhMGRzS0N6Y29QU0hrV01wQWdzV1RDS1dSRXFGbW5XSEFKZENUNFIzaEQ0LUJOVUt2TklZYlhGQUVYOWM5bTVLZ0gyTHptLVd2aHNWM0R0SVhwWk9mZnY2S2pBRnZLRE9HaWE5VU92ZV9WMXF2Z1V4Y1l5c3AzMTFGd0hWaTZrNWM5LV9ENmFrVXRfeGFWcElWMXBoMzN0em5hdzhsMV9oMERJMDNGWlYtR1N1dV9iTWhGeTYzOFI0Z1hSWXUwcEowWldiZUJoTVJUVXFKdVpKWWlXRWFad09JQVlERHVRbzRSNA?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Sun, 15 Nov 2026 01:21:00 GMT",
@@ -892,13 +899,6 @@
           "url": "https://www.middleeastmonitor.com/20261114-2-palestinians-killed-in-fresh-israeli-attacks-across-gaza/",
           "source": "Middle East Monitor",
           "ts": "Sat, 14 Nov 2026 18:13:05 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "US warns Americans in Saudi Arabia over threat of Houthi attacks",
-          "url": "https://www.middleeastmonitor.com/20261114-us-warns-americans-in-saudi-arabia-over-threat-of-houthi-attacks/",
-          "source": "Middle East Monitor",
-          "ts": "Sat, 14 Nov 2026 18:05:27 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
