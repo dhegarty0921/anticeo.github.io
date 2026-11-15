@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T12:21:47.049981Z",
+  "generated_at": "2026-11-15T12:33:04.976521Z",
   "headline": {
-    "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-    "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss"
+    "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
+    "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -58,8 +58,8 @@
           "section": ""
         },
         {
-          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
           "source": "NPR Topics: Politics",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -72,9 +72,9 @@
           "section": ""
         },
         {
-          "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-          "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-          "source": "NPR Topics: Politics",
+          "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+          "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+          "source": "NPR Topics: News",
           "ts": "Sun, 15 Nov 2026 05:00:00 -0500",
           "section": ""
         },
@@ -514,24 +514,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
+          "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-15T12:26:00Z",
+          "section": ""
+        },
+        {
+          "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
+          "url": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 12:21:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 12:15:51 +0000",
+          "section": ""
+        },
+        {
           "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
           "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 15 Nov 2026 12:02:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
-          "url": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 11:56:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Athletes rewrite the rules as Dakar 2026 Youth Olympics come to an end",
-          "url": "https://www.aljazeera.com/sports/2026/11/15/dakar-youth-olympics-2026-senegal-games-come-to-an-end?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 11:53:39 +0000",
           "section": ""
         },
         {
@@ -567,13 +574,6 @@
           "url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-15T07:23:00Z",
-          "section": ""
-        },
-        {
-          "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-          "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-15T06:31:00Z",
           "section": ""
         },
         {
