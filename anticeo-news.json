@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T00:09:52.056029Z",
+  "generated_at": "2026-11-15T00:40:37.268364Z",
   "headline": {
-    "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-    "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei"
+    "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+    "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss"
   },
   "sections": [
     {
@@ -11,7 +11,7 @@
         {
           "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-          "source": "NPR Topics: News",
+          "source": "NPR Topics: Politics",
           "ts": "Sat, 14 Nov 2026 19:03:52 -0500",
           "section": ""
         },
@@ -72,7 +72,7 @@
           "section": ""
         },
         {
-          "title": "54 rare olive ridley sea turtle hatchlings make historic Southern California debut",
+          "title": "California's first native-born sea turtles hatch and scuttle into the sea",
           "url": "https://www.latimes.com/california/story/2026-11-14/californias-first-native-born-sea-turtles-hatch-in-historic-milestone",
           "source": "California",
           "ts": "Sat, 14 Nov 2026 21:54:52 GMT",
@@ -93,31 +93,10 @@
           "section": ""
         },
         {
-          "title": "Peltola declares victory in Alaska Senate race",
-          "url": "https://www.washingtontimes.com/news/2026/nov/14/peltola-declares-victory-alaska-senate-race/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 14 Nov 2026 14:35:00 -0500",
-          "section": ""
-        },
-        {
           "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
           "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
           "source": "NPR Topics: Politics",
           "ts": "Sat, 14 Nov 2026 14:13:54 -0500",
-          "section": ""
-        },
-        {
-          "title": "Justice Department lawyer benched in New York ICE case as judge hints at further punishment",
-          "url": "https://www.washingtontimes.com/news/2026/nov/14/doj-lawyer-thomas-price-benched-new-york-ice-case-judge-hints/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 14 Nov 2026 13:19:16 -0500",
-          "section": ""
-        },
-        {
-          "title": "'Absolutely FAKE NEWS': Former press secretary Katie Zacharia on comeback buzz",
-          "url": "https://www.washingtontimes.com/news/2026/nov/14/absolutely-fake-news-former-press-secretary-katie-zacharia-comeback/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 14 Nov 2026 13:12:13 -0500",
           "section": ""
         },
         {
@@ -174,6 +153,27 @@
           "url": "https://www.moonofalabama.org/2026/11/marco-rubio-is-sabotaging-his-presidents-export-policies.html",
           "source": "Moon of Alabama",
           "ts": "Sat, 14 Nov 2026 08:48:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Your Shopping Bag Runs Through Hormuz, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/your-shopping-bag-runs-through-hormuz/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 14 Nov 2026 05:10:52 +0000",
+          "section": ""
+        },
+        {
+          "title": "What Comes Next for the United States in the Middle East?, by Philip Giraldi",
+          "url": "https://www.unz.com/pgiraldi/what-comes-next-for-the-united-states-in-the-middle-east/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 14 Nov 2026 05:02:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Has Decoupling Worked Out for the US?, by Hua Bin",
+          "url": "https://www.unz.com/bhua/has-decoupling-worked-out-for-the-us/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 14 Nov 2026 05:00:58 +0000",
           "section": ""
         },
         {
@@ -244,6 +244,13 @@
           "url": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
           "source": "ProPublica",
           "ts": "Fri, 13 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "France: Sweeping Bill Threatens Peaceful Protest,  Rights",
+          "url": "https://www.hrw.org/news/2026/11/13/france-sweeping-bill-threatens-peaceful-protest-rights",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 13 Nov 2026 00:00:00 -0500",
           "section": ""
         },
         {
@@ -514,6 +521,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+          "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 00:14:22 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 00:00:08 +0000",
+          "section": ""
+        },
+        {
           "title": "Portugal immortalises Ronaldo with a new number 7",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -521,11 +542,11 @@
           "section": ""
         },
         {
-          "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 23:34:37 +0000",
-          "section": ""
+          "title": "The FAA’s Issued a Halt to Air Travel at 3.54. Six Minutes Before Closure of Stock Market",
+          "url": "https://www.globalresearch.ca/the-faas-issued-a-halt-to-air-travel-at-3-54-six-minutes-before-closure-of-stock-market/5945855",
+          "source": "Global Research",
+          "ts": "Sat, 14 Nov 2026 23:33:13 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Chefe do Gabinete de Zelensky punido por falar russo",
@@ -540,13 +561,6 @@
           "source": "Global Research",
           "ts": "Sat, 14 Nov 2026 23:11:45 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 14 Nov 2026 23:01:30 +0000",
-          "section": ""
         },
         {
           "title": "Philippines wins first Eurovision Song Contest Asia",
@@ -575,13 +589,6 @@
           "source": "Naval News",
           "ts": "Sat, 14 Nov 2026 16:39:23 +0000",
           "section": ""
-        },
-        {
-          "title": "The Weaponization of Gene-Edited Mosquitoes. Will It Save Lives?",
-          "url": "https://www.globalresearch.ca/gene-edited-catastrophe-brazil/5690917",
-          "source": "Global Research",
-          "ts": "Sat, 14 Nov 2026 15:01:55 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Naval Group Unveils SCX 26 ‘Hybrid Fleet’ Drone Mothership Concept",
@@ -909,13 +916,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Another olive harvest season at rock bottom",
-          "url": "https://electronicintifada.net/content/another-olive-harvest-season-rock-bottom/51758",
-          "source": "The Electronic Intifada",
-          "ts": "Sat, 14 Nov 2026 17:12:30 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "A Man Was Shot Dead in Broad Daylight. Israeli Authorities Couldn't Care Less - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTXpwQjZ0Y2cxQW12X3lzLUN3bGpaTV9HdEpzdXNsUU9VcENadThERWpvZHYydjhSamY3VGFHanlpV2MxeE9tY25xYi1UQTRvcTFIZERpNk15TEUzWktEc1ZxMkZWX1ItVmZBZHowd01WTEEyY1hEUWo0MGFpU21fMzlURmZNeVc3Mm1rb2luRndINWM5TFZVQU9ZNHRFY0FwX0syeXh1QXpWS0RwYmtFOTI0RDA5WDBRbWRlTkREQ1RTYktjS3Y2ZjNROHRValEtUjUxSldjRUVlVGRSVXRoWVMyb0FpV2o0V0dZYTRYRFdsdC14RnZUQ0M5NndOVVg4LTlhbWZYX2Z4M0t2Q1hjdU0zT2JsUWVRYWZMbkxiRVJHbDNLQVZFcEdEVzc?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -934,20 +934,6 @@
           "url": "https://mondoweiss.net/2026/11/israeli-strike-on-nasser-hospital-in-gaza-kills-six-disables-key-medical-departments/",
           "source": "Mondoweiss",
           "ts": "Fri, 13 Nov 2026 14:52:24 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Gazan medics detained on shift, tortured – and return to work",
-          "url": "https://electronicintifada.net/content/gazan-medics-detained-shift-tortured-and-return-work/51762",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 13 Nov 2026 10:42:44 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "EU buddies up with Israel's weapons industry",
-          "url": "https://electronicintifada.net/blogs/david-cronin/eu-buddies-israels-weapons-industry",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 13 Nov 2026 08:01:14 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
