@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T04:47:32.220017Z",
+  "generated_at": "2026-11-15T05:04:22.484079Z",
   "headline": {
-    "title": "Video shows moment of Brooklyn building collapse from inside",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss"
+    "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+    "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course"
   },
   "sections": [
     {
@@ -156,6 +156,13 @@
           "section": ""
         },
         {
+          "title": "Parliament Seeks to Abolish the English, by Mark Collett",
+          "url": "https://www.unz.com/article/parliament-seeks-to-abolish-the-english/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 14 Nov 2026 05:10:56 +0000",
+          "section": ""
+        },
+        {
           "title": "Your Shopping Bag Runs Through Hormuz, by Larry C. Johnson",
           "url": "https://www.unz.com/article/your-shopping-bag-runs-through-hormuz/",
           "source": "The Unz Review:",
@@ -167,13 +174,6 @@
           "url": "https://www.unz.com/pgiraldi/what-comes-next-for-the-united-states-in-the-middle-east/",
           "source": "The Unz Review:",
           "ts": "Sat, 14 Nov 2026 05:02:06 +0000",
-          "section": ""
-        },
-        {
-          "title": "Has Decoupling Worked Out for the US?, by Hua Bin",
-          "url": "https://www.unz.com/bhua/has-decoupling-worked-out-for-the-us/",
-          "source": "The Unz Review:",
-          "ts": "Sat, 14 Nov 2026 05:00:58 +0000",
           "section": ""
         },
         {
@@ -383,6 +383,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Nov 2026 04:52:34 GMT",
+          "section": ""
+        },
+        {
           "title": "During the coronation of the Immaculate Virgin, Chiclayo remembers ‘their’ pope",
           "url": "https://religionnews.com/2026/11/14/during-the-coronation-of-the-immaculate-virgin-chiclayo-remembers-their-pope/",
           "source": "RNS",
@@ -415,13 +422,6 @@
           "url": "https://www.theatlantic.com/national-security/2026/11/jensen-huang-chinese-intelligence-nvidia/689430/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-14T12:15:32-05:00",
-          "section": ""
-        },
-        {
-          "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-          "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
-          "source": "US news | The Guardian",
-          "ts": "Sat, 14 Nov 2026 16:58:33 GMT",
           "section": ""
         },
         {
@@ -521,6 +521,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+          "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 15 Nov 2026 04:44:57 +0000",
+          "section": ""
+        },
+        {
           "title": "Video shows moment of Brooklyn building collapse from inside",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -532,13 +539,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 15 Nov 2026 04:13:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Monkey attacks woman inside residential complex in India",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 03:39:39 +0000",
           "section": ""
         },
         {
@@ -742,13 +742,6 @@
           "url": "https://warontherocks.com/japans-most-dangerous-military-constraint-is-time/",
           "source": "War on the Rocks",
           "ts": "Wed, 11 Nov 2026 08:30:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Senator Urges Israel to Let Rescue Equipment and Winter Supplies into Gaza - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVh3WElOUndRRFNWQXpmRmRNdWVxM1N3Sk5LVHRsZWcwYXlmVmJqRXVjR0pwOUtnUlBRa3RMaDlORVVwMUR0R3FPY3JqOTlNN3cyQlhEM1lYeU9iSHhDUFA2dnN4WUxhY2dXbDJFYUUxdG9GX1ZKNXNxaHd3cTNJaGlLd3M4d2dZWWhtb3VrRGhsMlg1dFhjMF9RVUNneTdQakQ3V3ZHM3Q1YjZia2VjZWNpSQ?oc=5",
-          "source": "via Google News",
-          "ts": "Wed, 11 Nov 2026 05:01:49 GMT",
           "section": ""
         }
       ]
