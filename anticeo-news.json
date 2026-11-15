@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T14:03:56.783964Z",
+  "generated_at": "2026-11-15T14:17:57.365548Z",
   "headline": {
-    "title": "Air taxi operator to start demoing flights above LA. Will full service be ready by 2028?",
-    "url": "https://thelalocal.org/transportation/air-taxi-operator-to-start-demoing-flights-above-la-will-full-service-be-ready-by-2028/"
+    "title": "Fire destroys Syrian refugee camp in Lebanon, leaving nearly 500 homeless",
+    "url": "https://www.middleeastmonitor.com/20261115-fire-destroys-syrian-refugee-camp-in-lebanon-leaving-nearly-500-homeless/"
   },
   "sections": [
     {
@@ -383,6 +383,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
+          "url": "https://www.theguardian.com/us-news/2026/nov/15/coalition-scott-colom-mississippi-senate-win",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 15 Nov 2026 14:00:20 GMT",
+          "section": ""
+        },
+        {
+          "title": "What Are the Masculine Virtues?",
+          "url": "https://www.theatlantic.com/podcasts/2026/11/what-are-masculine-virtues/689379/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-15T09:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
           "url": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
           "source": "US news | The Guardian",
@@ -404,13 +418,6 @@
           "section": ""
         },
         {
-          "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 15 Nov 2026 12:00:15 GMT",
-          "section": ""
-        },
-        {
           "title": "Men weren’t always “bad at friendship”",
           "url": "https://www.vox.com/explain-it-to-me/510725/men-friendship-loneliness-debate-history-artistotle",
           "source": "Vox",
@@ -420,13 +427,6 @@
         {
           "title": "Five Books That Would Make Great Movies",
           "url": "https://www.theatlantic.com/newsletters/2026/11/five-books-that-would-make-great-movies/689442/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-15T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Investigate Trump Like a Mob Boss",
-          "url": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-15T07:00:00-05:00",
           "section": ""
@@ -860,6 +860,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Fire destroys Syrian refugee camp in Lebanon, leaving nearly 500 homeless",
+          "url": "https://www.middleeastmonitor.com/20261115-fire-destroys-syrian-refugee-camp-in-lebanon-leaving-nearly-500-homeless/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 15 Nov 2026 14:16:25 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "US intel estimates Iran retains up to 2,500 missiles despite war damage: Report",
           "url": "https://www.middleeastmonitor.com/20261115-us-intel-estimates-iran-retains-up-to-2500-missiles-despite-war-damage-report/",
           "source": "Middle East Monitor",
@@ -871,13 +878,6 @@
           "url": "https://www.middleeastmonitor.com/20261115-bahrain-says-its-air-defenses-intercepted-several-iranian-attacks/",
           "source": "Middle East Monitor",
           "ts": "Sun, 15 Nov 2026 13:13:46 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran accuses UN nuclear watchdog of being influenced by US, European countries",
-          "url": "https://www.middleeastmonitor.com/20261115-iran-accuses-un-nuclear-watchdog-of-being-influenced-by-us-european-countries/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 15 Nov 2026 13:00:13 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
