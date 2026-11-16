@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-16T00:10:49.245393Z",
+  "generated_at": "2026-11-16T00:44:39.471808Z",
   "headline": {
-    "title": "Control of LA’s federal homeless money is about to change. Here’s what happens next",
-    "url": "https://thelalocal.org/housing/control-of-las-federal-homeless-money-is-about-to-change-heres-what-happens-next/"
+    "title": "Human remains found near Altadena home, homicide detectives say",
+    "url": "https://www.latimes.com/california/story/2026-11-15/human-remains-found-near-altadena-home-homicide-detectives-say"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Human remains found near Altadena home, homicide detectives say",
+          "url": "https://www.latimes.com/california/story/2026-11-15/human-remains-found-near-altadena-home-homicide-detectives-say",
+          "source": "California",
+          "ts": "Mon, 16 Nov 2026 00:15:31 GMT",
+          "section": ""
+        },
         {
           "title": "Prosecutors seek to try teen as an adult in Spirit Halloween shooting that killed pregnant woman",
           "url": "https://www.latimes.com/california/story/2026-11-15/prosecutors-want-teen-tried-as-adult-in-spirit-halloween-shooting",
@@ -23,17 +30,17 @@
           "section": ""
         },
         {
-          "title": "'Vibes remain high' despite massive waves at California's famed oceanside Taco Bell",
-          "url": "https://www.latimes.com/california/story/2026-11-15/californias-famed-beachfront-taco-bell-survives-30-foot-weekend-waves",
-          "source": "California",
-          "ts": "Sun, 15 Nov 2026 22:43:44 GMT",
-          "section": ""
-        },
-        {
           "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
           "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
           "source": "NPR Topics: News",
           "ts": "Sun, 15 Nov 2026 17:41:22 -0500",
+          "section": ""
+        },
+        {
+          "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Sun, 15 Nov 2026 22:30:03 GMT",
           "section": ""
         },
         {
@@ -44,7 +51,7 @@
           "section": ""
         },
         {
-          "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+          "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
           "url": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
           "source": "NPR Topics: News",
           "ts": "Sun, 15 Nov 2026 17:07:55 -0500",
@@ -111,13 +118,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Sun, 15 Nov 2026 17:15:46 GMT",
-          "section": ""
-        },
-        {
-          "title": "How telecoms upgrade work sparked US flight chaos",
-          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Sun, 15 Nov 2026 14:57:15 GMT",
           "section": ""
         },
         {
@@ -308,13 +308,6 @@
           "source": "In These Times",
           "ts": "Thu, 12 Nov 2026 10:30:00 -0600",
           "section": ""
-        },
-        {
-          "title": "AI-Invested Hedge Fund Billionaire Is Bankrolling Democrats’ 'What’s Next' Conference",
-          "url": "https://readsludge.com/2026/11/12/ai-invested-hedge-fund-billionaire-is-bankrolling-democrats-whats-next-conference/",
-          "source": "Sludge",
-          "ts": "Thu, 12 Nov 2026 00:43:40 GMT",
-          "section": ""
         }
       ]
     },
@@ -500,6 +493,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+          "url": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 00:04:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+          "url": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 00:01:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran war live: Tehran warns it may strike first before another US attack",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 00:00:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
           "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -507,31 +521,10 @@
           "section": ""
         },
         {
-          "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
-          "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 22:40:01 +0000",
-          "section": ""
-        },
-        {
-          "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 22:06:38 +0000",
-          "section": ""
-        },
-        {
           "title": "US Proposes Ceding Donbas for NATO Membership, Zelenskyy says",
           "url": "https://news.antiwar.com/2026/11/15/us-proposes-ceding-donbas-for-nato-membership-zelenskyy-says/?utm_source=rss&utm_medium=rss&utm_campaign=us-proposes-ceding-donbas-for-nato-membership-zelenskyy-says",
           "source": "News From Antiwar.com",
           "ts": "Sun, 15 Nov 2026 22:05:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
-          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 15 Nov 2026 21:47:47 +0000",
           "section": ""
         },
         {
