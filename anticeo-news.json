@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T01:47:42.815882Z",
+  "generated_at": "2026-11-16T02:06:17.231874Z",
   "headline": {
-    "title": "Flight disruptions expected to last into Monday",
-    "url": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday"
+    "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+    "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss"
   },
   "sections": [
     {
@@ -355,6 +355,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "A New Age of Wonder",
+          "url": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-15T20:52:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Huge waves pummel California coast, forcing closure of popular piers",
           "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
           "source": "US news | The Guardian",
@@ -394,13 +401,6 @@
           "url": "https://www.theatlantic.com/books/2026/11/poem-peter-balakian-caravaggio/689422/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-15T12:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones",
-          "url": "https://www.theatlantic.com/national-security/2026/11/pentagon-drones-iran-war-hegseth/689425/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-15T09:52:46-05:00",
           "section": ""
         },
         {
@@ -493,24 +493,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+          "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 01:52:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "Pope urges end to Amazon deforestation",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 01:44:11 +0000",
+          "section": ""
+        },
+        {
           "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
           "url": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 16 Nov 2026 00:51:23 +0000",
-          "section": ""
-        },
-        {
-          "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
-          "url": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 16 Nov 2026 00:45:48 +0000",
-          "section": ""
-        },
-        {
-          "title": "Czechs rally against gov’t threat to media independence",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 16 Nov 2026 00:26:32 +0000",
           "section": ""
         },
         {
