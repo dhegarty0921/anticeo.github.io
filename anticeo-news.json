@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T11:49:10.069568Z",
+  "generated_at": "2026-11-16T12:08:33.909930Z",
   "headline": {
-    "title": "Trans ally David Tennant teases role in Only Murders In The Building season 6",
-    "url": "https://www.thepinknews.com/2026/11/16/david-tennant-only-murders-in-the-building-season-6-cameo/"
+    "title": "The Hypocrisy of Anthropic’s IPO",
+    "url": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/?utm_source=feed"
   },
   "sections": [
     {
@@ -44,15 +44,15 @@
           "section": ""
         },
         {
-          "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
-          "url": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
-          "source": "California",
-          "ts": "Mon, 16 Nov 2026 11:00:00 GMT",
+          "title": "Ecuadorian Courts Expose Flaws in US High-Seas Arrests",
+          "url": "https://www.hrw.org/news/2026/11/16/ecuadorian-courts-expose-flaws-in-us-high-seas-arrests",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 16 Nov 2026 06:00:00 -0500",
           "section": ""
         },
         {
-          "title": "Multiple mountain lions — sans collars — seen sauntering through Woodland Hills",
-          "url": "https://www.latimes.com/california/story/2026-11-16/mountain-lions-sans-collars-seen-sauntering-in-woodland-hills",
+          "title": "First a death, then hoax threats. Attendance plunged after Franklin High tragedy, data reveal",
+          "url": "https://www.latimes.com/california/story/2026-11-16/franklin-high-student-death-hoax-threats-attendance-lausd",
           "source": "California",
           "ts": "Mon, 16 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -86,17 +86,17 @@
           "section": ""
         },
         {
+          "title": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+          "source": "NPR Topics: News",
+          "ts": "Mon, 16 Nov 2026 05:00:00 -0500",
+          "section": ""
+        },
+        {
           "title": "Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services.",
           "url": "https://www.propublica.org/article/chicago-debt-burden-public-health-safety",
           "source": "ProPublica",
           "ts": "Mon, 16 Nov 2026 10:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
-          "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
-          "source": "NPR Topics: News",
-          "ts": "Mon, 16 Nov 2026 05:00:00 -0500",
           "section": ""
         },
         {
@@ -118,6 +118,13 @@
           "url": "https://www.unz.com/bhua/rubio-amodei-and-yidraelis-did-they-take-out-jensen/",
           "source": "The Unz Review:",
           "ts": "Mon, 16 Nov 2026 05:00:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "UAE: 5 Shia Residents Arrested Arbitrarily",
+          "url": "https://www.hrw.org/news/2026/11/16/uae-5-shia-residents-arrested-arbitrarily",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 16 Nov 2026 00:00:00 -0500",
           "section": ""
         },
         {
@@ -348,17 +355,45 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trans ally David Tennant teases role in Only Murders In The Building season 6",
-          "url": "https://www.thepinknews.com/2026/11/16/david-tennant-only-murders-in-the-building-season-6-cameo/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Mon, 16 Nov 2026 11:46:04 +0000",
+          "title": "The Hypocrisy of Anthropic’s IPO",
+          "url": "https://www.theatlantic.com/economy/2026/11/anthropic-ipo-ai-safety/689440/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-16T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Being single can be a gift. Here’s how to embrace it.",
+          "url": "https://www.vox.com/advice/510520/single-life-nun-advice",
+          "source": "Vox",
+          "ts": "2026-11-16T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Four Letters That Explain America",
+          "url": "https://www.theatlantic.com/books/2026/11/four-letter-nation-steven-h-jaffe-excerpt-curseword-history/689431/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-16T07:00:00-05:00",
           "section": ""
         },
         {
           "title": "DOJ warns Elizabeth Warren over Trump investigations – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 16 Nov 2026 11:32:14 GMT",
+          "ts": "Mon, 16 Nov 2026 11:54:57 GMT",
+          "section": ""
+        },
+        {
+          "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Nov 2026 11:46:33 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trans ally David Tennant teases role in Only Murders In The Building season 6",
+          "url": "https://www.thepinknews.com/2026/11/16/david-tennant-only-murders-in-the-building-season-6-cameo/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Mon, 16 Nov 2026 11:46:04 +0000",
           "section": ""
         },
         {
@@ -369,24 +404,10 @@
           "section": ""
         },
         {
-          "title": "‘Two dictators in my story – Duterte and Zuckerberg’: Nobel peace prize winner’s warning for democracy",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/duterte-zuckerberg-maria-ressa-book",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Nov 2026 11:00:57 GMT",
-          "section": ""
-        },
-        {
           "title": "She Lived to the Sound of God’s Music",
           "url": "https://www.nationalreview.com/article/she-lived-to-the-sound-of-god-s-music",
           "source": "National Review",
           "ts": "Mon, 16 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrats could raise the minimum wage next year. How high should they go?",
-          "url": "https://www.vox.com/policy/510752/democrats-congress-midterms-minimum-wage-affordability",
-          "source": "Vox",
-          "ts": "2026-11-16T06:00:00-05:00",
           "section": ""
         },
         {
@@ -397,10 +418,24 @@
           "section": ""
         },
         {
+          "title": "The L.A. mayor's race is over. Now the scramble is on for elected L.A. County executive",
+          "url": "https://www.latimes.com/california/story/2026-11-16/la-me-county-executive-race",
+          "source": "California",
+          "ts": "Mon, 16 Nov 2026 11:00:00 GMT",
+          "section": ""
+        },
+        {
           "title": "We Need a Better GOP",
           "url": "https://www.nationalreview.com/article/we-need-a-better-gop",
           "source": "National Review",
           "ts": "Mon, 16 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democrats could raise the minimum wage next year. How high should they go?",
+          "url": "https://www.vox.com/policy/510752/democrats-congress-midterms-minimum-wage-affordability",
+          "source": "Vox",
+          "ts": "2026-11-16T06:00:00-05:00",
           "section": ""
         },
         {
@@ -432,31 +467,10 @@
           "section": ""
         },
         {
-          "title": "Awesome",
-          "url": "https://www.theatlantic.com/technology/2026/11/spacex-starship-catch/689453/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-15T20:52:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "An Astute <em>SNL </em>Sketch About Who Deals With Aging Parents",
-          "url": "https://www.theatlantic.com/culture/2026/11/saturday-night-live-john-mulaney-baby-boomers-sister/689452/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-15T13:55:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Men weren’t always “bad at friendship”",
           "url": "https://www.vox.com/explain-it-to-me/510725/men-friendship-loneliness-debate-history-artistotle",
           "source": "Vox",
           "ts": "2026-11-15T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Why do people keep dumping buckets of fish into Montana’s lakes?",
-          "url": "https://www.vox.com/climate/510601/montana-fish-illegal-dumping-bucket-biology",
-          "source": "Vox",
-          "ts": "2026-11-15T06:00:00-05:00",
           "section": ""
         },
         {
@@ -500,6 +514,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Klopp wants Infantino out as FIFA candidate deadline looms",
+          "url": "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-16T11:59:00Z",
+          "section": ""
+        },
+        {
+          "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+          "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 11:40:25 +0000",
+          "section": ""
+        },
+        {
           "title": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
           "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -521,45 +549,10 @@
           "section": ""
         },
         {
-          "title": "Safran Unveils NGDS HK Rocket Launcher and PASEO Master D at Euronaval 2026",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-ngds-hk-rocket-launcher-euronaval-2026/",
-          "source": "Naval News",
-          "ts": "Mon, 16 Nov 2026 10:48:40 +0000",
-          "section": ""
-        },
-        {
           "title": "Polish police arrest 3 teens over suspected neo-Nazi terror plot",
           "url": "https://www.dw.com/en/polish-police-arrest-3-teens-over-suspected-neo-nazi-terror-plot/a-79957798?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-16T10:48:00Z",
-          "section": ""
-        },
-        {
-          "title": "Lebanon’s second airport could provide economic and political benefits",
-          "url": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 16 Nov 2026 10:28:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "Jordan bans Telegram app over 'radicalisation' claims",
-          "url": "https://www.dw.com/en/jordan-bans-telegram-app-over-radicalisation-claims/a-79956706?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-16T10:22:00Z",
-          "section": ""
-        },
-        {
-          "title": "French Navy Intercepts Narco-Sub for the First Time in Atlantic Ocean",
-          "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/",
-          "source": "Naval News",
-          "ts": "Mon, 16 Nov 2026 10:02:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "HD HHI and Anduril Launch 600-Ton Autonomous Surface Vessel ‘ASV Alpha’",
-          "url": "https://www.navalnews.com/naval-news/2026/11/hd-hhi-anduril-launch-600-ton-asv-alpha/",
-          "source": "Naval News",
-          "ts": "Mon, 16 Nov 2026 09:08:51 +0000",
           "section": ""
         },
         {
@@ -672,6 +665,13 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/13/lawsuit-says-pentagons-future-warfare-panel-lacks-transparency-and-balance/",
           "source": "News - Army Times",
           "ts": "Fri, 13 Nov 2026 21:23:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israel Bans Travel for Prominent Palestinian Rights Defender",
+          "url": "https://www.hrw.org/news/2026/11/13/israel-bans-travel-for-prominent-palestinian-rights-defender",
+          "source": "Human Rights Watch News",
+          "ts": "Fri, 13 Nov 2026 15:30:13 -0500",
           "section": ""
         },
         {
@@ -832,6 +832,20 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Providence just voted to divest from Israel following a campaign that should serve as a model for the country",
+          "url": "https://mondoweiss.net/2026/11/providence-just-voted-to-divest-from-israel-following-a-campaign-that-should-serve-as-a-model-for-the-country/",
+          "source": "Mondoweiss",
+          "ts": "Mon, 16 Nov 2026 12:00:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "COP31: Climate justice cannot survive on promises and loans",
+          "url": "https://www.middleeastmonitor.com/20261116-cop31-climate-justice-cannot-survive-on-promises-and-loans/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 16 Nov 2026 11:57:31 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli Defence Minister praises Egypt’s ban on Muslim Brotherhood, opposes Arab parties joining government",
           "url": "https://www.middleeastmonitor.com/20261116-israeli-defence-minister-praises-egypts-ban-on-muslim-brotherhood-opposes-arab-parties-joining-government/",
           "source": "Middle East Monitor",
@@ -843,13 +857,6 @@
           "url": "https://www.middleeastmonitor.com/20261116-iran-says-2-oil-tankers-hit-mines-near-strait-of-hormuz-1-sinks/",
           "source": "Middle East Monitor",
           "ts": "Mon, 16 Nov 2026 11:14:48 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Egypt starts production at new Mediterranean gas field",
-          "url": "https://www.middleeastmonitor.com/20261116-egypt-starts-production-at-new-mediterranean-gas-field/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 16 Nov 2026 11:08:13 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -886,19 +893,19 @@
           "source": "CODEPINK",
           "ts": "Fri, 13 Nov 2026 02:17:33 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "The Shift: Palestinian American writer Ahmed Moor will run for Fetterman’s Senate seat",
-          "url": "https://mondoweiss.net/2026/11/the-shift-palestinian-american-writer-ahmed-moor-will-run-for-fettermans-senate-seat/",
-          "source": "Mondoweiss",
-          "ts": "Thu, 12 Nov 2026 18:57:28 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
     },
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "How To Contact Congress and What Happens After You Do",
+          "url": "https://documentedny.com/2026/11/16/congress-contact-what-happens/",
+          "source": "Documented",
+          "ts": "Mon, 16 Nov 2026 12:00:00 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
         {
           "title": "Immigration News Today: USDOT Wrongfully Withheld NY Highway Funding Over Immigration Conflict",
           "url": "https://documentedny.com/2026/11/16/usdot-new-york-highway-funding/",
@@ -911,13 +918,6 @@
           "url": "https://documentedny.com/2026/11/16/nyc-immigration-asylum-denial-surge-baseline/",
           "source": "Documented",
           "ts": "Mon, 16 Nov 2026 11:00:00 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "CDPAP Home Care Workers Win $162 Million in Historic Wage Theft Settlement",
-          "url": "https://documentedny.com/2026/11/13/cdpap-home-health-care-workers-wage-theft-settlement-ppl/",
-          "source": "Documented",
-          "ts": "Fri, 13 Nov 2026 22:15:10 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
