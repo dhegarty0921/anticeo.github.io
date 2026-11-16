@@ -1,18 +1,46 @@
 {
-  "generated_at": "2026-11-16T22:03:57.835325Z",
+  "generated_at": "2026-11-16T22:17:50.147181Z",
   "headline": {
-    "title": "Trump Lashes Out at ‘Loser’ Reporter for Questioning D.C. Renovation Obsession",
-    "url": "https://www.rollingstone.com/politics/politics-news/trump-lashes-out-reporter-white-house-renovations-1235656650/"
+    "title": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+    "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "Trump Administration Sought LinkedIn Data in Effort to Identify New York Times Sources",
+          "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-linkedin-data-nyt-sources.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Mon, 16 Nov 2026 22:13:59 +0000",
+          "section": ""
+        },
+        {
+          "title": "Cass report author says she does not support draft conversion practices bill",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 16 Nov 2026 22:08:03 GMT",
+          "section": ""
+        },
+        {
+          "title": "California sues OpenAI over hacking risks",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 16 Nov 2026 17:06:22 -0500",
+          "section": ""
+        },
+        {
           "title": "Trump Lashes Out at ‘Loser’ Reporter for Questioning D.C. Renovation Obsession",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-lashes-out-reporter-white-house-renovations-1235656650/",
           "source": "Politics News",
           "ts": "Mon, 16 Nov 2026 22:01:14 +0000",
+          "section": ""
+        },
+        {
+          "title": "Walnut High School locked down after reports of gun and bomb. 'Swatting' suspected",
+          "url": "https://www.latimes.com/california/story/2026-11-16/walnut-high-school-locked-down-after-reports-of-gun-bomb-swatting-suspected",
+          "source": "California",
+          "ts": "Mon, 16 Nov 2026 22:00:45 GMT",
           "section": ""
         },
         {
@@ -65,13 +93,6 @@
           "section": ""
         },
         {
-          "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 16 Nov 2026 20:16:15 GMT",
-          "section": ""
-        },
-        {
           "title": "Robert Pattinson to replace Daniel Craig as James Bond",
           "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -86,10 +107,10 @@
           "section": ""
         },
         {
-          "title": "Jensen Huang's Downfall Could Reshape Tech Policy",
-          "url": "https://www.realclearpolitics.com/2026/11/16/jensen_huangs_downfall_could_reshape_tech_policy_717768.html",
+          "title": "Held Hostage in the Skies",
+          "url": "https://www.realclearpolitics.com/articles/2026/11/16/held_hostage_in_the_skies_154689.html",
           "source": "RealClearPolitics - Homepage",
-          "ts": "Mon, 16 Nov 2026 13:32:10 -0600",
+          "ts": "Mon, 16 Nov 2026 13:29:59 -0600",
           "section": ""
         },
         {
@@ -97,13 +118,6 @@
           "url": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-trump-university-of-california.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Mon, 16 Nov 2026 19:19:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "John H. Powers III to Lead NIAID Amid Turmoil",
-          "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Mon, 16 Nov 2026 19:17:40 +0000",
           "section": ""
         },
         {
@@ -167,13 +181,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/battered-by-the-midterms-abortion-foes-turn-the-screws-on-the-gop/",
           "source": "Mother Jones",
           "ts": "Mon, 16 Nov 2026 17:40:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Nearly two million people are behind bars in the US. How did we get here?",
-          "url": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 16 Nov 2026 12:34:07 -0500",
           "section": ""
         },
         {
@@ -342,13 +349,6 @@
           "url": "https://readsludge.com/2026/11/13/jeffries-and-aguilar-top-house-democrats-in-corporate-pac-cash/",
           "source": "Sludge",
           "ts": "Fri, 13 Nov 2026 17:56:57 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Corporate Ambulance Business is Sick",
-          "url": "https://www.currentaffairs.org/news/the-corporate-ambulance-business-is-sick",
-          "source": "blog",
-          "ts": "Thu, 12 Nov 2026 22:08:43 GMT",
           "section": ""
         }
       ]
@@ -647,13 +647,6 @@
           "section": ""
         },
         {
-          "title": "Newsom visits Ukraine, says its people shouldn't have to wonder if they stand alone",
-          "url": "https://www.latimes.com/california/story/2026-11-16/newsom-visits-ukraine",
-          "source": "California",
-          "ts": "Mon, 16 Nov 2026 16:34:28 GMT",
-          "section": ""
-        },
-        {
           "title": "The secret terms of Trump’s Venezuelan oil deal",
           "url": "https://www.defenseone.com/policy/2026/11/secret-terms-trumps-venezuelan-oil-deal/417246/",
           "source": "Defense One - All Content",
@@ -736,6 +729,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "The Intercept Sues U.S. Military Over Iran Casualty Tally and Blacklist of Journalists",
+          "url": "https://theintercept.com/2026/11/16/intercept-sues-pentagon-military-hegseth/",
+          "source": "The Intercept",
+          "ts": "Mon, 16 Nov 2026 22:04:16 +0000",
+          "section": ""
+        },
+        {
           "title": "ICE Shot Pepper Spray Into a Car in a Traffic Stop, Then Broke a Detainee’s Collarbone",
           "url": "https://theintercept.com/2026/11/16/ice-violence-warrantless-arrest-lawsuit/",
           "source": "The Intercept",
@@ -747,6 +747,13 @@
           "url": "https://www.techdirt.com/2026/11/16/trump-doj-folds-agrees-to-permanent-ban-on-censoring-ice-tracking-group-and-app/",
           "source": "Techdirt",
           "ts": "Mon, 16 Nov 2026 21:07:19 +0000",
+          "section": ""
+        },
+        {
+          "title": "Donate Equity to Support Digital Rights: Stocks, DAFs, and Giving",
+          "url": "https://www.eff.org/deeplinks/2026/11/how-donate-equity-support-digital-rights-stocks-dafs-and-charity",
+          "source": "Deeplinks",
+          "ts": "Mon, 16 Nov 2026 20:23:12 +0000",
           "section": ""
         },
         {
@@ -810,13 +817,6 @@
           "url": "https://theintercept.com/2026/11/16/pro-palestine-election-spending-midterms/",
           "source": "The Intercept",
           "ts": "Mon, 16 Nov 2026 10:51:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Future Is Bright for the Democrats, as Long as They Don’t Have to Interact With the Public",
-          "url": "https://theintercept.com/2026/11/16/democrats-whats-next-denver-2028/",
-          "source": "The Intercept",
-          "ts": "Mon, 16 Nov 2026 10:00:00 +0000",
           "section": ""
         },
         {
@@ -920,13 +920,6 @@
           "url": "https://mondoweiss.net/2026/11/aid-organizations-in-gaza-are-pulling-back-leaving-hundreds-of-thousands-of-palestinians-without-food/",
           "source": "Mondoweiss",
           "ts": "Fri, 13 Nov 2026 15:14:44 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Rep. Stansbury: Resign from EDW! - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBfeDdBVUZHZmFNemxmRVZQOHJBLXhlRld2b193TC1GZWJFRUs3VDBqVVpkZTF5cFQ4VXFWSnhFbUR5Zw?oc=5",
-          "source": "CODEPINK",
-          "ts": "Fri, 13 Nov 2026 02:17:33 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
