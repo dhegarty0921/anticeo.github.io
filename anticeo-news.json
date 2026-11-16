@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-16T14:54:51.811216Z",
+  "generated_at": "2026-11-16T15:04:31.691994Z",
   "headline": {
-    "title": "No More Excuses; Democrats Must Deliver",
-    "url": "https://www.realclearpolitics.com/2026/11/16/no_more_excuses_democrats_must_deliver_717872.html"
+    "title": "Donald Trump loves Jensen Huang. Everyone else…",
+    "url": "https://www.vox.com/politics/510820/jensen-huang-nvidia-critics-hawks-populists-ai-safety"
   },
   "sections": [
     {
@@ -121,6 +121,13 @@
           "section": ""
         },
         {
+          "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 16 Nov 2026 06:39:14 -0500",
+          "section": ""
+        },
+        {
           "title": "Corporations Are Using Trump’s Tariff Refunds on Bonuses Rather Than Reimbursing Consumers",
           "url": "https://www.propublica.org/article/trump-tariff-refunds-corporate-bonuses",
           "source": "ProPublica",
@@ -149,13 +156,6 @@
           "section": ""
         },
         {
-          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 16 Nov 2026 05:00:00 -0500",
-          "section": ""
-        },
-        {
           "title": "Chicago Is $55 Billion in Debt, With No End in Sight. It’s a Threat to City Services.",
           "url": "https://www.propublica.org/article/chicago-debt-burden-public-health-safety",
           "source": "ProPublica",
@@ -163,17 +163,17 @@
           "section": ""
         },
         {
+          "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+          "source": "NPR Topics: Politics",
+          "ts": "Mon, 16 Nov 2026 05:00:00 -0500",
+          "section": ""
+        },
+        {
           "title": "Three of the Financial Sins That Left Chicago $55 Billion in Debt — and Counting",
           "url": "https://www.propublica.org/article/chicago-debt-crisis-pensions-parking-meters-police-misconduct",
           "source": "ProPublica",
           "ts": "Mon, 16 Nov 2026 09:55:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Affordability was a key issue for midterm voters. It helped make childcare one, too",
-          "url": "https://www.npr.org/2026/11/13/nx-s1-6034941/affordability-childcare-midterms",
-          "source": "NPR Topics: Politics",
-          "ts": "Mon, 16 Nov 2026 04:45:55 -0500",
           "section": ""
         },
         {
@@ -376,6 +376,27 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Donald Trump loves Jensen Huang. Everyone else…",
+          "url": "https://www.vox.com/politics/510820/jensen-huang-nvidia-critics-hawks-populists-ai-safety",
+          "source": "Vox",
+          "ts": "2026-11-16T10:00:23-05:00",
+          "section": ""
+        },
+        {
+          "title": "Mamdani disbands controversial NYPD unit accused of using excessive force",
+          "url": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Nov 2026 14:57:26 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 16 Nov 2026 14:53:41 GMT",
+          "section": ""
+        },
+        {
           "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
           "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
           "source": "US news | The Guardian",
@@ -383,21 +404,7 @@
           "section": ""
         },
         {
-          "title": "Democrat writes off Trump’s attempt to blame party for flight grounding as ‘absurd’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-flight-grounding-democrats-blame",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Nov 2026 14:24:21 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 16 Nov 2026 14:23:46 GMT",
-          "section": ""
-        },
-        {
-          "title": "America’s Most Important EV Is a Delivery Van",
+          "title": "The EV Boom Is Happening Without Car Buyers",
           "url": "https://www.theatlantic.com/technology/2026/11/electric-cars-delivery-vans-robotaxis/689423/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-16T09:00:00-05:00",
@@ -446,13 +453,6 @@
           "section": ""
         },
         {
-          "title": "Democrats could raise the minimum wage next year. How high should they go?",
-          "url": "https://www.vox.com/policy/510752/democrats-congress-midterms-minimum-wage-affordability",
-          "source": "Vox",
-          "ts": "2026-11-16T06:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "YouVersion’s Biggest Problem Is Claude, ChatGPT Misquoting the Bible",
           "url": "https://www.christianitytoday.com/2026/11/youversion-bible-app-ai-claude-chatgpt-bobby-gruenewald/",
           "source": "Christianity Today",
@@ -467,17 +467,17 @@
           "section": ""
         },
         {
+          "title": "Democrats could raise the minimum wage next year. How high should they go?",
+          "url": "https://www.vox.com/policy/510752/democrats-congress-midterms-minimum-wage-affordability",
+          "source": "Vox",
+          "ts": "2026-11-16T06:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "For Native American boarding school survivors, truth and healing cannot wait",
           "url": "https://religionnews.com/2026/11/16/native-american-boarding-school-survivors-healing/",
           "source": "RNS",
           "ts": "Mon, 16 Nov 2026 09:05:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Men weren’t always “bad at friendship”",
-          "url": "https://www.vox.com/explain-it-to-me/510725/men-friendship-loneliness-debate-history-artistotle",
-          "source": "Vox",
-          "ts": "2026-11-15T07:00:00-05:00",
           "section": ""
         },
         {
@@ -521,6 +521,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Israel’s Escalating Jewish Settler Violence in the West Bank Brings European Backlash",
+          "url": "https://www.globalresearch.ca/israel-escalating-jewish-settler-violence-west-bank-brings-european-backlash/5945897",
+          "source": "Global Research",
+          "ts": "Mon, 16 Nov 2026 14:53:10 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Your Vote Doesn’t Change the War Machine",
+          "url": "https://www.globalresearch.ca/your-vote-doesnt-change-war-machine/5945928",
+          "source": "Global Research",
+          "ts": "Mon, 16 Nov 2026 14:51:19 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Mysterious New B94 Nuclear Bomb Designation Emerges, First In Decades",
           "url": "https://www.twz.com/nuclear/mysterious-new-b94-nuclear-bomb-designation-emerges-first-in-decades",
           "source": "TWZ",
@@ -535,17 +549,31 @@
           "section": ""
         },
         {
+          "title": "Infantino made things worse at FIFA than Blatter , says Jurgen Klopp",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 14:36:23 +0000",
+          "section": ""
+        },
+        {
+          "title": "Belgium’s Romelu Lukaku retires from international football",
+          "url": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 16 Nov 2026 14:35:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "History: Britain’s Colonial Policies in Africa",
+          "url": "https://www.globalresearch.ca/britain-colonial-policies-africa/5832821",
+          "source": "Global Research",
+          "ts": "Mon, 16 Nov 2026 14:34:35 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Russell Brand and the media that made him",
           "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/16/russell-brand-and-the-media-that-made-him?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 16 Nov 2026 14:25:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
-          "url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 16 Nov 2026 14:20:43 +0000",
           "section": ""
         },
         {
@@ -554,20 +582,6 @@
           "source": "Deutsche Welle",
           "ts": "2026-11-16T14:05:00Z",
           "section": ""
-        },
-        {
-          "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
-          "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 16 Nov 2026 13:45:54 +0000",
-          "section": ""
-        },
-        {
-          "title": "Rains and Despair: Flooding and the Humanitarian Crisis in Gaza",
-          "url": "https://www.globalresearch.ca/rains-despair-flooding-humanitarian-crisis-gaza/5945929",
-          "source": "Global Research",
-          "ts": "Mon, 16 Nov 2026 13:43:23 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "China says Xi, Trump, Putin to discuss 'world peace'",
@@ -589,20 +603,6 @@
           "source": "War on the Rocks",
           "ts": "Mon, 16 Nov 2026 08:30:37 +0000",
           "section": ""
-        },
-        {
-          "title": "Florida MAGA Representative Ensnared in Trump’s Echo Chamber of Lies Regarding Iran",
-          "url": "https://michelchossudovsky.substack.com/p/maga-representative-anna-paulina-luna-ensnared-trump-echo-chamber-lies-copy",
-          "source": "Global Research",
-          "ts": "Mon, 16 Nov 2026 07:21:45 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "The 2026 Covid-19 “Vaccine.” The “Dangerous” XFG Variant of SARS CoV-2",
-          "url": "https://michelchossudovsky.substack.com/p/2026-covid-19-vaccine-dangerous-xfg-variant-sars-cov-2",
-          "source": "Global Research",
-          "ts": "Mon, 16 Nov 2026 07:20:39 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Putin Links End of Conflict in Ukraine with a Mutual Security Pact with the West, by Paul Craig Roberts",
@@ -722,6 +722,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "NYPD Release Footage of Man Stealing Gold Bars in $9 Million Larceny Scheme",
+          "url": "https://headlineusa.com/nypd-releases-footage-of-man-who-allegedly-stole-9-million-in-gold-bars/",
+          "source": "Ken Silva, Author at Headline USA",
+          "ts": "Mon, 16 Nov 2026 14:59:29 +0000",
+          "section": "PARA POLITICAL INTRIGUE"
+        },
+        {
           "title": "Inspector General Report Shows State Department’s Unlawful “Israel Exception” to the Leahy Law",
           "url": "https://www.justsecurity.org/164505/state-department-israel-leahy-laws/?utm_source=rss&utm_medium=rss&utm_campaign=state-department-israel-leahy-laws",
           "source": "Just Security",
@@ -817,13 +824,6 @@
           "url": "https://headlineusa.com/would-be-trump-assassin-files-appeal/",
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Fri, 13 Nov 2026 16:27:56 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Alleged White House Correspondents’ Dinner Attacker Hit w/ New Terrorism Charge",
-          "url": "https://headlineusa.com/alleged-white-house-correspondents-dinner-attacker-hit-w-new-terrorism-charge/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Fri, 13 Nov 2026 16:05:30 +0000",
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
