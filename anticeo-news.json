@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T21:33:03.046066Z",
+  "generated_at": "2026-11-17T21:47:22.065704Z",
   "headline": {
-    "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
+    "title": "Inside the Trump Administration’s War on the International Criminal Court",
+    "url": "https://theintercept.com/2026/11/17/trump-icc-sanctions-war-crimes/"
   },
   "sections": [
     {
@@ -12,14 +12,7 @@
           "title": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Nov 2026 21:26:12 +0000",
-          "section": ""
-        },
-        {
-          "title": "Paris Hilton returns to Capitol Hill to push for DEFIANCE Act passage",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6042450/paris-hilton-returns-to-capitol-hill-to-push-for-defiance-act-passage",
-          "source": "NPR Topics: Politics",
-          "ts": "Tue, 17 Nov 2026 16:13:54 -0500",
+          "ts": "Tue, 17 Nov 2026 21:34:43 +0000",
           "section": ""
         },
         {
@@ -233,6 +226,13 @@
           "section": ""
         },
         {
+          "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+          "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+          "source": "NPR Topics: Politics",
+          "ts": "Tue, 17 Nov 2026 07:20:57 -0500",
+          "section": ""
+        },
+        {
           "title": "Azerbaijan Jails Parliamentary Watchdog Activists",
           "url": "https://www.hrw.org/news/2026/11/17/azerbaijan-jails-parliamentary-watchdog-activists",
           "source": "Human Rights Watch News",
@@ -404,17 +404,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Iran Dirty Bomb Threat Brings Out the Internet’s Useful Idiots",
-          "url": "https://www.nationalreview.com/article/the-iran-dirty-bomb-threat-brings-out-the-internet-s-useful-idiots",
-          "source": "National Review",
-          "ts": "Tue, 17 Nov 2026 21:22:23 +0000",
+          "title": "Palestinian Christians press US lawmakers to address violence in the West Bank and Gaza",
+          "url": "https://religionnews.com/2026/11/17/in-dc-palestinian-christians-and-their-allies-push-lawmakers/",
+          "source": "RNS",
+          "ts": "Tue, 17 Nov 2026 21:33:11 +0000",
           "section": ""
         },
         {
           "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 21:15:05 GMT",
+          "ts": "Tue, 17 Nov 2026 21:29:33 GMT",
+          "section": ""
+        },
+        {
+          "title": "The Iran Dirty Bomb Threat Brings Out the Internet’s Useful Idiots",
+          "url": "https://www.nationalreview.com/article/the-iran-dirty-bomb-threat-brings-out-the-internet-s-useful-idiots",
+          "source": "National Review",
+          "ts": "Tue, 17 Nov 2026 21:22:23 +0000",
           "section": ""
         },
         {
@@ -481,13 +488,6 @@
           "section": ""
         },
         {
-          "title": "New England’s first Bible, published in an Indigenous language, had one aim: Converting Native Americans",
-          "url": "https://religionnews.com/2026/11/17/new-englands-first-bible-published-in-an-indigenous-language-had-one-aim-converting-native-americans/",
-          "source": "RNS",
-          "ts": "Tue, 17 Nov 2026 15:38:55 +0000",
-          "section": ""
-        },
-        {
           "title": "How ‘Good Burdens’ Bring You to the Lord’s Table",
           "url": "https://www.christianitytoday.com/2026/11/good-burdens-lords-table-between-hurry-heaven/",
           "source": "Christianity Today",
@@ -535,6 +535,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+          "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 21:14:31 +0000",
+          "section": ""
+        },
+        {
           "title": "US Bombs Multiple Locations on Iran’s Qeshm Island as War Continues To Escalate",
           "url": "https://news.antiwar.com/2026/11/17/us-bombs-multiple-locations-on-irans-qeshm-island-as-war-continues-to-escalate/?utm_source=rss&utm_medium=rss&utm_campaign=us-bombs-multiple-locations-on-irans-qeshm-island-as-war-continues-to-escalate",
           "source": "News From Antiwar.com",
@@ -560,13 +567,6 @@
           "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 17 Nov 2026 20:47:07 +0000",
-          "section": ""
-        },
-        {
-          "title": "Tensions rise over draft climate deal at COP31",
-          "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 20:40:29 +0000",
           "section": ""
         },
         {
@@ -764,6 +764,20 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Inside the Trump Administration’s War on the International Criminal Court",
+          "url": "https://theintercept.com/2026/11/17/trump-icc-sanctions-war-crimes/",
+          "source": "The Intercept",
+          "ts": "Tue, 17 Nov 2026 21:42:54 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ex-FBI Scientist Sentenced to Prison for Possessing Child Abuse Material",
+          "url": "https://headlineusa.com/ex-fbi-scientist-sentenced-to-prison-for-possessing-child-abuse-material/",
+          "source": "Ken Silva, Author at Headline USA",
+          "ts": "Tue, 17 Nov 2026 21:38:33 +0000",
+          "section": "PARA POLITICAL INTRIGUE"
+        },
+        {
           "title": "Vice-President Grassley And The Bipartisan Politics Of An Imminent Trump Impeachment",
           "url": "https://www.techdirt.com/2026/11/17/vice-president-grassley-and-the-bipartisan-politics-of-an-imminent-trump-impeachment/",
           "source": "Techdirt",
@@ -862,13 +876,6 @@
           "section": ""
         },
         {
-          "title": "ICE Shot Pepper Spray Into a Car in a Traffic Stop, Then Broke a Detainee’s Collarbone",
-          "url": "https://theintercept.com/2026/11/16/ice-violence-warrantless-arrest-lawsuit/",
-          "source": "The Intercept",
-          "ts": "Mon, 16 Nov 2026 21:15:16 +0000",
-          "section": ""
-        },
-        {
           "title": "Oil tankers burning in Hormuz; Senate leadership battle; Mexican journalist found dead, 6th this year",
           "url": "https://www.dropsitenews.com/p/oil-tankers-hormuz-senate-leadership-mexican-journalist",
           "source": "Drop Site News",
@@ -880,13 +887,6 @@
           "url": "https://headlineusa.com/nypd-releases-footage-of-man-who-allegedly-stole-9-million-in-gold-bars/",
           "source": "Ken Silva, Author at Headline USA",
           "ts": "Mon, 16 Nov 2026 14:59:29 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Democrat Congressman-Elect Under Investigation for ‘Sexual Harassment’",
-          "url": "https://headlineusa.com/democrat-congressman-elect-under-investigation-for-sexual-harassment/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Sun, 15 Nov 2026 17:08:30 +0000",
           "section": "PARA POLITICAL INTRIGUE"
         },
         {
