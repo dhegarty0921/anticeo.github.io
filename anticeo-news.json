@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-17T23:32:39.573398Z",
+  "generated_at": "2026-11-17T23:47:27.672257Z",
   "headline": {
-    "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html"
+    "title": "The case for new Democratic leadership",
+    "url": "https://www.vox.com/podcasts/510923/democratic-leadership-fight-van-hollen-schumer-jeffries"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Tue, 17 Nov 2026 23:38:01 +0000",
+          "section": ""
+        },
         {
           "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
@@ -20,13 +27,6 @@
           "url": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Nov 2026 23:23:41 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrats Assail RFK Jr. After U.S. Loses Measles Elimination Status",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Nov 2026 23:05:10 +0000",
           "section": ""
         },
         {
@@ -418,10 +418,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The case for new Democratic leadership",
+          "url": "https://www.vox.com/podcasts/510923/democratic-leadership-fight-van-hollen-schumer-jeffries",
+          "source": "Vox",
+          "ts": "2026-11-17T18:45:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "First responders describe rescue efforts after New Orleans boat crash: ‘we have to save each other’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Nov 2026 23:28:22 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 23:09:15 GMT",
+          "ts": "Tue, 17 Nov 2026 23:25:05 GMT",
           "section": ""
         },
         {
@@ -474,24 +488,10 @@
           "section": ""
         },
         {
-          "title": "US loses measles elimination status amid worst outbreak since 1991",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 22:18:53 GMT",
-          "section": ""
-        },
-        {
           "title": "An Obituary for America’s Measles-Elimination Status",
           "url": "https://www.theatlantic.com/newsletters/2026/11/rip-measles-elimination/689482/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-17T17:05:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "How to be a good-enough home cook",
-          "url": "https://www.vox.com/even-better/23436672/how-to-start-cooking-beginner-guide",
-          "source": "Vox",
-          "ts": "2026-11-17T17:00:00-05:00",
           "section": ""
         },
         {
@@ -549,6 +549,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Russian Tu-95 Bombers Arrive In Vietnam After Flurry Of Northeast Asia Air Alerts",
+          "url": "https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
+          "source": "TWZ",
+          "ts": "Tue, 17 Nov 2026 18:39:58 -0500",
+          "section": ""
+        },
+        {
+          "title": "Top spy agency suffers network outage, the latest US technical failure",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 23:19:12 +0000",
+          "section": ""
+        },
+        {
           "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
           "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -589,13 +603,6 @@
           "source": "Global Research",
           "ts": "Tue, 17 Nov 2026 22:04:09 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 22:01:27 +0000",
-          "section": ""
         },
         {
           "title": "Saudi Airstrikes on Factory in Yemen’s Hodeidah Province Kill 14 Civilians: Health Ministry",
@@ -693,13 +700,6 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/17/civilian-staff-shortages-disrupt-essential-services-at-isolated-bases-report-finds/",
           "source": "News - Army Times",
           "ts": "Tue, 17 Nov 2026 16:52:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge (Updated)",
-          "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span",
-          "source": "TWZ",
-          "ts": "Tue, 17 Nov 2026 10:48:55 -0500",
           "section": ""
         },
         {
