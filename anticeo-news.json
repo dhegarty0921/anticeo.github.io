@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T07:04:52.485554Z",
+  "generated_at": "2026-11-17T07:19:03.649127Z",
   "headline": {
-    "title": "India news: Modi to attend ASEAN, Quad meet in Manila",
-    "url": "https://www.dw.com/en/india-news-modi-to-attend-asean-quad-meet-in-manila/live-79964913?maca=en-rss-en-all-1573-rdf"
+    "title": "Canada, China agree to ease tariffs amid trade rows with US",
+    "url": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -10,9 +10,9 @@
       "items": [
         {
           "title": "Watch: How predatory Met detective's behaviour became increasingly extreme",
-          "url": "https://www.bbc.co.uk/news/articles/cmy49pjvqw8vo?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.co.uk/news/videos/cqlymxe49g30o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Tue, 17 Nov 2026 06:09:18 GMT",
+          "ts": "Tue, 17 Nov 2026 07:10:08 GMT",
           "section": ""
         },
         {
@@ -397,6 +397,13 @@
           "source": "Public Trust Tracker",
           "ts": "2026-11-16T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
+        },
+        {
+          "title": "Measles Cases and Outbreaks - Centers for Disease Control and Prevention | CDC (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kU2puTzAxZ3ktbE1vNzU0RU9xZTlMYzIyb3JRaENuSnJJdnllQUJDeWs3TElwZmJmYU84dkFsc1ZKaEw0N2dTUHFVSlktVE91ejM0TG10YkRVellCcXo2X3VR?oc=5",
+          "source": "CDC Overdose Data",
+          "ts": "Fri, 13 Nov 2026 08:00:00 GMT",
+          "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         }
       ]
     },
@@ -535,10 +542,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Canada, China agree to ease tariffs amid trade rows with US",
+          "url": "https://www.dw.com/en/canada-china-agree-to-ease-tariffs-amid-trade-rows-with-us/a-79964912?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-17T07:12:00Z",
+          "section": ""
+        },
+        {
+          "title": "Will Netanyahu lose this time?",
+          "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 06:53:23 +0000",
+          "section": ""
+        },
+        {
           "title": "India news: Modi to attend ASEAN, Quad meet in Manila",
           "url": "https://www.dw.com/en/india-news-modi-to-attend-asean-quad-meet-in-manila/live-79964913?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T06:45:00Z",
+          "section": ""
+        },
+        {
+          "title": "Babcock and ST Engineering partner on international maritime opportunities",
+          "url": "https://www.navalnews.com/naval-news/2026/11/babcock-and-st-engineering-partner-on-international-maritime-opportunities/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 06:28:00 +0000",
           "section": ""
         },
         {
@@ -570,13 +598,6 @@
           "section": ""
         },
         {
-          "title": "Leonid meteor shower 2026: When and where to see it from where you live",
-          "url": "https://www.aljazeera.com/news/2026/11/17/leonid-meteor-shower-2026-when-and-where-to-see-it-from-where-you-live?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 05:42:03 +0000",
-          "section": ""
-        },
-        {
           "title": "Poland’s Prime Minister Tusk’s Suspension of PURL Ukraine Military Contributions",
           "url": "https://www.globalresearch.ca/tusk-suspension-purl-contributions-militarily-insignificant-domestic-political-distraction/5945893",
           "source": "Global Research",
@@ -596,13 +617,6 @@
           "source": "Global Research",
           "ts": "Tue, 17 Nov 2026 03:47:06 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Japan scrambles jets to counter suspected Russian aircraft",
-          "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-17T03:29:00Z",
-          "section": ""
         },
         {
           "title": "Russia’s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught (Updated)",
@@ -637,6 +651,20 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/16/dod-restores-parental-access-to-teens-medical-records/",
           "source": "News - Army Times",
           "ts": "Mon, 16 Nov 2026 21:27:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
+          "source": "Naval News",
+          "ts": "Mon, 16 Nov 2026 21:25:59 +0000",
+          "section": ""
+        },
+        {
+          "title": "U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
+          "source": "Naval News",
+          "ts": "Mon, 16 Nov 2026 20:56:33 +0000",
           "section": ""
         },
         {
