@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T20:47:50.666246Z",
+  "generated_at": "2026-11-17T21:04:25.241683Z",
   "headline": {
-    "title": "Jensen Huang and the irony of an AI icon taken down by human sins",
-    "url": "https://religionnews.com/2026/11/17/jensen-huang-and-the-irony-of-an-ai-icon-taken-down-by-human-sins/"
+    "title": "The Paramount-Warner Brothers Deal Could Usher in Another Age of Lost Media",
+    "url": "https://www.eff.org/deeplinks/2026/11/paramount-warner-brothers-deal-could-usher-another-age-lost-media"
   },
   "sections": [
     {
@@ -12,7 +12,7 @@
           "title": "Ukraine Talks Run Up Against Deep Enmity Between Russia and Europe",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/ukraine-russia-europe-trump.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Nov 2026 20:31:10 +0000",
+          "ts": "Tue, 17 Nov 2026 20:31:11 +0000",
           "section": ""
         },
         {
@@ -411,10 +411,24 @@
           "section": ""
         },
         {
+          "title": "Alice Huang Was Obviously a Chinese Asset",
+          "url": "https://www.nationalreview.com/article/alice-huang-was-obviously-a-chinese-asset",
+          "source": "National Review",
+          "ts": "Tue, 17 Nov 2026 20:46:08 +0000",
+          "section": ""
+        },
+        {
           "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 20:23:22 GMT",
+          "ts": "Tue, 17 Nov 2026 20:37:57 GMT",
+          "section": ""
+        },
+        {
+          "title": "National Security Agency network for internal communications goes down",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Nov 2026 20:35:23 GMT",
           "section": ""
         },
         {
@@ -429,13 +443,6 @@
           "url": "https://www.theatlantic.com/culture/2026/11/kennedy-trump-arch-arlington/689478/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-17T14:41:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "National Security Agency network for internal communications goes down",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 19:00:21 GMT",
           "section": ""
         },
         {
@@ -474,13 +481,6 @@
           "section": ""
         },
         {
-          "title": "Let’s Stop Fighting Gravity in U.S.-Canada Trade",
-          "url": "https://www.nationalreview.com/article/let-s-stop-fighting-gravity-in-u-s-canada-trade",
-          "source": "National Review",
-          "ts": "Tue, 17 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
           "title": "How ‘Good Burdens’ Bring You to the Lord’s Table",
           "url": "https://www.christianitytoday.com/2026/11/good-burdens-lords-table-between-hurry-heaven/",
           "source": "Christianity Today",
@@ -488,8 +488,8 @@
           "section": ""
         },
         {
-          "title": "Privatize Air Traffic Control",
-          "url": "https://www.nationalreview.com/article/privatize-air-traffic-control",
+          "title": "Let’s Stop Fighting Gravity in U.S.-Canada Trade",
+          "url": "https://www.nationalreview.com/article/let-s-stop-fighting-gravity-in-u-s-canada-trade",
           "source": "National Review",
           "ts": "Tue, 17 Nov 2026 11:00:00 +0000",
           "section": ""
@@ -509,8 +509,8 @@
           "section": ""
         },
         {
-          "title": "The Return of the War Powers Debate",
-          "url": "https://www.nationalreview.com/article/the-return-of-the-war-powers-debate",
+          "title": "Privatize Air Traffic Control",
+          "url": "https://www.nationalreview.com/article/privatize-air-traffic-control",
           "source": "National Review",
           "ts": "Tue, 17 Nov 2026 11:00:00 +0000",
           "section": ""
@@ -535,6 +535,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "What’s behind the ANC’s decline in South Africa?",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 20:47:07 +0000",
+          "section": ""
+        },
+        {
+          "title": "Tensions rise over draft climate deal at COP31",
+          "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 20:40:29 +0000",
+          "section": ""
+        },
+        {
           "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
           "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -553,20 +567,6 @@
           "url": "https://truthout.org/articles/cnn-nyt-push-dubious-reports-on-iran-that-critics-liken-to-iraq-wmd-lies/",
           "source": "Truthout",
           "ts": "Tue, 17 Nov 2026 20:18:06 +0000",
-          "section": ""
-        },
-        {
-          "title": "Police charge crowds at Brussels student march",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 20:14:07 +0000",
-          "section": ""
-        },
-        {
-          "title": "China, Canada expand tariff relief after Carney-Xi meeting",
-          "url": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 20:11:41 +0000",
           "section": ""
         },
         {
@@ -743,6 +743,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "The Paramount-Warner Brothers Deal Could Usher in Another Age of Lost Media",
+          "url": "https://www.eff.org/deeplinks/2026/11/paramount-warner-brothers-deal-could-usher-another-age-lost-media",
+          "source": "Deeplinks",
+          "ts": "Tue, 17 Nov 2026 20:56:59 +0000",
+          "section": ""
+        },
+        {
           "title": "Who’s Behind the Poll Claiming Cubans Would Support a U.S. Invasion?",
           "url": "https://www.dropsitenews.com/p/cuba-poll-invasion-trump-us-government-funding",
           "source": "Drop Site News",
@@ -824,13 +831,6 @@
           "url": "https://www.eff.org/deeplinks/2026/11/european-commission-plan-give-frontex-trusted-flagger-status-threat-free-speech",
           "source": "Deeplinks",
           "ts": "Tue, 17 Nov 2026 11:33:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "EFF’s AI Cybersecurity Policy Framework",
-          "url": "https://www.eff.org/deeplinks/2026/11/effs-ai-cybersecurity-policy-framework",
-          "source": "Deeplinks",
-          "ts": "Mon, 16 Nov 2026 22:50:00 +0000",
           "section": ""
         },
         {
