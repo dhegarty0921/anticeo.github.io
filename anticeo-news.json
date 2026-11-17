@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T19:33:12.649024Z",
+  "generated_at": "2026-11-17T19:47:30.984331Z",
   "headline": {
-    "title": "As Israeli Incursions Soar, Syrians Fear the ‘Golanizing’ of Quneitra",
-    "url": "https://news.antiwar.com/2026/11/17/as-israeli-incursions-soar-syrians-fear-the-golanizing-of-quneitra/?utm_source=rss&utm_medium=rss&utm_campaign=as-israeli-incursions-soar-syrians-fear-the-golanizing-of-quneitra"
+    "title": "Why My Family Is Suing to Stop Trump’s Arch",
+    "url": "https://www.theatlantic.com/culture/2026/11/kennedy-trump-arch-arlington/689478/?utm_source=feed"
   },
   "sections": [
     {
@@ -411,10 +411,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+          "title": "Why My Family Is Suing to Stop Trump’s Arch",
+          "url": "https://www.theatlantic.com/culture/2026/11/kennedy-trump-arch-arlington/689478/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-17T14:41:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Temporary NSA internal network outage caused by ‘scheduled routine maintenance’, agency says – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 19:07:07 GMT",
+          "ts": "Tue, 17 Nov 2026 19:23:46 GMT",
           "section": ""
         },
         {
@@ -443,13 +450,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
           "source": "US news | The Guardian",
           "ts": "Tue, 17 Nov 2026 18:27:51 GMT",
-          "section": ""
-        },
-        {
-          "title": "The Iran War Has Slipped Into a Dangerous Limbo",
-          "url": "https://www.theatlantic.com/national-security/2026/11/iran-war-trump-limbo/689471/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-17T12:14:16-05:00",
           "section": ""
         },
         {
@@ -542,10 +542,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "LaNeve formally nominated for Army chief of staff role",
+          "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/17/laneve-formally-nominated-for-army-chief-of-staff-role/",
+          "source": "News - Army Times",
+          "ts": "Tue, 17 Nov 2026 19:33:32 +0000",
+          "section": ""
+        },
+        {
           "title": "These Are The Weapons Ukraine Used To Drop The Kerch Bridge",
           "url": "https://www.twz.com/news-features/these-are-the-weapons-ukraine-used-to-drop-the-kerch-bridge",
           "source": "TWZ",
           "ts": "Tue, 17 Nov 2026 14:22:29 -0500",
+          "section": ""
+        },
+        {
+          "title": "More than 100,000 take part in France pay protests",
+          "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 19:09:49 +0000",
           "section": ""
         },
         {
@@ -584,13 +598,6 @@
           "section": ""
         },
         {
-          "title": "Mozambique opposition leader goes on trial on terrorism charges",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 18:48:15 +0000",
-          "section": ""
-        },
-        {
           "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
           "url": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -626,11 +633,32 @@
           "section": ""
         },
         {
+          "title": "EU Attempting to Boycott Ties Between Niger and Algeria",
+          "url": "https://www.globalresearch.ca/eu-trying-boycott-ties-niger-algeria/5946063",
+          "source": "Global Research",
+          "ts": "Tue, 17 Nov 2026 17:05:05 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "EU Military Assistance Mission (EUMAM) Funding Deepens Ukraine’s Conflict, Despite Peace Talks",
+          "url": "https://www.globalresearch.ca/eumam-funding-deepens-ukraine-conflict-despite-peace-talks/5946075",
+          "source": "Global Research",
+          "ts": "Tue, 17 Nov 2026 17:03:45 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
           "url": "https://www.dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T17:02:00Z",
           "section": ""
+        },
+        {
+          "title": "APEC Summit: Trump, Xi and Putin Reshape the World, Europe Watches",
+          "url": "https://www.globalresearch.ca/apec-summit-trump-xi-putin-reshape-world-europe-watches/5946103",
+          "source": "Global Research",
+          "ts": "Tue, 17 Nov 2026 17:00:08 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Civilian staff shortages disrupt essential services at isolated bases, report finds",
@@ -640,38 +668,10 @@
           "section": ""
         },
         {
-          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
-          "url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
-          "source": "Naval News",
-          "ts": "Tue, 17 Nov 2026 16:31:35 +0000",
-          "section": ""
-        },
-        {
-          "title": "VA wants to stop charging premiums on 16,000 WWII-era veteran life insurance policies",
-          "url": "https://www.armytimes.com/veterans/2026/11/17/va-wants-to-stop-charging-premiums-on-16000-wwii-era-veteran-life-insurance-policies/",
-          "source": "News - Army Times",
-          "ts": "Tue, 17 Nov 2026 15:54:45 +0000",
-          "section": ""
-        },
-        {
           "title": "What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge (Updated)",
           "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span",
           "source": "TWZ",
           "ts": "Tue, 17 Nov 2026 10:48:55 -0500",
-          "section": ""
-        },
-        {
-          "title": "Video: Rheinmetall Pitches Aegis-Equipped GMF 140 Frigate to U.S. Navy",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/rheinmetall-pitches-gmf-140-frigate-us-navy-nato/",
-          "source": "Naval News",
-          "ts": "Tue, 17 Nov 2026 13:20:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "MANGROVE completes first phase of NATO underwater battlespace network, eyes Arctic trial",
-          "url": "https://www.navalnews.com/naval-news/2026/11/mangrove-nato-underwater-battlespace-network-arctic-trial/",
-          "source": "Naval News",
-          "ts": "Tue, 17 Nov 2026 09:59:51 +0000",
           "section": ""
         },
         {
@@ -874,6 +874,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Bahrain urges UN Security Council action to halt Iranian attacks, secure compensation",
+          "url": "https://www.middleeastmonitor.com/20261117-bahrain-urges-un-security-council-action-to-halt-iranian-attacks-secure-compensation/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 17 Nov 2026 19:32:59 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Somali president accuses UAE of internal interference",
           "url": "https://www.middleeastmonitor.com/20261117-somali-president-accuses-uae-of-internal-interference/",
           "source": "Middle East Monitor",
@@ -885,13 +892,6 @@
           "url": "https://www.middleeastmonitor.com/20261117-hind-rajab-foundation-urges-us-to-prosecute-former-israeli-defense-minister-for-gaza-lebanon-crimes/",
           "source": "Middle East Monitor",
           "ts": "Tue, 17 Nov 2026 19:10:33 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran says US military struck ‘several locations’ in area of Qeshm Island",
-          "url": "https://www.middleeastmonitor.com/20261117-iran-says-us-military-struck-several-locations-in-area-of-qeshm-island/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 17 Nov 2026 18:58:24 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
