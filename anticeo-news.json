@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:19:32.572614Z",
+  "generated_at": "2026-11-17T09:33:04.779230Z",
   "headline": {
     "title": "Israel drops explosives packaged in boxes in Gaza",
     "url": "https://www.middleeastmonitor.com/20261117-israel-drops-explosives-packaged-in-boxes-in-gaza/"
@@ -223,13 +223,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/inside-the-fight-to-bring-jensen-huang-back-to-nvidia/",
           "source": "Mother Jones",
           "ts": "Mon, 16 Nov 2026 17:02:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "UCLA scientists put a lid on tiny test tubes, opening new frontiers for cell research",
-          "url": "https://newsroom.ucla.edu/releases/scientists-put-lid-tiny-test-tubes-opening-new-possibilities-cell-research",
-          "source": "UCLA",
-          "ts": "Mon, 16 Nov 2026 17:00:00 GMT",
           "section": ""
         },
         {
@@ -514,6 +507,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 17 Nov 2026 09:12:38 +0000",
+          "section": ""
+        },
+        {
           "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
           "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
           "source": "War on the Rocks",
@@ -528,6 +528,13 @@
           "section": ""
         },
         {
+          "title": "COP31 Abroad, Pax Silica at Home: The Philippines Is a Contradiction",
+          "url": "https://www.asia-pacificresearch.com/cop31-abroad-pax-silica-home-philippines-contradiction/5633755",
+          "source": "Global Research",
+          "ts": "Tue, 17 Nov 2026 08:40:27 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "The Military Strategic Drivers Behind China’s Nuclear Expansion",
           "url": "https://warontherocks.com/the-military-strategic-drivers-behind-chinas-nuclear-expansion/",
           "source": "War on the Rocks",
@@ -539,13 +546,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 17 Nov 2026 08:25:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
-          "url": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 08:15:32 +0000",
           "section": ""
         },
         {
@@ -570,6 +570,13 @@
           "section": ""
         },
         {
+          "title": "Babcock and ST Engineering partner on international maritime opportunities",
+          "url": "https://www.navalnews.com/naval-news/2026/11/babcock-and-st-engineering-partner-on-international-maritime-opportunities/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 06:28:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
           "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
           "source": "TWZ",
@@ -588,13 +595,6 @@
           "url": "https://www.globalresearch.ca/putin-links-end-conflict-ukraine-mutual-security-pact-west/5945991",
           "source": "Global Research",
           "ts": "Tue, 17 Nov 2026 03:51:02 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "European Countries Reject Further Military Support for Ukraine",
-          "url": "https://www.globalresearch.ca/european-countries-reject-further-military-support-ukraine/5946002",
-          "source": "Global Research",
-          "ts": "Tue, 17 Nov 2026 03:47:06 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
@@ -630,6 +630,20 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/16/dod-restores-parental-access-to-teens-medical-records/",
           "source": "News - Army Times",
           "ts": "Mon, 16 Nov 2026 21:27:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "U.S. Navy Orders 82 Additional Lionfish UUVs from HII",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-82-additional-lionfish-uuvs-from-hii/",
+          "source": "Naval News",
+          "ts": "Mon, 16 Nov 2026 21:25:59 +0000",
+          "section": ""
+        },
+        {
+          "title": "U.S. Navy Orders Four Additional 40 PB Flight 2 Patrol Boats from Metal Shark",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-orders-four-additional-40-pb-flight-2-patrol-boats-from-metal-shark/",
+          "source": "Naval News",
+          "ts": "Mon, 16 Nov 2026 20:56:33 +0000",
           "section": ""
         },
         {
