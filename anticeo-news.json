@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:04:52.522816Z",
+  "generated_at": "2026-11-18T03:20:34.948003Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -188,13 +188,6 @@
           "url": "https://thelalocal.org/neighborhoods/westlake/macarthur-park-chain-link-fence-temporary-permanent-fence-november-2026/",
           "source": "LA Local",
           "ts": "Tue, 17 Nov 2026 19:06:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Reginald Foreman’s death rattled South LA, then his murder investigation divided it",
-          "url": "https://thelalocal.org/neighborhoods/south-la/reginald-foremans-death-rattled-south-la-then-his-murder-investigation-divided-it/",
-          "source": "LA Local",
-          "ts": "Tue, 17 Nov 2026 18:52:44 +0000",
           "section": ""
         },
         {
@@ -563,6 +556,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Slovakia: Thousands protest against pro-Kremlin leader Robert Fico",
+          "url": "https://www.dw.com/en/slovakia-thousands-protest-against-pro-kremlin-leader-robert-fico/a-79976078?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-18T03:06:00Z",
+          "section": ""
+        },
+        {
+          "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 03:00:22 +0000",
+          "section": ""
+        },
+        {
           "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
           "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -574,13 +581,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Wed, 18 Nov 2026 02:32:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "ICE agents shove and pepper-spray pregnant woman",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 02:17:12 +0000",
           "section": ""
         },
         {
@@ -647,10 +647,24 @@
           "section": ""
         },
         {
+          "title": "UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare",
+          "url": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:59:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
           "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T20:40:00Z",
+          "section": ""
+        },
+        {
+          "title": "Hanwha Successfully Test-Fires Chunmoo Missile from Maritime Palletized Launcher",
+          "url": "https://www.navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:16:58 +0000",
           "section": ""
         },
         {
@@ -672,13 +686,6 @@
           "url": "https://www.moonofalabama.org/2026/11/ukraine-fourth-nato-u-s-strike-on-kerch-bridge-takes-down-road-span.html",
           "source": "Moon of Alabama",
           "ts": "Tue, 17 Nov 2026 18:58:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
-          "url": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-17T18:39:00Z",
           "section": ""
         },
         {
@@ -721,6 +728,13 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/17/civilian-staff-shortages-disrupt-essential-services-at-isolated-bases-report-finds/",
           "source": "News - Army Times",
           "ts": "Tue, 17 Nov 2026 16:52:56 +0000",
+          "section": ""
+        },
+        {
+          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
+          "url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 16:31:35 +0000",
           "section": ""
         },
         {
