@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-18T22:47:48.817916Z",
+  "generated_at": "2026-11-18T23:04:15.905117Z",
   "headline": {
-    "title": "It Feels Like Everything is Breaking, and It’s Not Even Hackers",
-    "url": "https://www.motherjones.com/politics/2026/11/cybersecurity-banks-microsoft-cisa-faa/"
+    "title": "Boiling Point: The road to war and Ukraine’s uncertain future",
+    "url": "https://inthesetimes.com/article/boiling-point-kinzer-ukraine"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Fight Over Deportation Protections for Venezuelans Returns to Supreme Court",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/supreme-court-trump-deportation-venezuelans.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Nov 2026 22:42:02 +0000",
+          "section": ""
+        },
         {
           "title": "It Feels Like Everything is Breaking, and It’s Not Even Hackers",
           "url": "https://www.motherjones.com/politics/2026/11/cybersecurity-banks-microsoft-cisa-faa/",
@@ -156,13 +163,6 @@
           "section": ""
         },
         {
-          "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
-          "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Nov 2026 20:12:59 +0000",
-          "section": ""
-        },
-        {
           "title": "“The Devils” Is the Perfect Film For Our Times",
           "url": "https://www.currentaffairs.org/news/the-devils-is-the-perfect-film-for-our-times",
           "source": "blog",
@@ -195,6 +195,13 @@
           "url": "https://www.realclearpolitics.com/2026/11/18/ditching_green_new_deal_key_to_democrat_victory_718275.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Wed, 18 Nov 2026 13:32:52 -0600",
+          "section": ""
+        },
+        {
+          "title": "LAUSD spent more than $6 million on its phone ban. Survey data show mixed results",
+          "url": "https://thelalocal.org/education/lausd-spent-more-than-6-million-on-its-phone-ban-survey-data-show-mixed-results/",
+          "source": "LA Local",
+          "ts": "Wed, 18 Nov 2026 19:27:29 +0000",
           "section": ""
         },
         {
@@ -387,13 +394,6 @@
           "section": ""
         },
         {
-          "title": "Big Tech’s Millions Backfired in the Midterms",
-          "url": "https://inthesetimes.com/article/big-tech-ai-midterm-election-elon-musk",
-          "source": "In These Times",
-          "ts": "Mon, 16 Nov 2026 12:00:00 -0600",
-          "section": ""
-        },
-        {
           "title": "18 Countries Condemn Israeli Strike on Nasser Hospital, Demand Unrestricted Aid - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVm1PbHN5VGEwTHlpaVZVb3RPaWItMlF3NUs2Qk5TM1g1WlQxVzh0V25sMXRLcF81TktyWkkyOW9pQjVvZkhBU3M0Z3NUc1ZYUDZGcVpPaXlLa2h4Xzh0MmZleWRxWDllLUZWRFJJc3E4cGNSNk1vYVQzV0gtLTFNZ3dxbVhkT3Vsc1NRTEhzVGhmSlV4OGwtRWZIYkZON1I5d0lrbkZzWTNwWGdDM2haWE1ycVo?oc=5",
           "source": "via Google News",
@@ -432,6 +432,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump’s transportation secretary blames contractor for nationwide ground stop – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Nov 2026 22:48:06 GMT",
+          "section": ""
+        },
+        {
           "title": "‘No Take, Only Throw’ Politics",
           "url": "https://www.theatlantic.com/ideas/2026/11/no-take-only-throw-democrats-budget-taxes/689497/?utm_source=feed",
           "source": "The Atlantic",
@@ -446,17 +453,10 @@
           "section": ""
         },
         {
-          "title": "Trump’s looming nominations crunch",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/511207/trump-senate-nominations-fda-nsf-overton",
-          "source": "Vox",
-          "ts": "2026-11-18T17:15:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+          "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Nov 2026 22:11:06 GMT",
+          "ts": "Wed, 18 Nov 2026 22:31:41 GMT",
           "section": ""
         },
         {
@@ -488,24 +488,10 @@
           "section": ""
         },
         {
-          "title": "The router that took down America’s antique air traffic system, explained",
-          "url": "https://www.vox.com/podcasts/511181/faa-ground-stop-router-upgrade-arkansas",
-          "source": "Vox",
-          "ts": "2026-11-18T14:30:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Marvin Sapp on new album, viral ‘close the doors’ backlash and gospel’s Super Bowl ambitions",
           "url": "https://religionnews.com/2026/11/18/marvin-sapp-on-new-album-viral-close-the-doors-backlash-and-gospels-super-bowl-ambitions/",
           "source": "RNS",
           "ts": "Wed, 18 Nov 2026 19:21:02 +0000",
-          "section": ""
-        },
-        {
-          "title": "Heavy rain and snow predicted as ‘atmospheric river’ hits California",
-          "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Nov 2026 19:18:18 GMT",
           "section": ""
         },
         {
@@ -525,6 +511,13 @@
         {
           "title": "The US helped the world rein in nuclear weapons. Could it do the same for AI?",
           "url": "https://www.vox.com/future-perfect/511092/nuclear-weapons-ai-nonproliferation-safety-regulation",
+          "source": "Vox",
+          "ts": "2026-11-18T08:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Who gets to decide Venezuela’s future?",
+          "url": "https://www.vox.com/videos/510950/who-gets-to-decide-venezuelas-future",
           "source": "Vox",
           "ts": "2026-11-18T08:00:00-05:00",
           "section": ""
@@ -551,6 +544,13 @@
           "section": ""
         },
         {
+          "title": "A perfect storm is descending on the AI industry",
+          "url": "https://www.vox.com/politics/511132/anthropic-ipo-ai-bubble-nvidia",
+          "source": "Vox",
+          "ts": "2026-11-18T06:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "The Evangelicals Bringing Hope to Climate Advocacy",
           "url": "https://www.christianitytoday.com/2026/11/the-evangelicals-bringing-hope-to-climate-global-warming-advocacy-yeca/",
           "source": "Christianity Today",
@@ -562,6 +562,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Boiling Point: The road to war and Ukraine’s uncertain future",
+          "url": "https://inthesetimes.com/article/boiling-point-kinzer-ukraine",
+          "source": "In These Times",
+          "ts": "Wed, 18 Nov 2026 16:59:00 -0600",
+          "section": ""
+        },
+        {
+          "title": "Report: Mossad Chief Pushed for Joint US-Israeli Strikes Against Iran During Washington Visit",
+          "url": "https://news.antiwar.com/2026/11/18/report-mossad-chief-pushed-for-joint-us-israeli-strikes-against-iran-during-washington-visit/?utm_source=rss&utm_medium=rss&utm_campaign=report-mossad-chief-pushed-for-joint-us-israeli-strikes-against-iran-during-washington-visit",
+          "source": "News From Antiwar.com",
+          "ts": "Wed, 18 Nov 2026 22:52:09 +0000",
+          "section": ""
+        },
         {
           "title": "Tehran Widens Attacks On Gulf Nations After Latest U.S. Strike On Iranian Island",
           "url": "https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
@@ -637,13 +651,6 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
           "source": "News - Army Times",
           "ts": "Wed, 18 Nov 2026 19:40:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Palestinians Flee as Israeli Forces Launch Ground Offensive in Central Gaza",
-          "url": "https://news.antiwar.com/2026/11/18/palestinians-flee-as-israeli-forces-launch-ground-offensive-in-central-gaza/?utm_source=rss&utm_medium=rss&utm_campaign=palestinians-flee-as-israeli-forces-launch-ground-offensive-in-central-gaza",
-          "source": "News From Antiwar.com",
-          "ts": "Wed, 18 Nov 2026 19:29:45 +0000",
           "section": ""
         },
         {
@@ -785,13 +792,6 @@
           "section": ""
         },
         {
-          "title": "Man Who Tried Hiring FBI Agents to Assassinate Trump Sentenced to Prison",
-          "url": "https://headlineusa.com/man-who-tried-hiring-fbi-agents-to-assassinate-trump-sentenced-to-prison/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Wed, 18 Nov 2026 20:24:58 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "Outage Chaos: When Tech is too Big to Fail",
           "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
           "source": "Deeplinks",
@@ -881,20 +881,6 @@
           "source": "The Intercept",
           "ts": "Tue, 17 Nov 2026 21:42:54 +0000",
           "section": ""
-        },
-        {
-          "title": "Ex-FBI Scientist Sentenced to Prison for Possessing Child Abuse Material",
-          "url": "https://headlineusa.com/ex-fbi-scientist-sentenced-to-prison-for-possessing-child-abuse-material/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Tue, 17 Nov 2026 21:38:33 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "City of Charlotte Claims ‘Government Immunity’ Against Train Stabbing Lawsuit",
-          "url": "https://headlineusa.com/city-of-charlotte-claims-government-immunity-against-train-stabbing-lawsuit/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Tue, 17 Nov 2026 14:08:18 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
         }
       ]
     },
@@ -927,13 +913,6 @@
           "url": "https://mondoweiss.net/2026/11/five-minutes-from-home-and-an-hour-at-a-checkpoint-life-in-the-occupied-west-bank/",
           "source": "Mondoweiss",
           "ts": "Wed, 18 Nov 2026 14:00:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Calling Party to Cut the Pentagon - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOXRaUWg0TXhESmZnc0ZvSG9EWEEwZEhfa1UzZDY1MDBoaVVkZmw4VWRmNGRXUEM0c0xOb1FFTVJZVDM0TERZcGxR?oc=5",
-          "source": "CODEPINK",
-          "ts": "Wed, 18 Nov 2026 01:51:15 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
