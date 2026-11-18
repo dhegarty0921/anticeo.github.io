@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:47:36.722912Z",
+  "generated_at": "2026-11-18T08:07:26.503551Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -19,7 +19,14 @@
           "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Nov 2026 07:10:15 +0000",
+          "ts": "Wed, 18 Nov 2026 07:43:35 +0000",
+          "section": ""
+        },
+        {
+          "title": "How important are Nvidia and Jensen Huang to the US economy?",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 18 Nov 2026 06:04:21 GMT",
           "section": ""
         },
         {
@@ -41,13 +48,6 @@
           "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Nov 2026 04:59:05 +0000",
-          "section": ""
-        },
-        {
-          "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-          "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 18 Nov 2026 04:57:06 GMT",
           "section": ""
         },
         {
@@ -289,27 +289,6 @@
           "section": ""
         },
         {
-          "title": "The European Union Watershed Moment, by Alastair Crooke",
-          "url": "https://www.unz.com/acrooke/the-european-union-watershed-moment/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 17 Nov 2026 05:00:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "EU Central Banker Plans to Plant Barren AI Crops Across the Continent, by Ilana Mercer",
-          "url": "https://www.unz.com/imercer/eu-central-banker-plans-to-plant-barren-ai-crops-across-the-continent/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 17 Nov 2026 05:00:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "Villains of Judea: David Wurmser, by Jose Alberto Nino",
-          "url": "https://www.unz.com/jnino/villains-of-judea-david-wurmser/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 17 Nov 2026 05:00:21 +0000",
-          "section": ""
-        },
-        {
           "title": "UCLA football’s undefeated season is turning heads nationwide — and more UCLA media",
           "url": "https://newsroom.ucla.edu/in-the-news/how-ucla-footballs-undefeated-season-is-turning-heads-nationwide-and-more-ucla-media",
           "source": "UCLA",
@@ -335,6 +314,13 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-lashes-out-reporter-white-house-renovations-1235656650/",
           "source": "Politics News",
           "ts": "Mon, 16 Nov 2026 22:01:14 +0000",
+          "section": ""
+        },
+        {
+          "title": "From womb to world: New atlas traces development of key human brain cells",
+          "url": "https://newsroom.ucla.edu/stories/womb-world-new-atlas-traces-development-key-human-brain-cells",
+          "source": "UCLA",
+          "ts": "Mon, 16 Nov 2026 19:14:00 GMT",
           "section": ""
         },
         {
@@ -418,6 +404,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Pope Leo denounces machismo, but the church’s debate over women tells another story",
+          "url": "https://religionnews.com/2026/11/18/pope-leo-women-machismo/",
+          "source": "RNS",
+          "ts": "Wed, 18 Nov 2026 08:00:38 +0000",
+          "section": ""
+        },
+        {
           "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
           "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
           "source": "US news | The Guardian",
@@ -492,13 +485,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-17T17:38:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Dallas woman sues Texas governor, Grand Prairie after Eid swim event cancellation",
-          "url": "https://religionnews.com/2026/11/17/cair-sues-abbott-over-cancellation-of-texas-eid-event/",
-          "source": "RNS",
-          "ts": "Tue, 17 Nov 2026 22:21:11 +0000",
           "section": ""
         },
         {
@@ -909,6 +895,20 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Turkish Foreign Minister says Israel cannot ensure security by destabilising neighbouring states",
+          "url": "https://www.middleeastmonitor.com/20261118-turkish-foreign-minister-says-israel-cannot-ensure-security-by-destabilising-neighbouring-states/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 18 Nov 2026 08:05:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Banning Palestine activists from the West will not save Israel’s image",
+          "url": "https://www.middleeastmonitor.com/20261118-banning-palestine-activists-from-the-west-will-not-save-israels-image/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 18 Nov 2026 07:55:13 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Iran Strike US Bases & Radars In Retaliation For Airstrikes",
           "url": "https://www.mintpressnews.com/iran-strike-us-bases-radars-in-retaliation-for-airstrikes/291306/",
           "source": "MintPress News",
@@ -934,20 +934,6 @@
           "url": "https://www.middleeastmonitor.com/20261117-un-rapporteurs-decry-rising-attacks-on-human-rights-defenders-in-occupied-west-bank/",
           "source": "Middle East Monitor",
           "ts": "Tue, 17 Nov 2026 19:54:11 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Bahrain urges UN Security Council action to halt Iranian attacks, secure compensation",
-          "url": "https://www.middleeastmonitor.com/20261117-bahrain-urges-un-security-council-action-to-halt-iranian-attacks-secure-compensation/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 17 Nov 2026 19:32:59 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Somali president accuses UAE of internal interference",
-          "url": "https://www.middleeastmonitor.com/20261117-somali-president-accuses-uae-of-internal-interference/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 17 Nov 2026 19:18:31 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
