@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:32:52.277284Z",
+  "generated_at": "2026-11-18T08:47:29.297323Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/18/philippine-police-detain-hundreds-protesting-trump-visit",
           "source": "Human Rights Watch News",
           "ts": "Wed, 18 Nov 2026 09:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6045411/rubio-outages-malign-actor",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 18 Nov 2026 03:27:50 -0500",
           "section": ""
         },
         {
@@ -181,13 +188,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/us-measles-endemic-vaccination-elimination-lost-pan-american-health-organization-rfk-hhs/",
           "source": "Mother Jones",
           "ts": "Tue, 17 Nov 2026 18:37:01 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
-          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
-          "source": "NPR Topics: News",
-          "ts": "Tue, 17 Nov 2026 13:34:31 -0500",
           "section": ""
         },
         {
@@ -542,6 +542,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine: Kyiv targets Krasnodar refineries after felling Kerch bridge",
+          "url": "https://www.dw.com/en/ukraine-kyiv-targets-krasnodar-refineries-after-felling-kerch-bridge/live-79976877?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-18T08:42:00Z",
+          "section": ""
+        },
+        {
+          "title": "Epstein’s death more likely homicide than suicide, forensic expert says",
+          "url": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 08:35:19 +0000",
+          "section": ""
+        },
+        {
           "title": "The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks",
           "url": "https://warontherocks.com/the-u-s-chinese-russian-summit-and-the-future-of-trilateral-nuclear-talks/",
           "source": "War on the Rocks",
@@ -560,13 +574,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/18/xis-pitch-for-free-trade-amid-trumps-global-trade-disruptions?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Wed, 18 Nov 2026 08:05:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh",
-          "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 07:54:15 +0000",
           "section": ""
         },
         {
@@ -610,13 +617,6 @@
           "source": "Global Research",
           "ts": "Wed, 18 Nov 2026 05:45:22 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "APEC summit: What Trump, Xi and Putin want",
-          "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-18T05:39:00Z",
-          "section": ""
         },
         {
           "title": "NATO aims to spur space industry, help militaries by joining data marketplace",
@@ -909,24 +909,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Saudi Arabia urges Iran to pursue diplomacy following attacks on Bahrain",
+          "url": "https://www.middleeastmonitor.com/20261118-saudi-arabia-urges-iran-to-pursue-diplomacy-following-attacks-on-bahrain/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 18 Nov 2026 08:42:36 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Tunisia reports sharp rise in voluntary returns of irregular migrants",
+          "url": "https://www.middleeastmonitor.com/20261118-tunisia-reports-sharp-rise-in-voluntary-returns-of-irregular-migrants/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 18 Nov 2026 08:33:29 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Irish Police purchase Israeli anti-drone systems despite previous procurement pledges",
           "url": "https://www.middleeastmonitor.com/20261118-irish-police-purchase-israeli-anti-drone-systems-despite-previous-procurement-pledges/",
           "source": "Middle East Monitor",
           "ts": "Wed, 18 Nov 2026 08:24:52 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Turkish Foreign Minister says Israel cannot ensure security by destabilising neighbouring states",
-          "url": "https://www.middleeastmonitor.com/20261118-turkish-foreign-minister-says-israel-cannot-ensure-security-by-destabilising-neighbouring-states/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 18 Nov 2026 08:05:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Banning Palestine activists from the West will not save Israel’s image",
-          "url": "https://www.middleeastmonitor.com/20261118-banning-palestine-activists-from-the-west-will-not-save-israels-image/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 18 Nov 2026 07:55:13 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -976,13 +976,6 @@
           "url": "https://thegrayzone.com/2026/11/14/mi5-sabotaging-oversight-law/",
           "source": "The Grayzone",
           "ts": "Sat, 14 Nov 2026 18:51:25 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "A Man Was Shot Dead in Broad Daylight. Israeli Authorities Couldn't Care Less - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNTXpwQjZ0Y2cxQW12X3lzLUN3bGpaTV9HdEpzdXNsUU9VcENadThERWpvZHYydjhSamY3VGFHanlpV2MxeE9tY25xYi1UQTRvcTFIZERpNk15TEUzWktEc1ZxMkZWX1ItVmZBZHowd01WTEEyY1hEUWo0MGFpU21fMzlURmZNeVc3Mm1rb2luRndINWM5TFZVQU9ZNHRFY0FwX0syeXh1QXpWS0RwYmtFOTI0RDA5WDBRbWRlTkREQ1RTYktjS3Y2ZjNROHRValEtUjUxSldjRUVlVGRSVXRoWVMyb0FpV2o0V0dZYTRYRFdsdC14RnZUQ0M5NndOVVg4LTlhbWZYX2Z4M0t2Q1hjdU0zT2JsUWVRYWZMbkxiRVJHbDNLQVZFcEdEVzc?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Sat, 14 Nov 2026 08:34:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
