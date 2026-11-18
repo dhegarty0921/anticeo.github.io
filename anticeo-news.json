@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T03:47:51.619937Z",
+  "generated_at": "2026-11-18T04:04:44.476771Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -13,6 +13,20 @@
           "url": "https://www.hrw.org/news/2026/11/18/philippine-police-detain-hundreds-protesting-trump-visit",
           "source": "Human Rights Watch News",
           "ts": "Wed, 18 Nov 2026 09:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Nov 2026 04:02:15 +0000",
+          "section": ""
+        },
+        {
+          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Nov 2026 03:49:36 +0000",
           "section": ""
         },
         {
@@ -51,13 +65,6 @@
           "section": ""
         },
         {
-          "title": "Mary Peltola Flips Alaska Senate Seat for Democrats",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Nov 2026 03:21:38 +0000",
-          "section": ""
-        },
-        {
           "title": "Beverly Hills school district is sued over the lunchtime pummeling of a student",
           "url": "https://www.latimes.com/california/story/2026-11-17/beverly-hills-school-district-sued-over-lunchtime-pummeling-of-student",
           "source": "California",
@@ -76,13 +83,6 @@
           "url": "https://news.antiwar.com/2026/11/17/trump-announces-new-quad-military-exercise-after-summit-in-philippines/?utm_source=rss&utm_medium=rss&utm_campaign=trump-announces-new-quad-military-exercise-after-summit-in-philippines",
           "source": "News From Antiwar.com",
           "ts": "Wed, 18 Nov 2026 01:40:17 +0000",
-          "section": ""
-        },
-        {
-          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Nov 2026 01:36:41 +0000",
           "section": ""
         },
         {
@@ -335,13 +335,6 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-lashes-out-reporter-white-house-renovations-1235656650/",
           "source": "Politics News",
           "ts": "Mon, 16 Nov 2026 22:01:14 +0000",
-          "section": ""
-        },
-        {
-          "title": "From womb to world: New atlas traces development of key human brain cells",
-          "url": "https://newsroom.ucla.edu/stories/womb-world-new-atlas-traces-development-key-human-brain-cells",
-          "source": "UCLA",
-          "ts": "Mon, 16 Nov 2026 19:14:00 GMT",
           "section": ""
         },
         {
@@ -647,10 +640,24 @@
           "section": ""
         },
         {
+          "title": "UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare",
+          "url": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:59:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
           "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T20:40:00Z",
+          "section": ""
+        },
+        {
+          "title": "Hanwha Successfully Test-Fires Chunmoo Missile from Maritime Palletized Launcher",
+          "url": "https://www.navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:16:58 +0000",
           "section": ""
         },
         {
@@ -717,6 +724,13 @@
           "section": ""
         },
         {
+          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
+          "url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 16:31:35 +0000",
+          "section": ""
+        },
+        {
           "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
           "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
           "source": "War on the Rocks",
@@ -768,6 +782,13 @@
           "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box",
           "source": "Deeplinks",
           "ts": "Wed, 18 Nov 2026 15:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two Video Games With Identical Names Went Way Beyond Managing To Coexist",
+          "url": "https://www.techdirt.com/2026/11/17/two-video-games-with-identical-names-went-way-beyond-managing-to-coexist/",
+          "source": "Techdirt",
+          "ts": "Wed, 18 Nov 2026 04:00:49 +0000",
           "section": ""
         },
         {
@@ -838,13 +859,6 @@
           "url": "https://theintercept.com/2026/11/17/van-hollen-schumer-israel-palestine-senate/",
           "source": "The Intercept",
           "ts": "Tue, 17 Nov 2026 19:54:19 +0000",
-          "section": ""
-        },
-        {
-          "title": "Pissed-Off Judge Orders Release Of Canadian Man Arrested By ICE During Green Card Interview",
-          "url": "https://www.techdirt.com/2026/11/17/pissed-off-judge-orders-release-of-canadian-man-arrested-by-ice-during-green-card-interview/",
-          "source": "Techdirt",
-          "ts": "Tue, 17 Nov 2026 19:10:35 +0000",
           "section": ""
         },
         {
