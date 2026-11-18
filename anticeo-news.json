@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-18T00:09:32.710092Z",
+  "generated_at": "2026-11-18T00:39:26.095961Z",
   "headline": {
-    "title": "A National Meltdown With Nobody Manning the Help Desk",
-    "url": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html"
+    "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+    "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
-          "title": "A National Meltdown With Nobody Manning the Help Desk",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html",
+          "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 18 Nov 2026 00:28:01 GMT",
+          "section": ""
+        },
+        {
+          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Nov 2026 00:05:32 +0000",
+          "ts": "Wed, 18 Nov 2026 00:17:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Metrolink CEO Darren Kettle to step down amid criticism over rail agency's operations",
+          "url": "https://www.latimes.com/california/story/2026-11-17/metrolink-ceo-darren-kettle-to-step-down-amid-criticism-over-rail-agencys-operations",
+          "source": "California",
+          "ts": "Wed, 18 Nov 2026 00:08:47 GMT",
           "section": ""
         },
         {
@@ -27,13 +41,6 @@
           "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 17 Nov 2026 23:25:32 +0000",
-          "section": ""
-        },
-        {
-          "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 17 Nov 2026 23:03:39 GMT",
           "section": ""
         },
         {
@@ -153,13 +160,6 @@
           "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
           "source": "NPR Topics: News",
           "ts": "Tue, 17 Nov 2026 13:34:31 -0500",
-          "section": ""
-        },
-        {
-          "title": "You were caught up in the FAA airport chaos. Are you entitled to a refund?",
-          "url": "https://www.latimes.com/california/story/2026-11-17/you-were-caught-up-in-faa-airport-chaos-are-you-entitled-to-refund",
-          "source": "California",
-          "ts": "Tue, 17 Nov 2026 18:04:54 GMT",
           "section": ""
         },
         {
@@ -345,13 +345,6 @@
           "section": ""
         },
         {
-          "title": "UCLA scientists put a lid on tiny test tubes, opening new frontiers for cell research",
-          "url": "https://newsroom.ucla.edu/releases/scientists-put-lid-tiny-test-tubes-opening-new-possibilities-cell-research",
-          "source": "UCLA",
-          "ts": "Mon, 16 Nov 2026 17:00:00 GMT",
-          "section": ""
-        },
-        {
           "title": "Trump Was Reportedly Meeting With Jon Voight During Flight-Grounding Crisis",
           "url": "https://www.rollingstone.com/politics/politics-news/trump-jon-voight-hollywood-faa-ground-stop-1235659026/",
           "source": "Politics News",
@@ -411,10 +404,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Nov 2026 00:21:33 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 23:59:24 GMT",
+          "ts": "Wed, 18 Nov 2026 00:15:32 GMT",
+          "section": ""
+        },
+        {
+          "title": "Man accused of destroying US military plane at Shannon airport in Ireland",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Nov 2026 00:06:15 GMT",
           "section": ""
         },
         {
@@ -422,13 +429,6 @@
           "url": "https://www.vox.com/podcasts/510923/democratic-leadership-fight-van-hollen-schumer-jeffries",
           "source": "Vox",
           "ts": "2026-11-17T18:45:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 23:28:22 GMT",
           "section": ""
         },
         {
@@ -464,13 +464,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-17T17:38:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
-          "url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 22:24:46 GMT",
           "section": ""
         },
         {
@@ -542,6 +535,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Nvidia beats Q3 expectations in first report post-Jensen Huang",
+          "url": "https://www.dw.com/en/nvidia-beats-q3-expectations-in-first-report-post-jensen-huang/a-79975683?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-18T00:34:00Z",
+          "section": ""
+        },
+        {
+          "title": "Forensic experts claim Epstein was strangled to death",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 00:17:23 +0000",
+          "section": ""
+        },
+        {
+          "title": "Why China’s Shenzhen was chosen for APEC summit",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 00:16:26 +0000",
+          "section": ""
+        },
+        {
           "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
           "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -553,20 +567,6 @@
           "url": "https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
           "source": "TWZ",
           "ts": "Tue, 17 Nov 2026 18:39:58 -0500",
-          "section": ""
-        },
-        {
-          "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-          "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 23:38:38 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
-          "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 23:28:54 +0000",
           "section": ""
         },
         {
@@ -612,10 +612,24 @@
           "section": ""
         },
         {
+          "title": "UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare",
+          "url": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:59:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
           "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T20:40:00Z",
+          "section": ""
+        },
+        {
+          "title": "Hanwha Successfully Test-Fires Chunmoo Missile from Maritime Palletized Launcher",
+          "url": "https://www.navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:16:58 +0000",
           "section": ""
         },
         {
@@ -644,13 +658,6 @@
           "url": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T18:39:00Z",
-          "section": ""
-        },
-        {
-          "title": "Deutsche Bank under fire after internal documents made public",
-          "url": "https://www.dw.com/en/deutsche-bank-under-fire-after-internal-documents-made-public/a-79974543?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-17T18:32:00Z",
           "section": ""
         },
         {
@@ -693,6 +700,13 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/17/civilian-staff-shortages-disrupt-essential-services-at-isolated-bases-report-finds/",
           "source": "News - Army Times",
           "ts": "Tue, 17 Nov 2026 16:52:56 +0000",
+          "section": ""
+        },
+        {
+          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
+          "url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 16:31:35 +0000",
           "section": ""
         },
         {
