@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T04:47:44.681733Z",
+  "generated_at": "2026-11-18T05:04:29.130969Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -16,17 +16,17 @@
           "section": ""
         },
         {
+          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Nov 2026 04:59:05 +0000",
+          "section": ""
+        },
+        {
           "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Nov 2026 04:18:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "After Days of Digital Outages, Americans Wonder if the Country Is Breaking",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 18 Nov 2026 03:49:36 +0000",
           "section": ""
         },
         {
@@ -100,10 +100,17 @@
           "section": ""
         },
         {
-          "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+          "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
+          "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Tue, 17 Nov 2026 23:02:12 GMT",
+          "ts": "Wed, 18 Nov 2026 00:39:06 GMT",
+          "section": ""
+        },
+        {
+          "title": "Burnham to set out options next month for long-term EU relationship",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 17 Nov 2026 23:40:58 GMT",
           "section": ""
         },
         {
@@ -139,13 +146,6 @@
           "url": "https://truthout.org/articles/trump-says-nationwide-outages-are-fine-as-more-systems-go-down/",
           "source": "Truthout",
           "ts": "Tue, 17 Nov 2026 21:53:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 17 Nov 2026 20:25:46 GMT",
           "section": ""
         },
         {
@@ -763,13 +763,6 @@
           "url": "https://www.moonofalabama.org/2026/11/iran-open-thread-2026-255.html",
           "source": "Moon of Alabama",
           "ts": "Sun, 15 Nov 2026 10:21:31 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Rise and Fall of US Defense Secretary Pete Hegseth - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRjdpRjg0QW5uN1ZNbnVVdm1lak5kYWhVOTRBMEU5ZzJwOFRRdllxWXFJaWRxNGMxNjBHckE1TG9DZmxmVTY4LTZQVUVMdFI4dEtuOTY0Y09pNU9vUk9TRm9HVm4xX0JTZWxoNU5GRlMzQy1maF8wcEdQSVFGeGtSWUhvb3pxb3JJbWJqLVh3RjlWSkRm?oc=5",
-          "source": "via Google News",
-          "ts": "Sat, 14 Nov 2026 05:02:28 GMT",
           "section": ""
         }
       ]
