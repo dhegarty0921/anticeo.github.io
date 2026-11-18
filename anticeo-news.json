@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:07:26.503551Z",
+  "generated_at": "2026-11-18T08:22:25.408478Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/18/philippine-police-detain-hundreds-protesting-trump-visit",
           "source": "Human Rights Watch News",
           "ts": "Wed, 18 Nov 2026 09:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Santa Ana suspends its Flock license plate reader camera system",
+          "url": "https://www.latimes.com/california/story/2026-11-18/santa-ana-suspends-its-flock-license-plate-reader-camera-system",
+          "source": "California",
+          "ts": "Wed, 18 Nov 2026 08:06:19 GMT",
           "section": ""
         },
         {
@@ -93,13 +100,6 @@
           "section": ""
         },
         {
-          "title": "Franklin High teen instigated physical altercation before fatal fall, new report states",
-          "url": "https://www.latimes.com/california/story/2026-11-17/franklin-high-student-altercation-fatal-fall-medical-examiner-report-lausd",
-          "source": "California",
-          "ts": "Wed, 18 Nov 2026 02:14:16 GMT",
-          "section": ""
-        },
-        {
           "title": "Trump Announces New Quad Military Exercise After Summit in Philippines",
           "url": "https://news.antiwar.com/2026/11/17/trump-announces-new-quad-military-exercise-after-summit-in-philippines/?utm_source=rss&utm_medium=rss&utm_campaign=trump-announces-new-quad-military-exercise-after-summit-in-philippines",
           "source": "News From Antiwar.com",
@@ -156,7 +156,7 @@
           "section": ""
         },
         {
-          "title": "Workers Who Make Chicago’s Transit Seats Want One at the Negotiation Table",
+          "title": "A Seat of One’s Own",
           "url": "https://inthesetimes.com/article/freedman-seating-company-workers-chicago-west-side-cba-transit",
           "source": "In These Times",
           "ts": "Tue, 17 Nov 2026 13:30:00 -0600",
@@ -247,7 +247,7 @@
           "section": ""
         },
         {
-          "title": "Ben & Jerry’s Founders Have Identified the Perfect Owner - Bloomberg",
+          "title": "Ben & Jerry’s Founders Have Identified the Perfect Owner - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmNFaS1WSTUzTzA5RmVadmsxZ3NydFlBeUEyNUNqSFRKUnZ4bGpsQWpJSnM0bHY2eUx2WXdnSHJkbzhVSlBQQm1pMU40VW9vWnRZLU1sNEtkRnN4R2tHSGQya180Tm1BU0ZiSlQ2VVJJODBUcmdBUHJ0dGxHRlpSSFhiVkk1eGt3Q3E2WmxEcmk0QzQtLWhDQ1dzNW9TTWhvOWRsTWxxdW9yclhzMGNLUw?oc=5",
           "source": "Ben Cohen (Ben & Jerry's)",
           "ts": "Tue, 17 Nov 2026 12:30:04 GMT",
@@ -286,6 +286,27 @@
           "url": "https://www.propublica.org/article/public-land-data-center-ban-burgum-congress",
           "source": "ProPublica",
           "ts": "Tue, 17 Nov 2026 10:30:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "The European Union Watershed Moment, by Alastair Crooke",
+          "url": "https://www.unz.com/acrooke/the-european-union-watershed-moment/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 17 Nov 2026 05:00:52 +0000",
+          "section": ""
+        },
+        {
+          "title": "EU Central Banker Plans to Plant Barren AI Crops Across the Continent, by Ilana Mercer",
+          "url": "https://www.unz.com/imercer/eu-central-banker-plans-to-plant-barren-ai-crops-across-the-continent/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 17 Nov 2026 05:00:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Villains of Judea: David Wurmser, by Jose Alberto Nino",
+          "url": "https://www.unz.com/jnino/villains-of-judea-david-wurmser/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 17 Nov 2026 05:00:21 +0000",
           "section": ""
         },
         {
@@ -535,6 +556,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh",
+          "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 07:54:15 +0000",
+          "section": ""
+        },
+        {
+          "title": "Russia, China should ‘lead’ push to multipolar world, Xi tells APEC summit",
+          "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 07:50:47 +0000",
+          "section": ""
+        },
+        {
           "title": "Hungry, unpaid and afraid: Africa’s journalists pushed to the brink",
           "url": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -574,20 +609,6 @@
           "url": "https://www.dw.com/en/us-democrats-flip-alaska-senate-seat-as-mary-peltola-wins-race/a-79976628?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-18T06:27:00Z",
-          "section": ""
-        },
-        {
-          "title": "Africa’s economic future cannot depend on Washington",
-          "url": "https://www.aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 06:22:59 +0000",
-          "section": ""
-        },
-        {
-          "title": "How the Houthis fund war effort and tighten grip on Yemen",
-          "url": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 06:19:17 +0000",
           "section": ""
         },
         {
