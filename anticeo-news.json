@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:17:35.514037Z",
+  "generated_at": "2026-11-18T17:33:36.591202Z",
   "headline": {
     "title": "Sudan: Transfer War Crimes Suspects to ICC",
     "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc"
@@ -13,6 +13,13 @@
           "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Wed, 18 Nov 2026 17:15:08 +0000",
+          "section": ""
+        },
+        {
+          "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6045636/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+          "source": "NPR Topics: News",
+          "ts": "Wed, 18 Nov 2026 12:10:44 -0500",
           "section": ""
         },
         {
@@ -160,13 +167,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/congress-democracy-reform/",
           "source": "Mother Jones",
           "ts": "Wed, 18 Nov 2026 12:30:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
-          "url": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
-          "source": "NPR Topics: Politics",
-          "ts": "Wed, 18 Nov 2026 07:14:28 -0500",
           "section": ""
         },
         {
@@ -397,6 +397,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Anti-vaccine group once led by RFK Jr back on Facebook and Instagram after being banned",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/rfk-jr-childrens-health-defense-meta",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 18 Nov 2026 17:13:23 GMT",
+          "section": ""
+        },
+        {
           "title": "California Republicans won only four of state’s 52 US House seats in midterms",
           "url": "https://www.theguardian.com/us-news/2026/nov/18/california-republicans-us-house",
           "source": "US news | The Guardian",
@@ -415,13 +422,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/18/brooklyn-building-collapse-lawsuit",
           "source": "US news | The Guardian",
           "ts": "Wed, 18 Nov 2026 16:57:26 GMT",
-          "section": ""
-        },
-        {
-          "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 18 Nov 2026 16:53:41 GMT",
           "section": ""
         },
         {
@@ -535,10 +535,45 @@
           "section": ""
         },
         {
+          "title": "Iran Open Thread 2026-258",
+          "url": "https://www.moonofalabama.org/2026/11/iran-open-thread-2026-258.html",
+          "source": "Moon of Alabama",
+          "ts": "Wed, 18 Nov 2026 17:31:06 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ukraine Open Thread 2026-257",
+          "url": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-257.html",
+          "source": "Moon of Alabama",
+          "ts": "Wed, 18 Nov 2026 17:30:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "Open (Not Ukraine or Iran) Thread 2026-256",
+          "url": "https://www.moonofalabama.org/2026/11/open-not-ukraine-or-iran-thread-2026-256.html",
+          "source": "Moon of Alabama",
+          "ts": "Wed, 18 Nov 2026 17:30:10 +0000",
+          "section": ""
+        },
+        {
           "title": "What makes 'Grand Theft Auto VI' more than just a game?",
           "url": "https://www.dw.com/en/what-makes-grand-theft-auto-vi-more-than-just-a-game/a-79965822?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-18T17:13:00Z",
+          "section": ""
+        },
+        {
+          "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+          "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 16:47:26 +0000",
+          "section": ""
+        },
+        {
+          "title": "World Bank official says Lebanon reconstruction making slow progress",
+          "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 16:44:59 +0000",
           "section": ""
         },
         {
@@ -563,24 +598,17 @@
           "section": ""
         },
         {
-          "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 16:28:54 +0000",
-          "section": ""
-        },
-        {
-          "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 16:16:48 +0000",
-          "section": ""
-        },
-        {
           "title": "US House Democrats nominate Hakeem Jeffries for speaker",
           "url": "https://www.dw.com/en/us-house-democrats-nominate-hakeem-jeffries-for-speaker/a-79983827?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-18T15:46:00Z",
+          "section": ""
+        },
+        {
+          "title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
+          "url": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 15:42:53 +0000",
           "section": ""
         },
         {
@@ -616,6 +644,20 @@
           "url": "https://www.armytimes.com/veterans/2026/11/18/safety-warnings-went-unresolved-during-va-health-record-modernization-former-employee-claims/",
           "source": "News - Army Times",
           "ts": "Wed, 18 Nov 2026 13:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Mistral in a Box: MBDA Revives SPIMM Concept Against Drones",
+          "url": "https://www.navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 12:29:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "Italy Confirms New National VLS for Deep-Strike and Hypersonic Defense",
+          "url": "https://www.navalnews.com/naval-news/2026/11/italy-confirms-new-national-vls-for-deep-strike-and-hypersonic-defense/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 09:20:58 +0000",
           "section": ""
         },
         {
@@ -696,13 +738,6 @@
           "section": ""
         },
         {
-          "title": "Ukraine  – Fourth NATO/U.S. Strike On Kerch Bridge Takes Down Road Span",
-          "url": "https://www.moonofalabama.org/2026/11/ukraine-fourth-nato-u-s-strike-on-kerch-bridge-takes-down-road-span.html",
-          "source": "Moon of Alabama",
-          "ts": "Tue, 17 Nov 2026 18:58:34 +0000",
-          "section": ""
-        },
-        {
           "title": "Keeping America Out: Revisiting China’s Deterrence Strategy for Taiwan",
           "url": "https://warontherocks.com/keeping-america-out-revisiting-chinas-deterrence-strategy-for-taiwan/",
           "source": "War on the Rocks",
@@ -722,26 +757,19 @@
           "source": "Defense One - All Content",
           "ts": "Tue, 17 Nov 2026 12:17:00 -0500",
           "section": ""
-        },
-        {
-          "title": "NY Times ‘Suggests’ New Bombing Targets In Iran",
-          "url": "https://www.moonofalabama.org/2026/11/ny-times-suggests-new-bombing-targets-in-iran.html",
-          "source": "Moon of Alabama",
-          "ts": "Mon, 16 Nov 2026 19:54:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran Open Thread 2026-255",
-          "url": "https://www.moonofalabama.org/2026/11/iran-open-thread-2026-255.html",
-          "source": "Moon of Alabama",
-          "ts": "Sun, 15 Nov 2026 10:21:31 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "Our Dipshit DHS Secretary’s Outage Expert: “One Guy That’s Very Smart With Tech”",
+          "url": "https://www.techdirt.com/2026/11/18/our-dipshit-dhs-secretarys-outage-expert-one-guy-thats-very-smart-with-tech/",
+          "source": "Techdirt",
+          "ts": "Wed, 18 Nov 2026 17:31:30 +0000",
+          "section": ""
+        },
         {
           "title": "Israel launches ground operation in central Gaza; Jeffries wins speaker nomination; NSA’s internal comms system goes down",
           "url": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
@@ -810,13 +838,6 @@
           "url": "https://www.dropsitenews.com/p/climate-cop31-competitiveness-roundtable",
           "source": "Drop Site News",
           "ts": "Wed, 18 Nov 2026 02:15:26 GMT",
-          "section": ""
-        },
-        {
-          "title": "Robbie Williams Defends Olivia Rodrigo, Calls Song-Similarity Claims ‘Ambulance Chasing’",
-          "url": "https://www.techdirt.com/2026/11/17/robbie-williams-defends-olivia-rodrigo-calls-song-similarity-claims-ambulance-chasing/",
-          "source": "Techdirt",
-          "ts": "Tue, 17 Nov 2026 23:18:35 +0000",
           "section": ""
         },
         {
@@ -934,13 +955,6 @@
           "url": "https://mondoweiss.net/2026/11/el-sayed-coverage-shows-how-the-media-is-out-of-step-with-the-public-on-israel/",
           "source": "Mondoweiss",
           "ts": "Mon, 16 Nov 2026 17:30:16 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Opinion | Israel bombed another hospital in Gaza. So what? - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ19RYjZmUWNqMGlaQ3VhMGRzS0N6Y29QU0hrV01wQWdzV1RDS1dSRXFGbW5XSEFKZENUNFIzaEQ0LUJOVUt2TklZYlhGQUVYOWM5bTVLZ0gyTHptLVd2aHNWM0R0SVhwWk9mZnY2S2pBRnZLRE9HaWE5VU92ZV9WMXF2Z1V4Y1l5c3AzMTFGd0hWaTZrNWM5LV9ENmFrVXRfeGFWcElWMXBoMzN0em5hdzhsMV9oMERJMDNGWlYtR1N1dV9iTWhGeTYzOFI0Z1hSWXUwcEowWldiZUJoTVJUVXFKdVpKWWlXRWFad09JQVlERHVRbzRSNA?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Sun, 15 Nov 2026 01:21:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
