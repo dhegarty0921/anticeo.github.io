@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:47:49.252865Z",
+  "generated_at": "2026-11-18T02:05:15.701203Z",
   "headline": {
     "title": "Voters Reject ALPRs and Surveillance Tech at the Ballot Box",
     "url": "https://www.eff.org/deeplinks/2026/11/voters-reject-alprs-and-surveillance-tech-ballot-box"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/18/philippine-police-detain-hundreds-protesting-trump-visit",
           "source": "Human Rights Watch News",
           "ts": "Wed, 18 Nov 2026 09:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Mayor-elect Raman calls for special election to fill her City Council seat",
+          "url": "https://www.latimes.com/california/story/2026-11-17/raman-calls-for-special-election-to-fill-her-council-seat",
+          "source": "California",
+          "ts": "Wed, 18 Nov 2026 01:50:25 GMT",
           "section": ""
         },
         {
@@ -83,13 +90,6 @@
           "url": "https://www.currentaffairs.org/news/accept-no-substitute-for-socialism",
           "source": "blog",
           "ts": "Tue, 17 Nov 2026 23:01:16 GMT",
-          "section": ""
-        },
-        {
-          "title": "Explosive trash geyser heightens fear of health crisis around troubled L.A. area landfill",
-          "url": "https://www.latimes.com/california/story/2026-11-17/la-me-landfill-geyser",
-          "source": "California",
-          "ts": "Tue, 17 Nov 2026 22:46:46 GMT",
           "section": ""
         },
         {
@@ -167,13 +167,6 @@
           "url": "https://thelalocal.org/neighborhoods/westlake/macarthur-park-chain-link-fence-temporary-permanent-fence-november-2026/",
           "source": "LA Local",
           "ts": "Tue, 17 Nov 2026 19:06:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Reginald Foreman’s death rattled South LA, then his murder investigation divided it",
-          "url": "https://thelalocal.org/neighborhoods/south-la/reginald-foremans-death-rattled-south-la-then-his-murder-investigation-divided-it/",
-          "source": "LA Local",
-          "ts": "Tue, 17 Nov 2026 18:52:44 +0000",
           "section": ""
         },
         {
@@ -345,13 +338,6 @@
           "section": ""
         },
         {
-          "title": "From womb to world: New atlas traces development of key human brain cells",
-          "url": "https://newsroom.ucla.edu/stories/womb-world-new-atlas-traces-development-key-human-brain-cells",
-          "source": "UCLA",
-          "ts": "Mon, 16 Nov 2026 19:14:00 GMT",
-          "section": ""
-        },
-        {
           "title": "ACLU Holiday Gift Guide for Feel-Good Gifts That Give Back",
           "url": "https://www.aclu.org/news/free-speech/aclu-holiday-gift-guide-for-feel-good-gifts-that-give-back",
           "source": "Posts | American Civil Liberties Union",
@@ -370,6 +356,13 @@
           "url": "https://www.rollingstone.com/politics/politics-news/trump-jon-voight-hollywood-faa-ground-stop-1235659026/",
           "source": "Politics News",
           "ts": "Mon, 16 Nov 2026 16:19:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘No Deal’? Fine—Then Leave",
+          "url": "https://www.theamericanconservative.com/no-deal-fine-then-leave/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Mon, 16 Nov 2026 16:16:04 +0000",
           "section": ""
         },
         {
@@ -428,7 +421,7 @@
           "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 18 Nov 2026 01:33:13 GMT",
+          "ts": "Wed, 18 Nov 2026 01:41:35 GMT",
           "section": ""
         },
         {
@@ -605,6 +598,13 @@
           "section": ""
         },
         {
+          "title": "NEW BOOK: Rethinking US-Korea Policy for Stability and Coexistence on the Korean Peninsula",
+          "url": "https://quincyinst.org/2026/11/17/new-book-rethinking-us-korea-policy-for-stability-and-coexistence-on-the-korean-peninsula/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Tue, 17 Nov 2026 22:51:48 +0000",
+          "section": ""
+        },
+        {
           "title": "Ukraine Strikes Russia’s Crimean Bridge For Second Day, Collapsing Roadway Arch",
           "url": "https://news.antiwar.com/2026/11/17/ukraine-strikes-russias-crimean-bridge-for-second-day-collapsing-roadway-arch/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-strikes-russias-crimean-bridge-for-second-day-collapsing-roadway-arch",
           "source": "News From Antiwar.com",
@@ -633,10 +633,24 @@
           "section": ""
         },
         {
+          "title": "UDT Australia 2026: Conference Discussions to be Catalyst for Converting Australian Debate on Undersea Warfare",
+          "url": "https://www.navalnews.com/naval-news/2026/11/udt-australia-2026-undersea-warfare-debate/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:59:30 +0000",
+          "section": ""
+        },
+        {
           "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
           "url": "https://www.dw.com/en/hashim-thaci-s-second-conviction-in-the-hague-reignites-debate-in-kosovo-about-justice-and-the-kosovo-specialist-chambers/a-79975227?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-17T20:40:00Z",
+          "section": ""
+        },
+        {
+          "title": "Hanwha Successfully Test-Fires Chunmoo Missile from Maritime Palletized Launcher",
+          "url": "https://www.navalnews.com/naval-news/2026/11/hanwha-successfully-test-fires-chunmoo-missile-from-maritime-palletized-launcher/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 20:16:58 +0000",
           "section": ""
         },
         {
@@ -710,6 +724,13 @@
           "section": ""
         },
         {
+          "title": "Eastern Shipbuilding to Build Grand Block Units for Future USS Telesforo Trinidad (DDG 139)",
+          "url": "https://www.navalnews.com/naval-news/2026/11/eastern-shipbuilding-to-build-grand-block-units-for-future-uss-telesforo-trinidad-ddg-139/",
+          "source": "Naval News",
+          "ts": "Tue, 17 Nov 2026 16:31:35 +0000",
+          "section": ""
+        },
+        {
           "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
           "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
           "source": "War on the Rocks",
@@ -728,6 +749,13 @@
           "url": "https://www.moonofalabama.org/2026/11/ny-times-suggests-new-bombing-targets-in-iran.html",
           "source": "Moon of Alabama",
           "ts": "Mon, 16 Nov 2026 19:54:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "$1.5 Trillion Pentagon Budget Request DOA after Midterms, But Global Defense Spending Could Still Hit $8 Trillion",
+          "url": "https://fortune.com/2026/11/15/pentagon-military-budget-in-jeopardy-global-defense-spending-hit-8-trillion/",
+          "source": "Quincy Institute for Responsible Statecraft",
+          "ts": "Sun, 15 Nov 2026 20:03:00 +0000",
           "section": ""
         },
         {
