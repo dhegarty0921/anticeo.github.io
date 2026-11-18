@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-17T23:47:27.672257Z",
+  "generated_at": "2026-11-18T00:09:32.710092Z",
   "headline": {
-    "title": "The case for new Democratic leadership",
-    "url": "https://www.vox.com/podcasts/510923/democratic-leadership-fight-van-hollen-schumer-jeffries"
+    "title": "A National Meltdown With Nobody Manning the Help Desk",
+    "url": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "A National Meltdown With Nobody Manning the Help Desk",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/national-computer-freakout.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 18 Nov 2026 00:05:32 +0000",
+          "section": ""
+        },
         {
           "title": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html",
@@ -19,14 +26,7 @@
           "title": "Hakeem Jeffries Embraces Medicare Expansion on Eve of Speaker Vote",
           "url": "https://www.nytimes.com/2026/11/17/us/politics/jeffries-medicare-expansion.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Nov 2026 23:25:31 +0000",
-          "section": ""
-        },
-        {
-          "title": "For Democrats, a Leadership Fight Is Marring an Electoral Triumph",
-          "url": "https://www.nytimes.com/2026/11/17/us/politics/democrats-leadership-battle-schumer-van-hollen.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Tue, 17 Nov 2026 23:23:41 +0000",
+          "ts": "Tue, 17 Nov 2026 23:25:32 +0000",
           "section": ""
         },
         {
@@ -160,13 +160,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-17/you-were-caught-up-in-faa-airport-chaos-are-you-entitled-to-refund",
           "source": "California",
           "ts": "Tue, 17 Nov 2026 18:04:54 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump on All Those Outages:  “It’s Fine”",
-          "url": "https://www.motherjones.com/politics/2026/11/trump-on-all-those-outages-its-fine/",
-          "source": "Mother Jones",
-          "ts": "Tue, 17 Nov 2026 17:45:43 +0000",
           "section": ""
         },
         {
@@ -418,6 +411,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Tue, 17 Nov 2026 23:59:24 GMT",
+          "section": ""
+        },
+        {
           "title": "The case for new Democratic leadership",
           "url": "https://www.vox.com/podcasts/510923/democratic-leadership-fight-van-hollen-schumer-jeffries",
           "source": "Vox",
@@ -425,17 +425,10 @@
           "section": ""
         },
         {
-          "title": "First responders describe rescue efforts after New Orleans boat crash: ‘we have to save each other’",
+          "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
           "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
           "source": "US news | The Guardian",
           "ts": "Tue, 17 Nov 2026 23:28:22 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Tue, 17 Nov 2026 23:25:05 GMT",
           "section": ""
         },
         {
@@ -467,7 +460,7 @@
           "section": ""
         },
         {
-          "title": "Why Does Rubio Sound So Nasty Lately?",
+          "title": "Diplomacy, but Make It Obnoxious",
           "url": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-17T17:38:00-05:00",
@@ -549,6 +542,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 18 Nov 2026 00:00:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Russian Tu-95 Bombers Arrive In Vietnam After Flurry Of Northeast Asia Air Alerts",
           "url": "https://www.twz.com/air/russian-bombers-arrive-in-vietnam-after-flurry-of-northeast-asia-air-alerts",
           "source": "TWZ",
@@ -556,17 +556,17 @@
           "section": ""
         },
         {
-          "title": "Top spy agency suffers network outage, the latest US technical failure",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+          "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+          "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 23:19:12 +0000",
+          "ts": "Tue, 17 Nov 2026 23:38:38 +0000",
           "section": ""
         },
         {
-          "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-          "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+          "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+          "url": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 23:09:00 +0000",
+          "ts": "Tue, 17 Nov 2026 23:28:54 +0000",
           "section": ""
         },
         {
@@ -581,13 +581,6 @@
           "url": "https://news.antiwar.com/2026/11/17/ukraine-strikes-russias-crimean-bridge-for-second-day-collapsing-roadway-arch/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-strikes-russias-crimean-bridge-for-second-day-collapsing-roadway-arch",
           "source": "News From Antiwar.com",
           "ts": "Tue, 17 Nov 2026 22:45:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Russian military plane crash in Siberia kills 19",
-          "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 17 Nov 2026 22:21:16 +0000",
           "section": ""
         },
         {
@@ -983,6 +976,13 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
+        {
+          "title": "Greg Bovino Is Still Begging For Attention",
+          "url": "https://www.motherjones.com/politics/2026/11/greg-bovino-rutgers-new-jersey-republicans-speech-protest-media-attention/",
+          "source": "Mother Jones",
+          "ts": "Wed, 18 Nov 2026 00:03:20 +0000",
+          "section": ""
+        },
         {
           "title": "Protesters rally against ICE arrests at routine immigration appointments in LA County",
           "url": "https://lapublicpress.org/2026/11/ice-protest-uscis-center-immigrants-detained-rapid-response/",
