@@ -1,18 +1,39 @@
 {
-  "generated_at": "2026-11-19T11:17:49.759602Z",
+  "generated_at": "2026-11-19T11:32:09.516325Z",
   "headline": {
-    "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-    "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html"
+    "title": "World Court Finds Myanmar Responsible for Rohingya Genocide",
+    "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-responsible-for-rohingya-genocide"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "World Court Finds Myanmar Responsible for Rohingya Genocide",
+          "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-responsible-for-rohingya-genocide",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 19 Nov 2026 06:30:00 -0500",
+          "section": ""
+        },
+        {
           "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
           "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Nov 2026 11:03:53 +0000",
+          "ts": "Thu, 19 Nov 2026 11:27:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "Strictly’s Vito Coppola and Carlos Gu hit back at criticism of ‘sexualised’ same-sex dance",
+          "url": "https://www.thepinknews.com/2026/11/19/strictly-vito-coppola-carlos-gu-criticism-same-sex-dance/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 19 Nov 2026 11:25:12 +0000",
+          "section": ""
+        },
+        {
+          "title": "Jonathan Bailey’s Shameless Fund partners with Burberry to raise money for LGBTQ+ causes",
+          "url": "https://www.thepinknews.com/2026/11/19/jonathan-bailey-the-shameless-fund-burberry/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 19 Nov 2026 11:15:59 +0000",
           "section": ""
         },
         {
@@ -20,13 +41,6 @@
           "url": "https://www.thepinknews.com/2026/11/19/gta-6-furry-law/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 19 Nov 2026 11:03:31 +0000",
-          "section": ""
-        },
-        {
-          "title": "Montana judge blocks enforcement of bill that defines sex as binary",
-          "url": "https://www.thepinknews.com/2026/11/19/montana-sex-bill-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 19 Nov 2026 11:00:06 +0000",
           "section": ""
         },
         {
@@ -48,13 +62,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-19/california-prosecutors-newsom-death-penalty-commutation-challenge",
           "source": "California",
           "ts": "Thu, 19 Nov 2026 11:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Khloe Kardashian suggests she could be demisexual in celibacy chat",
-          "url": "https://www.thepinknews.com/2026/11/19/khloe-kardashian-demisexuality-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Thu, 19 Nov 2026 10:49:21 +0000",
           "section": ""
         },
         {
@@ -261,13 +268,6 @@
           "section": ""
         },
         {
-          "title": "Burkina Faso Targets Critics in Exile",
-          "url": "https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 18 Nov 2026 16:01:13 -0500",
-          "section": ""
-        },
-        {
           "title": "“The Devils” Is the Perfect Film For Our Times",
           "url": "https://www.currentaffairs.org/news/the-devils-is-the-perfect-film-for-our-times",
           "source": "blog",
@@ -352,13 +352,6 @@
           "section": ""
         },
         {
-          "title": "Illegal Settlers Kill 60-Year-Old Palestinian Woman, Wound 10 Near Jericho - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNczE4TmRFZTM3VTUteUxCV2V3bC1POGJmUzVLT1VOMHhMTjJBbjNjYUhmOFF5cnVaR1dxY3YyYThoQ08yc0dKZlBQWEJKUm5LNHU0Qm1PdGJRZTlDel94dFVtWUtQdUtkVXgtWkFadlphSGVGY0ZGbEZidjRaM1puaHlRUHFmX0Q5dEEtLWFvNVlXWTZmWHUwQ1gyQWVveUEtbVpUNDQzRHVyM1Z3NlE?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 17 Nov 2026 09:47:48 GMT",
-          "section": ""
-        },
-        {
           "title": "The Texas Left Is Rising",
           "url": "https://www.currentaffairs.org/news/david-griscom",
           "source": "blog",
@@ -411,6 +404,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats won big. Now they’re arguing about why.",
+          "url": "https://www.vox.com/politics/511233/democrats-midterms-wave-moderates-progressives-underperformed-populism",
+          "source": "Vox",
+          "ts": "2026-11-19T06:30:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
@@ -425,17 +425,17 @@
           "section": ""
         },
         {
-          "title": "What makes Americans feel financially ready to have kids? It’s complicated.",
-          "url": "https://www.vox.com/policy/511190/parents-kids-research-money-security-income-millennials-genz-families-affordability",
-          "source": "Vox",
-          "ts": "2026-11-19T06:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Who Are the Republican Gatekeepers?",
           "url": "https://www.nationalreview.com/article/who-are-the-republican-gatekeepers",
           "source": "National Review",
           "ts": "Thu, 19 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "What makes Americans feel financially ready to have kids? It’s complicated.",
+          "url": "https://www.vox.com/policy/511190/parents-kids-research-money-security-income-millennials-genz-families-affordability",
+          "source": "Vox",
+          "ts": "2026-11-19T06:00:00-05:00",
           "section": ""
         },
         {
@@ -502,13 +502,6 @@
           "section": ""
         },
         {
-          "title": "Trump’s looming nominations crunch",
-          "url": "https://www.vox.com/the-logoff-newsletter-trump/511207/trump-senate-nominations-fda-nsf-overton",
-          "source": "Vox",
-          "ts": "2026-11-18T17:15:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Jared Kushner’s Undisclosed Investment",
           "url": "https://www.theatlantic.com/politics/2026/11/jared-kushner-affinity-arxis/689488/?utm_source=feed",
           "source": "The Atlantic",
@@ -542,6 +535,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Germany news: Pistorius to visit Auschwitz memorial in Poland trip",
+          "url": "https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-19T11:22:00Z",
+          "section": ""
+        },
+        {
+          "title": "Denmark parliament approves security deal with Greenland and US",
+          "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Nov 2026 11:09:00 +0000",
+          "section": ""
+        },
+        {
           "title": "UC to purchase military-grade weapons ahead of 2028 Olympics",
           "url": "https://www.latimes.com/california/story/2026-11-19/uc-police-military-grade-weapons-2028-olympics",
           "source": "California",
@@ -570,10 +577,10 @@
           "section": ""
         },
         {
-          "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
-          "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Nov 2026 10:05:33 +0000",
+          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+          "url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+          "source": "Naval News",
+          "ts": "Thu, 19 Nov 2026 09:51:57 +0000",
           "section": ""
         },
         {
@@ -581,13 +588,6 @@
           "url": "https://www.dw.com/en/south-korea-s-top-court-overturns-jail-term-for-former-pm-han/a-79987912?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-19T09:28:00Z",
-          "section": ""
-        },
-        {
-          "title": "Iran balances ties with China and Russia as Trump ramps up pressure",
-          "url": "https://www.dw.com/en/iran-balances-ties-with-china-and-russia-as-trump-ramps-up-pressure/a-79979920?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-19T09:07:00Z",
           "section": ""
         },
         {
@@ -668,6 +668,13 @@
           "section": ""
         },
         {
+          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
+          "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 21:24:48 +0000",
+          "section": ""
+        },
+        {
           "title": "What AI’s rebrand to ‘super intelligence’ means for the Pentagon",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/18/what-ais-rebrand-to-super-intelligence-means-for-the-pentagon/",
           "source": "News - Army Times",
@@ -738,17 +745,17 @@
           "section": ""
         },
         {
+          "title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
+          "url": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 15:42:53 +0000",
+          "section": ""
+        },
+        {
           "title": "NEW BOOK: Rethinking US-Korea Policy for Stability and Coexistence on the Korean Peninsula",
           "url": "https://quincyinst.org/2026/11/17/new-book-rethinking-us-korea-policy-for-stability-and-coexistence-on-the-korean-peninsula/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Tue, 17 Nov 2026 22:51:48 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gallant Faces US Prosecution Request over Gaza Genocide ahead of New York Speech - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUh5bXZ5a25jSTJ6THJhOTktbTZHc3JUd1dFa2NkdjBtR0RMcVFwVFVaZ2RSeFdiekxVTmg4ZlhBSG9ueFBYNnZ0V2NfX09pTGJGRGU4dkJjV01WcXBDTkNWcERKakdpenR0MkNDck1hYXZ5N1YxMk81cUlYakRNNDJIV3BvUFk4cUYwZGJHRXNZMlJPYURuQ2dMdGFzclh5TDRoOUJnTTF4aERXd25kcTBpMA?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 17 Nov 2026 19:18:13 GMT",
           "section": ""
         }
       ]
