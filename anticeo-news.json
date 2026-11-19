@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T02:05:44.773060Z",
+  "generated_at": "2026-11-19T02:22:31.070257Z",
   "headline": {
     "title": "Hegseth unveils new US-Venezuela military deal",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss"
@@ -55,6 +55,13 @@
           "url": "https://newsroom.ucla.edu/stories/how-wildfire-smoke-damages-airways",
           "source": "UCLA",
           "ts": "Thu, 19 Nov 2026 00:33:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "What are biomarkers?",
+          "url": "https://newsroom.ucla.edu/stories/what-are-biomarkers",
+          "source": "UCLA",
+          "ts": "Thu, 19 Nov 2026 00:30:00 GMT",
           "section": ""
         },
         {
@@ -116,7 +123,7 @@
         {
           "title": "The law releasing the Epstein files passed one year ago. What do his victims say?",
           "url": "https://www.npr.org/2026/11/18/nx-s1-6041708/the-law-releasing-the-epstein-files-passed-one-year-ago-what-do-his-victims-say",
-          "source": "NPR Topics: News",
+          "source": "NPR Topics: Politics",
           "ts": "Wed, 18 Nov 2026 17:27:43 -0500",
           "section": ""
         },
@@ -135,10 +142,10 @@
           "section": ""
         },
         {
-          "title": "Democrats nominate Jeffries for speaker, prep investigations into Trump's orbit",
-          "url": "https://www.npr.org/2026/11/18/nx-s1-6043185/democrats-nominate-jeffries-for-speaker-prep-investigations-into-trumps-orbit",
+          "title": "Why the Nvidia scandal is a national security issue",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6044275/why-the-nvidia-scandal-is-a-national-security-issue",
           "source": "NPR Topics: Politics",
-          "ts": "Wed, 18 Nov 2026 17:01:19 -0500",
+          "ts": "Wed, 18 Nov 2026 17:12:56 -0500",
           "section": ""
         },
         {
@@ -170,20 +177,6 @@
           "section": ""
         },
         {
-          "title": "Human Rights Watch Mourns Death of Activist Nabeel Rajab",
-          "url": "https://www.hrw.org/news/2026/11/18/human-rights-watch-mourns-death-of-activist-nabeel-rajab",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 18 Nov 2026 16:23:06 -0500",
-          "section": ""
-        },
-        {
-          "title": "Burkina Faso Targets Critics in Exile",
-          "url": "https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 18 Nov 2026 16:01:13 -0500",
-          "section": ""
-        },
-        {
           "title": "Dems Should Embrace Infighting. It's Good, Necessary",
           "url": "https://www.realclearpolitics.com/2026/11/18/dems_should_embrace_infighting_its_good_necessary_718278.html",
           "source": "RealClearPolitics - Homepage",
@@ -195,6 +188,13 @@
           "url": "https://www.currentaffairs.org/news/the-devils-is-the-perfect-film-for-our-times",
           "source": "blog",
           "ts": "Wed, 18 Nov 2026 20:12:01 GMT",
+          "section": ""
+        },
+        {
+          "title": "Where to get a free turkey in and around Koreatown, Pico Union and Westlake this Thanksgiving",
+          "url": "https://thelalocal.org/los-angeles-city/where-to-get-a-free-turkey-in-and-around-koreatown-pico-union-and-westlake-this-thanksgiving/",
+          "source": "LA Local",
+          "ts": "Wed, 18 Nov 2026 20:09:18 +0000",
           "section": ""
         },
         {
@@ -368,6 +368,13 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTU8zRlVZbHVBNjU0YXFETmpCLUNmMFpoNkpYRWUxNE5iUGk3dlBSYkV1V2xnS3JKcWFic01ibkRqSzNYdGRKYTUtV0RwRHN5V2tNQVVraHVUWjhyWXNhdm5xaHM4N3hlU2VfTE96a3JRQ0J4VHVuaVN0YjJuaTdoTHJTQXVHY0Rw?oc=5",
           "source": "\"\"Jared Kushner\" investigation\" - Google News",
           "ts": "Wed, 18 Nov 2026 21:53:51 GMT",
+          "section": ""
+        },
+        {
+          "title": "El Niño storms are coming. LA plans just 328 hotel vouchers for 30,000 unhoused people",
+          "url": "https://lapublicpress.org/2026/11/la-el-nino-unhoused-homeless-emergency-shelter-raman-jurado-lahsa-sweeps/",
+          "source": "LA Public Press",
+          "ts": "Mon, 16 Nov 2026 23:53:48 +0000",
           "section": ""
         },
         {
@@ -581,13 +588,6 @@
           "url": "https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
           "source": "TWZ",
           "ts": "Wed, 18 Nov 2026 17:06:41 -0500",
-          "section": ""
-        },
-        {
-          "title": "Sudan: Transfer War Crimes Suspects to ICC",
-          "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
-          "source": "Human Rights Watch News",
-          "ts": "Wed, 18 Nov 2026 16:52:44 -0500",
           "section": ""
         },
         {
@@ -913,13 +913,6 @@
           "url": "https://mondoweiss.net/2026/11/five-minutes-from-home-and-an-hour-at-a-checkpoint-life-in-the-occupied-west-bank/",
           "source": "Mondoweiss",
           "ts": "Wed, 18 Nov 2026 14:00:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Calling Party to Cut the Pentagon - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOXRaUWg0TXhESmZnc0ZvSG9EWEEwZEhfa1UzZDY1MDBoaVVkZmw4VWRmNGRXUEM0c0xOb1FFTVJZVDM0TERZcGxR?oc=5",
-          "source": "CODEPINK",
-          "ts": "Wed, 18 Nov 2026 01:51:15 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
