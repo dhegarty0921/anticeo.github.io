@@ -1,18 +1,32 @@
 {
-  "generated_at": "2026-11-19T18:04:52.497266Z",
+  "generated_at": "2026-11-19T18:21:12.427232Z",
   "headline": {
-    "title": "Syria welcomes UN committees’ adoption of resolutions on occupied Golan, human rights",
-    "url": "https://www.middleeastmonitor.com/20261119-syria-welcomes-un-committees-adoption-of-resolutions-on-occupied-golan-human-rights/"
+    "title": "Welcome to Software Beirut",
+    "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
         {
+          "title": "“This Is Familiar Territory”: Veterans of the 2008 Crash Protest Anthropic’s IPO",
+          "url": "https://www.motherjones.com/politics/2026/11/anthropic-ipo-nasdaq-protest/",
+          "source": "Mother Jones",
+          "ts": "Thu, 19 Nov 2026 18:05:15 +0000",
+          "section": ""
+        },
+        {
           "title": "As Destruction Continues to Mount, Slow Going in South Lebanon Reconstruction Efforts",
           "url": "https://news.antiwar.com/2026/11/19/as-destruction-continues-to-mount-slow-going-in-south-lebanon-reconstruction-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=as-destruction-continues-to-mount-slow-going-in-south-lebanon-reconstruction-efforts",
           "source": "News From Antiwar.com",
           "ts": "Thu, 19 Nov 2026 17:59:23 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trilateral summit high on spectacle, short on substance",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 19 Nov 2026 17:55:15 GMT",
           "section": ""
         },
         {
@@ -34,13 +48,6 @@
           "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 19 Nov 2026 17:23:34 GMT",
-          "section": ""
-        },
-        {
-          "title": "What did Trump, Xi and Putin get out of their historic meeting?",
-          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 19 Nov 2026 17:23:29 GMT",
           "section": ""
         },
         {
@@ -107,13 +114,6 @@
           "section": ""
         },
         {
-          "title": "Elon Musk Thinks You’re Dumb Enough to Believe He’s “Not MAGA”",
-          "url": "https://www.motherjones.com/politics/2026/11/elon-musk-thinks-youre-dumb-enough-to-believe-hes-not-maga/",
-          "source": "Mother Jones",
-          "ts": "Thu, 19 Nov 2026 15:34:59 +0000",
-          "section": ""
-        },
-        {
           "title": "Almost half of LGBTQ+ teens face online blackmail including threat of outing",
           "url": "https://www.thepinknews.com/2026/11/19/nspcc-lgbtq-teen-online-blackmail-snapchat/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -170,17 +170,17 @@
           "section": ""
         },
         {
-          "title": "From moats and waterfalls to sagging floors and no hot water, L.A. real estate has it all",
-          "url": "https://www.latimes.com/california/story/2026-11-19/from-moats-waterfalls-to-sagging-floors-no-hot-water-la-real-estate-has-it-all",
-          "source": "California",
-          "ts": "Thu, 19 Nov 2026 13:00:00 GMT",
-          "section": ""
-        },
-        {
           "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
           "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
           "source": "NPR Topics: Politics",
           "ts": "Thu, 19 Nov 2026 07:29:41 -0500",
+          "section": ""
+        },
+        {
+          "title": "World Court Finds Myanmar Responsible for Rohingya Genocide",
+          "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-responsible-for-rohingya-genocide",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 19 Nov 2026 06:30:00 -0500",
           "section": ""
         },
         {
@@ -226,13 +226,6 @@
           "section": ""
         },
         {
-          "title": "LAPD keeps stopping Black Angelenos at higher rates — often without a ticket or arrest",
-          "url": "https://thelalocal.org/los-angeles-city/lapd-keeps-stopping-black-angelenos-at-higher-rates-often-without-a-ticket-or-arrest/",
-          "source": "LA Local",
-          "ts": "Thu, 19 Nov 2026 01:42:44 +0000",
-          "section": ""
-        },
-        {
           "title": "The birth of the internet at UCLA is one of New York Times’ ’10 days that changed the world’ — and more UCLA media",
           "url": "https://newsroom.ucla.edu/in-the-news/uclas-role-in-the-birth-of-the-internet-earns-a-place-in-new-york-times-history-project-and-more-ucla-media",
           "source": "UCLA",
@@ -247,14 +240,7 @@
           "section": ""
         },
         {
-          "title": "What are biomarkers?",
-          "url": "https://newsroom.ucla.edu/stories/what-are-biomarkers",
-          "source": "UCLA",
-          "ts": "Thu, 19 Nov 2026 00:30:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Backyard Party is on a mission to get instruments into LA teen’s hands",
+          "title": "Backyard Party is on a mission to get teens to rock out again",
           "url": "https://lapublicpress.org/2026/11/backyard-party-is-on-a-mission-to-get-instruments-into-la-teens-hands/",
           "source": "LA Public Press",
           "ts": "Thu, 19 Nov 2026 00:18:03 +0000",
@@ -286,6 +272,13 @@
           "url": "https://ronpaulinstitute.org/kaliningrad-may-be-the-worlds-most-dangerous-flashpoint/",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Wed, 18 Nov 2026 21:27:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Human Rights Watch Mourns Death of Activist Nabeel Rajab",
+          "url": "https://www.hrw.org/news/2026/11/18/human-rights-watch-mourns-death-of-activist-nabeel-rajab",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 18 Nov 2026 16:23:06 -0500",
           "section": ""
         },
         {
@@ -404,13 +397,6 @@
           "source": "Public Trust Tracker",
           "ts": "2026-11-18T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
-        },
-        {
-          "title": "El Niño storms are coming. LA plans just 328 hotel vouchers for 30,000 unhoused people",
-          "url": "https://lapublicpress.org/2026/11/la-el-nino-unhoused-homeless-emergency-shelter-raman-jurado-lahsa-sweeps/",
-          "source": "LA Public Press",
-          "ts": "Mon, 16 Nov 2026 23:53:48 +0000",
-          "section": ""
         }
       ]
     },
@@ -418,10 +404,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Welcome to Software Beirut",
+          "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-19T13:17:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Thu, 19 Nov 2026 17:44:15 GMT",
+          "ts": "Thu, 19 Nov 2026 18:05:08 GMT",
+          "section": ""
+        },
+        {
+          "title": "Xi Jinping’s Say-Nothing Summit",
+          "url": "https://www.theatlantic.com/national-security/2026/11/us-china-russia-apec-summit/689502/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-19T13:04:22-05:00",
           "section": ""
         },
         {
@@ -488,24 +488,10 @@
           "section": ""
         },
         {
-          "title": "Trump’s Embarrassing, Inconsequential Summit",
-          "url": "https://www.theatlantic.com/ideas/2026/11/trump-xi-putin-summit/689503/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-19T10:28:58-05:00",
-          "section": ""
-        },
-        {
           "title": "Remembering Mark Massa, Jesuit historian and old friend",
           "url": "https://religionnews.com/2026/11/19/remembering-mark-massa-jesuit-historian-and-old-friend/",
           "source": "RNS",
           "ts": "Thu, 19 Nov 2026 14:58:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Making Oil Companies Pay for Climate Damages",
-          "url": "https://www.theatlantic.com/podcasts/2026/11/suing-our-way-out-of-climate-change/689500/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-19T09:00:00-05:00",
           "section": ""
         },
         {
@@ -555,6 +541,20 @@
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Impacts Of Latest Neptune Missile Strike On Kerch Bridge Seen In Satellite Imagery",
+          "url": "https://www.twz.com/news-features/impacts-of-latest-neptune-missile-strike-on-kerch-bridge-seen-in-satellite-imagery",
+          "source": "TWZ",
+          "ts": "Thu, 19 Nov 2026 13:14:45 -0500",
+          "section": ""
+        },
+        {
+          "title": "Germany news: Pistorius to visit Auschwitz memorial in Poland trip",
+          "url": "https://www.dw.com/en/germany-news-pistorius-to-visit-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-19T18:01:00Z",
+          "section": ""
+        },
         {
           "title": "Saudi Airstrike on Hotel in Yemen’s Red Sea Port City of Mocha Kills Nine: Health Ministry",
           "url": "https://news.antiwar.com/2026/11/19/saudi-airstrike-on-hotel-in-yemens-red-sea-port-city-of-mocha-kills-nine-health-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-airstrike-on-hotel-in-yemens-red-sea-port-city-of-mocha-kills-nine-health-ministry",
@@ -633,13 +633,6 @@
           "section": ""
         },
         {
-          "title": "Anthropic trading tests investors' appetite for AI",
-          "url": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-19T15:52:00Z",
-          "section": ""
-        },
-        {
           "title": "VA raised Oracle’s contract cap to $27B. Auditors still can’t verify the cost of the rollout.",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/19/va-raised-oracles-contract-cap-to-27b-auditors-still-cant-verify-the-cost-of-the-rollout/",
           "source": "News - Army Times",
@@ -665,6 +658,13 @@
           "url": "https://www.defenseone.com/business/2026/11/defense-business-brief-vantors-raptor-hadrians-foundry-and-more/417327/",
           "source": "Defense One - All Content",
           "ts": "Thu, 19 Nov 2026 09:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+          "url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+          "source": "Naval News",
+          "ts": "Thu, 19 Nov 2026 09:51:57 +0000",
           "section": ""
         },
         {
@@ -710,10 +710,17 @@
           "section": ""
         },
         {
-          "title": "Europe Is Exploring Orbital Deep Strike Weapons",
-          "url": "https://www.twz.com/space/europe-is-exploring-orbital-deep-strike-weapons",
-          "source": "TWZ",
-          "ts": "Wed, 18 Nov 2026 16:50:08 -0500",
+          "title": "Sudan: Transfer War Crimes Suspects to ICC",
+          "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 18 Nov 2026 16:52:44 -0500",
+          "section": ""
+        },
+        {
+          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
+          "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 21:24:48 +0000",
           "section": ""
         },
         {
@@ -763,6 +770,13 @@
           "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation/",
           "source": "War on the Rocks",
           "ts": "Wed, 18 Nov 2026 16:40:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
+          "url": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 15:42:53 +0000",
           "section": ""
         },
         {
@@ -916,6 +930,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "US Embassy in Kuwait warns Americans of heightened threats from Iran, Houthis across Middle East",
+          "url": "https://www.middleeastmonitor.com/20261119-us-embassy-in-kuwait-warns-americans-of-heightened-threats-from-iran-houthis-across-middle-east/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 19 Nov 2026 18:14:30 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Syria welcomes UN committees’ adoption of resolutions on occupied Golan, human rights",
           "url": "https://www.middleeastmonitor.com/20261119-syria-welcomes-un-committees-adoption-of-resolutions-on-occupied-golan-human-rights/",
           "source": "Middle East Monitor",
@@ -930,13 +951,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Gulf Railway Project aims to link 6 nations, reduce Strait of Hormuz reliance",
-          "url": "https://www.middleeastmonitor.com/20261119-gulf-railway-project-aims-to-link-6-nations-reduce-strait-of-hormuz-reliance/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 19 Nov 2026 17:42:56 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Opinion | Every 'beautiful Israeli' hides a dangerous secret - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeDgwa21tVjNGMkp6U2pncnB1dmVucWNhRWtHZGp4UzA4eFAtQjh3MURYOUZfdHl2b3JINTdaeXFQMVBWdlJiT3F2NWZ2dnBIUlpCN3hSNXlyb3hfUzh5RGFpbHhHTTlIV01MMmdwa3BEQXpkVnZrVFBzOHE5QWZUQTc5b3NCX3NNMzhQZ1cxckl0d3c1V2hQSlZvVmdPUHJCSWFsVkM4aWdZQVhqUTBUMjhJam5kNDBVQWdyX3Q2SUttdEx5OUlNTDY0ZzVhTzFMWl90WEZuYmYtUkZtY0NjTnhha0lCNm8tNnptOGxYWjc2Zw?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -948,6 +962,13 @@
           "url": "https://mondoweiss.net/2026/11/five-minutes-from-home-and-an-hour-at-a-checkpoint-life-in-the-occupied-west-bank/",
           "source": "Mondoweiss",
           "ts": "Wed, 18 Nov 2026 14:00:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Calling Party to Cut the Pentagon - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOXRaUWg0TXhESmZnc0ZvSG9EWEEwZEhfa1UzZDY1MDBoaVVkZmw4VWRmNGRXUEM0c0xOb1FFTVJZVDM0TERZcGxR?oc=5",
+          "source": "CODEPINK",
+          "ts": "Wed, 18 Nov 2026 01:51:15 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
