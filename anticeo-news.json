@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T16:19:25.723335Z",
+  "generated_at": "2026-11-19T16:32:20.646009Z",
   "headline": {
-    "title": "Ex-FBI Agent Sent to Prison for Cyberstalking His Informant’s Little Sister",
-    "url": "https://headlineusa.com/ex-fbi-agent-sent-to-prison-for-cyberstalking-his-informants-little-sister/"
+    "title": "UN court rules Myanmar committed genocide against Rohingya in 1st such ruling against a state",
+    "url": "https://www.middleeastmonitor.com/20261119-un-court-rules-myanmar-committed-genocide-against-rohingya-in-1st-such-ruling-against-a-state/"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
           "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Thu, 19 Nov 2026 16:08:25 GMT",
+          "ts": "Thu, 19 Nov 2026 16:29:53 GMT",
+          "section": ""
+        },
+        {
+          "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Thu, 19 Nov 2026 16:19:23 GMT",
           "section": ""
         },
         {
@@ -65,7 +72,7 @@
           "section": ""
         },
         {
-          "title": "Heavy rain drenches Southern California, triggers evacuation warnings, flood concerns",
+          "title": "Heavy rain drenches Southern California, triggers flash flood, evacuation warnings",
           "url": "https://www.latimes.com/california/story/2026-11-19/socal-atmospheric-river-storm",
           "source": "California",
           "ts": "Thu, 19 Nov 2026 14:56:07 GMT",
@@ -111,13 +118,6 @@
           "url": "https://www.realclearpolitics.com/2026/11/19/democrats_shouldnt_forget_why_they_won_718288.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Thu, 19 Nov 2026 07:27:44 -0600",
-          "section": ""
-        },
-        {
-          "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
-          "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Thu, 19 Nov 2026 12:47:27 GMT",
           "section": ""
         },
         {
@@ -282,13 +282,6 @@
           "section": ""
         },
         {
-          "title": "Pope Leo and the Wealth Gap",
-          "url": "https://www.truthdig.com/articles/pope-leo-and-the-wealth-gap/?utm_source=rss&utm_medium=rss&utm_campaign=pope-leo-and-the-wealth-gap",
-          "source": "Truthdig",
-          "ts": "Wed, 18 Nov 2026 16:30:50 +0000",
-          "section": ""
-        },
-        {
           "title": "House Democrat warns 13 Trump allies to save their records for upcoming investigations - NPR",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUUdMeUNKODFtd250dTVSb0ZreFRXaFg4N3h6d1F5UHZNZWZWa0pQMTEwc0cta2NybE1jYjcxaUtnY25HM00zdjkwbWd5LU5lZ3JETFBiU1NJZHU3RTdBOWxlUFdsclR4ZlBWTnduM0tQTzdET1BJRFhhN2xyUXlvZE5WVkRJNGU0bGZkdFo4T2Rqb0c2R3VxSTJsTjQzbWtBRGEtd1NQYjBXWTh3?oc=5",
           "source": "\"\"Jared Kushner\" investigation\" - Google News",
@@ -411,17 +404,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Nov 2026 16:16:50 GMT",
+          "section": ""
+        },
+        {
+          "title": "Prosecutors allege British woman ‘trying to find someone who would kill her’ lured to US and murdered",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 19 Nov 2026 16:08:17 GMT",
+          "section": ""
+        },
+        {
           "title": "‘It stings to come close’: Louisiana Democrat’s narrow failure to make it 57 Senate seats",
           "url": "https://www.theguardian.com/us-news/2026/nov/19/louisiana-senate-seat-democrats-jamie-davis",
           "source": "US news | The Guardian",
           "ts": "Thu, 19 Nov 2026 16:00:06 GMT",
-          "section": ""
-        },
-        {
-          "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 19 Nov 2026 15:58:13 GMT",
           "section": ""
         },
         {
@@ -443,13 +443,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/trump-xi-putin-summit/689503/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-19T10:28:58-05:00",
-          "section": ""
-        },
-        {
-          "title": "San Francisco breaks rain record as atmospheric river buffets California",
-          "url": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 19 Nov 2026 15:21:54 GMT",
           "section": ""
         },
         {
@@ -542,6 +535,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Pentagon Fails 9th Straight Audit, Can’t Account for $2 Trillion",
+          "url": "https://www.truthdig.com/articles/pentagon-fails-9th-straight-audit-cant-account-for-2-trillion/?utm_source=rss&utm_medium=rss&utm_campaign=pentagon-fails-9th-straight-audit-cant-account-for-2-trillion",
+          "source": "Truthdig",
+          "ts": "Thu, 19 Nov 2026 16:24:06 +0000",
+          "section": ""
+        },
+        {
           "title": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
           "url": "https://www.propublica.org/article/civilian-workers-war-injuries-insurance-companies",
           "source": "ProPublica",
@@ -633,6 +633,13 @@
           "section": ""
         },
         {
+          "title": "ADSB to relocate shipyard as it eyes shipbuilding expansion",
+          "url": "https://www.navalnews.com/naval-news/2026/11/adsb-to-relocate-shipyard-as-it-eyes-shipbuilding-expansion/",
+          "source": "Naval News",
+          "ts": "Thu, 19 Nov 2026 09:51:57 +0000",
+          "section": ""
+        },
+        {
           "title": "The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age",
           "url": "https://warontherocks.com/the-ground-beneath-the-cloud-dispersion-and-dependency-in-the-digital-age/",
           "source": "War on the Rocks",
@@ -696,6 +703,13 @@
           "section": ""
         },
         {
+          "title": "South Korea Launches Fifth FFX Batch-III Frigate, ROKS Pyeongtaek",
+          "url": "https://www.navalnews.com/naval-news/2026/11/south-korea-launches-fifth-ffx-batch-iii-frigate-roks-pyeongtaek/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 21:24:48 +0000",
+          "section": ""
+        },
+        {
           "title": "What AI’s rebrand to ‘super intelligence’ means for the Pentagon",
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/18/what-ais-rebrand-to-super-intelligence-means-for-the-pentagon/",
           "source": "News - Army Times",
@@ -749,6 +763,13 @@
           "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation/",
           "source": "War on the Rocks",
           "ts": "Wed, 18 Nov 2026 16:40:05 +0000",
+          "section": ""
+        },
+        {
+          "title": "Congress Rebukes U.S. Navy Battleship in New Budget Proposal",
+          "url": "https://www.navalnews.com/naval-news/2026/11/congress-rebukes-u-s-navy-battleship-in-new-budget-proposal/",
+          "source": "Naval News",
+          "ts": "Wed, 18 Nov 2026 15:42:53 +0000",
           "section": ""
         },
         {
@@ -902,6 +923,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "UN court rules Myanmar committed genocide against Rohingya in 1st such ruling against a state",
+          "url": "https://www.middleeastmonitor.com/20261119-un-court-rules-myanmar-committed-genocide-against-rohingya-in-1st-such-ruling-against-a-state/",
+          "source": "Middle East Monitor",
+          "ts": "Thu, 19 Nov 2026 16:30:34 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Pro-Palestine protesters rally in New York against Yoav Gallant",
           "url": "https://www.middleeastmonitor.com/20261119-pro-palestine-protesters-rally-in-new-york-against-yoav-gallant/",
           "source": "Middle East Monitor",
@@ -916,13 +944,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "After the elections: Netanyahu’s way out, Trump’s hesitation and the Iran war dilemma",
-          "url": "https://www.middleeastmonitor.com/20261119-after-the-elections-netanyahus-way-out-trumps-hesitation-and-the-iran-war-dilemma/",
-          "source": "Middle East Monitor",
-          "ts": "Thu, 19 Nov 2026 14:18:54 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Report: Pentagon Has Not Disclosed Most US Strikes on Iran in Past Two Months",
           "url": "https://news.antiwar.com/2026/11/18/report-pentagon-has-not-disclosed-most-us-strikes-on-iran-in-past-two-months/?utm_source=rss&utm_medium=rss&utm_campaign=report-pentagon-has-not-disclosed-most-us-strikes-on-iran-in-past-two-months",
           "source": "News From Antiwar.com",
@@ -930,24 +951,10 @@
           "section": ""
         },
         {
-          "title": "Opinion | Every 'beautiful Israeli' hides a dangerous secret - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeDgwa21tVjNGMkp6U2pncnB1dmVucWNhRWtHZGp4UzA4eFAtQjh3MURYOUZfdHl2b3JINTdaeXFQMVBWdlJiT3F2NWZ2dnBIUlpCN3hSNXlyb3hfUzh5RGFpbHhHTTlIV01MMmdwa3BEQXpkVnZrVFBzOHE5QWZUQTc5b3NCX3NNMzhQZ1cxckl0d3c1V2hQSlZvVmdPUHJCSWFsVkM4aWdZQVhqUTBUMjhJam5kNDBVQWdyX3Q2SUttdEx5OUlNTDY0ZzVhTzFMWl90WEZuYmYtUkZtY0NjTnhha0lCNm8tNnptOGxYWjc2Zw?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Wed, 18 Nov 2026 23:00:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Five minutes from home, and an hour at a checkpoint: life in the occupied West Bank",
           "url": "https://mondoweiss.net/2026/11/five-minutes-from-home-and-an-hour-at-a-checkpoint-life-in-the-occupied-west-bank/",
           "source": "Mondoweiss",
           "ts": "Wed, 18 Nov 2026 14:00:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Calling Party to Cut the Pentagon - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oOXRaUWg0TXhESmZnc0ZvSG9EWEEwZEhfa1UzZDY1MDBoaVVkZmw4VWRmNGRXUEM0c0xOb1FFTVJZVDM0TERZcGxR?oc=5",
-          "source": "CODEPINK",
-          "ts": "Wed, 18 Nov 2026 01:51:15 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
