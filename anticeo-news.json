@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T00:39:30.388817Z",
+  "generated_at": "2026-11-19T00:53:32.480612Z",
   "headline": {
-    "title": "Almost 1 in 4 children live in conflict zones — report",
-    "url": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf"
+    "title": "Ukraine Strikes Kerch Bridge Once Again: Crimea Governor",
+    "url": "https://www.twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor"
   },
   "sections": [
     {
@@ -156,6 +156,20 @@
           "section": ""
         },
         {
+          "title": "Human Rights Watch Mourns Death of Activist Nabeel Rajab",
+          "url": "https://www.hrw.org/news/2026/11/18/human-rights-watch-mourns-death-of-activist-nabeel-rajab",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 18 Nov 2026 16:23:06 -0500",
+          "section": ""
+        },
+        {
+          "title": "Burkina Faso Targets Critics in Exile",
+          "url": "https://www.hrw.org/news/2026/11/18/burkina-faso-targets-critics-in-exile",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 18 Nov 2026 16:01:13 -0500",
+          "section": ""
+        },
+        {
           "title": "Dems Should Embrace Infighting. It's Good, Necessary",
           "url": "https://www.realclearpolitics.com/2026/11/18/dems_should_embrace_infighting_its_good_necessary_718278.html",
           "source": "RealClearPolitics - Homepage",
@@ -195,13 +209,6 @@
           "url": "https://www.realclearpolitics.com/2026/11/18/ditching_green_new_deal_key_to_democrat_victory_718275.html",
           "source": "RealClearPolitics - Homepage",
           "ts": "Wed, 18 Nov 2026 13:32:52 -0600",
-          "section": ""
-        },
-        {
-          "title": "LAUSD spent more than $6 million on its phone ban. Survey data show mixed results",
-          "url": "https://thelalocal.org/education/lausd-spent-more-than-6-million-on-its-phone-ban-survey-data-show-mixed-results/",
-          "source": "LA Local",
-          "ts": "Wed, 18 Nov 2026 19:27:29 +0000",
           "section": ""
         },
         {
@@ -385,13 +392,6 @@
       "title": "YOU LIVE IN A SHITHOLE COUNTRY",
       "items": [
         {
-          "title": "El Niño storms are coming. LA plans just 328 hotel vouchers for 30,000 unhoused people",
-          "url": "https://lapublicpress.org/2026/11/la-el-nino-unhoused-homeless-emergency-shelter-raman-jurado-lahsa-sweeps/",
-          "source": "LA Public Press",
-          "ts": "Mon, 16 Nov 2026 23:53:48 +0000",
-          "section": ""
-        },
-        {
           "title": "CFTC decisions on prediction markets and Donald Trump Jr.'s roles at Kalshi and Polymarket (allegation): 16 Nov 2026",
           "url": "https://publictrusttracker.org/case/inv-080-cftc-decisions-on-prediction-markets-and-donald-trump-jr-s/",
           "source": "Public Trust Tracker",
@@ -410,6 +410,13 @@
     {
       "title": "CULTURE WAR",
       "items": [
+        {
+          "title": "Catholic bishops vote to divest from private prisons, pass guidelines on AI investment",
+          "url": "https://religionnews.com/2026/11/18/catholic-bishops-vote-to-divest-from-private-prisons-pass-guidelines-on-ai-investment/",
+          "source": "RNS",
+          "ts": "Thu, 19 Nov 2026 00:47:55 +0000",
+          "section": ""
+        },
         {
           "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
@@ -488,13 +495,6 @@
           "section": ""
         },
         {
-          "title": "Marvin Sapp on new album, viral ‘close the doors’ backlash and gospel’s Super Bowl ambitions",
-          "url": "https://religionnews.com/2026/11/18/marvin-sapp-on-new-album-viral-close-the-doors-backlash-and-gospels-super-bowl-ambitions/",
-          "source": "RNS",
-          "ts": "Wed, 18 Nov 2026 19:21:02 +0000",
-          "section": ""
-        },
-        {
           "title": "My Favorite Books of 2026",
           "url": "https://www.christianitytoday.com/2026/11/russell-moore-favorite-books-of-2026/",
           "source": "Christianity Today",
@@ -542,6 +542,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine Strikes Kerch Bridge Once Again: Crimea Governor",
+          "url": "https://www.twz.com/news-features/ukraine-strikes-kerch-bridge-once-again-crimea-governor",
+          "source": "TWZ",
+          "ts": "Wed, 18 Nov 2026 19:49:07 -0500",
+          "section": ""
+        },
+        {
           "title": "Almost 1 in 4 children live in conflict zones — report",
           "url": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -549,10 +556,24 @@
           "section": ""
         },
         {
-          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+          "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Nov 2026 00:01:02 +0000",
+          "ts": "Thu, 19 Nov 2026 00:20:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+          "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Nov 2026 00:14:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Nov 2026 00:11:40 +0000",
           "section": ""
         },
         {
@@ -560,20 +581,6 @@
           "url": "https://www.dw.com/en/grand-theft-auto-vi-released-as-gamers-rejoice-globally/a-79986461?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-18T23:58:00Z",
-          "section": ""
-        },
-        {
-          "title": "Israel uses Gaza swimming video to minimise winter hardships",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 23:53:21 +0000",
-          "section": ""
-        },
-        {
-          "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
-          "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 18 Nov 2026 23:36:23 +0000",
           "section": ""
         },
         {
@@ -595,6 +602,13 @@
           "url": "https://www.twz.com/news-features/tehran-widens-attacks-on-gulf-nations-after-latest-u-s-strike-on-iranian-island",
           "source": "TWZ",
           "ts": "Wed, 18 Nov 2026 17:06:41 -0500",
+          "section": ""
+        },
+        {
+          "title": "Sudan: Transfer War Crimes Suspects to ICC",
+          "url": "https://www.hrw.org/news/2026/11/18/sudan-transfer-war-crimes-suspects-to-icc",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 18 Nov 2026 16:52:44 -0500",
           "section": ""
         },
         {
@@ -630,13 +644,6 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
           "source": "News - Army Times",
           "ts": "Wed, 18 Nov 2026 19:40:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Flying Stripped-Down F-15 “Silver Eagles” To Their Limits",
-          "url": "https://www.twz.com/air/flying-stripped-down-f-15-silver-eagles-to-their-limits",
-          "source": "TWZ",
-          "ts": "Wed, 18 Nov 2026 14:03:37 -0500",
           "section": ""
         },
         {
