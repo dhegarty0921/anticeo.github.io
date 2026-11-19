@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T05:04:26.118094Z",
+  "generated_at": "2026-11-19T05:18:37.317472Z",
   "headline": {
     "title": "Win a trip to go behind the news with NPR",
     "url": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway"
@@ -13,6 +13,13 @@
           "url": "https://www.npr.org/2026/11/19/g-s1-153851/npr-newsroom-giveaway",
           "source": "NPR Topics: News",
           "ts": "Thu, 19 Nov 2026 00:01:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Have High Gas Prices Made You Change How You Drive? Tell Us About It.",
+          "url": "https://www.nytimes.com/2026/11/19/business/energy-environment/gas-prices-iran-war-driving-callout.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Thu, 19 Nov 2026 05:00:13 +0000",
           "section": ""
         },
         {
@@ -69,13 +76,6 @@
           "url": "https://www.nytimes.com/2026/11/18/us/politics/alaska-senate-count.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Thu, 19 Nov 2026 02:58:29 +0000",
-          "section": ""
-        },
-        {
-          "title": "Obama Tells Incoming House Democrats to Keep Up Outreach in Red Areas",
-          "url": "https://www.nytimes.com/2026/11/18/us/politics/barack-obama-house-democrats.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Thu, 19 Nov 2026 02:54:47 +0000",
           "section": ""
         },
         {
@@ -378,17 +378,17 @@
           "section": ""
         },
         {
-          "title": "CFTC decisions on prediction markets and Donald Trump Jr.'s roles at Kalshi and Polymarket (allegation): 16 Nov 2026",
-          "url": "https://publictrusttracker.org/case/inv-080-cftc-decisions-on-prediction-markets-and-donald-trump-jr-s/",
+          "title": "Trump family crypto ventures: 18 Nov 2026",
+          "url": "https://publictrusttracker.org/case/inv-001-trump-family-crypto-ventures/",
           "source": "Public Trust Tracker",
-          "ts": "2026-11-16T00:00:00Z",
+          "ts": "2026-11-18T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         },
         {
-          "title": "DHS border-wall contracts in Texas's Big Bend sector: request for an inspector general review (allegation): 16 Nov 2026",
-          "url": "https://publictrusttracker.org/case/inv-088-dhs-border-wall-contracts-in-texass-big-bend-sector-request/",
+          "title": "Jared Kushner's Affinity Partners and Middle East role: 18 Nov 2026",
+          "url": "https://publictrusttracker.org/case/inv-003-jared-kushners-affinity-partners-and-middle-east-role/",
           "source": "Public Trust Tracker",
-          "ts": "2026-11-16T00:00:00Z",
+          "ts": "2026-11-18T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         }
       ]
@@ -528,11 +528,39 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
-          "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+          "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+          "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Nov 2026 03:58:10 +0000",
+          "ts": "Thu, 19 Nov 2026 04:58:36 +0000",
           "section": ""
+        },
+        {
+          "title": "Trump wants to talk nuclear with Putin and Xi",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Nov 2026 04:50:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "China Challenges 500 Years of Anglo-Saxon Hegemony over the World’s Oceans",
+          "url": "https://michelchossudovsky.substack.com/p/china-challenges-500-years-anglo-saxon-hegemony-world-oceans",
+          "source": "Global Research",
+          "ts": "Thu, 19 Nov 2026 04:49:25 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
+          "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 19 Nov 2026 04:46:59 +0000",
+          "section": ""
+        },
+        {
+          "title": "A Voice Heard in the Land. Diana Johnstone",
+          "url": "https://www.globalresearch.ca/voice-heard-land-diana-johnstone/5830476",
+          "source": "Global Research",
+          "ts": "Thu, 19 Nov 2026 04:38:37 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Crimean Bridge has been attacked again, Russian official says",
@@ -542,25 +570,11 @@
           "section": ""
         },
         {
-          "title": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
-          "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Nov 2026 03:30:26 +0000",
-          "section": ""
-        },
-        {
           "title": "China-APEC, the Three Power Summit in Shenzhen",
           "url": "https://www.globalresearch.ca/china-apec-the-three-power-summit-in-shenzhen-path-towards-globalist-new-world-order/5944370",
           "source": "Global Research",
           "ts": "Thu, 19 Nov 2026 03:19:48 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 19 Nov 2026 03:01:27 +0000",
-          "section": ""
         },
         {
           "title": "Ukraine's allies gather in Berlin for 'Coalition of the Willing' summit",
@@ -715,20 +729,6 @@
           "source": "Naval News",
           "ts": "Wed, 18 Nov 2026 15:42:53 +0000",
           "section": ""
-        },
-        {
-          "title": "Houthis Have Officially Replaced Hezbollah in Leading the ‘Shia Resistance Axes’ Across the Middle East: The Following Facts Reveal Why, Where, and How",
-          "url": "https://www.globalresearch.ca/houthis-replaced-hezbollah-leading-shia-resistance-axes-middle-east/5946164",
-          "source": "Global Research",
-          "ts": "Wed, 18 Nov 2026 15:15:09 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Gendered Power Relations in Political Parties and Parliaments",
-          "url": "https://www.globalresearch.ca/gendered-power-relations-political-parties-parliaments/5946143",
-          "source": "Global Research",
-          "ts": "Wed, 18 Nov 2026 15:10:39 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Mistral in a Box: MBDA Revives SPIMM Concept Against Drones",
