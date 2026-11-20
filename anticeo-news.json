@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T18:33:26.909787Z",
+  "generated_at": "2026-11-20T18:49:20.504246Z",
   "headline": {
     "title": "Here’s the latest.",
     "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest"
@@ -12,7 +12,7 @@
           "title": "Here’s the latest.",
           "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 20 Nov 2026 18:29:31 +0000",
+          "ts": "Fri, 20 Nov 2026 18:40:37 +0000",
           "section": ""
         },
         {
@@ -23,7 +23,7 @@
           "section": ""
         },
         {
-          "title": "Spying Suspect’s Chip Network Has Ties to Chinese Military Suppliers",
+          "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms with Ties to China’s Military",
           "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 20 Nov 2026 18:05:36 +0000",
@@ -121,6 +121,13 @@
           "section": ""
         },
         {
+          "title": "Step 1 for Democrats: Raise the Minimum Wage",
+          "url": "https://www.truthdig.com/articles/step-one-for-democrats-raise-the-minimum-wage/?utm_source=rss&utm_medium=rss&utm_campaign=step-one-for-democrats-raise-the-minimum-wage",
+          "source": "Truthdig",
+          "ts": "Fri, 20 Nov 2026 16:21:27 +0000",
+          "section": ""
+        },
+        {
           "title": "Is Rubio the Frontrunner Now?",
           "url": "https://www.realclearpolitics.com/republican-party/links/is-rubio-the-frontrunner-now-2026-11-20",
           "source": "RealClearPolitics - Homepage",
@@ -184,6 +191,13 @@
           "section": ""
         },
         {
+          "title": "L.A. rattled by magnitude 4.2 earthquake felt over a wide area",
+          "url": "https://www.latimes.com/california/story/2026-11-20/4-2-magnitude-earthquake-rattles-la-area-centered-near-commerce",
+          "source": "California",
+          "ts": "Fri, 20 Nov 2026 11:36:08 GMT",
+          "section": ""
+        },
+        {
           "title": "Missouri Is Switching Prison Tablet Companies. Here’s Why Incarcerated People Are Worried.",
           "url": "https://www.themarshallproject.org/2026/11/20/missouri-prison-tablet-switch-memories",
           "source": "The Marshall Project",
@@ -226,6 +240,13 @@
           "section": ""
         },
         {
+          "title": "Mathematicians develop their own AI tools amid concerns over commercial models — and more UCLA media",
+          "url": "https://newsroom.ucla.edu/in-the-news/mathematicians-develop-their-own-ai-tools-amid-concerns-over-commercial-models-and-more-ucla-media",
+          "source": "UCLA",
+          "ts": "Thu, 19 Nov 2026 23:57:00 GMT",
+          "section": ""
+        },
+        {
           "title": "Was the Trilateral Summit Truly Historic or Largely Symbolic?",
           "url": "https://www.youtube.com/watch?v=NN4tyKH8W78",
           "source": "Quincy Institute for Responsible Statecraft",
@@ -265,6 +286,13 @@
           "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
           "source": "In These Times",
           "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
+          "section": ""
+        },
+        {
+          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
+          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
+          "source": "LA Public Press",
+          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
           "section": ""
         },
         {
@@ -364,6 +392,13 @@
           "source": "Ben Cohen (Ben & Jerry's)",
           "ts": "Tue, 17 Nov 2026 12:30:04 GMT",
           "section": ""
+        },
+        {
+          "title": "After Feds Shut Down ‘Rape Club’ Prison, Rampant Sexual Abuse Continued Elsewhere",
+          "url": "https://www.themarshallproject.org/2026/11/17/sexual-abuse-womens-federal-prison-bop",
+          "source": "The Marshall Project",
+          "ts": "Tue, 17 Nov 2026 06:00:00 -0500",
+          "section": ""
         }
       ]
     },
@@ -404,10 +439,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump boasts of ‘great’ relationship with Xi in wide-ranging press conference after Asia trip – live",
+          "title": "Jose Ugarte gains slightly in tight race to represent South LA’s CD-9",
+          "url": "https://thelalocal.org/government/election/la-city-council-district-9-race-election-jose-ugarte-estuardo-mazariegos/",
+          "source": "LA Local",
+          "ts": "Fri, 20 Nov 2026 18:34:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 20 Nov 2026 18:33:17 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 18:17:25 GMT",
+          "ts": "Fri, 20 Nov 2026 18:28:32 GMT",
+          "section": ""
+        },
+        {
+          "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 20 Nov 2026 18:26:08 GMT",
           "section": ""
         },
         {
@@ -436,20 +492,6 @@
           "url": "https://www.theatlantic.com/newsletters/2026/11/books-briefing-benefits-reading-incalculable/689527/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-20T11:50:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 16:48:08 GMT",
-          "section": ""
-        },
-        {
-          "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 16:46:05 GMT",
           "section": ""
         },
         {
@@ -647,31 +689,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "TKMS Unveils Future German Navy F128 Frigate Model at Euronaval 2026",
-          "url": "https://www.navalnews.com/naval-news/2026/11/tkms-unveils-future-german-navy-f128-frigate-model-at-euronaval-2026/",
-          "source": "Naval News",
-          "ts": "Fri, 20 Nov 2026 14:49:23 +0000",
-          "section": ""
-        },
-        {
           "title": "Pentagon’s Latest $48.3 Billion Iran War Cost Estimate Doesn’t Include This $162 Billion Figure",
           "url": "https://scheerpost.com/2026/11/20/pentagons-latest-48-3-billion-iran-war-cost-estimate-doesnt-include-this-162-billion-figure/",
           "source": "Military",
           "ts": "Fri, 20 Nov 2026 13:54:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
-          "url": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
-          "source": "Naval News",
-          "ts": "Fri, 20 Nov 2026 10:16:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "Baglietto Navy unveils new 54-metre MPV54 vessel, teams up with JA Solutions",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/baglietto-navy-unveils-new-54-metre-mpv54-vessel-teams-up-with-ja-solutions/",
-          "source": "Naval News",
-          "ts": "Fri, 20 Nov 2026 08:45:22 +0000",
           "section": ""
         },
         {
@@ -803,27 +824,6 @@
           "url": "https://theintercept.com/2026/11/20/fisa-warrantless-spying-lame-duck-himes/",
           "source": "The Intercept",
           "ts": "Fri, 20 Nov 2026 15:35:16 +0000",
-          "section": ""
-        },
-        {
-          "title": "Making Cubans Pay for Regime Change",
-          "url": "https://www.justsecurity.org/159985/legality-economic-suffering-regime-change-cuba/?utm_source=rss&utm_medium=rss&utm_campaign=legality-economic-suffering-regime-change-cuba",
-          "source": "Just Security",
-          "ts": "Fri, 20 Nov 2026 14:29:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Multifunctional Seabed",
-          "url": "https://www.justsecurity.org/162319/multifunctional-seabed/?utm_source=rss&utm_medium=rss&utm_campaign=multifunctional-seabed",
-          "source": "Just Security",
-          "ts": "Fri, 20 Nov 2026 14:14:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "How Congress Should Constrain Emergency Powers",
-          "url": "https://www.justsecurity.org/165089/congress-constrain-emergency-powers/?utm_source=rss&utm_medium=rss&utm_campaign=congress-constrain-emergency-powers",
-          "source": "Just Security",
-          "ts": "Fri, 20 Nov 2026 14:04:05 +0000",
           "section": ""
         },
         {
