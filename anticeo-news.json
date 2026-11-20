@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T18:20:37.817105Z",
+  "generated_at": "2026-11-20T18:33:26.909787Z",
   "headline": {
-    "title": "Israeli attacks hit 4 districts in southern Lebanon, cause fires, damage",
-    "url": "https://www.middleeastmonitor.com/20261120-israeli-attacks-hit-4-districts-in-southern-lebanon-cause-fires-damage/"
+    "title": "Here’s the latest.",
+    "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest"
   },
   "sections": [
     {
@@ -12,7 +12,14 @@
           "title": "Here’s the latest.",
           "url": "https://www.nytimes.com/live/2026/11/20/us/trump-news-conference/heres-the-latest",
           "source": "NYT > U.S. > Politics",
-          "ts": "Fri, 20 Nov 2026 18:16:52 +0000",
+          "ts": "Fri, 20 Nov 2026 18:29:31 +0000",
+          "section": ""
+        },
+        {
+          "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+          "source": "NPR Topics: Politics",
+          "ts": "Fri, 20 Nov 2026 13:25:09 -0500",
           "section": ""
         },
         {
@@ -20,6 +27,13 @@
           "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Fri, 20 Nov 2026 18:05:36 +0000",
+          "section": ""
+        },
+        {
+          "title": "40 UCLA faculty members ranked among the world’s research elite",
+          "url": "https://newsroom.ucla.edu/releases/2026-ucla-scholars-highly-cited-researchers",
+          "source": "UCLA",
+          "ts": "Fri, 20 Nov 2026 18:01:00 GMT",
           "section": ""
         },
         {
@@ -41,6 +55,13 @@
           "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Fri, 20 Nov 2026 17:54:37 GMT",
+          "section": ""
+        },
+        {
+          "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Fri, 20 Nov 2026 17:49:48 GMT",
           "section": ""
         },
         {
@@ -93,24 +114,10 @@
           "section": ""
         },
         {
-          "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-          "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Fri, 20 Nov 2026 16:41:52 GMT",
-          "section": ""
-        },
-        {
           "title": "How the Blue Wave Hit Utility Commissions",
           "url": "https://www.truthdig.com/articles/how-the-blue-wave-hit-utility-commissions/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-blue-wave-hit-utility-commissions",
           "source": "Truthdig",
           "ts": "Fri, 20 Nov 2026 16:31:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "How Orchestra Noir turned classical music into a cultural movement",
-          "url": "https://www.npr.org/2026/11/20/g-s1-154644/orchestra-noir-black-musical-tour-classical-music",
-          "source": "NPR Topics: News",
-          "ts": "Fri, 20 Nov 2026 11:12:18 -0500",
           "section": ""
         },
         {
@@ -216,13 +223,6 @@
           "url": "https://lapublicpress.org/2026/11/la-thanksgiving-giveaway-turkey-resources-food-volunteer/",
           "source": "LA Public Press",
           "ts": "Fri, 20 Nov 2026 01:04:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Mathematicians develop their own AI tools amid concerns over commercial models — and more UCLA media",
-          "url": "https://newsroom.ucla.edu/in-the-news/mathematicians-develop-their-own-ai-tools-amid-concerns-over-commercial-models-and-more-ucla-media",
-          "source": "UCLA",
-          "ts": "Thu, 19 Nov 2026 23:57:00 GMT",
           "section": ""
         },
         {
@@ -407,7 +407,7 @@
           "title": "Trump boasts of ‘great’ relationship with Xi in wide-ranging press conference after Asia trip – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 18:04:01 GMT",
+          "ts": "Fri, 20 Nov 2026 18:17:25 GMT",
           "section": ""
         },
         {
@@ -563,7 +563,7 @@
           "section": ""
         },
         {
-          "title": "Mamdani unveils plan to close New York’s Rikers Island by 2032",
+          "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
           "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 20 Nov 2026 17:54:55 +0000",
