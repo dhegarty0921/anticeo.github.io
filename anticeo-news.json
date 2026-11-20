@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-20T23:03:56.315631Z",
+  "generated_at": "2026-11-20T23:17:38.530969Z",
   "headline": {
-    "title": "Tech Companies Are Trying To Shift The Entire Concept Of Privacy (Again)",
-    "url": "https://www.techdirt.com/2026/11/20/tech-companies-are-trying-to-shift-the-entire-concept-of-privacy-again/"
+    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+    "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-216"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Palisades arson retrial ends with conviction of man accused of sparking deadly wildfire",
+          "url": "https://www.latimes.com/california/story/2026-11-20/palisades-fire-arson-retrial-verdict",
+          "source": "California",
+          "ts": "Fri, 20 Nov 2026 23:06:17 GMT",
+          "section": ""
+        },
         {
           "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
           "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
@@ -121,13 +128,6 @@
           "section": ""
         },
         {
-          "title": "Eagle Rock residents push back against bus lane on Colorado Boulevard",
-          "url": "https://www.latimes.com/california/story/2026-11-20/eagle-rock-residents-push-back-against-bus-lane-on-colorado-boulevard",
-          "source": "California",
-          "ts": "Fri, 20 Nov 2026 19:39:10 GMT",
-          "section": ""
-        },
-        {
           "title": "The Right Way To Make Data Centers Pay Their Way",
           "url": "https://www.realclearpolitics.com/technology/links/the-right-way-to-make-data-centers-pay-their-way-2026-11-20",
           "source": "RealClearPolitics - Homepage",
@@ -139,13 +139,6 @@
           "url": "https://truthout.org/articles/authors-sue-la-library-over-anti-palestinian-discrimination-after-talk-cancelled/",
           "source": "Truthout",
           "ts": "Fri, 20 Nov 2026 19:22:33 +0000",
-          "section": ""
-        },
-        {
-          "title": "Mayor-elect Nithya Raman names Conant, Kieffer to lead City Hall transition team",
-          "url": "https://www.latimes.com/california/story/2026-11-20/nithya-raman-names-conant-kieffer-to-lead-transition-team",
-          "source": "California",
-          "ts": "Fri, 20 Nov 2026 19:20:51 GMT",
           "section": ""
         },
         {
@@ -317,13 +310,6 @@
           "section": ""
         },
         {
-          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
-          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
-          "source": "LA Public Press",
-          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
-          "section": ""
-        },
-        {
           "title": "This Better Not Be What’s Next for the Democrats",
           "url": "https://inthesetimes.com/article/whats-next-democrats-midterms-centrism",
           "source": "In These Times",
@@ -439,6 +425,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 20 Nov 2026 23:02:30 GMT",
+          "section": ""
+        },
+        {
+          "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 20 Nov 2026 23:01:00 GMT",
+          "section": ""
+        },
+        {
           "title": "Why everyone, even the GOP, is sick of JD Vance",
           "url": "https://www.vox.com/today-explained-newsletter/511471/jd-vance-trump-iran-war-immigration-2028",
           "source": "Vox",
@@ -450,13 +450,6 @@
           "url": "https://religionnews.com/2026/11/20/judge-temporarily-blocks-umc-church-from-using-highland-park-name/",
           "source": "RNS",
           "ts": "Fri, 20 Nov 2026 22:03:19 +0000",
-          "section": ""
-        },
-        {
-          "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 21:58:50 GMT",
           "section": ""
         },
         {
@@ -488,13 +481,6 @@
           "section": ""
         },
         {
-          "title": "Striking snakes released into the wild in historic fight to save species from extinction",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/garter-snake-conservation-san-francisco",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 21:14:08 GMT",
-          "section": ""
-        },
-        {
           "title": "Silicon Valley Is Scrambling Now",
           "url": "https://www.theatlantic.com/newsletters/2026/11/karp-musk-trump-midterms/689534/?utm_source=feed",
           "source": "The Atlantic",
@@ -513,13 +499,6 @@
           "url": "https://www.nationalreview.com/article/mamdani-s-affordability-deception",
           "source": "National Review",
           "ts": "Fri, 20 Nov 2026 19:55:59 +0000",
-          "section": ""
-        },
-        {
-          "title": "Jose Ugarte gains slightly in tight race to represent South LA’s CD-9",
-          "url": "https://thelalocal.org/government/election/la-city-council-district-9-race-election-jose-ugarte-estuardo-mazariegos/",
-          "source": "LA Local",
-          "ts": "Fri, 20 Nov 2026 18:34:51 +0000",
           "section": ""
         },
         {
@@ -591,6 +570,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+          "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-216",
+          "source": "TWZ",
+          "ts": "Fri, 20 Nov 2026 18:12:57 -0500",
+          "section": ""
+        },
+        {
+          "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 20 Nov 2026 23:06:41 +0000",
+          "section": ""
+        },
+        {
           "title": "There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
           "url": "https://www.twz.com/air/there-is-more-to-air-force-ones-long-flight-from-china-than-just-breaking-records",
           "source": "TWZ",
@@ -626,13 +619,6 @@
           "section": ""
         },
         {
-          "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 20 Nov 2026 21:10:53 +0000",
-          "section": ""
-        },
-        {
           "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
           "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -658,13 +644,6 @@
           "url": "https://www.defenseone.com/threats/2026/11/new-guide-lays-out-how-army-installations-can-coordinate-local-agencies-disaster-strikes/417377/",
           "source": "Defense One - All Content",
           "ts": "Fri, 20 Nov 2026 14:42:56 -0500",
-          "section": ""
-        },
-        {
-          "title": "Navy CCA Plans Will Not Wait For F/A-XX Next Generation Fighter",
-          "url": "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
-          "source": "TWZ",
-          "ts": "Fri, 20 Nov 2026 14:38:25 -0500",
           "section": ""
         },
         {
@@ -717,10 +696,31 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "TKMS Unveils Future German Navy F128 Frigate Model at Euronaval 2026",
+          "url": "https://www.navalnews.com/naval-news/2026/11/tkms-unveils-future-german-navy-f128-frigate-model-at-euronaval-2026/",
+          "source": "Naval News",
+          "ts": "Fri, 20 Nov 2026 14:49:23 +0000",
+          "section": ""
+        },
+        {
           "title": "Pentagon’s Latest $48.3 Billion Iran War Cost Estimate Doesn’t Include This $162 Billion Figure",
           "url": "https://scheerpost.com/2026/11/20/pentagons-latest-48-3-billion-iran-war-cost-estimate-doesnt-include-this-162-billion-figure/",
           "source": "Military",
           "ts": "Fri, 20 Nov 2026 13:54:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
+          "url": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
+          "source": "Naval News",
+          "ts": "Fri, 20 Nov 2026 10:16:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "Baglietto Navy unveils new 54-metre MPV54 vessel, teams up with JA Solutions",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/baglietto-navy-unveils-new-54-metre-mpv54-vessel-teams-up-with-ja-solutions/",
+          "source": "Naval News",
+          "ts": "Fri, 20 Nov 2026 08:45:22 +0000",
           "section": ""
         },
         {
