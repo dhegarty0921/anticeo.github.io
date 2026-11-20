@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T23:17:38.530969Z",
+  "generated_at": "2026-11-20T23:32:54.853754Z",
   "headline": {
-    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
-    "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-216"
+    "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates"
   },
   "sections": [
     {
@@ -205,6 +205,13 @@
           "section": ""
         },
         {
+          "title": "Vonderful Vultures: A Thanksgiving case for the other bald bird",
+          "url": "https://newsroom.ucla.edu/stories/a-thanksgiving-case-for-the-other-bald-bird",
+          "source": "UCLA",
+          "ts": "Fri, 20 Nov 2026 16:37:00 GMT",
+          "section": ""
+        },
+        {
           "title": "How the Blue Wave Hit Utility Commissions",
           "url": "https://www.truthdig.com/articles/how-the-blue-wave-hit-utility-commissions/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-blue-wave-hit-utility-commissions",
           "source": "Truthdig",
@@ -265,13 +272,6 @@
           "url": "https://lapublicpress.org/2026/11/la-thanksgiving-giveaway-turkey-resources-food-volunteer/",
           "source": "LA Public Press",
           "ts": "Fri, 20 Nov 2026 01:04:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Mathematicians develop their own AI tools amid concerns over commercial models — and more UCLA media",
-          "url": "https://newsroom.ucla.edu/in-the-news/mathematicians-develop-their-own-ai-tools-amid-concerns-over-commercial-models-and-more-ucla-media",
-          "source": "UCLA",
-          "ts": "Thu, 19 Nov 2026 23:57:00 GMT",
           "section": ""
         },
         {
@@ -425,17 +425,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 20 Nov 2026 23:16:21 GMT",
+          "section": ""
+        },
+        {
           "title": "US police departments warn GTA VI users to ‘keep it in the game’",
           "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
           "source": "US news | The Guardian",
           "ts": "Fri, 20 Nov 2026 23:02:30 GMT",
-          "section": ""
-        },
-        {
-          "title": "Republican senator blocks Trump pick to lead cybersecurity agency who denied US Capitol was attacked on January 6 – live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 23:01:00 GMT",
           "section": ""
         },
         {
@@ -577,13 +577,6 @@
           "section": ""
         },
         {
-          "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-          "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 20 Nov 2026 23:06:41 +0000",
-          "section": ""
-        },
-        {
           "title": "There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
           "url": "https://www.twz.com/air/there-is-more-to-air-force-ones-long-flight-from-china-than-just-breaking-records",
           "source": "TWZ",
@@ -616,6 +609,13 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/20/senator-moves-to-strip-controversial-cuts-from-sweeping-veterans-benefits-bill/",
           "source": "News - Army Times",
           "ts": "Fri, 20 Nov 2026 21:21:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 20 Nov 2026 21:10:53 +0000",
           "section": ""
         },
         {
