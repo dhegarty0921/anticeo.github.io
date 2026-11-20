@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T15:32:51.468675Z",
+  "generated_at": "2026-11-20T15:47:18.598939Z",
   "headline": {
-    "title": "Israeli airstrikes hit southern Lebanon as drones fly over Beirut, Sidon",
-    "url": "https://www.middleeastmonitor.com/20261120-israeli-airstrikes-hit-southern-lebanon-as-drones-fly-over-beirut-sidon/"
+    "title": "Puntland: The strategic knot of the UAE’s Somalia policy",
+    "url": "https://www.middleeastmonitor.com/20261120-puntland-the-strategic-knot-of-the-uaes-somalia-policy/"
   },
   "sections": [
     {
@@ -114,7 +114,7 @@
           "section": ""
         },
         {
-          "title": "4.4-magnitude earthquake rattles L.A. area, centered near Commerce",
+          "title": "Why L.A.’s early-morning 4.2-magnitude earthquake didn’t ping your phone",
           "url": "https://www.latimes.com/california/story/2026-11-20/4-2-magnitude-earthquake-rattles-la-area-centered-near-commerce",
           "source": "California",
           "ts": "Fri, 20 Nov 2026 11:36:08 GMT",
@@ -404,6 +404,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "America’s most visited national park right now is inside GTA VI",
+          "url": "https://www.vox.com/down-to-earth/511310/grand-theft-auto-release-birdwatching-nature",
+          "source": "Vox",
+          "ts": "2026-11-20T10:35:21-05:00",
+          "section": ""
+        },
+        {
+          "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 20 Nov 2026 15:21:59 GMT",
+          "section": ""
+        },
+        {
           "title": "Friend zone: humiliated by US voters, Trump basks in company of autocrats",
           "url": "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit",
           "source": "US news | The Guardian",
@@ -422,13 +436,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
           "source": "US news | The Guardian",
           "ts": "Fri, 20 Nov 2026 15:09:09 GMT",
-          "section": ""
-        },
-        {
-          "title": "‘Forever our Fiona’: fans of the famous hippo mourn her death at zoo",
-          "url": "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 20 Nov 2026 15:06:46 GMT",
           "section": ""
         },
         {
@@ -478,13 +485,6 @@
           "url": "https://www.vox.com/future-perfect/511432/foie-gras-fire-hudson-valley",
           "source": "Vox",
           "ts": "2026-11-20T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Gen Z is getting nostalgic for the Obama era — with an asterisk",
-          "url": "https://www.vox.com/politics/511328/gen-z-whimz-nostalgia-obama-midterms-hope-change",
-          "source": "Vox",
-          "ts": "2026-11-20T06:30:00-05:00",
           "section": ""
         },
         {
@@ -556,17 +556,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Can German auto manufacturing recover after Mercedes and VW cuts?",
+          "url": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-20T15:36:00Z",
+          "section": ""
+        },
+        {
           "title": "The Army made .50-cal ammo less effective. The service says that’s a good thing.",
           "url": "https://www.armytimes.com/news/your-army/2026/11/20/the-army-made-50-cal-ammo-less-effective-thats-a-good-thing/",
           "source": "News - Army Times",
           "ts": "Fri, 20 Nov 2026 15:18:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-          "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 20 Nov 2026 15:18:26 +0000",
           "section": ""
         },
         {
@@ -591,17 +591,17 @@
           "section": ""
         },
         {
-          "title": "Germany face belgium in Nations League quarterfinals — Klopp plays down favorites tag",
-          "url": "https://www.dw.com/en/germany-face-belgium-in-nations-league-quarterfinals-klopp-plays-down-favorites-tag/a-80004794?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-20T14:53:00Z",
-          "section": ""
-        },
-        {
           "title": "Saudi coalition and Houthis exchange threats to bomb key ports",
           "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 20 Nov 2026 14:48:04 +0000",
+          "section": ""
+        },
+        {
+          "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
+          "url": "https://www.aljazeera.com/news/2026/11/20/hot-potato-can-japan-resist-trump-pressure-to-import-food-staple?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 20 Nov 2026 14:38:25 +0000",
           "section": ""
         },
         {
@@ -771,6 +771,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Establishment Dems Want to Renew Trump’s Domestic Spy Powers Before New Congress",
+          "url": "https://theintercept.com/2026/11/20/fisa-warrantless-spying-lame-duck-himes/",
+          "source": "The Intercept",
+          "ts": "Fri, 20 Nov 2026 15:35:16 +0000",
+          "section": ""
+        },
+        {
           "title": "Making Cubans Pay for Regime Change",
           "url": "https://www.justsecurity.org/159985/legality-economic-suffering-regime-change-cuba/?utm_source=rss&utm_medium=rss&utm_campaign=legality-economic-suffering-regime-change-cuba",
           "source": "Just Security",
@@ -841,13 +848,6 @@
           "section": ""
         },
         {
-          "title": "Just Rinse It Off, Army Says Before Blowing Up Five Tons of Lead Compound",
-          "url": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
-          "source": "The Intercept",
-          "ts": "Thu, 19 Nov 2026 19:37:59 +0000",
-          "section": ""
-        },
-        {
           "title": "Ex-FBI Agent Sent to Prison for Cyberstalking His Informant’s Little Sister",
           "url": "https://headlineusa.com/ex-fbi-agent-sent-to-prison-for-cyberstalking-his-informants-little-sister/",
           "source": "Ken Silva, Author at Headline USA",
@@ -902,6 +902,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Puntland: The strategic knot of the UAE’s Somalia policy",
+          "url": "https://www.middleeastmonitor.com/20261120-puntland-the-strategic-knot-of-the-uaes-somalia-policy/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 20 Nov 2026 15:43:08 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli airstrikes hit southern Lebanon as drones fly over Beirut, Sidon",
           "url": "https://www.middleeastmonitor.com/20261120-israeli-airstrikes-hit-southern-lebanon-as-drones-fly-over-beirut-sidon/",
           "source": "Middle East Monitor",
@@ -920,13 +927,6 @@
           "url": "https://www.middleeastmonitor.com/20261120-saudi-led-coalition-launches-military-operation-against-houthi-targets-in-yemen/",
           "source": "Middle East Monitor",
           "ts": "Fri, 20 Nov 2026 15:09:50 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Around 350 Palestinian children held in Israeli prisons face torture, starvation: Prisoner groups",
-          "url": "https://www.middleeastmonitor.com/20261120-around-350-palestinian-children-held-in-israeli-prisons-face-torture-starvation-prisoner-groups/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 20 Nov 2026 14:53:23 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
