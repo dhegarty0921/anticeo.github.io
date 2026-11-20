@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-20T21:03:47.663844Z",
+  "generated_at": "2026-11-20T21:17:40.573508Z",
   "headline": {
-    "title": "Ctrl-Alt-Speech: Make America Break Again",
-    "url": "https://www.techdirt.com/2026/11/20/ctrl-alt-speech-make-america-break-again/"
+    "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+    "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
   },
   "sections": [
     {
@@ -135,13 +135,6 @@
           "section": ""
         },
         {
-          "title": "Atmospheric river dumps rain on Southern California, breaking decades-old records",
-          "url": "https://www.latimes.com/california/story/2026-11-20/atmospheric-river-socal-record-rain",
-          "source": "California",
-          "ts": "Fri, 20 Nov 2026 17:59:48 GMT",
-          "section": ""
-        },
-        {
           "title": "A quake with a 4.2 magnitude struck near Commerce, rattling LA overnight",
           "url": "https://thelalocal.org/news/4-2-magnitude-earthquake-rattles-la/",
           "source": "LA Local",
@@ -181,13 +174,6 @@
           "url": "https://www.truthdig.com/articles/how-the-blue-wave-hit-utility-commissions/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-blue-wave-hit-utility-commissions",
           "source": "Truthdig",
           "ts": "Fri, 20 Nov 2026 16:31:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "Step 1 for Democrats: Raise the Minimum Wage",
-          "url": "https://www.truthdig.com/articles/step-one-for-democrats-raise-the-minimum-wage/?utm_source=rss&utm_medium=rss&utm_campaign=step-one-for-democrats-raise-the-minimum-wage",
-          "source": "Truthdig",
-          "ts": "Fri, 20 Nov 2026 16:21:27 +0000",
           "section": ""
         },
         {
@@ -300,13 +286,6 @@
           "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
           "source": "In These Times",
           "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
-          "section": ""
-        },
-        {
-          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
-          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
-          "source": "LA Public Press",
-          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
           "section": ""
         },
         {
@@ -439,6 +418,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Tech Executives Flip-Flopping on Trump",
+          "url": "https://www.theatlantic.com/newsletters/2026/11/karp-musk-trump-midterms/689534/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-20T16:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Trump says Vance’s statement blaming Iran war for Republican midterm wipeout was ‘fine’ in wide-ranging press conference – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
           "source": "US news | The Guardian",
@@ -544,13 +530,6 @@
           "section": ""
         },
         {
-          "title": "The Taylor Swift Museum Exhibition Is an SOS Call",
-          "url": "https://www.theatlantic.com/culture/2026/11/taylor-swift-museum-boston/689520/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-20T09:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Teachers are reeling from an existential crisis. You’re probably feeling it too.",
           "url": "https://www.vox.com/life/511380/teachers-existential-crisis-work-identity",
           "source": "Vox",
@@ -591,6 +570,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 20 Nov 2026 21:05:07 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+          "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 20 Nov 2026 20:59:04 +0000",
+          "section": ""
+        },
+        {
+          "title": "Can the UK and EU turn the page on Brexit?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 20 Nov 2026 20:51:19 +0000",
+          "section": ""
+        },
+        {
           "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
           "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -609,27 +609,6 @@
           "url": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-20T20:34:00Z",
-          "section": ""
-        },
-        {
-          "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
-          "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 20 Nov 2026 20:30:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-          "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 20 Nov 2026 20:14:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Nepali cricket fans in Qatar want to see their team competing with the best",
-          "url": "https://www.aljazeera.com/sports/2026/11/20/nepali-cricket-fans-in-qatar-want-to-see-their-team-competing-with-the-best?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 20 Nov 2026 20:03:11 +0000",
           "section": ""
         },
         {
@@ -710,10 +689,31 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
+          "title": "TKMS Unveils Future German Navy F128 Frigate Model at Euronaval 2026",
+          "url": "https://www.navalnews.com/naval-news/2026/11/tkms-unveils-future-german-navy-f128-frigate-model-at-euronaval-2026/",
+          "source": "Naval News",
+          "ts": "Fri, 20 Nov 2026 14:49:23 +0000",
+          "section": ""
+        },
+        {
           "title": "Pentagon’s Latest $48.3 Billion Iran War Cost Estimate Doesn’t Include This $162 Billion Figure",
           "url": "https://scheerpost.com/2026/11/20/pentagons-latest-48-3-billion-iran-war-cost-estimate-doesnt-include-this-162-billion-figure/",
           "source": "Military",
           "ts": "Fri, 20 Nov 2026 13:54:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Italy’s Next-Generation DDG (NG DDG / DDX): First Platform and Combat System Details",
+          "url": "https://www.navalnews.com/features/2026/11/italy-next-generation-ddg-ddx-combat-system-details/",
+          "source": "Naval News",
+          "ts": "Fri, 20 Nov 2026 10:16:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "Baglietto Navy unveils new 54-metre MPV54 vessel, teams up with JA Solutions",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/baglietto-navy-unveils-new-54-metre-mpv54-vessel-teams-up-with-ja-solutions/",
+          "source": "Naval News",
+          "ts": "Fri, 20 Nov 2026 08:45:22 +0000",
           "section": ""
         },
         {
