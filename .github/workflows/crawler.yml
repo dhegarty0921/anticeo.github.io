@@ -10,6 +10,7 @@ permissions:
   contents: write   # to commit anticeo-news.json
   pages: write      # to deploy the site (GITHUB_TOKEN pushes don't retrigger pages.yml)
   id-token: write
+  actions: read     # to poll artifact visibility before deploy-pages
 
 concurrency:
   group: "pages"
@@ -76,6 +77,27 @@ jobs:
         with:
           path: .
 
+      # deploy-pages reads artifacts via the REST API, which can lag a few
+      # seconds behind a successful upload — runs 44905587442 and 44909308481
+      # failed with "No artifacts named github-pages were found" even though
+      # the upload had just finalized. Poll the same API until the artifact is
+      # visible: if we can see it here, deploy-pages can see it too.
+      - name: Wait for artifact visibility
+        run: |
+          name="${{ env.ARTIFACT_NAME }}"
+          for i in $(seq 1 15); do
+            if gh api "repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts?per_page=100" \
+                 --jq '.artifacts[].name' | grep -qx "$name"; then
+              echo "artifact $name is visible"
+              exit 0
+            fi
+            echo "artifact not visible yet (attempt $i)"; sleep 4
+          done
+          echo "artifact $name never became visible"; exit 1
+        env:
+          ARTIFACT_NAME: github-pages
+          GH_TOKEN: ${{ github.token }}
+
       - name: Deploy to GitHub Pages
         id: deployment
         # Pages deployments occasionally stall in "updating_pages" and burn the
@@ -95,6 +117,23 @@ jobs:
         with:
           name: github-pages-retry
           path: .
+
+      - name: Wait for retry artifact visibility
+        if: steps.deployment.outcome == 'failure'
+        run: |
+          name="${{ env.ARTIFACT_NAME }}"
+          for i in $(seq 1 15); do
+            if gh api "repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts?per_page=100" \
+                 --jq '.artifacts[].name' | grep -qx "$name"; then
+              echo "artifact $name is visible"
+              exit 0
+            fi
+            echo "artifact not visible yet (attempt $i)"; sleep 4
+          done
+          echo "artifact $name never became visible"; exit 1
+        env:
+          ARTIFACT_NAME: github-pages-retry
+          GH_TOKEN: ${{ github.token }}
 
       - name: Deploy to GitHub Pages (retry)
         if: steps.deployment.outcome == 'failure'
