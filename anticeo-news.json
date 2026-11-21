@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:04:27.084646Z",
+  "generated_at": "2026-11-21T18:18:59.822552Z",
   "headline": {
     "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
     "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html"
@@ -12,7 +12,14 @@
           "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
           "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sat, 21 Nov 2026 18:02:18 +0000",
+          "ts": "Sat, 21 Nov 2026 18:15:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "source": "NPR Topics: News",
+          "ts": "Sat, 21 Nov 2026 13:08:55 -0500",
           "section": ""
         },
         {
@@ -58,31 +65,10 @@
           "section": ""
         },
         {
-          "title": "Trump says he could reach 'historic' deals with Democrats on immigration and healthcare",
-          "url": "https://www.washingtontimes.com/news/2026/nov/21/trump-says-could-reach-historic-deals-democrats-immigration/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 21 Nov 2026 10:29:32 -0500",
-          "section": ""
-        },
-        {
-          "title": "WATCH: First new D.C. delegate-elect since 1991 hopes Democrats win helps statehood goal",
-          "url": "https://www.washingtontimes.com/news/2026/nov/21/robert-white-jr-first-new-dc-delegate-elect-since-1991-statehood-goal/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 21 Nov 2026 10:26:04 -0500",
-          "section": ""
-        },
-        {
           "title": "How a White House Briefing Turned Into a 2028 Tryout",
           "url": "https://www.realclearpolitics.com/state-elections/links/how-a-white-house-briefing-turned-into-a-2028-tryout-2026-11-21",
           "source": "RealClearPolitics - Homepage",
           "ts": "Sat, 21 Nov 2026 09:17:55 -0600",
-          "section": ""
-        },
-        {
-          "title": "WATCH: Smart money investing in age of tax-happy Dems",
-          "url": "https://www.washingtontimes.com/news/2026/nov/21/bold-blunt-smart-money-investing-age-tax-happy-dems/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 21 Nov 2026 10:17:03 -0500",
           "section": ""
         },
         {
@@ -111,13 +97,6 @@
           "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Sat, 21 Nov 2026 14:02:03 GMT",
-          "section": ""
-        },
-        {
-          "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-          "source": "NPR Topics: News",
-          "ts": "Sat, 21 Nov 2026 08:58:33 -0500",
           "section": ""
         },
         {
@@ -163,6 +142,20 @@
           "section": ""
         },
         {
+          "title": "Hacking the KEI-001, by Eric Peters",
+          "url": "https://www.unz.com/article/hacking-the-kei-001/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 21 Nov 2026 05:00:24 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran Prepares to Break Trump's Oil Blockade, by Mike Whitney",
+          "url": "https://www.unz.com/mwhitney/iran-prepares-to-break-trumps-oil-blockade/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 21 Nov 2026 05:00:24 +0000",
+          "section": ""
+        },
+        {
           "title": "Gloria Gray’s effort to audit Inglewood’s billboard revenue dies in City Council",
           "url": "https://thelalocal.org/government/inglewood-city-council-gloria-gray-billboard-audit/",
           "source": "LA Local",
@@ -174,13 +167,6 @@
           "url": "https://newsroom.ucla.edu/in-the-news/ucla-researchers-explore-new-way-to-protect-firefighters-from-toxic-wildfire-smoke-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Sat, 21 Nov 2026 00:22:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Man found guilty of starting the deadly 2025 Palisades Fire",
-          "url": "https://thelalocal.org/los-angeles-county/man-guilty-palisades-fire-arson-verdict/",
-          "source": "LA Local",
-          "ts": "Fri, 20 Nov 2026 23:34:49 +0000",
           "section": ""
         },
         {
@@ -261,13 +247,6 @@
           "section": ""
         },
         {
-          "title": "Missouri Is Switching Prison Tablet Companies. Here’s Why Incarcerated People Are Worried.",
-          "url": "https://www.themarshallproject.org/2026/11/20/missouri-prison-tablet-switch-memories",
-          "source": "The Marshall Project",
-          "ts": "Fri, 20 Nov 2026 06:00:57 -0500",
-          "section": ""
-        },
-        {
           "title": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
           "url": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
           "source": "ProPublica",
@@ -314,13 +293,6 @@
           "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
           "source": "In These Times",
           "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
-          "section": ""
-        },
-        {
-          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
-          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
-          "source": "LA Public Press",
-          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
           "section": ""
         },
         {
@@ -563,17 +535,17 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "USS Theodore Roosevelt Arrives In The Middle East, Relieving USS George Washington",
+          "url": "https://www.twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington",
+          "source": "TWZ",
+          "ts": "Sat, 21 Nov 2026 13:11:09 -0500",
+          "section": ""
+        },
+        {
           "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 21 Nov 2026 17:57:27 +0000",
-          "section": ""
-        },
-        {
-          "title": "Theodore Roosevelt Strike Group Arrives In The Middle East, Relieving USS George Washington",
-          "url": "https://www.twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington",
-          "source": "TWZ",
-          "ts": "Sat, 21 Nov 2026 12:56:11 -0500",
           "section": ""
         },
         {
@@ -612,6 +584,13 @@
           "section": ""
         },
         {
+          "title": "U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-prepares-for-third-zumwalt-hypersonic-upgrade/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 16:14:42 +0000",
+          "section": ""
+        },
+        {
           "title": "City Atty.-elect Marissa Roy enlists a small army to shape her agenda",
           "url": "https://www.latimes.com/california/newsletter/2026-11-21/marissa-roy-transition-team-la-on-the-record",
           "source": "California",
@@ -630,6 +609,20 @@
           "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-21T14:58:00Z",
+          "section": ""
+        },
+        {
+          "title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
+          "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 10:18:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine",
+          "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-norway-commit-over-100m-for-two-new-fast-attack-craft-for-ukraine/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 08:46:25 +0000",
           "section": ""
         },
         {
@@ -930,6 +923,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "\"I Think AIPAC Is Finished\", by Michael Arria",
+          "url": "https://www.unz.com/article/i-think-aipac-is-finished/",
+          "source": "The Unz Review:",
+          "ts": "Sat, 21 Nov 2026 05:00:45 +0000",
+          "section": ""
+        },
+        {
           "title": "Check out our activities for the Week of November 20, 2026 - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAydGt0dkpSWElsRmlvcUFkVnhIQUIzT2pnYVN3VHFWSTVFSExva2dPT1dwZVVhT1U2bXBwMFBBQmcwUWE3amdjN1BYOA?oc=5",
           "source": "CODEPINK",
@@ -944,20 +944,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Preparing Gaza's next generation of photojournalists",
-          "url": "https://electronicintifada.net/content/preparing-gazas-next-generation-photojournalists/51774",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 18:41:13 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Books on Gaza genocide by writers who lived through it",
-          "url": "https://electronicintifada.net/blogs/khaled-el-hissy/books-gaza-genocide-writers-who-lived-through-it",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 15:47:46 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "War On Iran: – Tanker Convoy Will Challenge U.S. Blockade",
           "url": "https://www.moonofalabama.org/2026/11/war-on-iran-tanker-convoy-will-challenge-u-s-blockade.html",
           "source": "Moon of Alabama",
@@ -969,13 +955,6 @@
           "url": "https://mondoweiss.net/2026/11/i-think-aipac-is-finished-an-interview-with-mondoweiss-founder-phil-weiss/",
           "source": "Mondoweiss",
           "ts": "Fri, 20 Nov 2026 12:30:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "What ceasefire? Israel launches new ground assault on Gaza",
-          "url": "https://electronicintifada.net/blogs/nora-barrows-friedman/what-ceasefire-israel-launches-new-ground-assault-gaza",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 12:02:09 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
