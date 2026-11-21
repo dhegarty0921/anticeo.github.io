@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-21T21:32:47.881455Z",
+  "generated_at": "2026-11-21T21:47:38.476920Z",
   "headline": {
-    "title": "Impunity fuels surge in settler violence across occupied West Bank",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss"
+    "title": "Bahrain says Iranian attack causes fire at industrial facility",
+    "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss"
   },
   "sections": [
     {
@@ -20,6 +20,27 @@
           "url": "https://www.nytimes.com/2026/11/21/us/politics/trump-congressional-oversight-contractors.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Sat, 21 Nov 2026 20:20:24 +0000",
+          "section": ""
+        },
+        {
+          "title": "Texas Rep.-elect Pulido to fellow Dems: Don't make an enemy of Musk",
+          "url": "https://www.washingtontimes.com/news/2026/nov/21/texas-rep-elect-pulido-fellow-dems-dont-make-enemy-musk/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sat, 21 Nov 2026 15:01:26 -0500",
+          "section": ""
+        },
+        {
+          "title": "Cornyn continues to block Trump judicial nominee",
+          "url": "https://www.washingtontimes.com/news/2026/nov/21/cornyn-continues-block-trump-judicial-nominee/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sat, 21 Nov 2026 14:46:38 -0500",
+          "section": ""
+        },
+        {
+          "title": "U.S. senator says Pentagon restrictions on Canada focus on think tanks and social events",
+          "url": "https://www.washingtontimes.com/news/2026/nov/21/us-senator-says-pentagon-restrictions-canada-focus-think-tanks-social/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sat, 21 Nov 2026 14:21:17 -0500",
           "section": ""
         },
         {
@@ -55,6 +76,13 @@
           "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
           "source": "NPR Topics: News",
           "ts": "Sat, 21 Nov 2026 13:22:46 -0500",
+          "section": ""
+        },
+        {
+          "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+          "source": "NPR Topics: News",
+          "ts": "Sat, 21 Nov 2026 13:08:55 -0500",
           "section": ""
         },
         {
@@ -128,13 +156,6 @@
           "section": ""
         },
         {
-          "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
-          "url": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
-          "source": "NPR Topics: Politics",
-          "ts": "Sat, 21 Nov 2026 07:40:21 -0500",
-          "section": ""
-        },
-        {
           "title": "The Cozy Radicalism of DIY Repair Cafés",
           "url": "https://www.motherjones.com/environment/2026/11/diy-repair-cafes-gadgets-furniture-how-to-throwaway-culture-planned-obselescence/",
           "source": "Mother Jones",
@@ -146,20 +167,6 @@
           "url": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
           "source": "ProPublica",
           "ts": "Sat, 21 Nov 2026 10:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Hacking the KEI-001, by Eric Peters",
-          "url": "https://www.unz.com/article/hacking-the-kei-001/",
-          "source": "The Unz Review:",
-          "ts": "Sat, 21 Nov 2026 05:00:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran Prepares to Break Trump's Oil Blockade, by Mike Whitney",
-          "url": "https://www.unz.com/mwhitney/iran-prepares-to-break-trumps-oil-blockade/",
-          "source": "The Unz Review:",
-          "ts": "Sat, 21 Nov 2026 05:00:24 +0000",
           "section": ""
         },
         {
@@ -251,6 +258,13 @@
           "url": "https://www.truthdig.com/articles/how-the-blue-wave-hit-utility-commissions/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-blue-wave-hit-utility-commissions",
           "source": "Truthdig",
           "ts": "Fri, 20 Nov 2026 16:31:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "Step 1 for Democrats: Raise the Minimum Wage",
+          "url": "https://www.truthdig.com/articles/step-one-for-democrats-raise-the-minimum-wage/?utm_source=rss&utm_medium=rss&utm_campaign=step-one-for-democrats-raise-the-minimum-wage",
+          "source": "Truthdig",
+          "ts": "Fri, 20 Nov 2026 16:21:27 +0000",
           "section": ""
         },
         {
@@ -446,6 +460,13 @@
           "section": ""
         },
         {
+          "title": "Texas Drops Lawsuits Against Out-of-State Abortion Providers",
+          "url": "https://truthout.org/articles/texas-drops-lawsuits-against-out-of-state-abortion-providers/",
+          "source": "Truthout",
+          "ts": "Sat, 21 Nov 2026 16:12:49 +0000",
+          "section": ""
+        },
+        {
           "title": "Two Risk-Takers Walk Into a Football Stadium",
           "url": "https://www.theatlantic.com/culture/2026/11/vikings-49ers-coaching/689538/?utm_source=feed",
           "source": "The Atlantic",
@@ -563,6 +584,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Bahrain says Iranian attack causes fire at industrial facility",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sat, 21 Nov 2026 21:31:03 +0000",
+          "section": ""
+        },
+        {
           "title": "Impunity fuels surge in settler violence across occupied West Bank",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -577,20 +605,6 @@
           "section": ""
         },
         {
-          "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-          "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 21 Nov 2026 21:02:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "NATO’s  Intelligence, Surveillance, Reconnaissance (ISR) Critical of Terrorist Attacks on Crimea Bridge",
-          "url": "https://www.globalresearch.ca/natos-intelligence-surveillance-reconnaissance-isr-critical-of-terrorist-attacks-on-crimea-bridge/5946363",
-          "source": "Global Research",
-          "ts": "Sat, 21 Nov 2026 18:39:25 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "Getting rid of antibiotic resistance: Challenges and possible solutions",
           "url": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -603,13 +617,6 @@
           "source": "Deutsche Welle",
           "ts": "2026-11-21T18:30:00Z",
           "section": ""
-        },
-        {
-          "title": "Iran’s Alleged Dirty Bomb Attack against Washington D.C. : Americans Didn’t Fall for the “9/11 Style Narrative”.  So the US Backed Down – For Now",
-          "url": "https://www.globalresearch.ca/americans-didnt-buy-the-new-911-style-narrative-so-the-us-backed-down-for-now/5946366",
-          "source": "Global Research",
-          "ts": "Sat, 21 Nov 2026 18:22:09 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "USS Theodore Roosevelt Arrives In The Middle East, Relieving USS George Washington",
@@ -640,6 +647,13 @@
           "section": ""
         },
         {
+          "title": "City Atty.-elect Marissa Roy enlists a small army to shape her agenda",
+          "url": "https://www.latimes.com/california/newsletter/2026-11-21/marissa-roy-transition-team-la-on-the-record",
+          "source": "California",
+          "ts": "Sat, 21 Nov 2026 16:00:00 GMT",
+          "section": ""
+        },
+        {
           "title": "The military lacks an ‘overarching plan’ to improve munition stockpiles—partly because it’s no one’s job",
           "url": "https://www.defenseone.com/threats/2026/11/military-lacks-munitions-plan/417390/",
           "source": "Defense One - All Content",
@@ -659,13 +673,6 @@
           "source": "TWZ",
           "ts": "Fri, 20 Nov 2026 18:12:57 -0500",
           "section": ""
-        },
-        {
-          "title": "Merz defende mais verbas para Ucrânia",
-          "url": "https://www.globalresearch.ca/merz-defende-mais-verbas-para-ucrania/5946135",
-          "source": "Global Research",
-          "ts": "Fri, 20 Nov 2026 23:05:47 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "There Is More To Air Force One’s Long Flight From China Than Just Breaking Records",
@@ -778,20 +785,6 @@
           "section": ""
         },
         {
-          "title": "Local Officials Failed to Charge Ex-CIA Boss’s Son, Despite Police Having Evidence in 2024",
-          "url": "https://headlineusa.com/local-officials-failed-to-charge-ex-cia-bosss-son-despite-police-having-evidence-in-2024/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Sat, 21 Nov 2026 15:38:48 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
-          "title": "Candace Owens Fails to Shake Lawsuit from Charlie Kirk’s Ex-Bodyguard",
-          "url": "https://headlineusa.com/candace-owens-fails-to-shake-lawsuit-from-charlie-kirks-ex-bodyguard/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Sat, 21 Nov 2026 14:53:26 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "White House Withdraws Latest Nominee To Head The FDA; HHS Chaos Engine Goes Brrrrrr",
           "url": "https://www.techdirt.com/2026/11/20/white-house-withdraws-latest-nominee-to-head-the-fda-hhs-chaos-engine-goes-brrrrrr/",
           "source": "Techdirt",
@@ -862,13 +855,6 @@
           "section": ""
         },
         {
-          "title": "Ex-FBI Agent Sent to Prison for Cyberstalking His Informant’s Little Sister",
-          "url": "https://headlineusa.com/ex-fbi-agent-sent-to-prison-for-cyberstalking-his-informants-little-sister/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Thu, 19 Nov 2026 16:16:26 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "Outage Chaos: When Tech is too Big to Fail",
           "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-when-tech-too-big-fail",
           "source": "Deeplinks",
@@ -923,13 +909,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "\"I Think AIPAC Is Finished\", by Michael Arria",
-          "url": "https://www.unz.com/article/i-think-aipac-is-finished/",
-          "source": "The Unz Review:",
-          "ts": "Sat, 21 Nov 2026 05:00:45 +0000",
-          "section": ""
-        },
-        {
           "title": "Check out our activities for the Week of November 20, 2026 - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAydGt0dkpSWElsRmlvcUFkVnhIQUIzT2pnYVN3VHFWSTVFSExva2dPT1dwZVVhT1U2bXBwMFBBQmcwUWE3amdjN1BYOA?oc=5",
           "source": "CODEPINK",
@@ -944,6 +923,20 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Preparing Gaza's next generation of photojournalists",
+          "url": "https://electronicintifada.net/content/preparing-gazas-next-generation-photojournalists/51774",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 18:41:13 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Books on Gaza genocide by writers who lived through it",
+          "url": "https://electronicintifada.net/blogs/khaled-el-hissy/books-gaza-genocide-writers-who-lived-through-it",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 15:47:46 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "War On Iran: – Tanker Convoy Will Challenge U.S. Blockade",
           "url": "https://www.moonofalabama.org/2026/11/war-on-iran-tanker-convoy-will-challenge-u-s-blockade.html",
           "source": "Moon of Alabama",
@@ -955,6 +948,13 @@
           "url": "https://mondoweiss.net/2026/11/i-think-aipac-is-finished-an-interview-with-mondoweiss-founder-phil-weiss/",
           "source": "Mondoweiss",
           "ts": "Fri, 20 Nov 2026 12:30:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "What ceasefire? Israel launches new ground assault on Gaza",
+          "url": "https://electronicintifada.net/blogs/nora-barrows-friedman/what-ceasefire-israel-launches-new-ground-assault-gaza",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 12:02:09 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -996,6 +996,13 @@
           "source": "The Marshall Project",
           "ts": "Sat, 21 Nov 2026 12:00:00 -0500",
           "section": ""
+        },
+        {
+          "title": "Practice Advisories - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BREF6Q2hHZEtLWmJHWnpTM1dUeG5ESUd1MjF1aGh6MjhNbUNoZl9QSVFXLWFadlRsaVlLUFZDNVJqazAxZUhlTnA2OThIakd0OEN6MTh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Sat, 21 Nov 2026 00:56:45 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
           "title": "New Rules Aim to End Implicit Collaboration Between Law Enforcement and ICE",
