@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T14:32:48.637054Z",
+  "generated_at": "2026-11-22T14:47:27.872204Z",
   "headline": {
-    "title": "Gaza cannot wait for the Hague verdict",
-    "url": "https://www.middleeastmonitor.com/20261122-gaza-cannot-wait-for-the-hague-verdict/"
+    "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
+    "url": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
   },
   "sections": [
     {
@@ -12,7 +12,21 @@
           "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
           "url": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 22 Nov 2026 14:19:43 +0000",
+          "ts": "Sun, 22 Nov 2026 14:42:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump Order Aims to Restrict What Federal Contractors Can Tell Congress",
+          "url": "https://truthout.org/articles/trump-order-aims-to-restrict-what-federal-contractors-can-tell-congress/",
+          "source": "Truthout",
+          "ts": "Sun, 22 Nov 2026 14:35:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "Cole's French dips, the Original Pantry Cafe return in an era of closures",
+          "url": "https://www.latimes.com/california/newsletter/2026-11-22/how-to-interpret-coles-french-dips-the-original-pantry-cafes-return",
+          "source": "California",
+          "ts": "Sun, 22 Nov 2026 14:30:00 GMT",
           "section": ""
         },
         {
@@ -114,10 +128,17 @@
           "section": ""
         },
         {
-          "title": "Raid of Chico warehouses nets 118 tons of marijuana, 62 arrests, officials say",
-          "url": "https://www.latimes.com/california/story/2026-11-21/raid-of-chico-warehouses-nets-118-tons-of-marijuana-62-arrests-officials-say",
-          "source": "California",
-          "ts": "Sun, 22 Nov 2026 02:42:10 GMT",
+          "title": "Why MAGA Will Never Stop Mass Migration, by Jose Alberto Nino",
+          "url": "https://www.unz.com/jnino/why-maga-will-never-stop-mass-migration/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 22 Nov 2026 05:00:38 +0000",
+          "section": ""
+        },
+        {
+          "title": "Panic, Conspiracy Theories, and Distrust of Government..., by Kevin Barrett",
+          "url": "https://www.unz.com/kbarrett/panic-conspiracy-theories-and-distrust-of-government/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 22 Nov 2026 05:00:25 +0000",
           "section": ""
         },
         {
@@ -125,27 +146,6 @@
           "url": "https://thelalocal.org/los-angeles-city/la-sidewalk-toilets/",
           "source": "LA Local",
           "ts": "Sat, 21 Nov 2026 23:29:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump boosts El-Sayed's call for Medicare for All",
-          "url": "https://www.washingtontimes.com/news/2026/nov/21/trump-boosts-el-sayeds-call-medicare/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 21 Nov 2026 15:56:37 -0500",
-          "section": ""
-        },
-        {
-          "title": "Texas Rep.-elect Pulido to fellow Dems: Don't make an enemy of Musk",
-          "url": "https://www.washingtontimes.com/news/2026/nov/21/texas-rep-elect-pulido-fellow-dems-dont-make-enemy-musk/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 21 Nov 2026 15:01:26 -0500",
-          "section": ""
-        },
-        {
-          "title": "Cornyn continues to block Trump judicial nominee",
-          "url": "https://www.washingtontimes.com/news/2026/nov/21/cornyn-continues-block-trump-judicial-nominee/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Sat, 21 Nov 2026 14:46:38 -0500",
           "section": ""
         },
         {
@@ -549,13 +549,6 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
-          "url": "https://www.aljazeera.com/news/2026/11/22/iran-unveils-dual-missile-launcher-new-missile-city-what-to-know?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 14:20:41 +0000",
-          "section": ""
-        },
-        {
           "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
           "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -567,6 +560,13 @@
           "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 22 Nov 2026 14:00:31 +0000",
+          "section": ""
+        },
+        {
+          "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 22 Nov 2026 13:46:45 +0000",
           "section": ""
         },
         {
@@ -610,6 +610,13 @@
           "source": "Global Research",
           "ts": "Sun, 22 Nov 2026 11:27:21 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "The Ever-Widening War, by Paul Craig Roberts",
+          "url": "https://www.unz.com/proberts/the-ever-widening-war-23/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 22 Nov 2026 05:00:22 +0000",
+          "section": ""
         },
         {
           "title": "The U.S. Japan, Australia, India Quad: A Potential  “Asian NATO”: Group’s Military Turn Raises Stakes in Indo-Pacific",
@@ -937,31 +944,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Preparing Gaza's next generation of photojournalists",
-          "url": "https://electronicintifada.net/content/preparing-gazas-next-generation-photojournalists/51774",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 18:41:13 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Books on Gaza genocide by writers who lived through it",
-          "url": "https://electronicintifada.net/blogs/khaled-el-hissy/books-gaza-genocide-writers-who-lived-through-it",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 15:47:46 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "‘I think AIPAC is finished’: An interview with Mondoweiss founder Phil Weiss",
           "url": "https://mondoweiss.net/2026/11/i-think-aipac-is-finished-an-interview-with-mondoweiss-founder-phil-weiss/",
           "source": "Mondoweiss",
           "ts": "Fri, 20 Nov 2026 12:30:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "What ceasefire? Israel launches new ground assault on Gaza",
-          "url": "https://electronicintifada.net/blogs/nora-barrows-friedman/what-ceasefire-israel-launches-new-ground-assault-gaza",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 12:02:09 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -995,13 +981,6 @@
           "url": "https://truthout.org/articles/immigrants-in-us-and-palestinians-face-mirroring-systems-of-oppression/",
           "source": "Truthout",
           "ts": "Sun, 22 Nov 2026 13:57:42 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump Administration Is Hiking Immigration Bond Costs to Keep Migrants Locked Up",
-          "url": "https://truthout.org/articles/trump-administration-is-hiking-immigration-bond-costs-to-keep-migrants-locked-up/",
-          "source": "Truthout",
-          "ts": "Sun, 22 Nov 2026 13:46:53 +0000",
           "section": ""
         },
         {
