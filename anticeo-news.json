@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-22T13:17:54.367380Z",
+  "generated_at": "2026-11-22T13:32:44.278240Z",
   "headline": {
-    "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
-    "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress"
+    "title": "The Relationship That Can Survive Not Talking for Years",
+    "url": "https://www.theatlantic.com/family/2026/11/friends-dark-matter/689541/?utm_source=feed"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "The MoA Week In Review – OT 2026-259",
+          "url": "https://www.moonofalabama.org/2026/11/the-moa-week-in-review-ot-2026-259.html",
+          "source": "Moon of Alabama",
+          "ts": "Sun, 22 Nov 2026 13:19:08 +0000",
+          "section": ""
+        },
         {
           "title": "Politics chat: Lawmakers step up with only weeks to Democrats' control of Congress",
           "url": "https://www.npr.org/2026/11/22/nx-s1-6045787/politics-chat-lawmakers-step-up-with-only-weeks-to-democrats-control-of-congress",
@@ -331,13 +338,6 @@
           "section": ""
         },
         {
-          "title": "Democrats Are Back – At Screwing Their Voters",
-          "url": "https://www.moonofalabama.org/2026/11/democrats-are-back-at-screwing-their-voters.html",
-          "source": "Moon of Alabama",
-          "ts": "Thu, 19 Nov 2026 10:30:53 +0000",
-          "section": ""
-        },
-        {
           "title": "Mullin Says Skipping LSU Game Amid FAA Crisis Would Have Caused ‘Confusion’",
           "url": "https://www.rollingstone.com/politics/politics-news/markwayne-mullin-lsu-game-confusion-1235660454/",
           "source": "Politics News",
@@ -411,6 +411,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The Relationship That Can Survive Not Talking for Years",
+          "url": "https://www.theatlantic.com/family/2026/11/friends-dark-matter/689541/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-22T08:30:00-05:00",
+          "section": ""
+        },
+        {
           "title": "The life, death and improbable rebirth of LA’s most beloved diner",
           "url": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
           "source": "US news | The Guardian",
@@ -418,7 +425,7 @@
           "section": ""
         },
         {
-          "title": "Inside the Trump Administration’s Ultra-Processed-Food Fight",
+          "title": "How ‘Real Food’ Nearly Broke the White House",
           "url": "https://www.theatlantic.com/health/2026/11/ultra-processed-food-definition-wiles-means-kennedy/689536/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-22T08:00:00-05:00",
@@ -442,13 +449,6 @@
           "title": "Adults are buying more toys than ever. You should too.",
           "url": "https://www.vox.com/explain-it-to-me/511306/kidults-toy-industry-play-brain-benefits",
           "source": "Vox",
-          "ts": "2026-11-22T07:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "What We Don’t Know About the Iran War",
-          "url": "https://www.theatlantic.com/national-security/2026/11/iran-war-pentagon-information-access/689524/?utm_source=feed",
-          "source": "The Atlantic",
           "ts": "2026-11-22T07:00:00-05:00",
           "section": ""
         },
@@ -556,6 +556,41 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Iran Open Thread 2026-261",
+          "url": "https://www.moonofalabama.org/2026/11/iran-open-thread-2026-261.html",
+          "source": "Moon of Alabama",
+          "ts": "Sun, 22 Nov 2026 13:20:15 +0000",
+          "section": ""
+        },
+        {
+          "title": "Ukraine Open Thread 2026-260",
+          "url": "https://www.moonofalabama.org/2026/11/ukraine-open-thread-2026-260.html",
+          "source": "Moon of Alabama",
+          "ts": "Sun, 22 Nov 2026 13:19:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
+          "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-22T13:18:00Z",
+          "section": ""
+        },
+        {
+          "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+          "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 22 Nov 2026 13:16:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+          "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 22 Nov 2026 13:15:40 +0000",
+          "section": ""
+        },
+        {
           "title": "COP31: Climate deal 'not adopted,' summit president says",
           "url": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -567,20 +602,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 22 Nov 2026 12:31:30 +0000",
-          "section": ""
-        },
-        {
-          "title": "Bruno Fernandes says contract talks on hold as Man United battle poor start",
-          "url": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 12:22:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 12:19:42 +0000",
           "section": ""
         },
         {
@@ -596,13 +617,6 @@
           "source": "Global Research",
           "ts": "Sun, 22 Nov 2026 11:27:21 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "China, ASEAN countries struggle over South China Sea code of conduct",
-          "url": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-22T08:45:00Z",
-          "section": ""
         },
         {
           "title": "The U.S. Japan, Australia, India Quad: A Potential  “Asian NATO”: Group’s Military Turn Raises Stakes in Indo-Pacific",
@@ -637,13 +651,6 @@
           "url": "https://truthout.org/articles/following-icj-ruling-on-myanmar-genocide-is-israel-next/",
           "source": "Truthout",
           "ts": "Sat, 21 Nov 2026 16:42:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "NY Times Continues Its War On Jensen Huang",
-          "url": "https://www.moonofalabama.org/2026/11/ny-times-continues-its-war-on-jensen-huang.html",
-          "source": "Moon of Alabama",
-          "ts": "Sat, 21 Nov 2026 16:32:37 +0000",
           "section": ""
         },
         {
@@ -942,13 +949,6 @@
           "source": "Mondoweiss",
           "ts": "Fri, 20 Nov 2026 19:39:31 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "War On Iran: – Tanker Convoy Will Challenge U.S. Blockade",
-          "url": "https://www.moonofalabama.org/2026/11/war-on-iran-tanker-convoy-will-challenge-u-s-blockade.html",
-          "source": "Moon of Alabama",
-          "ts": "Fri, 20 Nov 2026 15:13:13 +0000",
-          "section": ""
         },
         {
           "title": "‘I think AIPAC is finished’: An interview with Mondoweiss founder Phil Weiss",
