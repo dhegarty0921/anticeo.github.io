@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T14:47:27.872204Z",
+  "generated_at": "2026-11-22T15:04:06.515450Z",
   "headline": {
-    "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-    "url": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html"
+    "title": "Padrastro",
+    "url": "https://www.theatlantic.com/books/2026/11/poem-valerie-trapp-padrastro/689528/?utm_source=feed"
   },
   "sections": [
     {
@@ -12,7 +12,7 @@
           "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
           "url": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
           "source": "NYT > U.S. > Politics",
-          "ts": "Sun, 22 Nov 2026 14:42:09 +0000",
+          "ts": "Sun, 22 Nov 2026 14:47:12 +0000",
           "section": ""
         },
         {
@@ -404,6 +404,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Padrastro",
+          "url": "https://www.theatlantic.com/books/2026/11/poem-valerie-trapp-padrastro/689528/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-22T10:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
           "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
           "source": "US news | The Guardian",
@@ -418,7 +425,7 @@
           "section": ""
         },
         {
-          "title": "The World the Telephone Made",
+          "title": "The Rise and Fall of the Telephone Century",
           "url": "https://www.theatlantic.com/magazine/2027/01/james-gleick-telephone-new-history-review/689413/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-22T09:00:00-05:00",
@@ -428,13 +435,6 @@
           "title": "You’re anxious about AI. Can religion help — even if you don’t believe in God?",
           "url": "https://www.vox.com/advice/511400/ai-doom-anxiety-religion-faith-church",
           "source": "Vox",
-          "ts": "2026-11-22T08:30:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "The Relationship That Can Survive Not Talking for Years",
-          "url": "https://www.theatlantic.com/family/2026/11/friends-dark-matter/689541/?utm_source=feed",
-          "source": "The Atlantic",
           "ts": "2026-11-22T08:30:00-05:00",
           "section": ""
         },
@@ -549,24 +549,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
-          "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+          "title": "Why Bangladesh descended into violence ahead of Hasina’s planned return",
+          "url": "https://www.aljazeera.com/news/2026/11/22/why-bangladesh-descended-into-violence-ahead-of-hasinas-planned-return?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 14:08:28 +0000",
+          "ts": "Sun, 22 Nov 2026 14:35:55 +0000",
           "section": ""
         },
         {
-          "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-          "url": "https://www.aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal?traffic_source=rss",
+          "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured",
+          "url": "https://www.aljazeera.com/news/2026/11/22/how-el-chapo-isidro-alleged-mexican-cartel-leader-was-captured?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 14:00:31 +0000",
+          "ts": "Sun, 22 Nov 2026 14:33:26 +0000",
           "section": ""
         },
         {
-          "title": "NFL’s Jaylen Harrell hospitalised and investigated for assault in car crash",
-          "url": "https://www.aljazeera.com/sports/2026/11/22/jaylen-harrell-car-accident-nfl-tennessee-titans-american-football?traffic_source=rss",
+          "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/jerusalem-daily-israeli-settlers-set-palestinian-vehicles-ablaze?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 13:46:45 +0000",
+          "ts": "Sun, 22 Nov 2026 14:30:27 +0000",
           "section": ""
         },
         {
@@ -895,6 +895,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "French presidential candidate renews call for Israel to free Palestinian doctor",
+          "url": "https://www.middleeastmonitor.com/20261122-french-presidential-candidate-renews-call-for-israel-to-free-palestinian-doctor/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 22 Nov 2026 14:54:21 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Gaza cannot wait for the Hague verdict",
           "url": "https://www.middleeastmonitor.com/20261122-gaza-cannot-wait-for-the-hague-verdict/",
           "source": "Middle East Monitor",
@@ -906,13 +913,6 @@
           "url": "https://www.middleeastmonitor.com/20261122-israeli-lawmakers-blast-netanyahus-govt-over-jewish-terrorism-in-occupied-west-bank/",
           "source": "Middle East Monitor",
           "ts": "Sun, 22 Nov 2026 14:05:26 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "France seeks ‘functional’ ties with next Israeli government, prioritizes Lebanon",
-          "url": "https://www.middleeastmonitor.com/20261122-france-seeks-functional-ties-with-next-israeli-government-prioritizes-lebanon/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 22 Nov 2026 13:59:56 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
