@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T15:32:24.016034Z",
+  "generated_at": "2026-11-22T15:47:28.679206Z",
   "headline": {
-    "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss"
+    "title": "Can we build a more ethical AI future?",
+    "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss"
   },
   "sections": [
     {
@@ -149,6 +149,13 @@
           "section": ""
         },
         {
+          "title": "Raid of Chico warehouses nets 118 tons of marijuana, 62 arrests, officials say",
+          "url": "https://www.latimes.com/california/story/2026-11-21/raid-of-chico-warehouses-nets-118-tons-of-marijuana-62-arrests-officials-say",
+          "source": "California",
+          "ts": "Sun, 22 Nov 2026 02:42:10 GMT",
+          "section": ""
+        },
+        {
           "title": "LA used to have 14 toilets on sidewalks across the city, now it’s down to four. What happened?",
           "url": "https://thelalocal.org/los-angeles-city/la-sidewalk-toilets/",
           "source": "LA Local",
@@ -167,6 +174,13 @@
           "url": "https://www.motherjones.com/politics/2026/11/anthropic-ipo-new-millionaires-wealth-transfer/",
           "source": "Mother Jones",
           "ts": "Sat, 21 Nov 2026 16:41:20 +0000",
+          "section": ""
+        },
+        {
+          "title": "City Council considers rolling back mayoral power",
+          "url": "https://thelalocal.org/government/city-council-mayoral-power-rollback/",
+          "source": "LA Local",
+          "ts": "Sat, 21 Nov 2026 14:05:00 +0000",
           "section": ""
         },
         {
@@ -321,6 +335,13 @@
           "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
           "source": "In These Times",
           "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
+          "section": ""
+        },
+        {
+          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
+          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
+          "source": "LA Public Press",
+          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
           "section": ""
         },
         {
@@ -556,6 +577,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Can we build a more ethical AI future?",
+          "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 22 Nov 2026 15:30:09 +0000",
+          "section": ""
+        },
+        {
           "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -574,13 +602,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 22 Nov 2026 15:03:38 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Drugs Don’t Work",
-          "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 14:51:39 +0000",
           "section": ""
         },
         {
@@ -991,7 +1012,7 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
-          "title": "ICE officers arrest passengers at Seattle airport boarding flight to Los Angeles",
+          "title": "Video shows ICE agents in Seattle dragging L.A.-bound passengers off jet bridge",
           "url": "https://www.latimes.com/california/story/2026-11-21/ice-officers-arrest-passengers-at-seattle-airport-boarding-flight-to-los-angeles",
           "source": "California",
           "ts": "Sun, 22 Nov 2026 06:44:05 GMT",
