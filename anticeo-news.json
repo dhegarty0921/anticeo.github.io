@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T00:40:19.055251Z",
+  "generated_at": "2026-11-22T00:55:26.300968Z",
   "headline": {
-    "title": "Judge Blocks Trump Administration’s Effort to Transform Homelessness Policy",
-    "url": "https://www.nytimes.com/2026/11/21/us/politics/judge-trump-homeless-aid-addiction-treatment.html"
+    "title": "Clashes erupt across France in another night of protest",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss"
   },
   "sections": [
     {
@@ -55,13 +55,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-21/another-quake-rattles-southern-california-this-time-off-coast-of-san-pedro",
           "source": "California",
           "ts": "Sat, 21 Nov 2026 18:58:09 GMT",
-          "section": ""
-        },
-        {
-          "title": "L.A. County wants to talk with neighbors of Chiquita Canyon trash juice explosion",
-          "url": "https://www.latimes.com/california/story/2026-11-21/la-county-wants-to-talk-with-chiquita-canyon-trash-geyser-neighbors",
-          "source": "California",
-          "ts": "Sat, 21 Nov 2026 18:44:21 GMT",
           "section": ""
         },
         {
@@ -160,13 +153,6 @@
           "url": "https://www.unz.com/mwhitney/iran-prepares-to-break-trumps-oil-blockade/",
           "source": "The Unz Review:",
           "ts": "Sat, 21 Nov 2026 05:02:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gloria Gray’s effort to audit Inglewood’s billboard revenue dies in City Council",
-          "url": "https://thelalocal.org/government/inglewood-city-council-gloria-gray-billboard-audit/",
-          "source": "LA Local",
-          "ts": "Sat, 21 Nov 2026 00:34:48 +0000",
           "section": ""
         },
         {
@@ -307,13 +293,6 @@
           "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
           "source": "In These Times",
           "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
-          "section": ""
-        },
-        {
-          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
-          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
-          "source": "LA Public Press",
-          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
           "section": ""
         },
         {
@@ -556,7 +535,14 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+          "title": "Clashes erupt across France in another night of protest",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 22 Nov 2026 00:37:32 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
           "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 21 Nov 2026 23:59:03 +0000",
@@ -581,13 +567,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sat, 21 Nov 2026 23:44:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran faces a ‘silent economic war’, says Iranian president",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sat, 21 Nov 2026 23:18:14 +0000",
           "section": ""
         },
         {
@@ -644,6 +623,27 @@
           "url": "https://www.moonofalabama.org/2026/11/ny-times-continues-its-war-on-jensen-huang.html",
           "source": "Moon of Alabama",
           "ts": "Sat, 21 Nov 2026 16:32:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-prepares-for-third-zumwalt-hypersonic-upgrade/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 16:14:42 +0000",
+          "section": ""
+        },
+        {
+          "title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
+          "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 10:18:51 +0000",
+          "section": ""
+        },
+        {
+          "title": "UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine",
+          "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-norway-commit-over-100m-for-two-new-fast-attack-craft-for-ukraine/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 08:46:25 +0000",
           "section": ""
         },
         {
