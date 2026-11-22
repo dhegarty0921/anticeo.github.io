@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-22T19:17:45.995055Z",
+  "generated_at": "2026-11-22T19:32:13.079101Z",
   "headline": {
-    "title": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
-    "url": "https://www.middleeastmonitor.com/20261122-trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/"
+    "title": "Sudan: Drones hit UN building, residential area in Khartoum",
+    "url": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -170,13 +170,6 @@
           "section": ""
         },
         {
-          "title": "It Just Got Harder to Sue Over Glyphosate",
-          "url": "https://www.motherjones.com/politics/2026/11/it-just-got-harder-to-sue-over-glyphosate/",
-          "source": "Mother Jones",
-          "ts": "Sat, 21 Nov 2026 18:41:26 +0000",
-          "section": ""
-        },
-        {
           "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
           "url": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
           "source": "ProPublica",
@@ -244,13 +237,6 @@
           "url": "https://www.hrw.org/news/2026/11/20/us-tries-but-fails-to-dilute-un-human-rights-resolutions",
           "source": "Human Rights Watch News",
           "ts": "Fri, 20 Nov 2026 12:00:01 -0500",
-          "section": ""
-        },
-        {
-          "title": "Vonderful Vultures: A Thanksgiving case for the other bald bird",
-          "url": "https://newsroom.ucla.edu/stories/a-thanksgiving-case-for-the-other-bald-bird",
-          "source": "UCLA",
-          "ts": "Fri, 20 Nov 2026 16:37:00 GMT",
           "section": ""
         },
         {
@@ -397,6 +383,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+          "source": "US news | The Guardian",
+          "ts": "Sun, 22 Nov 2026 19:17:56 GMT",
+          "section": ""
+        },
+        {
           "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
           "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
           "source": "US news | The Guardian",
@@ -415,13 +408,6 @@
           "url": "https://www.theatlantic.com/science/2026/11/cop31/689530/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-22T10:47:38-05:00",
-          "section": ""
-        },
-        {
-          "title": "How did Republicans lose so badly in North Carolina?",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/republicans-lose-north-carolina",
-          "source": "US news | The Guardian",
-          "ts": "Sun, 22 Nov 2026 15:00:30 GMT",
           "section": ""
         },
         {
@@ -542,6 +528,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Sudan: Drones hit UN building, residential area in Khartoum",
+          "url": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-22T19:25:00Z",
+          "section": ""
+        },
+        {
+          "title": "We Like War Too Much to Agree on Autonomous Weapon Regulations",
+          "url": "https://www.motherjones.com/politics/2026/11/autonomous-weapons-un-conference/",
+          "source": "Mother Jones",
+          "ts": "Sun, 22 Nov 2026 19:18:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+          "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Sun, 22 Nov 2026 19:10:00 +0000",
+          "section": ""
+        },
+        {
           "title": "Israel Expands Lebanon Occupation Further North With Attacks Beyond Yellow Line",
           "url": "https://news.antiwar.com/2026/11/22/israel-expands-lebanon-occupation-further-north-with-attacks-beyond-yellow-line/?utm_source=rss&utm_medium=rss&utm_campaign=israel-expands-lebanon-occupation-further-north-with-attacks-beyond-yellow-line",
           "source": "News From Antiwar.com",
@@ -574,13 +581,6 @@
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Sun, 22 Nov 2026 18:12:07 +0000",
-          "section": ""
-        },
-        {
-          "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Sun, 22 Nov 2026 18:11:30 +0000",
           "section": ""
         },
         {
@@ -626,10 +626,10 @@
           "section": ""
         },
         {
-          "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
-          "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-22T13:18:00Z",
+          "title": "Russian Warship Destroyed In Huge Explosion In Libya",
+          "url": "https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/",
+          "source": "Naval News",
+          "ts": "Sun, 22 Nov 2026 11:59:11 +0000",
           "section": ""
         },
         {
@@ -668,10 +668,24 @@
           "section": ""
         },
         {
+          "title": "U.S. Navy Prepares for Third Zumwalt Hypersonic Upgrade",
+          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-prepares-for-third-zumwalt-hypersonic-upgrade/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 16:14:42 +0000",
+          "section": ""
+        },
+        {
           "title": "Israel Bombs Food Delivery Vehicle in Gaza, Kills Three Palestinians - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFBPd3JwVkFObkYtVGF2Y1FfbnRVUmh0VEdZVkU2MGJWTUpDWWVPY3VwcHFGN3JMdVlCNUVoMTdpaWo2UGMxOVdVSHBWRm1FRjYyUXFwVFgzRXZHRWhKMGs4YWJPTHZjWHAzVDZiUEJ3d04yaUN4ZVo0aFhNck9WNTNtUkRnQlp3U0RJeDI3ZEU1M2VfMVhvSWVOQy1kdm1rWWpodVZ3?oc=5",
           "source": "via Google News",
           "ts": "Sat, 21 Nov 2026 14:40:41 GMT",
+          "section": ""
+        },
+        {
+          "title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
+          "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
+          "source": "Naval News",
+          "ts": "Sat, 21 Nov 2026 10:18:51 +0000",
           "section": ""
         },
         {
@@ -909,6 +923,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Saudi-led coalition intercepts Houthi drone targeting southern Saudi Arabia",
+          "url": "https://www.middleeastmonitor.com/20261122-saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia/",
+          "source": "Middle East Monitor",
+          "ts": "Sun, 22 Nov 2026 19:17:39 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
           "url": "https://www.middleeastmonitor.com/20261122-trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/",
           "source": "Middle East Monitor",
@@ -920,13 +941,6 @@
           "url": "https://www.middleeastmonitor.com/20261122-netanyahus-likud-eisenkots-yashar-end-unity-government-talks-without-deal-israeli-media/",
           "source": "Middle East Monitor",
           "ts": "Sun, 22 Nov 2026 19:00:47 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli attacks kill 3 Gazans, injure 4 in latest ceasefire violation",
-          "url": "https://www.middleeastmonitor.com/20261122-israeli-attacks-kill-3-gazans-injure-4-in-latest-ceasefire-violation/",
-          "source": "Middle East Monitor",
-          "ts": "Sun, 22 Nov 2026 18:52:18 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
