@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T07:32:58.628579Z",
+  "generated_at": "2026-11-23T07:47:40.023036Z",
   "headline": {
-    "title": "Germany news: Metalworkers go on strike as pay dispute heats up",
-    "url": "https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf"
+    "title": "Ukraine updates: Russian strikes kill several in Kyiv region",
+    "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -184,17 +184,17 @@
           "section": ""
         },
         {
+          "title": "More Cigars Near the Powder Keg, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/more-cigars-near-the-powder-keg/",
+          "source": "The Unz Review:",
+          "ts": "Sun, 22 Nov 2026 05:10:56 +0000",
+          "section": ""
+        },
+        {
           "title": "BYD’s $42,000 SUV Offers the World’s First Foldable Steering Wheel and Roughly Same Size as Rolls Royce Cullinan, by Hua Bin",
           "url": "https://www.unz.com/bhua/byds-42000-suv-offers-the-worlds-first-foldable-steering-wheel-and-roughly-same-size-as-rolls-royce-cullinan/",
           "source": "The Unz Review:",
           "ts": "Sun, 22 Nov 2026 05:10:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Why MAGA Will Never Stop Mass Migration, by Jose Alberto Nino",
-          "url": "https://www.unz.com/jnino/why-maga-will-never-stop-mass-migration/",
-          "source": "The Unz Review:",
-          "ts": "Sun, 22 Nov 2026 05:00:38 +0000",
           "section": ""
         },
         {
@@ -528,6 +528,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine updates: Russian strikes kill several in Kyiv region",
+          "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-23T07:42:00Z",
+          "section": ""
+        },
+        {
+          "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+          "url": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 07:19:47 +0000",
+          "section": ""
+        },
+        {
           "title": "Germany news: Metalworkers go on strike as pay dispute heats up",
           "url": "https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -546,13 +560,6 @@
           "url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 23 Nov 2026 06:47:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Is the global far right really in retreat?",
-          "url": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 06:44:00 +0000",
           "section": ""
         },
         {
@@ -595,13 +602,6 @@
           "url": "https://news.antiwar.com/2026/11/22/russian-warship-destroyed-in-libya-in-alleged-ukrainian-drone-boat-attack/?utm_source=rss&utm_medium=rss&utm_campaign=russian-warship-destroyed-in-libya-in-alleged-ukrainian-drone-boat-attack",
           "source": "News From Antiwar.com",
           "ts": "Sun, 22 Nov 2026 21:53:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Turkey: Thousands protest closure of critical media outlets",
-          "url": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-22T21:31:00Z",
           "section": ""
         },
         {
@@ -947,13 +947,6 @@
           "source": "The Marshall Project",
           "ts": "Sat, 21 Nov 2026 12:00:00 -0500",
           "section": ""
-        },
-        {
-          "title": "Practice Advisories - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BREF6Q2hHZEtLWmJHWnpTM1dUeG5ESUd1MjF1aGh6MjhNbUNoZl9QSVFXLWFadlRsaVlLUFZDNVJqazAxZUhlTnA2OThIakd0OEN6MTh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Sat, 21 Nov 2026 00:56:45 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
           "title": "New Rules Aim to End Implicit Collaboration Between Law Enforcement and ICE",
