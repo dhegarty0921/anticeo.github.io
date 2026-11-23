@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T13:20:22.142750Z",
+  "generated_at": "2026-11-23T13:32:50.392932Z",
   "headline": {
-    "title": "Houthis claim seizure of ‘huge’ weapons stockpiles in Mokha",
-    "url": "https://www.middleeastmonitor.com/20261123-houthis-claim-seizure-of-huge-weapons-stockpiles-in-mokha/"
+    "title": "AI-Infused Toys Described War Crimes And Gang Rape To Toddlers",
+    "url": "https://www.techdirt.com/2026/11/23/ai-infused-toys-described-war-crimes-and-gang-rape-to-toddlers/"
   },
   "sections": [
     {
@@ -27,6 +27,13 @@
           "url": "https://www.thepinknews.com/2026/11/23/im-a-celebrity-get-me-out-of-here-aj-odudu-mariella-frostrip-aggressive/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Mon, 23 Nov 2026 13:03:52 +0000",
+          "section": ""
+        },
+        {
+          "title": "French Bill Risks Deepening Police Impunity",
+          "url": "https://www.hrw.org/news/2026/11/23/french-bill-risks-deepening-police-impunity",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 23 Nov 2026 07:45:07 -0500",
           "section": ""
         },
         {
@@ -149,6 +156,20 @@
           "section": ""
         },
         {
+          "title": "West Bank: Israeli Authorities Harass, Arrest Activists Protecting Palestinian Farmers",
+          "url": "https://www.hrw.org/news/2026/11/23/west-bank-israeli-authorities-harass-arrest-activists-protecting-palestinian",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 23 Nov 2026 00:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Armed Groups' Abuses Continue in Border Areas",
+          "url": "https://www.hrw.org/news/2026/11/23/armed-groups-abuses-continue-in-border-areas",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 23 Nov 2026 00:00:00 -0500",
+          "section": ""
+        },
+        {
           "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
           "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
           "source": "NYT > U.S. > Politics",
@@ -216,13 +237,6 @@
           "url": "https://www.unz.com/bhua/byds-42000-suv-offers-the-worlds-first-foldable-steering-wheel-and-roughly-same-size-as-rolls-royce-cullinan/",
           "source": "The Unz Review:",
           "ts": "Sun, 22 Nov 2026 05:10:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "LA used to have 14 toilets on sidewalks across the city, now it’s down to four. What happened?",
-          "url": "https://thelalocal.org/los-angeles-city/la-sidewalk-toilets/",
-          "source": "LA Local",
-          "ts": "Sat, 21 Nov 2026 23:29:00 +0000",
           "section": ""
         },
         {
@@ -331,13 +345,6 @@
           "section": ""
         },
         {
-          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
-          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
-          "source": "LA Public Press",
-          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
-          "section": ""
-        },
-        {
           "title": "This Better Not Be What’s Next for the Democrats",
           "url": "https://inthesetimes.com/article/whats-next-democrats-midterms-centrism",
           "source": "In These Times",
@@ -397,6 +404,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 23 Nov 2026 13:16:02 GMT",
+          "section": ""
+        },
+        {
           "title": "Nine people shot at central California concert with one in critical condition",
           "url": "https://www.theguardian.com/us-news/2026/nov/23/concert-shooting-california-strathmore",
           "source": "US news | The Guardian",
@@ -404,7 +418,7 @@
           "section": ""
         },
         {
-          "title": "An Execution Scenario",
+          "title": "Why I Changed My Mind About the Death Penalty",
           "url": "https://www.theatlantic.com/magazine/2027/01/pro-life-death-penalty/689406/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-23T08:00:00-05:00",
@@ -432,13 +446,6 @@
           "section": ""
         },
         {
-          "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 23 Nov 2026 12:15:52 GMT",
-          "section": ""
-        },
-        {
           "title": "‘Is it possible for any government to run that way?’: Americans outraged over tech outages",
           "url": "https://www.theguardian.com/us-news/2026/nov/23/us-tech-outages-flights-microsoft",
           "source": "US news | The Guardian",
@@ -446,7 +453,7 @@
           "section": ""
         },
         {
-          "title": "The Right’s Absurd Misreading of Orwell",
+          "title": "Orwell Has Become What He Despised",
           "url": "https://www.theatlantic.com/ideas/2026/11/george-orwell-trump-authoritarianism/689542/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-23T07:00:00-05:00",
@@ -535,6 +542,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Uganda minister at COP31: 'We need a just transition'",
+          "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-23T13:18:00Z",
+          "section": ""
+        },
+        {
+          "title": "Iran says it will use ‘all available means’ to counter US blockade",
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 13:04:11 +0000",
+          "section": ""
+        },
+        {
           "title": "A reset for climate diplomacy?",
           "url": "https://www.dw.com/en/a-reset-for-climate-diplomacy/a-80020494?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -556,13 +577,6 @@
           "section": ""
         },
         {
-          "title": "Iran threatens response to any attack amid naval blockade",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/iran-threatens-response-to-any-attack-amid-naval-blockade?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 12:25:24 +0000",
-          "section": ""
-        },
-        {
           "title": "Ukraine shares video of strikes on Russian ships off Libya",
           "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
@@ -574,13 +588,6 @@
           "url": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-23T11:01:00Z",
-          "section": ""
-        },
-        {
-          "title": "'I've Lost Her Forever' — Why German voice actors are refusing to sign Netflix's AI contract",
-          "url": "https://www.dw.com/en/i-ve-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflix-s-ai-contract/a-80004381?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-23T10:58:00Z",
           "section": ""
         },
         {
@@ -764,6 +771,20 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "AI-Infused Toys Described War Crimes And Gang Rape To Toddlers",
+          "url": "https://www.techdirt.com/2026/11/23/ai-infused-toys-described-war-crimes-and-gang-rape-to-toddlers/",
+          "source": "Techdirt",
+          "ts": "Mon, 23 Nov 2026 13:25:17 +0000",
+          "section": ""
+        },
+        {
+          "title": "Early Edition: November 23, 2026",
+          "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-23-2026",
+          "source": "Just Security",
+          "ts": "Mon, 23 Nov 2026 13:20:34 +0000",
+          "section": ""
+        },
+        {
           "title": "Gambia v. Myanmar: A Landmark Judgment That Unsettles the Law of Genocide",
           "url": "https://www.justsecurity.org/165595/gambia-myanmar-unsettling-law-of-genocide/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-myanmar-unsettling-law-of-genocide",
           "source": "Just Security",
@@ -813,13 +834,6 @@
           "section": ""
         },
         {
-          "title": "White House Withdraws Latest Nominee To Head The FDA; HHS Chaos Engine Goes Brrrrrr",
-          "url": "https://www.techdirt.com/2026/11/20/white-house-withdraws-latest-nominee-to-head-the-fda-hhs-chaos-engine-goes-brrrrrr/",
-          "source": "Techdirt",
-          "ts": "Sat, 21 Nov 2026 03:39:00 +0000",
-          "section": ""
-        },
-        {
           "title": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
           "url": "https://www.eff.org/deeplinks/2026/11/eff-congress-mass-surveillance-too-important-shove-must-pass-bill",
           "source": "Deeplinks",
@@ -855,13 +869,6 @@
           "section": ""
         },
         {
-          "title": "The Multifunctional Seabed",
-          "url": "https://www.justsecurity.org/162319/multifunctional-seabed/?utm_source=rss&utm_medium=rss&utm_campaign=multifunctional-seabed",
-          "source": "Just Security",
-          "ts": "Fri, 20 Nov 2026 14:14:25 +0000",
-          "section": ""
-        },
-        {
           "title": "Outage Chaos: Who Turned Off All The Computer?",
           "url": "https://www.eff.org/deeplinks/2026/11/outage-chaos-who-turned-all-computer",
           "source": "Deeplinks",
@@ -888,6 +895,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Palestinian female detainees report death threats and forced removal of hijabs at Israeli Prison",
+          "url": "https://www.middleeastmonitor.com/20261123-palestinian-female-detainees-report-death-threats-and-forced-removal-of-hijabs-at-israeli-prison/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 13:21:35 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Houthis claim seizure of ‘huge’ weapons stockpiles in Mokha",
           "url": "https://www.middleeastmonitor.com/20261123-houthis-claim-seizure-of-huge-weapons-stockpiles-in-mokha/",
           "source": "Middle East Monitor",
@@ -899,13 +913,6 @@
           "url": "https://www.middleeastmonitor.com/20261123-let-us-live-palestinian-women-protest-in-gaza/",
           "source": "Middle East Monitor",
           "ts": "Mon, 23 Nov 2026 12:48:04 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israel advances plans for 1,515 new settlement units in occupied West Bank",
-          "url": "https://www.middleeastmonitor.com/20261123-israel-advances-plans-for-1515-new-settlement-units-in-occupied-west-bank/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 12:20:48 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -981,13 +988,6 @@
           "url": "https://www.propublica.org/article/immigration-domestic-violence",
           "source": "ProPublica",
           "ts": "Mon, 23 Nov 2026 10:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "L.A. landlord looking to scare tenants into buyout suggested using fake ICE officers, ex-employee says",
-          "url": "https://www.latimes.com/california/story/2026-11-22/la-landlord-looking-to-scare-tenants-suggested-using-fake-ice-officers-court-docs-say",
-          "source": "California",
-          "ts": "Mon, 23 Nov 2026 00:58:05 GMT",
           "section": ""
         },
         {
