@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T08:35:52.981114Z",
+  "generated_at": "2026-11-23T08:47:59.990072Z",
   "headline": {
-    "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
-    "url": "https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence/"
+    "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin"
   },
   "sections": [
     {
@@ -13,13 +13,6 @@
           "url": "https://www.latimes.com/california/story/2026-11-22/california-earthquake-magnitude-3-3-quake-rumbles-near-el-segundo",
           "source": "California",
           "ts": "Mon, 23 Nov 2026 06:03:41 GMT",
-          "section": ""
-        },
-        {
-          "title": "American Pravda: The Jensen Huang Scandal, the Anthropic IPO, and the Collapsing AI Bubble, by Ron Unz",
-          "url": "https://www.unz.com/runz/american-pravda-the-jensen-huang-scandal-the-anthropic-ipo-and-the-collapsing-ai-bubble/",
-          "source": "The Unz Review:",
-          "ts": "Mon, 23 Nov 2026 05:00:43 +0000",
           "section": ""
         },
         {
@@ -100,10 +93,31 @@
           "section": ""
         },
         {
+          "title": "Outgoing Sen. John Cornyn blocks Trump's pick for federal judgeship in Texas",
+          "url": "https://www.washingtontimes.com/news/2026/nov/22/outgoing-sen-john-cornyn-blocks-trumps-pick-federal-judgeship-texas/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 22 Nov 2026 13:57:46 -0500",
+          "section": ""
+        },
+        {
           "title": "Global Climate Talks Fail Over Fossil Fuel Dispute",
           "url": "https://www.motherjones.com/politics/2026/11/global-climate-talks-fail-over-fossil-fuel-dispute/",
           "source": "Mother Jones",
           "ts": "Sun, 22 Nov 2026 18:36:25 +0000",
+          "section": ""
+        },
+        {
+          "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+          "url": "https://www.washingtontimes.com/news/2026/nov/22/historic-house-majority-least-258-seats-largest-since-1992-clinched/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 22 Nov 2026 13:29:58 -0500",
+          "section": ""
+        },
+        {
+          "title": "Chuck Hubbard defeats Rep. Virginia Foxx after a recount in their North Carolina House race",
+          "url": "https://www.washingtontimes.com/news/2026/nov/22/democrat-chuck-hubbard-defeats-rep-virginia-foxx-recount-north/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Sun, 22 Nov 2026 13:26:06 -0500",
           "section": ""
         },
         {
@@ -181,20 +195,6 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVFaa01ERjg2aG5BeVppam55bVVGa0UzTWQtM0RWRTJMeUZCcTU1d2FNTnN6MGNXY0pRTU5GRmY3dzdpOFo0TEU4XzQ1cmpMNHlURkZjU3U0cVQ2cjFoVERIMEhIaGJUcGp0ME02cWdBNHpNc092SV85Mm43amE5bEZpQzJkdzRyTjFqUXdSQ1JVYUU?oc=5",
           "source": "via Google News",
           "ts": "Sun, 22 Nov 2026 08:08:54 GMT",
-          "section": ""
-        },
-        {
-          "title": "More Cigars Near the Powder Keg, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/more-cigars-near-the-powder-keg/",
-          "source": "The Unz Review:",
-          "ts": "Sun, 22 Nov 2026 05:10:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "BYD’s $42,000 SUV Offers the World’s First Foldable Steering Wheel and Roughly Same Size as Rolls Royce Cullinan, by Hua Bin",
-          "url": "https://www.unz.com/bhua/byds-42000-suv-offers-the-worlds-first-foldable-steering-wheel-and-roughly-same-size-as-rolls-royce-cullinan/",
-          "source": "The Unz Review:",
-          "ts": "Sun, 22 Nov 2026 05:10:45 +0000",
           "section": ""
         },
         {
@@ -383,6 +383,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 23 Nov 2026 08:33:10 GMT",
+          "section": ""
+        },
+        {
           "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
           "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
           "source": "US news | The Guardian",
@@ -394,13 +401,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
           "source": "US news | The Guardian",
           "ts": "Mon, 23 Nov 2026 00:50:39 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-          "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 23 Nov 2026 00:31:31 GMT",
           "section": ""
         },
         {
@@ -535,13 +535,6 @@
           "section": ""
         },
         {
-          "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
-          "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 08:12:29 +0000",
-          "section": ""
-        },
-        {
           "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
           "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -560,6 +553,13 @@
           "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-23T07:42:00Z",
+          "section": ""
+        },
+        {
+          "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 07:37:09 +0000",
           "section": ""
         },
         {
@@ -693,6 +693,13 @@
           "url": "https://www.armytimes.com/news/pentagon-congress/2026/11/20/senator-moves-to-strip-controversial-cuts-from-sweeping-veterans-benefits-bill/",
           "source": "News - Army Times",
           "ts": "Fri, 20 Nov 2026 21:21:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "On World Children’s Day, nearly 22,000 Children Killed in Gaza, 350 Imprisoned - Palestine Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDVXdHVnb1Z1WlFOSWk1QkcxcWFNYTRJcUNJT193OFJmZzBIWktwLXBWZ01wTl96Tk5oMHNXaVdPYW1pRV9ObWItdTNnYTNmcG0xYTlxbmFGXzRDNEx2R3RyOXRVWnV5bUktdUNkOU52aEFxZnBTSy1JMXN5WTdsYmVSeXdoUUVyUHZ5TTJqTm9qVk80ZThNV0lYVTl6cU5ReWNEeDlrSzFXNXcwVm1F?oc=5",
+          "source": "via Google News",
+          "ts": "Fri, 20 Nov 2026 18:59:32 GMT",
           "section": ""
         },
         {
@@ -930,10 +937,31 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "Preparing Gaza's next generation of photojournalists",
+          "url": "https://electronicintifada.net/content/preparing-gazas-next-generation-photojournalists/51774",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 18:41:13 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Books on Gaza genocide by writers who lived through it",
+          "url": "https://electronicintifada.net/blogs/khaled-el-hissy/books-gaza-genocide-writers-who-lived-through-it",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 15:47:46 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "‘I think AIPAC is finished’: An interview with Mondoweiss founder Phil Weiss",
           "url": "https://mondoweiss.net/2026/11/i-think-aipac-is-finished-an-interview-with-mondoweiss-founder-phil-weiss/",
           "source": "Mondoweiss",
           "ts": "Fri, 20 Nov 2026 12:30:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "What ceasefire? Israel launches new ground assault on Gaza",
+          "url": "https://electronicintifada.net/blogs/nora-barrows-friedman/what-ceasefire-israel-launches-new-ground-assault-gaza",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 12:02:09 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
@@ -954,6 +982,13 @@
           "source": "The Marshall Project",
           "ts": "Sat, 21 Nov 2026 12:00:00 -0500",
           "section": ""
+        },
+        {
+          "title": "Practice Advisories - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BREF6Q2hHZEtLWmJHWnpTM1dUeG5ESUd1MjF1aGh6MjhNbUNoZl9QSVFXLWFadlRsaVlLUFZDNVJqazAxZUhlTnA2OThIakd0OEN6MTh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Sat, 21 Nov 2026 00:56:45 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
           "title": "New Rules Aim to End Implicit Collaboration Between Law Enforcement and ICE",
