@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T08:06:14.296929Z",
+  "generated_at": "2026-11-23T08:25:21.970197Z",
   "headline": {
-    "title": "Ukraine updates: Russian strikes kill several in Kyiv region",
-    "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf"
+    "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+    "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss"
   },
   "sections": [
     {
@@ -198,13 +198,6 @@
           "section": ""
         },
         {
-          "title": "LA used to have 14 toilets on sidewalks across the city, now it’s down to four. What happened?",
-          "url": "https://thelalocal.org/los-angeles-city/la-sidewalk-toilets/",
-          "source": "LA Local",
-          "ts": "Sat, 21 Nov 2026 23:29:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
           "url": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models",
           "source": "ProPublica",
@@ -289,13 +282,6 @@
           "section": ""
         },
         {
-          "title": "Missouri Is Switching Prison Tablet Companies. Here’s Why Incarcerated People Are Worried.",
-          "url": "https://www.themarshallproject.org/2026/11/20/missouri-prison-tablet-switch-memories",
-          "source": "The Marshall Project",
-          "ts": "Fri, 20 Nov 2026 06:00:57 -0500",
-          "section": ""
-        },
-        {
           "title": "Ohio Jobs Program Wants Its Money Back After Company’s Failure to Deliver GMO Salmon",
           "url": "https://www.propublica.org/article/aquabounty-jobsohio-gmo-salmon-grant",
           "source": "ProPublica",
@@ -335,13 +321,6 @@
           "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
           "source": "In These Times",
           "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
-          "section": ""
-        },
-        {
-          "title": "Vernon has one data center per square mile. Can residents stop another one next to an LAUSD school?",
-          "url": "https://lapublicpress.org/2026/11/la-vernon-data-center-lausd-digital-realty-city-council/",
-          "source": "LA Public Press",
-          "ts": "Thu, 19 Nov 2026 18:59:15 +0000",
           "section": ""
         },
         {
@@ -549,6 +528,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+          "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 08:12:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+          "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 08:08:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Taliban deploys police to protect Afghanistan’s vanishing forests",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 07:47:32 +0000",
+          "section": ""
+        },
+        {
           "title": "Ukraine updates: Russian strikes kill several in Kyiv region",
           "url": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -556,31 +556,10 @@
           "section": ""
         },
         {
-          "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-          "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 07:37:09 +0000",
-          "section": ""
-        },
-        {
-          "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
-          "url": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 07:19:47 +0000",
-          "section": ""
-        },
-        {
           "title": "Germany news: Metalworkers go on strike as pay dispute heats up",
           "url": "https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-23T07:11:00Z",
-          "section": ""
-        },
-        {
-          "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
-          "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 07:07:33 +0000",
           "section": ""
         },
         {
@@ -906,6 +885,13 @@
           "url": "https://www.middleeastmonitor.com/20261122-trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/",
           "source": "Middle East Monitor",
           "ts": "Sun, 22 Nov 2026 19:07:37 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "As World Powers Challenge International Justice, Tiny Gambia Makes History - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Nms3ajFZUW1ZWFpfTkh5TWllNFhqUGhJTzQ5WExXNEF4RGEycWxockEycmhtUC1HSjZ5bThXRFUyekd2TThpV2tQS0xmcnh0SHB5SXdHWXg?oc=5",
+          "source": "CODEPINK",
+          "ts": "Sun, 22 Nov 2026 18:04:44 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
