@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T14:20:17.727393Z",
+  "generated_at": "2026-11-23T14:32:42.824922Z",
   "headline": {
-    "title": "Israeli report raises concerns over proposed US sanctions on West Bank settlers and businesses",
-    "url": "https://www.middleeastmonitor.com/20261123-israeli-report-raises-concerns-over-proposed-us-sanctions-on-west-bank-settlers-and-businesses/"
+    "title": "BREAKING: Nvidia Rehires Jensen Huang as CEO amidst Chinese Spy Scandal",
+    "url": "https://headlineusa.com/breaking-nvidia-rehires-jensen-huang-as-ceo-amidst-chinese-spy-scandal/"
   },
   "sections": [
     {
@@ -397,6 +397,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Mon, 23 Nov 2026 14:24:50 GMT",
+          "section": ""
+        },
+        {
           "title": "‘It’s an embarrassment’: how LA’s desperately needed airport tram went off the rails",
           "url": "https://www.theguardian.com/us-news/2026/nov/23/lax-skylink-people-mover-los-angeles",
           "source": "US news | The Guardian",
@@ -415,13 +422,6 @@
           "url": "https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-23T09:00:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Mon, 23 Nov 2026 13:56:20 GMT",
           "section": ""
         },
         {
@@ -535,11 +535,46 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Nvidia reinstates former CEO Jensen Huang despite China espionage scandal",
+          "url": "https://www.dw.com/en/nvidia-reinstates-former-ceo-jensen-huang-despite-china-espionage-scandal/a-80021926?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-23T14:18:00Z",
+          "section": ""
+        },
+        {
+          "title": "How Ukraine drone attacks on Russian ships unfolded",
+          "url": "https://www.bbc.co.uk/news/videos/c3y0xjqxy871o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 23 Nov 2026 14:16:36 GMT",
+          "section": ""
+        },
+        {
+          "title": "Technology Injunctions: Trump Goes MAGA on Data Centres",
+          "url": "https://www.globalresearch.ca/technology-injunctions-trump-goes-maga-data-centres/5946357",
+          "source": "Global Research",
+          "ts": "Mon, 23 Nov 2026 13:59:44 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "The “Circulation of Elites” and Europe’s Right Turn. “No Ruling Class Retainsn Power Indefinitely”",
+          "url": "https://www.globalresearch.ca/circulation-elites-europe-right-turn/5946316",
+          "source": "Global Research",
+          "ts": "Mon, 23 Nov 2026 13:57:02 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 23 Nov 2026 13:54:48 +0000",
           "section": ""
+        },
+        {
+          "title": "Selected Articles: Video: War Against America?",
+          "url": "https://www.globalresearch.ca/selected-articles-video-war-against-america/5946449",
+          "source": "Global Research",
+          "ts": "Mon, 23 Nov 2026 13:46:52 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate while Montenegro and Albania move closer to membership",
@@ -570,20 +605,6 @@
           "section": ""
         },
         {
-          "title": "Uganda minister at COP31: 'We need a just transition'",
-          "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-23T13:18:00Z",
-          "section": ""
-        },
-        {
-          "title": "Ukraine shares video of strikes on Russian ships off Libya",
-          "url": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 23 Nov 2026 11:34:10 GMT",
-          "section": ""
-        },
-        {
           "title": "China’s Growing Ambitions in Very Low Earth Orbit",
           "url": "https://warontherocks.com/cogs-of-war/chinas-growing-ambitions-in-very-low-earth-orbit-2/",
           "source": "War on the Rocks",
@@ -596,27 +617,6 @@
           "source": "War on the Rocks",
           "ts": "Mon, 23 Nov 2026 08:30:35 +0000",
           "section": ""
-        },
-        {
-          "title": "Two Empires, One Fate: Why Did the Ottoman and Habsburg Empires Collapse?",
-          "url": "https://www.globalresearch.ca/two-empires-one-fate-ottoman-habsburg-empires-collapse/5946418",
-          "source": "Global Research",
-          "ts": "Mon, 23 Nov 2026 04:42:56 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Ukraine-Russia: The Ever-Widening War",
-          "url": "https://www.globalresearch.ca/ukraine-russia-ever-widening-war/5946422",
-          "source": "Global Research",
-          "ts": "Mon, 23 Nov 2026 04:36:31 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Monetary Reform for the 2028 Election: Van Buren Succeeds Jackson, the Panic of 1837, and the Whig Victory in 1840. Part 1.7",
-          "url": "https://montanarcc.substack.com/p/17-van-buren-succeeds-jackson-the",
-          "source": "Global Research",
-          "ts": "Mon, 23 Nov 2026 03:51:32 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Ukraine’s Campaign Against Russian Naval Assets Far Beyond The Black Sea Enters A New Phase (Updated)",
@@ -764,6 +764,20 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "BREAKING: Nvidia Rehires Jensen Huang as CEO amidst Chinese Spy Scandal",
+          "url": "https://headlineusa.com/breaking-nvidia-rehires-jensen-huang-as-ceo-amidst-chinese-spy-scandal/",
+          "source": "Ken Silva, Author at Headline USA",
+          "ts": "Mon, 23 Nov 2026 14:31:32 +0000",
+          "section": "PARA POLITICAL INTRIGUE"
+        },
+        {
+          "title": "Protection Through Objection to ICC Jurisdiction: The Culmination of the U.S. Approach",
+          "url": "https://www.justsecurity.org/165613/protection-through-objection-icc-us-approach/?utm_source=rss&utm_medium=rss&utm_campaign=protection-through-objection-icc-us-approach",
+          "source": "Just Security",
+          "ts": "Mon, 23 Nov 2026 14:31:10 +0000",
+          "section": ""
+        },
+        {
           "title": "The Myth of Inevitability: AI Safety, Industry Incentives, and the Role of Law",
           "url": "https://www.justsecurity.org/163918/ai-safety-incentives-role-of-law/?utm_source=rss&utm_medium=rss&utm_campaign=ai-safety-incentives-role-of-law",
           "source": "Just Security",
@@ -775,13 +789,6 @@
           "url": "https://www.justsecurity.org/165409/ukraine-oleshky-evacuation-geopolitics/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-oleshky-evacuation-geopolitics",
           "source": "Just Security",
           "ts": "Mon, 23 Nov 2026 14:04:02 +0000",
-          "section": ""
-        },
-        {
-          "title": "Closing the Gap Between the Courtroom and Refugee Camps: A Pathway Towards the Rohingya’s Legal Inclusion",
-          "url": "https://www.justsecurity.org/165267/icj-myanmar-rohingya-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=icj-myanmar-rohingya-inclusion",
-          "source": "Just Security",
-          "ts": "Mon, 23 Nov 2026 13:50:19 +0000",
           "section": ""
         },
         {
@@ -874,19 +881,26 @@
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Thu, 19 Nov 2026 21:18:00 +0000",
           "section": ""
-        },
-        {
-          "title": "Ex-FBI Agent Sent to Prison for Cyberstalking His Informant’s Little Sister",
-          "url": "https://headlineusa.com/ex-fbi-agent-sent-to-prison-for-cyberstalking-his-informants-little-sister/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Thu, 19 Nov 2026 16:16:26 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
         }
       ]
     },
     {
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
+        {
+          "title": "Sudan’s Al-Burhan rules out role for RSF in country’s future, demands surrender",
+          "url": "https://www.middleeastmonitor.com/20261123-sudans-al-burhan-rules-out-role-for-rsf-in-countrys-future-demands-surrender/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 14:27:12 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Brazil guesthouse says Gaza war soldiers ‘not welcome’",
+          "url": "https://www.middleeastmonitor.com/20261123-brazil-guesthouse-says-gaza-war-soldiers-not-welcome/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 14:23:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
         {
           "title": "Israeli report raises concerns over proposed US sanctions on West Bank settlers and businesses",
           "url": "https://www.middleeastmonitor.com/20261123-israeli-report-raises-concerns-over-proposed-us-sanctions-on-west-bank-settlers-and-businesses/",
@@ -895,24 +909,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Iran accuses countries that armed Saddam Hussein of leading chemical weapons allegations against Tehran",
-          "url": "https://www.middleeastmonitor.com/20261123-iran-accuses-countries-that-armed-saddam-hussein-of-leading-chemical-weapons-allegations-against-tehran/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 14:13:18 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Israel is still displacing Palestinians in Gaza, expanding its ‘yellow line’ deeper into the strip every day",
           "url": "https://mondoweiss.net/2026/11/israel-is-still-displacing-palestinians-in-gaza-expanding-its-yellow-line-deeper-into-the-strip-every-day/",
           "source": "Mondoweiss",
           "ts": "Mon, 23 Nov 2026 14:10:58 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli strike hit vehicle in Gaza, killing 2 Palestinians",
-          "url": "https://www.middleeastmonitor.com/20261123-israeli-strike-hit-vehicle-in-gaza-killing-2-palestinians/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 14:03:31 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -941,6 +941,13 @@
           "url": "https://mondoweiss.net/2026/11/what-does-a-post-netanyahu-government-in-israel-means-for-u-s-policy/",
           "source": "Mondoweiss",
           "ts": "Sat, 21 Nov 2026 14:00:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "The Israeli Army Razed a Settler Outpost, Then Left Palestinians to Face a Pogrom - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ2d2NWZIV2JQYl9oeHBTUHlBN3lZaF9LMFRMU2dJT2FubjVwOXdFc0lLQ3l4Q2YyTnUxSDVicUVncEhrdTNaMGt2aUtLbFVhcmp1RmZXbUNoaHBKakxMOXJqMW1iVGNjdWl5Z21WS1VVRzM4eHluSDlTanNUT2Z5cFFzdUppaGtBeXNWbVhsX2hVbUtSQUw2c2t0SDgxTzB2RG16M294TVZ5WFp5WTRWUlJKY29tblMydjJ1aTRCcExIanp2anBHbmc4dkJKV25WcmNWWGtrQndDRElxME9YdS1HSERrdzBYR2dFYnlWMjIxdzNZVGFBVl9GZEVBdGpLR2V6bmdHR1B3SllPYzZQOWwyUmRjbnUzQmI4QXA1Nlc4VlpYNFcyQmVjZ2Fydw?oc=5",
+          "source": "Gideon Levy (Haaretz)",
+          "ts": "Sat, 21 Nov 2026 07:56:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
