@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T17:47:47.259464Z",
+  "generated_at": "2026-11-23T18:04:47.650346Z",
   "headline": {
-    "title": "Israeli Strike in Gaza Kills UN Employee Working at Well",
-    "url": "https://news.antiwar.com/2026/11/23/israeli-strike-in-gaza-kills-un-employee-working-at-well/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-strike-in-gaza-kills-un-employee-working-at-well"
+    "title": "The President Is Acting Like He Works for China",
+    "url": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/?utm_source=feed"
   },
   "sections": [
     {
@@ -139,6 +139,13 @@
           "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
           "source": "NPR Topics: News",
           "ts": "Mon, 23 Nov 2026 09:53:41 -0500",
+          "section": ""
+        },
+        {
+          "title": "After a Midterm Feat, the Left Now Faces a Staggering Test",
+          "url": "https://inthesetimes.com/article/midterms-left-democrats-dsa-sanders-aoc-democratic-socialism",
+          "source": "In These Times",
+          "ts": "Mon, 23 Nov 2026 08:00:00 -0600",
           "section": ""
         },
         {
@@ -383,10 +390,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "The President Is Acting Like He Works for China",
+          "url": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-23T13:02:45-05:00",
+          "section": ""
+        },
+        {
+          "title": "Jensen Huang’s return proves Trump and the tech right still call the shots",
+          "url": "https://www.vox.com/politics/511687/jensen-huang-returns-nvidia-ceo-trump",
+          "source": "Vox",
+          "ts": "2026-11-23T12:55:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Trump says he spoke to Nvidia board directly about Jensen Huang and insists CEO’s return doesn’t pose a national security risk – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 23 Nov 2026 17:36:38 GMT",
+          "ts": "Mon, 23 Nov 2026 17:54:05 GMT",
           "section": ""
         },
         {
@@ -397,7 +418,7 @@
           "section": ""
         },
         {
-          "title": "Trump’s Backing of Huang Is Not Super Intelligent",
+          "title": "Why Trump Rescued Jensen Huang",
           "url": "https://www.theatlantic.com/ideas/2026/11/trump-jensen-huang-backing/689545/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-23T12:13:16-05:00",
@@ -422,13 +443,6 @@
           "url": "https://www.theatlantic.com/ideas/2026/11/jensen-huang-nvidia-reinstated/689546/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-23T11:58:36-05:00",
-          "section": ""
-        },
-        {
-          "title": "Revisiting the Glossy Fairy Tale of <em>Rocky</em>",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/i-play-rocky-biopic-movie-video-village/689544/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-23T11:58:26-05:00",
           "section": ""
         },
         {
@@ -488,13 +502,6 @@
           "section": ""
         },
         {
-          "title": "The Supreme Court is about to decide whether to gut countless federal laws",
-          "url": "https://www.vox.com/politics/510249/supreme-court-crowther-university-georgia-title-ix",
-          "source": "Vox",
-          "ts": "2026-11-23T06:30:00-05:00",
-          "section": ""
-        },
-        {
           "title": "It Takes a Family",
           "url": "https://www.nationalreview.com/article/it-takes-a-family",
           "source": "National Review",
@@ -528,10 +535,24 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Lebanese PM Accuses Israel of Using Schoolchildren for Propaganda",
+          "url": "https://news.antiwar.com/2026/11/23/lebanese-pm-accuses-israel-of-using-schoolchildren-for-propaganda/?utm_source=rss&utm_medium=rss&utm_campaign=lebanese-pm-accuses-israel-of-using-schoolchildren-for-propaganda",
+          "source": "News From Antiwar.com",
+          "ts": "Mon, 23 Nov 2026 18:01:26 +0000",
+          "section": ""
+        },
+        {
           "title": "Israeli Strike in Gaza Kills UN Employee Working at Well",
           "url": "https://news.antiwar.com/2026/11/23/israeli-strike-in-gaza-kills-un-employee-working-at-well/?utm_source=rss&utm_medium=rss&utm_campaign=israeli-strike-in-gaza-kills-un-employee-working-at-well",
           "source": "News From Antiwar.com",
           "ts": "Mon, 23 Nov 2026 17:46:02 +0000",
+          "section": ""
+        },
+        {
+          "title": "Tajikistan moves to leave ICC amid US push against court",
+          "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 17:36:17 +0000",
           "section": ""
         },
         {
@@ -567,13 +588,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Mon, 23 Nov 2026 16:36:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "Gaza mourns UNRWA worker killed in Israeli strike",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 16:35:28 +0000",
           "section": ""
         },
         {
@@ -630,13 +644,6 @@
           "url": "https://www.twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase",
           "source": "TWZ",
           "ts": "Sun, 22 Nov 2026 17:26:09 -0500",
-          "section": ""
-        },
-        {
-          "title": "Russian Warship Struck in Libya in Alleged Ukrainian Drone Boat Attack",
-          "url": "https://news.antiwar.com/2026/11/22/russian-warship-destroyed-in-libya-in-alleged-ukrainian-drone-boat-attack/?utm_source=rss&utm_medium=rss&utm_campaign=russian-warship-destroyed-in-libya-in-alleged-ukrainian-drone-boat-attack",
-          "source": "News From Antiwar.com",
-          "ts": "Sun, 22 Nov 2026 21:53:45 +0000",
           "section": ""
         },
         {
@@ -867,24 +874,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Iran summons Qatari charge d’affaires over joint statement with Germany",
+          "url": "https://www.middleeastmonitor.com/20261123-iran-summons-qatari-charge-daffaires-over-joint-statement-with-germany/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 17:57:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "US lawmaker calls situation in West Bank ‘horrific’",
+          "url": "https://www.middleeastmonitor.com/20261123-us-lawmaker-calls-situation-in-west-bank-horrific/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 17:47:44 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli premier-designate says ‘no imminent threat’ from Iran requiring action before government formation",
           "url": "https://www.middleeastmonitor.com/20261123-israeli-premier-designate-says-no-imminent-threat-from-iran-requiring-action-before-government-formation/",
           "source": "Middle East Monitor",
           "ts": "Mon, 23 Nov 2026 17:35:12 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Lavrov voices concern over situation in Lebanon, calls for national unity in Syria",
-          "url": "https://www.middleeastmonitor.com/20261123-lavrov-voices-concern-over-situation-in-lebanon-calls-for-national-unity-in-syria/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 17:26:40 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "France condemns ‘very serious’ attacks by ‘violent settlers’ on several Palestinian localities in West Bank",
-          "url": "https://www.middleeastmonitor.com/20261123-france-condemns-very-serious-attacks-by-violent-settlers-on-several-palestinian-localities-in-west-bank/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 17:14:43 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -949,6 +956,13 @@
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
         {
+          "title": "More Than a Holiday Meal: Food Drives Bring Relief and Connection to NYC Immigrant Communities",
+          "url": "https://documentedny.com/2026/11/23/thanksgiving-food-drives-distribution-nyc-snap/",
+          "source": "Documented",
+          "ts": "Mon, 23 Nov 2026 17:48:53 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
           "title": "California, other states sue HUD over policy to check immigrant status of public housing residents",
           "url": "https://www.latimes.com/california/story/2026-11-23/california-hud-lawsuit",
           "source": "California",
@@ -982,13 +996,6 @@
           "source": "ProPublica",
           "ts": "Mon, 23 Nov 2026 10:00:00 +0000",
           "section": ""
-        },
-        {
-          "title": "New Rules Aim to End Implicit Collaboration Between Law Enforcement and ICE",
-          "url": "https://documentedny.com/2026/11/20/city-council-new-rules-ice-nypd-doc/",
-          "source": "Documented",
-          "ts": "Fri, 20 Nov 2026 22:59:34 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
           "title": "Blurred Line between Federal Immigration Enforcement and Local Police Harms Communities",
