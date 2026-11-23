@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-23T19:17:05.904237Z",
+  "generated_at": "2026-11-23T19:32:55.200938Z",
   "headline": {
-    "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+    "title": "More than 360,000 displaced in Yemen since August as UN reports rising civilian casualties",
+    "url": "https://www.middleeastmonitor.com/20261123-more-than-360000-displaced-in-yemen-since-august-as-un-reports-rising-civilian-casualties/"
   },
   "sections": [
     {
@@ -79,6 +79,13 @@
           "section": ""
         },
         {
+          "title": "Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport",
+          "url": "https://www.washingtontimes.com/news/2026/nov/23/chinese-neuroscientist-princeton-held-ice-detention-washington/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Mon, 23 Nov 2026 12:50:05 -0500",
+          "section": ""
+        },
+        {
           "title": "Trump Is Said to Have Directed Effort to Reinstate Nvidia Chief",
           "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
           "source": "NYT > U.S. > Politics",
@@ -90,6 +97,13 @@
           "url": "https://truthout.org/articles/spacex-lab-workers-allegedly-dried-metal-part-in-employee-breakroom-toaster-oven/",
           "source": "Truthout",
           "ts": "Mon, 23 Nov 2026 17:18:15 +0000",
+          "section": ""
+        },
+        {
+          "title": "Sen. Tim Scott announces hearing with Nvidia CEO Jensen Huang amid scandal, company reversal",
+          "url": "https://www.washingtontimes.com/news/2026/nov/23/sen-tim-scott-announces-hearing-nvidia-ceo-jensen-huang-amid-scandal/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Mon, 23 Nov 2026 12:14:40 -0500",
           "section": ""
         },
         {
@@ -153,6 +167,13 @@
           "url": "https://www.motherjones.com/politics/2026/11/nvidia-restores-jensen-huang-after-pressure-from-trump/",
           "source": "Mother Jones",
           "ts": "Mon, 23 Nov 2026 15:50:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump to respond to Newsom's plan to commute death row inmates",
+          "url": "https://www.washingtontimes.com/news/2026/nov/23/trump-respond-newsoms-plan-commute-death-row-inmates/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Mon, 23 Nov 2026 10:49:19 -0500",
           "section": ""
         },
         {
@@ -233,20 +254,6 @@
           "section": ""
         },
         {
-          "title": "American Pravda: The Jensen Huang Scandal, the Anthropic IPO, and the Collapsing AI Bubble, by Ron Unz",
-          "url": "https://www.unz.com/runz/american-pravda-the-jensen-huang-scandal-the-anthropic-ipo-and-the-collapsing-ai-bubble/",
-          "source": "The Unz Review:",
-          "ts": "Mon, 23 Nov 2026 05:10:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "What Will Emerge from Trump’s Failure?, by Paul Craig Roberts",
-          "url": "https://www.unz.com/proberts/what-will-emerge-from-trumps-failure/",
-          "source": "The Unz Review:",
-          "ts": "Mon, 23 Nov 2026 05:00:24 +0000",
-          "section": ""
-        },
-        {
           "title": "West Bank: Israeli Authorities Harass, Arrest Activists Protecting Palestinian Farmers",
           "url": "https://www.hrw.org/news/2026/11/23/west-bank-israeli-authorities-harass-arrest-activists-protecting-palestinian",
           "source": "Human Rights Watch News",
@@ -272,13 +279,6 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWVFaa01ERjg2aG5BeVppam55bVVGa0UzTWQtM0RWRTJMeUZCcTU1d2FNTnN6MGNXY0pRTU5GRmY3dzdpOFo0TEU4XzQ1cmpMNHlURkZjU3U0cVQ2cjFoVERIMEhIaGJUcGp0ME02cWdBNHpNc092SV85Mm43amE5bEZpQzJkdzRyTjFqUXdSQ1JVYUU?oc=5",
           "source": "via Google News",
           "ts": "Sun, 22 Nov 2026 08:08:54 GMT",
-          "section": ""
-        },
-        {
-          "title": "More Cigars Near the Powder Keg, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/more-cigars-near-the-powder-keg/",
-          "source": "The Unz Review:",
-          "ts": "Sun, 22 Nov 2026 05:10:56 +0000",
           "section": ""
         },
         {
@@ -335,13 +335,6 @@
           "url": "https://www.aclu.org/news/immigrants-rights/what-let-the-record-show-reveals-about-the-right-for-undocumented-children-to-go-to-public-school",
           "source": "Posts | American Civil Liberties Union",
           "ts": "Thu, 19 Nov 2026 20:46:48 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Superintelligence Racket",
-          "url": "https://inthesetimes.com/article/the-superintelligence-racket-anthropic-data-centers-ai-nasdaq-ipo-wall-street",
-          "source": "In These Times",
-          "ts": "Thu, 19 Nov 2026 13:30:00 -0600",
           "section": ""
         }
       ]
@@ -528,6 +521,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "While Shenzhen Talked, Berlin Pulled Up a Chair: Europe’s Generational Bet on Itself and Ukraine",
+          "url": "https://warontherocks.com/while-shenzhen-talked-berlin-pulled-up-a-chair-europes-generational-bet-on-itself-and-ukraine/",
+          "source": "War on the Rocks",
+          "ts": "Mon, 23 Nov 2026 19:20:55 +0000",
+          "section": ""
+        },
+        {
+          "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 19:20:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Thousands flee Manchester concert after unknown substance released",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Mon, 23 Nov 2026 19:07:37 +0000",
+          "section": ""
+        },
+        {
           "title": "Saudi Airstrikes on Telecommunications Facilities in Yemen Kill 17 Workers: Ministry",
           "url": "https://news.antiwar.com/2026/11/23/saudi-airstrikes-on-telecommunications-facilities-in-yemen-kill-17-workers-ministry/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-airstrikes-on-telecommunications-facilities-in-yemen-kill-17-workers-ministry",
           "source": "News From Antiwar.com",
@@ -556,24 +570,10 @@
           "section": ""
         },
         {
-          "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-          "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 18:12:55 +0000",
-          "section": ""
-        },
-        {
           "title": "Lebanese PM Accuses Israel of Using Schoolchildren for Propaganda",
           "url": "https://news.antiwar.com/2026/11/23/lebanese-pm-accuses-israel-of-using-schoolchildren-for-propaganda/?utm_source=rss&utm_medium=rss&utm_campaign=lebanese-pm-accuses-israel-of-using-schoolchildren-for-propaganda",
           "source": "News From Antiwar.com",
           "ts": "Mon, 23 Nov 2026 18:01:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Danish top court’s ‘ghetto law’ ruling supports hardline immigration policy",
-          "url": "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Mon, 23 Nov 2026 18:00:23 +0000",
           "section": ""
         },
         {
@@ -714,13 +714,6 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/20/army-delays-detonation-of-unstable-ammunition-stockpile-until-monday/",
           "source": "News - Army Times",
           "ts": "Fri, 20 Nov 2026 18:09:40 +0000",
-          "section": ""
-        },
-        {
-          "title": "What Ukraine Hath Wrought: Lessons for War, If We’re Listening",
-          "url": "https://warontherocks.com/what-ukraine-hath-wrought-lessons-for-war-if-were-listening/",
-          "source": "War on the Rocks",
-          "ts": "Fri, 20 Nov 2026 17:18:04 +0000",
           "section": ""
         },
         {
@@ -867,24 +860,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "More than 360,000 displaced in Yemen since August as UN reports rising civilian casualties",
+          "url": "https://www.middleeastmonitor.com/20261123-more-than-360000-displaced-in-yemen-since-august-as-un-reports-rising-civilian-casualties/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 19:26:40 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Qatari, Egyptian top diplomats discuss regional de-escalation efforts",
+          "url": "https://www.middleeastmonitor.com/20261123-qatari-egyptian-top-diplomats-discuss-regional-de-escalation-efforts/",
+          "source": "Middle East Monitor",
+          "ts": "Mon, 23 Nov 2026 19:17:19 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israeli drone strike on civilian vehicle kills 3 Palestinians in Gaza",
           "url": "https://www.middleeastmonitor.com/20261123-israeli-drone-strike-on-civilian-vehicle-kills-3-palestinians-in-gaza/",
           "source": "Middle East Monitor",
           "ts": "Mon, 23 Nov 2026 18:31:41 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "20 students to leave Gaza for Ireland after winning visa battle: Report",
-          "url": "https://www.middleeastmonitor.com/20261123-20-students-to-leave-gaza-for-ireland-after-winning-visa-battle-report/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 18:24:50 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran summons Qatari charge d’affaires over joint statement with Germany",
-          "url": "https://www.middleeastmonitor.com/20261123-iran-summons-qatari-charge-daffaires-over-joint-statement-with-germany/",
-          "source": "Middle East Monitor",
-          "ts": "Mon, 23 Nov 2026 17:57:00 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -941,6 +934,27 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBod29PTkxkMENCZ1doMmNnamFTRVV2c0dLUTJkZ1FzcVNVTWZrMHp0ZGNTMTJBM3pHQlNfNWo1aS0zdkhCbUE?oc=5",
           "source": "CODEPINK",
           "ts": "Fri, 20 Nov 2026 20:00:00 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Preparing Gaza's next generation of photojournalists",
+          "url": "https://electronicintifada.net/content/preparing-gazas-next-generation-photojournalists/51774",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 18:41:13 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Books on Gaza genocide by writers who lived through it",
+          "url": "https://electronicintifada.net/blogs/khaled-el-hissy/books-gaza-genocide-writers-who-lived-through-it",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 15:47:46 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "What ceasefire? Israel launches new ground assault on Gaza",
+          "url": "https://electronicintifada.net/blogs/nora-barrows-friedman/what-ceasefire-israel-launches-new-ground-assault-gaza",
+          "source": "The Electronic Intifada",
+          "ts": "Fri, 20 Nov 2026 12:02:09 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
