@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-24T01:19:26.118151Z",
+  "generated_at": "2026-11-24T01:34:02.659531Z",
   "headline": {
-    "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+    "title": "India: Modi Rule Has Weakened Democratic Institutions",
+    "url": "https://www.hrw.org/news/2026/11/23/india-modi-rule-has-weakened-democratic-institutions"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "India: Modi Rule Has Weakened Democratic Institutions",
+          "url": "https://www.hrw.org/news/2026/11/23/india-modi-rule-has-weakened-democratic-institutions",
+          "source": "Human Rights Watch News",
+          "ts": "Mon, 23 Nov 2026 20:30:00 -0500",
+          "section": ""
+        },
         {
           "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
           "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
@@ -44,13 +51,6 @@
           "section": ""
         },
         {
-          "title": "Appeals court lifts blockade on Army's detonation of explosives in Iowa",
-          "url": "https://www.washingtontimes.com/news/2026/nov/23/appeals-court-lifts-blockade-armys-detonation-explosives-iowa/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Mon, 23 Nov 2026 18:33:06 -0500",
-          "section": ""
-        },
-        {
           "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
           "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
           "source": "NYT > U.S. > Politics",
@@ -76,20 +76,6 @@
           "url": "https://newsroom.ucla.edu/in-the-news/how-ai-is-reshaping-california-election-advertising-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Mon, 23 Nov 2026 23:09:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Texas drops lawsuits that accused doctors of illegally providing transgender youth care",
-          "url": "https://www.washingtontimes.com/news/2026/nov/23/lawsuits-dropped-texas-accused-doctors-illegally-providing/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Mon, 23 Nov 2026 18:05:47 -0500",
-          "section": ""
-        },
-        {
-          "title": "Democratic Rep. Jimmy Gomez resigns after Ethics panel finds evidence of sexual misconduct",
-          "url": "https://www.washingtontimes.com/news/2026/nov/23/democratic-rep-jimmy-gomez-resigns-ethics-panel-finds-evidence-sexual/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Mon, 23 Nov 2026 17:44:55 -0500",
           "section": ""
         },
         {
@@ -233,13 +219,6 @@
           "section": ""
         },
         {
-          "title": "French Bill Risks Deepening Police Impunity",
-          "url": "https://www.hrw.org/news/2026/11/23/french-bill-risks-deepening-police-impunity",
-          "source": "Human Rights Watch News",
-          "ts": "Mon, 23 Nov 2026 07:45:07 -0500",
-          "section": ""
-        },
-        {
           "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
           "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
           "source": "NPR Topics: Politics",
@@ -275,10 +254,38 @@
           "section": ""
         },
         {
+          "title": "American Pravda: The Jensen Huang Scandal, the Anthropic IPO, and the Collapsing AI Bubble, by Ron Unz",
+          "url": "https://www.unz.com/runz/american-pravda-the-jensen-huang-scandal-the-anthropic-ipo-and-the-collapsing-ai-bubble/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 23 Nov 2026 05:10:43 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Illinois Separation Movement: A Future Political Paradigm?, by Antonius Aquinas",
+          "url": "https://www.unz.com/article/the-illinois-separation-movement-a-future-political-paradigm/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 23 Nov 2026 05:00:47 +0000",
+          "section": ""
+        },
+        {
+          "title": "Book Signing Party with Caitlin and Tim!, by Caitlin Johnstone",
+          "url": "https://www.unz.com/cjohnstone/book-signing-party-with-caitlin-and-tim/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 23 Nov 2026 05:00:35 +0000",
+          "section": ""
+        },
+        {
           "title": "Trump’s Iran Strategy Is About To Blow Up",
           "url": "https://www.youtube.com/watch?v=HUkP6B9qMY0",
           "source": "Quincy Institute for Responsible Statecraft",
           "ts": "Sun, 22 Nov 2026 23:15:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Iran Takes US-Israeli War Crimes to Court as Trump Threatens New Strikes - Palestine Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDVDalZFRWlCZE41dlJHX0R2OUxFYmpsSVozSmxfbElyYW9uampfeC0wMV9YQkdUbkp4dE53MTVZaTg3Q0R1MzI4dXNqUE9jQ04yNmRON0l6aHJTY2lRTlpXT215Q0FJV0FoTXluZVhxbEU1TDduWkd1R1p0bVk3dy1FWWdhSkItdFZpSmRYbHpsOENXajFOcmJiaWN4S0diY0FDdGpKZkZiMlZN?oc=5",
+          "source": "via Google News",
+          "ts": "Sun, 22 Nov 2026 21:10:52 GMT",
           "section": ""
         },
         {
@@ -348,10 +355,10 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+          "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 24 Nov 2026 00:43:01 GMT",
+          "ts": "Tue, 24 Nov 2026 01:17:48 GMT",
           "section": ""
         },
         {
@@ -493,6 +500,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Bukele shares details on deaths of Salvadoran troops in Haiti intervention",
+          "url": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 24 Nov 2026 01:06:00 +0000",
+          "section": ""
+        },
+        {
           "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
           "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -504,13 +518,6 @@
           "url": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 24 Nov 2026 00:39:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "Turns out it wasn’t a lion afterall",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 24 Nov 2026 00:35:58 +0000",
           "section": ""
         },
         {
@@ -694,13 +701,6 @@
           "source": "Military",
           "ts": "Fri, 20 Nov 2026 13:54:00 +0000",
           "section": ""
-        },
-        {
-          "title": "Israel Advances West Bank Settlement City for 200,000 Illegal Settlers - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc0dVNGxEZWx3aVVEc3RrVWU3bUpPRnJXN3JPc3ZQRFNCTlN3UUdaZkwxb1l3SVBuTWhKNmhoTlJ3WFFZQjA0RV92eWxZRlRaY20zOW9rcHZoblJNcEZuUGVpQUlPMW5iaXcyWkhNMGs3TDktaXZqSTNXa1hHTG45dXJsaDlhMGlwdnpPdFJrMWNhcUVuU3JVTnhBZmZiNXdKN1A3d2tsN0o?oc=5",
-          "source": "via Google News",
-          "ts": "Fri, 20 Nov 2026 11:12:46 GMT",
-          "section": ""
         }
       ]
     },
@@ -825,13 +825,6 @@
           "section": ""
         },
         {
-          "title": "What is grief, if not a tenacious love?",
-          "url": "https://electronicintifada.net/content/what-grief-if-not-tenacious-love/51775",
-          "source": "The Electronic Intifada",
-          "ts": "Tue, 24 Nov 2026 00:02:03 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "No War, No Empire Weekly Rally: San Pedro - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TUjl5Q3J6a1M4cGd3ZURObDQ4MWROMDVYbldnaFY5aWZhZnR5ZjhrMjhoTmFtMmNjQldYbTdId1c1VXNfVmc?oc=5",
           "source": "CODEPINK",
@@ -895,17 +888,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Preparing Gaza's next generation of photojournalists",
-          "url": "https://electronicintifada.net/content/preparing-gazas-next-generation-photojournalists/51774",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 18:41:13 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Books on Gaza genocide by writers who lived through it",
-          "url": "https://electronicintifada.net/blogs/khaled-el-hissy/books-gaza-genocide-writers-who-lived-through-it",
-          "source": "The Electronic Intifada",
-          "ts": "Fri, 20 Nov 2026 15:47:46 +0000",
+          "title": "The Israeli Army Razed a Settler Outpost, Then Left Palestinians to Face a Pogrom - Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ2d2NWZIV2JQYl9oeHBTUHlBN3lZaF9LMFRMU2dJT2FubjVwOXdFc0lLQ3l4Q2YyTnUxSDVicUVncEhrdTNaMGt2aUtLbFVhcmp1RmZXbUNoaHBKakxMOXJqMW1iVGNjdWl5Z21WS1VVRzM4eHluSDlTanNUT2Z5cFFzdUppaGtBeXNWbVhsX2hVbUtSQUw2c2t0SDgxTzB2RG16M294TVZ5WFp5WTRWUlJKY29tblMydjJ1aTRCcExIanp2anBHbmc4dkJKV25WcmNWWGtrQndDRElxME9YdS1HSERrdzBYR2dFYnlWMjIxdzNZVGFBVl9GZEVBdGpLR2V6bmdHR1B3SllPYzZQOWwyUmRjbnUzQmI4QXA1Nlc4VlpYNFcyQmVjZ2Fydw?oc=5",
+          "source": "Gideon Levy (Haaretz)",
+          "ts": "Sat, 21 Nov 2026 07:56:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
