@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T15:04:13.985444Z",
+  "generated_at": "2026-11-24T15:21:13.210758Z",
   "headline": {
-    "title": "Israel releases worshippers held in Qalqilya as prisoners group warns of torture, starvation",
-    "url": "https://www.middleeastmonitor.com/20261124-israel-releases-worshippers-held-in-qalqilya-as-prisoners-group-warns-of-torture-starvation/"
+    "title": "For University of Michigan faculty, intimidation of Jews gets a pass",
+    "url": "https://religionnews.com/2026/11/24/for-university-of-michigan-faculty-intimidation-of-jews-gets-a-pass/"
   },
   "sections": [
     {
@@ -69,6 +69,13 @@
           "url": "https://thelalocal.org/business-development/inglewood-transit-connector-eminent-domain-market-street-florence-avenue/",
           "source": "LA Local",
           "ts": "Tue, 24 Nov 2026 14:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "Huntley murderer handed new whole life jail term",
+          "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Tue, 24 Nov 2026 13:32:43 GMT",
           "section": ""
         },
         {
@@ -139,13 +146,6 @@
           "url": "https://www.propublica.org/article/cop31-climate-conference-fossil-fuels-carbon-capture",
           "source": "ProPublica",
           "ts": "Tue, 24 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 24 Nov 2026 10:53:37 GMT",
           "section": ""
         },
         {
@@ -390,17 +390,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "The Limits of the Great Man Theory of Business",
-          "url": "https://www.nationalreview.com/article/the-limits-of-the-great-man-theory-of-business",
-          "source": "National Review",
-          "ts": "Tue, 24 Nov 2026 14:40:36 +0000",
+          "title": "For University of Michigan faculty, intimidation of Jews gets a pass",
+          "url": "https://religionnews.com/2026/11/24/for-university-of-michigan-faculty-intimidation-of-jews-gets-a-pass/",
+          "source": "RNS",
+          "ts": "Tue, 24 Nov 2026 15:14:30 +0000",
           "section": ""
         },
         {
           "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Tue, 24 Nov 2026 14:35:00 GMT",
+          "ts": "Tue, 24 Nov 2026 15:06:55 GMT",
+          "section": ""
+        },
+        {
+          "title": "New grants will support efforts to help people explore and engage in Christian faith practices",
+          "url": "https://religionnews.com/2026/11/24/new-grants-will-support-efforts-to-help-people-explore-and-engage-in-christian-faith-practices/",
+          "source": "RNS",
+          "ts": "Tue, 24 Nov 2026 15:04:41 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Limits of the Great Man Theory of Business",
+          "url": "https://www.nationalreview.com/article/the-limits-of-the-great-man-theory-of-business",
+          "source": "National Review",
+          "ts": "Tue, 24 Nov 2026 14:40:36 +0000",
           "section": ""
         },
         {
@@ -500,26 +514,26 @@
           "source": "RNS",
           "ts": "Tue, 24 Nov 2026 08:05:15 +0000",
           "section": ""
-        },
-        {
-          "title": "Facing rising threats, Hindus update temple security with the help of synagogues",
-          "url": "https://religionnews.com/2026/11/23/facing-rising-threats-hindus-update-temple-security-with-the-help-of-synagogues/",
-          "source": "RNS",
-          "ts": "Mon, 23 Nov 2026 22:11:43 +0000",
-          "section": ""
-        },
-        {
-          "title": "Eating the Seasons: Food, Faith and Belonging with Michael W. Twitty",
-          "url": "https://religionnews.com/2026/11/23/eating-the-seasons-food-faith-and-belonging-with-michael-w-twitty/",
-          "source": "RNS",
-          "ts": "Mon, 23 Nov 2026 20:18:57 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/russia-tows-it-cargo-ship-back-home-after-ukrainian-drone-attack?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 24 Nov 2026 14:56:18 +0000",
+          "section": ""
+        },
+        {
+          "title": "The photos from Gaza resonating with the people of Sarajevo",
+          "url": "https://www.aljazeera.com/features/2026/11/24/the-photographs-from-gaza-that-sarajevo-took-home?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 24 Nov 2026 14:50:02 +0000",
+          "section": ""
+        },
         {
           "title": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
           "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-all-1573-rdf",
@@ -546,20 +560,6 @@
           "url": "https://www.aljazeera.com/sports/2026/11/24/senegal-reinstated-as-2025-africa-cup-of-nations-winners-over-morocco?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Tue, 24 Nov 2026 14:35:56 +0000",
-          "section": ""
-        },
-        {
-          "title": "Saudi-led coalition condemns ‘terrorist attack’ on tower in Riyadh",
-          "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 24 Nov 2026 14:27:38 +0000",
-          "section": ""
-        },
-        {
-          "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-          "url": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 24 Nov 2026 14:16:33 +0000",
           "section": ""
         },
         {
@@ -853,6 +853,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Macklemore turns Gaza grief into song supporting Palestinian mothers and children",
+          "url": "https://www.middleeastmonitor.com/20261124-macklemore-turns-gaza-grief-into-song-supporting-palestinian-mothers-and-children/",
+          "source": "Middle East Monitor",
+          "ts": "Tue, 24 Nov 2026 15:04:16 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel releases worshippers held in Qalqilya as prisoners group warns of torture, starvation",
           "url": "https://www.middleeastmonitor.com/20261124-israel-releases-worshippers-held-in-qalqilya-as-prisoners-group-warns-of-torture-starvation/",
           "source": "Middle East Monitor",
@@ -864,13 +871,6 @@
           "url": "https://www.middleeastmonitor.com/20261124-qatar-urges-restoration-of-hormuz-navigation-return-to-us-iran-talks/",
           "source": "Middle East Monitor",
           "ts": "Tue, 24 Nov 2026 14:48:10 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israeli government minister uses racist slurs against Arab lawmakers in Knesset",
-          "url": "https://www.middleeastmonitor.com/20261124-israeli-government-minister-uses-racist-slurs-against-arab-lawmakers-in-knesset/",
-          "source": "Middle East Monitor",
-          "ts": "Tue, 24 Nov 2026 14:33:32 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -982,20 +982,6 @@
           "source": "Truthdig",
           "ts": "Mon, 23 Nov 2026 17:11:19 +0000",
           "section": ""
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
           "title": "Blurred Line between Federal Immigration Enforcement and Local Police Harms Communities",
