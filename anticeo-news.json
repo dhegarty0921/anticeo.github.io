@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T08:06:48.789464Z",
+  "generated_at": "2026-11-24T08:22:44.661444Z",
   "headline": {
-    "title": "Landmines: New Use, Production Undermine Ban Treaty",
-    "url": "https://www.hrw.org/news/2026/11/24/landmines-new-use-production-undermine-ban-treaty"
+    "title": "Germany news: Volkswagen begins wage talks with IG Metall union",
+    "url": "https://www.dw.com/en/germany-news-volkswagen-begins-wage-talks-with-ig-metall-union/live-80028306?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -13,6 +13,20 @@
           "url": "https://www.hrw.org/news/2026/11/24/landmines-new-use-production-undermine-ban-treaty",
           "source": "Human Rights Watch News",
           "ts": "Tue, 24 Nov 2026 03:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Defending Every Inch of Poland with a Press Release, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/defending-every-inch-of-poland-with-a-press-release/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 24 Nov 2026 05:00:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Political Science, by Hans Vogel",
+          "url": "https://www.unz.com/article/political-science/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 24 Nov 2026 05:00:29 +0000",
           "section": ""
         },
         {
@@ -170,13 +184,6 @@
           "section": ""
         },
         {
-          "title": "UCLA Lung Cancer Awareness event serves as celebration after undergrads turn advocacy into law",
-          "url": "https://newsroom.ucla.edu/stories/ucla-lung-cancer-awareness-event-undergrads-advocacy",
-          "source": "UCLA",
-          "ts": "Mon, 23 Nov 2026 18:55:00 GMT",
-          "section": ""
-        },
-        {
           "title": "Pronóstico reservado para el sistema de salud de Puerto Rico bajo la Junta de EEUU",
           "url": "https://www.truthdig.com/articles/pronostico-reservado-para-el-sistema-de-salud-de-puerto-rico-bajo-la-junta-de-eeuu/?utm_source=rss&utm_medium=rss&utm_campaign=pronostico-reservado-para-el-sistema-de-salud-de-puerto-rico-bajo-la-junta-de-eeuu",
           "source": "Truthdig",
@@ -244,6 +251,13 @@
           "url": "https://www.thecanary.co/discovery/travel/2026/11/23/christmas-in-the-land-of-pharaohs-discover-egypts-most-magical-holiday-experiences/",
           "source": "Canary",
           "ts": "Mon, 23 Nov 2026 10:29:24 +0000",
+          "section": ""
+        },
+        {
+          "title": "Horror, Horror: Peace Is at Hand, by Jeffrey D. Sachs",
+          "url": "https://www.unz.com/article/horror-horror-peace-is-at-hand/",
+          "source": "The Unz Review:",
+          "ts": "Mon, 23 Nov 2026 05:20:31 +0000",
           "section": ""
         },
         {
@@ -334,6 +348,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Christian conservatives target library funding, LGBTQ+ books in Virginia’s Appomattox County",
+          "url": "https://religionnews.com/2026/11/24/religious-conservatives-target-library-funding-lgbtq-books-in-virginias-appomattox-county/",
+          "source": "RNS",
+          "ts": "Tue, 24 Nov 2026 08:05:15 +0000",
+          "section": ""
+        },
+        {
           "title": "Republican lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
           "source": "US news | The Guardian",
@@ -394,13 +415,6 @@
           "url": "https://religionnews.com/2026/11/23/eating-the-seasons-food-faith-and-belonging-with-michael-w-twitty/",
           "source": "RNS",
           "ts": "Mon, 23 Nov 2026 20:18:57 +0000",
-          "section": ""
-        },
-        {
-          "title": "Bishops get educated on Gen Z, who are ‘religious but not spiritual’",
-          "url": "https://religionnews.com/2026/11/23/bishops-get-educated-on-gen-z-who-are-religious-but-not-spiritual/",
-          "source": "RNS",
-          "ts": "Mon, 23 Nov 2026 20:12:47 +0000",
           "section": ""
         },
         {
@@ -479,6 +493,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Germany news: Volkswagen begins wage talks with IG Metall union",
+          "url": "https://www.dw.com/en/germany-news-volkswagen-begins-wage-talks-with-ig-metall-union/live-80028306?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-24T08:15:00Z",
+          "section": ""
+        },
+        {
+          "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+          "url": "https://www.aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 24 Nov 2026 07:55:18 +0000",
+          "section": ""
+        },
+        {
+          "title": "Wars choke global food routes, threatening aid for 7.3 million, WFP warns",
+          "url": "https://www.aljazeera.com/news/2026/11/24/wars-choke-global-food-routes-threatening-aid-for-7-3-million-wfp-warns?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Tue, 24 Nov 2026 07:52:44 +0000",
+          "section": ""
+        },
+        {
           "title": "Why has Yemen’s offensive against the Houthis in al-Bayda stalled?",
           "url": "https://www.aljazeera.com/news/2026/11/24/why-has-yemens-offensive-against-the-houthis-in-al-bayda-stalled?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -486,24 +521,10 @@
           "section": ""
         },
         {
-          "title": "Sheikh Hasina plans to return to Bangladesh from exile on December 16",
-          "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 24 Nov 2026 07:35:02 +0000",
-          "section": ""
-        },
-        {
           "title": "Exiled leader Sheikh Hasina plans to return to Bangladesh on Dec. 16",
           "url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-24T07:32:00Z",
-          "section": ""
-        },
-        {
-          "title": "Member states must not betray the ICC",
-          "url": "https://www.aljazeera.com/opinions/2026/11/24/member-states-must-not-betray-the-icc?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Tue, 24 Nov 2026 07:13:18 +0000",
           "section": ""
         },
         {
@@ -533,13 +554,6 @@
           "source": "Global Research",
           "ts": "Tue, 24 Nov 2026 04:57:10 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "India: Report warns of deepening authoritarianism under Modi",
-          "url": "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-24T04:33:00Z",
-          "section": ""
         },
         {
           "title": "Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?",
