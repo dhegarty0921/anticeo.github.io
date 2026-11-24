@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-24T00:09:32.802790Z",
+  "generated_at": "2026-11-24T00:35:42.551545Z",
   "headline": {
-    "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss"
+    "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
+    "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates"
   },
   "sections": [
     {
@@ -41,6 +41,13 @@
           "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Mon, 23 Nov 2026 23:10:27 GMT",
+          "section": ""
+        },
+        {
+          "title": "How AI is reshaping California election advertising — and more UCLA media",
+          "url": "https://newsroom.ucla.edu/in-the-news/how-ai-is-reshaping-california-election-advertising-and-more-ucla-media",
+          "source": "UCLA",
+          "ts": "Mon, 23 Nov 2026 23:09:00 GMT",
           "section": ""
         },
         {
@@ -90,13 +97,6 @@
           "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
           "source": "NPR Topics: News",
           "ts": "Mon, 23 Nov 2026 17:17:59 -0500",
-          "section": ""
-        },
-        {
-          "title": "South LA student receives Obama Foundation scholarship",
-          "url": "https://thelalocal.org/education/ava-ward-wallace-obama-chesky-voyager-scholarship-for-public-service/",
-          "source": "LA Local",
-          "ts": "Mon, 23 Nov 2026 21:35:10 +0000",
           "section": ""
         },
         {
@@ -156,6 +156,13 @@
           "section": ""
         },
         {
+          "title": "My approach to EU is pragmatic, says Burnham",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Mon, 23 Nov 2026 19:10:44 GMT",
+          "section": ""
+        },
+        {
           "title": "“Sex Sells” and a Red Bra: Trump’s Vulgar Response to Jensen Huang’s Return",
           "url": "https://www.motherjones.com/politics/2026/11/trump-jensen-huang-return-vulgar-response/",
           "source": "Mother Jones",
@@ -170,24 +177,10 @@
           "section": ""
         },
         {
-          "title": "Analysis: Why Jensen Huang proved too big to fire",
-          "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Mon, 23 Nov 2026 17:11:58 GMT",
-          "section": ""
-        },
-        {
           "title": "Pronóstico reservado para el sistema de salud de Puerto Rico bajo la Junta de EEUU",
           "url": "https://www.truthdig.com/articles/pronostico-reservado-para-el-sistema-de-salud-de-puerto-rico-bajo-la-junta-de-eeuu/?utm_source=rss&utm_medium=rss&utm_campaign=pronostico-reservado-para-el-sistema-de-salud-de-puerto-rico-bajo-la-junta-de-eeuu",
           "source": "Truthdig",
           "ts": "Mon, 23 Nov 2026 17:01:10 +0000",
-          "section": ""
-        },
-        {
-          "title": "Meet the UCLA doctor who ‘prescribes’ podcasts – and tunes in to patients",
-          "url": "https://newsroom.ucla.edu/stories/doctor-prescribes-podcasts-tunes-in-patients-eve-glazier",
-          "source": "UCLA",
-          "ts": "Mon, 23 Nov 2026 17:00:00 GMT",
           "section": ""
         },
         {
@@ -369,17 +362,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+          "title": "Republicans lawmakers break with Trump over alleged Nvidia chip smuggling after Jensen Huang’s reinstatement – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Mon, 23 Nov 2026 23:52:36 GMT",
+          "ts": "Tue, 24 Nov 2026 00:19:01 GMT",
           "section": ""
         },
         {
           "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
           "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
           "source": "US news | The Guardian",
-          "ts": "Mon, 23 Nov 2026 23:51:19 GMT",
+          "ts": "Mon, 23 Nov 2026 23:57:33 GMT",
           "section": ""
         },
         {
