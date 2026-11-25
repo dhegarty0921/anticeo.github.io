@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:37:58.543738Z",
+  "generated_at": "2026-11-25T12:47:37.030096Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
           "source": "Human Rights Watch News",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Former cop found guilty of murdering TV host ex-boyfriend and his new partner",
+          "url": "https://www.thepinknews.com/2026/11/25/beau-lamarre-condon-murder-trial-jesse-baird-luke-davies/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Wed, 25 Nov 2026 12:36:28 +0000",
           "section": ""
         },
         {
@@ -79,13 +86,6 @@
           "section": ""
         },
         {
-          "title": "Council diversity manager unfairly sacked for ‘liking’ JK Rowling tweets, tribunal rules",
-          "url": "https://www.thepinknews.com/2026/11/25/manchester-city-council-employment-tribunal-jk-rowling/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 25 Nov 2026 11:43:24 +0000",
-          "section": ""
-        },
-        {
           "title": "Oregon Housing Leader Met With Officials Who Are Seeking Money for a Project Her Husband’s Employer Is Developing",
           "url": "https://www.propublica.org/article/oregon-housing-council-andrea-bell-joshua-crites",
           "source": "ProPublica",
@@ -93,15 +93,15 @@
           "section": ""
         },
         {
-          "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
-          "url": "https://www.latimes.com/california/story/2026-11-25/lapd-police-shootings-report",
+          "title": "Trump's DOJ touted his election fraud arrest as 'first of many.' Then the case fizzled",
+          "url": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
         },
         {
-          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
-          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
+          "title": "'The miracle' in 3-D: Tour brings statue of the Virgin of Guadalupe to L.A. faithful",
+          "url": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -216,20 +216,6 @@
           "url": "https://truthout.org/video/huangs-return-to-nvidia-shows-the-unsustainable-power-of-ai-over-the-economy/",
           "source": "Truthout",
           "ts": "Tue, 24 Nov 2026 22:20:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Philippines: As ICC Tries Duterte, Stalled Justice at Home",
-          "url": "https://www.hrw.org/news/2026/11/24/philippines-as-icc-tries-duterte-stalled-justice-at-home",
-          "source": "Human Rights Watch News",
-          "ts": "Tue, 24 Nov 2026 17:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "These U.S. data centers use four times the power used in LA",
-          "url": "https://newsroom.ucla.edu/stories/these-u-s-data-centers-use-four-times-the-power-used-in-la",
-          "source": "UCLA",
-          "ts": "Tue, 24 Nov 2026 21:57:00 GMT",
           "section": ""
         },
         {
@@ -397,17 +383,17 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Buy now, pay later is more dangerous than ever",
+          "url": "https://www.vox.com/life/469760/klarna-affirm-afterpay-black-friday",
+          "source": "Vox",
+          "ts": "2026-11-25T07:45:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Man climbs church to rip down Pride flag mid-service and storms sanctuary with transphobic rant",
           "url": "https://www.thepinknews.com/2026/11/25/middletown-church-pride-flag/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Wed, 25 Nov 2026 12:34:34 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Great American Tradition",
-          "url": "https://www.theatlantic.com/ideas/2026/11/boycotts-mississippi-naacp-press-scotus/689568/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-25T07:30:00-05:00",
           "section": ""
         },
         {
@@ -432,13 +418,6 @@
           "section": ""
         },
         {
-          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-          "source": "Vox",
-          "ts": "2026-11-25T07:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "A Bizarre Sequel to One of Tarantino’s Best Movies",
           "url": "https://www.theatlantic.com/culture/2026/11/cliff-booth-once-upon-a-time-in-hollywood-sequel-review/689578/?utm_source=feed",
           "source": "The Atlantic",
@@ -453,17 +432,24 @@
           "section": ""
         },
         {
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+          "source": "Vox",
+          "ts": "2026-11-25T07:00:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "Beware the Gangs of Marauding Wild Turkeys in a City Near You",
+          "url": "https://www.theatlantic.com/science/2026/11/wild-turkeys-cities-suburbs-mayhem/689475/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-25T07:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "HIV was supposed to kill them. Now they could help scientists find a cure.",
           "url": "https://www.vox.com/future-perfect/506553/hiv-elite-controllers-cure-research",
           "source": "Vox",
           "ts": "2026-11-25T06:34:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Trump wants an immigration deal. He could start with caregivers.",
-          "url": "https://www.vox.com/life/507156/caregiving-caregivers-visa-immigration-elderly-seniors-care-congress",
-          "source": "Vox",
-          "ts": "2026-11-25T06:22:00-05:00",
           "section": ""
         },
         {
@@ -535,6 +521,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ukraine: Industrial attacks and anger at Russia as Ukraine's allies justify defense aid, argue over military action in Libya",
+          "url": "https://www.dw.com/en/ukraine-industrial-attacks-and-anger-at-russia-as-ukraine-s-allies-justify-defense-aid-argue-over-military-action-in-libya/live-80047122?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T12:39:00Z",
+          "section": ""
+        },
+        {
           "title": "In Afghanistan, no female doctor often means no treatment for women",
           "url": "https://www.dw.com/en/in-afghanistan-no-female-doctor-often-means-no-treatment-for-women/a-80047053?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -542,10 +535,24 @@
           "section": ""
         },
         {
-          "title": "Overnight RSF drone attacks kill 19 in Sudan",
-          "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+          "title": "The rising cost of Thanksgiving",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 11:58:15 +0000",
+          "ts": "Wed, 25 Nov 2026 12:29:09 +0000",
+          "section": ""
+        },
+        {
+          "title": "Catalan separatist Puigdemont to return to Spain on December 12",
+          "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 12:25:46 +0000",
+          "section": ""
+        },
+        {
+          "title": "Bangladesh garment workers protest over new wages",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 12:23:41 +0000",
           "section": ""
         },
         {
@@ -553,27 +560,6 @@
           "url": "https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T11:57:00Z",
-          "section": ""
-        },
-        {
-          "title": "Ex-England star Sterling given suspended sentence for dangerous driving",
-          "url": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 11:50:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 11:50:50 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Army to detonate unstable lead-based explosives in Iowa",
-          "url": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T11:33:00Z",
           "section": ""
         },
         {
@@ -867,24 +853,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Knesset committee approves bill to establish 7th October inquiry commission despite Netanyahu’s opposition",
+          "url": "https://www.middleeastmonitor.com/20261125-knesset-committee-approves-bill-to-establish-7th-october-inquiry-commission-despite-netanyahus-opposition/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 25 Nov 2026 12:44:48 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Prisoners’ rights groups warn of escalating abuse against 85 Palestinian female detainees at Damon Prison",
+          "url": "https://www.middleeastmonitor.com/20261125-prisoners-rights-groups-warn-of-escalating-abuse-against-85-palestinian-female-detainees-at-damon-prison/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 25 Nov 2026 12:38:40 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Israel reports 92,300 security personnel receiving rehabilitation, including 43,800 with psychological trauma",
           "url": "https://www.middleeastmonitor.com/20261125-israel-reports-92300-security-personnel-receiving-rehabilitation-including-43800-with-psychological-trauma/",
           "source": "Middle East Monitor",
           "ts": "Wed, 25 Nov 2026 11:38:15 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Why Somalia must reject foreign-brokered settlements to safeguard Its sovereignty and unity",
-          "url": "https://www.middleeastmonitor.com/20261125-why-somalia-must-reject-foreign-brokered-settlements-to-safeguard-its-sovereignty-and-unity/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 25 Nov 2026 11:30:04 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Ethiopia offers to mediate in Sudan war amid tensions with Khartoum",
-          "url": "https://www.middleeastmonitor.com/20261125-ethiopia-offers-to-mediate-in-sudan-war-amid-tensions-with-khartoum/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 25 Nov 2026 10:25:20 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1010,13 +996,6 @@
           "source": "National Immigration Project",
           "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
-          "url": "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest",
-          "source": "The Marshall Project",
-          "ts": "Sat, 21 Nov 2026 12:00:00 -0500",
-          "section": ""
         }
       ]
     }
