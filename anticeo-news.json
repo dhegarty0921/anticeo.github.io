@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:04:59.084738Z",
+  "generated_at": "2026-11-25T07:20:28.360376Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -13,6 +13,20 @@
           "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
           "source": "Human Rights Watch News",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Energy bills to rise by 26% from January",
+          "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 25 Nov 2026 07:17:15 GMT",
+          "section": ""
+        },
+        {
+          "title": "Two children among six dead after plane crash off Mississippi coast",
+          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 25 Nov 2026 07:08:22 GMT",
           "section": ""
         },
         {
@@ -58,13 +72,6 @@
           "section": ""
         },
         {
-          "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 25 Nov 2026 01:03:05 GMT",
-          "section": ""
-        },
-        {
           "title": "LA28 names Phillips 66 its official fuel partner. Critics want the deal canceled",
           "url": "https://thelalocal.org/los-angeles-city/la28-fuel-partner-is-phillips-66/",
           "source": "LA Local",
@@ -76,6 +83,13 @@
           "url": "https://newsroom.ucla.edu/in-the-news/ai-may-have-solved-a-167-year-old-math-mystery-but-understanding-the-proof-is-another-challenge-and-more-ucla-media",
           "source": "UCLA",
           "ts": "Wed, 25 Nov 2026 00:33:00 GMT",
+          "section": ""
+        },
+        {
+          "title": "Judge tosses Justice Dept. case against FBI officials over 'lying' in Hunter Biden laptop case",
+          "url": "https://www.washingtontimes.com/news/2026/nov/24/judge-tosses-justice-dept-case-fbi-officials-lying-hunter-biden/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 24 Nov 2026 19:18:11 -0500",
           "section": ""
         },
         {
@@ -93,6 +107,20 @@
           "section": ""
         },
         {
+          "title": "Kilmar Abrego Garcia voluntarily leaves U.S., ending year-long battle with Trump administration",
+          "url": "https://www.washingtontimes.com/news/2026/nov/24/kilmar-abrego-garcia-accept-deportation-ending-year-long-battle-trump/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 24 Nov 2026 18:52:10 -0500",
+          "section": ""
+        },
+        {
+          "title": "Westlake tenants push back against landlord’s plan to replace parking lot with ADUs",
+          "url": "https://thelalocal.org/neighborhoods/westlake/westlake-tenants-fight-against-adu-plans-parking-lot-november-2026/",
+          "source": "LA Local",
+          "ts": "Tue, 24 Nov 2026 23:43:33 +0000",
+          "section": ""
+        },
+        {
           "title": "The Blue Wave Is a Generational Chance to Expand (And Fund) Obamacare",
           "url": "https://www.motherjones.com/politics/2026/11/new-mexico-texas-aca-subsidies-obamacare-health-insurance-blue-wave-georgia-pennsylvania-legislature/",
           "source": "Mother Jones",
@@ -104,13 +132,6 @@
           "url": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
           "source": "NPR Topics: Politics",
           "ts": "Tue, 24 Nov 2026 17:54:01 -0500",
-          "section": ""
-        },
-        {
-          "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
-          "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Tue, 24 Nov 2026 22:49:41 GMT",
           "section": ""
         },
         {
@@ -128,10 +149,31 @@
           "section": ""
         },
         {
+          "title": "Philippines: As ICC Tries Duterte, Stalled Justice at Home",
+          "url": "https://www.hrw.org/news/2026/11/24/philippines-as-icc-tries-duterte-stalled-justice-at-home",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 24 Nov 2026 17:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "These U.S. data centers use four times the power used in LA",
+          "url": "https://newsroom.ucla.edu/stories/these-u-s-data-centers-use-four-times-the-power-used-in-la",
+          "source": "UCLA",
+          "ts": "Tue, 24 Nov 2026 21:57:00 GMT",
+          "section": ""
+        },
+        {
           "title": "Cities and States Sue to Block HUD Rule Against Mixed-Status Families",
           "url": "https://www.motherjones.com/politics/2026/11/hud-lawsuit-mixed-status-undocumented-immigrants-federal-housing-assistance-rule-evictions/",
           "source": "Mother Jones",
           "ts": "Tue, 24 Nov 2026 21:25:38 +0000",
+          "section": ""
+        },
+        {
+          "title": "Chinese researcher is in 'remarkable spirits' after ICE detention, professor says",
+          "url": "https://www.washingtontimes.com/news/2026/nov/24/chinese-researcher-remarkable-spirits-ice-detention-professor-says/",
+          "source": "The Washington Times stories: Politics",
+          "ts": "Tue, 24 Nov 2026 16:24:55 -0500",
           "section": ""
         },
         {
@@ -237,20 +279,6 @@
           "url": "https://www.propublica.org/article/ambetter-prior-authorization-denials",
           "source": "ProPublica",
           "ts": "Tue, 24 Nov 2026 10:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "Labour’s Brexit Betrayal May Be a Godsend, by Mark Collett",
-          "url": "https://www.unz.com/article/labours-brexit-betrayal-may-be-a-godsend/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 24 Nov 2026 05:15:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Defending Every Inch of Poland with a Press Release, by Larry C. Johnson",
-          "url": "https://www.unz.com/article/defending-every-inch-of-poland-with-a-press-release/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 24 Nov 2026 05:00:30 +0000",
           "section": ""
         },
         {
@@ -507,6 +535,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Bangladesh garment workers win 36% pay rise after weeks of protest",
+          "url": "https://www.aljazeera.com/news/2026/11/25/bangladesh-garment-workers-win-36-pay-rise-after-weeks-of-protest?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 06:58:02 +0000",
+          "section": ""
+        },
+        {
           "title": "Domestic violence soars to record high in Germany",
           "url": "https://www.dw.com/en/domestic-violence-soars-to-record-high-in-germany/a-80041678?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -521,13 +556,6 @@
           "section": ""
         },
         {
-          "title": "Visit Global Research’s Archives",
-          "url": "https://www.globalresearch.ca/archives",
-          "source": "Global Research",
-          "ts": "Wed, 25 Nov 2026 05:29:13 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
           "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -535,24 +563,10 @@
           "section": ""
         },
         {
-          "title": "Global Research’s Year-End Fundraiser",
-          "url": "https://www.globalresearch.ca/global-researchs-year-end-fundraiser/5945271",
-          "source": "Global Research",
-          "ts": "Wed, 25 Nov 2026 05:25:22 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
           "title": "The Gambia election: Can the next president deliver on a decade of promise",
           "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Wed, 25 Nov 2026 05:03:04 +0000",
-          "section": ""
-        },
-        {
-          "title": "UK warns companies of potential Russian sabotage threat",
-          "url": "https://www.aljazeera.com/news/2026/11/25/uk-warns-companies-of-potential-russian-sabotage-threat?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 04:48:57 +0000",
           "section": ""
         },
         {
@@ -568,13 +582,6 @@
           "source": "Deutsche Welle",
           "ts": "2026-11-25T04:41:00Z",
           "section": ""
-        },
-        {
-          "title": "‘Rising Authoritarianism and Militarism’ in Indonesia Under Prabowo",
-          "url": "https://www.asia-pacificresearch.com/rising-authoritarianism-militarism-indonesia-prabowo/5633768",
-          "source": "Global Research",
-          "ts": "Wed, 25 Nov 2026 03:02:33 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Iran Continues Targeting Ships in Strait of Hormuz as US Ramps Up Sanctions",
@@ -689,13 +696,6 @@
           "section": ""
         },
         {
-          "title": "Nobody's Buying the War Propaganda Anymore, by Caitlin Johnstone",
-          "url": "https://www.unz.com/cjohnstone/nobodys-buying-the-war-propaganda-anymore/",
-          "source": "The Unz Review:",
-          "ts": "Tue, 24 Nov 2026 05:00:55 +0000",
-          "section": ""
-        },
-        {
           "title": "White House sets limits on contractors' contacts with Congress",
           "url": "https://www.defenseone.com/policy/2026/11/trump-exec-order-pushes-white-house-gatekeeper-between-contractors-and-congress/417411/",
           "source": "Defense One - All Content",
@@ -778,13 +778,6 @@
           "section": ""
         },
         {
-          "title": "Felony Case Dropped Against Democrat Congresswoman-Elect",
-          "url": "https://headlineusa.com/felony-case-dropped-against-democrat-congresswoman-elect/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Tue, 24 Nov 2026 20:12:24 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "Signal Moves to Block AI Agents",
           "url": "https://www.eff.org/deeplinks/2026/11/signal-now-blocks-ai-agents",
           "source": "Deeplinks",
@@ -813,13 +806,6 @@
           "section": ""
         },
         {
-          "title": "FBI Deputy Director to Leave Job by End of Year",
-          "url": "https://headlineusa.com/fbi-deputy-director-to-leave-job-by-end-of-year/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Tue, 24 Nov 2026 14:08:43 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
-        },
-        {
           "title": "Canada and U.S. Defense Strategy: The Case for Keeping an Indispensable Ally Close",
           "url": "https://www.justsecurity.org/165644/canada-us-defense-strategy-indispensable-ally/?utm_source=rss&utm_medium=rss&utm_campaign=canada-us-defense-strategy-indispensable-ally",
           "source": "Just Security",
@@ -832,13 +818,6 @@
           "source": "The Intercept",
           "ts": "Tue, 24 Nov 2026 11:00:00 +0000",
           "section": ""
-        },
-        {
-          "title": "BREAKING: Nvidia Rehires Jensen Huang as CEO amidst Chinese Spy Scandal",
-          "url": "https://headlineusa.com/breaking-nvidia-rehires-jensen-huang-as-ceo-amidst-chinese-spy-scandal/",
-          "source": "Ken Silva, Author at Headline USA",
-          "ts": "Mon, 23 Nov 2026 14:31:32 +0000",
-          "section": "PARA POLITICAL INTRIGUE"
         }
       ]
     },
@@ -878,6 +857,13 @@
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QU1BqQU85bXVVbDZ3NlpPelRUVUVFNE5BS1FRR2tPRGcxVVlNa2ttajF6RTFfNEtDV1gybndiRkN3SnFtUXc?oc=5",
           "source": "CODEPINK",
           "ts": "Tue, 24 Nov 2026 17:13:32 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "What is grief, if not a tenacious love?",
+          "url": "https://electronicintifada.net/content/what-grief-if-not-tenacious-love/51775",
+          "source": "The Electronic Intifada",
+          "ts": "Tue, 24 Nov 2026 00:02:03 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -991,18 +977,11 @@
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         },
         {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+          "title": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
+          "url": "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest",
+          "source": "The Marshall Project",
+          "ts": "Sat, 21 Nov 2026 12:00:00 -0500",
+          "section": ""
         }
       ]
     }
