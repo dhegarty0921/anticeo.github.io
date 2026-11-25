@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:04:42.257097Z",
+  "generated_at": "2026-11-25T09:20:37.454411Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
           "source": "Human Rights Watch News",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Paralympian Ezra Frech wins DWTS after prosthetic leg falls off mid-dance",
+          "url": "https://www.thepinknews.com/2026/11/25/ezra-frech-dwts-winner-2026/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Wed, 25 Nov 2026 09:08:39 +0000",
           "section": ""
         },
         {
@@ -230,13 +237,6 @@
           "url": "https://www.realclearpolitics.com/congress/links/the-cant-miss-way-to-prove-that-dems-have-solutions-2026-11-24",
           "source": "RealClearPolitics - Homepage",
           "ts": "Tue, 24 Nov 2026 09:40:47 -0600",
-          "section": ""
-        },
-        {
-          "title": "Jenna Ushkowitz says her gay ex-boyfriends inspired Glee plot",
-          "url": "https://www.thepinknews.com/2026/11/24/glee-jenna-ushkowitz-tina-blaine-storyline/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Tue, 24 Nov 2026 14:58:28 +0000",
           "section": ""
         },
         {
@@ -514,10 +514,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Poland Lays Keel for Third Miecznik Frigate, Signs CAMM-MR Missile Deal with UK",
+          "url": "https://www.navalnews.com/naval-news/2026/11/poland-lays-keel-third-miecznik-frigate-huragan/",
+          "source": "Naval News",
+          "ts": "Wed, 25 Nov 2026 09:06:43 +0000",
+          "section": ""
+        },
+        {
+          "title": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 09:04:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
+          "url": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 09:00:53 +0000",
+          "section": ""
+        },
+        {
           "title": "The Contract Was the Easy Part: How Accelerator Day Put the Pentagon on the Clock",
           "url": "https://warontherocks.com/cogs-of-war/the-contract-was-the-easy-part-how-accelerator-day-put-the-pentagon-on-the-clock/",
           "source": "War on the Rocks",
           "ts": "Wed, 25 Nov 2026 09:00:04 +0000",
+          "section": ""
+        },
+        {
+          "title": "Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 08:53:30 +0000",
           "section": ""
         },
         {
@@ -553,27 +581,6 @@
           "url": "https://www.dw.com/en/colombian-security-forces-storm-supermarket-free-hostages/a-80043016?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T08:27:00Z",
-          "section": ""
-        },
-        {
-          "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
-          "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 08:23:35 +0000",
-          "section": ""
-        },
-        {
-          "title": "Countries that thrive on global cooperation must help sustain it",
-          "url": "https://www.aljazeera.com/opinions/2026/11/25/countries-that-thrive-on-global-cooperation-must-help-sustain-it?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 08:23:01 +0000",
-          "section": ""
-        },
-        {
-          "title": "Is Russia really aiming for a new European security architecture?",
-          "url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 08:20:55 +0000",
           "section": ""
         },
         {
@@ -686,13 +693,6 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/24/army-to-detonate-degraded-ammunition-despite-community-concern/",
           "source": "News - Army Times",
           "ts": "Tue, 24 Nov 2026 17:49:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "U.S. Navy Taps Raytheon to Advance SLCM-N Nuclear Cruise Missile",
-          "url": "https://www.navalnews.com/naval-news/2026/11/u-s-navy-taps-raytheon-to-advance-slcm-n-nuclear-cruise-missile/",
-          "source": "Naval News",
-          "ts": "Tue, 24 Nov 2026 16:33:31 +0000",
           "section": ""
         },
         {
@@ -981,20 +981,6 @@
           "url": "https://documentedny.com/2026/11/23/nyc-construction-labor-brokers-body-shops/",
           "source": "Documented",
           "ts": "Mon, 23 Nov 2026 21:15:21 +0000",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
