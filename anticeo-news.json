@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:32:56.516287Z",
+  "generated_at": "2026-11-25T11:47:33.636706Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -19,7 +19,14 @@
           "title": "Energy bills to rise by 26% from January after gas prices surge",
           "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 25 Nov 2026 11:28:48 GMT",
+          "ts": "Wed, 25 Nov 2026 11:44:26 GMT",
+          "section": ""
+        },
+        {
+          "title": "Council diversity manager unfairly sacked for ‘liking’ JK Rowling tweets, tribunal rules",
+          "url": "https://www.thepinknews.com/2026/11/25/manchester-city-council-employment-tribunal-jk-rowling/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Wed, 25 Nov 2026 11:43:24 +0000",
           "section": ""
         },
         {
@@ -44,8 +51,8 @@
           "section": ""
         },
         {
-          "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
-          "url": "https://www.latimes.com/california/story/2026-11-25/lapd-police-shootings-report",
+          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
+          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -58,17 +65,10 @@
           "section": ""
         },
         {
-          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
-          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
+          "title": "Trump's DOJ touted his election fraud arrest as 'first of many.' Then the case fizzled",
+          "url": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Brits are having less sex than they used to – but they’re having more gay sex",
-          "url": "https://www.thepinknews.com/2026/11/25/uk-sex-frequency-2026/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 25 Nov 2026 10:49:03 +0000",
           "section": ""
         },
         {
@@ -390,10 +390,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump wants an immigration deal. He could start with caregivers.",
-          "url": "https://www.vox.com/life/507156/caregiving-caregivers-visa-immigration-elderly-seniors-care-congress",
-          "source": "Vox",
-          "ts": "2026-11-25T06:22:00-05:00",
+          "title": "Trans professor says she has ‘no regrets’ after university fired her over women’s restroom use",
+          "url": "https://www.thepinknews.com/2026/11/25/ut-martin-trans-firing-2026/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Wed, 25 Nov 2026 11:40:38 +0000",
+          "section": ""
+        },
+        {
+          "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 11:35:07 GMT",
+          "section": ""
+        },
+        {
+          "title": "Detained child implores Trump for ICE release in letter: ‘I would like to visit my father’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/louisiana-child-trump-letter-ice-custody",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 11:30:24 GMT",
           "section": ""
         },
         {
@@ -401,13 +415,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
           "source": "US news | The Guardian",
           "ts": "Wed, 25 Nov 2026 11:00:47 GMT",
-          "section": ""
-        },
-        {
-          "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 11:00:46 GMT",
           "section": ""
         },
         {
@@ -439,13 +446,6 @@
           "section": ""
         },
         {
-          "title": "The college Republicans who voted blue in the midterms",
-          "url": "https://www.vox.com/podcasts/511690/college-republicans-clemson-blue-wave-maga",
-          "source": "Vox",
-          "ts": "2026-11-25T06:00:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Being Normal at Thanksgiving",
           "url": "https://www.christianitytoday.com/2026/11/being-normal-at-thanksgiving-politics-religion-conversations-family/",
           "source": "Christianity Today",
@@ -457,20 +457,6 @@
           "url": "https://www.nationalreview.com/article/sec-proposes-reforms-to-shareholder-democracy",
           "source": "National Review",
           "ts": "Wed, 25 Nov 2026 11:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "First Dates sees sparks fly as drag queen meets match with traumatic past",
-          "url": "https://www.thepinknews.com/2026/11/25/channel-4-first-dates-zac-sab-drag-queen-aida-h-dee/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 25 Nov 2026 10:56:24 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 10:00:12 GMT",
           "section": ""
         },
         {
@@ -509,6 +495,20 @@
           "section": ""
         },
         {
+          "title": "Why the Army wants to detonate toxic explosives in Iowa",
+          "url": "https://www.vox.com/today-explained-newsletter/511830/iowa-lead-azide-explosives-detonation-plume",
+          "source": "Vox",
+          "ts": "2026-11-24T16:05:00-05:00",
+          "section": ""
+        },
+        {
+          "title": "How Donald Trump warped the most important law protecting assault victims on campus",
+          "url": "https://www.vox.com/life/511479/cornell-sex-assault-title-ix-donald-trump",
+          "source": "Vox",
+          "ts": "2026-11-24T14:30:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Halal is going mainstream for Thanksgiving",
           "url": "https://religionnews.com/2026/11/24/halal-is-going-mainstream-for-thanksgiving/",
           "source": "RNS",
@@ -528,6 +528,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "US Army to detonate unstable lead-based explosives in Iowa",
+          "url": "https://www.dw.com/en/us-army-to-detonate-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T11:33:00Z",
+          "section": ""
+        },
+        {
+          "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 11:29:38 +0000",
+          "section": ""
+        },
+        {
+          "title": "Israeli strike kills Hamas official, his wife and children",
+          "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 11:24:37 +0000",
+          "section": ""
+        },
+        {
           "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
           "url": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -535,17 +556,10 @@
           "section": ""
         },
         {
-          "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
-          "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+          "title": "‘People are going hungry’: Guinea’s gold mining crackdown",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 11:02:03 +0000",
-          "section": ""
-        },
-        {
-          "title": "The cost of Nigeria’s power failures for one small business",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 11:01:54 +0000",
+          "ts": "Wed, 25 Nov 2026 11:10:21 +0000",
           "section": ""
         },
         {
@@ -553,20 +567,6 @@
           "url": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T10:51:00Z",
-          "section": ""
-        },
-        {
-          "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 10:50:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
-          "url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T10:35:00Z",
           "section": ""
         },
         {
@@ -867,6 +867,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israel reports 92,300 security personnel receiving rehabilitation, including 43,800 with psychological trauma",
+          "url": "https://www.middleeastmonitor.com/20261125-israel-reports-92300-security-personnel-receiving-rehabilitation-including-43800-with-psychological-trauma/",
+          "source": "Middle East Monitor",
+          "ts": "Wed, 25 Nov 2026 11:38:15 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Why Somalia must reject foreign-brokered settlements to safeguard Its sovereignty and unity",
           "url": "https://www.middleeastmonitor.com/20261125-why-somalia-must-reject-foreign-brokered-settlements-to-safeguard-its-sovereignty-and-unity/",
           "source": "Middle East Monitor",
@@ -881,24 +888,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Barghouti: Israeli pollution in Gaza threatens Palestinian lives for decades",
-          "url": "https://www.middleeastmonitor.com/20261125-barghouti-israeli-pollution-in-gaza-threatens-palestinian-lives-for-decades/",
-          "source": "Middle East Monitor",
-          "ts": "Wed, 25 Nov 2026 10:19:15 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Weekly Rally for Peace: Redondo Beach - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QU1BqQU85bXVVbDZ3NlpPelRUVUVFNE5BS1FRR2tPRGcxVVlNa2ttajF6RTFfNEtDV1gybndiRkN3SnFtUXc?oc=5",
           "source": "CODEPINK",
           "ts": "Tue, 24 Nov 2026 17:13:32 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "As World Powers Challenge International Justice, Tiny Gambia Makes History - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Nms3ajFZUW1ZWFpfTkh5TWllNFhqUGhJTzQ5WExXNEF4RGEycWxockEycmhtUC1HSjZ5bThXRFUyekd2TThpV2tQS0xmcnh0SHB5SXdHWXg?oc=5",
-          "source": "CODEPINK",
-          "ts": "Sun, 22 Nov 2026 18:04:44 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
