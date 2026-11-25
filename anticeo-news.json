@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:19:18.942789Z",
+  "generated_at": "2026-11-25T13:32:50.144235Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -16,6 +16,27 @@
           "section": ""
         },
         {
+          "title": "Defense Contractors Are Pouring Millions Into Donald Trump’s Vanity Projects",
+          "url": "https://www.motherjones.com/politics/2026/11/lockheed-palantir-rtx-northrop-grumman-amazon-trump-ballroom-america-250-vanity-projects/",
+          "source": "Mother Jones",
+          "ts": "Wed, 25 Nov 2026 13:28:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two men charged with trying to steal cufflinks and clock from Royal home",
+          "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "ts": "Wed, 25 Nov 2026 13:27:54 GMT",
+          "section": ""
+        },
+        {
+          "title": "America’s Free Spirit",
+          "url": "https://www.realclearpolitics.com/democratic-party/links/americas-free-spirit-2026-11-25",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Wed, 25 Nov 2026 07:18:08 -0600",
+          "section": ""
+        },
+        {
           "title": "Kilmar Garcia Ends Deportation Fight, Leaves for Spain",
           "url": "https://www.realclearpolitics.com/immigration/links/kilmar-garcia-ends-deportation-fight-leaves-for-spain-2026-11-25",
           "source": "RealClearPolitics - Homepage",
@@ -27,13 +48,6 @@
           "url": "https://www.realclearpolitics.com/presidential/links/antagonist-in-chief-newsoms-selling-point-for-dems-2026-11-25",
           "source": "RealClearPolitics - Homepage",
           "ts": "Wed, 25 Nov 2026 06:59:08 -0600",
-          "section": ""
-        },
-        {
-          "title": "China Is Preparing for the End of Detente",
-          "url": "https://www.realclearpolitics.com/foreign-policy-national-security/links/china-is-preparing-for-the-end-of-detente-2026-11-25",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Wed, 25 Nov 2026 06:57:08 -0600",
           "section": ""
         },
         {
@@ -86,15 +100,15 @@
           "section": ""
         },
         {
-          "title": "Trump's DOJ touted his election fraud arrest as 'first of many.' Then the case fizzled",
-          "url": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
+          "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
+          "url": "https://www.latimes.com/california/story/2026-11-25/lapd-police-shootings-report",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
         },
         {
-          "title": "'The miracle' in 3-D: Tour brings statue of the Virgin of Guadalupe to L.A. faithful",
-          "url": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
+          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
+          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -104,13 +118,6 @@
           "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
           "source": "NPR Topics: News",
           "ts": "Wed, 25 Nov 2026 06:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
-          "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "ts": "Wed, 25 Nov 2026 10:12:50 GMT",
           "section": ""
         },
         {
@@ -350,13 +357,6 @@
           "section": ""
         },
         {
-          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort? - NPR",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2x4VzZ6alBHb2l1allhZEpfZnlzTmVmYi1FcmZJaVB1em1nb2ppa3p1ajVQWFZzbXBtU3k2YVBwdWxKXzFFSUVmS2tPLWwxaS16ZEthSGVWdkRXTFN4b1JPTk9Ld3FfbU4yenl0MGk5ejNvNTdSamFtLTQ0bDBNWm9jS2wxYnpOdUFn?oc=5",
-          "source": "\"\"Jared Kushner\" investigation\" - Google News",
-          "ts": "Tue, 24 Nov 2026 14:24:04 GMT",
-          "section": ""
-        },
-        {
           "title": "Justice Department suit to stop Alaska certifying its Senate result: 24 Nov 2026",
           "url": "https://publictrusttracker.org/case/elx-013-justice-department-suit-to-stop-alaska-certifying-its-senate/",
           "source": "Public Trust Tracker",
@@ -376,17 +376,24 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "BBC lodges urgent appeal against Trump’s $10bn defamation lawsuit",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/bbc-trump-defamation-case-10bn-urgent-appeal",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 13:24:55 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 13:16:56 GMT",
+          "section": ""
+        },
+        {
           "title": "Plane crash off coast of Mississippi kills six, including two children",
           "url": "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
           "source": "US news | The Guardian",
           "ts": "Wed, 25 Nov 2026 13:02:24 GMT",
-          "section": ""
-        },
-        {
-          "title": "‘This is political oppression’: Native Americans accuse Massachusetts town in Thanksgiving dispute",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/native-americans-national-day-of-mourning-thanksgiving",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 13:00:26 GMT",
           "section": ""
         },
         {
@@ -422,13 +429,6 @@
           "url": "https://www.vox.com/life/469760/klarna-affirm-afterpay-black-friday",
           "source": "Vox",
           "ts": "2026-11-25T07:45:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 12:42:45 GMT",
           "section": ""
         },
         {
@@ -521,6 +521,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Ice hockey prospect Max Calce follows Leon Draisaitl's path, leaving Mannheim for Canada",
+          "url": "https://www.dw.com/en/ice-hockey-prospect-max-calce-follows-leon-draisaitl-s-path-leaving-mannheim-for-canada/a-80049458?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T13:28:00Z",
+          "section": ""
+        },
+        {
+          "title": "Neoliberal Development and Human Development in Jamaica",
+          "url": "https://www.globalresearch.ca/neoliberal-development-human-development-jamaica/5946620",
+          "source": "Global Research",
+          "ts": "Wed, 25 Nov 2026 13:17:39 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
+          "title": "Why Indians are still ending up in Russia's war",
+          "url": "https://www.dw.com/en/why-indians-are-still-ending-up-in-russia-s-war/a-80048537?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T13:17:00Z",
+          "section": ""
+        },
+        {
           "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
           "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -546,20 +567,6 @@
           "url": "https://www.dw.com/en/ukraine-industrial-attacks-and-anger-at-russia-as-ukraine-s-allies-justify-defense-aid-argue-over-military-action-in-libya/live-80047122?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T12:39:00Z",
-          "section": ""
-        },
-        {
-          "title": "In Afghanistan, no female doctor often means no treatment for women",
-          "url": "https://www.dw.com/en/in-afghanistan-no-female-doctor-often-means-no-treatment-for-women/a-80047053?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T12:31:00Z",
-          "section": ""
-        },
-        {
-          "title": "Spain: Catalan separatist Puigdemont sets date for return",
-          "url": "https://www.dw.com/en/spain-catalan-separatist-puigdemont-sets-date-for-return/a-80045846?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T11:57:00Z",
           "section": ""
         },
         {
@@ -609,13 +616,6 @@
           "url": "https://www.globalresearch.ca/global-researchs-year-end-fundraiser/5945271",
           "source": "Global Research",
           "ts": "Wed, 25 Nov 2026 05:25:22 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "‘Rising Authoritarianism and Militarism’ in Indonesia Under Prabowo",
-          "url": "https://www.asia-pacificresearch.com/rising-authoritarianism-militarism-indonesia-prabowo/5633768",
-          "source": "Global Research",
-          "ts": "Wed, 25 Nov 2026 03:02:33 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
@@ -743,6 +743,13 @@
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
         {
+          "title": "Trump FCC (AT&T) Says California Can’t Enforce Its Broadband Protection And 911 Reliability Laws",
+          "url": "https://www.techdirt.com/2026/11/25/trump-fcc-att-says-california-cant-enforce-its-broadband-protection-and-911-reliability-laws/",
+          "source": "Techdirt",
+          "ts": "Wed, 25 Nov 2026 13:29:40 +0000",
+          "section": ""
+        },
+        {
           "title": "Early Edition: November 25, 2026",
           "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/?utm_source=rss&utm_medium=rss&utm_campaign=early-edition-november-25-2026",
           "source": "Just Security",
@@ -789,13 +796,6 @@
           "url": "https://theintercept.com/2026/11/24/trump-truth-social-api-lawsuit-discovery/",
           "source": "The Intercept",
           "ts": "Tue, 24 Nov 2026 22:26:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Global War On VPNs Draws Closer",
-          "url": "https://www.techdirt.com/2026/11/24/the-global-war-on-vpns-draws-closer/",
-          "source": "Techdirt",
-          "ts": "Tue, 24 Nov 2026 21:19:44 +0000",
           "section": ""
         },
         {
@@ -920,13 +920,6 @@
     {
       "title": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION",
       "items": [
-        {
-          "title": "The Man Who Can Fit ICE Detention, Hurricanes, and Wall Street Into a Single Stanza",
-          "url": "https://www.motherjones.com/politics/2026/11/the-man-who-can-fit-ice-detention-hurricanes-and-wall-street-into-a-single-stanza/",
-          "source": "Mother Jones",
-          "ts": "Wed, 25 Nov 2026 12:30:00 +0000",
-          "section": ""
-        },
         {
           "title": "孩子遭遇霸凌，家长该怎么办？",
           "url": "https://documentedny.com/2026/11/25/child-bullied-nyc-chinese-language/",
