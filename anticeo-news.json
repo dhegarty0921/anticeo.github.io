@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:33:03.763070Z",
+  "generated_at": "2026-11-25T14:47:50.488859Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -13,6 +13,13 @@
           "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
           "source": "Human Rights Watch News",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Something scary, hairy and safe to argue about this Thanksgiving",
+          "url": "https://www.latimes.com/california/newsletter/2026-11-25/something-scary-hairy-safe-to-argue-about-this-thanksgiving",
+          "source": "California",
+          "ts": "Wed, 25 Nov 2026 14:30:10 GMT",
           "section": ""
         },
         {
@@ -114,15 +121,8 @@
           "section": ""
         },
         {
-          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
-          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
-          "source": "California",
-          "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump's DOJ touted his election fraud arrest as 'first of many.' Then the case fizzled",
-          "url": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
+          "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
+          "url": "https://www.latimes.com/california/story/2026-11-25/lapd-police-shootings-report",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -184,10 +184,10 @@
           "section": ""
         },
         {
-          "title": "Trump's rescue of Nvidia's Huang brings political risks",
-          "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+          "title": "Thomas Markle charged in US for possessing child sex abuse images",
+          "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 25 Nov 2026 01:03:05 GMT",
+          "ts": "Wed, 25 Nov 2026 01:40:42 GMT",
           "section": ""
         },
         {
@@ -223,6 +223,13 @@
           "url": "https://truthout.org/video/huangs-return-to-nvidia-shows-the-unsustainable-power-of-ai-over-the-economy/",
           "source": "Truthout",
           "ts": "Tue, 24 Nov 2026 22:20:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Philippines: As ICC Tries Duterte, Stalled Justice at Home",
+          "url": "https://www.hrw.org/news/2026/11/24/philippines-as-icc-tries-duterte-stalled-justice-at-home",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 24 Nov 2026 17:00:00 -0500",
           "section": ""
         },
         {
@@ -386,14 +393,14 @@
           "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 14:24:33 GMT",
+          "ts": "Wed, 25 Nov 2026 14:39:16 GMT",
           "section": ""
         },
         {
           "title": "Iowa lead detonation: US army to blow up bomb-making chemicals despite concerns - live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 14:24:10 GMT",
+          "ts": "Wed, 25 Nov 2026 14:36:56 GMT",
           "section": ""
         },
         {
@@ -404,7 +411,7 @@
           "section": ""
         },
         {
-          "title": "The Friendship Model of Politics",
+          "title": "‘A Human Being Is Far More Valuable Than His Opinions’",
           "url": "https://www.theatlantic.com/books/2026/11/hanna-arendt-friendship-model-politics/689579/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-25T08:30:00-05:00",
@@ -528,6 +535,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "German firms eye Africa as global trade shocks hit traditional markets",
+          "url": "https://www.dw.com/en/german-firms-eye-africa-as-global-trade-shocks-hit-traditional-markets/a-80047671?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T14:38:00Z",
+          "section": ""
+        },
+        {
           "title": "US plans new tariffs on EU, China and 12 others",
           "url": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -581,13 +595,6 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/25/nidal-hasan-asks-us-judge-for-stay-of-execution-for-fort-hood-murders/",
           "source": "News - Army Times",
           "ts": "Wed, 25 Nov 2026 13:33:06 +0000",
-          "section": ""
-        },
-        {
-          "title": "Ice hockey prospect Max Calce follows Leon Draisaitl's path, leaving Mannheim for Canada",
-          "url": "https://www.dw.com/en/ice-hockey-prospect-max-calce-follows-leon-draisaitl-s-path-leaving-mannheim-for-canada/a-80049458?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T13:28:00Z",
           "section": ""
         },
         {
@@ -729,19 +736,19 @@
           "source": "Moon of Alabama",
           "ts": "Sun, 22 Nov 2026 13:20:15 +0000",
           "section": ""
-        },
-        {
-          "title": "Israel Bombs Food Delivery Vehicle in Gaza, Kills Three Palestinians - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFBPd3JwVkFObkYtVGF2Y1FfbnRVUmh0VEdZVkU2MGJWTUpDWWVPY3VwcHFGN3JMdVlCNUVoMTdpaWo2UGMxOVdVSHBWRm1FRjYyUXFwVFgzRXZHRWhKMGs4YWJPTHZjWHAzVDZiUEJ3d04yaUN4ZVo0aFhNck9WNTNtUkRnQlp3U0RJeDI3ZEU1M2VfMVhvSWVOQy1kdm1rWWpodVZ3?oc=5",
-          "source": "via Google News",
-          "ts": "Sat, 21 Nov 2026 14:40:41 GMT",
-          "section": ""
         }
       ]
     },
     {
       "title": "PARA POLITICAL INTRIGUE",
       "items": [
+        {
+          "title": "The World Must Act to Deliver on the “World Court’s” Rohingya Ruling",
+          "url": "https://www.justsecurity.org/165872/icj-rohingya-ruling-world-must-act/?utm_source=rss&utm_medium=rss&utm_campaign=icj-rohingya-ruling-world-must-act",
+          "source": "Just Security",
+          "ts": "Wed, 25 Nov 2026 14:45:32 +0000",
+          "section": ""
+        },
         {
           "title": "Puppet Sovereigns and Occupation by Proxy",
           "url": "https://www.justsecurity.org/162181/puppet-sovereigns-and-occupation-by-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=puppet-sovereigns-and-occupation-by-proxy",
@@ -754,13 +761,6 @@
           "url": "https://www.justsecurity.org/165883/gambia-v-myanmar-statelessness-genocide-citizenship/?utm_source=rss&utm_medium=rss&utm_campaign=gambia-v-myanmar-statelessness-genocide-citizenship",
           "source": "Just Security",
           "ts": "Wed, 25 Nov 2026 14:14:25 +0000",
-          "section": ""
-        },
-        {
-          "title": "Six Questions to Ask about COP 31",
-          "url": "https://www.justsecurity.org/165836/six-questions-cop-31/?utm_source=rss&utm_medium=rss&utm_campaign=six-questions-cop-31",
-          "source": "Just Security",
-          "ts": "Wed, 25 Nov 2026 14:04:49 +0000",
           "section": ""
         },
         {
@@ -874,13 +874,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "In Gaza’s displacement camps, having access to a toilet is a rare luxury",
-          "url": "https://mondoweiss.net/2026/11/in-gazas-displacement-camps-having-access-to-a-toilet-is-a-rare-luxury/",
-          "source": "Mondoweiss",
-          "ts": "Tue, 24 Nov 2026 19:17:04 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Weekly Rally for Peace: Redondo Beach - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QU1BqQU85bXVVbDZ3NlpPelRUVUVFNE5BS1FRR2tPRGcxVVlNa2ttajF6RTFfNEtDV1gybndiRkN3SnFtUXc?oc=5",
           "source": "CODEPINK",
@@ -892,20 +885,6 @@
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVHFlVWtjcGxPVFBmNEQwcVBnc1RnTWVaTWlmNGY2eHp3ZUJ4Z3hrUWN2ejBOTmdrd2FRclhPZEl1R3BnMjcyeVBmMEQ2QXM0MTFoZGNiZ1NXVHhVYXNtc3dlRjk5TElITW1IWHhsa3lKRk84ZGE5SzhmVmZOVjZFbEpxaF9nay0zc3ptaHNybjdaNjlJQ1VHOWZxLWt5VXUwS21sNEJDVldkOWVPMFFvNTdCSHowV3lYd2pNaFFMRW9pUkE3djZMVnpSMkJPTXRKVVIzTW45VG5xaE50TnNEVDM3c2tlX2J0c2NidE12aEJ1OUxNOG9tTERtbmh2MFNkLVE?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Mon, 23 Nov 2026 22:44:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "After the midterms, the U.S.-Israel military relationship is changing — but it’s not all good news for the Palestine movement",
-          "url": "https://mondoweiss.net/2026/11/after-the-midterms-the-u-s-israel-military-relationship-is-changing-but-its-not-all-good-news-for-the-palestine-movement/",
-          "source": "Mondoweiss",
-          "ts": "Mon, 23 Nov 2026 16:02:55 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israel is still displacing Palestinians in Gaza, expanding its ‘yellow line’ deeper into the strip every day",
-          "url": "https://mondoweiss.net/2026/11/israel-is-still-displacing-palestinians-in-gaza-expanding-its-yellow-line-deeper-into-the-strip-every-day/",
-          "source": "Mondoweiss",
-          "ts": "Mon, 23 Nov 2026 14:10:58 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
