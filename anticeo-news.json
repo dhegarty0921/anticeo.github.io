@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T02:23:44.365749Z",
+  "generated_at": "2026-11-25T02:34:40.204543Z",
   "headline": {
-    "title": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
-    "url": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html"
+    "title": "WHO chief urges end to US fuel blockade on Cuba",
+    "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss"
   },
   "sections": [
     {
@@ -55,13 +55,6 @@
           "url": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 24 Nov 2026 23:58:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "Kilmar Abrego Garcia voluntarily leaves U.S., ending year-long battle with Trump administration",
-          "url": "https://www.washingtontimes.com/news/2026/nov/24/kilmar-abrego-garcia-accept-deportation-ending-year-long-battle-trump/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 24 Nov 2026 18:52:10 -0500",
           "section": ""
         },
         {
@@ -128,13 +121,6 @@
           "section": ""
         },
         {
-          "title": "Chinese researcher is in 'remarkable spirits' after ICE detention, professor says",
-          "url": "https://www.washingtontimes.com/news/2026/nov/24/chinese-researcher-remarkable-spirits-ice-detention-professor-says/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 24 Nov 2026 16:24:55 -0500",
-          "section": ""
-        },
-        {
           "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
           "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
           "source": "NPR Topics: News",
@@ -153,13 +139,6 @@
           "url": "https://news.antiwar.com/2026/11/24/zelensky-says-he-will-seek-more-military-aid-from-new-us-congress-if-peace-talks-fail/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-says-he-will-seek-more-military-aid-from-new-us-congress-if-peace-talks-fail",
           "source": "News From Antiwar.com",
           "ts": "Tue, 24 Nov 2026 21:04:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "Alaska ends voter data agreement with Justice Department, which had been searching for noncitizens",
-          "url": "https://www.washingtontimes.com/news/2026/nov/24/voter-data-agreement-justice-department-ended-alaska-search/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Tue, 24 Nov 2026 15:43:44 -0500",
           "section": ""
         },
         {
@@ -265,6 +244,27 @@
           "url": "https://www.hrw.org/news/2026/11/24/eu-forced-labor-remedies-should-center-on-workers",
           "source": "Human Rights Watch News",
           "ts": "Tue, 24 Nov 2026 04:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Labour’s Brexit Betrayal May Be a Godsend, by Mark Collett",
+          "url": "https://www.unz.com/article/labours-brexit-betrayal-may-be-a-godsend/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 24 Nov 2026 05:15:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Defending Every Inch of Poland with a Press Release, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/defending-every-inch-of-poland-with-a-press-release/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 24 Nov 2026 05:00:30 +0000",
+          "section": ""
+        },
+        {
+          "title": "Political Science, by Hans Vogel",
+          "url": "https://www.unz.com/article/political-science/",
+          "source": "The Unz Review:",
+          "ts": "Tue, 24 Nov 2026 05:00:29 +0000",
           "section": ""
         },
         {
@@ -376,6 +376,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Rescue crews search for six people after plane crash off Mississippi coast",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 02:17:25 GMT",
+          "section": ""
+        },
+        {
           "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
           "source": "US news | The Guardian",
@@ -387,13 +394,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
           "source": "US news | The Guardian",
           "ts": "Wed, 25 Nov 2026 00:56:48 GMT",
-          "section": ""
-        },
-        {
-          "title": "US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving",
-          "url": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 00:33:16 GMT",
           "section": ""
         },
         {
@@ -514,6 +514,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "WHO chief urges end to US fuel blockade on Cuba",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 02:23:19 +0000",
+          "section": ""
+        },
+        {
           "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
           "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -539,13 +546,6 @@
           "url": "https://news.antiwar.com/2026/11/24/iran-continues-targeting-ships-in-strait-of-hormuz-as-us-ramps-up-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=iran-continues-targeting-ships-in-strait-of-hormuz-as-us-ramps-up-sanctions",
           "source": "News From Antiwar.com",
           "ts": "Wed, 25 Nov 2026 01:27:39 +0000",
-          "section": ""
-        },
-        {
-          "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 01:21:02 +0000",
           "section": ""
         },
         {
@@ -881,13 +881,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "What is grief, if not a tenacious love?",
-          "url": "https://electronicintifada.net/content/what-grief-if-not-tenacious-love/51775",
-          "source": "The Electronic Intifada",
-          "ts": "Tue, 24 Nov 2026 00:02:03 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "No War, No Empire Weekly Rally: San Pedro - CODEPINK - Women for Peace",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5TUjl5Q3J6a1M4cGd3ZURObDQ4MWROMDVYbldnaFY5aWZhZnR5ZjhrMjhoTmFtMmNjQldYbTdId1c1VXNfVmc?oc=5",
           "source": "CODEPINK",
@@ -995,6 +988,20 @@
           "url": "https://documentedny.com/2026/11/23/nyc-construction-labor-brokers-body-shops/",
           "source": "Documented",
           "ts": "Mon, 23 Nov 2026 21:15:21 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
