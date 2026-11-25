@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T03:04:42.422648Z",
+  "generated_at": "2026-11-25T03:21:16.346535Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -13,6 +13,27 @@
           "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
           "source": "Human Rights Watch News",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "William Bradford: The Father of Thanksgiving",
+          "url": "https://www.realclearpolitics.com/history/links/william-bradford-the-father-of-thanksgiving-2026-11-24",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 24 Nov 2026 21:04:09 -0600",
+          "section": ""
+        },
+        {
+          "title": "China Wants Nvidia Out, Just Not Yet",
+          "url": "https://www.realclearpolitics.com/foreign-policy-national-security/links/china-wants-nvidia-out-just-not-yet-2026-11-24",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 24 Nov 2026 21:04:09 -0600",
+          "section": ""
+        },
+        {
+          "title": "NVIDIA is Taking a Huge Risk With Huang",
+          "url": "https://www.realclearpolitics.com/technology/links/nvidia-is-taking-a-huge-risk-with-huang-2026-11-24",
+          "source": "RealClearPolitics - Homepage",
+          "ts": "Tue, 24 Nov 2026 21:04:09 -0600",
           "section": ""
         },
         {
@@ -146,27 +167,6 @@
           "url": "https://news.antiwar.com/2026/11/24/zelensky-says-he-will-seek-more-military-aid-from-new-us-congress-if-peace-talks-fail/?utm_source=rss&utm_medium=rss&utm_campaign=zelensky-says-he-will-seek-more-military-aid-from-new-us-congress-if-peace-talks-fail",
           "source": "News From Antiwar.com",
           "ts": "Tue, 24 Nov 2026 21:04:28 +0000",
-          "section": ""
-        },
-        {
-          "title": "The Pope's Diary Should Have Stayed Private",
-          "url": "https://www.realclearpolitics.com/faith/links/the-popes-diary-should-have-stayed-private-2026-11-24",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 24 Nov 2026 13:57:08 -0600",
-          "section": ""
-        },
-        {
-          "title": "How Secret Prison Romance Saved Lost Solzhenitsyn Novel",
-          "url": "https://www.realclearpolitics.com/the-media-free-press/links/how-secret-prison-romance-saved-lost-solzhenitsyn-novel-2026-11-24",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 24 Nov 2026 13:57:08 -0600",
-          "section": ""
-        },
-        {
-          "title": "Amazon Warehouses Are Mathematical Marvels",
-          "url": "https://www.realclearpolitics.com/technology/links/amazon-warehouses-are-mathematical-marvels-2026-11-24",
-          "source": "RealClearPolitics - Homepage",
-          "ts": "Tue, 24 Nov 2026 13:44:09 -0600",
           "section": ""
         },
         {
@@ -383,7 +383,7 @@
       "title": "CULTURE WAR",
       "items": [
         {
-          "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+          "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
           "source": "US news | The Guardian",
           "ts": "Wed, 25 Nov 2026 02:58:18 GMT",
@@ -995,6 +995,20 @@
           "url": "https://documentedny.com/2026/11/23/nyc-construction-labor-brokers-body-shops/",
           "source": "Documented",
           "ts": "Mon, 23 Nov 2026 21:15:21 +0000",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
