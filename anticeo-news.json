@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T15:33:17.474123Z",
+  "generated_at": "2026-11-25T15:47:43.809976Z",
   "headline": {
-    "title": "Nigeria's upcoming election marred by rising AI disinformation",
-    "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf"
+    "title": "Muslim politicians, sleeper cell myths and the ‘shadow self’ of Christian politics",
+    "url": "https://religionnews.com/2026/11/25/muslim-politicians-sleeper-cell-myths-and-the-shadow-self-of-christian-politics/"
   },
   "sections": [
     {
@@ -135,8 +135,8 @@
           "section": ""
         },
         {
-          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
-          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
+          "title": "Trump's DOJ touted his election fraud arrest as 'first of many.' Then the case fizzled",
+          "url": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -230,6 +230,13 @@
           "url": "https://truthout.org/video/huangs-return-to-nvidia-shows-the-unsustainable-power-of-ai-over-the-economy/",
           "source": "Truthout",
           "ts": "Tue, 24 Nov 2026 22:20:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Philippines: As ICC Tries Duterte, Stalled Justice at Home",
+          "url": "https://www.hrw.org/news/2026/11/24/philippines-as-icc-tries-duterte-stalled-justice-at-home",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 24 Nov 2026 17:00:00 -0500",
           "section": ""
         },
         {
@@ -390,10 +397,31 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Muslim politicians, sleeper cell myths and the ‘shadow self’ of Christian politics",
+          "url": "https://religionnews.com/2026/11/25/muslim-politicians-sleeper-cell-myths-and-the-shadow-self-of-christian-politics/",
+          "source": "RNS",
+          "ts": "Wed, 25 Nov 2026 15:39:56 +0000",
+          "section": ""
+        },
+        {
           "title": "Iowa lead detonation: US army blows up bomb-making chemicals despite concerns - live updates",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 15:24:30 GMT",
+          "ts": "Wed, 25 Nov 2026 15:38:25 GMT",
+          "section": ""
+        },
+        {
+          "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 15:36:28 GMT",
+          "section": ""
+        },
+        {
+          "title": "New York bans AI toys, including those using internet to talk to children",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 15:29:21 GMT",
           "section": ""
         },
         {
@@ -401,20 +429,6 @@
           "url": "https://www.vox.com/advice/511289/gift-giving-budget-planning-buy-less",
           "source": "Vox",
           "ts": "2026-11-25T10:15:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 15:09:28 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump proposing new tariffs on 14 partners including China and European Union",
-          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 14:59:44 GMT",
           "section": ""
         },
         {
@@ -521,19 +535,40 @@
           "source": "RNS",
           "ts": "Tue, 24 Nov 2026 18:06:21 +0000",
           "section": ""
-        },
-        {
-          "title": "‘The Private Diary of Pope Francis’ reveals the late pope’s spiritual struggles",
-          "url": "https://religionnews.com/2026/11/24/the-diary-of-pope-francis-reveals-the-late-popes-spiritual-struggles/",
-          "source": "RNS",
-          "ts": "Tue, 24 Nov 2026 18:02:01 +0000",
-          "section": ""
         }
       ]
     },
     {
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
+        {
+          "title": "US Army detonates unstable lead-based explosives in Iowa",
+          "url": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T15:38:00Z",
+          "section": ""
+        },
+        {
+          "title": "EU must set out a new timeline for cage-free farming, court rules",
+          "url": "https://www.dw.com/en/eu-must-set-out-a-new-timeline-for-cage-free-farming-court-rules/a-80051729?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T15:36:00Z",
+          "section": ""
+        },
+        {
+          "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
+          "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 15:35:33 +0000",
+          "section": ""
+        },
+        {
+          "title": "Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain",
+          "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 15:34:59 +0000",
+          "section": ""
+        },
         {
           "title": "Nigeria's upcoming election marred by rising AI disinformation",
           "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
@@ -556,20 +591,6 @@
           "section": ""
         },
         {
-          "title": "US Army detonates toxic lead stockpile in Iowa amid backlash",
-          "url": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 15:14:08 +0000",
-          "section": ""
-        },
-        {
-          "title": "US Army detonates unstable lead-based explosives in Iowa",
-          "url": "https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T15:09:00Z",
-          "section": ""
-        },
-        {
           "title": "Selected Articles: The Iowa Detonation: Follow the Money, Follow the Connections",
           "url": "https://www.globalresearch.ca/selected-articles-iowa-detonation-follow-money-follow-connections/5946659",
           "source": "Global Research",
@@ -581,20 +602,6 @@
           "url": "https://www.defenseone.com/business/2026/11/defense-business-brief-building-warships-drones-neighborhood-watch-and-more/417441/",
           "source": "Defense One - All Content",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Ukraine: Poland to set up no-fly zone near Ukraine border, urges others to follow after Russian airspace incursions",
-          "url": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border-urges-others-to-follow-after-russian-airspace-incursions/live-80047122?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T14:59:00Z",
-          "section": ""
-        },
-        {
-          "title": "Trump announces new trade tariffs: Which countries will they target?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 14:54:44 +0000",
           "section": ""
         },
         {
@@ -895,13 +902,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Editorial | Israel has no justification for another war with Iran - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVHFlVWtjcGxPVFBmNEQwcVBnc1RnTWVaTWlmNGY2eHp3ZUJ4Z3hrUWN2ejBOTmdrd2FRclhPZEl1R3BnMjcyeVBmMEQ2QXM0MTFoZGNiZ1NXVHhVYXNtc3dlRjk5TElITW1IWHhsa3lKRk84ZGE5SzhmVmZOVjZFbEpxaF9nay0zc3ptaHNybjdaNjlJQ1VHOWZxLWt5VXUwS21sNEJDVldkOWVPMFFvNTdCSHowV3lYd2pNaFFMRW9pUkE3djZMVnpSMkJPTXRKVVIzTW45VG5xaE50TnNEVDM3c2tlX2J0c2NidE12aEJ1OUxNOG9tTERtbmh2MFNkLVE?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Mon, 23 Nov 2026 22:44:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "After the midterms, the U.S.-Israel military relationship is changing — but it’s not all good news for the Palestine movement",
           "url": "https://mondoweiss.net/2026/11/after-the-midterms-the-u-s-israel-military-relationship-is-changing-but-its-not-all-good-news-for-the-palestine-movement/",
           "source": "Mondoweiss",
@@ -916,10 +916,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Opinion | Another pointless war? Israelis are happy to oblige - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc2hXZURoMDRQdmVBNGJtQi1XZ3QzelBZXzRvcUFMMzlHUUlmaHRXdFhqNm1wMkVZYU1Kd1JzRVhFX1dQRjJyX0lRS3BNLXVVRmNaWk1xTXZHWmp0Qnh6eEljOVZrQVM1d19ZczVybWZQM3J2c1hFb1JfaGF2eURwRGliWW9lb242em9Semc4M1VKTi1zUGVrLXpSRnJKamR2NmtwdzMyWUlVd0drcVM5eG0yUmt4TzhfWFo5N3FQaDFkcXZyQW5TVllzZDBvN3lyN1c0bklfTGdSY0ZHZ1ZRdjhpTW5LYW9GSUtSSjJoMA?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Sat, 21 Nov 2026 21:50:00 GMT",
+          "title": "As World Powers Challenge International Justice, Tiny Gambia Makes History - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Nms3ajFZUW1ZWFpfTkh5TWllNFhqUGhJTzQ5WExXNEF4RGEycWxockEycmhtUC1HSjZ5bThXRFUyekd2TThpV2tQS0xmcnh0SHB5SXdHWXg?oc=5",
+          "source": "CODEPINK",
+          "ts": "Sun, 22 Nov 2026 18:04:44 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
