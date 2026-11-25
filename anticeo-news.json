@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-25T16:33:02.505358Z",
+  "generated_at": "2026-11-25T16:47:34.449568Z",
   "headline": {
-    "title": "Trump Administration Is Hiking Immigration Bond Costs to Keep Migrants Locked Up",
-    "url": "https://theappeal.org/trump-administration-is-hiking-immigration-bond-costs-to-keep-migrants-locked-up/"
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
   },
   "sections": [
     {
@@ -12,14 +12,28 @@
           "title": "Poundland collapses putting 11,000 jobs at risk",
           "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
-          "ts": "Wed, 25 Nov 2026 16:24:30 GMT",
+          "ts": "Wed, 25 Nov 2026 16:45:09 GMT",
           "section": ""
         },
         {
-          "title": "AI Data Centers Linked to Hundreds of Premature Deaths Across US, Study Finds",
-          "url": "https://truthout.org/articles/ai-data-centers-linked-to-hundreds-of-premature-deaths-across-us-study-finds/",
+          "title": "Van Hollen’s Challenge to Schumer Highlights Democratic Rift on Israel",
+          "url": "https://www.nytimes.com/2026/11/25/us/politics/van-hollen-schumer-israel-senate.html",
+          "source": "NYT > U.S. > Politics",
+          "ts": "Wed, 25 Nov 2026 16:41:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Affordability Worries Go Beyond Prices. Addressing Them Demands Systemic Change.",
+          "url": "https://truthout.org/articles/affordability-worries-go-beyond-prices-addressing-them-demands-systemic-change/",
           "source": "Truthout",
-          "ts": "Wed, 25 Nov 2026 16:19:57 +0000",
+          "ts": "Wed, 25 Nov 2026 16:36:10 +0000",
+          "section": ""
+        },
+        {
+          "title": "The Dairy Industry Is Quietly Building a More Exploitable Workforce",
+          "url": "https://www.truthdig.com/articles/the-dairy-industry-is-quietly-building-a-more-exploitable-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=the-dairy-industry-is-quietly-building-a-more-exploitable-workforce",
+          "source": "Truthdig",
+          "ts": "Wed, 25 Nov 2026 16:27:16 +0000",
           "section": ""
         },
         {
@@ -149,8 +163,8 @@
           "section": ""
         },
         {
-          "title": "'The miracle' in 3-D: Tour brings statue of the Virgin of Guadalupe to L.A. faithful",
-          "url": "https://www.latimes.com/california/story/2026-11-25/tour-brings-3-d-statue-of-virgin-of-guadalupe-to-la-faithful",
+          "title": "Nithya Raman says L.A. child care is 'in crisis.' Here’s her plan to change it",
+          "url": "https://www.latimes.com/california/story/2026-11-25/nithya-raman-l-a-child-care-crisis",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -195,13 +209,6 @@
           "url": "https://www.hrw.org/news/2026/11/25/16-days-of-activism-against-gender-based-violence",
           "source": "Human Rights Watch News",
           "ts": "Wed, 25 Nov 2026 00:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
-          "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
-          "source": "NYT > U.S. > Politics",
-          "ts": "Wed, 25 Nov 2026 03:15:54 +0000",
           "section": ""
         },
         {
@@ -265,13 +272,6 @@
           "url": "https://www.moonofalabama.org/2026/11/how-long-will-trump-keep-bessent-around.html",
           "source": "Moon of Alabama",
           "ts": "Tue, 24 Nov 2026 17:47:45 +0000",
-          "section": ""
-        },
-        {
-          "title": "Global Lessons on Rebuilding American Democracy",
-          "url": "https://www.truthdig.com/articles/global-lessons-on-rebuilding-american-democracy/?utm_source=rss&utm_medium=rss&utm_campaign=global-lessons-on-rebuilding-american-democracy",
-          "source": "Truthdig",
-          "ts": "Tue, 24 Nov 2026 16:27:46 +0000",
           "section": ""
         },
         {
@@ -379,7 +379,14 @@
           "title": "US army calls Iowa lead detonation a ‘huge success’ and says threat of spontaneous explosions has been ‘eliminated’ – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 16:16:45 GMT",
+          "ts": "Wed, 25 Nov 2026 16:30:08 GMT",
+          "section": ""
+        },
+        {
+          "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 16:29:18 GMT",
           "section": ""
         },
         {
@@ -387,13 +394,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
           "source": "US news | The Guardian",
           "ts": "Wed, 25 Nov 2026 16:16:25 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 16:12:06 GMT",
           "section": ""
         },
         {
@@ -521,10 +521,38 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Why are school shootings continuing to shake the Balkans?",
+          "url": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 16:36:57 +0000",
+          "section": ""
+        },
+        {
+          "title": "New Pentagon Strategy Embraces Potential Use of “Tactical” Nuclear Weapons",
+          "url": "https://truthout.org/articles/new-pentagon-strategy-embraces-potential-use-of-tactical-nuclear-weapons/",
+          "source": "Truthout",
+          "ts": "Wed, 25 Nov 2026 16:36:40 +0000",
+          "section": ""
+        },
+        {
+          "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 16:34:42 +0000",
+          "section": ""
+        },
+        {
           "title": "Army conducts controlled detonation of lead-based explosives stockpile in Iowa",
           "url": "https://www.armytimes.com/news/2026/11/25/army-conducts-controlled-detonation-of-lead-based-explosives-stockpile-in-iowa/",
           "source": "News - Army Times",
           "ts": "Wed, 25 Nov 2026 16:24:46 +0000",
+          "section": ""
+        },
+        {
+          "title": "US Army detonates nearly five tonnes of toxic explosives in Iowa",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 16:22:04 +0000",
           "section": ""
         },
         {
@@ -535,31 +563,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Despite Environmental Worries, Army Blasts Off 68 Barrels of Lead Azide in Iowa",
-          "url": "https://truthout.org/articles/despite-environmental-worries-army-blasts-off-68-barrels-of-lead-azide-in-iowa/",
-          "source": "Truthout",
-          "ts": "Wed, 25 Nov 2026 16:06:46 +0000",
-          "section": ""
-        },
-        {
           "title": "€561 Billion and Still Not Enough: Germany's 2027 Budget Exposes a Coalition on the Brink",
           "url": "https://www.dw.com/en/€561-billion-and-still-not-enough-germany-s-2027-budget-exposes-a-coalition-on-the-brink/a-80052664?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T16:06:00Z",
-          "section": ""
-        },
-        {
-          "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 16:02:22 +0000",
-          "section": ""
-        },
-        {
-          "title": "Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row",
-          "url": "https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 15:51:58 +0000",
           "section": ""
         },
         {
@@ -581,13 +588,6 @@
           "url": "https://www.dw.com/en/eu-must-set-out-a-new-timeline-for-cage-free-farming-court-rules/a-80051729?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T15:36:00Z",
-          "section": ""
-        },
-        {
-          "title": "South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa",
-          "url": "https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 15:35:33 +0000",
           "section": ""
         },
         {
@@ -902,6 +902,13 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
+          "title": "As World Powers Challenge International Justice, Tiny Gambia Makes History - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11Nms3ajFZUW1ZWFpfTkh5TWllNFhqUGhJTzQ5WExXNEF4RGEycWxockEycmhtUC1HSjZ5bThXRFUyekd2TThpV2tQS0xmcnh0SHB5SXdHWXg?oc=5",
+          "source": "CODEPINK",
+          "ts": "Sun, 22 Nov 2026 18:04:44 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Opinion | Another pointless war? Israelis are happy to oblige - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQc2hXZURoMDRQdmVBNGJtQi1XZ3QzelBZXzRvcUFMMzlHUUlmaHRXdFhqNm1wMkVZYU1Kd1JzRVhFX1dQRjJyX0lRS3BNLXVVRmNaWk1xTXZHWmp0Qnh6eEljOVZrQVM1d19ZczVybWZQM3J2c1hFb1JfaGF2eURwRGliWW9lb242em9Semc4M1VKTi1zUGVrLXpSRnJKamR2NmtwdzMyWUlVd0drcVM5eG0yUmt4TzhfWFo5N3FQaDFkcXZyQW5TVllzZDBvN3lyN1c0bklfTGdSY0ZHZ1ZRdjhpTW5LYW9GSUtSSjJoMA?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -982,6 +989,20 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
+        },
+        {
+          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
