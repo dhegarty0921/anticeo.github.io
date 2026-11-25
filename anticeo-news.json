@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-25T02:47:31.158291Z",
+  "generated_at": "2026-11-25T03:04:42.422648Z",
   "headline": {
-    "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-    "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates"
+    "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
+    "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
+          "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
+          "source": "Human Rights Watch News",
+          "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
+          "section": ""
+        },
         {
           "title": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
           "url": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html",
@@ -55,13 +62,6 @@
           "url": "https://www.nytimes.com/2026/11/24/us/politics/dan-sullivan-concedes-alaska-senate-race-mary-peltola.html",
           "source": "NYT > U.S. > Politics",
           "ts": "Tue, 24 Nov 2026 23:58:18 +0000",
-          "section": ""
-        },
-        {
-          "title": "Westlake tenants push back against landlord’s plan to replace parking lot with ADUs",
-          "url": "https://thelalocal.org/neighborhoods/westlake/westlake-tenants-fight-against-adu-plans-parking-lot-november-2026/",
-          "source": "LA Local",
-          "ts": "Tue, 24 Nov 2026 23:43:33 +0000",
           "section": ""
         },
         {
@@ -114,10 +114,10 @@
           "section": ""
         },
         {
-          "title": "These U.S. data centers use four times the power used in LA",
-          "url": "https://newsroom.ucla.edu/stories/these-u-s-data-centers-use-four-times-the-power-used-in-la",
-          "source": "UCLA",
-          "ts": "Tue, 24 Nov 2026 21:57:00 GMT",
+          "title": "Philippines: As ICC Tries Duterte, Stalled Justice at Home",
+          "url": "https://www.hrw.org/news/2026/11/24/philippines-as-icc-tries-duterte-stalled-justice-at-home",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 24 Nov 2026 17:00:00 -0500",
           "section": ""
         },
         {
@@ -223,6 +223,13 @@
           "url": "https://www.thepinknews.com/2026/11/24/glee-jenna-ushkowitz-tina-blaine-storyline/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Tue, 24 Nov 2026 14:58:28 +0000",
+          "section": ""
+        },
+        {
+          "title": "Pakistani Prisoners Face Poor Access to Health Care",
+          "url": "https://www.hrw.org/news/2026/11/24/pakistani-prisoners-face-poor-access-to-health-care",
+          "source": "Human Rights Watch News",
+          "ts": "Tue, 24 Nov 2026 08:25:05 -0500",
           "section": ""
         },
         {
@@ -379,7 +386,7 @@
           "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
           "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
           "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 02:41:10 GMT",
+          "ts": "Wed, 25 Nov 2026 02:58:18 GMT",
           "section": ""
         },
         {
@@ -514,6 +521,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "China launches Shenzhou-24 to Tiangong station",
+          "url": "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T02:56:00Z",
+          "section": ""
+        },
+        {
+          "title": "Pakistani astronaut launches into space aboard Chinese rocket",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 02:44:45 +0000",
+          "section": ""
+        },
+        {
+          "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+          "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 02:40:59 +0000",
+          "section": ""
+        },
+        {
           "title": "WHO chief urges end to US fuel blockade on Cuba",
           "url": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -525,20 +553,6 @@
           "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T02:01:00Z",
-          "section": ""
-        },
-        {
-          "title": "Senegal fans celebrate AFCON legal victory over Morocco",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 01:39:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-          "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 01:30:44 +0000",
           "section": ""
         },
         {
@@ -630,13 +644,6 @@
           "url": "https://www.armytimes.com/news/your-army/2026/11/24/army-to-detonate-degraded-ammunition-despite-community-concern/",
           "source": "News - Army Times",
           "ts": "Tue, 24 Nov 2026 17:49:51 +0000",
-          "section": ""
-        },
-        {
-          "title": "European court finds states can turn back migrants in some cases",
-          "url": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-24T17:43:00Z",
           "section": ""
         },
         {
@@ -989,27 +996,6 @@
           "source": "Documented",
           "ts": "Mon, 23 Nov 2026 21:15:21 +0000",
           "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "From Courthouse Arrests to ‘Re-Detentions,’ ICE’s Tactics Test Legal Limits",
-          "url": "https://www.themarshallproject.org/2026/11/21/court-law-ice-colorado-arrest",
-          "source": "The Marshall Project",
-          "ts": "Sat, 21 Nov 2026 12:00:00 -0500",
-          "section": ""
         }
       ]
     }
