@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:04:19.393078Z",
+  "generated_at": "2026-11-25T11:18:03.296705Z",
   "headline": {
     "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
     "url": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression"
@@ -44,8 +44,8 @@
           "section": ""
         },
         {
-          "title": "LAPD shot at more people last year than any other major U.S. police agency, new reports say",
-          "url": "https://www.latimes.com/california/story/2026-11-25/lapd-police-shootings-report",
+          "title": "Trump's DOJ touted his election fraud arrest as 'first of many.' Then the case fizzled",
+          "url": "https://www.latimes.com/california/story/2026-11-25/la-election-fraud-case-darwin-rivera-flores",
           "source": "California",
           "ts": "Wed, 25 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -383,10 +383,38 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 11:00:47 GMT",
+          "section": ""
+        },
+        {
+          "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+          "source": "US news | The Guardian",
+          "ts": "Wed, 25 Nov 2026 11:00:46 GMT",
+          "section": ""
+        },
+        {
+          "title": "Autocracy Inc. Enters the Microchip Business",
+          "url": "https://www.theatlantic.com/ideas/2026/11/nvidia-china-dictators/689577/?utm_source=feed",
+          "source": "The Atlantic",
+          "ts": "2026-11-25T06:00:00-05:00",
+          "section": ""
+        },
+        {
           "title": "Even Putin Is a ’90s Nostalgist",
           "url": "https://www.nationalreview.com/article/even-putin-is-a-90s-nostalgist",
           "source": "National Review",
           "ts": "Wed, 25 Nov 2026 11:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "The college Republicans who voted blue in the midterms",
+          "url": "https://www.vox.com/podcasts/511690/college-republicans-clemson-blue-wave-maga",
+          "source": "Vox",
+          "ts": "2026-11-25T06:00:00-05:00",
           "section": ""
         },
         {
@@ -453,20 +481,6 @@
           "section": ""
         },
         {
-          "title": "Can Trump really claim the Nvidia CEO’s return? - Podcast",
-          "url": "https://www.theguardian.com/us-news/audio/2026/nov/25/can-trump-really-claim-the-nvidia-ceos-return-podcast",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 05:00:08 GMT",
-          "section": ""
-        },
-        {
-          "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
-          "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-          "source": "US news | The Guardian",
-          "ts": "Wed, 25 Nov 2026 02:58:18 GMT",
-          "section": ""
-        },
-        {
           "title": "Jensen Huang’s return takes founder worship to a dangerous level",
           "url": "https://www.vox.com/technology/512088/jensen-huang-nvidia-return-ceo-myth",
           "source": "Vox",
@@ -481,24 +495,10 @@
           "section": ""
         },
         {
-          "title": "A Good Gift Is More Ordinary Than You Think",
-          "url": "https://www.theatlantic.com/newsletters/2026/11/a-better-philosophy-of-gift-giving/689573/?utm_source=feed",
-          "source": "The Atlantic",
-          "ts": "2026-11-24T16:10:00-05:00",
-          "section": ""
-        },
-        {
           "title": "Why the Army wants to detonate toxic explosives in Iowa",
           "url": "https://www.vox.com/today-explained-newsletter/511830/iowa-lead-azide-explosives-detonation-plume",
           "source": "Vox",
           "ts": "2026-11-24T16:05:00-05:00",
-          "section": ""
-        },
-        {
-          "title": "How Donald Trump warped the most important law protecting assault victims on campus",
-          "url": "https://www.vox.com/life/511479/cornell-sex-assault-title-ix-donald-trump",
-          "source": "Vox",
-          "ts": "2026-11-24T14:30:00-05:00",
           "section": ""
         },
         {
@@ -521,6 +521,27 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "North Korea expels Swiss diplomat over sanctions",
+          "url": "https://www.dw.com/en/north-korea-expels-swiss-diplomat-over-sanctions/a-80043648?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-25T11:12:00Z",
+          "section": ""
+        },
+        {
+          "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
+          "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 11:02:03 +0000",
+          "section": ""
+        },
+        {
+          "title": "The cost of Nigeria’s power failures for one small business",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 11:01:54 +0000",
+          "section": ""
+        },
+        {
           "title": "Australia, Solomon Islands sign sweeping pact seen as countering China",
           "url": "https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -528,38 +549,17 @@
           "section": ""
         },
         {
+          "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+          "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Wed, 25 Nov 2026 10:50:26 +0000",
+          "section": ""
+        },
+        {
           "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
           "url": "https://www.dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-25T10:35:00Z",
-          "section": ""
-        },
-        {
-          "title": "Houthis claim attacks on Saudi refinery, financial district",
-          "url": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-25T10:35:00Z",
-          "section": ""
-        },
-        {
-          "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-          "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 10:27:53 +0000",
-          "section": ""
-        },
-        {
-          "title": "See motorcycle passenger’s viral cricket catch",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 10:10:47 +0000",
-          "section": ""
-        },
-        {
-          "title": "Dozens of ports close as powerful waves damage Peru’s coastline",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/dozens-of-ports-close-as-powerful-waves-damage-perus-coastline?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Wed, 25 Nov 2026 10:05:58 +0000",
           "section": ""
         },
         {
