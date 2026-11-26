@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T22:17:19.291340Z",
+  "generated_at": "2026-11-26T22:32:45.739879Z",
   "headline": {
     "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
     "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss"
@@ -72,20 +72,6 @@
           "section": ""
         },
         {
-          "title": "Trump uses Thanksgiving post to provoke critics, air grievances",
-          "url": "https://www.washingtontimes.com/news/2026/nov/26/trump-uses-thanksgiving-post-provoke-critics-air-grievances/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Thu, 26 Nov 2026 12:18:02 -0500",
-          "section": ""
-        },
-        {
-          "title": "Spain's far right hasn't governed since Franco. Immigration fears could change that",
-          "url": "https://www.washingtontimes.com/news/2026/nov/26/far-right-spain-hasnt-governed-since-franco-immigration-fears-could/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Thu, 26 Nov 2026 12:10:29 -0500",
-          "section": ""
-        },
-        {
           "title": "Donald Trump Rants About ‘Radical Far Left,’ Ballroom Critics in Thanksgiving Post",
           "url": "https://www.rollingstone.com/politics/politics-news/donald-trump-thanksgiving-post-rant-radical-far-left-1235664889/",
           "source": "Politics News",
@@ -111,13 +97,6 @@
           "url": "https://www.thepinknews.com/2026/11/26/khloe-kardashian-lavender-marriage/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
           "ts": "Thu, 26 Nov 2026 15:43:48 +0000",
-          "section": ""
-        },
-        {
-          "title": "Democrats face rocky path to repealing Trump tariffs, despite post-election appetite",
-          "url": "https://www.washingtontimes.com/news/2026/nov/26/democrats-face-rocky-path-repealing-trump-tariffs-despite-post/",
-          "source": "The Washington Times stories: Politics",
-          "ts": "Thu, 26 Nov 2026 10:37:05 -0500",
           "section": ""
         },
         {
@@ -188,6 +167,20 @@
           "url": "https://www.hrw.org/news/2026/11/26/icc-promote-protect-international-justice",
           "source": "Human Rights Watch News",
           "ts": "Thu, 26 Nov 2026 03:00:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Trump’s Iran Threats: \"Strategic Uncertainty\" or \"Unstrategic Idiocy\"?, by Kevin Barrett",
+          "url": "https://www.unz.com/kbarrett/trumps-iran-threats-strategic-uncertainty-or-unstrategic-idiocy/",
+          "source": "The Unz Review:",
+          "ts": "Thu, 26 Nov 2026 05:00:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Sorry, Your Power Plant Is Back-Ordered Until 2032, by Larry C. Johnson",
+          "url": "https://www.unz.com/article/sorry-your-power-plant-is-back-ordered-until-2032/",
+          "source": "The Unz Review:",
+          "ts": "Thu, 26 Nov 2026 05:00:21 +0000",
           "section": ""
         },
         {
@@ -357,6 +350,13 @@
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         },
         {
+          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort? - NPR",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2x4VzZ6alBHb2l1allhZEpfZnlzTmVmYi1FcmZJaVB1em1nb2ppa3p1ajVQWFZzbXBtU3k2YVBwdWxKXzFFSUVmS2tPLWwxaS16ZEthSGVWdkRXTFN4b1JPTk9Ld3FfbU4yenl0MGk5ejNvNTdSamFtLTQ0bDBNWm9jS2wxYnpOdUFn?oc=5",
+          "source": "\"\"Jared Kushner\" investigation\" - Google News",
+          "ts": "Tue, 24 Nov 2026 14:24:04 GMT",
+          "section": ""
+        },
+        {
           "title": "Justice Department suit to stop Alaska certifying its Senate result: 24 Nov 2026",
           "url": "https://publictrusttracker.org/case/elx-013-justice-department-suit-to-stop-alaska-certifying-its-senate/",
           "source": "Public Trust Tracker",
@@ -514,6 +514,13 @@
           "section": ""
         },
         {
+          "title": "Zelenski Regime Is Forcibly Conscripting Pregnant Women  to Fight on the Frontline against the Russians",
+          "url": "https://www.globalresearch.ca/zelenski-regime-is-forcibly-conscripting-pregnant-women-to-fight-on-the-frontline-against-the-russians/5946873",
+          "source": "Global Research",
+          "ts": "Thu, 26 Nov 2026 21:30:25 +0000",
+          "section": "MILITARY INDUSTRIAL COMPLEX"
+        },
+        {
           "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
           "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -575,13 +582,6 @@
           "source": "News From Antiwar.com",
           "ts": "Thu, 26 Nov 2026 17:13:05 +0000",
           "section": ""
-        },
-        {
-          "title": "EU Wants Syria to Reverse Recognition of Territories Claimed by Ukraine and Georgia",
-          "url": "https://www.globalresearch.ca/eu-wants-syria-reverse-recognition-territories-claimed-ukraine-georgia/5946769",
-          "source": "Global Research",
-          "ts": "Thu, 26 Nov 2026 16:37:39 +0000",
-          "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
           "title": "Israeli Attacks Kill 10 Palestinians Across Gaza, Including Education Ministry Official and His Wife",
@@ -651,6 +651,13 @@
           "url": "https://warontherocks.com/george-washingtons-thanksgiving-proclamation-5/",
           "source": "War on the Rocks",
           "ts": "Thu, 26 Nov 2026 08:15:50 +0000",
+          "section": ""
+        },
+        {
+          "title": "From Israel to Iran, Schumer’s Positions Contradict Those of Many Democratic Voters, by Stephen Zunes",
+          "url": "https://www.unz.com/article/from-israel-to-iran-schumers-positions-contradict-those-of-many-democratic-voters/",
+          "source": "The Unz Review:",
+          "ts": "Thu, 26 Nov 2026 01:04:30 +0000",
           "section": ""
         },
         {
@@ -902,27 +909,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Black Friday: Boycott Home Depot Los Angeles - CODEPINK - Women for Peace",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oZlVRRHM5eFh4aW5ET003aF9PaGtlUzlidjZmWDZzZ205TG5xYjZqSFhoeGhSV0dHWUdCLTE1QXBQWUlHTFE?oc=5",
-          "source": "CODEPINK",
-          "ts": "Thu, 26 Nov 2026 13:28:56 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Geert Wilders takes gifts from war criminals",
-          "url": "https://electronicintifada.net/blogs/david-cronin/geert-wilders-takes-gifts-war-criminals",
-          "source": "The Electronic Intifada",
-          "ts": "Thu, 26 Nov 2026 08:06:04 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Video: Gaza’s children have no hope for the future",
-          "url": "https://electronicintifada.net/content/video-gazas-children-have-no-hope-future/51720",
-          "source": "The Electronic Intifada",
-          "ts": "Wed, 25 Nov 2026 19:18:00 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Meningitis cases surge in Gaza as deteriorating living conditions put children at risk",
           "url": "https://mondoweiss.net/2026/11/meningitis-cases-surge-in-gaza-as-deteriorating-living-conditions-put-children-at-risk/",
           "source": "Mondoweiss",
@@ -944,13 +930,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Livestream: Israel weaponizes winter for quiet genocide",
-          "url": "https://electronicintifada.net/blogs/eli-gerzon/livestream-israel-weaponizes-winter-quiet-genocide",
-          "source": "The Electronic Intifada",
-          "ts": "Wed, 25 Nov 2026 07:16:58 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Trump Team Debates Strikes on Iran’s Leaders as Tehran Threatens War beyond Region - Palestine Chronicle",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGE1Q29YN0tmdUlOck96S1RMRTVpdmtRT20zeEh0b2cwZlcyemRPMGctak1yOTJiX0hpbEF2WldaSmFILUwtS19IemZ3S1E3Z0hoVXhiWllxZXZfUTU0R1pFUTRaYUxMbTdlZDdUcXJzTk4td0tkbFRUcnFJN1dxVG5IVWpTSndwM2EyMmdscUVvUUlaVUNwaFgtb01sM1dKUmt4VnI0TjkxMG9yWTJQVFlIVEp0Vnd4cTF3?oc=5",
           "source": "via Google News",
@@ -962,6 +941,13 @@
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdDFib2VpaGNXVEJiNjN0RTY4OUhqQzA4REdMZG1nYUZvWVI1LVJVcXc1NUNaUUdWekVZenpvTVpqSGlQR2pMMzBVbGJDdUF4TGV3TWF0OW1lNjJHR1dSc1NzbVpYb0ZLck9GZTk4eklqZDhwcFhjZlNjdnp4VmtBX2RXbXFSQUtCSzhYN1FMNUpvN1RiNURpamVsZFFwVlByTzlGWGVpajRmQS01TFJEclpOaWVuNUxfOG1oS05od2xnLTU1eTZEby03QmxfR2h2TEhkbjNEUlQwRjFwcHVuRUllcHBlTS1lLS1hb2JTTUotT2pFd0c4QkZZV2VLejdHczd3dHNaTzNfVGtmVmhfTVFHUDNkR3Brb2FQSXdzMTVGbXBD?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Tue, 24 Nov 2026 04:00:00 GMT",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "What is grief, if not a tenacious love? - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHFndDZDYWFOQ0sxUFlXdmJmcjhrYVBQd2pHWTY1STAyYWhUQktIazJpdWpsdU5yZEl6OE5ramhLc2dUTVpLeEh6aVREb2RjbmpRdjB2eTM0NUNYbFUyQUI1TVRNamk2YW54SW9uQlZ6cTVMTUllQ2JQbFB5X2tuR2xTdw?oc=5",
+          "source": "via Google News",
+          "ts": "Tue, 24 Nov 2026 01:06:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -1031,20 +1017,6 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
