@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T16:04:25.211706Z",
+  "generated_at": "2026-11-26T16:20:25.627652Z",
   "headline": {
-    "title": "Germany: IG Metall union says deal reached with employers",
-    "url": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf"
+    "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
+    "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -37,7 +37,7 @@
           "section": ""
         },
         {
-          "title": "Knifeman told doctor his psychosis drugs weren't working days before attack",
+          "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
           "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
           "source": "BBC News",
           "ts": "Thu, 26 Nov 2026 15:38:38 GMT",
@@ -371,13 +371,6 @@
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
         },
         {
-          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort? - NPR",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2x4VzZ6alBHb2l1allhZEpfZnlzTmVmYi1FcmZJaVB1em1nb2ppa3p1ajVQWFZzbXBtU3k2YVBwdWxKXzFFSUVmS2tPLWwxaS16ZEthSGVWdkRXTFN4b1JPTk9Ld3FfbU4yenl0MGk5ejNvNTdSamFtLTQ0bDBNWm9jS2wxYnpOdUFn?oc=5",
-          "source": "\"\"Jared Kushner\" investigation\" - Google News",
-          "ts": "Tue, 24 Nov 2026 14:24:04 GMT",
-          "section": ""
-        },
-        {
           "title": "Justice Department suit to stop Alaska certifying its Senate result: 24 Nov 2026",
           "url": "https://publictrusttracker.org/case/elx-013-justice-department-suit-to-stop-alaska-certifying-its-senate/",
           "source": "Public Trust Tracker",
@@ -390,6 +383,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Georgia judge blocks own order to turn over US election ballot copies to state board",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/georgia-election-ballots-seized",
+          "source": "US news | The Guardian",
+          "ts": "Thu, 26 Nov 2026 16:08:04 GMT",
+          "section": ""
+        },
+        {
           "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
           "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
           "source": "US news | The Guardian",
@@ -401,13 +401,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/27/california-father-dies-helping-son-mountain-hike",
           "source": "US news | The Guardian",
           "ts": "Thu, 26 Nov 2026 15:00:37 GMT",
-          "section": ""
-        },
-        {
-          "title": "‘These families will be essentially homeless’: Flatbush groups condemn response to building collapse",
-          "url": "https://www.theguardian.com/us-news/2026/nov/26/flatbush-brooklyn-nyc-building-collapse-response-homeless",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 26 Nov 2026 14:00:36 GMT",
           "section": ""
         },
         {
@@ -521,6 +514,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
+          "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-26T16:13:00Z",
+          "section": ""
+        },
+        {
           "title": "Germany: IG Metall union says deal reached with employers",
           "url": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -528,10 +528,24 @@
           "section": ""
         },
         {
-          "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
-          "url": "https://www.aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security?traffic_source=rss",
+          "title": "Why is France roiling?",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/why-is-france-roiling?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 26 Nov 2026 15:45:59 +0000",
+          "ts": "Thu, 26 Nov 2026 15:57:49 +0000",
+          "section": ""
+        },
+        {
+          "title": "Diesel tanker capsizes near Ibiza, killing crew member",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 26 Nov 2026 15:56:39 +0000",
+          "section": ""
+        },
+        {
+          "title": "Two dead after Iranian drone attack on Kuwait",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Thu, 26 Nov 2026 15:55:15 +0000",
           "section": ""
         },
         {
@@ -563,13 +577,6 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
-          "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 26 Nov 2026 15:29:03 +0000",
-          "section": ""
-        },
-        {
           "title": "The Emirates and Israel Threaten to Set the Horn of Africa on Fire",
           "url": "https://www.globalresearch.ca/emirates-israel-threaten-set-horn-africa-fire/5946830",
           "source": "Global Research",
@@ -577,24 +584,10 @@
           "section": "MILITARY INDUSTRIAL COMPLEX"
         },
         {
-          "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Thu, 26 Nov 2026 15:23:25 +0000",
-          "section": ""
-        },
-        {
           "title": "Is authoritarian Vietnam ready to phase out the death penalty?",
           "url": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-26T15:19:00Z",
-          "section": ""
-        },
-        {
-          "title": "Iranian drone attack kills 2 Italians in Kuwait",
-          "url": "https://www.dw.com/en/iranian-drone-attack-kills-2-italians-in-kuwait/a-80064974?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-26T15:11:00Z",
           "section": ""
         },
         {
@@ -724,6 +717,13 @@
           "section": ""
         },
         {
+          "title": "Israel Kills Second Gaza Security Chief in 24 Hours, along with His Family - Palestine Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUFob2ZyVUtqclhpMHJ0bjhSN3AydDBOWnpxOXJ0NzNoQjU5eDB2VjBxMTJwM3NxVHNLVGJWTy1YVzRmaG1MdFN5LTBVQmxodF9SYjk5UHgyTFd3dWQxWkdNQS1rRy15RlBvTVVDOHdqdEVjazlpMDMzZlRNN3hmRE90ZHB6OEc5ZHRPVWZfNXZNcm1vLWEyTl96WUR6V0tuMGRxQWw1VVBUU0w1OUE?oc=5",
+          "source": "via Google News",
+          "ts": "Wed, 25 Nov 2026 09:03:19 GMT",
+          "section": ""
+        },
+        {
           "title": "Program looks to build shipbuilding, defense manufacturing capability in Hawaii",
           "url": "https://www.defenseone.com/business/2026/11/program-looks-build-shipbuilding-defense-manufacturing-capability-hawaii/417440/",
           "source": "Defense One - All Content",
@@ -761,6 +761,13 @@
           "url": "https://www.techdirt.com/2026/11/25/doj-again-admits-to-lying-as-yet-another-trump-revenge-prosecution-starts-to-fall-apart/",
           "source": "Techdirt",
           "ts": "Wed, 25 Nov 2026 22:30:13 +0000",
+          "section": ""
+        },
+        {
+          "title": "What Bitcoin Did",
+          "url": "https://unlimitedhangout.com/what-bitcoin-did-with-danny-knowles/",
+          "source": "Unlimited Hangout",
+          "ts": "Wed, 25 Nov 2026 22:00:00 GMT",
           "section": ""
         },
         {
@@ -874,6 +881,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Congenital birth defects are on the rise in Gaza. Doctors say Israel’s genocide is to blame.",
+          "url": "https://mondoweiss.net/2026/11/congenital-birth-defects-are-on-the-rise-in-gaza-doctors-say-israels-genocide-is-to-blame/",
+          "source": "Mondoweiss",
+          "ts": "Thu, 26 Nov 2026 16:06:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "UN tribunal rules UNRWA sacked Palestinian staff on unproven Israeli claims",
           "url": "https://www.middleeastmonitor.com/20261126-un-tribunal-rules-unrwa-sacked-palestinian-staff-on-unproven-israeli-claims/",
           "source": "Middle East Monitor",
@@ -916,10 +930,10 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "In Gaza’s displacement camps, having access to a toilet is a rare luxury",
-          "url": "https://mondoweiss.net/2026/11/in-gazas-displacement-camps-having-access-to-a-toilet-is-a-rare-luxury/",
-          "source": "Mondoweiss",
-          "ts": "Tue, 24 Nov 2026 19:17:04 +0000",
+          "title": "What is grief, if not a tenacious love? - The Electronic Intifada",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHFndDZDYWFOQ0sxUFlXdmJmcjhrYVBQd2pHWTY1STAyYWhUQktIazJpdWpsdU5yZEl6OE5ramhLc2dUTVpLeEh6aVREb2RjbmpRdjB2eTM0NUNYbFUyQUI1TVRNamk2YW54SW9uQlZ6cTVMTUllQ2JQbFB5X2tuR2xTdw?oc=5",
+          "source": "via Google News",
+          "ts": "Tue, 24 Nov 2026 01:06:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -996,6 +1010,20 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
+        },
+        {
+          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
