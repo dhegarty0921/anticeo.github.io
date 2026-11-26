@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-26T10:18:54.626249Z",
+  "generated_at": "2026-11-26T10:33:17.367921Z",
   "headline": {
-    "title": "Netanyahu tells aides ‘miracle’ needed to prevent Eisenkot from forming government",
-    "url": "https://www.middleeastmonitor.com/20261126-netanyahu-tells-aides-miracle-needed-to-prevent-eisenkot-from-forming-government/"
+    "title": "Iraq begins closing unofficial border crossings with neighboring countries",
+    "url": "https://www.middleeastmonitor.com/20261126-iraq-begins-closing-unofficial-border-crossings-with-neighboring-countries/"
   },
   "sections": [
     {
@@ -23,15 +23,15 @@
           "section": ""
         },
         {
-          "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+          "title": "'Memories of a Good Meal': How food made a difference during WWII",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
           "source": "NPR Topics: News",
           "ts": "Thu, 26 Nov 2026 05:00:00 -0500",
           "section": ""
         },
         {
-          "title": "'Memories of a Good Meal': How food made a difference during WWII",
-          "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+          "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+          "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
           "source": "NPR Topics: News",
           "ts": "Thu, 26 Nov 2026 05:00:00 -0500",
           "section": ""
@@ -62,13 +62,6 @@
           "url": "https://www.unz.com/article/sorry-your-power-plant-is-back-ordered-until-2032/",
           "source": "The Unz Review:",
           "ts": "Thu, 26 Nov 2026 05:00:21 +0000",
-          "section": ""
-        },
-        {
-          "title": "Germany: Funding Cuts Threaten Anti-Discrimination Efforts",
-          "url": "https://www.hrw.org/news/2026/11/26/germany-funding-cuts-threaten-anti-discrimination-efforts",
-          "source": "Human Rights Watch News",
-          "ts": "Thu, 26 Nov 2026 00:00:00 -0500",
           "section": ""
         },
         {
@@ -233,13 +226,6 @@
           "section": ""
         },
         {
-          "title": "Former cop found guilty of murdering TV host ex-boyfriend and his new partner",
-          "url": "https://www.thepinknews.com/2026/11/25/beau-lamarre-condon-murder-trial-jesse-baird-luke-davies/",
-          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
-          "ts": "Wed, 25 Nov 2026 12:36:28 +0000",
-          "section": ""
-        },
-        {
           "title": "Mexico Calling: Discover Your Next Dream Holiday",
           "url": "https://www.thecanary.co/discovery/travel/2026/11/25/mexico-calling-discover-your-next-dream-holiday/",
           "source": "Canary",
@@ -397,6 +383,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Drag Race UK’s Alexis Saint-Pete comes out as trans: ‘Never felt more beautiful’",
+          "url": "https://www.thepinknews.com/2026/11/26/rupauls-drag-race-uk-alexis-saint-pete-trans/",
+          "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
+          "ts": "Thu, 26 Nov 2026 10:18:13 +0000",
+          "section": ""
+        },
+        {
           "title": "Steven Universe star comes out as trans and reveals she is married",
           "url": "https://www.thepinknews.com/2026/11/26/zyri-steven-universe-trans-2026/",
           "source": "PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news",
@@ -542,6 +535,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "New UN Report Investigates Attacks on Aid Workers During Sri Lanka’s Civil War",
+          "url": "https://www.hrw.org/news/2026/11/26/new-un-report-investigates-attacks-on-aid-workers-during-sri-lankas-civil-war",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 26 Nov 2026 05:30:00 -0500",
+          "section": ""
+        },
+        {
+          "title": "Health issues delay trial of Berlin woman accused of spying for Russia",
+          "url": "https://www.dw.com/en/health-issues-delay-trial-of-berlin-woman-accused-of-spying-for-russia/a-80057677?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-26T10:28:00Z",
+          "section": ""
+        },
+        {
           "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
           "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -581,13 +588,6 @@
           "url": "https://www.navalnews.com/naval-news/2026/11/lockheed-martin-weapons-suite-international-class-frigate/",
           "source": "Naval News",
           "ts": "Thu, 26 Nov 2026 09:31:13 +0000",
-          "section": ""
-        },
-        {
-          "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-          "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-26T09:27:00Z",
           "section": ""
         },
         {
@@ -867,24 +867,24 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
-          "title": "Netanyahu tells aides ‘miracle’ needed to prevent Eisenkot from forming government",
-          "url": "https://www.middleeastmonitor.com/20261126-netanyahu-tells-aides-miracle-needed-to-prevent-eisenkot-from-forming-government/",
+          "title": "Iraq begins closing unofficial border crossings with neighboring countries",
+          "url": "https://www.middleeastmonitor.com/20261126-iraq-begins-closing-unofficial-border-crossings-with-neighboring-countries/",
           "source": "Middle East Monitor",
-          "ts": "Thu, 26 Nov 2026 10:13:45 +0000",
+          "ts": "Thu, 26 Nov 2026 10:30:38 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Gaza Mother makes school desks and chairs using cardboard after Israeli occupation prevents entry",
-          "url": "https://www.middleeastmonitor.com/20261126-gaza-mother-makes-school-desks-and-chairs-using-cardboard-after-israeli-occupation-prevents-entry/",
+          "title": "Ukraine’s attack on Benghazi: Naked aggression on Libyan soil",
+          "url": "https://www.middleeastmonitor.com/20261126-ukraines-attack-on-benghazi-naked-aggression-on-libyan-soil/",
           "source": "Middle East Monitor",
-          "ts": "Thu, 26 Nov 2026 09:15:59 +0000",
+          "ts": "Thu, 26 Nov 2026 10:30:09 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "31 killed, 21 injured in fuel tanker fire in Giza, Egypt",
-          "url": "https://www.middleeastmonitor.com/20261126-31-killed-21-injured-in-fuel-tanker-fire-in-giza-egypt/",
+          "title": "Hind Rajab Foundation files criminal complaint against 2 Israeli soldiers in Spain",
+          "url": "https://www.middleeastmonitor.com/20261126-hind-rajab-foundation-files-criminal-complaint-against-2-israeli-soldiers-in-spain/",
           "source": "Middle East Monitor",
-          "ts": "Thu, 26 Nov 2026 09:06:24 +0000",
+          "ts": "Thu, 26 Nov 2026 10:19:57 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -996,20 +996,6 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
