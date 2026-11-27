@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T12:24:55.239652Z",
+  "generated_at": "2026-11-27T12:36:57.761010Z",
   "headline": {
-    "title": "Trump claims revised economic data shows pre-midterms figures were ‘fake’ | First Thing",
-    "url": "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake"
+    "title": "Israel orders closure of Palestinian girls’ school in occupied East Jerusalem",
+    "url": "https://www.middleeastmonitor.com/20261127-israel-orders-closure-of-palestinian-girls-school-in-occupied-east-jerusalem/"
   },
   "sections": [
     {
@@ -65,8 +65,8 @@
           "section": ""
         },
         {
-          "title": "2 teens fell down a SoCal mountain; 14-year-old did not survive",
-          "url": "https://www.latimes.com/california/story/2026-11-27/2-teens-fell-down-socal-mountain-wrightwood-14-year-old-did-not-survive",
+          "title": "LAUSD blocks Google AI, despite tech giant's move to pressure schools to go all in",
+          "url": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
           "source": "California",
           "ts": "Fri, 27 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -320,13 +320,6 @@
           "source": "Public Trust Tracker",
           "ts": "2026-11-25T00:00:00Z",
           "section": "YOU LIVE IN A SHITHOLE COUNTRY"
-        },
-        {
-          "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort? - NPR",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2x4VzZ6alBHb2l1allhZEpfZnlzTmVmYi1FcmZJaVB1em1nb2ppa3p1ajVQWFZzbXBtU3k2YVBwdWxKXzFFSUVmS2tPLWwxaS16ZEthSGVWdkRXTFN4b1JPTk9Ld3FfbU4yenl0MGk5ejNvNTdSamFtLTQ0bDBNWm9jS2wxYnpOdUFn?oc=5",
-          "source": "\"\"Jared Kushner\" investigation\" - Google News",
-          "ts": "Tue, 24 Nov 2026 14:24:04 GMT",
-          "section": ""
         }
       ]
     },
@@ -465,6 +458,13 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "European football violence causes concern with far-right claim in UEFA game",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 12:12:56 +0000",
+          "section": ""
+        },
+        {
           "title": "How East Germany boosted Vietnam's coffee industry",
           "url": "https://www.dw.com/en/how-east-germany-boosted-vietnam-s-coffee-industry/a-80029974?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
@@ -472,24 +472,17 @@
           "section": ""
         },
         {
+          "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
+          "url": "https://www.aljazeera.com/news/2026/11/27/saudi-strike-kills-11-civilians-in-yemens-taiz-houthi-media?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 12:00:22 +0000",
+          "section": ""
+        },
+        {
           "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
           "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
           "ts": "Fri, 27 Nov 2026 11:51:26 +0000",
-          "section": ""
-        },
-        {
-          "title": "Russia’s hybrid war on Europe evolving, but failing: IISS",
-          "url": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 11:44:46 +0000",
-          "section": ""
-        },
-        {
-          "title": "Old wounds reopen as Kyrgyzstan’s Osh embraces a new urban project",
-          "url": "https://www.aljazeera.com/features/2026/11/27/old-wounds-reopen-as-kyrgyzstans-osh-embraces-a-new-urban-project?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 11:35:34 +0000",
           "section": ""
         },
         {
@@ -860,6 +853,13 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israel orders closure of Palestinian girls’ school in occupied East Jerusalem",
+          "url": "https://www.middleeastmonitor.com/20261127-israel-orders-closure-of-palestinian-girls-school-in-occupied-east-jerusalem/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 27 Nov 2026 12:31:00 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Hamas chief says continued killings and siege in Gaza are unacceptable under ceasefire",
           "url": "https://www.middleeastmonitor.com/20261127-hamas-chief-says-continued-killings-and-siege-in-gaza-are-unacceptable-under-ceasefire/",
           "source": "Middle East Monitor",
@@ -871,13 +871,6 @@
           "url": "https://www.middleeastmonitor.com/20261127-trump-voices-support-for-iraqi-premiers-efforts-to-assert-state-authority/",
           "source": "Middle East Monitor",
           "ts": "Fri, 27 Nov 2026 11:11:27 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Iran claims it recovered 2 oil tankers seized by US military",
-          "url": "https://www.middleeastmonitor.com/20261127-iran-claims-it-recovered-2-oil-tankers-seized-by-us-military/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 27 Nov 2026 11:05:28 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
