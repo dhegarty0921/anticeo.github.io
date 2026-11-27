@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T08:47:37.260138Z",
+  "generated_at": "2026-11-27T09:04:27.059736Z",
   "headline": {
-    "title": "Eagles rally to stun Cowboys coming back from 21 points behind",
-    "url": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys"
+    "title": "Germany news: Parliament to vote on €556 billion 2027 budget",
+    "url": "https://www.dw.com/en/germany-news-parliament-to-vote-on-€556-billion-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf"
   },
   "sections": [
     {
@@ -177,10 +177,24 @@
           "section": ""
         },
         {
+          "title": "ICC: Promote, Protect International Justice",
+          "url": "https://www.hrw.org/news/2026/11/26/icc-promote-protect-international-justice",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 26 Nov 2026 03:00:00 -0500",
+          "section": ""
+        },
+        {
           "title": "Trump’s Iran Threats: \"Strategic Uncertainty\" or \"Unstrategic Idiocy\"?, by Kevin Barrett",
           "url": "https://www.unz.com/kbarrett/trumps-iran-threats-strategic-uncertainty-or-unstrategic-idiocy/",
           "source": "The Unz Review:",
           "ts": "Thu, 26 Nov 2026 05:00:29 +0000",
+          "section": ""
+        },
+        {
+          "title": "Here’s how you can prepare for El Niño rain in Boyle Heights and East LA",
+          "url": "https://thelalocal.org/resources/prepare-for-el-nino-boyle-heights-east-la/",
+          "source": "LA Local",
+          "ts": "Thu, 26 Nov 2026 02:15:31 +0000",
           "section": ""
         },
         {
@@ -195,6 +209,13 @@
           "url": "https://www.motherjones.com/politics/2026/11/trump-interior-burgum-national-park-service-overhaul-congress-rush-election/",
           "source": "Mother Jones",
           "ts": "Wed, 25 Nov 2026 19:37:37 +0000",
+          "section": ""
+        },
+        {
+          "title": "Composers around the globe strike a chord through UCLA Library’s Resonate competition",
+          "url": "https://newsroom.ucla.edu/releases/ucla-library-resonate-music-competition-winners-2026",
+          "source": "UCLA",
+          "ts": "Wed, 25 Nov 2026 19:31:00 GMT",
           "section": ""
         },
         {
@@ -479,24 +500,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
-          "title": "New Zealand election results set up tricky talks for conservative incumbent",
-          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 07:55:32 +0000",
+          "title": "Germany news: Parliament to vote on €556 billion 2027 budget",
+          "url": "https://www.dw.com/en/germany-news-parliament-to-vote-on-€556-billion-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-27T08:59:00Z",
           "section": ""
         },
         {
-          "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
-          "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+          "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+          "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 07:53:59 +0000",
+          "ts": "Fri, 27 Nov 2026 08:39:50 +0000",
           "section": ""
         },
         {
-          "title": "Brazilian footballer arrested in drug trafficking investigation",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+          "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+          "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 07:32:12 +0000",
+          "ts": "Fri, 27 Nov 2026 08:37:52 +0000",
+          "section": ""
+        },
+        {
+          "title": "Police bodycam shows rescue of man from burning car in US",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 08:24:59 +0000",
           "section": ""
         },
         {
@@ -547,13 +575,6 @@
           "source": "Global Research",
           "ts": "Fri, 27 Nov 2026 02:51:51 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "At odds over the EU budget, European leaders cut summit short",
-          "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-26T21:47:00Z",
-          "section": ""
         },
         {
           "title": "Genocide, Displacement and Malnutrition Threaten Pregnancies in Gaza",
@@ -640,13 +661,6 @@
           "section": ""
         },
         {
-          "title": "Gaza’s Second Genocide Perpetrators: Dressed in a Suit and Tie - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJlWXROMkJld3hUcE5oZV9nNnhkTEEyZ0VZc0NVMnh4ejFBVmpUdzMwc0Mwa0dsNjl2YUVreEx2R01NeElKbU5KWmp2U0tSdTlFVUZPUF9uOVQxYUpfRnpKSmpiV3JXazdvSVlaMmdQbHdyQkNsSDc4SFFWX3h1a2NxWmZ0cV9PQzAtUWE2VWpWZG05dkE2dmlUQUM?oc=5",
-          "source": "via Google News",
-          "ts": "Thu, 26 Nov 2026 05:13:03 GMT",
-          "section": ""
-        },
-        {
           "title": "Schrödinger’s Russian Army, by Larry C. Johnson",
           "url": "https://www.unz.com/article/schrodingers-russian-army/",
           "source": "The Unz Review:",
@@ -707,13 +721,6 @@
           "url": "https://www.defenseone.com/business/2026/11/defense-business-brief-building-warships-drones-neighborhood-watch-and-more/417441/",
           "source": "Defense One - All Content",
           "ts": "Wed, 25 Nov 2026 10:00:00 -0500",
-          "section": ""
-        },
-        {
-          "title": "Israel Kills Second Gaza Security Chief in 24 Hours, along with His Family - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUFob2ZyVUtqclhpMHJ0bjhSN3AydDBOWnpxOXJ0NzNoQjU5eDB2VjBxMTJwM3NxVHNLVGJWTy1YVzRmaG1MdFN5LTBVQmxodF9SYjk5UHgyTFd3dWQxWkdNQS1rRy15RlBvTVVDOHdqdEVjazlpMDMzZlRNN3hmRE90ZHB6OEc5ZHRPVWZfNXZNcm1vLWEyTl96WUR6V0tuMGRxQWw1VVBUU0w1OUE?oc=5",
-          "source": "via Google News",
-          "ts": "Wed, 25 Nov 2026 09:03:19 GMT",
           "section": ""
         },
         {
@@ -923,20 +930,6 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Trump Team Debates Strikes on Iran’s Leaders as Tehran Threatens War beyond Region - Palestine Chronicle",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGE1Q29YN0tmdUlOck96S1RMRTVpdmtRT20zeEh0b2cwZlcyemRPMGctak1yOTJiX0hpbEF2WldaSmFILUwtS19IemZ3S1E3Z0hoVXhiWllxZXZfUTU0R1pFUTRaYUxMbTdlZDdUcXJzTk4td0tkbFRUcnFJN1dxVG5IVWpTSndwM2EyMmdscUVvUUlaVUNwaFgtb01sM1dKUmt4VnI0TjkxMG9yWTJQVFlIVEp0Vnd4cTF3?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 24 Nov 2026 20:40:00 GMT",
-          "section": ""
-        },
-        {
-          "title": "What is grief, if not a tenacious love? - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHFndDZDYWFOQ0sxUFlXdmJmcjhrYVBQd2pHWTY1STAyYWhUQktIazJpdWpsdU5yZEl6OE5ramhLc2dUTVpLeEh6aVREb2RjbmpRdjB2eTM0NUNYbFUyQUI1TVRNamk2YW54SW9uQlZ6cTVMTUllQ2JQbFB5X2tuR2xTdw?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 24 Nov 2026 01:06:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Editorial | Israel has no justification for another war with Iran - Haaretz",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVHFlVWtjcGxPVFBmNEQwcVBnc1RnTWVaTWlmNGY2eHp3ZUJ4Z3hrUWN2ejBOTmdrd2FRclhPZEl1R3BnMjcyeVBmMEQ2QXM0MTFoZGNiZ1NXVHhVYXNtc3dlRjk5TElITW1IWHhsa3lKRk84ZGE5SzhmVmZOVjZFbEpxaF9nay0zc3ptaHNybjdaNjlJQ1VHOWZxLWt5VXUwS21sNEJDVldkOWVPMFFvNTdCSHowV3lYd2pNaFFMRW9pUkE3djZMVnpSMkJPTXRKVVIzTW45VG5xaE50TnNEVDM3c2tlX2J0c2NidE12aEJ1OUxNOG9tTERtbmh2MFNkLVE?oc=5",
           "source": "Gideon Levy (Haaretz)",
@@ -1003,20 +996,6 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
-        },
-        {
-          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
