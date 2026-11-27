@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:20:03.947443Z",
+  "generated_at": "2026-11-27T16:32:48.788882Z",
   "headline": {
     "title": "This Supreme Court Case Could Open the Floodgates to Anti-Trans Lawsuits",
     "url": "https://truthout.org/articles/this-supreme-court-case-could-open-the-floodgates-to-anti-trans-lawsuits/"
@@ -142,8 +142,8 @@
           "section": ""
         },
         {
-          "title": "Improv for lawyers: L.A. acting class offers tips on influencing jurors, courtroom banter",
-          "url": "https://www.latimes.com/california/story/2026-11-27/la-acting-class-lawyer-improv",
+          "title": "LAUSD blocks Google AI, despite tech giant's move to pressure schools to go all in",
+          "url": "https://www.latimes.com/california/story/2026-11-27/lausd-blocks-google-ai-search",
           "source": "California",
           "ts": "Fri, 27 Nov 2026 11:00:00 GMT",
           "section": ""
@@ -202,6 +202,13 @@
           "url": "https://www.motherjones.com/environment/2026/11/cranberries-cranberry-bogs-solar-energy-agrivoltaics-farming/",
           "source": "Mother Jones",
           "ts": "Thu, 26 Nov 2026 13:00:00 +0000",
+          "section": ""
+        },
+        {
+          "title": "ICC: Promote, Protect International Justice",
+          "url": "https://www.hrw.org/news/2026/11/26/icc-promote-protect-international-justice",
+          "source": "Human Rights Watch News",
+          "ts": "Thu, 26 Nov 2026 03:00:00 -0500",
           "section": ""
         },
         {
@@ -425,6 +432,13 @@
           "section": ""
         },
         {
+          "title": "Ben & Jerry's sweet talk on abortion has a bitter aftertaste - Christian Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0pyWFRRUm5nZTUwaWJ3SUpCQVlkY01qWlgxVUZHSWlUUWZiQzhHNTYxTTlSWUdaZUJQNEl2aDdFRElkMFBlVndFUWxhZW5zZmRhMEdpN3ZZVFY5NS1faXhEdkd2ZVdMaUo5U1hhX0NlOWpRdWV6LXBtNnUxaG84Z0RIOFh0b1Vvc204aDVzNkpzUl9kaHpWdm5BcnRHbnc4?oc=5",
+          "source": "Ben Cohen (Ben & Jerry's)",
+          "ts": "Fri, 27 Nov 2026 08:21:10 GMT",
+          "section": ""
+        },
+        {
           "title": "‘We blew it’: Netflix’s ‘Primetime Preacher$’ delves into Jim Bakker’s rise and ruin",
           "url": "https://religionnews.com/2026/11/27/we-blew-it-netflixs-primetime-preachers-delves-into-jim-bakkers-rise-and-ruin/",
           "source": "RNS",
@@ -479,10 +493,24 @@
           "section": ""
         },
         {
+          "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+          "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 16:13:07 +0000",
+          "section": ""
+        },
+        {
           "title": "Serbia's Student List runs chemistry professor Radomir Saicic for president",
           "url": "https://www.dw.com/en/serbia-s-student-list-runs-chemistry-professor-radomir-saicic-for-president/a-80078700?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-27T16:09:00Z",
+          "section": ""
+        },
+        {
+          "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 16:01:44 +0000",
           "section": ""
         },
         {
@@ -519,20 +547,6 @@
           "source": "Global Research",
           "ts": "Fri, 27 Nov 2026 15:16:33 +0000",
           "section": "MILITARY INDUSTRIAL COMPLEX"
-        },
-        {
-          "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
-          "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 15:15:36 +0000",
-          "section": ""
-        },
-        {
-          "title": "‘Playing with fire’: Republicans incensed after Trump gets Huang reinstated",
-          "url": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 15:12:09 +0000",
-          "section": ""
         },
         {
           "title": "Photos Show Apparent Stern Block of Japan’s Second ASEV",
@@ -909,24 +923,10 @@
           "section": ""
         },
         {
-          "title": "Israeli Army Investigating Use of Palestinians as Human Shields in the West Bank - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdDFib2VpaGNXVEJiNjN0RTY4OUhqQzA4REdMZG1nYUZvWVI1LVJVcXc1NUNaUUdWekVZenpvTVpqSGlQR2pMMzBVbGJDdUF4TGV3TWF0OW1lNjJHR1dSc1NzbVpYb0ZLck9GZTk4eklqZDhwcFhjZlNjdnp4VmtBX2RXbXFSQUtCSzhYN1FMNUpvN1RiNURpamVsZFFwVlByTzlGWGVpajRmQS01TFJEclpOaWVuNUxfOG1oS05od2xnLTU1eTZEby03QmxfR2h2TEhkbjNEUlQwRjFwcHVuRUllcHBlTS1lLS1hb2JTTUotT2pFd0c4QkZZV2VLejdHczd3dHNaTzNfVGtmVmhfTVFHUDNkR3Brb2FQSXdzMTVGbXBD?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Tue, 24 Nov 2026 04:00:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "What is grief, if not a tenacious love? - The Electronic Intifada",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHFndDZDYWFOQ0sxUFlXdmJmcjhrYVBQd2pHWTY1STAyYWhUQktIazJpdWpsdU5yZEl6OE5ramhLc2dUTVpLeEh6aVREb2RjbmpRdjB2eTM0NUNYbFUyQUI1TVRNamk2YW54SW9uQlZ6cTVMTUllQ2JQbFB5X2tuR2xTdw?oc=5",
           "source": "via Google News",
           "ts": "Tue, 24 Nov 2026 01:06:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Editorial | Israel has no justification for another war with Iran - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVHFlVWtjcGxPVFBmNEQwcVBnc1RnTWVaTWlmNGY2eHp3ZUJ4Z3hrUWN2ejBOTmdrd2FRclhPZEl1R3BnMjcyeVBmMEQ2QXM0MTFoZGNiZ1NXVHhVYXNtc3dlRjk5TElITW1IWHhsa3lKRk84ZGE5SzhmVmZOVjZFbEpxaF9nay0zc3ptaHNybjdaNjlJQ1VHOWZxLWt5VXUwS21sNEJDVldkOWVPMFFvNTdCSHowV3lYd2pNaFFMRW9pUkE3djZMVnpSMkJPTXRKVVIzTW45VG5xaE50TnNEVDM3c2tlX2J0c2NidE12aEJ1OUxNOG9tTERtbmh2MFNkLVE?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Mon, 23 Nov 2026 22:44:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         }
       ]
@@ -996,13 +996,6 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
-        },
-        {
-          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
-          "source": "National Immigration Project",
-          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
-          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
