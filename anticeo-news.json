@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-27T13:47:41.411839Z",
+  "generated_at": "2026-11-27T14:04:27.430385Z",
   "headline": {
-    "title": "The Gambia election: Can Barrow secure a third term?",
-    "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-rdf"
+    "title": "African American-owned businesses in Los Angeles: 10 stores to shop this holiday season",
+    "url": "https://thelalocal.org/neighborhoods/black-owned-los-angeles-businesses-holiday-shopping/"
   },
   "sections": [
     {
       "title": "CHUDS VS SHITLIBS",
       "items": [
+        {
+          "title": "African American-owned businesses in Los Angeles: 10 stores to shop this holiday season",
+          "url": "https://thelalocal.org/neighborhoods/black-owned-los-angeles-businesses-holiday-shopping/",
+          "source": "LA Local",
+          "ts": "Fri, 27 Nov 2026 14:01:00 +0000",
+          "section": ""
+        },
         {
           "title": "Don't Punish Me for Saying Trans Surgery Was Mistake",
           "url": "https://www.realclearpolitics.com/health-care/links/dont-punish-me-for-saying-trans-surgery-was-mistake-2026-11-27",
@@ -163,24 +170,10 @@
           "section": ""
         },
         {
-          "title": "Vinyl culture is thriving in Long Beach. These record shop owners explain why and how to be a crate-digger",
-          "url": "https://thelalocal.org/art-and-culture/long-beach-vinyl-shops/",
-          "source": "LA Local",
-          "ts": "Thu, 26 Nov 2026 14:01:00 +0000",
-          "section": ""
-        },
-        {
           "title": "Cranberries With a Side of Solar",
           "url": "https://www.motherjones.com/environment/2026/11/cranberries-cranberry-bogs-solar-energy-agrivoltaics-farming/",
           "source": "Mother Jones",
           "ts": "Thu, 26 Nov 2026 13:00:00 +0000",
-          "section": ""
-        },
-        {
-          "title": "ICC: Promote, Protect International Justice",
-          "url": "https://www.hrw.org/news/2026/11/26/icc-promote-protect-international-justice",
-          "source": "Human Rights Watch News",
-          "ts": "Thu, 26 Nov 2026 03:00:00 -0500",
           "section": ""
         },
         {
@@ -287,13 +280,6 @@
           "source": "blog",
           "ts": "Mon, 23 Nov 2026 21:29:15 GMT",
           "section": ""
-        },
-        {
-          "title": "After a Midterm Feat, the Left Now Faces a Staggering Test",
-          "url": "https://inthesetimes.com/article/midterms-left-democrats-dsa-sanders-aoc-democratic-socialism",
-          "source": "In These Times",
-          "ts": "Mon, 23 Nov 2026 08:00:00 -0600",
-          "section": ""
         }
       ]
     },
@@ -334,6 +320,13 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
+          "url": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 27 Nov 2026 13:41:23 GMT",
+          "section": ""
+        },
+        {
           "title": "Bigfoot enthusiasts hope government’s US sightings files are ‘just the beginning’ of proving the creature real",
           "url": "https://www.theguardian.com/us-news/2026/nov/27/bigfoot-enthusiasts-sightings",
           "source": "US news | The Guardian",
@@ -341,7 +334,7 @@
           "section": ""
         },
         {
-          "title": "How Is It Possible for Coma Patients to Be Conscious?",
+          "title": "What We Got Wrong About Comas",
           "url": "https://www.theatlantic.com/science/2026/11/coma-consciousness/689574/?utm_source=feed",
           "source": "The Atlantic",
           "ts": "2026-11-27T08:00:00-05:00",
@@ -404,13 +397,6 @@
           "section": ""
         },
         {
-          "title": "King tides batter US coasts as storms threaten Thanksgiving celebrations",
-          "url": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
-          "source": "US news | The Guardian",
-          "ts": "Fri, 27 Nov 2026 10:50:48 GMT",
-          "section": ""
-        },
-        {
           "title": "‘We blew it’: Netflix’s ‘Primetime Preacher$’ delves into Jim Bakker’s rise and ruin",
           "url": "https://religionnews.com/2026/11/27/we-blew-it-netflixs-primetime-preachers-delves-into-jim-bakkers-rise-and-ruin/",
           "source": "RNS",
@@ -465,10 +451,31 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "German lawmakers approve debt-laden 2027 budget",
+          "url": "https://www.dw.com/en/german-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
+          "source": "Deutsche Welle",
+          "ts": "2026-11-27T13:54:00Z",
+          "section": ""
+        },
+        {
+          "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
+          "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 13:32:55 +0000",
+          "section": ""
+        },
+        {
           "title": "The Gambia election: Can Barrow secure a third term?",
           "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-27T13:31:00Z",
+          "section": ""
+        },
+        {
+          "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+          "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 13:28:55 +0000",
           "section": ""
         },
         {
@@ -479,31 +486,10 @@
           "section": ""
         },
         {
-          "title": "Duterte's ICC trial: What is at stake for the Philippines?",
-          "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-all-1573-rdf",
-          "source": "Deutsche Welle",
-          "ts": "2026-11-27T13:23:00Z",
-          "section": ""
-        },
-        {
-          "title": "Sentence served, still detained: Palestinian families waiting for reunions",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+          "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
+          "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 13:14:52 +0000",
-          "section": ""
-        },
-        {
-          "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
-          "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 13:06:54 +0000",
-          "section": ""
-        },
-        {
-          "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-          "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 12:48:44 +0000",
+          "ts": "Fri, 27 Nov 2026 13:16:28 +0000",
           "section": ""
         },
         {
@@ -860,6 +846,20 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Israeli parliament speaker accuses Netanyahu of stalling to force new elections",
+          "url": "https://www.middleeastmonitor.com/20261127-israeli-parliament-speaker-accuses-netanyahu-of-stalling-to-force-new-elections/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 27 Nov 2026 13:54:55 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Pro-Palestinian protesters block Amazon warehouse in Berlin over Israel ties",
+          "url": "https://www.middleeastmonitor.com/20261127-pro-palestinian-protesters-block-amazon-warehouse-in-berlin-over-israel-ties/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 27 Nov 2026 13:47:56 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Hamas says Katz’s displacement threats undermine Gaza ceasefire, criticises Board of Peace’s silence",
           "url": "https://www.middleeastmonitor.com/20261127-hamas-says-katzs-displacement-threats-undermine-gaza-ceasefire-criticises-board-of-peaces-silence/",
           "source": "Middle East Monitor",
@@ -867,17 +867,24 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Iraq closes border crossing with Iran in Kurdistan Region on Baghdad’s orders",
-          "url": "https://www.middleeastmonitor.com/20261127-iraq-closes-border-crossing-with-iran-in-kurdistan-region-on-baghdads-orders/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 27 Nov 2026 13:08:03 +0000",
+          "title": "Congenital birth defects are on the rise in Gaza. Doctors say Israel’s genocide is to blame.",
+          "url": "https://mondoweiss.net/2026/11/congenital-birth-defects-are-on-the-rise-in-gaza-doctors-say-israels-genocide-is-to-blame/",
+          "source": "Mondoweiss",
+          "ts": "Thu, 26 Nov 2026 16:06:54 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Palestinian official denies secret contacts with Eisenkot’s camp",
-          "url": "https://www.middleeastmonitor.com/20261127-palestinian-official-denies-secret-contacts-with-eisenkots-camp/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 27 Nov 2026 12:53:16 +0000",
+          "title": "Meningitis cases surge in Gaza as deteriorating living conditions put children at risk",
+          "url": "https://mondoweiss.net/2026/11/meningitis-cases-surge-in-gaza-as-deteriorating-living-conditions-put-children-at-risk/",
+          "source": "Mondoweiss",
+          "ts": "Wed, 25 Nov 2026 19:08:17 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "How Israel became America’s arms dealer",
+          "url": "https://mondoweiss.net/2026/11/how-israel-became-americas-arms-dealer/",
+          "source": "Mondoweiss",
+          "ts": "Wed, 25 Nov 2026 19:01:15 +0000",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -899,13 +906,6 @@
           "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdDFib2VpaGNXVEJiNjN0RTY4OUhqQzA4REdMZG1nYUZvWVI1LVJVcXc1NUNaUUdWekVZenpvTVpqSGlQR2pMMzBVbGJDdUF4TGV3TWF0OW1lNjJHR1dSc1NzbVpYb0ZLck9GZTk4eklqZDhwcFhjZlNjdnp4VmtBX2RXbXFSQUtCSzhYN1FMNUpvN1RiNURpamVsZFFwVlByTzlGWGVpajRmQS01TFJEclpOaWVuNUxfOG1oS05od2xnLTU1eTZEby03QmxfR2h2TEhkbjNEUlQwRjFwcHVuRUllcHBlTS1lLS1hb2JTTUotT2pFd0c4QkZZV2VLejdHczd3dHNaTzNfVGtmVmhfTVFHUDNkR3Brb2FQSXdzMTVGbXBD?oc=5",
           "source": "Gideon Levy (Haaretz)",
           "ts": "Tue, 24 Nov 2026 04:00:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "What is grief, if not a tenacious love? - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHFndDZDYWFOQ0sxUFlXdmJmcjhrYVBQd2pHWTY1STAyYWhUQktIazJpdWpsdU5yZEl6OE5ramhLc2dUTVpLeEh6aVREb2RjbmpRdjB2eTM0NUNYbFUyQUI1TVRNamk2YW54SW9uQlZ6cTVMTUllQ2JQbFB5X2tuR2xTdw?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 24 Nov 2026 01:06:00 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
