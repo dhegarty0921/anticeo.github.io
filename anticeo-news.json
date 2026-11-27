@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T08:06:24.914467Z",
+  "generated_at": "2026-11-27T08:22:43.728607Z",
   "headline": {
-    "title": "Turki Al-Sheikh pledges 30 million EGP to support families of al-Warraq fire victims in Egypt",
-    "url": "https://www.middleeastmonitor.com/20261127-turki-al-sheikh-pledges-30-million-egp-to-support-families-of-al-warraq-fire-victims-in-egypt/"
+    "title": "Oil prices rise after tankers hit mines in Strait of Hormuz",
+    "url": "https://www.middleeastmonitor.com/20261127-oil-prices-rise-after-tankers-hit-mines-in-strait-of-hormuz/"
   },
   "sections": [
     {
@@ -177,13 +177,6 @@
           "section": ""
         },
         {
-          "title": "ICC: Promote, Protect International Justice",
-          "url": "https://www.hrw.org/news/2026/11/26/icc-promote-protect-international-justice",
-          "source": "Human Rights Watch News",
-          "ts": "Thu, 26 Nov 2026 03:00:00 -0500",
-          "section": ""
-        },
-        {
           "title": "Trump’s Iran Threats: \"Strategic Uncertainty\" or \"Unstrategic Idiocy\"?, by Kevin Barrett",
           "url": "https://www.unz.com/kbarrett/trumps-iran-threats-strategic-uncertainty-or-unstrategic-idiocy/",
           "source": "The Unz Review:",
@@ -202,13 +195,6 @@
           "url": "https://www.motherjones.com/politics/2026/11/trump-interior-burgum-national-park-service-overhaul-congress-rush-election/",
           "source": "Mother Jones",
           "ts": "Wed, 25 Nov 2026 19:37:37 +0000",
-          "section": ""
-        },
-        {
-          "title": "Composers around the globe strike a chord through UCLA Library’s Resonate competition",
-          "url": "https://newsroom.ucla.edu/releases/ucla-library-resonate-music-competition-winners-2026",
-          "source": "UCLA",
-          "ts": "Wed, 25 Nov 2026 19:31:00 GMT",
           "section": ""
         },
         {
@@ -362,6 +348,20 @@
       "title": "CULTURE WAR",
       "items": [
         {
+          "title": "Heavy rain, wind and flooding hit much of US on Thanksgiving",
+          "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+          "source": "US news | The Guardian",
+          "ts": "Fri, 27 Nov 2026 08:10:27 GMT",
+          "section": ""
+        },
+        {
+          "title": "‘We blew it’: Netflix’s ‘Primetime Preacher$’ delves into Jim Bakker’s rise and ruin",
+          "url": "https://religionnews.com/2026/11/27/we-blew-it-netflixs-primetime-preachers-delves-into-jim-bakkers-rise-and-ruin/",
+          "source": "RNS",
+          "ts": "Fri, 27 Nov 2026 08:05:34 +0000",
+          "section": ""
+        },
+        {
           "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
           "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
           "source": "US news | The Guardian",
@@ -373,13 +373,6 @@
           "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
           "source": "US news | The Guardian",
           "ts": "Thu, 26 Nov 2026 19:41:37 GMT",
-          "section": ""
-        },
-        {
-          "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
-          "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
-          "source": "US news | The Guardian",
-          "ts": "Thu, 26 Nov 2026 19:16:35 GMT",
           "section": ""
         },
         {
@@ -460,13 +453,6 @@
           "section": ""
         },
         {
-          "title": "Writers unhappy with PEN America over Gaza and other issues seek to form a new PEN chapter",
-          "url": "https://religionnews.com/2026/11/25/writers-unhappy-with-pen-america-over-gaza-and-other-issues-seek-to-form-a-new-pen-chapter/",
-          "source": "RNS",
-          "ts": "Wed, 25 Nov 2026 18:07:30 +0000",
-          "section": ""
-        },
-        {
           "title": "Review: ‘The Chosen’ Season 6",
           "url": "https://www.christianitytoday.com/2026/11/review-the-chosen-season-6/",
           "source": "Christianity Today",
@@ -493,6 +479,20 @@
       "title": "MILITARY INDUSTRIAL COMPLEX",
       "items": [
         {
+          "title": "New Zealand election results set up tricky talks for conservative incumbent",
+          "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 07:55:32 +0000",
+          "section": ""
+        },
+        {
+          "title": "‘Borrowing to make ends meet’: The rising cost of living in Europe",
+          "url": "https://www.aljazeera.com/news/2026/11/27/borrowing-to-make-ends-meet-the-rising-cost-of-living-in-europe?traffic_source=rss",
+          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+          "ts": "Fri, 27 Nov 2026 07:53:59 +0000",
+          "section": ""
+        },
+        {
           "title": "Brazilian footballer arrested in drug trafficking investigation",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
           "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
@@ -500,24 +500,10 @@
           "section": ""
         },
         {
-          "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
-          "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 07:24:45 +0000",
-          "section": ""
-        },
-        {
           "title": "India's Modi government calls special sitting of parliament",
           "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-rdf",
           "source": "Deutsche Welle",
           "ts": "2026-11-27T07:23:00Z",
-          "section": ""
-        },
-        {
-          "title": "Can the Mecca pact turn its collective defence promise into real support?",
-          "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
-          "source": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
-          "ts": "Fri, 27 Nov 2026 07:16:30 +0000",
           "section": ""
         },
         {
@@ -888,6 +874,20 @@
       "title": "SETTLER COLONIAL STATE FALSE FLAG LIES",
       "items": [
         {
+          "title": "Oil prices rise after tankers hit mines in Strait of Hormuz",
+          "url": "https://www.middleeastmonitor.com/20261127-oil-prices-rise-after-tankers-hit-mines-in-strait-of-hormuz/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 27 Nov 2026 08:15:45 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Abbas makes United Arab List support for Eisenkot government conditional on demands being met",
+          "url": "https://www.middleeastmonitor.com/20261127-abbas-makes-united-arab-list-support-for-eisenkot-government-conditional-on-demands-being-met/",
+          "source": "Middle East Monitor",
+          "ts": "Fri, 27 Nov 2026 08:10:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
           "title": "Turki Al-Sheikh pledges 30 million EGP to support families of al-Warraq fire victims in Egypt",
           "url": "https://www.middleeastmonitor.com/20261127-turki-al-sheikh-pledges-30-million-egp-to-support-families-of-al-warraq-fire-victims-in-egypt/",
           "source": "Middle East Monitor",
@@ -895,24 +895,17 @@
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
-          "title": "Turkish fans clash with Georgian security forces after Palestinian flag is raised",
-          "url": "https://www.middleeastmonitor.com/20261127-turkish-fans-clash-with-georgian-security-forces-after-palestinian-flag-is-raised/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 27 Nov 2026 07:57:43 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "Israel: Haredi protesters block road to Ben Gurion Airport to oppose military conscription",
-          "url": "https://www.middleeastmonitor.com/20261127-israel-haredi-protesters-block-road-to-ben-gurion-airport-to-oppose-military-conscription/",
-          "source": "Middle East Monitor",
-          "ts": "Fri, 27 Nov 2026 07:24:42 +0000",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
           "title": "Congenital birth defects are on the rise in Gaza. Doctors say Israel’s genocide is to blame.",
           "url": "https://mondoweiss.net/2026/11/congenital-birth-defects-are-on-the-rise-in-gaza-doctors-say-israels-genocide-is-to-blame/",
           "source": "Mondoweiss",
           "ts": "Thu, 26 Nov 2026 16:06:54 +0000",
+          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
+        },
+        {
+          "title": "Black Friday: Boycott Home Depot Los Angeles - CODEPINK - Women for Peace",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1oZlVRRHM5eFh4aW5ET003aF9PaGtlUzlidjZmWDZzZ205TG5xYjZqSFhoeGhSV0dHWUdCLTE1QXBQWUlHTFE?oc=5",
+          "source": "CODEPINK",
+          "ts": "Thu, 26 Nov 2026 13:28:56 GMT",
           "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
@@ -942,20 +935,6 @@
           "source": "via Google News",
           "ts": "Tue, 24 Nov 2026 20:40:00 GMT",
           "section": ""
-        },
-        {
-          "title": "Israeli Army Investigating Use of Palestinians as Human Shields in the West Bank - Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdDFib2VpaGNXVEJiNjN0RTY4OUhqQzA4REdMZG1nYUZvWVI1LVJVcXc1NUNaUUdWekVZenpvTVpqSGlQR2pMMzBVbGJDdUF4TGV3TWF0OW1lNjJHR1dSc1NzbVpYb0ZLck9GZTk4eklqZDhwcFhjZlNjdnp4VmtBX2RXbXFSQUtCSzhYN1FMNUpvN1RiNURpamVsZFFwVlByTzlGWGVpajRmQS01TFJEclpOaWVuNUxfOG1oS05od2xnLTU1eTZEby03QmxfR2h2TEhkbjNEUlQwRjFwcHVuRUllcHBlTS1lLS1hb2JTTUotT2pFd0c4QkZZV2VLejdHczd3dHNaTzNfVGtmVmhfTVFHUDNkR3Brb2FQSXdzMTVGbXBD?oc=5",
-          "source": "Gideon Levy (Haaretz)",
-          "ts": "Tue, 24 Nov 2026 04:00:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
-        },
-        {
-          "title": "What is grief, if not a tenacious love? - The Electronic Intifada",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHFndDZDYWFOQ0sxUFlXdmJmcjhrYVBQd2pHWTY1STAyYWhUQktIazJpdWpsdU5yZEl6OE5ramhLc2dUTVpLeEh6aVREb2RjbmpRdjB2eTM0NUNYbFUyQUI1TVRNamk2YW54SW9uQlZ6cTVMTUllQ2JQbFB5X2tuR2xTdw?oc=5",
-          "source": "via Google News",
-          "ts": "Tue, 24 Nov 2026 01:06:00 GMT",
-          "section": "SETTLER COLONIAL STATE FALSE FLAG LIES"
         },
         {
           "title": "Editorial | Israel has no justification for another war with Iran - Haaretz",
@@ -1024,6 +1003,20 @@
           "source": "The Appeal",
           "ts": "Mon, 23 Nov 2026 21:44:42 +0000",
           "section": ""
+        },
+        {
+          "title": "National Immigration Project and End SIJS Backlog Coalition Condemn USCIS Policies That Will Deny Protection to Children Who Survived Parental Abuse, Abandonment, and Neglect - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmRYVHFQZ3NORzhyQ3lId09GLUQ0eWkyTFhQLXFlTmZuWk5VOE9XZk8xcTJQY0JkTTlmZlhiWGxMc0VpQVJLZmhYNHQ1bGhqVXNiWS1vUTFUTDlFYzMybXBrQ2c2RkVnT3VrRlNpcFhZbUN5UFAxTEJfd3NHUHZmZXVZNG4wczkzSnY1bTJITl83UUhuVkJOWHdvUkstTTQ4d2VWTFdaUFkyQTYtdmkwSVh3?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 16:29:56 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
+        },
+        {
+          "title": "Renteria-Gonzalez et al. v. GEO Group et al. - National Immigration Project",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVS1YeHk1dFZxbWMtY05jWmxaRWJrYXN3VUVpcTh5eERXQkFNY2lRR1EzM3d4SXJlVnRqX2J2Uzg3SWc5bVFsNzNtZGhEamk0ajdlOEdFMng3RExTTWpGNWdyLXA1X0FoLU5QZldSNnlPRlNkNXo5WkdZSU9xMUJXbDBR?oc=5",
+          "source": "National Immigration Project",
+          "ts": "Mon, 23 Nov 2026 14:55:39 GMT",
+          "section": "ICE IS A DRESS REHEARSAL FOR STATE REPRESSION"
         }
       ]
     }
